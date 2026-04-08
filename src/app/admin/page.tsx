@@ -47,6 +47,7 @@ export default function AdminPage() {
   const [filterTier, setFilterTier] = useState<string>("all");
   const [filterStatus, setFilterStatus] = useState<string>("all");
   const [needsSetup, setNeedsSetup] = useState(false);
+  const [statsData, setStats] = useState({ total: 0, pending: 0, approved: 0, generating: 0, complete: 0 });
 
   // Load art styles
   useEffect(() => {
@@ -64,12 +65,11 @@ export default function AdminPage() {
   async function loadBooks() {
     setLoading(true);
     try {
-      const res = await fetch("/api/admin/illustrations");
+      const res = await fetch(`/api/admin/illustrations?status=${filterStatus}&tier=${filterTier}`);
       const data = await res.json();
-      if (data.needsSetup) {
-        setNeedsSetup(true);
-      } else {
-        setBooks(data.books || []);
+      setBooks(data.books || []);
+      if (data.stats) {
+        setStats(data.stats);
       }
     } catch {
       // API might not be set up yet
@@ -77,13 +77,26 @@ export default function AdminPage() {
     setLoading(false);
   }
 
-  async function setupTable() {
-    await fetch("/api/admin/illustrations", {
+  async function seedBooks() {
+    setLoading(true);
+    const res = await fetch("/api/admin/illustrations", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ action: "setup" }),
+      body: JSON.stringify({ action: "seed" }),
     });
-    setNeedsSetup(false);
+    const data = await res.json();
+    alert(`Seeded ${data.seeded} books (${data.total} total)`);
+    loadBooks();
+  }
+
+  async function approveAllFiltered() {
+    const res = await fetch("/api/admin/illustrations", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ action: "approve_all_filtered", tier: filterTier === "all" ? null : filterTier }),
+    });
+    const data = await res.json();
+    alert(`Approved ${data.approved} books`);
     loadBooks();
   }
 
@@ -114,21 +127,13 @@ export default function AdminPage() {
     loadBooks();
   }
 
-  // Filter books
-  const filteredBooks = books.filter((b) => {
-    if (filterTier !== "all" && b.age_tier !== filterTier) return false;
-    if (filterStatus !== "all" && b.approval_status !== filterStatus) return false;
-    return true;
-  });
+  // Reload when filters change
+  useEffect(() => {
+    if (!loading) loadBooks();
+  }, [filterTier, filterStatus]);
 
-  // Stats
-  const stats = {
-    total: books.length,
-    pending: books.filter((b) => b.approval_status === "pending").length,
-    approved: books.filter((b) => b.approval_status === "approved").length,
-    generating: books.filter((b) => b.approval_status === "generating").length,
-    complete: books.filter((b) => b.approval_status === "complete").length,
-  };
+  const filteredBooks = books;
+  const stats = statsData;
 
   return (
     <div className="min-h-screen bg-stone-50">
@@ -146,20 +151,7 @@ export default function AdminPage() {
           </div>
         </div>
 
-        {needsSetup ? (
-          <div className="bg-white rounded-2xl border border-stone-200 p-8 text-center">
-            <h2 className="text-xl font-bold mb-4">Setup Required</h2>
-            <p className="text-stone-600 mb-6">
-              The illustration tracking table needs to be created in Supabase.
-            </p>
-            <button
-              onClick={setupTable}
-              className="bg-brand-500 text-white px-6 py-3 rounded-xl font-semibold hover:bg-brand-600"
-            >
-              Create Table
-            </button>
-          </div>
-        ) : (
+        {needsSetup ? null : (
           <>
             {/* Stats cards */}
             <div className="grid grid-cols-2 sm:grid-cols-5 gap-4 mb-8">
@@ -200,8 +192,24 @@ export default function AdminPage() {
                 <option value="generating">Generating</option>
                 <option value="complete">Complete</option>
               </select>
-              <div className="text-sm text-stone-500 self-center ml-auto">
-                Showing {filteredBooks.length} of {books.length} books
+              <div className="flex items-center gap-2 ml-auto">
+                <button
+                  onClick={seedBooks}
+                  className="bg-brand-500 text-white text-xs px-4 py-2 rounded-lg hover:bg-brand-600 font-semibold"
+                >
+                  Seed Books
+                </button>
+                {stats.pending > 0 && (
+                  <button
+                    onClick={approveAllFiltered}
+                    className="bg-green-500 text-white text-xs px-4 py-2 rounded-lg hover:bg-green-600 font-semibold"
+                  >
+                    Approve All {filterTier !== "all" ? AGE_TIER_LABELS[filterTier as AgeTier] : ""} ({stats.pending} pending)
+                  </button>
+                )}
+                <span className="text-sm text-stone-500">
+                  {filteredBooks.length} books
+                </span>
               </div>
             </div>
 
