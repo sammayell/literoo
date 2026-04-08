@@ -69,12 +69,26 @@ export async function POST(request: Request) {
   const entries = loadAdmin();
 
   if (body.action === "seed") {
-    // Seed from book JSON files in the data directory
-    const bookFiles = fs.readdirSync(DATA_DIR).filter((f) => f.endsWith(".json") && f !== "illustration-admin.json");
+    // Seed from book JSON files in batches of 50
+    const batchSize = body.batchSize || 50;
+    const bookFiles = fs.readdirSync(DATA_DIR)
+      .filter((f) => f.endsWith(".json") && f !== "illustration-admin.json")
+      .sort();
     const existingIds = new Set(entries.map((e) => e.book_id));
+
+    // Find files that haven't been seeded yet
+    const unseeded = bookFiles.filter((f) => {
+      try {
+        const book = JSON.parse(fs.readFileSync(path.join(DATA_DIR, f), "utf-8"));
+        return !existingIds.has(book.id);
+      } catch { return false; }
+    });
+
+    // Only process one batch
+    const batch = unseeded.slice(0, batchSize);
     let seeded = 0;
 
-    // Load art styles for auto-assignment
+    // Load art styles once
     let artStyles: Record<string, Array<{ id: string; name: string; best_for: string[] }>> = {};
     try {
       const stylesPath = path.join(process.cwd(), "public", "art-styles.json");
@@ -84,12 +98,11 @@ export async function POST(request: Request) {
       }
     } catch {}
 
-    for (const file of bookFiles) {
+    for (const file of batch) {
       try {
         const book = JSON.parse(fs.readFileSync(path.join(DATA_DIR, file), "utf-8"));
         if (existingIds.has(book.id)) continue;
 
-        // Count illustrations in the book
         let illustrationCount = 0;
         for (const ch of book.chapters || []) {
           if (ch.pages) {
@@ -99,10 +112,7 @@ export async function POST(request: Request) {
           }
         }
 
-        // Extract character names from text
         const characters = extractCharacters(book);
-
-        // Auto-assign art style based on genre
         const primaryGenre = book.genre?.[0] || "adventure";
         const genreStyles = artStyles[primaryGenre] || [];
         const matchingStyle = genreStyles.find((s) =>
@@ -120,7 +130,7 @@ export async function POST(request: Request) {
           style_ref_url: null,
           character_ref_urls: [],
           approval_status: "pending",
-          illustration_count: illustrationCount + 1, // +1 for cover
+          illustration_count: illustrationCount + 1,
           illustrations_generated: 0,
           notes: null,
           created_at: new Date().toISOString(),
@@ -131,7 +141,14 @@ export async function POST(request: Request) {
     }
 
     saveAdmin(entries);
-    return NextResponse.json({ success: true, seeded, total: entries.length });
+    const remaining = unseeded.length - batch.length;
+    return NextResponse.json({
+      success: true,
+      seeded,
+      total: entries.length,
+      remaining,
+      done: remaining === 0,
+    });
   }
 
   if (body.action === "approve") {

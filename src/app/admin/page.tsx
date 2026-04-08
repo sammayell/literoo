@@ -77,15 +77,26 @@ export default function AdminPage() {
     setLoading(false);
   }
 
+  const [seedProgress, setSeedProgress] = useState<string | null>(null);
+
   async function seedBooks() {
-    setLoading(true);
-    const res = await fetch("/api/admin/illustrations", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ action: "seed" }),
-    });
-    const data = await res.json();
-    alert(`Seeded ${data.seeded} books (${data.total} total)`);
+    let totalSeeded = 0;
+    let done = false;
+
+    while (!done) {
+      setSeedProgress(`Seeding... (${totalSeeded} books so far)`);
+      const res = await fetch("/api/admin/illustrations", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ action: "seed", batchSize: 50 }),
+      });
+      const data = await res.json();
+      totalSeeded += data.seeded || 0;
+      done = data.done || data.seeded === 0;
+      setSeedProgress(`Seeded ${totalSeeded} books (${data.remaining || 0} remaining)`);
+    }
+
+    setSeedProgress(null);
     loadBooks();
   }
 
@@ -195,9 +206,10 @@ export default function AdminPage() {
               <div className="flex items-center gap-2 ml-auto">
                 <button
                   onClick={seedBooks}
-                  className="bg-brand-500 text-white text-xs px-4 py-2 rounded-lg hover:bg-brand-600 font-semibold"
+                  disabled={!!seedProgress}
+                  className="bg-brand-500 text-white text-xs px-4 py-2 rounded-lg hover:bg-brand-600 font-semibold disabled:opacity-50"
                 >
-                  Seed Books
+                  {seedProgress || "Seed Books"}
                 </button>
                 {stats.pending > 0 && (
                   <button
