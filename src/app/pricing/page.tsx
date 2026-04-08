@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
 import { isSubscribed } from "@/lib/subscription";
+import { useAuth, isActiveSubscriber } from "@/lib/auth-context";
 import { GuaranteeBadge } from "@/components/shared/GuaranteeBadge";
 
 const VALUE_STACK = [
@@ -188,14 +189,19 @@ export default function PricingPage() {
           That&apos;s just <strong>$8.25/month</strong>
         </p>
 
-        <a
-          href="#"
-          className="inline-block bg-brand-500 hover:bg-brand-600 text-white font-bold py-4 px-10 rounded-xl text-xl transition-colors shadow-lg shadow-brand-200 font-[family-name:var(--font-lexend)]"
+        <button
+          onClick={async () => {
+            const res = await fetch("/api/stripe/checkout", { method: "POST" });
+            const data = await res.json();
+            if (data.url) window.location.href = data.url;
+            else if (data.error === "Not authenticated") window.location.href = "/auth/signup?next=/pricing";
+          }}
+          className="inline-block bg-brand-500 hover:bg-brand-600 text-white font-bold py-4 px-10 rounded-xl text-xl transition-colors shadow-lg shadow-brand-200 font-[family-name:var(--font-lexend)] cursor-pointer"
         >
           Start Reading Today
-        </a>
+        </button>
         <p className="text-xs text-stone-400 mt-3">
-          Stripe Payment Link coming soon
+          Secure payment via Stripe. Cancel anytime.
         </p>
       </section>
 
