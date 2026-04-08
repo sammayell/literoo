@@ -7,10 +7,92 @@ import {
   getChallenge,
   getChallengeStats,
   isChallengeComplete,
+  startChallenge,
   type ChallengeState,
 } from "@/lib/challenge";
+import { ageToTier, setChildInfo } from "@/lib/subscription";
 import { GuaranteeBadge } from "@/components/shared/GuaranteeBadge";
 import { Header } from "@/components/shared/Header";
+
+function ChallengeSignup({ onStart }: { onStart: () => void }) {
+  const [childName, setChildName] = useState("");
+  const [childAge, setChildAge] = useState<number | "">("");
+  const [submitting, setSubmitting] = useState(false);
+
+  function handleSubmit(e: React.FormEvent) {
+    e.preventDefault();
+    if (!childName.trim() || childAge === "") return;
+    setSubmitting(true);
+    const age = Number(childAge);
+    const tier = ageToTier(age);
+    setChildInfo(childName.trim(), age);
+    startChallenge(childName.trim(), age, tier);
+    onStart();
+  }
+
+  return (
+    <div className="min-h-screen bg-gradient-to-b from-brand-50 via-orange-50/30 to-white">
+      <Header currentPage="challenge" />
+      <section className="py-20 px-4">
+        <div className="max-w-2xl mx-auto text-center">
+          <div className="text-5xl mb-6">📚</div>
+          <h1 className="text-4xl sm:text-5xl font-bold text-stone-900 mb-6 font-[family-name:var(--font-lexend)] leading-tight">
+            5-Day Reading{" "}
+            <span className="text-brand-500">Challenge</span>
+          </h1>
+          <p className="text-lg text-stone-600 mb-10 font-[family-name:var(--font-literata)]">
+            Can your child read 5 books in 5 days? Enter their details below and we&apos;ll
+            match them with age-appropriate stories.
+          </p>
+
+          <form
+            onSubmit={handleSubmit}
+            className="bg-white rounded-2xl shadow-lg border border-stone-200 p-6 sm:p-8 max-w-md mx-auto"
+          >
+            <div className="space-y-4">
+              <div>
+                <label htmlFor="childName" className="block text-sm font-semibold text-stone-700 mb-1 text-left">
+                  Child&apos;s First Name
+                </label>
+                <input
+                  id="childName" type="text" placeholder="e.g. Emma"
+                  value={childName} onChange={(e) => setChildName(e.target.value)} required
+                  className="w-full px-4 py-3 border border-stone-300 rounded-xl text-stone-900 placeholder:text-stone-400 focus:outline-none focus:ring-2 focus:ring-brand-500 focus:border-transparent text-base"
+                />
+              </div>
+              <div>
+                <label htmlFor="childAge" className="block text-sm font-semibold text-stone-700 mb-1 text-left">
+                  Age
+                </label>
+                <select
+                  id="childAge" value={childAge}
+                  onChange={(e) => setChildAge(e.target.value ? Number(e.target.value) : "")} required
+                  className="w-full px-4 py-3 border border-stone-300 rounded-xl text-stone-900 focus:outline-none focus:ring-2 focus:ring-brand-500 focus:border-transparent text-base bg-white"
+                >
+                  <option value="">Select age</option>
+                  {Array.from({ length: 18 }, (_, i) => i + 1).map((age) => (
+                    <option key={age} value={age}>{age} {age === 1 ? "year old" : "years old"}</option>
+                  ))}
+                </select>
+              </div>
+              <button
+                type="submit"
+                disabled={submitting || !childName.trim() || childAge === ""}
+                className="w-full bg-brand-500 hover:bg-brand-600 text-white font-bold py-3.5 px-6 rounded-xl text-lg transition-colors disabled:opacity-50 disabled:cursor-not-allowed font-[family-name:var(--font-lexend)]"
+              >
+                {submitting ? "Starting..." : "Start the Challenge"}
+              </button>
+            </div>
+          </form>
+
+          <div className="mt-10 max-w-md mx-auto">
+            <GuaranteeBadge size="sm" />
+          </div>
+        </div>
+      </section>
+    </div>
+  );
+}
 
 export default function ChallengePage() {
   const router = useRouter();
@@ -19,20 +101,23 @@ export default function ChallengePage() {
 
   useEffect(() => {
     const c = getChallenge();
-    if (!c) {
-      router.push("/");
-      return;
-    }
     setChallenge(c);
     setLoaded(true);
-  }, [router]);
+  }, []);
 
-  if (!loaded || !challenge) {
+  if (!loaded) {
     return (
       <div className="min-h-screen flex items-center justify-center bg-brand-50">
-        <div className="text-stone-400 text-lg">Loading challenge...</div>
+        <div className="text-stone-400 text-lg">Loading...</div>
       </div>
     );
+  }
+
+  // No active challenge — show signup form
+  if (!challenge) {
+    return <ChallengeSignup onStart={() => {
+      setChallenge(getChallenge());
+    }} />;
   }
 
   const allComplete = isChallengeComplete();
