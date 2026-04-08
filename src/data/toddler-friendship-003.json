@@ -1,0 +1,212 @@
+{
+  "id": "toddler-friendship-003",
+  "title": "Zara and the Lost Little Bird",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "nature"
+  ],
+  "wordCount": 271,
+  "readingLevel": "1.2",
+  "synopsis": "When Zara finds a scared little bird that has fallen from its nest, she feels worried but decides to be brave and help. With the assistance of her diverse group of playground friends, they work together to reunite the baby bird with its family, learning about kindness and courage along the way.",
+  "coverImage": "covers/toddler-friendship-003.webp",
+  "chapters": [
+    {
+      "title": "A Little Bird Needs Help",
+      "pages": [
+        {
+          "text": "Zara was playing at the park on a sunny day. She had curly brown hair and wore her favorite yellow dress with flowers. While she was looking for pretty leaves, she heard a tiny sound. \"Peep! Peep!\" Something was crying.",
+          "illustration": {
+            "description": "A young Black girl with shoulder-length curly brown hair wearing a bright yellow dress with small flower patterns, kneeling on green grass near some fallen autumn leaves. She has a curious expression, tilting her head to listen. The background shows a sunny park with trees, playground equipment in the distance, and a textured paper-like sky in soft blue.",
+            "alt": "Zara listening carefully in the park",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Under a big oak tree, Zara found a tiny baby bird. It was brown and fluffy, sitting on the ground all alone. The little bird looked scared and sad. Zara felt worried too. \"Don't be afraid, little bird,\" she said softly. \"I want to help you.\"",
+          "illustration": {
+            "description": "Zara crouching down gently near a small brown fluffy baby bird on the grass beneath a large oak tree. Her expression shows concern and kindness. The bird appears small and vulnerable with big round eyes. Warm golden sunlight filters through the green tree leaves above, creating dappled shadows on the textured grass.",
+            "alt": "Zara finding the scared baby bird",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Friends Come to Help",
+      "pages": [
+        {
+          "text": "Zara felt scared about helping the bird by herself. She ran to find her friends at the playground. \"Marcus! Lily! Come quickly!\" she called. Marcus had dark skin and was going down the slide. Lily had red hair and was on the swings.",
+          "illustration": {
+            "description": "A diverse playground scene with Zara calling to her friends. Marcus, a Black boy in a blue t-shirt, is sliding down a red slide with a surprised but happy expression. Lily, a girl with curly red hair in braids wearing a green shirt, is on yellow swings. The playground equipment is bright and colorful against a cheerful blue sky.",
+            "alt": "Zara calling her friends for help",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"A baby bird needs our help!\" Zara explained. Her friends felt excited to help. Marcus said, \"Let's be brave together!\" Lily added, \"We can find its mama!\" All three friends felt happy to work as a team. They held hands and walked back to the oak tree.",
+          "illustration": {
+            "description": "Three diverse children holding hands and walking together with determined, happy expressions. Zara in her yellow dress is in the middle, Marcus in his blue shirt on one side, and Lily in her green shirt with red braids on the other. They're walking on a path toward a large oak tree, with their faces showing courage and friendship.",
+            "alt": "The three friends walking together to help",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Bird Goes Home",
+      "pages": [
+        {
+          "text": "The friends looked up high in the oak tree and saw a bird's nest. They could hear mama bird chirping sadly up there. \"The baby bird's family is worried too!\" said Lily. Marcus found a park worker, Mrs. Chen, who had a special ladder.",
+          "illustration": {
+            "description": "The three children looking up at a tall oak tree with a bird's nest visible in the branches. A mama bird is perched near the nest. Mrs. Chen, an Asian woman in park worker uniform with a friendly smile, approaches with a small ladder. The scene shows everyone looking upward with hopeful expressions against a bright sky.",
+            "alt": "Everyone working together to reunite the bird family",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mrs. Chen carefully picked up the baby bird and climbed the ladder. She put the little bird back in its cozy nest. The mama bird chirped happily and hugged her baby with her wings. Zara, Marcus, and Lily felt so happy and proud! They had been brave and helped a friend.",
+          "illustration": {
+            "description": "A heartwarming scene showing Mrs. Chen on a ladder placing the baby bird in its nest while the mama bird welcomes it back. Below, the three children are clapping and smiling with joy. The mama bird is embracing her baby with outstretched wings. Golden sunlight creates a warm, celebratory mood with the textured tree bark and leaves.",
+            "alt": "The happy reunion of the bird family",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "helping others",
+      "friendship",
+      "courage",
+      "teamwork",
+      "nature"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Zara feel when she first found the baby bird?",
+        "choices": [
+          "Happy",
+          "Worried",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Zara felt worried when she saw the scared little bird all alone."
+      },
+      {
+        "id": 2,
+        "question": "What did Zara's friends do when she asked for help?",
+        "choices": [
+          "They ran away",
+          "They came to help",
+          "They went home"
+        ],
+        "correctIndex": 1,
+        "explanation": "Marcus and Lily came right away to help Zara and the baby bird."
+      },
+      {
+        "id": 3,
+        "question": "Who helped put the baby bird back in its nest?",
+        "choices": [
+          "Mrs. Chen",
+          "Marcus",
+          "Lily"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mrs. Chen, the park worker, used her ladder to safely return the baby bird to its nest."
+      },
+      {
+        "id": 4,
+        "question": "How did everyone feel at the end of the story?",
+        "choices": [
+          "Sad",
+          "Happy",
+          "Scared"
+        ],
+        "correctIndex": 1,
+        "explanation": "Everyone felt happy - the bird family was reunited and the children felt proud of helping."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Complete the Story",
+        "text": "Zara found a little ____ under the oak tree. Her friends Marcus and Lily came to ____. They all felt ____ when the bird went back to its family.",
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "bird",
+            "distractors": [
+              "cat",
+              "toy",
+              "ball"
+            ]
+          },
+          {
+            "wordIndex": 13,
+            "correctWord": "help",
+            "distractors": [
+              "play",
+              "run",
+              "eat"
+            ]
+          },
+          {
+            "wordIndex": 19,
+            "correctWord": "happy",
+            "distractors": [
+              "sad",
+              "angry",
+              "tired"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Feeling Words",
+        "text": "The baby bird felt ____ when it was alone. Zara felt ____ to help. All the friends were ____ to work together.",
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "sleepy",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 9,
+            "correctWord": "brave",
+            "distractors": [
+              "silly",
+              "fast",
+              "loud"
+            ]
+          },
+          {
+            "wordIndex": 16,
+            "correctWord": "excited",
+            "distractors": [
+              "bored",
+              "cold",
+              "quiet"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

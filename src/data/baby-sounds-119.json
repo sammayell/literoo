@@ -1,0 +1,165 @@
+{
+  "id": "baby-sounds-119",
+  "title": "Aiko Hears Animal Friends",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "sounds",
+    "animals"
+  ],
+  "wordCount": 39,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Aiko discovers the wonderful sounds that different animals make as she explores her neighborhood, from chirping birds to barking dogs, creating a delightful auditory adventure perfect for little ones learning about sounds and animals.",
+  "coverImage": "covers/baby-sounds-119.webp",
+  "chapters": [
+    {
+      "title": "Animal Sounds Around Us",
+      "pages": [
+        {
+          "text": "Aiko hears sounds everywhere!",
+          "illustration": {
+            "description": "A smiling Japanese toddler girl with short black hair in a yellow dress stands in a sunny garden, hands cupped to her ears in a listening pose. Soft pastel colors fill the scene with blooming flowers and a bright blue sky. Her expression shows wonder and curiosity.",
+            "alt": "Aiko listening in a garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Tweet, tweet! The birds sing.",
+          "illustration": {
+            "description": "Two colorful birds perched on a flowering cherry blossom branch above Aiko, their beaks open mid-song. The birds are rendered in soft watercolor style with bright blue and red feathers. Aiko looks up with delight, pointing at the singing birds.",
+            "alt": "Birds tweeting in a tree above Aiko",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Woof, woof! The dog barks.",
+          "illustration": {
+            "description": "A friendly golden retriever with a wagging tail sits next to Aiko on soft green grass. The dog's mouth is open in a happy bark while Aiko giggles and reaches out to pet the fluffy fur. Warm golden and green tones create a cozy atmosphere.",
+            "alt": "A golden dog barking happily with Aiko",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mew, mew! The cat calls.",
+          "illustration": {
+            "description": "An orange tabby kitten sits on a garden fence, mouth open in a tiny meow. Aiko stands below with arms outstretched, smiling up at the kitten. Soft orange and cream colors dominate the scene with delicate flower details in the background.",
+            "alt": "Orange kitten meowing from a fence to Aiko",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Buzz, buzz! The bee flies.",
+          "illustration": {
+            "description": "A large, friendly cartoon bee with yellow and black stripes hovers near purple flowers while Aiko watches from a safe distance. The bee has oversized, gentle eyes and translucent wings. Aiko's expression shows fascination rather than fear.",
+            "alt": "A friendly bee buzzing around flowers near Aiko",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Moo, moo! The cow lows.",
+          "illustration": {
+            "description": "A black and white spotted cow stands in a green pasture, head lowered toward Aiko who reaches up to touch the cow's nose. The cow has kind, large brown eyes and a gentle expression. Rolling hills and blue sky create a peaceful farm setting.",
+            "alt": "Gentle cow mooing while Aiko reaches up to touch its nose",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Ribbit, ribbit! The frog croaks.",
+          "illustration": {
+            "description": "A bright green frog sits on a lily pad in a small pond, throat puffed out mid-croak. Aiko kneels at the pond's edge, hands on her knees, watching with wonder. Water lilies and cattails frame the scene in soft aqua and green tones.",
+            "alt": "Green frog croaking on lily pad while Aiko watches from pond edge",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Aiko loves all the sounds!",
+          "illustration": {
+            "description": "Aiko sits in the center of the garden surrounded by all the animals from previous pages - birds, dog, cat, bee, cow, and frog. She claps her hands with joy while musical notes float around her. All the animals appear to be making their sounds simultaneously in a harmonious celebration.",
+            "alt": "Aiko surrounded by all the animals making their happy sounds together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "animal sounds",
+      "listening",
+      "nature exploration",
+      "sensory learning"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does the dog make?",
+        "choices": [
+          "Woof, woof!",
+          "Mew, mew!"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dogs say 'Woof, woof!' when they bark."
+      },
+      {
+        "id": "q2",
+        "question": "Which animal says 'Tweet, tweet!'?",
+        "choices": [
+          "Cat",
+          "Birds"
+        ],
+        "correctIndex": 1,
+        "explanation": "Birds sing 'Tweet, tweet!' in the trees."
+      },
+      {
+        "id": "q3",
+        "question": "What does Aiko do when she hears the sounds?",
+        "choices": [
+          "She runs away",
+          "She listens and smiles"
+        ],
+        "correctIndex": 1,
+        "explanation": "Aiko loves listening to all the animal sounds around her."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Tweet, ____! The birds sing.",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "tweet",
+            "distractors": [
+              "woof",
+              "moo",
+              "buzz"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "____, mew! The cat calls.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Mew",
+            "distractors": [
+              "Woof",
+              "Buzz",
+              "Moo"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

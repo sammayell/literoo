@@ -1,0 +1,173 @@
+{
+  "id": "baby-peek-a-boo-150",
+  "title": "Sage's Colorful Peek-a-Boo",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "peek-a-boo",
+    "colors"
+  ],
+  "wordCount": 39,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Sage discovers colorful objects hiding behind blankets in this interactive peek-a-boo adventure, learning basic colors while playing his favorite hiding game with diverse friends and family members.",
+  "coverImage": "covers/baby-peek-a-boo-150.webp",
+  "chapters": [
+    {
+      "title": "Peek-a-Boo Colors",
+      "pages": [
+        {
+          "text": "Peek-a-boo! Where's Sage?",
+          "illustration": {
+            "description": "A chubby-cheeked baby boy with warm brown skin and soft black curls hides behind a white blanket, only his bright dark eyes peeking over the top. His expression is playful and mischievous with a hint of a smile. The background is a soft cream color with gentle pastel rainbow dots scattered around.",
+            "alt": "Baby Sage hiding behind white blanket with eyes showing",
+            "layout": "center-focused"
+          }
+        },
+        {
+          "text": "Here I am! Giggle, giggle!",
+          "illustration": {
+            "description": "Sage pulls down the blanket revealing his joyful face with a wide toothy grin and sparkling eyes. His arms are outstretched in celebration. Soft watercolor splashes of yellow and pink surround him like happy energy bursts.",
+            "alt": "Sage revealing himself with arms outstretched, smiling widely",
+            "layout": "center-focused"
+          }
+        },
+        {
+          "text": "What's hiding? Peek-a-boo, RED!",
+          "illustration": {
+            "description": "A bright red ball partially hidden behind a colorful striped blanket held by Sage's grandmother, an elderly woman with silver hair and kind brown eyes wearing a lavender cardigan. The ball peeks out from one corner, creating anticipation.",
+            "alt": "Red ball hiding behind blanket held by grandmother",
+            "layout": "center-focused"
+          }
+        },
+        {
+          "text": "Pop! Red ball! Bounce, bounce!",
+          "illustration": {
+            "description": "The vibrant red ball bounces freely in the air with motion lines around it. Sage claps his hands together with delight, his mouth open in an 'o' of surprise. Grandmother smiles warmly in the background, hands still holding the blanket.",
+            "alt": "Red ball bouncing with Sage clapping excitedly",
+            "layout": "center-focused"
+          }
+        },
+        {
+          "text": "What's hiding? Peek-a-boo, BLUE!",
+          "illustration": {
+            "description": "A corner of a bright blue toy truck peeks out from behind a soft yellow blanket held by Sage's older sister, a girl with the same warm brown skin and curly hair in two puff ponytails. Her eyes twinkle with playful mischief.",
+            "alt": "Blue toy truck partially hidden behind yellow blanket",
+            "layout": "center-focused"
+          }
+        },
+        {
+          "text": "Vroom! Blue truck! Beep, beep!",
+          "illustration": {
+            "description": "The bright blue toy truck rolls across the soft carpet with cartoon-style motion clouds behind it. Sage reaches toward it with both hands, eyes wide with excitement. His sister giggles in the background, blanket now draped over her shoulder.",
+            "alt": "Blue truck moving with Sage reaching for it eagerly",
+            "layout": "center-focused"
+          }
+        },
+        {
+          "text": "What's hiding? Peek-a-boo, YELLOW!",
+          "illustration": {
+            "description": "A fluffy yellow stuffed duck's orange beak and one button eye peek out from behind a mint green blanket held by Sage's father, a tall man with darker brown skin, a gentle beard, and wire-rimmed glasses. He has a tender, patient expression.",
+            "alt": "Yellow stuffed duck partially hidden behind green blanket",
+            "layout": "center-focused"
+          }
+        },
+        {
+          "text": "Quack! Yellow duck! Squeak, squeak!",
+          "illustration": {
+            "description": "The soft yellow duck sits prominently in the center while Sage hugs it close to his chest, his cheek pressed against its fluffy head. His eyes are closed in contentment. Father smiles proudly, folding the blanket neatly.",
+            "alt": "Sage hugging yellow duck contentedly with father watching",
+            "layout": "center-focused"
+          }
+        },
+        {
+          "text": "Peek-a-boo colors! Play again!",
+          "illustration": {
+            "description": "All the colorful objects (red ball, blue truck, yellow duck) are scattered around Sage who sits in the center with arms raised joyfully. His family surrounds him in a loving circle - grandmother, sister, and father all smiling warmly. Soft rainbow colors frame the scene.",
+            "alt": "Sage surrounded by colorful toys and loving family members",
+            "layout": "group-centered"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "colors",
+      "family",
+      "play",
+      "discovery"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "What color is Sage's ball?",
+        "choices": [
+          "Red",
+          "Blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sage's ball is red and it bounces!"
+      },
+      {
+        "id": 2,
+        "question": "What sound does the duck make?",
+        "choices": [
+          "Beep beep",
+          "Quack quack"
+        ],
+        "correctIndex": 1,
+        "explanation": "The yellow duck says quack quack!"
+      },
+      {
+        "id": 3,
+        "question": "Who helps Sage play peek-a-boo?",
+        "choices": [
+          "His family",
+          "His toys"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sage's family helps him play peek-a-boo with the colorful objects!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Peek-a-boo! Where's ____?",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "Sage",
+            "distractors": [
+              "ball",
+              "duck",
+              "truck"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "What's hiding? Peek-a-boo, ____!",
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "RED",
+            "distractors": [
+              "BLUE",
+              "YELLOW",
+              "GREEN"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

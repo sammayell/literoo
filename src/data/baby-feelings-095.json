@@ -1,0 +1,174 @@
+{
+  "id": "baby-feelings-095",
+  "title": "Mika's Happy Day",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "feelings",
+    "nature"
+  ],
+  "wordCount": 56,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Mika explores different feelings throughout her day in nature, from the warmth of sunshine to the gentle sound of rain, learning that all feelings are okay and natural.",
+  "coverImage": "covers/baby-feelings-095.webp",
+  "chapters": [
+    {
+      "title": "Mika's Happy Day",
+      "pages": [
+        {
+          "text": "Mika feels the warm sun. Happy, happy!",
+          "illustration": {
+            "description": "Baby Mika with warm brown skin and curly black hair sits in soft green grass, arms stretched up toward golden sunshine streaming down. She wears a bright yellow dress and has a huge smile. Soft watercolor style with warm yellows and greens, rounded gentle shapes.",
+            "alt": "Happy baby Mika reaching toward warm sunshine",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The wind goes whoosh! Mika giggles.",
+          "illustration": {
+            "description": "Mika's curly hair and yellow dress flutter in gentle wind, colorful leaves swirling around her. Her eyes are bright with joy, mouth open in laughter. Background shows soft blue sky with fluffy white clouds, pastel colors throughout.",
+            "alt": "Mika laughing as wind blows through her hair",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Dark clouds come. Mika feels worried.",
+          "illustration": {
+            "description": "Mika looks up at gathering gray clouds with a slightly concerned expression, eyebrows raised, one finger near her mouth. The sky transitions from blue to soft gray, maintaining gentle watercolor tones. Mika still sits in the same grassy spot.",
+            "alt": "Mika looking worried at dark clouds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Pitter-patter! Rain drops fall softly.",
+          "illustration": {
+            "description": "Gentle rain drops fall around Mika as she holds out her small hands to catch them. The drops are illustrated as soft blue teardrops, and Mika's expression shows curiosity and wonder. Muted blues and grays create a peaceful rainy atmosphere.",
+            "alt": "Mika catching gentle raindrops in her hands",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mika feels calm now. All is well.",
+          "illustration": {
+            "description": "Mika sits peacefully with a serene smile, rain gently falling around her. A diverse group of woodland animals - a brown rabbit, orange fox kit, and small bird - gather nearby, all looking content. Soft pastels create a tranquil, harmonious scene.",
+            "alt": "Peaceful Mika surrounded by friendly forest animals in gentle rain",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The sun peeks out. Rainbow appears!",
+          "illustration": {
+            "description": "A beautiful pastel rainbow arcs across the sky as golden sunlight breaks through the clouds. Mika points up at it with wonder, her face full of amazement. The scene combines warm sunshine with lingering raindrops, creating magical sparkles in the air.",
+            "alt": "Mika pointing at a rainbow after the rain",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mika feels excited! What beautiful colors!",
+          "illustration": {
+            "description": "Mika claps her hands with pure joy, eyes wide and sparkling. The rainbow's soft colors reflect in her dark eyes. Around her, the wet grass glistens and small flowers bloom in various pastel shades, creating a magical garden scene.",
+            "alt": "Excited Mika clapping at beautiful rainbow colors",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Evening comes softly. Mika feels sleepy.",
+          "illustration": {
+            "description": "The sky transitions to gentle sunset colors - soft pinks and lavenders. Mika sits peacefully, rubbing one eye with her small fist, the universal sign of sleepiness. Her mother, a woman with similar features and long black hair, approaches with outstretched arms.",
+            "alt": "Sleepy Mika as evening approaches, mother coming to comfort her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama's arms feel safe. Good night, world!",
+          "illustration": {
+            "description": "Mika snuggles contentedly in her mother's warm embrace as stars begin to twinkle in the deepening sky. Both have peaceful, loving expressions. The scene is bathed in soft moonlight with gentle blues and purples, creating the perfect bedtime mood.",
+            "alt": "Mika safe in mother's arms under starry evening sky",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotions",
+      "weather",
+      "comfort",
+      "nature",
+      "family"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "What sound does the wind make?",
+        "choices": [
+          "Whoosh!",
+          "Moo!"
+        ],
+        "correctIndex": 0,
+        "explanation": "The wind goes 'whoosh!' and makes Mika giggle."
+      },
+      {
+        "id": 2,
+        "question": "What appears after the rain?",
+        "choices": [
+          "Snow",
+          "Rainbow"
+        ],
+        "correctIndex": 1,
+        "explanation": "A beautiful rainbow appears when the sun peeks out after the rain."
+      },
+      {
+        "id": 3,
+        "question": "Who gives Mika a safe hug at bedtime?",
+        "choices": [
+          "Mama",
+          "Dog"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama's arms feel safe and give Mika comfort at bedtime."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "The wind goes ____! Mika giggles.",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "whoosh",
+            "distractors": [
+              "moo",
+              "buzz",
+              "roar"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "____ peeks out. Rainbow appears!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "sun",
+            "distractors": [
+              "moon",
+              "car",
+              "cat"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

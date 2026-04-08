@@ -1,0 +1,206 @@
+{
+  "id": "toddler-feelings-041",
+  "title": "Rio's Big Day Out",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "feelings",
+    "family"
+  ],
+  "wordCount": 250,
+  "readingLevel": "1.2",
+  "synopsis": "Rio feels nervous about going to a new playground with her mama, but discovers that trying new things can be fun and that it's okay to feel scared before feeling brave.",
+  "coverImage": "covers/toddler-feelings-041.webp",
+  "chapters": [
+    {
+      "title": "Feeling Nervous",
+      "pages": [
+        {
+          "text": "Rio looked out the window at the big playground. She felt nervous butterflies dancing in her tummy. \"I don't know anyone there, Mama,\" Rio said quietly, holding her favorite stuffed elephant tight.",
+          "illustration": {
+            "description": "A young Latina girl with curly dark hair in two small ponytails sits by a sunny window, clutching a soft gray elephant toy. Her brown eyes look worried as she gazes at a colorful playground visible outside. She wears a bright yellow t-shirt and purple shorts. The room has warm orange walls with children's drawings taped up.",
+            "alt": "Rio looking nervously out the window at a playground",
+            "layout": "single"
+          }
+        },
+        {
+          "text": "\"It's okay to feel nervous,\" Mama said with a warm smile. \"New places can feel scary at first. But you know what? You're very brave, even when you feel scared.\" Mama gave Rio a gentle hug.",
+          "illustration": {
+            "description": "A loving scene showing Rio's mama, a woman with long black hair and kind brown eyes, kneeling down to hug Rio. Mama wears a soft blue sweater and has a reassuring smile. Rio still looks uncertain but is leaning into the hug. The background shows their cozy living room with a red couch and family photos on yellow walls.",
+            "alt": "Mama hugging Rio and comforting her about feeling nervous",
+            "layout": "single"
+          }
+        },
+        {
+          "text": "At the playground, Rio stayed close to Mama. She watched other children playing on the swings and slides. A boy with red hair waved at her, and a girl with dark skin smiled from the sandbox. Rio felt a little less nervous but still unsure.",
+          "illustration": {
+            "description": "A vibrant playground scene with Rio holding Mama's hand near a bright red bench. In the background, diverse children are playing: a freckled boy with red hair on blue swings waving cheerfully, and a Black girl with braided hair building sandcastles in a yellow sandbox. The playground equipment is colorful with rounded, safe-looking designs against a bright blue sky.",
+            "alt": "Rio and Mama at the playground watching other children play",
+            "layout": "single"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Finding Courage",
+      "pages": [
+        {
+          "text": "\"Would you like to try the small slide?\" Mama asked. Rio's heart beat fast, but she nodded slowly. \"I feel scared,\" she whispered. \"But maybe I can be brave too.\" She took a deep breath and walked toward the bright green slide.",
+          "illustration": {
+            "description": "Rio standing at the bottom of a small, friendly green slide with yellow railings. Her expression shows a mix of determination and nervousness, with one hand reaching toward the ladder. Mama stands nearby with an encouraging smile, arms outstretched ready to catch Rio. The slide sits on soft blue safety mats with puffy white clouds in the background.",
+            "alt": "Rio approaching a small slide while Mama stands ready to help",
+            "layout": "single"
+          }
+        },
+        {
+          "text": "Rio climbed up slowly, step by step. At the top, she felt proud and excited. \"Look, Mama! I did it!\" she called down happily. Then she slid down with a big smile. The scared feeling was gone, and now she felt brave and joyful.",
+          "illustration": {
+            "description": "Rio sliding down the green slide with pure joy on her face, arms raised up in celebration. Her curly hair bounces as she slides, and her bright yellow shirt and purple shorts create a cheerful contrast. Mama claps her hands at the bottom with a proud, beaming smile. Other children in the background are also playing and looking happy.",
+            "alt": "Rio sliding down happily while Mama cheers",
+            "layout": "single"
+          }
+        },
+        {
+          "text": "Soon, Rio was playing with her new friends. Marcus, the boy with red hair, showed her how to dig in the sandbox. Zara, the girl with braids, shared her toy trucks. Rio felt so happy and proud. \"I was scared, but I was brave,\" she told Mama on the way home.",
+          "illustration": {
+            "description": "A heartwarming scene of Rio, Marcus, and Zara playing together in the golden sandbox. Rio is laughing as she helps build a sand castle, Marcus is digging with a red shovel, and Zara is pushing a bright blue toy truck. All three children have huge smiles and look completely comfortable together. Mama sits on a nearby green bench watching with a content expression.",
+            "alt": "Rio playing happily with Marcus and Zara in the sandbox",
+            "layout": "single"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "courage",
+      "emotions",
+      "friendship",
+      "family support"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Rio feel about going to the new playground?",
+        "choices": [
+          "Happy",
+          "Nervous",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Rio felt nervous because she didn't know anyone at the new playground."
+      },
+      {
+        "id": 2,
+        "question": "What did Mama tell Rio about feeling scared?",
+        "choices": [
+          "Don't be scared",
+          "You can be brave even when scared",
+          "Scared is bad"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mama told Rio that she could be brave even when she felt scared."
+      },
+      {
+        "id": 3,
+        "question": "What did Rio try first at the playground?",
+        "choices": [
+          "The swings",
+          "The sandbox",
+          "The small slide"
+        ],
+        "correctIndex": 2,
+        "explanation": "Rio tried the small slide first with Mama's encouragement."
+      },
+      {
+        "id": 4,
+        "question": "How did Rio feel at the end of the story?",
+        "choices": [
+          "Still scared",
+          "Happy and proud",
+          "Sad"
+        ],
+        "correctIndex": 1,
+        "explanation": "Rio felt happy and proud because she was brave and made new friends."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Complete Rio's Story",
+        "text": "Rio felt _____ about the new playground. Mama said it's okay to feel scared, but Rio could be _____ too. At the playground, Rio tried the _____ and felt proud!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "nervous",
+            "distractors": [
+              "happy",
+              "angry",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 16,
+            "correctWord": "brave",
+            "distractors": [
+              "silly",
+              "loud",
+              "fast"
+            ]
+          },
+          {
+            "wordIndex": 24,
+            "correctWord": "slide",
+            "distractors": [
+              "swing",
+              "tree",
+              "car"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Feelings Words",
+        "text": "When Rio was _____, Mama gave her a hug. Then Rio felt _____ when she made new friends. She was _____ of herself for trying something new.",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "scared",
+            "distractors": [
+              "hungry",
+              "cold",
+              "tall"
+            ]
+          },
+          {
+            "wordIndex": 11,
+            "correctWord": "happy",
+            "distractors": [
+              "tired",
+              "sick",
+              "quiet"
+            ]
+          },
+          {
+            "wordIndex": 16,
+            "correctWord": "proud",
+            "distractors": [
+              "sad",
+              "mad",
+              "lost"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

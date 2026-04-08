@@ -1,0 +1,165 @@
+{
+  "id": "baby-colors-133",
+  "title": "Kira's Rainbow Snacks",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "colors",
+    "food"
+  ],
+  "wordCount": 41,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Kira discovers colorful foods throughout her day, from red apples to purple grapes, learning colors through delicious snacks with sound effects and repetitive patterns that delight young readers.",
+  "coverImage": "covers/baby-colors-133.webp",
+  "chapters": [
+    {
+      "title": "Kira's Colorful Day",
+      "pages": [
+        {
+          "text": "Kira is hungry! Munch, munch, munch.",
+          "illustration": {
+            "description": "Baby Kira sits in a bright yellow high chair, her dark curly hair in tiny pigtails with colorful ribbons. She has warm brown skin and bright sparkling eyes, reaching eagerly toward a plate. The kitchen background is soft cream with pastel rainbow accents.",
+            "alt": "Baby Kira in high chair reaching for food",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Red apple! Crunch, crunch, crunch.",
+          "illustration": {
+            "description": "Kira holds a bright red apple with both small hands, taking a big bite with her few teeth showing in a happy smile. Red juice drips down her chin. The red apple contrasts beautifully against her brown skin and the soft white bib.",
+            "alt": "Kira eating a red apple",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Yellow banana! Squish, squish, squish.",
+          "illustration": {
+            "description": "Kira squeezed a ripe yellow banana between her fingers, banana mush oozing through. Her expression shows pure delight and curiosity. Yellow banana pieces are scattered on her tray and some in her hair, creating a joyful mess.",
+            "alt": "Kira squishing yellow banana",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Orange carrots! Chomp, chomp, chomp.",
+          "illustration": {
+            "description": "Kira gnaws on bright orange carrot sticks, her grandmother with silver hair and kind wrinkles sitting beside her offering encouragement. The grandmother wears a lavender sweater. Orange carrot pieces dot the high chair tray in organized chaos.",
+            "alt": "Kira eating orange carrots with grandmother",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Green peas! Pop, pop, pop.",
+          "illustration": {
+            "description": "Kira picks up individual bright green peas with her tiny pincer grasp, popping them one by one into her mouth. Some peas have rolled onto the floor. Her concentration is intense and adorable, tongue slightly sticking out.",
+            "alt": "Kira eating green peas one by one",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Blue blueberries! Smoosh, smoosh, smoosh.",
+          "illustration": {
+            "description": "Kira's face and hands are stained purple-blue from squished blueberries. She holds a handful of plump blueberries, some whole, some smooshed. Her delighted expression shows blue-stained lips and teeth in a wide grin.",
+            "alt": "Kira with blue-stained face eating blueberries",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Purple grapes! Slurp, slurp, slurp.",
+          "illustration": {
+            "description": "Kira sucks on a halved purple grape, grape juice running down her chin. Her father, a tall man with dark skin and a gentle smile, sits nearby cutting more grapes safely in half. Purple grape skins are visible on the tray.",
+            "alt": "Kira eating purple grapes with father helping",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rainbow snacks! Yum, yum, yum.",
+          "illustration": {
+            "description": "Kira claps her messy hands together with pure joy, surrounded by remnants of all her colorful snacks. Her face shows complete satisfaction covered in a rainbow of food stains. The high chair tray displays a beautiful mess of all the colors she's enjoyed.",
+            "alt": "Happy messy Kira surrounded by colorful food remnants",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "colors",
+      "food exploration",
+      "sensory play",
+      "family bonding"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color is Kira's apple?",
+        "choices": [
+          "Red",
+          "Green"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kira eats a red apple that goes 'crunch, crunch, crunch!'"
+      },
+      {
+        "id": "q2",
+        "question": "What sound do the blueberries make?",
+        "choices": [
+          "Pop, pop, pop",
+          "Smoosh, smoosh, smoosh"
+        ],
+        "correctIndex": 1,
+        "explanation": "The blueberries go 'smoosh, smoosh, smoosh' when Kira squishes them!"
+      },
+      {
+        "id": "q3",
+        "question": "Who helps Kira with the purple grapes?",
+        "choices": [
+          "Grandmother",
+          "Father"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kira's father helps cut the purple grapes safely for her to eat."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Red ___! Crunch, crunch, crunch.",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "apple",
+            "distractors": [
+              "banana",
+              "grape",
+              "carrot"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "___ blueberries! Smoosh, smoosh, smoosh.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Blue",
+            "distractors": [
+              "Red",
+              "Yellow",
+              "Green"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "id": "baby-colors-093",
+  "title": "Yara's Colorful Snacks",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "colors",
+    "food"
+  ],
+  "wordCount": 36,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Yara discovers different colored foods at snack time, making delighted sounds as she explores red apples, yellow bananas, green peas, and more. Each colorful bite brings joy and new sounds in this gentle exploration of colors and healthy foods.",
+  "coverImage": "covers/baby-colors-093.webp",
+  "chapters": [
+    {
+      "title": "Yara's Colorful Snacks",
+      "pages": [
+        {
+          "text": "Yara sits in her high chair. Snack time!",
+          "illustration": {
+            "description": "A happy baby girl with warm brown skin and curly dark hair sits in a cream-colored high chair. She wears a soft lavender bib and has bright, curious eyes. The kitchen background is simple with pale yellow walls and a wooden table. Yara's hands are raised excitedly, and she has a big smile on her round, cherubic face.",
+            "alt": "Baby Yara sitting happily in her high chair ready for snack time",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Red apple. Crunch, crunch!",
+          "illustration": {
+            "description": "Yara holds a bright red apple slice in her small hands, taking a bite with a delighted expression. Apple juice glistens on her chin. The red apple contrasts beautifully against her lavender bib. Her eyes are wide with joy, and there are small apple pieces on her high chair tray.",
+            "alt": "Yara eating a red apple slice and making crunching sounds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Yellow banana. Squish, squish!",
+          "illustration": {
+            "description": "Yara squeezes a piece of soft yellow banana between her tiny fingers, giggling as it squishes. Some banana is smeared on her cheek and bib. Her expression shows pure delight and curiosity. The bright yellow banana creates a sunny, warm feeling against the soft background.",
+            "alt": "Yara playing with and eating yellow banana pieces",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Green peas. Pop, pop!",
+          "illustration": {
+            "description": "Yara picks up bright green peas one by one, some rolling around her tray. She has successfully gotten one in her mouth and looks very proud. A few peas have fallen on the floor. Her fine motor skills are on display as she concentrates on picking up the small round peas.",
+            "alt": "Yara carefully picking up and eating green peas",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Orange carrots. Munch, munch!",
+          "illustration": {
+            "description": "Yara gnaws on a soft, cooked orange carrot stick held firmly in both hands. Her two little teeth are visible as she munches contentedly. Orange specks dot her bib and tray. Her expression is focused and satisfied as she enjoys the sweet carrot.",
+            "alt": "Yara munching on orange carrot sticks",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Purple grapes. Slurp, slurp!",
+          "illustration": {
+            "description": "Yara holds a halved purple grape, the juice making her fingers sticky. She makes a funny surprised face at the burst of grape flavor. Purple juice stains her lips slightly. The deep purple color of the grapes stands out against her light-colored high chair tray.",
+            "alt": "Yara tasting juicy purple grapes",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Blue blueberries. Squash, squash!",
+          "illustration": {
+            "description": "Yara has several small blueberries on her tray and is gently squashing one between her fingers, creating a purple-blue stain. Her face shows concentration and wonder at the color change. Some whole blueberries remain on her tray, and a few have rolled away.",
+            "alt": "Yara exploring blue blueberries and squashing them",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Yara loves colors. Yummy!",
+          "illustration": {
+            "description": "Yara claps her messy hands together with pure joy, food remnants of all colors visible on her bib, face, and tray. Her smile is radiant and her eyes sparkle with happiness. Around her tray are small pieces of all the colorful foods she's enjoyed, creating a rainbow of healthy snacks.",
+            "alt": "Happy Yara celebrating her colorful snack time",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "colors",
+      "food exploration",
+      "sensory play",
+      "healthy eating"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color is Yara's apple?",
+        "choices": [
+          "Red",
+          "Green"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yara eats a red apple that goes crunch, crunch!"
+      },
+      {
+        "id": "q2",
+        "question": "What sound do the peas make?",
+        "choices": [
+          "Squish",
+          "Pop"
+        ],
+        "correctIndex": 1,
+        "explanation": "The green peas make a pop, pop sound!"
+      },
+      {
+        "id": "q3",
+        "question": "What does Yara sit in?",
+        "choices": [
+          "High chair",
+          "Regular chair"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yara sits in her high chair for snack time!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "id": "puzzle1",
+        "text": "Red apple. ___, crunch!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "Crunch",
+            "distractors": [
+              "Pop",
+              "Squish",
+              "Munch"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "puzzle2",
+        "text": "___ banana. Squish, squish!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Yellow",
+            "distractors": [
+              "Red",
+              "Green",
+              "Purple"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

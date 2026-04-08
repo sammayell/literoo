@@ -1,0 +1,174 @@
+{
+  "id": "baby-nature-018",
+  "title": "Mateo's Sleepy Garden",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "nature",
+    "bedtime"
+  ],
+  "wordCount": 37,
+  "readingLevel": "0.5",
+  "synopsis": "Little Mateo explores his garden as evening approaches, saying goodnight to flowers, bees, birds, and trees with gentle sounds and repetitive phrases that create a soothing bedtime rhythm.",
+  "coverImage": "covers/baby-nature-018.webp",
+  "chapters": [
+    {
+      "title": "Goodnight Garden",
+      "pages": [
+        {
+          "text": "Mateo walks in the garden. The sun goes down.",
+          "illustration": {
+            "description": "A toddler boy with warm brown skin, dark curly hair, and bright brown eyes wearing a soft yellow shirt walks through a lush garden. The setting sun casts golden light through green leaves and colorful flowers. Gentle watercolor style with rounded shapes and warm pastel colors.",
+            "alt": "Mateo walking in a beautiful garden at sunset",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Goodnight flowers. Whoosh, whoosh.",
+          "illustration": {
+            "description": "Mateo gently touches bright pink and purple flowers that sway in the evening breeze. His face shows wonder and peace. The flowers have soft, rounded petals in high contrast colors. Background shows blurred garden elements in warm pastels.",
+            "alt": "Mateo saying goodnight to swaying flowers",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Goodnight bees. Buzz, buzz.",
+          "illustration": {
+            "description": "Two friendly cartoon bees with large eyes and gentle smiles fly near yellow sunflowers while Mateo waves goodbye. The bees are drawn with soft, rounded shapes in bright yellow and black. Mateo's expression is joyful and calm.",
+            "alt": "Mateo waving to buzzing bees near sunflowers",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Goodnight birds. Tweet, tweet.",
+          "illustration": {
+            "description": "Small blue and red birds perch on a low branch as Mateo looks up at them with delight. The birds have large, friendly faces and fluffy feathers. Soft green leaves frame the scene with warm evening light filtering through.",
+            "alt": "Mateo looking up at tweeting birds on a branch",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Goodnight trees. Rustle, rustle.",
+          "illustration": {
+            "description": "Mateo stands beside a large oak tree with a gentle face drawn in its bark. Green leaves rustle above in soft curves. The tree appears friendly and protective, with Mateo reaching out to touch its smooth trunk.",
+            "alt": "Mateo touching a friendly tree with rustling leaves",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Goodnight garden. Shh, shh.",
+          "illustration": {
+            "description": "The entire garden scene in soft twilight blues and purples, with Mateo in the center making a gentle shushing gesture. Stars begin to twinkle in the darkening sky. All the garden elements from previous pages are visible in peaceful harmony.",
+            "alt": "Mateo saying shh to the quiet twilight garden",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Goodnight Mateo. Sleep tight.",
+          "illustration": {
+            "description": "Mateo walking toward a cozy house with warm yellow light glowing from the windows. His mother, a woman with long black hair and warm brown skin, waits in the doorway with open arms. The garden behind them is peaceful and moonlit.",
+            "alt": "Mateo walking home to his mother at bedtime",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Sweet dreams. Zzz, zzz.",
+          "illustration": {
+            "description": "Mateo sleeping peacefully in his bed, covered by a soft blue blanket. Through his window, the garden is visible under a gentle moon and stars. Dream clouds show tiny flowers, bees, and birds floating peacefully above his head.",
+            "alt": "Mateo sleeping peacefully with garden dreams",
+            "layout": "full_page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "nature appreciation",
+      "gentle transitions",
+      "sensory sounds"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound do the bees make?",
+        "choices": [
+          "Buzz, buzz",
+          "Tweet, tweet"
+        ],
+        "correctIndex": 0,
+        "explanation": "The bees make a buzz, buzz sound in the garden!"
+      },
+      {
+        "id": "q2",
+        "question": "What does Mateo do in the garden?",
+        "choices": [
+          "Says goodnight",
+          "Picks flowers"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mateo says goodnight to all his garden friends!"
+      },
+      {
+        "id": "q3",
+        "question": "Where does Mateo go at the end?",
+        "choices": [
+          "To bed",
+          "To school"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mateo goes to bed for sweet dreams after his garden adventure!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Goodnight flowers. _____, _____.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "Whoosh",
+            "distractors": [
+              "Buzz",
+              "Tweet",
+              "Rustle"
+            ]
+          },
+          {
+            "wordIndex": 3,
+            "correctWord": "whoosh",
+            "distractors": [
+              "buzz",
+              "tweet",
+              "rustle"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Goodnight _____. Tweet, tweet.",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "birds",
+            "distractors": [
+              "bees",
+              "flowers",
+              "trees"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

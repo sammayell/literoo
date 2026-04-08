@@ -1,0 +1,165 @@
+{
+  "id": "baby-peek-a-boo-080",
+  "title": "Atlas Finds the Rainbow",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "peek-a-boo",
+    "colors"
+  ],
+  "wordCount": 43,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Atlas plays peek-a-boo with colorful friends hiding behind bright objects in his backyard, discovering red, blue, yellow, and green in a delightful pattern of surprise and discovery.",
+  "coverImage": "covers/baby-peek-a-boo-080.webp",
+  "chapters": [
+    {
+      "title": "Rainbow Peek-a-Boo",
+      "pages": [
+        {
+          "text": "Atlas looks around. Where are the colors?",
+          "illustration": {
+            "description": "Atlas, a cheerful toddler with warm brown skin and curly black hair, stands in a sunny backyard with wide curious eyes. He wears a soft white t-shirt and blue overalls. The background shows a simple garden with green grass and a wooden fence, painted in gentle watercolor style with high contrast colors.",
+            "alt": "Atlas looking around a colorful backyard",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Red apple! Munch, munch!",
+          "illustration": {
+            "description": "A bright red apple appears from behind a leafy green tree branch. A smiling girl with East Asian features and straight black hair in pigtails peeks out beside the apple, giggling. The red apple is large and glossy against the soft green leaves, creating strong visual contrast for baby eyes.",
+            "alt": "Girl peeking with a red apple behind green leaves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Blue ball! Bounce, bounce!",
+          "illustration": {
+            "description": "A vibrant blue rubber ball bounces from behind a white garden gate. A boy with light brown skin and short wavy hair appears beside it, his hands outstretched to catch the ball. The blue ball creates a strong contrast against the pale wooden gate and green grass.",
+            "alt": "Boy playing peek-a-boo with a bouncing blue ball",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Yellow sun! Shine, shine!",
+          "illustration": {
+            "description": "A bright golden-yellow sun emerges from behind fluffy white clouds. A girl with dark skin and natural curly hair tied with a yellow ribbon waves at Atlas from beside a tall sunflower. The warm yellows dominate the composition with soft blue sky in the background.",
+            "alt": "Girl with sunflower as yellow sun appears from clouds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Green frog! Hop, hop!",
+          "illustration": {
+            "description": "A bright green frog jumps out from behind large lily pads in a small garden pond. A boy with medium brown skin and straight black hair crouches beside the pond, pointing excitedly at the frog. The green frog and lily pads create rich contrast against the blue water.",
+            "alt": "Boy discovering a green frog by the pond",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Atlas claps his hands. Clap, clap!",
+          "illustration": {
+            "description": "Atlas stands in the center with his hands raised in a clapping motion, his face bright with joy and wonder. All four diverse children from previous pages surround him in a circle, also clapping and smiling. The colorful objects - red apple, blue ball, yellow sun, and green frog - are visible around the garden scene.",
+            "alt": "Atlas clapping with all his friends in the colorful garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "All the colors come to play!",
+          "illustration": {
+            "description": "A beautiful rainbow arcs across the sky above the garden where Atlas and all his diverse friends dance together. The red apple, blue ball, yellow sun rays, and green frog are all visible in the scene, creating a harmonious blend of all the colors they discovered together.",
+            "alt": "Rainbow over the garden with Atlas and friends dancing",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo, Atlas! Sweet dreams!",
+          "illustration": {
+            "description": "Atlas sits peacefully under a large oak tree, eyes sleepy and content, surrounded by gentle watercolor versions of all the colored objects floating dreamily around him. The scene has a soft, twilight glow with pastel versions of the red, blue, yellow, and green colors creating a soothing bedtime atmosphere.",
+            "alt": "Sleepy Atlas resting under a tree with dreamy colored objects",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "colors",
+      "friendship",
+      "discovery",
+      "nature"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color is the apple that Atlas finds?",
+        "choices": [
+          "Red",
+          "Green"
+        ],
+        "correctIndex": 0,
+        "explanation": "The apple that appears in the peek-a-boo game is bright red!"
+      },
+      {
+        "id": "q2",
+        "question": "What sound does the ball make?",
+        "choices": [
+          "Hop, hop",
+          "Bounce, bounce"
+        ],
+        "correctIndex": 1,
+        "explanation": "The blue ball goes bounce, bounce when it appears!"
+      },
+      {
+        "id": "q3",
+        "question": "What does Atlas do with his hands at the end?",
+        "choices": [
+          "Clap, clap",
+          "Wave, wave"
+        ],
+        "correctIndex": 0,
+        "explanation": "Atlas claps his hands happily when he sees all the colors!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Peek-a-boo! ___ apple! Munch, munch!",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "Red",
+            "distractors": [
+              "Blue",
+              "Yellow",
+              "Green"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Peek-a-boo! Blue ___! Bounce, bounce!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "ball",
+            "distractors": [
+              "sun",
+              "frog",
+              "tree"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

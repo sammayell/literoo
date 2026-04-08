@@ -1,0 +1,174 @@
+{
+  "id": "baby-bedtime-031",
+  "title": "Ines Counts Sweet Dreams",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "bedtime",
+    "counting"
+  ],
+  "wordCount": 40,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Ines counts her way to dreamland with soft sounds and gentle friends. Each page features a number from one to eight, with soothing sounds and cozy bedtime imagery that helps little ones wind down for sleep.",
+  "coverImage": "covers/baby-bedtime-031.webp",
+  "chapters": [
+    {
+      "title": "Counting to Dreams",
+      "pages": [
+        {
+          "text": "One soft pillow. Fluff, fluff!",
+          "illustration": {
+            "description": "Baby Ines with dark curly hair and warm brown skin sits on a cozy bed, hugging a large white fluffy pillow. She wears soft pink pajamas with tiny stars. The bedroom has warm peach walls and a gentle nightlight casting soft golden light. Her expression is peaceful and sleepy.",
+            "alt": "Ines hugging a fluffy white pillow on her bed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Two sleepy eyes. Blink, blink!",
+          "illustration": {
+            "description": "Close-up of Ines's face with her dark eyes slowly blinking, long eyelashes visible. Her mother, a woman with similar features and a gentle smile, leans over her. Soft lavender and cream colors dominate the scene. The lighting is dim and soothing, creating a dreamy atmosphere.",
+            "alt": "Ines blinking sleepy eyes as her mother watches lovingly",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Three teddy bears. Snuggle, snuggle!",
+          "illustration": {
+            "description": "Three adorable teddy bears of different sizes sit on Ines's bed - one brown, one cream, one soft gray. Ines reaches for them with both arms outstretched, smiling sleepily. The bears have button eyes and friendly faces. Soft blue and pink tones fill the cozy bedroom scene.",
+            "alt": "Three teddy bears on the bed waiting for Ines to snuggle",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Four little toes. Wiggle, wiggle!",
+          "illustration": {
+            "description": "Ines lies on her back, legs up in the air, wiggling her tiny toes. She wears soft yellow footie pajamas. Her father, a man with kind eyes and gentle hands, playfully touches her feet. The room is filled with warm golden light, creating a playful yet calm mood.",
+            "alt": "Ines wiggling her toes while her father plays with her feet",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Five fingers wave. Bye-bye day!",
+          "illustration": {
+            "description": "Ines sits up in bed, waving her small hand with all five fingers spread wide toward a window showing the purple twilight sky. Stars are beginning to twinkle outside. Her grandmother, an elderly woman with silver hair and warm smile, waves back from the doorway. Soft purple and indigo colors create a peaceful evening mood.",
+            "alt": "Ines waving goodbye to the day at her bedroom window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Six soft kisses. Smooch, smooch!",
+          "illustration": {
+            "description": "Ines receives gentle kisses on her forehead and cheeks from her diverse family members - mother, father, and grandmother gathered around her bed. Each face shows love and tenderness. Warm rose and cream colors envelope the scene. Ines giggles softly with pure joy, her arms reaching up to hug them.",
+            "alt": "Family giving Ines loving goodnight kisses",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Seven stars twinkle. Sparkle, sparkle!",
+          "illustration": {
+            "description": "Through Ines's window, seven bright stars twinkle against a deep navy sky. Ines points excitedly at them while nestled under her soft blanket. A crescent moon smiles down. The room is dimly lit with only the starlight and a soft nightlight creating magical shadows and a dreamy atmosphere.",
+            "alt": "Seven twinkling stars visible through Ines's bedroom window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Eight dreams floating. Shh, shh!",
+          "illustration": {
+            "description": "Ines sleeps peacefully, surrounded by eight dreamy cloud-like bubbles floating above her bed. Each bubble contains gentle dream images - flowers, butterflies, rainbows. Her face is serene and content. Soft mint green and lavender hues create a magical, ethereal atmosphere. Everything feels calm and weightless.",
+            "alt": "Sleeping Ines with eight dream bubbles floating above her",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "counting",
+      "family love",
+      "peaceful sleep"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How many teddy bears does Ines have?",
+        "choices": [
+          "Two teddy bears",
+          "Three teddy bears"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ines has three teddy bears on her bed - one brown, one cream, and one gray!"
+      },
+      {
+        "id": "q2",
+        "question": "What do the stars do in the sky?",
+        "choices": [
+          "Twinkle and sparkle",
+          "Jump and dance"
+        ],
+        "correctIndex": 0,
+        "explanation": "The seven stars twinkle and sparkle in the night sky outside Ines's window!"
+      },
+      {
+        "id": "q3",
+        "question": "What sound do kisses make?",
+        "choices": [
+          "Wiggle, wiggle",
+          "Smooch, smooch"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kisses make a 'smooch, smooch' sound when Ines's family gives her goodnight kisses!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Three teddy bears. ___, ___!",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "Snuggle",
+            "distractors": [
+              "Wiggle",
+              "Blink",
+              "Sparkle"
+            ]
+          },
+          {
+            "wordIndex": 4,
+            "correctWord": "snuggle",
+            "distractors": [
+              "wiggle",
+              "blink",
+              "sparkle"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "___ stars twinkle. Sparkle, sparkle!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Seven",
+            "distractors": [
+              "Three",
+              "Five",
+              "Two"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

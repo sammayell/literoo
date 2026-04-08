@@ -1,0 +1,193 @@
+{
+  "id": "toddler-animals-032",
+  "title": "Rohan and the Lost Baby Bird",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "animals",
+    "adventure"
+  ],
+  "wordCount": 210,
+  "readingLevel": "1.2",
+  "synopsis": "When Rohan discovers a scared baby bird that has fallen from its nest, he embarks on a gentle adventure to help reunite the little creature with its mama, learning about kindness and bravery along the way.",
+  "coverImage": "covers/toddler-animals-032.webp",
+  "chapters": [
+    {
+      "title": "Finding Little Bird",
+      "pages": [
+        {
+          "text": "Rohan was playing in his backyard with his colorful blocks. He loved building tall towers and watching them wobble. The sun was warm and bright, making him feel happy.",
+          "illustration": {
+            "description": "A cheerful South Asian boy with dark curly hair wearing a bright blue t-shirt and orange shorts, sitting cross-legged on green grass. Colorful wooden blocks are scattered around him as he builds a tower. Golden sunlight filters through leafy trees in the background. His expression is joyful and concentrated.",
+            "alt": "Rohan playing with blocks in a sunny backyard",
+            "layout": "landscape"
+          }
+        },
+        {
+          "text": "Suddenly, Rohan heard a tiny sound. \"Peep! Peep!\" He looked around and saw a small baby bird on the ground. The little bird looked scared and was shaking its tiny wings.",
+          "illustration": {
+            "description": "Rohan kneeling on the grass, his brown eyes wide with curiosity and concern. A small yellow and brown baby bird sits on the ground nearby, looking frightened with ruffled feathers. The background shows green grass and dandelions. The mood is gentle but concerned.",
+            "alt": "Rohan discovering a scared baby bird on the ground",
+            "layout": "portrait"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Being Brave and Kind",
+      "pages": [
+        {
+          "text": "\"Don't be scared, little bird,\" whispered Rohan softly. He felt worried about the tiny creature. Where was its mama? Rohan looked up at the big oak tree and saw a nest high in the branches.",
+          "illustration": {
+            "description": "Rohan looking up at a tall oak tree with thick brown branches and green leaves. A bird's nest is visible high up in the branches. Rohan's face shows determination and kindness. The baby bird is at his feet, looking up at him trustingly. Warm afternoon light creates dappled shadows.",
+            "alt": "Rohan looking up at a bird's nest in a tree",
+            "layout": "portrait"
+          }
+        },
+        {
+          "text": "Rohan felt brave. He wanted to help! He ran inside and asked his mama, \"Can you help me get the baby bird back to its nest?\" His mama smiled and got a small ladder from the garage.",
+          "illustration": {
+            "description": "Rohan talking to his mother, a kind-looking South Asian woman with long black hair in a yellow dress. They're standing by the back door of a cozy house. Rohan looks excited and hopeful, gesturing with his hands. His mother has a warm, understanding smile as she listens to her son.",
+            "alt": "Rohan asking his mother for help",
+            "layout": "landscape"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Happy Together",
+      "pages": [
+        {
+          "text": "Very carefully, Rohan's mama climbed the ladder. Rohan held the baby bird gently in his cupped hands. \"Up you go, little one,\" he said as mama placed the bird back in its cozy nest.",
+          "illustration": {
+            "description": "Rohan's mother on a ladder reaching toward a bird's nest in the tree branches. Rohan stands below, carefully holding the small bird in his cupped palms. Both characters show gentle concentration. The scene has warm, golden lighting and conveys safety and care.",
+            "alt": "Mama helping return the baby bird to its nest",
+            "layout": "portrait"
+          }
+        },
+        {
+          "text": "Soon, mama bird flew down and chirped happily at Rohan. The baby bird peeped with joy from its nest. Rohan felt so happy and proud. He had helped a friend! \"Thank you for being so kind,\" said his mama, giving him a big hug.",
+          "illustration": {
+            "description": "A heartwarming scene showing Rohan beaming with happiness as a brown mother bird perches nearby, looking grateful. The baby bird is visible in the nest above, chirping joyfully. Rohan's mother hugs him warmly. The setting is bathed in golden sunlight with green foliage, creating a celebratory, loving atmosphere.",
+            "alt": "Everyone happy as the bird family is reunited",
+            "layout": "landscape"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "kindness",
+      "helping others",
+      "bravery",
+      "family"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Rohan feel when he first saw the baby bird?",
+        "choices": [
+          "Angry",
+          "Worried",
+          "Sleepy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Rohan felt worried about the tiny scared bird and wanted to help it."
+      },
+      {
+        "id": "q2",
+        "question": "Where did the baby bird need to go?",
+        "choices": [
+          "To the store",
+          "Back to its nest",
+          "To school"
+        ],
+        "correctIndex": 1,
+        "explanation": "The baby bird needed to go back to its nest high up in the tree."
+      },
+      {
+        "id": "q3",
+        "question": "Who helped Rohan return the bird?",
+        "choices": [
+          "His mama",
+          "His friend",
+          "The mailman"
+        ],
+        "correctIndex": 0,
+        "explanation": "Rohan's mama helped by getting a ladder and climbing up to return the bird to its nest."
+      },
+      {
+        "id": "q4",
+        "question": "How did everyone feel at the end?",
+        "choices": [
+          "Sad",
+          "Mad",
+          "Happy"
+        ],
+        "correctIndex": 2,
+        "explanation": "Everyone felt happy - Rohan was proud, mama bird was grateful, and baby bird was safe in its nest."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words",
+        "text": "Rohan heard a tiny _____ from the baby bird. He felt _____ and wanted to help the scared little creature.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "sound",
+            "distractors": [
+              "color",
+              "smell",
+              "taste"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "brave",
+            "distractors": [
+              "hungry",
+              "cold",
+              "sleepy"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Complete the Story",
+        "text": "Rohan's mama got a _____ to reach the high nest. When the baby bird was back home, everyone felt very _____.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "ladder",
+            "distractors": [
+              "ball",
+              "book",
+              "hat"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "happy",
+            "distractors": [
+              "angry",
+              "scared",
+              "tired"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

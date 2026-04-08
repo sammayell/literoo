@@ -1,0 +1,212 @@
+{
+  "id": "toddler-friendship-033",
+  "title": "Kira and the Lonely Butterfly",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "nature"
+  ],
+  "wordCount": 333,
+  "readingLevel": "1.2",
+  "synopsis": "When Kira finds a sad butterfly with a hurt wing in her garden, she learns about kindness and helping friends. With gentle care and the help of her diverse group of friends, they create a safe space for the butterfly to heal and discover that friendship comes in many forms.",
+  "coverImage": "covers/toddler-friendship-033.webp",
+  "chapters": [
+    {
+      "title": "The Sad Butterfly",
+      "pages": [
+        {
+          "text": "Kira loved playing in her backyard garden. The flowers were so pretty and colorful! Today, she wore her favorite yellow dress with tiny flower prints. She felt very happy in the warm sunshine.",
+          "illustration": {
+            "description": "A cheerful young South Asian girl named Kira with long dark braided hair, wearing a bright yellow dress with small flower patterns. She's standing in a lush garden with vibrant red roses, purple lavender, and orange marigolds. The background has a textured, construction paper-like quality with bold primary colors and rounded, friendly flower shapes.",
+            "alt": "Kira standing happily in a colorful garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Suddenly, Kira saw something small and orange near the roses. It was a butterfly! But the butterfly looked very sad. One of its beautiful wings was bent, and it couldn't fly. Kira felt worried for the little butterfly.",
+          "illustration": {
+            "description": "A close-up view showing Kira kneeling down with a concerned, gentle expression on her face. Next to her is a small orange and black butterfly sitting on the ground near bright red roses. The butterfly's left wing appears slightly damaged and drooped. The scene uses warm colors with a soft, textured background.",
+            "alt": "Kira looking worried at an injured butterfly near roses",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Oh no, little butterfly,\" said Kira softly. \"You look scared and hurt. Don't worry, I want to help you.\" She felt sad seeing the butterfly couldn't fly with its friends. Kira was very gentle and kind.",
+          "illustration": {
+            "description": "Kira sitting cross-legged on the grass, leaning forward with her hands gently cupped near the butterfly. Her expression is caring and compassionate. The butterfly sits on a large green leaf, looking small and vulnerable. Soft morning light filters through the scene with gentle yellow and green tones.",
+            "alt": "Kira speaking gently to the hurt butterfly",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Getting Help",
+      "pages": [
+        {
+          "text": "Kira ran to get her friends. First, she found Marcus, who had curly red hair and freckles. \"Marcus! Come help me! There's a butterfly that needs us!\" Marcus felt excited to help and ran with Kira to the garden.",
+          "illustration": {
+            "description": "Kira running excitedly toward her friend Marcus, a cheerful boy with bright red curly hair and freckles, wearing a green t-shirt and blue shorts. They're in a neighborhood setting with houses in the background. Both children have animated, enthusiastic expressions as they hurry together toward the garden.",
+            "alt": "Kira and Marcus running together to help the butterfly",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Next, they found Amara, who wore her hair in beautiful small braids with colorful beads. \"We need your help too, Amara!\" said Kira. Amara felt happy to help her friends. Now all three friends were ready to be brave together.",
+          "illustration": {
+            "description": "The three children standing together in the garden - Kira in her yellow dress, Marcus with his red curls, and Amara, a young Black girl with intricate braids adorned with bright colored beads, wearing a purple shirt. All three have determined, caring expressions as they look toward where the butterfly waits.",
+            "alt": "Three diverse friends ready to help the butterfly together",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The three friends looked at the butterfly together. \"We can make a safe place for it to rest,\" said Amara. Marcus found soft leaves. Kira brought clean water in a small cup. They all felt proud to work as a team.",
+          "illustration": {
+            "description": "The three children working together around the butterfly. Marcus is placing soft green leaves on the ground, Kira is carefully setting down a small blue cup of water, and Amara is gently arranging flower petals nearby. The orange butterfly sits in the center, looking more hopeful. The scene has bright, warm colors with a collaborative, caring mood.",
+            "alt": "The children working together to create a safe space for the butterfly",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "A New Friend",
+      "pages": [
+        {
+          "text": "The butterfly rested on the soft leaves for many days. The friends visited every morning and afternoon. They talked to the butterfly and sang gentle songs. Slowly, the butterfly's wing got better and stronger.",
+          "illustration": {
+            "description": "A peaceful scene showing the three children sitting in a circle around the butterfly's resting area over several days, indicated by a subtle time-passage effect. The children are taking turns visiting, with some holding small flowers and others simply sitting quietly. The butterfly appears more vibrant and its wing looks healthier.",
+            "alt": "The children caring for the butterfly over time",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "One sunny morning, something wonderful happened! The butterfly fluttered its wings and flew up into the air! Kira, Marcus, and Amara felt so happy and excited. They had helped their new friend feel better!",
+          "illustration": {
+            "description": "The orange butterfly flying gracefully above the three cheering children. Kira, Marcus, and Amara are jumping with joy, their arms raised in celebration. The butterfly creates a gentle trail of sparkles as it flies in the bright blue sky. Colorful flowers frame the scene, and everyone's expressions show pure delight and accomplishment.",
+            "alt": "The healed butterfly flying while the happy children celebrate",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The butterfly didn't fly away completely. Instead, it danced around the garden and landed gently on Kira's nose! All the friends giggled with joy. They learned that being kind and helping others makes everyone feel happy and loved.",
+          "illustration": {
+            "description": "A heartwarming close-up of Kira's smiling face with the orange butterfly perched delicately on her nose. Marcus and Amara are visible in the background, laughing with delight. The garden surrounds them with vibrant colors, and the mood is one of pure joy and friendship. Soft sunlight creates a magical, warm atmosphere throughout the scene.",
+            "alt": "The butterfly landing on Kira's nose while friends laugh with joy",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "kindness",
+      "helping others",
+      "friendship",
+      "nature",
+      "empathy"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Kira feel when she first saw the hurt butterfly?",
+        "choices": [
+          "Happy",
+          "Worried",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kira felt worried when she saw the butterfly was hurt and couldn't fly."
+      },
+      {
+        "id": 2,
+        "question": "Who helped Kira take care of the butterfly?",
+        "choices": [
+          "Marcus and Amara",
+          "Her mom",
+          "No one"
+        ],
+        "correctIndex": 0,
+        "explanation": "Marcus and Amara were Kira's friends who helped her care for the butterfly."
+      },
+      {
+        "id": 3,
+        "question": "What happened to the butterfly's wing?",
+        "choices": [
+          "It stayed broken",
+          "It got better",
+          "It fell off"
+        ],
+        "correctIndex": 1,
+        "explanation": "With the children's gentle care, the butterfly's wing healed and got better."
+      },
+      {
+        "id": 4,
+        "question": "How did everyone feel at the end of the story?",
+        "choices": [
+          "Sad",
+          "Scared",
+          "Happy"
+        ],
+        "correctIndex": 2,
+        "explanation": "Everyone felt happy because they helped their new butterfly friend and learned about kindness."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Kira felt very _____ when she saw the hurt butterfly in her garden.",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "sad",
+            "distractors": [
+              "angry",
+              "silly",
+              "hungry"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "The three friends worked together to _____ the little butterfly feel better.",
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "help",
+            "distractors": [
+              "scare",
+              "ignore",
+              "chase"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "When the butterfly could fly again, everyone felt very _____ and excited!",
+        "blanks": [
+          {
+            "wordIndex": 9,
+            "correctWord": "happy",
+            "distractors": [
+              "worried",
+              "tired",
+              "mad"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "id": "baby-counting-144",
+  "title": "Lars Counts Love",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "counting",
+    "family"
+  ],
+  "wordCount": 35,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Lars discovers counting from one to five as he experiences love from his diverse family members throughout his cozy day at home, featuring gentle sounds and repetitive patterns perfect for very young readers.",
+  "coverImage": "covers/baby-counting-144.webp",
+  "chapters": [
+    {
+      "title": "Counting with Lars",
+      "pages": [
+        {
+          "text": "One mama gives hugs. Squeeze, squeeze!",
+          "illustration": {
+            "description": "A warm scene showing baby Lars, a blonde toddler with rosy cheeks wearing soft blue pajamas, being gently hugged by his mama, a woman with warm brown skin and curly black hair in a yellow cardigan. They sit on a plush cream-colored armchair in a sunny nursery with pale yellow walls. Soft morning light streams through gauze curtains, creating a golden glow around the embracing pair.",
+            "alt": "Mama hugging baby Lars in a cozy nursery chair",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Two grandmas kiss cheeks. Smooch, smooch!",
+          "illustration": {
+            "description": "Lars sits giggling between two loving grandmothers on a soft peach-colored sofa. One grandma has silver-gray hair in a neat bun and wears a lavender sweater, while the other has short gray curls and a mint green blouse. Both lean in to kiss Lars's chubby cheeks simultaneously. The living room background features warm beige walls and a bookshelf with family photos.",
+            "alt": "Two grandmas kissing Lars's cheeks on a cozy sofa",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Three cousins play peek-a-boo. Boo, boo, boo!",
+          "illustration": {
+            "description": "Three diverse children are scattered around a soft play mat with Lars in the center, all playing peek-a-boo with colorful blankets. One cousin has dark skin and braided hair, another has East Asian features with straight black hair, and the third has freckles and red curls. The playroom has sage green walls and toys scattered about. Everyone's eyes are bright with laughter and joy.",
+            "alt": "Lars and three cousins playing peek-a-boo on a play mat",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Four tickles on tummy. Giggle, giggle, giggle, giggle!",
+          "illustration": {
+            "description": "Lars lies on his back on a fluffy white changing pad, his little arms and legs kicking with delight as gentle hands tickle his round tummy. His papa, a man with medium brown skin and a warm smile, leans over him wearing a soft coral-colored shirt. The nursery setting is filled with soft afternoon light, stuffed animals visible on nearby shelves in pastel colors.",
+            "alt": "Papa tickling laughing baby Lars on changing pad",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Five kisses goodnight. Mwah, mwah, mwah, mwah, mwah!",
+          "illustration": {
+            "description": "Lars snuggles in his white wooden crib under a soft mint green blanket, surrounded by his loving family members who lean in for goodnight kisses. The diverse family creates a protective circle around the crib - mama, papa, both grandmas, and the older cousins. Gentle nighttime lighting from a small lamp casts a warm golden glow, with a mobile of soft stars hanging above.",
+            "alt": "Family giving Lars five goodnight kisses in his crib",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "counting",
+      "family love",
+      "daily routines",
+      "diversity"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How many hugs does mama give Lars?",
+        "choices": [
+          "One",
+          "Two"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama gives Lars one big hug with lots of squeezes!"
+      },
+      {
+        "id": 2,
+        "question": "What sound do the cousins make?",
+        "choices": [
+          "Smooch",
+          "Boo"
+        ],
+        "correctIndex": 1,
+        "explanation": "The cousins say 'Boo!' when they play peek-a-boo with Lars."
+      },
+      {
+        "id": 3,
+        "question": "How many goodnight kisses does Lars get?",
+        "choices": [
+          "Four",
+          "Five"
+        ],
+        "correctIndex": 1,
+        "explanation": "Lars gets five sweet goodnight kisses from his family!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "One mama gives ____. Squeeze, squeeze!",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "hugs",
+            "distractors": [
+              "toys",
+              "food",
+              "books"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "____ cousins play peek-a-boo. Boo, boo, boo!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Three",
+            "distractors": [
+              "Two",
+              "Four",
+              "One"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

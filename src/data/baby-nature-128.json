@@ -1,0 +1,163 @@
+{
+  "id": "baby-nature-128",
+  "title": "Bodhi's Sleepy Garden",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "nature",
+    "bedtime"
+  ],
+  "wordCount": 69,
+  "readingLevel": "0.5",
+  "synopsis": "Follow little Bodhi as he explores his garden at bedtime, discovering sleepy animals and gentle sounds that help him drift peacefully to sleep.",
+  "coverImage": "covers/baby-nature-128.webp",
+  "chapters": [
+    {
+      "title": "Bodhi's Sleepy Garden",
+      "pages": [
+        {
+          "text": "Bodhi walks in his sleepy garden. Shh, shh, quiet time.",
+          "illustration": {
+            "description": "A sweet South Asian toddler boy with soft brown skin and dark curly hair wearing pale blue pajamas walks through a dreamy garden at twilight. Soft purple and pink sky with gentle stars beginning to twinkle. Garden has rounded flower shapes in pastel colors.",
+            "alt": "Bodhi walking in garden at bedtime",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The flowers whisper whoosh, whoosh. Sleep tight, little flowers.",
+          "illustration": {
+            "description": "Close-up of large, friendly-faced flowers with sleepy expressions and closed petals in soft lavender and peach tones. Gentle breeze lines show movement. Bodhi's small hand reaches toward them with wonder.",
+            "alt": "Sleepy flowers whispering in the breeze",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The bunny says yawn, yawn. Sleep tight, little bunny.",
+          "illustration": {
+            "description": "A fluffy white bunny with large drowsy eyes sits among soft grass, mouth open in a big yawn. Bodhi kneels nearby with a gentle smile. Warm golden light creates a cozy atmosphere with rounded, simple shapes.",
+            "alt": "Sleepy bunny yawning in the garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The bird chirps tweet, tweet. Sleep tight, little bird.",
+          "illustration": {
+            "description": "A small yellow bird with sleepy half-closed eyes perches on a curved tree branch. Bodhi looks up with soft wonder. The tree has rounded leaves in gentle green tones. Peaceful twilight colors fill the background.",
+            "alt": "Sleepy bird chirping softly on branch",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The bee hums buzz, buzz. Sleep tight, little bee.",
+          "illustration": {
+            "description": "A chubby, friendly bee with droopy wings and sleepy eyes rests on a large daisy. Bodhi watches with quiet curiosity. Soft yellow and white flower petals create a gentle bed for the tired bee.",
+            "alt": "Sleepy bee humming on a daisy",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The cricket sings chirp, chirp. Sleep tight, little cricket.",
+          "illustration": {
+            "description": "A small green cricket with kind eyes sits on a broad leaf, making gentle music. Bodhi sits cross-legged nearby, listening peacefully. Soft moonlight bathes the scene in silvery-blue tones with warm highlights.",
+            "alt": "Sleepy cricket chirping on a leaf",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The garden whispers hush, hush. Sleep tight, sweet Bodhi.",
+          "illustration": {
+            "description": "Bodhi lies curled up on soft grass surrounded by all his sleepy garden friends - the bunny, bird, bee, and cricket. Gentle stars twinkle overhead. Everything has a dreamy, peaceful quality with soft pastel colors blending together.",
+            "alt": "Bodhi sleeping peacefully in the garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Zzz, zzz. Dream sweet dreams.",
+          "illustration": {
+            "description": "A close-up of sleeping Bodhi with a content smile, surrounded by floating 'Z' letters in soft cloud shapes. His garden friends sleep peacefully nearby. Gentle night sky with twinkling stars creates a magical, restful scene.",
+            "alt": "Everyone sleeping peacefully under the stars",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "nature",
+      "bedtime",
+      "gentleness",
+      "friendship"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does the bunny do?",
+        "choices": [
+          "yawn",
+          "hop"
+        ],
+        "correctIndex": 0,
+        "explanation": "The bunny says yawn, yawn in the story."
+      },
+      {
+        "id": "q2",
+        "question": "What sound does the bee make?",
+        "choices": [
+          "chirp",
+          "buzz"
+        ],
+        "correctIndex": 1,
+        "explanation": "The bee hums buzz, buzz."
+      },
+      {
+        "id": "q3",
+        "question": "Where does Bodhi go to sleep?",
+        "choices": [
+          "garden",
+          "house"
+        ],
+        "correctIndex": 0,
+        "explanation": "Bodhi falls asleep in his sleepy garden."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "The bunny says [BLANK], [BLANK]. Sleep tight, little bunny.",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "yawn",
+            "distractors": [
+              "buzz",
+              "chirp"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "The [BLANK] hums buzz, buzz. Sleep tight, little [BLANK].",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "bee",
+            "distractors": [
+              "bird",
+              "bunny"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

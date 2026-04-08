@@ -1,0 +1,181 @@
+{
+  "id": "toddler-friendship-163",
+  "title": "Rosa and the Scared Little Bird",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "nature"
+  ],
+  "wordCount": 204,
+  "readingLevel": "1.2",
+  "synopsis": "When Rosa finds a scared little bird in her garden, she learns how kindness and patience can help make a new friend. Together with her diverse group of friends, Rosa shows the bird that the world can be a safe and happy place.",
+  "coverImage": "covers/toddler-friendship-163.webp",
+  "chapters": [
+    {
+      "title": "A Scared Little Friend",
+      "pages": [
+        {
+          "text": "Rosa loved playing in her garden. She liked to smell the flowers and watch the butterflies dance. The garden made her feel happy and peaceful. Today, something was different.",
+          "illustration": {
+            "description": "Rosa, a young girl with curly brown hair and warm brown skin, kneeling in a colorful garden full of bright red roses, yellow sunflowers, and purple lavender. Orange and blue butterflies flutter around her as she smiles peacefully. The background has a soft, textured appearance like construction paper with gentle green grass.",
+            "alt": "Rosa kneeling happily in her colorful garden with butterflies",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rosa heard a soft chirping sound from behind the big sunflower. She walked slowly and quietly to look. There was a tiny blue bird sitting on the ground, and it looked very scared.",
+          "illustration": {
+            "description": "A small, bright blue bird with big worried eyes sitting on brown earth behind a tall yellow sunflower. Rosa is visible in the background, approaching carefully with a gentle, concerned expression. The scene uses warm earth tones and bright yellows, with a soft textured background.",
+            "alt": "A scared little blue bird hiding behind a sunflower while Rosa approaches gently",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The little bird was shaking. Rosa felt sad to see the bird so frightened. 'Don't be scared, little bird,' Rosa whispered softly. 'I want to help you.' But the bird just chirped and trembled more.",
+          "illustration": {
+            "description": "Rosa crouching down with her hand extended gently toward the small blue bird. Her face shows kindness and concern. The bird is still trembling with wide, fearful eyes. Soft morning light filters through green leaves, creating a tender, caring atmosphere with rounded, friendly shapes.",
+            "alt": "Rosa reaching out gently to comfort the scared bird",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Making a New Friend",
+      "pages": [
+        {
+          "text": "Rosa had an idea. She called her friends to help. Maya came running with her pigtails bouncing. Kai rolled over in his wheelchair, smiling. 'We can help the bird together!' Rosa said happily.",
+          "illustration": {
+            "description": "Three diverse children gathered in the garden: Rosa with curly brown hair, Maya with black hair in pigtails and East Asian features, and Kai, a boy with light skin and blonde hair in a blue wheelchair. All three have excited, determined expressions. The garden setting is bright and welcoming with bold primary colors.",
+            "alt": "Rosa and her diverse friends Maya and Kai coming together to help",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The friends sat in a circle around the bird, but not too close. They spoke in gentle, quiet voices. Rosa sang a soft song. Maya made tiny clicking sounds. Kai whistled sweetly. The bird began to feel less scared.",
+          "illustration": {
+            "description": "The three children sitting in a peaceful circle with the little blue bird in the center. Each child is making gentle sounds - Rosa with her mouth open in song, Maya making soft clicking gestures, and Kai pursing his lips to whistle. The bird looks calmer with softer eyes. The scene has a magical, harmonious feeling with warm, rounded shapes.",
+            "alt": "The three friends sitting peacefully around the bird, making gentle sounds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Slowly, the brave little bird hopped closer to Rosa. It wasn't scared anymore! Rosa felt so happy and proud. The bird chirped a cheerful song, as if saying 'thank you' for being such kind friends.",
+          "illustration": {
+            "description": "The small blue bird now hopping confidently toward Rosa's outstretched hand, with bright, happy eyes and an open beak as if singing. Rosa beams with joy and pride, while Maya and Kai clap excitedly in the background. The garden is filled with vibrant colors and the whole scene radiates happiness and friendship.",
+            "alt": "The happy bird hopping toward Rosa while all the friends celebrate",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "kindness",
+      "helping others",
+      "overcoming fear",
+      "patience",
+      "diversity"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did the little bird feel at the beginning of the story?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "The little bird was scared and trembling when Rosa first found it behind the sunflower."
+      },
+      {
+        "id": "q2",
+        "question": "What did Rosa and her friends do to help the bird feel better?",
+        "choices": [
+          "They ran around loudly",
+          "They spoke gently and made soft sounds",
+          "They gave it food"
+        ],
+        "correctIndex": 1,
+        "explanation": "Rosa sang softly, Maya made gentle clicking sounds, and Kai whistled sweetly to help the bird feel safe."
+      },
+      {
+        "id": "q3",
+        "question": "How did Rosa feel when the bird wasn't scared anymore?",
+        "choices": [
+          "Sad",
+          "Scared",
+          "Happy and proud"
+        ],
+        "correctIndex": 2,
+        "explanation": "Rosa felt happy and proud when she saw that the bird trusted her and wasn't scared anymore."
+      },
+      {
+        "id": "q4",
+        "question": "What did the bird do at the end to say 'thank you'?",
+        "choices": [
+          "It flew away quickly",
+          "It sang a cheerful song",
+          "It hid again"
+        ],
+        "correctIndex": 1,
+        "explanation": "The bird chirped a cheerful song at the end, as if it was saying 'thank you' to Rosa and her friends for being so kind."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Rosa felt _____ when she saw the scared bird in her garden.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "sad",
+            "distractors": [
+              "happy",
+              "angry"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "The friends spoke in _____ voices to help the bird feel safe.",
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "gentle",
+            "distractors": [
+              "loud",
+              "scary"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "At the end, the _____ little bird hopped closer to Rosa.",
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "brave",
+            "distractors": [
+              "scared",
+              "sad"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

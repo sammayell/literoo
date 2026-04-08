@@ -1,0 +1,222 @@
+{
+  "id": "toddler-school-169",
+  "title": "Aiko's First Day Friends",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "school",
+    "animals"
+  ],
+  "wordCount": 206,
+  "readingLevel": "1.2",
+  "synopsis": "Aiko feels scared on her first day at animal school, but with help from her teacher and new friends, she discovers that being brave can lead to wonderful friendships and happy adventures.",
+  "coverImage": "covers/toddler-school-169.webp",
+  "chapters": [
+    {
+      "title": "Scared at School",
+      "pages": [
+        {
+          "text": "Aiko felt scared on her first day at animal school. Her tummy felt all twisty as she held Mama's hand tight. The big red school looked so different from home.",
+          "illustration": {
+            "description": "A young Asian girl with short black hair wearing a bright yellow backpack stands nervously outside a cheerful red brick school building. She holds her mother's hand tightly, looking worried with wide eyes. Colorful flowers line the walkway and other diverse animal characters walk toward the entrance.",
+            "alt": "Aiko looking scared outside her new school while holding her mother's hand",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Inside the classroom, Aiko saw many animal friends playing together. There was Benny the brown bear, Luna the white rabbit, and Zara the orange fox. But Aiko felt too scared to say hello.",
+          "illustration": {
+            "description": "A bright, colorful classroom with diverse animal characters playing with blocks and toys. Aiko stands in the doorway looking shy and uncertain. The animals include a friendly brown bear, white rabbit, and orange fox, all with welcoming expressions. The room has rainbow decorations and sunny yellow walls.",
+            "alt": "Aiko standing shyly in the doorway watching animal friends play in the classroom",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Finding Courage",
+      "pages": [
+        {
+          "text": "Mrs. Owl, the kind teacher, noticed Aiko feeling sad in the corner. \"Would you like to help me feed the class goldfish?\" she asked gently. Aiko nodded quietly.",
+          "illustration": {
+            "description": "A wise, gentle owl wearing colorful teacher glasses and a blue apron approaches Aiko who sits sadly in a cozy reading corner with soft cushions. The owl has warm, caring eyes and extended wings in a welcoming gesture. The corner has books and stuffed animals in soft, comforting colors.",
+            "alt": "Mrs. Owl the teacher kindly approaching sad Aiko in the classroom corner",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "As Aiko sprinkled fish food in the tank, Luna the rabbit hopped over. \"The fish look happy!\" Luna said with a big smile. Aiko felt a little brave and smiled back.",
+          "illustration": {
+            "description": "Aiko and a friendly white rabbit stand together by a colorful fish tank, watching golden fish swim happily. Aiko is smiling slightly, looking less scared, while Luna the rabbit has big cheerful eyes and is pointing at the fish excitedly. The aquarium glows with blue-green light and has tiny decorative castles.",
+            "alt": "Aiko and Luna the rabbit watching fish together, both smiling",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Want to build blocks with us?\" asked Benny the bear. Aiko took a deep breath and felt brave enough to try. \"Yes, please,\" she whispered.",
+          "illustration": {
+            "description": "A large, friendly brown bear with a warm smile extends his paw toward Aiko, inviting her to join a group building colorful blocks. Aiko looks more confident now, taking a small step forward. Other diverse animal friends are building a rainbow tower in the background, all with encouraging expressions.",
+            "alt": "Benny the bear inviting Aiko to play blocks while she looks brave and ready to join",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Happy Together",
+      "pages": [
+        {
+          "text": "Soon Aiko was laughing and building a tall tower with her new friends. She felt so happy! Zara the fox added a red block on top. \"We're great builders!\" Zara cheered.",
+          "illustration": {
+            "description": "Aiko sits happily in a circle with her animal friends, all working together on a magnificent tall tower made of bright colored blocks. Everyone is smiling and laughing, including Zara the orange fox who holds a red block triumphantly. The scene is full of joy and friendship with warm, bright colors all around.",
+            "alt": "Aiko and her animal friends happily building a colorful block tower together",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "At story time, all the friends sat together on the soft carpet. Aiko wasn't scared anymore. She felt brave and happy with her new animal friends at school.",
+          "illustration": {
+            "description": "All the animal friends and Aiko sit in a cozy circle on a rainbow-colored carpet listening to Mrs. Owl read a picture book. Aiko looks completely happy and relaxed, leaning against Luna the rabbit. Everyone has peaceful, content expressions as sunlight streams through the windows creating a warm, golden atmosphere.",
+            "alt": "Aiko and friends sitting happily together during story time with Mrs. Owl",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "overcoming fears",
+      "making friends",
+      "starting school",
+      "emotions",
+      "kindness"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Aiko feel on her first day of school?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Aiko felt scared on her first day because everything was new and different from home."
+      },
+      {
+        "id": "q2",
+        "question": "Who was Aiko's teacher?",
+        "choices": [
+          "Mrs. Bear",
+          "Mrs. Owl",
+          "Mrs. Fox"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mrs. Owl was the kind teacher who helped Aiko feel better by asking her to feed the fish."
+      },
+      {
+        "id": "q3",
+        "question": "What did Aiko do to help her feel brave?",
+        "choices": [
+          "Fed the fish",
+          "Ran away",
+          "Cried loudly"
+        ],
+        "correctIndex": 0,
+        "explanation": "Aiko helped Mrs. Owl feed the class goldfish, which helped her feel a little brave."
+      },
+      {
+        "id": "q4",
+        "question": "How did Aiko feel at the end of the story?",
+        "choices": [
+          "Still scared",
+          "Happy and brave",
+          "Sleepy"
+        ],
+        "correctIndex": 1,
+        "explanation": "By the end, Aiko felt happy and brave because she made new friends who were kind to her."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Complete the Story",
+        "text": "Aiko felt _____ on her first day, but Mrs. _____ helped her feel better. When Luna the _____ was friendly, Aiko started to feel _____.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "angry"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "Owl",
+            "distractors": [
+              "Bear",
+              "Fox"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "rabbit",
+            "distractors": [
+              "fish",
+              "block"
+            ]
+          },
+          {
+            "wordIndex": 3,
+            "correctWord": "brave",
+            "distractors": [
+              "sad",
+              "sleepy"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "What Happened Next?",
+        "text": "Benny the _____ asked Aiko to build _____ together. Soon everyone was _____ and building a tall tower!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "bear",
+            "distractors": [
+              "owl",
+              "rabbit"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "blocks",
+            "distractors": [
+              "fish",
+              "books"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "laughing",
+            "distractors": [
+              "crying",
+              "sleeping"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

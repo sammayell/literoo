@@ -1,0 +1,209 @@
+{
+  "id": "toddler-family-024",
+  "title": "Theo's Missing Teddy",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "family",
+    "humor"
+  ],
+  "wordCount": 208,
+  "readingLevel": "1.2",
+  "synopsis": "When Theo can't find his beloved teddy bear Mr. Snuggles anywhere, he feels sad and worried. With help from his family, Theo searches the house and discovers that sometimes the best solutions come from working together.",
+  "coverImage": "covers/toddler-family-024.webp",
+  "chapters": [
+    {
+      "title": "Where Is Mr. Snuggles?",
+      "pages": [
+        {
+          "text": "Theo woke up and reached for his teddy bear. \"Where is Mr. Snuggles?\" he asked. Theo looked all around his bed, but Mr. Snuggles was not there. Theo felt sad and worried.",
+          "illustration": {
+            "description": "A young Black boy with curly hair sitting up in his small toddler bed, looking confused and sad as he searches through rumpled blue blankets. His room has colorful toys scattered around, wooden floors, and morning sunlight streaming through a window with cheerful yellow curtains.",
+            "alt": "Theo looking sad in his bed searching for his teddy bear",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "\"Mama! Papa!\" called Theo. \"I can't find Mr. Snuggles anywhere!\" His voice sounded scared. Mama came running with her long braids bouncing. Papa followed right behind her with a big yawn.",
+          "illustration": {
+            "description": "Theo standing in his pajamas calling out with his arms raised, looking worried. His mama, a Black woman with long braids wearing a colorful robe, rushes toward him with concern. His papa, a Latino man with short beard in a striped shirt, follows behind stretching and yawning.",
+            "alt": "Theo calling for his parents who are coming to help him",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "\"Don't worry, little one,\" said Mama, giving Theo a warm hug. \"We will help you find Mr. Snuggles. Let's look together!\" Papa nodded and smiled. \"Yes! We are a team!\" Theo felt a little bit better but still worried.",
+          "illustration": {
+            "description": "Mama kneeling down hugging Theo while Papa stands beside them with his hand on Theo's shoulder, all three forming a close family huddle. Their expressions show love and determination. The background shows Theo's colorful bedroom with toys and books.",
+            "alt": "Theo's family hugging and reassuring him they'll help find the teddy bear",
+            "layout": "full"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Great Teddy Hunt",
+      "pages": [
+        {
+          "text": "The family searched everywhere! They looked under the couch cushions. They checked the toy box. They even looked in the kitchen. But no Mr. Snuggles! Theo started to feel scared again.",
+          "illustration": {
+            "description": "The family searching throughout their cozy home - Mama lifting couch cushions, Papa looking in a colorful toy chest, and Theo peeking under a kitchen table. The house has warm yellow walls, family photos, and looks lived-in and loving.",
+            "alt": "The family searching different rooms of the house for the teddy bear",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Then Papa had an idea. \"Theo, where did you play yesterday?\" Theo thought hard. \"The laundry room!\" he remembered. They all rushed to look. And there was Mr. Snuggles, clean and fluffy in the laundry basket!",
+          "illustration": {
+            "description": "All three family members crowded in the bright laundry room, with Papa pointing excitedly at a brown teddy bear sitting in a wicker laundry basket surrounded by clean, colorful clothes. Theo's face lights up with joy and relief while his parents smile proudly.",
+            "alt": "The family finding Mr. Snuggles in the laundry basket",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "\"Mr. Snuggles!\" Theo shouted happily. He hugged his teddy bear tight. \"I was so scared, but now I'm happy!\" Mama and Papa hugged them both. \"We're so glad we found him together,\" said Papa. Theo felt brave and loved.",
+          "illustration": {
+            "description": "Theo beaming with joy as he squeezes his brown teddy bear close to his chest, while Mama and Papa wrap their arms around both Theo and the teddy in a big family group hug. Everyone has huge smiles and the scene radiates warmth and happiness with soft golden lighting.",
+            "alt": "Happy family group hug with Theo holding his found teddy bear",
+            "layout": "full"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family support",
+      "problem-solving",
+      "emotions",
+      "teamwork"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Theo feel when he couldn't find Mr. Snuggles?",
+        "choices": [
+          "Happy",
+          "Sad and worried",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Theo felt sad and worried when he woke up and couldn't find his teddy bear."
+      },
+      {
+        "id": "q2",
+        "question": "Who helped Theo look for Mr. Snuggles?",
+        "choices": [
+          "His friends",
+          "Mama and Papa",
+          "His teacher"
+        ],
+        "correctIndex": 1,
+        "explanation": "Theo's mama and papa came to help him search for his missing teddy bear."
+      },
+      {
+        "id": "q3",
+        "question": "Where did they find Mr. Snuggles?",
+        "choices": [
+          "Under the bed",
+          "In the laundry basket",
+          "In the toy box"
+        ],
+        "correctIndex": 1,
+        "explanation": "They found Mr. Snuggles clean and fluffy in the laundry basket in the laundry room."
+      },
+      {
+        "id": "q4",
+        "question": "How did Theo feel at the end of the story?",
+        "choices": [
+          "Scared",
+          "Happy and loved",
+          "Tired"
+        ],
+        "correctIndex": 1,
+        "explanation": "At the end, Theo felt happy to have Mr. Snuggles back and loved because his family helped him."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Theo woke up and reached for his _____. He felt _____ when Mr. Snuggles was missing.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "teddy bear",
+            "distractors": [
+              "toy car",
+              "blanket",
+              "book"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "sad",
+            "distractors": [
+              "happy",
+              "silly",
+              "hungry"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Mama and Papa came to _____. They looked everywhere as a _____!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "help",
+            "distractors": [
+              "play",
+              "sleep",
+              "eat"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "team",
+            "distractors": [
+              "family",
+              "group",
+              "pair"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "They found Mr. Snuggles in the _____ basket. Theo felt _____ and hugged his teddy tight!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "laundry",
+            "distractors": [
+              "toy",
+              "picnic",
+              "shopping"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "happy",
+            "distractors": [
+              "scared",
+              "tired",
+              "angry"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

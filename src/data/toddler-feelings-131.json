@@ -1,0 +1,211 @@
+{
+  "id": "toddler-feelings-131",
+  "title": "Ines and the Big Moving Day",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "feelings",
+    "family"
+  ],
+  "wordCount": 262,
+  "readingLevel": "1.2",
+  "synopsis": "When little Ines has to move to a new house, she feels scared and sad about leaving her old room. With help from her loving family, she discovers that home is wherever the people who love you are, and she finds the courage to embrace her new beginning.",
+  "coverImage": "covers/toddler-feelings-131.webp",
+  "chapters": [
+    {
+      "title": "The Big News",
+      "pages": [
+        {
+          "text": "Ines sat on her bed with her favorite stuffed elephant, Luna. Mama sat beside her with kind eyes. \"We're moving to a new house,\" Mama said gently. Ines felt her tummy flip like a fish jumping in water.",
+          "illustration": {
+            "description": "A young Latina girl with curly dark hair and brown eyes sits on a small bed, hugging a gray stuffed elephant. Her mother, a warm-looking Latina woman with long dark hair, sits beside her with a gentle expression. The room has soft yellow walls with colorful drawings taped up. Ines looks worried while Mama reaches out comfortingly.",
+            "alt": "Ines hugging her stuffed elephant while her mother explains about moving",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"But I love my room,\" Ines said, feeling sad. Her bottom lip wobbled like jelly. She looked at her drawings on the wall and her toy box in the corner. \"Will Luna and I have a new room?\" she asked, squeezing her elephant tight.",
+          "illustration": {
+            "description": "Close-up of Ines looking sad with tears in her dark eyes, holding Luna the elephant protectively. Behind her, we see her bedroom wall covered in colorful crayon drawings of flowers, suns, and stick figures. A wooden toy box sits in the corner with toys spilling out. The lighting is warm but slightly dim to match her sad mood.",
+            "alt": "Ines looking sad while holding her stuffed elephant in her current bedroom",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Scared About Tomorrow",
+      "pages": [
+        {
+          "text": "The next morning, big boxes filled their house. Papa was packing books, and Abuela was wrapping dishes in soft paper. Ines felt scared watching everything disappear into boxes. \"What if I don't like the new house?\" she whispered to Luna.",
+          "illustration": {
+            "description": "A busy living room scene with cardboard boxes everywhere. Papa, a bearded Latino man in a blue shirt, packs books while Abuela, an older Latina woman with gray hair in a colorful dress, wraps dishes. Ines stands small among the boxes, clutching Luna, looking overwhelmed. The room has warm terracotta walls and family photos being packed away.",
+            "alt": "Family packing boxes while Ines looks scared and overwhelmed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Abuela noticed Ines looking scared. She knelt down and gave her a warm hug that smelled like cinnamon cookies. \"It's okay to feel scared about new things, mija,\" Abuela said softly. \"Even grown-ups feel scared sometimes. But you know what makes any house special?\"",
+          "illustration": {
+            "description": "Abuela kneeling at Ines's eye level, wrapping the little girl in a warm embrace. Both have gentle, loving expressions. Abuela wears a vibrant purple and orange dress with small flower patterns. The scene is surrounded by boxes but feels intimate and safe. Soft golden light creates a cozy atmosphere around the grandmother and granddaughter.",
+            "alt": "Abuela hugging Ines comfortingly while surrounded by moving boxes",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Finding Home",
+      "pages": [
+        {
+          "text": "At the new house, Ines felt brave holding Papa's hand. Her new room was bigger and had a window that looked at a big oak tree. \"Luna can watch the squirrels,\" Papa said, making Ines giggle. She was starting to feel a little bit happy.",
+          "illustration": {
+            "description": "Ines holding her father's large, gentle hand as they stand in a bright, empty bedroom with sunlight streaming through a large window. Outside the window, a magnificent oak tree with green leaves fills the view, and a few squirrels can be seen playing. The room has light blue walls and hardwood floors, feeling spacious and welcoming.",
+            "alt": "Ines and Papa exploring her new bedroom with a big window facing an oak tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "That night, Mama tucked Ines into her new bed with Luna beside her. \"Home isn't just a house,\" Mama whispered. \"Home is where your family loves you.\" Ines felt happy and safe, just like in her old room. She wasn't scared anymore because love came with them to their new house.",
+          "illustration": {
+            "description": "A cozy nighttime scene with Ines tucked into her new bed, Luna the elephant beside her on the pillow. Mama sits on the edge of the bed, gently stroking Ines's hair. The room is softly lit by a small nightlight, and through the window, the oak tree is silhouetted against a starry sky. Both Ines and Mama have peaceful, content expressions.",
+            "alt": "Mama tucking Ines into bed in her new room on their first night",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonds",
+      "coping with change",
+      "emotional growth",
+      "finding comfort"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Ines feel when Mama told her they were moving?",
+        "choices": [
+          "Happy and excited",
+          "Sad and worried",
+          "Angry and mad"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ines felt sad about leaving her old room and worried about the change. It's normal to feel this way about big changes!"
+      },
+      {
+        "id": 2,
+        "question": "Who gave Ines a warm, comforting hug?",
+        "choices": [
+          "Papa",
+          "Abuela",
+          "Luna the elephant"
+        ],
+        "correctIndex": 1,
+        "explanation": "Abuela noticed Ines was scared and gave her a warm hug that smelled like cinnamon cookies to make her feel better."
+      },
+      {
+        "id": 3,
+        "question": "What could Ines see from her new bedroom window?",
+        "choices": [
+          "The street",
+          "A big oak tree with squirrels",
+          "Other houses"
+        ],
+        "correctIndex": 1,
+        "explanation": "Papa showed Ines that her window looked out at a big oak tree where Luna could watch the squirrels play."
+      },
+      {
+        "id": 4,
+        "question": "What did Mama say makes a house into a home?",
+        "choices": [
+          "Pretty decorations",
+          "Family's love",
+          "Big rooms"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mama told Ines that home is where your family loves you, which helped Ines feel safe in the new house."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words",
+        "text": "Ines felt _____ about moving to a new house. Abuela gave her a warm _____ to help her feel better. At the new house, Ines felt _____ holding Papa's hand.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "excited",
+              "angry"
+            ]
+          },
+          {
+            "wordIndex": 11,
+            "correctWord": "hug",
+            "distractors": [
+              "cookie",
+              "toy",
+              "book"
+            ]
+          },
+          {
+            "wordIndex": 22,
+            "correctWord": "brave",
+            "distractors": [
+              "tired",
+              "silly",
+              "loud"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Complete the Story",
+        "text": "Mama said that _____ is where your family loves you. Ines wasn't _____ anymore because love came with them to their new _____.",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "home",
+            "distractors": [
+              "school",
+              "park",
+              "store"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "sleepy",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 19,
+            "correctWord": "house",
+            "distractors": [
+              "room",
+              "car",
+              "bed"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

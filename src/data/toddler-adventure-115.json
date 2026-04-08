@@ -1,0 +1,211 @@
+{
+  "id": "toddler-adventure-115",
+  "title": "Asha's Starlight Adventure",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "adventure",
+    "bedtime"
+  ],
+  "wordCount": 263,
+  "readingLevel": "1.2",
+  "synopsis": "When little Asha loses her favorite stuffed elephant at the park, she feels very sad. With help from her mama and new friends, she goes on a brave nighttime adventure to find Kavi, discovering that being scared is okay when you have people who care about you.",
+  "coverImage": "covers/toddler-adventure-115.webp",
+  "chapters": [
+    {
+      "title": "The Lost Friend",
+      "pages": [
+        {
+          "text": "Asha loved playing at the park with her stuffed elephant, Kavi. They went down the big slide together and rolled in the soft grass. Asha felt so happy when Kavi was with her.",
+          "illustration": {
+            "description": "A joyful South Asian toddler girl with dark curly hair in two small ponytails, wearing a bright yellow dress, sits on green grass holding a small gray stuffed elephant. The park setting has a colorful playground in the background with a blue slide. Her expression shows pure happiness with a big smile. The style is bright cartoon with rounded shapes and textured paper-like background in warm colors.",
+            "alt": "Happy Asha playing with her stuffed elephant Kavi at a sunny park",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "When it was time to go home, Asha looked everywhere for Kavi. Under the slide, by the swings, near the sandbox. But Kavi was gone! Asha felt very sad and scared without her best friend.",
+          "illustration": {
+            "description": "Asha looks worried and sad, searching around playground equipment with tears in her big brown eyes. Her mama, a woman with long black hair wearing a green cardigan, kneels beside her with a concerned, caring expression. The playground is shown in evening light with purple-orange sky. Other diverse families are in the background. The mood is gentle but melancholy with soft, muted colors.",
+            "alt": "Sad Asha and her mama searching for the lost stuffed elephant at the park",
+            "layout": "full"
+          }
+        }
+      ]
+    },
+    {
+      "title": "A Brave Plan",
+      "pages": [
+        {
+          "text": "That night, Asha couldn't sleep. She missed Kavi so much! Mama sat on her bed and said, 'Sometimes when we lose something special, we have to be brave to find it again.' Asha wiped her tears and nodded.",
+          "illustration": {
+            "description": "A cozy bedroom scene with Asha sitting up in bed with star-patterned pajamas, looking determined but still a little sad. Her mama sits on the edge of the bed, gently holding Asha's hand. The room is softly lit by a warm nightlight, with moon and star decorations on the walls. The colors are soothing blues and yellows with a nurturing, safe feeling.",
+            "alt": "Mama comforting Asha in her bedroom at night",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Together, they made a plan to return to the park with flashlights when the stars came out. 'I feel scared about the dark,' Asha said. 'That's okay,' Mama replied. 'Brave doesn't mean not scared. It means doing important things even when you feel scared.'",
+          "illustration": {
+            "description": "Asha and her mama preparing for their nighttime adventure, putting on jackets and gathering flashlights. Asha looks nervous but determined, holding a small flashlight. Through the window, stars twinkle in the dark blue night sky. The kitchen setting has warm lighting and family photos on the wall showing their loving home.",
+            "alt": "Asha and mama preparing for their nighttime search with flashlights",
+            "layout": "full"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Found with Friends",
+      "pages": [
+        {
+          "text": "At the park, their flashlight beams danced across the empty playground. Then they heard voices! Other families were there too, looking for lost toys. A boy named Marcus and his papa were searching for a lost ball.",
+          "illustration": {
+            "description": "The nighttime park scene with several diverse families using flashlights to search. Asha and her mama meet Marcus, a Black boy about Asha's age, and his papa who has a beard and glasses. The flashlight beams create bright circles of light against the dark playground. Stars sparkle overhead and everyone has kind, helpful expressions.",
+            "alt": "Families with flashlights helping each other search for lost items in the dark park",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Everyone helped each other look. Soon Marcus shouted, 'I found something!' There was Kavi, sitting quietly under the monkey bars. Asha felt so happy and grateful! She hugged Kavi tight and thanked her new friends.",
+          "illustration": {
+            "description": "A triumphant scene where Marcus points excitedly toward the monkey bars where the gray stuffed elephant sits. Asha's face lights up with pure joy and relief as she runs toward Kavi. The other families smile warmly in the background, their flashlights illuminating the happy reunion. The mood is celebratory with warm golden light and everyone sharing in Asha's happiness.",
+            "alt": "Asha joyfully reunited with her stuffed elephant Kavi while new friends celebrate",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Walking home under the twinkling stars, Asha felt proud and sleepy. She had been brave, made new friends, and found her beloved Kavi. 'Tomorrow we can play together again,' she whispered to her stuffed elephant as she drifted off to dream.",
+          "illustration": {
+            "description": "A peaceful nighttime scene of Asha and her mama walking home on a sidewalk lined with softly glowing streetlights. Asha sleepily carries Kavi while holding mama's hand. Stars and a crescent moon shine in the deep blue sky above. Their home glows warmly in the distance. The overall mood is serene and content with soft, dreamy colors.",
+            "alt": "Asha walking home peacefully with mama and Kavi under the starry night sky",
+            "layout": "full"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "courage",
+      "community support",
+      "dealing with loss",
+      "bedtime comfort"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Asha feel when she couldn't find Kavi?",
+        "choices": [
+          "Happy",
+          "Sad and scared",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Asha felt sad and scared when she lost her best friend Kavi at the park."
+      },
+      {
+        "id": "q2",
+        "question": "What did Mama say about being brave?",
+        "choices": [
+          "Brave means never feeling scared",
+          "Brave means doing important things even when scared",
+          "Brave means running fast"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mama taught Asha that being brave doesn't mean not feeling scared - it means doing important things even when you do feel scared."
+      },
+      {
+        "id": "q3",
+        "question": "Who helped Asha find Kavi?",
+        "choices": [
+          "Only Mama",
+          "Marcus and his papa",
+          "A park worker"
+        ],
+        "correctIndex": 1,
+        "explanation": "Marcus, a new friend, and his papa helped Asha and her mama search for Kavi at the park."
+      },
+      {
+        "id": "q4",
+        "question": "Where was Kavi found?",
+        "choices": [
+          "Under the slide",
+          "By the swings",
+          "Under the monkey bars"
+        ],
+        "correctIndex": 2,
+        "explanation": "Kavi was found sitting quietly under the monkey bars when Marcus spotted the stuffed elephant."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Complete the Story",
+        "text": "Asha loved playing with her stuffed ___ named Kavi. When she lost him, she felt very ___ and scared. Mama helped her make a ___ plan to find Kavi.",
+        "blanks": [
+          {
+            "wordIndex": 7,
+            "correctWord": "elephant",
+            "distractors": [
+              "tiger",
+              "bear",
+              "dog"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "sad",
+            "distractors": [
+              "happy",
+              "angry",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 25,
+            "correctWord": "brave",
+            "distractors": [
+              "silly",
+              "quick",
+              "loud"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Finish the Adventure",
+        "text": "At the park, they used ___ to search in the dark. Marcus and his papa helped them look. Everyone felt ___ when Kavi was found under the monkey bars.",
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "flashlights",
+            "distractors": [
+              "candles",
+              "phones",
+              "lanterns"
+            ]
+          },
+          {
+            "wordIndex": 19,
+            "correctWord": "happy",
+            "distractors": [
+              "tired",
+              "confused",
+              "worried"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

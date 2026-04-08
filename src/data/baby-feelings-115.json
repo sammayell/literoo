@@ -1,0 +1,165 @@
+{
+  "id": "baby-feelings-115",
+  "title": "Asha Feels the Sun",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "feelings",
+    "nature"
+  ],
+  "wordCount": 44,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Asha explores different feelings as she experiences nature's wonders throughout her day, from the warm sun to gentle rain, discovering joy and comfort in the natural world around her.",
+  "coverImage": "covers/baby-feelings-115.webp",
+  "chapters": [
+    {
+      "title": "Asha's Sunny Day",
+      "pages": [
+        {
+          "text": "Asha feels happy. The sun says hello!",
+          "illustration": {
+            "description": "A cheerful baby girl with dark curly hair and brown skin sits on soft green grass, arms raised toward a bright yellow sun with a smiling face. She wears a light pink onesie and has a wide, joyful smile. The background shows rolling hills in soft pastels with fluffy white clouds.",
+            "alt": "Happy baby Asha sitting in sunshine with arms raised up",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Whoosh! Wind tickles Asha's nose.",
+          "illustration": {
+            "description": "Asha giggles as gentle wind swirls around her, making her curly hair dance. Her eyes are bright with delight and her hand touches her nose. Soft blue and white wind swirls are visible, with dandelion seeds floating in the breeze. The scene uses warm yellows and soft blues.",
+            "alt": "Asha laughing as wind blows through her hair",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Splash! Rain makes tiny sounds.",
+          "illustration": {
+            "description": "Asha sits under a large leaf umbrella as gentle raindrops fall around her. She looks curious and calm, reaching one hand out to catch a raindrop. The rain is depicted as silver dots against a soft gray sky. Her expression shows wonder and contentment.",
+            "alt": "Asha sitting under a leaf as gentle rain falls",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Buzz! A bee visits yellow flowers.",
+          "illustration": {
+            "description": "Asha watches with wide, fascinated eyes as a friendly cartoon bee hovers near bright yellow sunflowers. The bee has a gentle smile and the flowers are large and cheerful. Asha sits cross-legged, pointing at the bee with excitement. The scene is filled with warm yellows and soft greens.",
+            "alt": "Asha watching a smiling bee near sunflowers",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Tweet! Birds sing sweet songs.",
+          "illustration": {
+            "description": "Two colorful birds perch on a low branch near Asha, their beaks open in song. Musical notes float in the air around them. Asha claps her hands with joy, her face lit up with happiness. The birds are blue and orange, and the background shows a peaceful garden setting.",
+            "alt": "Asha clapping as two birds sing on a branch",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Asha feels cozy. Mama holds her tight.",
+          "illustration": {
+            "description": "A loving mother with long black hair and warm brown skin holds baby Asha in a gentle embrace. Both have peaceful, content expressions. They sit on a soft blanket under a tree with dappled sunlight. The colors are warm peaches and soft golds, creating a feeling of safety and love.",
+            "alt": "Mama cuddling Asha under a peaceful tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Shh! Night-time is for dreaming.",
+          "illustration": {
+            "description": "Asha lies in her crib with a peaceful smile, surrounded by soft moonlight streaming through a window. A crescent moon and gentle stars shine outside. Her room is filled with soft purples and blues, with a few stuffed animals nearby. The scene radiates calm and comfort.",
+            "alt": "Asha sleeping peacefully in moonlight",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Good night, happy Asha!",
+          "illustration": {
+            "description": "A dreamy scene shows sleeping Asha surrounded by soft clouds with gentle images of her day floating around her - the sun, flowers, birds, and raindrops. Everything is rendered in soft, dreamy pastels with a magical, peaceful quality. Her face shows complete contentment.",
+            "alt": "Asha dreaming of her happy day with nature",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotions",
+      "nature sounds",
+      "daily routine",
+      "family bonding"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does the sun make Asha feel?",
+        "choices": [
+          "Happy",
+          "Sad"
+        ],
+        "correctIndex": 0,
+        "explanation": "The sun makes Asha feel happy!"
+      },
+      {
+        "id": "q2",
+        "question": "What sound does the bee make?",
+        "choices": [
+          "Tweet",
+          "Buzz"
+        ],
+        "correctIndex": 1,
+        "explanation": "The bee goes buzz!"
+      },
+      {
+        "id": "q3",
+        "question": "Who holds Asha tight?",
+        "choices": [
+          "Mama",
+          "Bird"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama holds Asha tight and cozy!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Asha feels happy. The ___ says hello!",
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "sun",
+            "distractors": [
+              "moon",
+              "bird",
+              "rain"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "___! A bee visits yellow flowers.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Buzz",
+            "distractors": [
+              "Tweet",
+              "Splash",
+              "Whoosh"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

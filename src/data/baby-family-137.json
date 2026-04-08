@@ -1,0 +1,165 @@
+{
+  "id": "baby-family-137",
+  "title": "Where Is Ada?",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "family",
+    "peek-a-boo"
+  ],
+  "wordCount": 37,
+  "readingLevel": "0.5",
+  "synopsis": "A delightful peek-a-boo adventure featuring baby Ada as she plays hiding games with her loving family members throughout their cozy home, creating joyful moments of discovery and connection.",
+  "coverImage": "covers/baby-family-137.webp",
+  "chapters": [
+    {
+      "title": "Where Is Ada?",
+      "pages": [
+        {
+          "text": "Where is Ada? Where can she be?",
+          "illustration": {
+            "description": "A cozy living room with soft cream walls and pastel blue furniture. Ada, a smiling baby with warm brown skin and curly black hair, peeks out from behind a large coral-colored armchair. Her dark eyes sparkle with mischief as she grins widely. Sunlight streams through a window, casting gentle shadows.",
+            "alt": "Baby Ada peeking from behind an armchair in a sunny living room",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Here I am!",
+          "illustration": {
+            "description": "Ada emerges fully from behind the chair, arms stretched wide with pure joy. She wears a soft yellow onesie with tiny flower patterns. Her mama, a woman with rich brown skin and natural hair in a colorful headwrap, claps her hands in delight nearby. The room glows with warm, golden light.",
+            "alt": "Ada jumping out with arms wide while mama claps happily",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Where is Ada? Look and see!",
+          "illustration": {
+            "description": "The kitchen scene shows Ada hiding behind bright yellow cabinet doors that are slightly ajar. Only her little bare feet are visible beneath the cabinet. Papa, a tall man with dark skin and gentle smile, searches with exaggerated curiosity. Pastel green and cream tiles create a cheerful backdrop.",
+            "alt": "Ada's feet visible under kitchen cabinet while papa searches",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! It's me!",
+          "illustration": {
+            "description": "Ada bursts out from the cabinet with a giggle, reaching toward papa who scoops her up. Both are laughing joyfully. Papa wears a soft lavender shirt. The kitchen counter has a bowl of colorful fruit, and morning light filters through sheer curtains, creating a warm, loving atmosphere.",
+            "alt": "Papa lifting up laughing Ada in the bright kitchen",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Where is Ada hiding now?",
+          "illustration": {
+            "description": "Ada's bedroom with pale pink walls and a white crib. A colorful quilt with rainbow patches is pulled up high on the bed, with just Ada's curly hair peeking over the top edge. Plush toys in soft pastels sit on nearby shelves, and a mobile with gentle shapes hangs above.",
+            "alt": "Ada hiding under a rainbow quilt in her crib",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Hello!",
+          "illustration": {
+            "description": "Ada throws off the quilt with both hands, sitting up in her crib with the biggest smile. Her grandmother, an older woman with silver-streaked hair and warm brown skin wearing a soft coral sweater, reaches in to lift her. The room is filled with gentle afternoon light and love.",
+            "alt": "Grandma reaching for Ada who sits up happily in her crib",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Where is Ada? Can you tell?",
+          "illustration": {
+            "description": "The family garden with soft green grass and pastel flowers. Ada sits behind a large sunflower, completely hidden except for her little hand reaching around the thick stem. Big brother, a school-age boy with the same warm skin tone, looks around with a playful grin, pretending not to see her.",
+            "alt": "Ada hiding behind a sunflower while big brother searches",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! All is well!",
+          "illustration": {
+            "description": "The whole family gathered in the garden for a group hug around Ada. Mama, Papa, Grandma, and big brother all embrace while Ada sits in the center, clapping her hands with pure delight. Butterflies flutter nearby and flowers bloom in soft rainbow colors all around them.",
+            "alt": "Happy family group hug with Ada in the center in the garden",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "hide and seek",
+      "joy",
+      "discovery"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Ada say when she's found?",
+        "choices": [
+          "Peek-a-boo!",
+          "Hello there!"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ada says 'Peek-a-boo!' every time she comes out of hiding!"
+      },
+      {
+        "id": "q2",
+        "question": "Where does Ada hide in her bedroom?",
+        "choices": [
+          "Under the quilt",
+          "Behind the door"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ada hides under her colorful rainbow quilt in her crib."
+      },
+      {
+        "id": "q3",
+        "question": "Who finds Ada in the garden?",
+        "choices": [
+          "Big brother",
+          "Papa"
+        ],
+        "correctIndex": 0,
+        "explanation": "Big brother is the one looking for Ada when she hides behind the sunflower."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Where is ___? Where can she be?",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "Ada",
+            "distractors": [
+              "Mama",
+              "Baby",
+              "Girl"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "___! Here I am!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Peek-a-boo",
+            "distractors": [
+              "Hello",
+              "Hi there",
+              "Look here"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

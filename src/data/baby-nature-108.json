@@ -1,0 +1,167 @@
+{
+  "id": "baby-nature-108",
+  "title": "Felix's Sleepy Forest",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "nature",
+    "bedtime"
+  ],
+  "wordCount": 57,
+  "readingLevel": "0.5",
+  "synopsis": "Little Felix takes a gentle walk through a peaceful forest as nighttime approaches, meeting sleepy animals who are settling down for bed. Each animal makes their special goodnight sound, creating a soothing pattern that helps Felix feel ready for his own bedtime.",
+  "coverImage": "covers/baby-nature-108.webp",
+  "chapters": [
+    {
+      "title": "Felix's Sleepy Forest",
+      "pages": [
+        {
+          "text": "Felix walks in the quiet woods. The sun goes down.",
+          "illustration": {
+            "description": "A small Black toddler boy with curly dark hair wearing a soft yellow pajama top walks on a winding dirt path through tall green trees. Golden sunset light filters through the branches, casting warm orange and pink hues across the forest floor. Felix has big, curious brown eyes and a gentle smile.",
+            "alt": "Felix walking on a forest path at sunset",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Owl says, 'Hoo, hoo!' Time for bed.",
+          "illustration": {
+            "description": "A fluffy brown owl with large golden eyes perches on a thick tree branch above Felix. The owl's feathers are soft and rounded, painted in warm browns and tans. Felix looks up with wonder, his small hands reaching toward the friendly owl in the twilight forest.",
+            "alt": "Owl on branch saying hoo hoo to Felix",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Bear says, 'Gruff, gruff!' Time for bed.",
+          "illustration": {
+            "description": "A gentle mama bear with soft brown fur sits beside her small cub near a cozy cave entrance. Both bears have sleepy, peaceful expressions with small black noses and kind eyes. Felix waves at them from the path as purple evening shadows stretch across the mossy ground.",
+            "alt": "Mama bear and cub saying gruff gruff near their cave",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Fox says, 'Yip, yip!' Time for bed.",
+          "illustration": {
+            "description": "A beautiful red fox with a fluffy white-tipped tail curls up in a bed of colorful autumn leaves. The fox has bright amber eyes and a content smile, surrounded by orange, red, and yellow fallen leaves. Felix crouches down to watch the fox settle in for the night.",
+            "alt": "Red fox curled in autumn leaves saying yip yip",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rabbit says, 'Thump, thump!' Time for bed.",
+          "illustration": {
+            "description": "A soft gray bunny with long floppy ears and a cotton-ball tail sits by a burrow entrance. The rabbit's nose twitches as it gently thumps one back foot on the earth. Felix sits cross-legged nearby, watching with sleepy eyes as stars begin to twinkle overhead.",
+            "alt": "Gray rabbit thumping by burrow entrance with Felix watching",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Cricket says, 'Chirp, chirp!' Time for bed.",
+          "illustration": {
+            "description": "A tiny green cricket sits on a large leaf, with delicate wings and long antennae. Soft moonbeams illuminate the cricket and surrounding grass. Felix yawns and rubs his eyes, looking drowsy as gentle night sounds fill the peaceful forest clearing.",
+            "alt": "Small green cricket on leaf chirping in moonlight",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Felix yawns. 'Night, night!'",
+          "illustration": {
+            "description": "Felix covers his mouth with both small hands as he gives a big yawn. His eyes are heavy with sleep, and he has a peaceful, content expression. The forest around him glows softly in silvery moonlight, with all the animal friends visible in the background settling into sleep.",
+            "alt": "Felix yawning and saying night night",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Shhh... All the forest sleeps. Sweet dreams, Felix!",
+          "illustration": {
+            "description": "Felix curls up peacefully on a soft bed of moss and flower petals, surrounded by sleeping forest animals. A warm blanket of starlight covers the scene. The owl, bear, fox, rabbit, and cricket are all visible sleeping contentedly nearby, creating a magical, dreamy forest bedtime scene.",
+            "alt": "Felix and all forest animals sleeping peacefully under starlight",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routines",
+      "nature sounds",
+      "animal friends",
+      "peaceful sleep"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does the owl make?",
+        "choices": [
+          "Hoo, hoo!",
+          "Woof, woof!"
+        ],
+        "correctIndex": 0,
+        "explanation": "The owl says 'Hoo, hoo!' when it's time for bed."
+      },
+      {
+        "id": "q2",
+        "question": "Which animal says 'Thump, thump!'?",
+        "choices": [
+          "Fox",
+          "Rabbit"
+        ],
+        "correctIndex": 1,
+        "explanation": "The rabbit thumps its foot and says 'Thump, thump!'"
+      },
+      {
+        "id": "q3",
+        "question": "What does Felix say at the end?",
+        "choices": [
+          "Good morning!",
+          "Night, night!"
+        ],
+        "correctIndex": 1,
+        "explanation": "Felix yawns and says 'Night, night!' when he's ready for bed."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Complete the Animal Sounds",
+        "text": "Owl says, '_____!' Time for bed.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "Hoo, hoo",
+            "distractors": [
+              "Moo, moo",
+              "Bow, wow",
+              "Meow, meow"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "What Does Felix Say?",
+        "text": "Felix yawns. '_____!'",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "Night, night",
+            "distractors": [
+              "Good day",
+              "Wake up",
+              "Let's play"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

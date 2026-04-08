@@ -1,0 +1,163 @@
+{
+  "id": "baby-colors-063",
+  "title": "Rosa's Rainbow Snacks",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "colors",
+    "food"
+  ],
+  "wordCount": 48,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Rosa discovers different colored foods throughout her day, making delicious sounds as she explores red apples, yellow bananas, green peas, and more colorful snacks in this gentle introduction to colors and food.",
+  "coverImage": "covers/baby-colors-063.webp",
+  "chapters": [
+    {
+      "title": "Rosa's Rainbow Snacks",
+      "pages": [
+        {
+          "text": "Rosa loves to munch! Crunch, crunch!",
+          "illustration": {
+            "description": "Baby Rosa, a cheerful Hispanic toddler with curly brown hair in tiny pigtails, sits in a wooden high chair with a bright smile. She has warm brown eyes and chubby cheeks. The background is soft cream with gentle sunlight streaming through a window.",
+            "alt": "Happy baby Rosa sitting in high chair ready to eat",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Red apple goes crunch! Yum, yum!",
+          "illustration": {
+            "description": "Rosa holding a bright red apple with both small hands, her eyes wide with delight. Apple juice glistens on her chin. The red apple contrasts beautifully against the soft pastel background. Her expression shows pure joy.",
+            "alt": "Rosa eating a red apple with joy",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Yellow banana goes squish! Mmm, mmm!",
+          "illustration": {
+            "description": "Rosa squeezing a bright yellow banana, with some banana mashed between her fingers. Her face shows concentration and happiness. Yellow banana pieces dot her high chair tray against a warm peach background.",
+            "alt": "Rosa squishing yellow banana with her hands",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Green peas go pop! Pop, pop!",
+          "illustration": {
+            "description": "Rosa picking up bright green peas one by one, her tongue slightly out in concentration. Several green peas are scattered on her tray. Her grandmother, an elderly Latina woman with silver hair, watches lovingly from the background.",
+            "alt": "Rosa eating green peas with grandmother watching",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Orange carrots go chomp! Chomp, chomp!",
+          "illustration": {
+            "description": "Rosa gnawing on orange carrot sticks, her few tiny teeth visible as she grins. Orange carrot pieces are around her mouth and on her bib. The background features soft orange and cream tones.",
+            "alt": "Rosa chomping on orange carrots",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Purple grapes go squirt! Squirt, squirt!",
+          "illustration": {
+            "description": "Rosa holding a cluster of deep purple grapes, grape juice running down her arm. Her father, a kind-faced Black man with gentle eyes, helps guide her hand. Purple and lavender colors fill the soft background.",
+            "alt": "Rosa and father sharing purple grapes",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Blue berries go plop! Plop, plop!",
+          "illustration": {
+            "description": "Rosa dropping bright blue blueberries into her mouth, some missing and rolling on her tray. Her expression shows surprise and delight. The background features soft blue and white watercolor washes.",
+            "alt": "Rosa dropping blue berries in her mouth",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "All colors taste so good! Hooray!",
+          "illustration": {
+            "description": "Rosa clapping her messy hands together with pure joy, surrounded by bits of all the colorful foods. Her face is covered in a rainbow of food remnants. Her whole family - grandmother, father, and mother (a warm-faced Asian woman) - applaud in the background.",
+            "alt": "Happy Rosa celebrating with colorful food mess and family",
+            "layout": "full_page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "colors",
+      "food exploration",
+      "family",
+      "sensory play"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "What color is Rosa's apple?",
+        "choices": [
+          "Red",
+          "Yellow"
+        ],
+        "correctIndex": 0,
+        "explanation": "Rosa's apple is red and goes crunch!"
+      },
+      {
+        "id": 2,
+        "question": "What sound do the green peas make?",
+        "choices": [
+          "Squish",
+          "Pop"
+        ],
+        "correctIndex": 1,
+        "explanation": "The green peas go pop, pop!"
+      },
+      {
+        "id": 3,
+        "question": "What fruit is yellow?",
+        "choices": [
+          "Grapes",
+          "Banana"
+        ],
+        "correctIndex": 1,
+        "explanation": "Rosa's yellow banana goes squish!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Red apple goes ___! Yum, yum!",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "crunch",
+            "distractors": [
+              "squish",
+              "pop"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "___ berries go plop! Plop, plop!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Blue",
+            "distractors": [
+              "Red",
+              "Green"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

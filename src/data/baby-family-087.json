@@ -1,0 +1,165 @@
+{
+  "id": "baby-family-087",
+  "title": "Where Is Ada?",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "family",
+    "peek-a-boo"
+  ],
+  "wordCount": 31,
+  "readingLevel": "0.5",
+  "synopsis": "A delightful peek-a-boo adventure where baby Ada plays hide-and-seek with her loving family members throughout their cozy home, creating joyful moments of surprise and connection.",
+  "coverImage": "covers/baby-family-087.webp",
+  "chapters": [
+    {
+      "title": "Where Is Ada?",
+      "pages": [
+        {
+          "text": "Where is Ada? Peek-a-boo!",
+          "illustration": {
+            "description": "A cheerful South Asian toddler girl Ada with dark curly hair and bright brown eyes, wearing a soft yellow dress, peeking out from behind a pastel blue curtain in a sunny living room. Her face shows pure delight with a big smile. The room has warm cream walls and a cozy beige sofa.",
+            "alt": "Ada peeking from behind a curtain with a joyful expression",
+            "layout": "center"
+          }
+        },
+        {
+          "text": "Where is Mama? Peek-a-boo!",
+          "illustration": {
+            "description": "A beautiful South Asian woman with long black hair in a soft green cardigan, hiding playfully behind a large potted plant with leafy green foliage. Her warm brown eyes sparkle with mischief as she prepares to surprise Ada. The background shows a kitchen with gentle morning light streaming through a window.",
+            "alt": "Mama hiding behind a plant, ready to play peek-a-boo",
+            "layout": "center"
+          }
+        },
+        {
+          "text": "Where is Papa? Peek-a-boo!",
+          "illustration": {
+            "description": "A smiling Black man with a neat beard wearing a soft lavender shirt, crouching behind a colorful striped armchair in the living room. His kind eyes peek over the chair back with anticipation. The room has warm wooden floors and soft natural lighting.",
+            "alt": "Papa hiding behind a colorful armchair",
+            "layout": "center"
+          }
+        },
+        {
+          "text": "Where is Dada? Peek-a-boo!",
+          "illustration": {
+            "description": "An elderly South Asian man with silver hair and a gentle smile, wearing a soft coral sweater, hiding behind the open refrigerator door in a bright kitchen. His weathered but kind hands grip the door handle. The kitchen has pale mint cabinets and warm white walls.",
+            "alt": "Grandfather hiding behind the refrigerator door",
+            "layout": "center"
+          }
+        },
+        {
+          "text": "Where is Nana? Peek-a-boo!",
+          "illustration": {
+            "description": "A smiling Black grandmother with gray hair in a neat bun, wearing a soft peach blouse, playfully hiding behind a large laundry basket filled with fluffy white towels. Her warm eyes twinkle with joy. The laundry room has soft blue walls and bright lighting.",
+            "alt": "Grandmother hiding behind a laundry basket",
+            "layout": "center"
+          }
+        },
+        {
+          "text": "Where is Baby? Peek-a-boo!",
+          "illustration": {
+            "description": "A chubby mixed-race baby boy with soft brown curls, wearing a mint green onesie, sitting inside a large wicker basket with soft cream blankets. His big dark eyes look surprised and delighted. The nursery has pale yellow walls with gentle sunlight filtering through sheer curtains.",
+            "alt": "Baby brother sitting in a wicker basket looking surprised",
+            "layout": "center"
+          }
+        },
+        {
+          "text": "Where is Kitty? Peek-a-boo!",
+          "illustration": {
+            "description": "A fluffy orange tabby cat with bright green eyes peeking out from underneath a soft pink bed with white ruffled bedding. Only the cat's face and paws are visible. The bedroom has warm lavender walls and a cozy, childlike atmosphere.",
+            "alt": "Orange cat hiding under a bed with ruffled bedding",
+            "layout": "center"
+          }
+        },
+        {
+          "text": "All together! Peek-a-boo!",
+          "illustration": {
+            "description": "The entire diverse family gathered in a cozy living room, all smiling and reaching toward baby Ada who sits in the center clapping her hands with pure joy. The family includes Mama, Papa, Dada, Nana, and Baby, with the orange cat nearby. Warm golden light fills the room with soft pastel furniture.",
+            "alt": "The whole family together playing peek-a-boo with Ada",
+            "layout": "center"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "peek-a-boo games",
+      "joy",
+      "togetherness"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "What game is the family playing?",
+        "choices": [
+          "Peek-a-boo",
+          "Hide and seek"
+        ],
+        "correctIndex": 0,
+        "explanation": "The family is playing peek-a-boo, which is perfect for babies!"
+      },
+      {
+        "id": 2,
+        "question": "What color is the kitty?",
+        "choices": [
+          "Orange",
+          "Black"
+        ],
+        "correctIndex": 0,
+        "explanation": "The kitty is orange and fluffy!"
+      },
+      {
+        "id": 3,
+        "question": "Where does Mama hide?",
+        "choices": [
+          "Behind a plant",
+          "Under the bed"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama hides behind a big leafy plant in the kitchen!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Where is Ada? ___-a-boo!",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "Peek",
+            "distractors": [
+              "Hide",
+              "Look",
+              "Play"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "All ___! Peek-a-boo!",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "together",
+            "distractors": [
+              "happy",
+              "hiding",
+              "playing"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

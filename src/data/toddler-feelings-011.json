@@ -1,0 +1,196 @@
+{
+  "id": "toddler-feelings-011",
+  "title": "Aaliya's Big Feelings Day",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "feelings",
+    "family"
+  ],
+  "wordCount": 174,
+  "readingLevel": "1.2",
+  "synopsis": "When Aaliya's favorite stuffed elephant goes missing, she experiences big feelings of sadness and worry. With help from her family, she learns that it's okay to feel sad and that asking for help can make everything better.",
+  "coverImage": "covers/toddler-feelings-011.webp",
+  "chapters": [
+    {
+      "title": "Where Is Ellie?",
+      "pages": [
+        {
+          "text": "Aaliya woke up happy. The sun was bright and warm. She reached for her favorite stuffed elephant, Ellie. But Ellie wasn't there! Aaliya's happy feeling went away. Now she felt worried.",
+          "illustration": {
+            "description": "A young South Asian girl with long dark braids sits up in her cozy bed, reaching toward an empty spot beside her pillow. Her room has warm yellow walls with colorful picture books on shelves. Sunlight streams through a window with cheerful curtains. Her expression shows confusion and worry as she looks around.",
+            "alt": "Aaliya sitting in bed looking worried, reaching for her missing stuffed elephant",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Mama! Papa!\" Aaliya called. \"I can't find Ellie!\" Mama came running. She had kind brown eyes just like Aaliya's. Papa came too, with his gentle smile. \"We'll help you look,\" Mama said softly.",
+          "illustration": {
+            "description": "Aaliya stands in her doorway calling out, with tears starting in her eyes. Her parents rush toward her - Mama wearing a bright blue hijab and Papa with a warm beard. The hallway has family photos on cream-colored walls. Their expressions show love and concern for their daughter.",
+            "alt": "Aaliya calling for her parents who are coming to help her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "They looked under the bed. They looked in the toy box. They looked everywhere! Aaliya felt very sad. Big tears rolled down her cheeks. \"It's okay to feel sad,\" Papa said, giving her a warm hug. \"We won't stop looking.\"",
+          "illustration": {
+            "description": "The family searches Aaliya's room together. Papa kneels by the bed looking underneath while Mama searches through a colorful toy box. Aaliya stands crying with tears on her cheeks. The room is messy from searching but filled with love. Bright toys are scattered around on a soft blue rug.",
+            "alt": "The family searching Aaliya's room while she cries",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Then Aaliya remembered! Yesterday, she played with Ellie in the garden. They ran to look outside. There was Ellie, sitting by the big sunflowers! Aaliya felt so happy and relieved. She hugged Ellie tight.",
+          "illustration": {
+            "description": "A joyful scene in a sunny garden with tall yellow sunflowers. Aaliya runs toward her gray stuffed elephant sitting among the flowers. Her parents smile behind her. The garden has green grass, colorful flower beds, and a wooden fence. Aaliya's face shows pure happiness and relief.",
+            "alt": "Aaliya running toward her stuffed elephant in the garden with sunflowers",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Thank you for helping me,\" Aaliya said to Mama and Papa. \"I felt scared when Ellie was lost, but you made me feel brave.\" That night, Aaliya kept Ellie extra close. She felt safe and loved.",
+          "illustration": {
+            "description": "A cozy bedtime scene with Aaliya snuggled in bed, holding her elephant close. Mama and Papa sit on the edge of her bed, tucking her in. The room glows with warm lamplight. Everyone looks peaceful and happy. Aaliya's face shows contentment as she hugs her beloved toy.",
+            "alt": "Aaliya in bed hugging her elephant while her parents tuck her in",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotional regulation",
+      "family support",
+      "problem solving",
+      "asking for help"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Aaliya feel when she couldn't find Ellie?",
+        "choices": [
+          "Happy",
+          "Worried and sad",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Aaliya felt worried when Ellie was missing, and then sad when she couldn't find her anywhere."
+      },
+      {
+        "id": "q2",
+        "question": "Who helped Aaliya look for Ellie?",
+        "choices": [
+          "Her friends",
+          "Mama and Papa",
+          "Her teacher"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mama and Papa came to help Aaliya search for her missing stuffed elephant."
+      },
+      {
+        "id": "q3",
+        "question": "Where did they find Ellie?",
+        "choices": [
+          "Under the bed",
+          "In the garden by the sunflowers",
+          "In the toy box"
+        ],
+        "correctIndex": 1,
+        "explanation": "They found Ellie outside in the garden by the big sunflowers, where Aaliya had played yesterday."
+      },
+      {
+        "id": "q4",
+        "question": "What did Papa tell Aaliya about feeling sad?",
+        "choices": [
+          "Don't be sad",
+          "It's okay to feel sad",
+          "Big girls don't cry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Papa told Aaliya that it's okay to feel sad, which helped her understand that her feelings were normal."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Aaliya felt _____ when she woke up, but then felt _____ when Ellie was missing.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "happy",
+            "distractors": [
+              "sleepy",
+              "hungry",
+              "cold"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "worried",
+            "distractors": [
+              "excited",
+              "silly",
+              "loud"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Mama and _____ helped Aaliya look for her stuffed _____.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Papa",
+            "distractors": [
+              "friend",
+              "teacher",
+              "brother"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "elephant",
+            "distractors": [
+              "bear",
+              "dog",
+              "cat"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "They found Ellie in the _____ by the big _____.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "garden",
+            "distractors": [
+              "kitchen",
+              "bathroom",
+              "closet"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "sunflowers",
+            "distractors": [
+              "trees",
+              "rocks",
+              "cars"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

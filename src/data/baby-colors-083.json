@@ -1,0 +1,157 @@
+{
+  "id": "baby-colors-083",
+  "title": "Kira's Colorful Snacks",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "colors",
+    "food"
+  ],
+  "wordCount": 31,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Kira discovers different colored foods throughout her day, making delightful sounds as she eats each colorful snack. From red apples to purple grapes, each page introduces a new color and food with gentle repetition and fun sound effects.",
+  "coverImage": "covers/baby-colors-083.webp",
+  "chapters": [
+    {
+      "title": "Kira's Colorful Snacks",
+      "pages": [
+        {
+          "text": "Red apple! Crunch, crunch!",
+          "illustration": {
+            "description": "Baby Kira with warm brown skin and curly black hair sits in a pale yellow high chair, holding a bright red apple with both small hands. Her dark eyes sparkle with joy as she takes a bite. Soft morning light fills the cozy kitchen with cream-colored walls.",
+            "alt": "Baby Kira eating a red apple in her high chair",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Orange carrot! Munch, munch!",
+          "illustration": {
+            "description": "Kira grins widely showing tiny teeth as she grasps an orange carrot stick. Her chubby cheeks are slightly messy with orange bits. The background shows a gentle pastel orange gradient with soft white clouds floating peacefully.",
+            "alt": "Baby Kira enjoying an orange carrot with a big smile",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Yellow banana! Squish, squish!",
+          "illustration": {
+            "description": "Kira's little fingers squeeze a peeled yellow banana, making it delightfully mushy. Her expression shows pure delight and curiosity. Warm golden sunlight streams through a window behind her, creating a cheerful yellow-tinted atmosphere.",
+            "alt": "Baby Kira squishing a yellow banana with her fingers",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Green peas! Pop, pop!",
+          "illustration": {
+            "description": "Kira carefully picks up bright green peas one by one from her colorful plastic tray. Her face shows concentration and wonder. The background features soft sage green watercolor washes with tiny white polka dots scattered throughout.",
+            "alt": "Baby Kira picking up green peas from her tray",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Blue berries! Plop, plop!",
+          "illustration": {
+            "description": "Kira holds plump blueberries in her palm, dropping them into her mouth with careful coordination. Her lips are slightly stained blue from the juice. A dreamy sky-blue background with fluffy white clouds creates a serene setting.",
+            "alt": "Baby Kira eating blueberries with blue-stained lips",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Purple grapes! Chomp, chomp!",
+          "illustration": {
+            "description": "Kira bites into a purple grape, her eyes wide with surprise at the burst of flavor. Grape juice glistens on her chin. The background shows gentle lavender and purple watercolor swirls creating a magical, dreamy atmosphere.",
+            "alt": "Baby Kira biting into a purple grape with surprised eyes",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Kira loves colorful food!",
+          "illustration": {
+            "description": "Kira claps her hands together with pure joy, surrounded by all her colorful food scraps on the tray. Her face beams with happiness and satisfaction. Rainbow-colored gentle stripes form the background, celebrating all the colors she's enjoyed.",
+            "alt": "Baby Kira clapping happily with colorful food around her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Yummy sounds everywhere!",
+          "illustration": {
+            "description": "Kira reaches up toward floating sound bubbles containing the words 'crunch,' 'munch,' 'squish,' 'pop,' 'plop,' and 'chomp' in different bright colors. Her expression shows wonder and delight. A soft rainbow gradient fills the peaceful background.",
+            "alt": "Baby Kira reaching toward colorful sound words floating above",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "colors",
+      "food",
+      "sounds",
+      "sensory exploration"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color is Kira's apple?",
+        "choices": [
+          "Red",
+          "Green"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kira's apple is red! Red apples go 'crunch, crunch!'"
+      },
+      {
+        "id": "q2",
+        "question": "What sound do the peas make?",
+        "choices": [
+          "Pop, pop",
+          "Munch, munch"
+        ],
+        "correctIndex": 0,
+        "explanation": "The green peas make a 'pop, pop' sound when Kira eats them!"
+      },
+      {
+        "id": "q3",
+        "question": "What does Kira do at the end?",
+        "choices": [
+          "Cries",
+          "Claps"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kira claps her hands because she loves all her colorful food!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Red _____! Crunch, crunch!",
+        "wordIndex": 1,
+        "correctWord": "apple",
+        "distractors": [
+          "banana",
+          "grape",
+          "carrot"
+        ]
+      },
+      {
+        "text": "Yellow banana! _____, _____!",
+        "wordIndex": 2,
+        "correctWord": "squish",
+        "distractors": [
+          "crunch",
+          "pop",
+          "chomp"
+        ]
+      }
+    ]
+  }
+}

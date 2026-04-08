@@ -1,0 +1,171 @@
+{
+  "id": "toddler-friendship-083",
+  "title": "Kira and the Lost Butterfly",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "nature"
+  ],
+  "wordCount": 268,
+  "readingLevel": "1.2",
+  "synopsis": "When Kira finds a butterfly with a hurt wing in her garden, she learns about kindness and helping friends. With her diverse group of neighborhood friends, she creates a safe space for the butterfly to heal, discovering that even small acts of caring can make a big difference.",
+  "coverImage": "covers/toddler-friendship-083.webp",
+  "chapters": [
+    {
+      "title": "The Hurt Butterfly",
+      "pages": [
+        {
+          "text": "Kira loved playing in her garden. She had dark curly hair that bounced when she ran, and bright brown eyes that sparkled in the sunshine. Today felt extra special because the flowers were blooming everywhere!",
+          "illustration": {
+            "description": "A cheerful young Black girl with dark curly hair in two puff ponytails, wearing a bright yellow sundress, running through a colorful garden filled with red, pink, and purple flowers. Her expression is joyful and energetic. The background shows a cozy backyard with textured green grass and a wooden fence. Bright, cheerful cartoon style with bold primary colors and rounded, friendly shapes.",
+            "alt": "Kira playing happily in her colorful garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Suddenly, Kira saw something orange and black near the roses. It was a beautiful butterfly, but something was wrong. The butterfly was trying to fly, but one wing looked bent. Kira felt sad for the little creature.",
+          "illustration": {
+            "description": "Close-up view of a small orange and black monarch butterfly sitting on pink rose petals, with one wing slightly drooped. Kira's concerned face appears in the background, her brown eyes wide with worry and her eyebrows furrowed in a caring expression. The butterfly looks delicate against the soft pink roses. Textured background resembling construction paper in gentle pastels.",
+            "alt": "Kira looking worried at a butterfly with a hurt wing",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Oh no, little butterfly,\" whispered Kira softly. \"You must be scared.\" She wanted to help, but she didn't know how. The butterfly fluttered weakly, unable to fly high like other butterflies. Kira's heart felt heavy seeing her new friend in trouble.",
+          "illustration": {
+            "description": "Kira kneeling down carefully next to the butterfly, her hand extended gently but not touching. Her expression shows empathy and concern, with her head tilted slightly. The butterfly sits on a large green leaf, looking small and vulnerable. Warm golden sunlight filters through the garden, creating a peaceful but concerned mood. The illustration uses soft, rounded shapes with a textured, construction paper-like background.",
+            "alt": "Kira gently approaching the scared butterfly",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Friends Help Friends",
+      "pages": [
+        {
+          "text": "Kira ran to get her friends. First came Marcus, a boy with red hair and freckles who lived next door. Then came Aisha, who wore a bright blue hijab and always had the best ideas. \"We need to help!\" said Kira, feeling brave now that her friends were here.",
+          "illustration": {
+            "description": "Three children gathered together in the garden - Kira with her curly dark hair, Marcus with red hair and freckles wearing a green t-shirt, and Aisha wearing a bright blue hijab and purple shirt. All three have determined, helpful expressions on their faces. They're standing close together showing teamwork and friendship. The background shows the garden with colorful flowers and has a textured, construction paper appearance.",
+            "alt": "Kira with her diverse group of friends ready to help",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Let's make a safe place for the butterfly,\" suggested Aisha. The friends worked together, gathering soft leaves and placing them in a small box. They added drops of sugar water on a tiny sponge. Marcus found the perfect shady spot under the big oak tree.",
+          "illustration": {
+            "description": "The three children working together around a small cardboard box filled with green leaves. Aisha is carefully placing a small sponge inside, Marcus is pointing to a shady spot under a large tree, and Kira is arranging soft leaves. Their faces show concentration and care. The scene is bright and collaborative, with the large oak tree providing dappled shade. Bold, cheerful colors with textured backgrounds.",
+            "alt": "The friends creating a safe healing space for the butterfly",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Very gently, Kira helped the butterfly into its new home. \"Rest here, little friend,\" she whispered. The butterfly seemed to understand and settled onto the soft leaves. Kira felt happy knowing they had helped. The next day, the butterfly's wing was stronger, and it flew away with a grateful flutter. Kira and her friends cheered - they had been brave helpers!",
+          "illustration": {
+            "description": "The butterfly flying gracefully above the three cheering children, its orange and black wings now spread wide and healthy. Kira, Marcus, and Aisha have their arms raised in celebration, all wearing big smiles. The butterfly appears to be doing a little loop in the air as if saying thank you. The garden background is full of vibrant colors, and golden sunlight creates a joyful, triumphant atmosphere. The illustration radiates happiness and accomplishment.",
+            "alt": "The healed butterfly flying free while the happy friends celebrate",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "helping others",
+      "friendship",
+      "kindness",
+      "nature care",
+      "working together"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Kira feel when she first saw the hurt butterfly?",
+        "choices": [
+          "Happy",
+          "Sad",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kira felt sad when she saw the butterfly couldn't fly properly because its wing was hurt."
+      },
+      {
+        "id": 2,
+        "question": "Who helped Kira take care of the butterfly?",
+        "choices": [
+          "Her mom and dad",
+          "Marcus and Aisha",
+          "Her teacher"
+        ],
+        "correctIndex": 1,
+        "explanation": "Marcus and Aisha were Kira's friends who came to help make a safe place for the butterfly."
+      },
+      {
+        "id": 3,
+        "question": "What did the friends put in the box for the butterfly?",
+        "choices": [
+          "Toys and games",
+          "Soft leaves and sugar water",
+          "Books and crayons"
+        ],
+        "correctIndex": 1,
+        "explanation": "The friends made a comfortable home with soft leaves and provided sugar water for the butterfly to drink."
+      },
+      {
+        "id": 4,
+        "question": "How did Kira feel when the butterfly flew away healthy?",
+        "choices": [
+          "Scared",
+          "Happy",
+          "Tired"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kira felt happy because she and her friends had successfully helped the butterfly get better."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Kira felt _____ when she saw the butterfly with a hurt wing.",
+        "wordIndex": 2,
+        "correctWord": "sad",
+        "distractors": [
+          "happy",
+          "hungry",
+          "sleepy"
+        ]
+      },
+      {
+        "text": "The friends worked together to make a _____ place for the butterfly.",
+        "wordIndex": 7,
+        "correctWord": "safe",
+        "distractors": [
+          "loud",
+          "scary",
+          "cold"
+        ]
+      },
+      {
+        "text": "When the butterfly flew away healthy, Kira felt _____ and brave.",
+        "wordIndex": 8,
+        "correctWord": "happy",
+        "distractors": [
+          "angry",
+          "worried",
+          "confused"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "id": "toddler-school-069",
+  "title": "Aiko and the Scared Little Bunny",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "school",
+    "animals"
+  ],
+  "wordCount": 340,
+  "readingLevel": "1.2",
+  "synopsis": "When Aiko finds a scared little bunny hiding at her preschool, she shows kindness and bravery to help the frightened animal feel safe and happy again.",
+  "coverImage": "covers/toddler-school-069.webp",
+  "chapters": [
+    {
+      "title": "The Scared Little Bunny",
+      "pages": [
+        {
+          "text": "Aiko loved going to Rainbow Preschool. She had long black hair and bright brown eyes that sparkled when she smiled. Today, she wore her favorite yellow dress with sunflowers on it. At playtime, Aiko heard a soft sound from behind the sandbox. \"What's that?\" she wondered. She looked and saw a small gray bunny shaking under the slide. The bunny's ears were pressed flat against his head, and his little nose twitched nervously.",
+          "illustration": {
+            "description": "A cheerful Japanese-American girl with long black hair in pigtails and bright brown eyes, wearing a sunny yellow dress with sunflower patterns. She's crouching near a colorful playground slide, looking curiously at a small gray bunny hiding underneath. The bunny appears scared with flattened ears. The preschool playground has bright primary colors with a rainbow-colored slide, sandbox, and green grass. The style is cartoon-like with rounded, friendly shapes and a construction paper texture.",
+            "alt": "Aiko discovering a scared bunny hiding under the playground slide",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Oh, little bunny, you look so scared,\" Aiko said in her gentlest voice. The bunny's big brown eyes were wide with fear. He tried to hop away, but he was too frightened to move very far. Aiko felt sad seeing the scared animal. She wanted to help, but she didn't want to frighten him more. \"I know you're scared,\" she whispered. \"But I want to help you feel better.\" Aiko remembered how her mama helped her feel brave when she was scared.",
+          "illustration": {
+            "description": "Aiko kneeling on the grass with a concerned, gentle expression on her face, reaching her hand out slowly toward the scared gray bunny. The bunny has large, frightened brown eyes and is crouched low to the ground. Aiko's yellow sunflower dress spreads around her as she kneels. The background shows the colorful preschool with other diverse children playing in the distance - a Black boy on swings and a Latina girl with blocks. Warm, soft lighting creates a compassionate mood.",
+            "alt": "Aiko gently approaching the frightened bunny with care",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Aiko had an idea! She ran to her backpack and got her snack - some baby carrots her mama had packed. \"Maybe you're hungry, little friend,\" she said softly. She sat down far away from the bunny and placed a carrot on the ground. Then she waited very quietly. Slowly, the bunny's nose began to twitch. He sniffed the air and took one tiny hop toward the carrot. Aiko felt happy inside! The bunny was feeling a little braver.",
+          "illustration": {
+            "description": "Aiko sitting cross-legged on bright green grass, smiling hopefully as she places an orange baby carrot on the ground. She's maintaining distance from the gray bunny, who is now showing curiosity with his nose twitching and one paw slightly forward. Her yellow dress creates a sunny spot of color, and her backpack is visible nearby. The bunny's ears are starting to perk up slightly, showing less fear. The scene has warm, encouraging colors with a textured, construction paper background.",
+            "alt": "Aiko offering a carrot to the curious bunny from a safe distance",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The bunny nibbled the carrot and looked at Aiko with grateful eyes. She felt so proud that she had been brave enough to help! \"You're not so scared anymore, are you?\" Aiko said with a big smile. The bunny's ears stood up tall now, and he looked much happier. Just then, Miss Rosa, Aiko's teacher, came over with the animal rescue lady, Mrs. Chen. \"Thank you for being so kind and gentle, Aiko,\" said Miss Rosa. \"You helped this lost bunny feel safe until we could find help.\" Aiko felt warm and happy inside - she had been brave and helpful, just like a big girl!",
+          "illustration": {
+            "description": "A heartwarming scene showing Aiko beaming with pride, sitting near the now-calm bunny who has his ears up and is finishing the carrot. Miss Rosa, a kind-looking Latina woman with curly black hair, and Mrs. Chen, an elderly Asian woman wearing a animal rescue vest, are smiling at Aiko approvingly. The bunny looks content and no longer scared. The background shows the colorful preschool setting with other diverse children watching admiringly from a distance. Bright, celebratory colors fill the scene with golden afternoon lighting.",
+            "alt": "Aiko feeling proud as the teachers praise her kindness to the now-happy bunny",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "kindness",
+      "bravery",
+      "helping others",
+      "overcoming fear"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did the bunny feel when Aiko first found him?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "The bunny was scared - his ears were flat and he was shaking under the slide."
+      },
+      {
+        "id": 2,
+        "question": "What did Aiko give the bunny to help him feel better?",
+        "choices": [
+          "A toy",
+          "A carrot",
+          "Water"
+        ],
+        "correctIndex": 1,
+        "explanation": "Aiko gave the scared bunny a baby carrot from her snack."
+      },
+      {
+        "id": 3,
+        "question": "How did Aiko feel when she helped the bunny?",
+        "choices": [
+          "Sad",
+          "Scared",
+          "Happy and proud"
+        ],
+        "correctIndex": 2,
+        "explanation": "Aiko felt happy and proud that she was brave enough to help the scared bunny."
+      },
+      {
+        "id": 4,
+        "question": "What happened to the bunny's ears when he felt better?",
+        "choices": [
+          "They stayed flat",
+          "They stood up tall",
+          "They disappeared"
+        ],
+        "correctIndex": 1,
+        "explanation": "When the bunny felt better and less scared, his ears stood up tall."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words - Page 1",
+        "text": "Aiko found a small gray bunny hiding under the _____. The bunny looked very _____ with his ears pressed flat.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "slide",
+            "distractors": [
+              "tree",
+              "table",
+              "car"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "silly",
+              "loud"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Fill in the Missing Words - Page 2",
+        "text": "Aiko gave the bunny a _____ to eat. When the bunny felt better, Aiko felt _____ and proud.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "carrot",
+            "distractors": [
+              "cookie",
+              "apple",
+              "sandwich"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "happy",
+            "distractors": [
+              "sad",
+              "angry",
+              "tired"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "id": "toddler-fantasy-100",
+  "title": "Sage and the Rainbow Dragon",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "fantasy",
+    "friendship"
+  ],
+  "wordCount": 223,
+  "readingLevel": "0.5",
+  "synopsis": "Sage, a young boy with warm brown skin and curly hair, discovers a sad rainbow dragon who has lost her colors. Through kindness and friendship, Sage helps Luna the dragon find her rainbow magic again, teaching children about empathy and helping friends feel better.",
+  "coverImage": "covers/toddler-fantasy-100.webp",
+  "chapters": [
+    {
+      "title": "The Sad Dragon",
+      "pages": [
+        {
+          "text": "Sage played in his backyard when he heard a soft crying sound. Behind the big oak tree sat a dragon! But this dragon wasn't scary at all. She was small and gray, with tears rolling down her cheeks.",
+          "illustration": {
+            "description": "A young Black boy with curly hair and warm brown skin wearing a bright yellow t-shirt stands curious but cautious near a large oak tree. A small, sad gray dragon sits behind the tree, tears visible on her face. The backyard has green grass and colorful flowers. The dragon looks friendly but very sad, with drooping wings.",
+            "alt": "Sage discovering the sad gray dragon behind the oak tree",
+            "layout": "wide"
+          }
+        },
+        {
+          "text": "\"Hello,\" said Sage gently. \"Why are you so sad?\" The dragon looked up with big, watery eyes. \"I'm Luna,\" she sniffled. \"I used to be a rainbow dragon, but I lost all my colors! Now I feel so scared and lonely.\"",
+          "illustration": {
+            "description": "Sage kneeling down at eye level with Luna the dragon, his expression kind and caring. Luna is gray with large, expressive sad eyes and tears. Her posture shows she feels small and scared. The background has soft green grass and dappled sunlight through tree leaves, creating a gentle, safe atmosphere.",
+            "alt": "Sage talking gently to sad Luna the dragon",
+            "layout": "wide"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Being Brave Together",
+      "pages": [
+        {
+          "text": "Sage felt sad for his new friend. \"Don't worry, Luna. I'll help you!\" he said bravely. Luna's eyes brightened a little. \"Really? You're not scared of me?\" Sage shook his head. \"Friends help friends feel better.\"",
+          "illustration": {
+            "description": "Sage standing tall and brave, one hand on his chest with a determined expression. Luna looks up hopefully, her gray scales catching sunlight. Sage's confident posture contrasts with Luna's cautious but hopeful body language. The scene has warm golden light filtering through leaves.",
+            "alt": "Sage being brave and promising to help Luna",
+            "layout": "tall"
+          }
+        },
+        {
+          "text": "\"How do we find your colors?\" asked Sage. Luna thought hard. \"Maybe if I feel happy again, my rainbow will come back?\" Sage smiled big. \"I know lots of ways to feel happy! Want to play with me?\"",
+          "illustration": {
+            "description": "Both Sage and Luna thinking together, with Sage pointing upward as if getting an idea. Luna's posture is more hopeful now, sitting up straighter. The background shows the sunny backyard with a swing set and sandbox visible, suggesting places to play and have fun.",
+            "alt": "Sage and Luna planning how to bring back her colors",
+            "layout": "wide"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Rainbow Magic Returns",
+      "pages": [
+        {
+          "text": "Sage and Luna played tag and rolled in the grass. They laughed and told funny stories. Slowly, Luna began to giggle. As she felt happier and happier, something magical started to happen!",
+          "illustration": {
+            "description": "Sage and Luna playing together joyfully in the grass, both laughing. Tiny sparkles of color begin to appear around Luna's gray scales - hints of red and orange starting to show. Their faces are bright with joy and friendship. The grass is lush green with scattered dandelions.",
+            "alt": "Sage and Luna playing as colors start returning to Luna",
+            "layout": "wide"
+          }
+        },
+        {
+          "text": "\"Look!\" shouted Sage excitedly. Beautiful rainbow colors spread across Luna's scales - red, orange, yellow, green, blue, and purple! Luna felt so happy and brave now. \"Thank you for being my friend,\" she said. \"Friends make everything brighter!\"",
+          "illustration": {
+            "description": "Luna now fully transformed into a magnificent rainbow dragon with vibrant scales in all colors of the rainbow. She and Sage are hugging joyfully. Both characters beam with happiness. The background is filled with warm sunlight and maybe a few rainbow sparkles in the air, celebrating their friendship.",
+            "alt": "Luna fully restored as a rainbow dragon, hugging Sage happily",
+            "layout": "wide"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "empathy",
+      "helping others",
+      "emotions",
+      "magic"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Luna feel at the beginning of the story?",
+        "choices": [
+          "Happy",
+          "Sad",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Luna was sad and crying because she had lost her rainbow colors."
+      },
+      {
+        "id": 2,
+        "question": "What did Sage do to help Luna?",
+        "choices": [
+          "Ran away",
+          "Played with her",
+          "Ignored her"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sage played with Luna and made her laugh, which helped her feel happy again."
+      },
+      {
+        "id": 3,
+        "question": "How did Luna get her colors back?",
+        "choices": [
+          "By eating rainbow food",
+          "By feeling happy",
+          "By sleeping"
+        ],
+        "correctIndex": 1,
+        "explanation": "When Luna felt happy from playing with Sage, her rainbow colors magically returned."
+      },
+      {
+        "id": 4,
+        "question": "How did Sage feel when he decided to help Luna?",
+        "choices": [
+          "Scared",
+          "Brave",
+          "Sleepy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sage felt brave when he promised to help Luna and wasn't scared of her at all."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words",
+        "text": "Sage heard a soft crying sound. Behind the tree sat a ___! She was gray and felt very ___.",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "dragon",
+            "distractors": [
+              "cat",
+              "bird",
+              "dog"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "sad",
+            "distractors": [
+              "happy",
+              "angry",
+              "sleepy"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Complete the Story",
+        "text": "Luna was a ___ dragon who lost her colors. Sage wanted to ___ her feel better.",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "rainbow",
+            "distractors": [
+              "fire",
+              "ice",
+              "flying"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "help",
+            "distractors": [
+              "scare",
+              "ignore",
+              "chase"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "id": "toddler-animals-122",
+  "title": "Arjun and the Lost Baby Bird",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "animals",
+    "adventure"
+  ],
+  "wordCount": 345,
+  "readingLevel": "1.2",
+  "synopsis": "When young Arjun finds a scared baby bird that has fallen from its nest, he goes on a brave adventure through the park to help reunite the little bird with its worried mama, learning about kindness and courage along the way.",
+  "coverImage": "covers/toddler-animals-122.webp",
+  "chapters": [
+    {
+      "title": "The Adventure Begins",
+      "pages": [
+        {
+          "text": "Arjun was playing in the sunny park with his mama. He had dark curly hair and wore his favorite red shirt with a big dinosaur on it. Arjun loved looking for interesting things in the park - shiny rocks, colorful leaves, and busy bugs. Today felt special, like something exciting might happen!",
+          "illustration": {
+            "description": "A happy young South Asian boy with dark curly hair wearing a bright red dinosaur t-shirt and blue shorts, playing in a sunny park. His mother, wearing a yellow sari, sits on a bench nearby reading. The park has green grass, tall trees, and a playground in the background. Bright, cheerful cartoon style with bold primary colors and rounded, friendly shapes. The scene has a textured background like construction paper.",
+            "alt": "Arjun playing happily in a sunny park with his mother nearby",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Suddenly, Arjun heard a tiny sound. \"Peep! Peep!\" He looked around and found a small baby bird on the ground. The little bird looked scared and sad. Its fluffy gray feathers were all ruffled up. \"Oh no!\" said Arjun. \"Little bird, are you okay?\" The baby bird just peeped softly and looked up at him with big, worried eyes.",
+          "illustration": {
+            "description": "Arjun kneeling down on the grass, looking concerned at a small gray baby bird with fluffy feathers and big dark eyes. The bird appears scared and vulnerable on the green grass. Arjun's expression shows worry and kindness. The background shows park trees and flowers in soft colors. The illustration uses rounded, gentle shapes to convey tenderness and care.",
+            "alt": "Arjun discovering a scared baby bird on the ground",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Arjun felt brave. He wanted to help the scared little bird find its mama. \"Don't worry,\" he whispered gently. \"I will help you.\" He looked up at the tall oak tree above them and saw a nest high up in the branches. \"Is that your home?\" he asked. The baby bird peeped louder and flapped its tiny wings. Arjun knew what he had to do - he needed to help the bird get back to its nest safely.",
+          "illustration": {
+            "description": "Arjun standing confidently with his hands on his hips, looking up at a tall oak tree with a bird's nest visible high in the leafy branches. The baby bird is at his feet, looking up hopefully. Arjun's expression shows determination and bravery. Dappled sunlight filters through the green leaves. The composition emphasizes the height of the tree and Arjun's small but brave stance below.",
+            "alt": "Arjun looking bravely up at the tall tree where the bird's nest is located",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Arjun called to his mama. \"Mama! Come help! This baby bird needs to go home!\" His mama came over with a warm smile. She was wearing a beautiful yellow sari with orange flowers on it. \"What a kind boy you are, Arjun,\" she said. Together, they gently picked up the baby bird. Arjun's mama carefully lifted him up high so he could reach the nest. The baby bird peeped happily as it saw its mama bird flying down to meet them.",
+          "illustration": {
+            "description": "Arjun's mother, a kind-looking South Asian woman in a yellow and orange floral sari, lifting Arjun up toward the tree branch. Arjun is gently holding the baby bird in his cupped hands. A larger mother bird with brown and gray feathers is flying down from the nest with her wings spread wide, looking relieved and happy. The scene is filled with warm golden sunlight and shows the successful reunion moment.",
+            "alt": "Arjun and his mama helping reunite the baby bird with its mother",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The mama bird chirped a beautiful thank-you song to Arjun and his mama. The baby bird snuggled safely in its cozy nest. Arjun felt so happy and proud that he had been brave and helped the little bird family. \"Good job, my brave boy,\" said his mama, giving him a big hug. As they walked home together, Arjun smiled knowing he had made new bird friends. Sometimes the best adventures happen when you help others!",
+          "illustration": {
+            "description": "A heartwarming scene showing Arjun and his mother walking away from the tree, holding hands and smiling. In the background, the mother bird and baby bird can be seen happily together in their nest among the green leaves. The setting sun creates a warm, golden glow over the park. Other diverse families are visible in the background - a Black father pushing his child on a swing, and an elderly Asian woman feeding ducks by a pond. The overall mood is peaceful and joyful.",
+            "alt": "Arjun and his mama walking home happily after successfully helping the bird family",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "kindness",
+      "helping others",
+      "bravery",
+      "family bonds",
+      "nature"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Arjun feel when he decided to help the baby bird?",
+        "choices": [
+          "scared",
+          "brave",
+          "angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Arjun felt brave when he decided to help the scared baby bird find its mama."
+      },
+      {
+        "id": "q2",
+        "question": "Where was the baby bird's nest?",
+        "choices": [
+          "on the ground",
+          "high up in a tree",
+          "in a bush"
+        ],
+        "correctIndex": 1,
+        "explanation": "The baby bird's nest was high up in the branches of a tall oak tree."
+      },
+      {
+        "id": "q3",
+        "question": "Who helped Arjun reach the nest?",
+        "choices": [
+          "his papa",
+          "his mama",
+          "a park worker"
+        ],
+        "correctIndex": 1,
+        "explanation": "Arjun's mama helped by lifting him up high so he could reach the bird's nest."
+      },
+      {
+        "id": "q4",
+        "question": "How did the baby bird feel at the end of the story?",
+        "choices": [
+          "sad and scared",
+          "happy and safe",
+          "angry and loud"
+        ],
+        "correctIndex": 1,
+        "explanation": "The baby bird felt happy and safe when it was reunited with its mama in their cozy nest."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Help Complete the Story!",
+        "text": "Arjun found a scared baby _ on the ground. He felt _ and wanted to help. The bird's nest was high up in the _.",
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "bird",
+            "distractors": [
+              "cat",
+              "bug",
+              "toy"
+            ]
+          },
+          {
+            "wordIndex": 11,
+            "correctWord": "brave",
+            "distractors": [
+              "sad",
+              "sleepy",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 20,
+            "correctWord": "tree",
+            "distractors": [
+              "house",
+              "car",
+              "box"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Finish the Adventure!",
+        "text": "Arjun's _ helped lift him up to the nest. The mama bird sang a _ song. Arjun felt very _ that he helped!",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "mama",
+            "distractors": [
+              "friend",
+              "teacher",
+              "dog"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "happy",
+            "distractors": [
+              "loud",
+              "scary",
+              "long"
+            ]
+          },
+          {
+            "wordIndex": 17,
+            "correctWord": "proud",
+            "distractors": [
+              "tired",
+              "cold",
+              "silly"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

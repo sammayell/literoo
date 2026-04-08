@@ -1,0 +1,181 @@
+{
+  "id": "baby-feelings-145",
+  "title": "Mika's Happy Heart",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "feelings",
+    "nature"
+  ],
+  "wordCount": 69,
+  "readingLevel": "0.5",
+  "synopsis": "Little Mika discovers joy in nature's simple pleasures - from morning sunshine to dancing butterflies. Through repetitive, soothing text and warm illustrations, babies learn about happiness and the wonderful feelings nature can bring.",
+  "coverImage": "covers/baby-feelings-145.webp",
+  "chapters": [
+    {
+      "title": "Mika's Happy Heart",
+      "pages": [
+        {
+          "text": "Mika wakes up happy. The sun goes peek-a-boo!",
+          "illustration": {
+            "description": "A cheerful toddler girl named Mika with warm brown skin and curly black hair sits up in her crib, arms stretched high with joy. Golden sunlight streams through a window with soft yellow curtains, creating gentle shadows. Her pajamas are pale lavender with tiny star patterns. The room has soft cream walls and a plush teddy bear nearby.",
+            "alt": "Happy toddler Mika stretching in morning sunlight",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mika feels happy outside. The birds go tweet-tweet!",
+          "illustration": {
+            "description": "Mika stands in a lush garden wearing a soft mint green dress, her arms outstretched toward colorful birds perched on flowering branches. Two small birds with bright blue and orange feathers chirp above her. Pink cherry blossoms and green leaves frame the scene. Her expression shows pure delight with sparkling dark eyes and a wide smile.",
+            "alt": "Mika reaching toward singing birds in blooming garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mika feels happy with flowers. The bees go buzz-buzz!",
+          "illustration": {
+            "description": "Mika kneels beside a patch of large, colorful flowers in soft pastels - pink roses, yellow daisies, and purple lavender. A friendly cartoon bee with gentle features hovers near the blooms, its wings creating motion lines. Mika's face shows wonder as she gently touches a flower petal. The background is a dreamy watercolor wash of green grass.",
+            "alt": "Mika touching flowers while a friendly bee buzzes nearby",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mika feels happy with butterflies. They go flutter-flutter!",
+          "illustration": {
+            "description": "Three large, gentle butterflies with soft rainbow wings dance around Mika as she giggles and claps her hands. The butterflies have simple, friendly faces and delicate patterns in coral, lavender, and sky blue. Mika wears a sunny yellow sundress and stands in a meadow dotted with small wildflowers. Soft clouds drift in a pale blue sky.",
+            "alt": "Mika clapping as colorful butterflies flutter around her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mika feels happy in the rain. The drops go pitter-patter!",
+          "illustration": {
+            "description": "Mika stands under a large, bright red umbrella, wearing tiny rain boots and a cheerful raincoat. Gentle raindrops fall around her in silver streaks, creating small puddles that reflect the soft gray-blue sky. Her face shows pure joy as she looks up at the rain. A small rainbow appears faintly in the background through the misty atmosphere.",
+            "alt": "Mika under red umbrella enjoying gentle rain",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mika feels happy with wind. The leaves go whoosh-whoosh!",
+          "illustration": {
+            "description": "Autumn leaves in warm oranges, golden yellows, and soft reds swirl gently around Mika as she spins with her arms wide. She wears a cozy peach sweater and has a look of pure delight. The leaves create flowing patterns in the air, and a gentle breeze moves her curly hair. The background shows the soft silhouettes of trees against a warm, peachy sky.",
+            "alt": "Mika spinning as colorful autumn leaves swirl around her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mika feels happy at night. The crickets go chirp-chirp!",
+          "illustration": {
+            "description": "Mika sits on soft grass under a deep purple twilight sky dotted with twinkling silver stars and a gentle crescent moon. She wears pale pink pajamas and looks up with wonder at the night sky. Small, friendly crickets with simple features sit nearby on the grass. Fireflies add tiny dots of warm yellow light to the peaceful scene.",
+            "alt": "Mika in pajamas looking at stars while crickets chirp",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mika's heart feels happy everywhere. Nature goes sing-sing!",
+          "illustration": {
+            "description": "Mika sits cross-legged in the center of a magical circle surrounded by all the nature elements from her day - birds, flowers, butterflies, raindrops, leaves, and stars. Her hands are placed over her heart, and she has the most content, peaceful smile. Soft musical notes float in the air around her. The entire scene glows with warm, golden light.",
+            "alt": "Mika surrounded by nature elements, hands on heart, looking peaceful",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "happiness",
+      "nature appreciation",
+      "emotional awareness",
+      "sensory experiences"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "mika-happy-1",
+        "question": "What does Mika feel when she sees the birds?",
+        "choices": [
+          "Happy",
+          "Sad"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mika feels happy when she hears the birds go tweet-tweet!"
+      },
+      {
+        "id": "mika-happy-2",
+        "question": "What sound do the bees make?",
+        "choices": [
+          "Tweet-tweet",
+          "Buzz-buzz"
+        ],
+        "correctIndex": 1,
+        "explanation": "The bees go buzz-buzz around the pretty flowers!"
+      },
+      {
+        "id": "mika-happy-3",
+        "question": "Where does Mika put her hands at the end?",
+        "choices": [
+          "On her heart",
+          "In the air"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mika puts her hands on her heart because it feels so happy!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Happy Sounds",
+        "text": "The birds go ___-___! The bees go ___-___!",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "tweet-tweet",
+            "distractors": [
+              "buzz-buzz",
+              "chirp-chirp"
+            ]
+          },
+          {
+            "wordIndex": 8,
+            "correctWord": "buzz-buzz",
+            "distractors": [
+              "tweet-tweet",
+              "flutter-flutter"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Mika's Feelings",
+        "text": "Mika feels ___ outside. Nature makes her ___ happy!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "happy",
+            "distractors": [
+              "sad",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 6,
+            "correctWord": "heart",
+            "distractors": [
+              "hands",
+              "head"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

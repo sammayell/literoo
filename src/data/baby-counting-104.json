@@ -1,0 +1,176 @@
+{
+  "id": "baby-counting-104",
+  "title": "Ravi Counts Hugs",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "counting",
+    "family"
+  ],
+  "wordCount": 48,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Ravi discovers counting from one to five as he receives warm hugs from his loving family members throughout the day, learning numbers through gentle repetition and sweet family moments.",
+  "coverImage": "covers/baby-counting-104.webp",
+  "chapters": [
+    {
+      "title": "Counting Hugs",
+      "pages": [
+        {
+          "text": "One hug from Mama. Squeeze!",
+          "illustration": {
+            "description": "Baby Ravi with dark hair and brown skin sits on a soft pink blanket, receiving a gentle hug from his mama who has long black hair in a loose bun and wears a yellow cardigan. Mama's arms wrap around Ravi lovingly as both smile warmly. The background shows a cozy nursery with pale mint green walls and soft morning light streaming through a window.",
+            "alt": "Mama giving baby Ravi his first hug of the day",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Two hugs from Dada. Squeeze! Squeeze!",
+          "illustration": {
+            "description": "Ravi now stands holding onto a low table while his papa, a tall man with warm brown skin, beard, and wearing a soft blue sweater, wraps him in a big bear hug from behind. Ravi giggles with delight, his little hands reaching up. The kitchen setting has warm wooden tones and sunlight creating a cozy atmosphere.",
+            "alt": "Papa giving Ravi two big squeezy hugs",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Three hugs from Nani. Squeeze! Squeeze! Squeeze!",
+          "illustration": {
+            "description": "Ravi sits on his grandmother's lap in a comfortable armchair covered with a colorful patchwork throw. Nani has silver-streaked hair in a neat braid, wears a lavender kurta, and her kind eyes twinkle behind small glasses. She rocks Ravi gently as they share three loving squeezes. The living room has warm terracotta walls and family photos.",
+            "alt": "Grandmother Nani giving Ravi three gentle hugs",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Four hugs from big sister Priya. Squeeze! Squeeze! Squeeze! Squeeze!",
+          "illustration": {
+            "description": "Four-year-old Priya with pigtails tied with bright red ribbons kneels on a soft rug to hug baby Ravi at his level. She wears a rainbow striped dress and has the same warm brown skin and dark eyes as Ravi. Both children are surrounded by colorful toy blocks scattered on a cream-colored play mat in their cheerful playroom.",
+            "alt": "Big sister Priya giving Ravi four playful hugs",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Five hugs from the whole family!",
+          "illustration": {
+            "description": "All family members gather in a group hug around baby Ravi in the center. Mama, Papa, Nani, and Priya all have their arms around each other with Ravi giggling in the middle. Their faces show pure joy and love. The background is soft and blurred with warm golden light, creating a dreamy, heartwarming scene of family togetherness.",
+            "alt": "The whole family giving Ravi five loving group hugs",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Squeeze! Squeeze! Squeeze! Squeeze! Squeeze!",
+          "illustration": {
+            "description": "Close-up of all the family hands gently placed on sleeping Ravi as he naps peacefully. Different skin tones and hand sizes create a beautiful pattern around the contented baby. The image has a soft, dreamy quality with pastel colors and gentle shadows, conveying the security and love that surrounds Ravi.",
+            "alt": "Family hands lovingly surrounding sleeping baby Ravi",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "So many hugs for Ravi!",
+          "illustration": {
+            "description": "Ravi sits up in his crib, arms outstretched toward the viewer with a huge smile on his face. His dark eyes sparkle with happiness and his chubby cheeks are rosy. The crib has soft white bedding with tiny star patterns, and the room glows with warm evening light. Heart shapes float gently in the background, representing all the love he's received.",
+            "alt": "Happy baby Ravi with arms open wide, surrounded by love",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sweet dreams, little one.",
+          "illustration": {
+            "description": "Ravi sleeps peacefully in his crib, covered by a soft blanket in gentle lavender and cream stripes. A small nightlight casts a warm glow, and family photos on the wall show all the loving faces from his day. The moon shines softly through gauze curtains, and everything feels calm, safe, and filled with love.",
+            "alt": "Baby Ravi sleeping peacefully surrounded by family love",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "counting",
+      "family love",
+      "daily routines",
+      "security"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Who gave Ravi one hug?",
+        "choices": [
+          "Mama",
+          "Dada"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama gave Ravi one big squeeze hug!"
+      },
+      {
+        "id": "q2",
+        "question": "How many hugs did Priya give?",
+        "choices": [
+          "Three hugs",
+          "Four hugs"
+        ],
+        "correctIndex": 1,
+        "explanation": "Big sister Priya gave four squeeze hugs!"
+      },
+      {
+        "id": "q3",
+        "question": "Who is Nani?",
+        "choices": [
+          "Grandmother",
+          "Sister"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nani is Ravi's loving grandmother!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "One hug from ___. Squeeze!",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "Mama",
+            "distractors": [
+              "Dada",
+              "Nani"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "___ hugs from Dada. Squeeze! Squeeze!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Two",
+            "distractors": [
+              "Three",
+              "Four"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Five hugs from the whole ___!",
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "family",
+            "distractors": [
+              "house",
+              "room"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

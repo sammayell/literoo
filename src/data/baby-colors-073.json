@@ -1,0 +1,165 @@
+{
+  "id": "baby-colors-073",
+  "title": "Isla's Rainbow Snacks",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "colors",
+    "food"
+  ],
+  "wordCount": 41,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Isla discovers colorful foods throughout her day, from red strawberries to purple grapes, learning colors through delicious snacks with repetitive, soothing language perfect for very young readers.",
+  "coverImage": "covers/baby-colors-073.webp",
+  "chapters": [
+    {
+      "title": "Isla's Colorful Day",
+      "pages": [
+        {
+          "text": "Isla sees red. Yum, yum!",
+          "illustration": {
+            "description": "Baby Isla, a cheerful toddler with warm brown skin and soft black curls, sits in a sunny white high chair holding a bright red strawberry. Her dark eyes sparkle with delight as she smiles widely. The background is soft cream with gentle sunlight streaming through a window.",
+            "alt": "Baby Isla holding a red strawberry in her high chair",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Isla sees orange. Chomp, chomp!",
+          "illustration": {
+            "description": "Isla reaches for orange carrot sticks on her colorful plate, her small hands grasping eagerly. She wears a soft yellow bib with gentle polka dots. Her expression shows pure joy and curiosity. The high chair tray is pale blue with rounded edges.",
+            "alt": "Isla reaching for orange carrot sticks on her plate",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Isla sees yellow. Munch, munch!",
+          "illustration": {
+            "description": "Isla holds a golden yellow banana, taking a big bite with her few tiny teeth visible in her happy grin. Banana pieces dot her tray in soft, rounded shapes. Her grandmother, an elderly Black woman with silver hair and warm smile, watches lovingly from nearby.",
+            "alt": "Isla eating a yellow banana while grandmother watches",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Isla sees green. Crunch, crunch!",
+          "illustration": {
+            "description": "Isla examines bright green peas on her spoon, some scattered on her tray like little emerald jewels. Her father, a Latino man with kind brown eyes and gentle smile, sits beside her encouraging her to eat. The kitchen background is soft sage green.",
+            "alt": "Isla looking at green peas on her spoon with father nearby",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Isla sees blue. Squish, squish!",
+          "illustration": {
+            "description": "Isla squeezes plump blueberries between her tiny fingers, creating purple-blue juice stains on her hands and tray. Her expression shows wonder and concentration. The berries are deep indigo blue against the pale cream tray, creating strong visual contrast.",
+            "alt": "Isla squishing blue blueberries with her fingers",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Isla sees purple. Nom, nom!",
+          "illustration": {
+            "description": "Isla carefully picks up small purple grapes with her developing pincer grasp. Her mother, a woman with warm beige skin and flowing dark hair, sits close by with an encouraging smile. The grapes gleam like tiny purple gems in the soft afternoon light.",
+            "alt": "Isla picking up purple grapes while mother watches encouragingly",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Isla sees colors everywhere. Happy tummy!",
+          "illustration": {
+            "description": "Isla sits contentedly in her high chair, surrounded by the rainbow of food scraps from her colorful meal. She pats her round little belly with both hands, wearing the biggest smile. Her whole family - grandmother, parents, and an older sibling - gather around her with loving expressions.",
+            "alt": "Happy Isla patting her belly surrounded by colorful food and family",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rainbow snacks make Isla smile!",
+          "illustration": {
+            "description": "Isla claps her hands together with pure delight, food-stained but glowing with happiness. A gentle rainbow of soft pastel colors arcs behind her in the background. Her family applauds her eating adventure, their faces filled with love and joy.",
+            "alt": "Isla clapping happily with rainbow and family celebrating behind her",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "colors",
+      "food exploration",
+      "family",
+      "sensory experiences"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "What color is Isla's strawberry?",
+        "choices": [
+          "Red",
+          "Blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "Isla's strawberry is red! Red is a bright, happy color."
+      },
+      {
+        "id": 2,
+        "question": "What does Isla do with the blueberries?",
+        "choices": [
+          "Throw them",
+          "Squish them"
+        ],
+        "correctIndex": 1,
+        "explanation": "Isla squishes the blueberries with her fingers - squish, squish!"
+      },
+      {
+        "id": 3,
+        "question": "How does Isla feel at the end?",
+        "choices": [
+          "Sad",
+          "Happy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Isla is very happy! Rainbow snacks make her smile and clap."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Isla sees ____. Yum, yum!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "red",
+            "distractors": [
+              "blue",
+              "green",
+              "yellow"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Isla sees yellow. ____, ____!",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "Munch",
+            "distractors": [
+              "Squish",
+              "Crunch",
+              "Chomp"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

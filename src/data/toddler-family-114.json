@@ -1,0 +1,195 @@
+{
+  "id": "toddler-family-114",
+  "title": "Noah's Tickle Monster Day",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "family",
+    "humor"
+  ],
+  "wordCount": 170,
+  "readingLevel": "1.2",
+  "synopsis": "When Noah wakes up feeling grumpy and sad, his family helps him discover that laughter and tickles can turn any bad day into a happy one through silly games and loving moments together.",
+  "coverImage": "covers/toddler-family-114.webp",
+  "chapters": [
+    {
+      "title": "Grumpy Morning",
+      "pages": [
+        {
+          "text": "Noah woke up feeling grumpy. His curly black hair was messy and his brown eyes looked sad. He didn't want to get out of his cozy bed.",
+          "illustration": {
+            "description": "Noah, a young Black boy with curly dark hair, sits on his bed with a pouty expression and crossed arms. His bedroom has bright blue walls with colorful toy cars on shelves. Sunlight streams through yellow curtains, creating a warm but slightly chaotic morning scene with rumpled red and orange striped bedsheets.",
+            "alt": "Grumpy Noah sitting on his messy bed in a bright, colorful bedroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I don't want breakfast!\" Noah said to Mama. Mama had warm brown skin like Noah and wore a pretty yellow dress. She looked worried about her little boy.",
+          "illustration": {
+            "description": "Noah's mama, a Black woman with natural hair in a bun and wearing a sunny yellow dress, kneels down to Noah's eye level in a bright kitchen. Noah stands with arms crossed, still looking upset. The kitchen has cheerful green cabinets and colorful fruit on the counter, with morning light making everything warm and inviting.",
+            "alt": "Mama talking gently to grumpy Noah in a bright, welcoming kitchen",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Papa's Silly Ideas",
+      "pages": [
+        {
+          "text": "Papa came into the kitchen. He had kind eyes behind his glasses and a big smile. \"Someone looks like they need a tickle monster!\" Papa said in a funny voice.",
+          "illustration": {
+            "description": "Papa, a Black man with glasses and a warm smile, enters the kitchen making silly monster claws with his hands. Noah looks curious but still grumpy. The family kitchen is filled with bright primary colors - red chairs, blue walls, yellow counters - creating a playful, cartoon-like atmosphere with soft, rounded shapes.",
+            "alt": "Papa making tickle monster gestures while Noah watches with growing curiosity",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Noah felt a little less sad, but he was still scared the tickle monster might be too silly. Papa made funny monster noises and wiggled his fingers. \"Grrrr-tickle-grrrr!\"",
+          "illustration": {
+            "description": "Papa crouches down making exaggerated monster faces and claw hands while Noah peeks out from behind a kitchen chair, showing mixed emotions of curiosity and lingering hesitation. Mama watches with an encouraging smile. The scene uses bold, primary colors with a textured background like construction paper, emphasizing the playful family dynamic.",
+            "alt": "Papa being a silly tickle monster while Noah hides but looks interested",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Happy Giggles",
+      "pages": [
+        {
+          "text": "Noah started to giggle! The tickle monster was so funny and silly. Soon Noah was laughing and feeling brave enough to tickle Papa back. \"I'm a tickle monster too!\"",
+          "illustration": {
+            "description": "Noah and Papa are both laughing and tickling each other on the kitchen floor. Noah's face is bright with joy, his earlier grumpiness completely gone. Mama claps her hands happily in the background. The illustration uses vibrant primary colors with everyone's expressions showing pure happiness and family love in the cheerful, cartoon-style kitchen setting.",
+            "alt": "Noah and Papa laughing together during their tickle fight while Mama watches happily",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The whole family had tickle time together. Noah felt so happy and loved. His grumpy morning turned into the best day ever with lots of giggles and hugs.",
+          "illustration": {
+            "description": "The entire family - Noah, Mama, and Papa - are in a big group hug on the living room carpet, all smiling and laughing together. The room has bright, cheerful decorations with family photos on colorful walls. Sunlight streams through windows, creating a warm, joyful atmosphere. The illustration style emphasizes rounded, friendly shapes with bold primary colors and a textured, construction paper-like background.",
+            "alt": "The happy family sharing hugs and laughter together in their bright living room",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "emotional regulation",
+      "humor",
+      "love"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Noah feel when he woke up?",
+        "choices": [
+          "Happy",
+          "Grumpy",
+          "Excited"
+        ],
+        "correctIndex": 1,
+        "explanation": "Noah woke up feeling grumpy and didn't want to get out of bed."
+      },
+      {
+        "id": 2,
+        "question": "What did Papa pretend to be?",
+        "choices": [
+          "A dragon",
+          "A tickle monster",
+          "A puppy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Papa pretended to be a tickle monster to make Noah feel better."
+      },
+      {
+        "id": 3,
+        "question": "How did Noah feel at the end?",
+        "choices": [
+          "Sad",
+          "Scared",
+          "Happy"
+        ],
+        "correctIndex": 2,
+        "explanation": "Noah felt happy and loved after playing with his family."
+      },
+      {
+        "id": 4,
+        "question": "What helped Noah feel better?",
+        "choices": [
+          "Taking a nap",
+          "Playing and laughing",
+          "Eating candy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Playing the tickle monster game and laughing with his family made Noah feel better."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words",
+        "instructions": "Help complete the story by choosing the right words!",
+        "text": "Noah woke up feeling _____. Papa became a _____ monster to help Noah feel better.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "grumpy",
+            "distractors": [
+              "happy",
+              "sleepy",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "tickle",
+            "distractors": [
+              "scary",
+              "cookie",
+              "dance"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Complete Noah's Day",
+        "instructions": "Choose the words that finish Noah's story!",
+        "text": "At the end, Noah felt _____ and _____. The family had lots of giggles and hugs together.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "happy",
+            "distractors": [
+              "sad",
+              "angry",
+              "tired"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "loved",
+            "distractors": [
+              "scared",
+              "grumpy",
+              "silly"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

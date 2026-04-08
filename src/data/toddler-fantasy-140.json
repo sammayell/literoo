@@ -1,0 +1,165 @@
+{
+  "id": "toddler-fantasy-140",
+  "title": "Tomas and the Magic Garden",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "fantasy",
+    "friendship"
+  ],
+  "wordCount": 173,
+  "readingLevel": "1.2",
+  "synopsis": "When Tomas discovers his grandmother's magical garden, he feels scared of the talking flowers until he learns they just want to be friends and help him grow beautiful plants together.",
+  "coverImage": "covers/toddler-fantasy-140.webp",
+  "chapters": [
+    {
+      "title": "The Magic Garden",
+      "pages": [
+        {
+          "text": "Tomas loved visiting Abuela Rosa's house. Today, he found a special door in her backyard. It was bright green with golden sparkles! Tomas felt excited but a little scared. What could be behind the magic door?",
+          "illustration": {
+            "description": "A young Latino boy with curly dark hair and warm brown eyes stands before a glowing green wooden door covered in golden sparkles. The door is set in a stone archway covered with purple vines. Tomas wears a bright blue t-shirt and red shorts, his expression showing curiosity mixed with nervous excitement.",
+            "alt": "Tomas looking at a magical sparkling door",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Tomas opened the door and gasped! Inside was a garden full of talking flowers! A cheerful sunflower said, 'Hello, Tomas!' A pretty rose giggled, 'We've been waiting for you!' But Tomas felt very scared. Talking flowers? This was too strange!",
+          "illustration": {
+            "description": "A magical garden with oversized, smiling flowers with friendly cartoon faces. A tall yellow sunflower with big brown eyes waves at Tomas, while a pink rose with rosy cheeks giggles nearby. Tomas stands in the doorway looking surprised and worried, his eyes wide and mouth open in amazement.",
+            "alt": "Tomas meeting the talking flowers in the magical garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The flowers saw that Tomas was scared. The sunflower said gently, 'Don't be scared, little friend. We just want to play!' The rose added, 'We can teach you how to grow the most beautiful garden!' Tomas felt a little braver. Maybe these flowers were nice after all.",
+          "illustration": {
+            "description": "The sunflower and rose lean toward Tomas with kind, reassuring expressions. The sunflower's face shows gentle concern while the rose smiles warmly. Tomas's posture is more relaxed now, with one foot stepped into the garden, his scared expression softening to cautious interest.",
+            "alt": "The flowers comforting scared Tomas with kind words",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Tomas took a deep breath and stepped into the garden. The flowers cheered! They taught him how to plant seeds and sing to help them grow. Soon, Tomas felt very happy and brave. He had made magical new friends! 'I love my flower friends!' he said with a big smile.",
+          "illustration": {
+            "description": "Tomas kneels in the rich brown soil, planting colorful seeds while surrounded by his flower friends. All the flowers have joyful expressions, some swaying as if dancing. Butterflies with rainbow wings flutter around, and the garden glows with soft golden light. Tomas beams with happiness and confidence.",
+            "alt": "Happy Tomas gardening with his magical flower friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "overcoming fear",
+      "making new friends",
+      "magic and wonder",
+      "family connections"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Tomas feel when he first saw the talking flowers?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Tomas felt scared when he first saw the talking flowers because it was very strange and new to him."
+      },
+      {
+        "id": 2,
+        "question": "What did the flowers want to do with Tomas?",
+        "choices": [
+          "Scare him away",
+          "Play and be friends",
+          "Make him sad"
+        ],
+        "correctIndex": 1,
+        "explanation": "The flowers wanted to play with Tomas and be his friends. They were kind and wanted to teach him about gardening."
+      },
+      {
+        "id": 3,
+        "question": "What did the flowers teach Tomas?",
+        "choices": [
+          "How to dance",
+          "How to grow a garden",
+          "How to cook"
+        ],
+        "correctIndex": 1,
+        "explanation": "The magical flowers taught Tomas how to plant seeds and grow a beautiful garden."
+      },
+      {
+        "id": 4,
+        "question": "How did Tomas feel at the end of the story?",
+        "choices": [
+          "Scared and sad",
+          "Happy and brave",
+          "Tired and angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "At the end, Tomas felt happy and brave because he made new friends and learned something wonderful."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Tomas found a special [BLANK1] in Abuela's backyard. The flowers wanted to [BLANK2] with Tomas and teach him about gardening.",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "door",
+            "distractors": [
+              "window",
+              "tree",
+              "car"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "play",
+            "distractors": [
+              "fight",
+              "hide",
+              "run"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "At first, Tomas felt [BLANK1] of the talking flowers. But then he felt [BLANK2] when he learned they were friendly.",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "angry",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "brave",
+            "distractors": [
+              "sad",
+              "tired",
+              "mean"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

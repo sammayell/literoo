@@ -1,0 +1,165 @@
+{
+  "id": "baby-bedtime-011",
+  "title": "Aaliya Counts Sleepy Stars",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "bedtime",
+    "counting"
+  ],
+  "wordCount": 42,
+  "readingLevel": "0.5",
+  "synopsis": "Little Aaliya counts twinkling stars from her cozy bedroom window as she gets ready for sleep. Each page introduces a new number of stars with gentle sounds and repetitive phrases that help babies learn counting while settling into a peaceful bedtime routine.",
+  "coverImage": "covers/baby-bedtime-011.webp",
+  "chapters": [
+    {
+      "title": "Counting Stars to Sleep",
+      "pages": [
+        {
+          "text": "One star twinkles. Twinkle, twinkle!",
+          "illustration": {
+            "description": "Baby Aaliya with warm brown skin and soft curly black hair sits by a large window in pale yellow pajamas covered with tiny moons. Outside the window, one bright golden star twinkles against a deep purple night sky. Her round dark eyes look up with wonder as she points a chubby finger toward the star.",
+            "alt": "Aaliya pointing at one twinkling star outside her window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Two stars shimmer. Shimmer, shine!",
+          "illustration": {
+            "description": "Aaliya claps her small hands together with joy, her face lit up with a big smile showing tiny white teeth. Two silver stars dance in the indigo sky outside her window. The room glows softly with warm peach light from a small bedside lamp shaped like a crescent moon.",
+            "alt": "Aaliya clapping as two stars shimmer in the night sky",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Three stars sparkle. Sparkle, sparkle!",
+          "illustration": {
+            "description": "Aaliya sits cross-legged on a fluffy lavender rug, her head tilted back to see three glittering stars arranged in a triangle. Her pajamas have shifted to show tiny star patterns. The stars pulse with gentle white and yellow light against the navy blue sky, creating a magical atmosphere.",
+            "alt": "Three sparkling stars forming a triangle as Aaliya watches from her rug",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Four stars glow. Glow so bright!",
+          "illustration": {
+            "description": "Four warm orange and pink stars create a diamond pattern in the sky. Aaliya reaches both arms up toward them, her expression peaceful and sleepy. Her bedroom shows soft mint green walls with a white crib in the background decorated with a mobile of felt clouds and stars.",
+            "alt": "Four glowing stars in a diamond pattern with Aaliya reaching toward them",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Five stars whisper. Whisper soft!",
+          "illustration": {
+            "description": "Five gentle blue and silver stars float in a curved line across the sky like a smile. Aaliya yawns, covering her mouth with one small hand, her eyelids getting heavy. A diverse family photo on her dresser shows her parents and grandparents with warm, loving faces in the soft lamplight.",
+            "alt": "Five whispering stars in a smile shape as sleepy Aaliya yawns",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Stars say goodnight. Shh, shh, shh!",
+          "illustration": {
+            "description": "All five stars now pulse gently together in a cluster, creating a soft constellation. Aaliya lies in her white crib with a coral pink blanket pulled up to her chin, her eyes closing peacefully. The room is bathed in the gentlest lavender and cream tones, creating a dreamy, sleepy atmosphere.",
+            "alt": "Aaliya sleeping peacefully in her crib as stars say goodnight",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Aaliya sleeps. Sweet dreams!",
+          "illustration": {
+            "description": "The final scene shows Aaliya fast asleep, her curly hair spread across a soft white pillow, breathing peacefully with a content smile. The stars outside have dimmed to the softest twinkle, and her room glows with the warmest, most soothing golden light. Everything feels safe and loved.",
+            "alt": "Aaliya sleeping soundly with stars twinkling softly outside",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Count again tomorrow. One, two, three!",
+          "illustration": {
+            "description": "A dreamy illustration showing three stars beginning to appear in an early evening sky that's shifting from sunset pink to twilight blue. Aaliya's window is visible with warm light inside, suggesting the cycle will begin again. The mood is hopeful and continuous, perfect for repeated readings.",
+            "alt": "Three stars appearing in the evening sky outside Aaliya's bright window",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "counting",
+      "bedtime routine",
+      "nature wonder",
+      "peaceful sleep"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How many stars does Aaliya see first?",
+        "choices": [
+          "One star",
+          "Two stars"
+        ],
+        "correctIndex": 0,
+        "explanation": "Aaliya starts counting with just one twinkling star!"
+      },
+      {
+        "id": "q2",
+        "question": "What sound do the stars make when they whisper?",
+        "choices": [
+          "Shh, shh, shh!",
+          "Twinkle, twinkle!"
+        ],
+        "correctIndex": 0,
+        "explanation": "The stars whisper 'Shh, shh, shh!' to help Aaliya fall asleep."
+      },
+      {
+        "id": "q3",
+        "question": "Where does Aaliya sleep?",
+        "choices": [
+          "In her bed",
+          "In her crib"
+        ],
+        "correctIndex": 1,
+        "explanation": "Baby Aaliya sleeps peacefully in her white crib."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "One star [0]. Twinkle, twinkle!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "twinkles",
+            "distractors": [
+              "jumps",
+              "runs",
+              "sings"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Five stars [0]. Whisper soft!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "whisper",
+            "distractors": [
+              "shout",
+              "dance",
+              "hide"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

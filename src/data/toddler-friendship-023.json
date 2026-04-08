@@ -1,0 +1,192 @@
+{
+  "id": "toddler-friendship-023",
+  "title": "Isla and the Lost Little Bird",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "nature"
+  ],
+  "wordCount": 196,
+  "readingLevel": "0.8",
+  "synopsis": "When Isla finds a scared little bird that has fallen from its nest, she feels worried but shows kindness and bravery to help her new feathered friend find its way back home to its family.",
+  "coverImage": "covers/toddler-friendship-023.webp",
+  "chapters": [
+    {
+      "title": "A Little Bird Falls Down",
+      "pages": [
+        {
+          "text": "Isla was playing in her backyard when she heard a tiny peep. She looked around and saw a small yellow bird on the ground. The little bird looked scared and couldn't fly.",
+          "illustration": {
+            "description": "Isla, a young girl with curly black hair and warm brown skin wearing a bright purple dress, kneels in a green backyard looking curiously at a small yellow finch on the grass. The bird has ruffled feathers and wide, worried eyes. Colorful flowers bloom in the background with a blue sky above.",
+            "alt": "Isla discovering a small scared bird in her backyard",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Oh no, little bird,\" said Isla softly. \"Are you hurt?\" The bird was shaking and made sad little chirping sounds. Isla felt worried about the tiny creature.",
+          "illustration": {
+            "description": "Close-up of Isla's gentle, concerned face as she leans down toward the yellow bird. Her dark eyes show kindness and worry. The bird sits on emerald grass with tiny tears in its bright black eyes, looking vulnerable and small.",
+            "alt": "Isla showing concern for the frightened little bird",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Isla Wants to Help",
+      "pages": [
+        {
+          "text": "Isla ran inside to get her mama. \"Mama, there's a baby bird that fell down!\" Her mama, who had kind eyes and wore a bright red headwrap, came outside with her.",
+          "illustration": {
+            "description": "Isla holding her mama's hand as they walk toward the bird together. Her mama is a tall woman with dark skin, wearing a vibrant red headwrap and yellow dress, smiling warmly. They approach the small yellow bird which is still sitting on the grass looking lost.",
+            "alt": "Isla and her mama approaching the fallen bird together",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"The bird looks scared,\" said Mama gently. \"But I think it's learning to fly. Sometimes baby birds need to practice on the ground first.\" Isla felt a little less worried but still wanted to help.",
+          "illustration": {
+            "description": "Mama kneeling beside Isla, both observing the yellow bird which is now standing and flapping its small wings. The bird looks less frightened and more determined. Isla's expression shows relief mixed with caring concern.",
+            "alt": "Mama explaining to Isla how baby birds learn to fly",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Being Brave and Kind",
+      "pages": [
+        {
+          "text": "Isla decided to be brave and help. She found a small dish of water and placed it near the bird. \"Here you go, little friend,\" she whispered. The bird drank the water and chirped happily.",
+          "illustration": {
+            "description": "Isla carefully placing a small blue dish of water near the yellow bird. She moves slowly and gently, her face showing concentration and kindness. The bird looks interested in the water, its head tilted curiously. Warm sunlight filters through green leaves above.",
+            "alt": "Isla bravely offering water to help the little bird",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Soon, the little bird flapped its wings and flew up to a low branch. It chirped a sweet song, as if saying \"thank you!\" Isla felt so happy and proud that she helped her new friend.",
+          "illustration": {
+            "description": "The yellow bird perched on a green tree branch, wings spread wide and beak open in a joyful song. Below, Isla claps her hands together with a huge smile, her eyes bright with happiness. Mama stands behind her, also smiling proudly. The scene is filled with warm golden light.",
+            "alt": "The happy bird flying to safety while Isla celebrates her successful help",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "kindness",
+      "helping others",
+      "overcoming worry",
+      "nature",
+      "friendship"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Isla feel when she first saw the little bird?",
+        "choices": [
+          "Happy",
+          "Worried",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Isla felt worried when she saw the scared little bird on the ground."
+      },
+      {
+        "id": 2,
+        "question": "What did Isla give the bird to help it?",
+        "choices": [
+          "Food",
+          "Water",
+          "A toy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Isla was kind and gave the bird water to drink."
+      },
+      {
+        "id": 3,
+        "question": "How did the bird say thank you to Isla?",
+        "choices": [
+          "It danced",
+          "It sang a song",
+          "It gave her a hug"
+        ],
+        "correctIndex": 1,
+        "explanation": "The little bird sang a sweet song to thank Isla for her help."
+      },
+      {
+        "id": 4,
+        "question": "How did Isla feel at the end of the story?",
+        "choices": [
+          "Sad",
+          "Scared",
+          "Happy and proud"
+        ],
+        "correctIndex": 2,
+        "explanation": "Isla felt happy and proud because she was brave and helped the little bird."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Isla found a small _____ bird on the ground. The bird looked _____.",
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "yellow",
+            "distractors": [
+              "red",
+              "blue",
+              "green"
+            ]
+          },
+          {
+            "wordIndex": 11,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "sleepy",
+              "angry"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Isla gave the bird _____ to drink. This made Isla feel _____ and proud.",
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "water",
+            "distractors": [
+              "milk",
+              "juice",
+              "soup"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "happy",
+            "distractors": [
+              "sad",
+              "mad",
+              "tired"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "id": "baby-animals-052",
+  "title": "Marcus Meets the Animals",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "animals",
+    "feelings"
+  ],
+  "wordCount": 56,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Marcus explores his backyard and meets different friendly animals, learning about sounds and feelings through gentle interactions with a puppy, bird, cat, and bunny.",
+  "coverImage": "covers/baby-animals-052.webp",
+  "chapters": [
+    {
+      "title": "Marcus Meets the Animals",
+      "pages": [
+        {
+          "text": "Marcus walks outside. What will he find?",
+          "illustration": {
+            "description": "A happy Black toddler boy with curly hair wearing a bright yellow shirt and blue overalls stands at an open back door, looking curious and excited. The background shows a sunny backyard with soft green grass and colorful flowers. Warm sunlight creates a gentle glow around Marcus.",
+            "alt": "Marcus, a young Black boy, standing at a doorway looking into a bright backyard",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Woof woof! A puppy runs to Marcus.",
+          "illustration": {
+            "description": "Marcus giggles with delight as a small golden retriever puppy with floppy ears bounces toward him across the grass. Marcus has his arms outstretched welcomingly. The puppy's tail is wagging enthusiastically. Soft pastel colors dominate with warm yellows and greens.",
+            "alt": "Marcus reaching toward a playful golden puppy running to him",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Marcus feels happy! Pat pat pat.",
+          "illustration": {
+            "description": "Marcus sits cross-legged on the grass, gently petting the puppy who sits contentedly beside him. Both Marcus and the puppy have peaceful, joyful expressions. Marcus's face shows pure happiness with a wide smile. Dappled sunlight filters through nearby trees.",
+            "alt": "Marcus sitting and petting a happy puppy on green grass",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Tweet tweet! A bird sings hello.",
+          "illustration": {
+            "description": "A small blue bird with bright orange chest perches on a low tree branch above Marcus, who looks up with wonder. The bird appears to be singing with its beak open. Marcus points up at the bird with excitement. Soft watercolor-style leaves frame the scene.",
+            "alt": "Marcus looking up at a colorful bird singing in a tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Marcus feels excited! Clap clap clap.",
+          "illustration": {
+            "description": "Marcus stands with his hands together mid-clap, beaming up at the singing bird. His expression shows wonder and joy. The bird continues to sing from its perch. Warm afternoon light creates a magical atmosphere with soft shadows on the grass.",
+            "alt": "Marcus clapping his hands while looking up at the bird",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Meow meow! A cat walks by.",
+          "illustration": {
+            "description": "A fluffy orange tabby cat with white patches strolls gracefully past Marcus, who crouches down to the cat's level with gentle curiosity. The cat has bright green eyes and appears friendly but independent. Colorful garden flowers bloom in the soft-focus background.",
+            "alt": "Marcus crouching to watch an orange and white cat walking by",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Marcus feels calm. Shh shh shh.",
+          "illustration": {
+            "description": "Marcus sits quietly watching the cat, his finger to his lips in a gentle shushing gesture. His expression is peaceful and serene. The cat sits nearby, grooming itself calmly. The scene has a tranquil, meditative quality with soft purple and pink sunset colors beginning to appear.",
+            "alt": "Marcus sitting quietly with finger to lips, watching the calm cat",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Hop hop! A bunny appears.",
+          "illustration": {
+            "description": "A small white bunny with pink inner ears hops into view while Marcus watches with delighted surprise. The bunny is mid-hop with its hind legs visible. Marcus's eyes are wide with joy and amazement. Soft evening light creates a magical golden-hour glow.",
+            "alt": "Marcus watching a white bunny hopping through the yard",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Marcus feels loved. Time to go home!",
+          "illustration": {
+            "description": "Marcus waves goodbye to all his new animal friends - the puppy, bird, cat, and bunny are all visible in the background. Marcus has a content, sleepy smile as he heads toward the house. The sky shows gentle sunset colors of pink and orange, creating a cozy ending mood.",
+            "alt": "Marcus waving goodbye to all the animals as he heads home at sunset",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "nature",
+      "emotions",
+      "animal sounds"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "What sound does the puppy make?",
+        "choices": [
+          "Woof woof",
+          "Meow meow"
+        ],
+        "correctIndex": 0,
+        "explanation": "The puppy says 'Woof woof!' when it runs to Marcus."
+      },
+      {
+        "id": 2,
+        "question": "How does Marcus feel when he pets the puppy?",
+        "choices": [
+          "Sad",
+          "Happy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Marcus feels happy when he pets the puppy and goes 'Pat pat pat.'"
+      },
+      {
+        "id": 3,
+        "question": "What does the bunny do?",
+        "choices": [
+          "Hop hop",
+          "Fly fly"
+        ],
+        "correctIndex": 0,
+        "explanation": "The bunny goes 'Hop hop!' as it appears in the yard."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Marcus feels _____! Pat pat pat.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "happy",
+            "distractors": [
+              "sad",
+              "angry",
+              "tired"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "_____ _____! A bird sings hello.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Tweet",
+            "distractors": [
+              "Woof",
+              "Meow",
+              "Hop"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

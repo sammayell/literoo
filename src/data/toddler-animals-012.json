@@ -1,0 +1,186 @@
+{
+  "id": "toddler-animals-012",
+  "title": "Diego and the Lost Butterfly",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "animals",
+    "adventure"
+  ],
+  "wordCount": 236,
+  "readingLevel": "1.2",
+  "synopsis": "When Diego finds a scared butterfly with a hurt wing in his backyard, he learns about being brave and kind while helping his new friend find her way back to the flower garden.",
+  "coverImage": "covers/toddler-animals-012.webp",
+  "chapters": [
+    {
+      "title": "A New Friend",
+      "pages": [
+        {
+          "text": "Diego was playing in his backyard when he heard a tiny cry. \"Help! Help!\" squeaked a small voice. Diego looked around with curious eyes. Where was that sound coming from?",
+          "illustration": {
+            "description": "Diego, a cheerful Hispanic boy with dark curly hair and brown skin, wearing a bright red t-shirt and blue shorts, stands in a sunny backyard with green grass and colorful flowers. He has his hand cupped to his ear, listening carefully with wide, curious brown eyes. The background shows a wooden fence and blue sky with fluffy white clouds.",
+            "alt": "Diego listening carefully in his backyard",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Behind a big sunflower, Diego found a beautiful butterfly. She had orange and black wings, but one wing looked hurt. The butterfly looked very scared and sad. \"I can't fly home,\" she whispered.",
+          "illustration": {
+            "description": "A small orange and black monarch butterfly sits on the ground near a tall yellow sunflower, looking worried with droopy antennae. Diego kneels down beside her, his face showing concern and gentleness. The butterfly's left wing appears slightly torn. The scene is warm and inviting with golden sunlight filtering through green leaves.",
+            "alt": "Diego finding the hurt butterfly by the sunflower",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "\"Don't be scared,\" Diego said softly. \"I want to help you.\" The butterfly's name was Luna. She told Diego she lived in the community garden down the street, but she got lost and hurt her wing on a thorny bush.",
+          "illustration": {
+            "description": "Diego sits cross-legged on the grass, gently extending his finger toward Luna the butterfly. Luna has perked up slightly, her antennae more alert. Diego's expression is kind and reassuring, with a gentle smile. The background shows the backyard garden with various colorful flowers and plants creating a safe, cozy atmosphere.",
+            "alt": "Diego talking gently to Luna the butterfly",
+            "layout": "full"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Journey Home",
+      "pages": [
+        {
+          "text": "Diego felt brave and wanted to help Luna get home. \"I know where the garden is!\" he said happily. Very carefully, Diego cupped his hands around Luna to keep her safe. She felt scared at first, but Diego's gentle hands made her feel better.",
+          "illustration": {
+            "description": "Diego carefully holds his cupped hands with Luna safely inside, walking along a sidewalk. His face shows determination and kindness. Luna peeks out between his fingers, looking more hopeful. The background shows a tree-lined neighborhood street with diverse families walking - an Asian mother pushing a stroller, and an elderly Black man watering his garden.",
+            "alt": "Diego carrying Luna safely in his hands",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "At the community garden, Diego met Mrs. Chen, who was watering the flowers. \"This butterfly needs help,\" Diego explained. Mrs. Chen smiled and showed them to a patch of beautiful purple flowers where other butterflies were dancing in the air.",
+          "illustration": {
+            "description": "Mrs. Chen, an elderly Asian woman with gray hair in a bun, wearing a sun hat and gardening apron, kneels beside Diego in the vibrant community garden. She holds a watering can and smiles warmly. The garden is full of purple, yellow, and pink flowers with several colorful butterflies flying around. Diego looks excited and proud.",
+            "alt": "Diego and Mrs. Chen in the community garden",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Diego gently placed Luna on a soft purple flower. Even with her hurt wing, Luna was so happy to be home! \"Thank you for being so brave and kind,\" Luna said. Diego felt proud and happy. He had helped his new friend, and now they would always be friends.",
+          "illustration": {
+            "description": "Luna sits contentedly on a large purple flower, her wings spread wide despite the small tear. Other monarch and yellow butterflies flutter nearby. Diego watches with a big, joyful smile, his hands on his hips in a proud pose. The garden setting is lush and magical, with warm golden light and various flowers blooming. Mrs. Chen waters plants in the background.",
+            "alt": "Luna happy on her flower with Diego watching proudly",
+            "layout": "full"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "kindness",
+      "bravery",
+      "helping others",
+      "friendship"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Diego feel when he wanted to help Luna?",
+        "choices": [
+          "scared",
+          "brave",
+          "angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Diego felt brave when he decided to help Luna get home safely."
+      },
+      {
+        "id": 2,
+        "question": "What was wrong with Luna the butterfly?",
+        "choices": [
+          "she was hungry",
+          "her wing was hurt",
+          "she was sleepy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Luna had hurt her wing on a thorny bush and couldn't fly home."
+      },
+      {
+        "id": 3,
+        "question": "Where did Luna live?",
+        "choices": [
+          "in a tree",
+          "in the community garden",
+          "in Diego's house"
+        ],
+        "correctIndex": 1,
+        "explanation": "Luna lived in the community garden down the street from Diego's house."
+      },
+      {
+        "id": 4,
+        "question": "How did Luna feel when Diego helped her get home?",
+        "choices": [
+          "happy",
+          "scared",
+          "angry"
+        ],
+        "correctIndex": 0,
+        "explanation": "Luna felt very happy when Diego safely brought her back to her home in the garden."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Diego found a [0] butterfly named Luna who had hurt her [1].",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "angry",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "wing",
+            "distractors": [
+              "leg",
+              "nose",
+              "tail"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Diego felt [0] and wanted to help Luna get back to the [1] garden.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "brave",
+            "distractors": [
+              "scared",
+              "sad",
+              "tired"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "community",
+            "distractors": [
+              "big",
+              "small",
+              "old"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

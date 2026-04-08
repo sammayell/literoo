@@ -1,0 +1,207 @@
+{
+  "id": "toddler-bedtime-168",
+  "title": "Mateo's Sleepy Time Feelings",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "bedtime",
+    "feelings"
+  ],
+  "wordCount": 181,
+  "readingLevel": "1.2",
+  "synopsis": "When little Mateo feels scared about bedtime, his mama helps him understand his feelings and find ways to feel brave and happy before sleep.",
+  "coverImage": "covers/toddler-bedtime-168.webp",
+  "chapters": [
+    {
+      "title": "Feeling Scared",
+      "pages": [
+        {
+          "text": "Mateo was playing with his blocks when Mama said, \"Time for bed!\" His smile went away. He felt scared about going to sleep. The dark room made him worry.",
+          "illustration": {
+            "description": "A young Latino boy with curly black hair sitting on a colorful rug with wooden blocks scattered around. His expression shows worry with wide eyes and a small frown. The living room has warm yellow walls and a cozy couch. Bright cartoon style with soft textures like construction paper.",
+            "alt": "Mateo looking worried while playing with blocks",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I don't want to go to bed, Mama,\" Mateo said sadly. His mama, who had kind brown eyes and long black hair, sat down beside him. \"Tell me how you feel, mi amor.\"",
+          "illustration": {
+            "description": "A warm scene with Mateo's mama, a gentle Latina woman with long dark hair in a ponytail, sitting cross-legged next to her son. She has caring brown eyes and wears a soft blue sweater. Mateo looks up at her with sad eyes. The room glows with evening light through windows.",
+            "alt": "Mama sitting beside sad Mateo on the floor",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"The dark makes me scared,\" whispered Mateo. Mama hugged him close. \"It's okay to feel scared sometimes. Let's find ways to help you feel brave and happy.\"",
+          "illustration": {
+            "description": "Mama giving Mateo a warm, protective hug. Both characters have peaceful expressions with closed eyes. The room is softly lit with a table lamp casting golden light. Family photos with diverse faces are visible on shelves in the background. Cozy, safe feeling with rounded shapes.",
+            "alt": "Mama hugging Mateo in a warm embrace",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Finding Brave and Happy",
+      "pages": [
+        {
+          "text": "Mama got Mateo's favorite teddy bear and his special night light that looked like stars. \"Your bear will keep you company, and the stars will make the room bright and beautiful.\"",
+          "illustration": {
+            "description": "Mateo's bedroom with a soft brown teddy bear on a small bed with dinosaur sheets. A star-shaped night light glows warmly on the bedside table, casting gentle star patterns on the walls. The room has cheerful primary colors with a bookshelf showing diverse characters on book spines.",
+            "alt": "Mateo's cozy bedroom with teddy bear and star night light",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "They practiced taking deep breaths together. \"When you feel scared, breathe like this,\" Mama showed him. Mateo felt a little braver already. His worried face started to look happy.",
+          "illustration": {
+            "description": "Mateo and Mama sitting on the bed together, both taking deep breaths with their eyes closed and peaceful smiles. Mateo's expression shows he's feeling calmer and more confident. The star night light creates a magical atmosphere with soft blue and yellow light patterns on the textured walls.",
+            "alt": "Mateo and Mama practicing deep breathing on the bed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Now I feel brave!\" said Mateo with a big smile. He hugged his teddy bear tight. Mama tucked him in and sang softly. Mateo felt happy and safe, ready for sweet dreams.",
+          "illustration": {
+            "description": "Mateo lying in bed with a bright, confident smile, hugging his brown teddy bear. Mama sits beside the bed with a gentle expression, one hand on the colorful blanket. The star night light creates a dreamy atmosphere. Through the window, a diverse neighborhood is visible with different families in their lit windows.",
+            "alt": "Happy Mateo tucked in bed with Mama beside him",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "managing fear",
+      "emotional vocabulary",
+      "parent-child bond",
+      "self-soothing"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Mateo feel about bedtime at first?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Excited"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mateo felt scared about going to bed because the dark room made him worry."
+      },
+      {
+        "id": "q2",
+        "question": "What did Mama give Mateo to help him feel better?",
+        "choices": [
+          "A cookie",
+          "His teddy bear and night light",
+          "A new toy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mama got Mateo's favorite teddy bear and his special star night light to help him feel brave."
+      },
+      {
+        "id": "q3",
+        "question": "What did Mama teach Mateo to do when he feels scared?",
+        "choices": [
+          "Run away",
+          "Take deep breaths",
+          "Hide under covers"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mama taught Mateo to take deep breaths when he feels scared, which helped him feel braver."
+      },
+      {
+        "id": "q4",
+        "question": "How did Mateo feel at the end of the story?",
+        "choices": [
+          "Still scared",
+          "Angry",
+          "Happy and brave"
+        ],
+        "correctIndex": 2,
+        "explanation": "By the end, Mateo felt happy and brave, ready for sweet dreams with his teddy bear and night light."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "id": "puzzle1",
+        "title": "Fill in the Feelings",
+        "instruction": "Choose the right feeling word for each sentence.",
+        "sentences": [
+          {
+            "text": "Mateo felt _____ about going to bed in the dark.",
+            "blanks": [
+              {
+                "wordIndex": 2,
+                "correctWord": "scared",
+                "distractors": [
+                  "happy",
+                  "silly"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Mama's hug made Mateo feel _____ and safe.",
+            "blanks": [
+              {
+                "wordIndex": 6,
+                "correctWord": "happy",
+                "distractors": [
+                  "scared",
+                  "angry"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "puzzle2",
+        "title": "Bedtime Helpers",
+        "instruction": "What helped Mateo feel brave? Fill in the blanks.",
+        "sentences": [
+          {
+            "text": "Mateo hugged his _____ bear tight.",
+            "blanks": [
+              {
+                "wordIndex": 3,
+                "correctWord": "teddy",
+                "distractors": [
+                  "big",
+                  "toy"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "The _____ night light made pretty patterns on the wall.",
+            "blanks": [
+              {
+                "wordIndex": 1,
+                "correctWord": "star",
+                "distractors": [
+                  "moon",
+                  "sun"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

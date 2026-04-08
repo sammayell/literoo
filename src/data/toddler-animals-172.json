@@ -1,0 +1,175 @@
+{
+  "id": "toddler-animals-172",
+  "title": "Arjun and the Lost Baby Bird",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "animals",
+    "adventure"
+  ],
+  "wordCount": 160,
+  "readingLevel": "1.2",
+  "synopsis": "When Arjun finds a scared baby bird who has fallen from its nest, he goes on a brave adventure to help reunite the little bird with its mama. Along the way, Arjun learns about kindness and helping others.",
+  "coverImage": "covers/toddler-animals-172.webp",
+  "chapters": [
+    {
+      "title": "The Little Bird Adventure",
+      "pages": [
+        {
+          "text": "Arjun was playing in his backyard when he heard a tiny sound. \"Peep! Peep!\" He looked around and saw a small baby bird on the ground. The little bird looked very scared and sad. \"Don't worry, little bird,\" said Arjun gently. \"I will help you.\"",
+          "illustration": {
+            "description": "A young Indian boy named Arjun with dark hair and kind brown eyes kneeling next to a tiny yellow baby bird on green grass. Arjun wears a bright blue t-shirt and has a caring expression. The baby bird looks small and frightened with fluffy feathers.",
+            "alt": "Arjun discovering the scared baby bird in his backyard",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Arjun felt brave and wanted to help. He looked up at the tall oak tree and saw an empty nest high up in the branches. \"Your mama must be looking for you,\" he said to the baby bird. Arjun carefully picked up the little bird in his cupped hands. It felt soft and warm.",
+          "illustration": {
+            "description": "Arjun looking up at a large brown oak tree with bright green leaves, holding a small yellow bird gently in his cupped hands. His expression shows determination and bravery. The nest is visible high in the tree branches against a bright blue sky.",
+            "alt": "Arjun holding the baby bird and looking up at its nest in the tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Just then, Arjun's neighbor Mrs. Chen came over with a tall ladder. \"I saw what happened,\" she said with a warm smile. \"Let's help this little one get home.\" Together, they climbed up and placed the baby bird back in its cozy nest. Soon, Mama Bird flew back and chirped happily. Arjun felt so happy and proud that he had helped!",
+          "illustration": {
+            "description": "An elderly Asian woman with gray hair and a kind smile helping Arjun climb a red ladder against the oak tree. The baby bird is safely in its nest with a larger brown mama bird. Everyone looks happy and relieved with bright, joyful expressions.",
+            "alt": "Mrs. Chen helping Arjun return the baby bird to its nest while Mama Bird returns",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "kindness",
+      "helping others",
+      "bravery",
+      "community",
+      "animal care"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Arjun feel when he first saw the baby bird?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Brave and helpful"
+        ],
+        "correctIndex": 2,
+        "explanation": "Arjun felt brave and wanted to help the scared little bird."
+      },
+      {
+        "id": "q2",
+        "question": "Where was the baby bird's nest?",
+        "choices": [
+          "In the bushes",
+          "High up in the oak tree",
+          "On the ground"
+        ],
+        "correctIndex": 1,
+        "explanation": "The nest was high up in the branches of the tall oak tree."
+      },
+      {
+        "id": "q3",
+        "question": "Who helped Arjun return the baby bird?",
+        "choices": [
+          "His mom",
+          "Mrs. Chen with a ladder",
+          "His dad"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mrs. Chen, his kind neighbor, brought a ladder to help them reach the nest."
+      },
+      {
+        "id": "q4",
+        "question": "How did everyone feel at the end of the story?",
+        "choices": [
+          "Sad",
+          "Scared",
+          "Happy"
+        ],
+        "correctIndex": 2,
+        "explanation": "Everyone felt happy - Arjun was proud, the baby bird was safe, and Mama Bird was relieved to have her baby back."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Arjun found a _____ baby bird on the ground. The little bird was very _____ and needed help.",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "angry"
+            ]
+          },
+          {
+            "wordIndex": 11,
+            "correctWord": "sad",
+            "distractors": [
+              "loud",
+              "big"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Arjun felt _____ and wanted to help. He looked up and saw the bird's _____ high in the tree.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "brave",
+            "distractors": [
+              "scared",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 13,
+            "correctWord": "nest",
+            "distractors": [
+              "food",
+              "toy"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Mrs. Chen brought a _____ to help. When the baby bird was back with Mama Bird, everyone felt _____!",
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "ladder",
+            "distractors": [
+              "rope",
+              "chair"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "happy",
+            "distractors": [
+              "tired",
+              "worried"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

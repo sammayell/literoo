@@ -1,0 +1,202 @@
+{
+  "id": "toddler-friendship-053",
+  "title": "Zara and the Lonely Little Tree",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "nature"
+  ],
+  "wordCount": 364,
+  "readingLevel": "1.2",
+  "synopsis": "When Zara discovers a small, sad tree with no leaves in the park, she feels worried about her new friend. With help from her diverse group of playground friends, Zara learns that the little tree just needs water, care, and friendship to grow healthy and strong again.",
+  "coverImage": "covers/toddler-friendship-053.webp",
+  "chapters": [
+    {
+      "title": "A New Friend Needs Help",
+      "pages": [
+        {
+          "text": "Zara loved playing in the sunny park with her friends. She had curly black hair that bounced when she ran, and today she wore her favorite yellow dress. While chasing butterflies near the big oak trees, Zara found something that made her feel sad. There was a tiny tree with no leaves, looking very lonely.",
+          "illustration": {
+            "description": "A cheerful park scene with Zara, a young Black girl with bouncy curls wearing a bright yellow dress, discovering a small bare tree. The background shows other children playing - an Asian boy on swings, a Latina girl on a slide. The little tree looks droopy and leafless while big green oak trees stand tall nearby. Warm afternoon sunlight filters through, creating a golden glow.",
+            "alt": "Zara in yellow dress finds a small leafless tree in a sunny park",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Oh no, little tree,\" Zara said softly. \"You look so sad. Are you scared?\" The little tree's branches hung down, and its bark looked dry. Zara felt worried about her new friend. She wanted to help, but she didn't know how. \"I need to be brave,\" Zara whispered. \"Let me get my friends to help you feel better.\"",
+          "illustration": {
+            "description": "Close-up of Zara kneeling beside the small tree, her face showing concern and determination. Her hand gently touches the tree's trunk. The tree appears wilted with drooping branches against a soft blue sky. Zara's expression shows she cares deeply, with big expressive eyes full of empathy. The illustration has warm, muted tones to convey the emotional moment.",
+            "alt": "Zara kneeling beside the sad little tree, showing care and concern",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Zara ran to find her friends playing nearby. \"Maya! Jin! Carlos!\" she called. Maya, a girl with red braids, was building sand castles. Jin, a boy with straight black hair, was collecting pretty rocks. Carlos, a boy with brown skin and a big smile, was drawing with chalk. \"Come quick! I found a tree friend who needs our help!\"",
+          "illustration": {
+            "description": "A vibrant playground scene showing Zara's diverse group of friends. Maya has red braids and is playing in a sandbox, Jin has neat black hair and holds colorful rocks, and Carlos has warm brown skin and holds chalk sticks. All three children look up at Zara with interested, happy expressions. Bright primary colors fill the scene with playground equipment in the background.",
+            "alt": "Zara calling to her diverse group of friends on the playground",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "All the friends gathered around the little tree. \"It does look sad,\" said Maya gently. Jin touched the dry soil. \"The ground feels so dry!\" Carlos pointed to the bigger trees. \"Look how happy the other trees are with their green leaves.\" Zara felt hopeful. \"Maybe our tree friend just needs water and love, like flowers do!\"",
+          "illustration": {
+            "description": "All four children - Zara, Maya, Jin, and Carlos - standing in a circle around the small tree, examining it carefully. Their faces show curiosity and caring. Maya has her hands on her hips, Jin is touching the soil, Carlos is pointing upward, and Zara looks hopeful. The contrast between the bare little tree and the lush green trees in the background is clear. Bright, warm colors dominate the scene.",
+            "alt": "Four friends examining the little tree together, showing care and teamwork",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The friends worked together to help their tree friend. Maya brought water in her pretty blue bucket. Jin found smooth stones to put around the tree's base. Carlos drew happy pictures in the dirt nearby. Zara sang a gentle song to make the tree feel loved. \"Don't be scared, little tree. We're here to take care of you!\"",
+          "illustration": {
+            "description": "A heartwarming scene of teamwork with all four children actively helping the tree. Maya pours water from a bright blue bucket, Jin carefully places smooth river stones around the base, Carlos draws smiley faces in the dirt with his chalk, and Zara stands with her arms outstretched as if singing. Everyone looks happy and engaged. The scene radiates friendship and cooperation.",
+            "alt": "Friends working together to water and care for the little tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "After giving the tree water and love, something wonderful happened! The little tree's branches lifted up just a bit, and Zara could see tiny green buds starting to grow. \"Look!\" she shouted happily. \"Our tree friend isn't sad anymore!\" All the children felt so happy and proud. They had been brave helpers, and their kindness made the little tree feel better. From that day on, they visited their tree friend every time they came to the park.",
+          "illustration": {
+            "description": "A joyful celebration scene with all four children cheering and pointing at the little tree, which now has small green buds on its branches. The tree stands a little taller and looks healthier. The children's faces beam with happiness and accomplishment. Bright sunshine bathes the scene, and in the background, other park visitors can be seen enjoying the beautiful day. The mood is triumphant and warm.",
+            "alt": "Happy children celebrating as the little tree shows signs of new growth",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "empathy",
+      "teamwork",
+      "caring for nature",
+      "problem-solving"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Zara feel when she first saw the little tree?",
+        "choices": [
+          "Happy",
+          "Sad and worried",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Zara felt sad and worried when she saw the little tree had no leaves and looked lonely."
+      },
+      {
+        "id": 2,
+        "question": "What did the friends do to help the tree?",
+        "choices": [
+          "They ran away",
+          "They gave it water and love",
+          "They picked flowers"
+        ],
+        "correctIndex": 1,
+        "explanation": "The friends worked together - Maya brought water, Jin added stones, Carlos drew pictures, and Zara sang songs."
+      },
+      {
+        "id": 3,
+        "question": "How did Zara feel at the end of the story?",
+        "choices": [
+          "Scared",
+          "Sad",
+          "Happy and proud"
+        ],
+        "correctIndex": 2,
+        "explanation": "Zara felt happy and proud because she and her friends helped the tree grow green buds."
+      },
+      {
+        "id": 4,
+        "question": "What appeared on the tree after the friends helped it?",
+        "choices": [
+          "Big red flowers",
+          "Tiny green buds",
+          "Golden leaves"
+        ],
+        "correctIndex": 1,
+        "explanation": "After getting water and care, the little tree grew tiny green buds on its branches."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Help Zara Find the Right Words!",
+        "text": "Zara found a little _____ that looked very _____. She felt _____ and wanted to help her new friend.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "tree",
+            "distractors": [
+              "flower",
+              "rock",
+              "bird"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "sad",
+            "distractors": [
+              "happy",
+              "angry",
+              "silly"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "worried",
+            "distractors": [
+              "sleepy",
+              "hungry",
+              "cold"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "What Did the Friends Do?",
+        "text": "Maya brought _____ in her blue bucket. The friends worked together and felt very _____ when they saw green _____ growing!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "water",
+            "distractors": [
+              "sand",
+              "toys",
+              "cookies"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "happy",
+            "distractors": [
+              "tired",
+              "scared",
+              "mad"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "buds",
+            "distractors": [
+              "worms",
+              "stones",
+              "sticks"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

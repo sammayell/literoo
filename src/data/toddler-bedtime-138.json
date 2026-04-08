@@ -1,0 +1,224 @@
+{
+  "id": "toddler-bedtime-138",
+  "title": "Axel's Brave Bedtime",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "bedtime",
+    "feelings"
+  ],
+  "wordCount": 241,
+  "readingLevel": "1.2",
+  "synopsis": "When little Axel feels scared at bedtime, his mom helps him find his brave feelings and discover that nighttime can be cozy and safe.",
+  "coverImage": "covers/toddler-bedtime-138.webp",
+  "chapters": [
+    {
+      "title": "Axel Feels Scared",
+      "pages": [
+        {
+          "text": "Axel was a happy little boy who loved to play all day. But when the sun went down and it was time for bed, Axel felt scared. The shadows on his wall looked big and dark.",
+          "illustration": {
+            "description": "A young Black boy with curly hair in blue pajamas sitting on his bed looking worried. His bedroom has toys scattered around, a lamp casting gentle shadows on yellow walls. The room has warm lighting but shows some darker corners that might seem scary to a child.",
+            "alt": "Axel sitting on his bed looking scared at bedtime",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Mama, I don't want to go to sleep,\" said Axel with sad eyes. \"The dark makes me feel scared.\" Mama sat down next to him and gave him a warm hug.",
+          "illustration": {
+            "description": "A loving Black mother with natural hair in a purple robe sitting on the bed next to Axel, wrapping him in a gentle hug. Both characters have expressive, caring faces. The bedroom setting is cozy with stuffed animals and a nightlight glowing softly.",
+            "alt": "Mama hugging Axel on his bed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"It's okay to feel scared sometimes,\" Mama said gently. \"But I know you have brave feelings inside you too. Let's find them together.\"",
+          "illustration": {
+            "description": "Mama pointing to Axel's heart while they sit together on the bed. Axel looks curious and slightly hopeful. The room is bathed in soft moonlight coming through a window with star-patterned curtains. Warm blues and purples dominate the scene.",
+            "alt": "Mama talking to Axel about brave feelings",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Finding Brave Feelings",
+      "pages": [
+        {
+          "text": "Mama helped Axel look around his room. \"See your teddy bear? He keeps you safe all night. And your night light makes everything cozy and bright.\"",
+          "illustration": {
+            "description": "Axel holding a brown teddy bear while Mama points to a star-shaped night light casting gentle patterns on the wall. The room looks friendly and welcoming now, with warm golden light. Picture books and toy cars are visible on shelves.",
+            "alt": "Axel with his teddy bear and night light",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Axel squeezed his teddy tight and took a deep breath. He started to feel a little brave. The shadows didn't look so scary anymore. They looked like friendly shapes dancing on the wall.",
+          "illustration": {
+            "description": "Axel smiling while hugging his teddy bear, looking at wall shadows that now appear like friendly animals and shapes. His expression has changed from scared to curious and brave. The shadows look playful rather than frightening, in soft gray tones.",
+            "alt": "Axel feeling braver with his teddy bear",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Happy Dreams",
+      "pages": [
+        {
+          "text": "\"I think I found my brave feelings, Mama!\" said Axel with a big smile. \"They were hiding, but now they're here in my heart.\" He felt proud and happy.",
+          "illustration": {
+            "description": "Axel beaming with joy, pointing to his heart while Mama claps her hands proudly. Both characters have huge, happy smiles. The bedroom looks completely cozy now with soft lighting, and there are diverse family photos on the nightstand showing different family members.",
+            "alt": "Happy Axel showing his brave feelings",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama tucked Axel into his soft bed with his teddy bear. \"Sweet dreams, my brave boy,\" she whispered. Axel felt safe and loved as he closed his eyes.",
+          "illustration": {
+            "description": "Axel peacefully tucked in bed with his teddy bear, eyes gently closed with a content smile. Mama is leaning over to kiss his forehead goodnight. The room is bathed in soft, dreamy light with twinkling stars visible through the window. Everything looks serene and safe.",
+            "alt": "Axel tucked in bed ready for sweet dreams",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "That night, Axel had the most wonderful dreams. He dreamed of flying with friendly dragons and playing with magical animals. He wasn't scared anymore because he knew his brave feelings would always be with him.",
+          "illustration": {
+            "description": "A dream sequence showing Axel flying happily through a starry sky with colorful, friendly dragons and magical creatures. The scene is filled with bright purples, blues, and golds. Everyone is smiling and the atmosphere is joyful and adventurous rather than scary.",
+            "alt": "Axel's happy dream with friendly magical creatures",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "overcoming fears",
+      "bedtime routine",
+      "emotional regulation",
+      "parent-child bonding",
+      "building confidence"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Axel feel at bedtime?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Excited"
+        ],
+        "correctIndex": 1,
+        "explanation": "Axel felt scared when it was time for bed because the shadows looked big and dark."
+      },
+      {
+        "id": "q2",
+        "question": "What helped Axel feel better?",
+        "choices": [
+          "His teddy bear and night light",
+          "Loud music",
+          "Bright overhead lights"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama showed Axel his teddy bear and night light, which helped him feel safe and brave."
+      },
+      {
+        "id": "q3",
+        "question": "Where did Axel find his brave feelings?",
+        "choices": [
+          "Under his bed",
+          "In his heart",
+          "In his closet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Axel discovered his brave feelings were inside his heart all along."
+      },
+      {
+        "id": "q4",
+        "question": "What did Axel dream about?",
+        "choices": [
+          "Scary monsters",
+          "Flying with friendly dragons",
+          "Going to school"
+        ],
+        "correctIndex": 1,
+        "explanation": "Axel had wonderful dreams about flying with friendly dragons and playing with magical animals."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words",
+        "instructions": "Help complete Axel's story by choosing the right words!",
+        "text": "Axel felt _____ at bedtime, but Mama helped him find his _____ feelings. With his teddy bear, Axel felt safe and _____.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "scared",
+            "distractors": [
+              "hungry",
+              "cold"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "brave",
+            "distractors": [
+              "silly",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "happy",
+            "distractors": [
+              "angry",
+              "loud"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Bedtime Feelings",
+        "instructions": "Choose the right feeling words for Axel's bedtime story!",
+        "text": "At first, the shadows made Axel feel _____. But when Mama showed him his night light, he felt _____. By bedtime, Axel was _____ and ready for sweet dreams.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "scared",
+            "distractors": [
+              "excited",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "brave",
+            "distractors": [
+              "sad",
+              "tired"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "happy",
+            "distractors": [
+              "worried",
+              "cold"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

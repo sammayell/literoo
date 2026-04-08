@@ -1,0 +1,201 @@
+{
+  "id": "toddler-adventure-155",
+  "title": "Amira and the Lost Star",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "adventure",
+    "bedtime"
+  ],
+  "wordCount": 320,
+  "readingLevel": "1.2",
+  "synopsis": "When a little star falls from the sky and gets scared, brave Amira helps it find its way back home to make the night sky bright again.",
+  "coverImage": "covers/toddler-adventure-155.webp",
+  "chapters": [
+    {
+      "title": "The Fallen Star",
+      "pages": [
+        {
+          "text": "Amira was getting ready for bed when she heard a tiny crying sound outside her window. She looked out and saw something golden and glowing in her backyard. 'What could that be?' she wondered, feeling curious but a little scared too.",
+          "illustration": {
+            "description": "A young girl with dark curly hair and warm brown skin in colorful pajamas peers out of a bedroom window. Her expression shows curiosity mixed with gentle concern. Through the window, a small golden glowing object is visible in a backyard with purple night sky. The scene is warmly lit with soft yellow bedroom lighting contrasting against the deep blue-purple night outside.",
+            "alt": "Amira looking out her bedroom window at night, seeing a glowing object in the yard",
+            "layout": "portrait"
+          }
+        },
+        {
+          "text": "Amira put on her fuzzy slippers and tiptoed outside with her mama. There on the soft grass was a tiny star, no bigger than her hand! The little star was crying golden tears and looked very sad. 'I fell from the sky,' sniffled the star. 'Now I'm lost and scared.'",
+          "illustration": {
+            "description": "Amira in her pajamas and fuzzy pink slippers kneels on green grass next to her mama, who has similar features and wears a gentle smile. Between them is a small, anthropomorphic star with a sad face, golden glow, and tiny tear drops. The backyard setting has a wooden fence and the night sky shows a gap where one star is missing. Warm yellow porch light creates a cozy atmosphere.",
+            "alt": "Amira and her mother discovering the crying little star in their backyard",
+            "layout": "landscape"
+          }
+        },
+        {
+          "text": "Amira felt sorry for the little star. Even though she was scared of the dark sky, she wanted to help. 'Don't worry, little star,' she said in her bravest voice. 'I'll help you get back home!' The star stopped crying and smiled hopefully. Amira felt happy and proud to be so brave.",
+          "illustration": {
+            "description": "Amira gently reaches out her hand toward the small star, her expression showing determination and kindness. The star's face brightens with hope, its golden glow becoming warmer and brighter. Amira's mother stands supportively nearby with an encouraging smile. The scene is bathed in golden starlight against the purple night sky, creating a magical and comforting atmosphere.",
+            "alt": "Amira comforting the little star and promising to help",
+            "layout": "portrait"
+          }
+        },
+        {
+          "text": "Together, Amira and the little star looked up at the night sky. They could see where the star belonged - right next to the moon, where there was a dark empty spot. 'That's my home!' said the star excitedly. But how could they get the star back up so high?",
+          "illustration": {
+            "description": "Amira and the glowing star both look upward at a beautiful night sky filled with twinkling stars and a smiling crescent moon. There's an obvious dark gap in the star pattern near the moon. Amira points up at the empty spot while the little star glows brighter with recognition. The composition emphasizes the height and distance they need to overcome, with the vast purple sky dotted with silver stars.",
+            "alt": "Amira and the star looking up at the night sky, seeing the empty spot where the star belongs",
+            "layout": "portrait"
+          }
+        },
+        {
+          "text": "Amira had a wonderful idea! She ran to get her favorite red balloon from inside. 'Hold onto this balloon,' she told the star. 'It will carry you back up to the sky!' The little star hugged the balloon tight, and slowly, magically, it began to float upward. 'Thank you, brave Amira!' called the star as it rose higher and higher.",
+          "illustration": {
+            "description": "Amira holds a bright red balloon string while the small golden star grasps onto the balloon basket. The star is beginning to lift off the ground, with motion lines showing upward movement. Amira waves with her free hand, smiling proudly. The background shows the transition from ground level to sky, with the star beginning its journey home. The scene captures the magical moment of problem-solving and friendship.",
+            "alt": "Amira helping the little star float back to the sky using a red balloon",
+            "layout": "landscape"
+          }
+        },
+        {
+          "text": "The little star floated all the way back to its spot next to the moon. It let go of the balloon and nestled into its place in the sky, glowing brightly and happily. The moon smiled down at Amira. 'Thank you for helping my star friend,' whispered the moon. Amira felt warm and happy inside. She waved goodnight and went back to bed, ready for sweet dreams.",
+          "illustration": {
+            "description": "The night sky scene shows the little star now glowing brightly in its proper place next to a smiling crescent moon. Below, Amira waves from her backyard, looking small but important against the vast starry sky. The red balloon drifts away peacefully. All the stars twinkle extra bright, and the overall scene radiates warmth and accomplishment. The composition shows the completed journey from earth to sky.",
+            "alt": "The little star back in its place in the sky, with Amira waving goodnight from below",
+            "layout": "landscape"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bravery",
+      "helping others",
+      "problem-solving",
+      "bedtime"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did the little star feel when Amira first found it?",
+        "choices": [
+          "Happy and excited",
+          "Sad and scared",
+          "Angry and loud"
+        ],
+        "correctIndex": 1,
+        "explanation": "The little star was crying and felt sad and scared because it had fallen from the sky and was lost."
+      },
+      {
+        "id": 2,
+        "question": "How did Amira feel when she decided to help the star?",
+        "choices": [
+          "Angry",
+          "Brave and happy",
+          "Sleepy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Amira felt brave and happy when she decided to help the little star, even though she was a little scared of the dark sky."
+      },
+      {
+        "id": 3,
+        "question": "What did Amira use to help the star get back to the sky?",
+        "choices": [
+          "A ladder",
+          "A red balloon",
+          "A rocket"
+        ],
+        "correctIndex": 1,
+        "explanation": "Amira used her favorite red balloon to help the little star float back up to its place in the sky."
+      },
+      {
+        "id": 4,
+        "question": "Where did the star belong in the sky?",
+        "choices": [
+          "Next to the sun",
+          "Next to the moon",
+          "All by itself"
+        ],
+        "correctIndex": 1,
+        "explanation": "The little star belonged right next to the moon, where there was an empty dark spot waiting for it."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Help Amira tell the story!",
+        "text": "The little star was very ___ because it fell from the sky. Amira felt ___ and wanted to help. She used a red ___ to help the star float back home.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "sad",
+            "distractors": [
+              "happy",
+              "hungry",
+              "loud"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "brave",
+            "distractors": [
+              "sleepy",
+              "angry",
+              "cold"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "balloon",
+            "distractors": [
+              "ladder",
+              "rope",
+              "truck"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Finish the story!",
+        "text": "The star floated up to the ___ where it belonged. The moon was ___ to have its friend back. Amira felt ___ that she could help.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "sky",
+            "distractors": [
+              "house",
+              "tree",
+              "ocean"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "happy",
+            "distractors": [
+              "sad",
+              "scared",
+              "angry"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "proud",
+            "distractors": [
+              "tired",
+              "hungry",
+              "cold"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

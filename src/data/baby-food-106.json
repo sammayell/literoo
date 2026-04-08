@@ -1,0 +1,165 @@
+{
+  "id": "baby-food-106",
+  "title": "Kai's Yummy Sounds",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "food",
+    "sounds"
+  ],
+  "wordCount": 43,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Kai explores different foods and the fun sounds they make when he eats them. From crunchy apples to slurpy soup, each bite creates a delightful sound that makes mealtime an adventure of discovery and joy.",
+  "coverImage": "covers/baby-food-106.webp",
+  "chapters": [
+    {
+      "title": "Kai's Yummy Sounds",
+      "pages": [
+        {
+          "text": "Kai is hungry! Time to eat!",
+          "illustration": {
+            "description": "A cheerful toddler boy named Kai with warm brown skin and curly black hair sits in a pastel yellow high chair, wearing a soft blue bib. His dark eyes sparkle with excitement as he claps his small hands together. The kitchen background shows gentle cream walls with simple wooden shelves holding colorful bowls.",
+            "alt": "Happy toddler Kai sitting in high chair ready to eat",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Apple goes CRUNCH! CRUNCH! CRUNCH!",
+          "illustration": {
+            "description": "Kai holds a bright red apple slice in his tiny fingers, his mouth open mid-bite. His expression shows pure delight as apple juice glistens on his chin. Soft pink and orange watercolor washes create a warm background with simple apple shapes floating around him.",
+            "alt": "Kai biting into a crunchy red apple slice",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Banana goes SQUISH! SQUISH! SQUISH!",
+          "illustration": {
+            "description": "Kai squeezes a yellow banana piece between his fingers, creating a delightfully messy scene. His round face shows wonder as the soft fruit mushes slightly. Gentle yellow and cream watercolors surround him with floating banana shapes in the soft-focus background.",
+            "alt": "Kai squishing a soft banana piece",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Crackers go SNAP! SNAP! SNAP!",
+          "illustration": {
+            "description": "Kai breaks a golden-brown cracker in half, tiny crumbs falling onto his bib. His eyes are wide with fascination at the breaking sound. Warm beige and tan watercolor tones fill the background with simple cracker shapes scattered around in soft focus.",
+            "alt": "Kai breaking crackers with a satisfying snap",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Soup goes SLURP! SLURP! SLURP!",
+          "illustration": {
+            "description": "Kai tilts a small pastel green bowl toward his mouth, making slurping sounds. Orange soup drips slightly from the corner of his smile. His caregiver's gentle brown hands steady the bowl from behind. Soft green and orange watercolors create a cozy atmosphere.",
+            "alt": "Kai slurping soup from a small bowl",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Grapes go POP! POP! POP!",
+          "illustration": {
+            "description": "Kai bites into a purple grape, his cheeks puffed out slightly. His dark eyes twinkle with joy as juice from the grape creates the popping sensation. Soft purple and lavender watercolor washes surround him with delicate grape cluster shapes in the background.",
+            "alt": "Kai biting into juicy purple grapes",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Cereal goes MUNCH! MUNCH! MUNCH!",
+          "illustration": {
+            "description": "Kai chews colorful round cereal pieces, his jaw moving rhythmically. A few cheerful cereal pieces rest on his high chair tray. His expression shows concentration and happiness. Soft rainbow watercolors create a playful background with floating cereal shapes.",
+            "alt": "Kai munching on colorful cereal pieces",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Kai's tummy is happy! YUM! YUM! YUM!",
+          "illustration": {
+            "description": "Kai pats his full tummy with both hands, his face beaming with satisfaction. His curly hair is slightly messy from eating, and his bib shows evidence of his delicious meal. Warm golden watercolor tones surround him with heart shapes floating in the soft background.",
+            "alt": "Happy Kai patting his satisfied tummy after eating",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "eating",
+      "sounds",
+      "sensory exploration",
+      "mealtime joy"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does Kai's apple make?",
+        "choices": [
+          "CRUNCH!",
+          "SQUISH!"
+        ],
+        "correctIndex": 0,
+        "explanation": "The apple goes CRUNCH when Kai bites it because apples are crunchy!"
+      },
+      {
+        "id": "q2",
+        "question": "What does Kai eat that goes SLURP?",
+        "choices": [
+          "Crackers",
+          "Soup"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kai slurps his soup from the bowl, making a SLURP sound!"
+      },
+      {
+        "id": "q3",
+        "question": "How does Kai feel at the end?",
+        "choices": [
+          "Sad",
+          "Happy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kai's tummy is happy and full after eating all his yummy food!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Apple goes ___! CRUNCH! CRUNCH!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "CRUNCH",
+            "distractors": [
+              "SQUISH",
+              "SNAP",
+              "POP"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Soup goes ___! SLURP! SLURP!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "SLURP",
+            "distractors": [
+              "MUNCH",
+              "CRUNCH",
+              "SNAP"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

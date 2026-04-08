@@ -1,0 +1,219 @@
+{
+  "id": "toddler-friendship-073",
+  "title": "Isla and the Lost Baby Bird",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "nature"
+  ],
+  "wordCount": 259,
+  "readingLevel": "1.2",
+  "synopsis": "When Isla finds a scared baby bird in her garden, she feels worried but decides to be brave and help. With the assistance of her diverse group of friends, they work together to reunite the little bird with its family, learning about kindness and friendship along the way.",
+  "coverImage": "covers/toddler-friendship-073.webp",
+  "chapters": [
+    {
+      "title": "A Little Bird Needs Help",
+      "pages": [
+        {
+          "text": "Isla was playing in her garden when she heard a tiny sound. \"Chirp, chirp!\" She looked around and saw a small baby bird sitting alone under the big oak tree. The little bird looked scared and sad.",
+          "illustration": {
+            "description": "A young girl with curly black hair and warm brown skin, wearing a bright yellow dress, kneeling in a colorful garden. A tiny brown and orange baby bird sits beneath a large green oak tree. The garden has red flowers and blue butterflies. The scene shows Isla looking concerned but gentle.",
+            "alt": "Isla discovering the baby bird in her garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Isla felt worried. \"Oh no, little bird! Where is your mama?\" she asked softly. The baby bird chirped again, even more sadly. Isla wanted to help, but she didn't know how. She felt a little scared too.",
+          "illustration": {
+            "description": "Close-up view of Isla with a worried expression, her eyebrows furrowed with concern. The baby bird is in the foreground looking up at her with big, sad eyes. Warm golden sunlight filters through green leaves above them. The illustration uses soft yellows and greens to show the gentle mood.",
+            "alt": "Isla looking worried as she talks to the sad baby bird",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Friends Come to Help",
+      "pages": [
+        {
+          "text": "Isla ran to find her friends. \"Marcus! Lily! Come quick!\" she called. Marcus, who had short blonde hair, and Lily, who wore her black hair in two braids, came running. \"What's wrong, Isla?\" asked Lily.",
+          "illustration": {
+            "description": "Three diverse children running together in a bright garden setting. Isla with curly black hair leads the way, followed by Marcus, a boy with short blonde hair wearing a green shirt, and Lily, an Asian girl with black braids wearing a purple dress. They all look eager to help with determined expressions.",
+            "alt": "Isla calling her friends Marcus and Lily for help",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"A baby bird needs help!\" Isla said, pointing to the little bird. Marcus felt brave. \"Don't worry, we can help!\" he said. Lily smiled and nodded. \"Yes! Let's work together!\" The three friends felt happy to help.",
+          "illustration": {
+            "description": "The three children standing in a circle around the baby bird, all with bright, determined smiles. Marcus has his hands on his hips in a brave pose, Lily is clapping her hands together happily, and Isla points toward the bird. The baby bird sits in the center looking up at them hopefully. Bright blue sky and green grass surround them.",
+            "alt": "The three friends deciding to work together to help the baby bird",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Bird Finds Its Family",
+      "pages": [
+        {
+          "text": "The friends looked up in the tree. \"Look!\" said Lily. \"There's a nest up there!\" They could see mama bird and papa bird looking down, chirping loudly. The bird family seemed worried too.",
+          "illustration": {
+            "description": "The three children looking up at a tall oak tree with their hands shading their eyes. High in the green branches, two adult birds with brown and red feathers peer down from a cozy nest made of twigs. The parent birds have concerned expressions. Dappled sunlight creates a magical feeling through the leaves.",
+            "alt": "The children spotting the parent birds in the nest above",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Marcus gently picked up a small branch. The baby bird hopped onto it! Isla held one end while Lily held the other. Together, they lifted the branch up, up, up toward the nest. The baby bird felt brave now!",
+          "illustration": {
+            "description": "The three friends working together, each holding part of a long brown branch. The baby bird sits confidently on the branch as they lift it upward. All three children have focused, happy expressions showing teamwork. The parent birds watch from above with excitement. Warm golden light fills the scene.",
+            "alt": "The friends working together to lift the baby bird back to its nest",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The baby bird hopped safely into the nest! Mama and papa bird chirped happily. \"We did it!\" cheered Isla. Marcus and Lily felt proud. The baby bird peeked over the nest and chirped a happy \"thank you\" to its new friends.",
+          "illustration": {
+            "description": "A joyful scene showing the baby bird safely in the nest with its parents, all three birds with bright, happy expressions. Below, the three children are jumping and cheering with their arms raised in celebration. The tree is full of green leaves, and there are small hearts floating in the air to show the love and happiness everyone feels.",
+            "alt": "Everyone celebrating as the baby bird is safely reunited with its family",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "helping others",
+      "teamwork",
+      "overcoming fear",
+      "kindness to animals"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Isla feel when she first found the baby bird?",
+        "choices": [
+          "Happy and excited",
+          "Worried and scared",
+          "Angry and upset"
+        ],
+        "correctIndex": 1,
+        "explanation": "Isla felt worried about the baby bird and a little scared because she didn't know how to help at first."
+      },
+      {
+        "id": 2,
+        "question": "What did the friends use to help the baby bird?",
+        "choices": [
+          "A ladder",
+          "A branch",
+          "A rope"
+        ],
+        "correctIndex": 1,
+        "explanation": "Marcus found a branch that the baby bird could hop onto, and all three friends helped lift it up to the nest."
+      },
+      {
+        "id": 3,
+        "question": "How did everyone feel at the end of the story?",
+        "choices": [
+          "Sad and tired",
+          "Happy and proud",
+          "Scared and worried"
+        ],
+        "correctIndex": 1,
+        "explanation": "Everyone felt happy and proud because they worked together to help the baby bird get back to its family safely."
+      },
+      {
+        "id": 4,
+        "question": "What did the friends learn about working together?",
+        "choices": [
+          "It's too hard",
+          "It helps solve problems",
+          "It's not important"
+        ],
+        "correctIndex": 1,
+        "explanation": "The friends learned that when they work together as a team, they can solve problems and help others."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words",
+        "text": "Isla found a baby bird that looked _____ and _____. She called her friends to _____ work together.",
+        "blanks": [
+          {
+            "wordIndex": 7,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "big",
+              "loud"
+            ]
+          },
+          {
+            "wordIndex": 9,
+            "correctWord": "sad",
+            "distractors": [
+              "angry",
+              "silly",
+              "fast"
+            ]
+          },
+          {
+            "wordIndex": 16,
+            "correctWord": "help",
+            "distractors": [
+              "play",
+              "run",
+              "sing"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Complete the Story",
+        "text": "The friends felt _____ when they helped the baby bird get back to its _____. Everyone was _____ at the end!",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "proud",
+            "distractors": [
+              "tired",
+              "hungry",
+              "cold"
+            ]
+          },
+          {
+            "wordIndex": 13,
+            "correctWord": "family",
+            "distractors": [
+              "house",
+              "tree",
+              "ground"
+            ]
+          },
+          {
+            "wordIndex": 16,
+            "correctWord": "happy",
+            "distractors": [
+              "sleepy",
+              "worried",
+              "quiet"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

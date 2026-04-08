@@ -1,0 +1,206 @@
+{
+  "id": "toddler-humor-157",
+  "title": "Luna and the Giggling Cloud",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "humor",
+    "fantasy"
+  ],
+  "wordCount": 262,
+  "readingLevel": "1.2",
+  "synopsis": "Luna discovers a magical giggling cloud in her backyard that won't stop laughing and making silly noises. When the cloud becomes sad and gray, Luna learns how to cheer it up with her own giggles and discovers the joy of sharing laughter with a new friend.",
+  "coverImage": "covers/toddler-humor-157.webp",
+  "chapters": [
+    {
+      "title": "The Giggling Cloud",
+      "pages": [
+        {
+          "text": "Luna was playing in her backyard when she heard a funny sound. \"Hee hee hoo!\" came from above. She looked up and saw a fluffy white cloud giggling! Luna felt surprised and happy. \"Hello, cloud!\" she called out with a big smile.",
+          "illustration": {
+            "description": "Luna, a young Latina girl with curly dark hair in two small buns, wearing a bright yellow dress, stands in a sunny backyard looking up with wide, amazed eyes and an open mouth. Above her floats a puffy white cloud with a cheerful face, laughing with its mouth open wide. The background shows a green yard with colorful flowers and a blue sky.",
+            "alt": "Luna looking up at a giggling cloud in her backyard",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The cloud floated down closer to Luna. \"I'm a magic cloud,\" it said between giggles. \"I make funny sounds all day long!\" The cloud made silly noises - \"Boing! Squeak! Toot!\" Luna laughed so hard her tummy hurt. She felt so happy and excited.",
+          "illustration": {
+            "description": "The white cloud has descended closer to Luna, showing a round friendly face with rosy cheeks and sparkly eyes. Sound effect bubbles float around showing \"BOING!\" \"SQUEAK!\" \"TOOT!\" in colorful letters. Luna is doubled over with laughter, holding her stomach, with tears of joy in her eyes. The scene is bright and cheerful with rainbow-colored sound bubbles.",
+            "alt": "Luna laughing as the magic cloud makes silly sounds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "But then something happened. The cloud stopped giggling and turned gray. \"Oh no,\" said the cloud sadly. \"I forgot how to be funny. Now I'm just scared and sad.\" Luna saw the cloud's worried face and felt sad too. She wanted to help her new friend feel better.",
+          "illustration": {
+            "description": "The once-white cloud has turned a sad gray color with drooping features, looking down with worried eyes and a frown. Small raindrops begin to fall from it. Luna stands below with a concerned expression, reaching up toward the cloud with both hands. The bright sunny background has become slightly dimmer to match the mood.",
+            "alt": "The sad gray cloud looking worried while Luna reaches up to help",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Luna's Brave Idea",
+      "pages": [
+        {
+          "text": "Luna felt brave and had a wonderful idea. \"I know how to help!\" she said. She started to giggle - first quietly, then louder. \"Hee hee! Ha ha!\" Luna giggled and laughed, making the silliest faces she could think of.",
+          "illustration": {
+            "description": "Luna stands confidently with her hands on her hips, showing a determined and brave expression. She has a big smile and is making a funny face with crossed eyes and puffed cheeks. The gray cloud above looks down hopefully, starting to show a tiny smile. Bright primary colors return to the scene as Luna's courage shines through.",
+            "alt": "Brave Luna making silly faces to cheer up the cloud",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The magic worked! The cloud started to giggle again. \"Hee hee!\" it laughed, turning white and fluffy once more. Luna felt so proud and happy. The cloud made more funny sounds - \"Honk! Whistle! Pop!\" They both laughed together, the best of friends.",
+          "illustration": {
+            "description": "The cloud is bright white again with rosy cheeks and a huge smile, floating happily in the blue sky. Luna jumps up with joy, both arms raised high, with the biggest smile on her face. New colorful sound bubbles show \"HONK!\" \"WHISTLE!\" \"POP!\" Both characters radiate happiness with sparkles and hearts floating around them in the cheerful scene.",
+            "alt": "Luna and the happy white cloud laughing together as best friends",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Every day after that, Luna and the giggling cloud played together. They shared jokes and silly sounds. Luna learned that when friends feel sad or scared, sharing giggles and being brave can make everything better. She felt happy knowing she had such a special friend.",
+          "illustration": {
+            "description": "Luna sits on a picnic blanket in her backyard with the smiling white cloud floating nearby. Around them are other diverse children - a Black boy with short curly hair and an Asian girl with long braids - all looking up and laughing at the cloud. The scene shows a perfect sunny day with flowers, trees, and a sense of community and friendship. Everyone looks joyful and included.",
+            "alt": "Luna, the cloud, and other children all playing together happily",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "helping others",
+      "bravery",
+      "sharing joy"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Luna feel when she first heard the cloud giggling?",
+        "choices": [
+          "Scared and worried",
+          "Happy and surprised",
+          "Angry and upset"
+        ],
+        "correctIndex": 1,
+        "explanation": "Luna felt happy and surprised when she heard the funny giggling sound from the cloud!"
+      },
+      {
+        "id": "q2",
+        "question": "What happened to the cloud that made Luna feel sad?",
+        "choices": [
+          "It flew away",
+          "It turned gray and felt sad",
+          "It got too loud"
+        ],
+        "correctIndex": 1,
+        "explanation": "The cloud turned gray and felt sad because it forgot how to be funny, which made Luna sad too."
+      },
+      {
+        "id": "q3",
+        "question": "How did Luna help the cloud feel better?",
+        "choices": [
+          "She sang a song",
+          "She gave it food",
+          "She giggled and made silly faces"
+        ],
+        "correctIndex": 2,
+        "explanation": "Luna was brave and helped by giggling and making silly faces to cheer up the sad cloud!"
+      },
+      {
+        "id": "q4",
+        "question": "How did Luna feel at the end of the story?",
+        "choices": [
+          "Scared",
+          "Happy and proud",
+          "Sleepy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Luna felt happy and proud because she helped her friend and learned about sharing joy with others!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words!",
+        "text": "Luna heard a funny sound from the [0]. She felt [1] and excited when it started to [2]!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "cloud",
+            "distractors": [
+              "tree",
+              "bird",
+              "house"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "happy",
+            "distractors": [
+              "sad",
+              "angry",
+              "tired"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "giggle",
+            "distractors": [
+              "cry",
+              "sleep",
+              "run"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Complete the Story!",
+        "text": "When the cloud turned [0] and felt sad, Luna was [1]. She made silly [2] to help her friend feel better!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "gray",
+            "distractors": [
+              "red",
+              "green",
+              "purple"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "brave",
+            "distractors": [
+              "scared",
+              "sleepy",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "faces",
+            "distractors": [
+              "noises",
+              "dances",
+              "songs"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

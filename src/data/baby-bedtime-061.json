@@ -1,0 +1,163 @@
+{
+  "id": "baby-bedtime-061",
+  "title": "Aaliya Counts Sleepy Stars",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "bedtime",
+    "counting"
+  ],
+  "wordCount": 42,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Aaliya counts twinkling stars from her cozy bedroom window as she gets ready for sleep, discovering magical sleepy sounds with each star until she drifts off to dreamland.",
+  "coverImage": "covers/baby-bedtime-061.webp",
+  "chapters": [
+    {
+      "title": "Counting Stars to Sleep",
+      "pages": [
+        {
+          "text": "One star twinkles. Twinkle, twinkle!",
+          "illustration": {
+            "description": "Baby Aaliya with soft brown skin and curly black hair sits by a large window, pointing at one bright golden star in the deep purple night sky. She wears cozy pink pajamas with tiny star patterns. The room glows with warm yellow light from a small bedside lamp.",
+            "alt": "Aaliya pointing at one twinkling star through her bedroom window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Two stars shimmer. Shimmer, shine!",
+          "illustration": {
+            "description": "Aaliya claps her small hands together with delight as two silver stars dance in the window. Her dark eyes sparkle with wonder. The room has soft peach walls and a white crib with a colorful quilt featuring diverse children's faces.",
+            "alt": "Two shimmering stars visible as Aaliya claps happily",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Three stars whisper. Whoosh, whoosh!",
+          "illustration": {
+            "description": "Three pale blue stars seem to sway gently in the breeze as Aaliya listens carefully, her head tilted to one side. A mobile with soft fabric stars in pastels hangs above, casting gentle shadows. Her grandmother's colorful headwrap is visible on a nearby chair.",
+            "alt": "Three stars whispering as Aaliya listens intently",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Four stars hum. Mmm, mmm!",
+          "illustration": {
+            "description": "Four warm orange stars glow softly as Aaliya hums along, her mouth forming a little 'o' shape. She sits cross-legged on a fluffy cream rug. Family photos on the wall show her parents - her father with dark skin and her mother wearing a bright hijab.",
+            "alt": "Four humming stars as Aaliya hums along",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Five stars yawn. Ahhhh!",
+          "illustration": {
+            "description": "Five drowsy pink stars seem to yawn in the sky as Aaliya opens her mouth in a big yawn, stretching her tiny arms up high. Her eyelids are getting heavy. A diverse group of stuffed animals - a brown bear, Asian doll, and Latin American rag doll sit nearby.",
+            "alt": "Five yawning stars as sleepy Aaliya yawns too",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Stars sing lullabies. La la la!",
+          "illustration": {
+            "description": "All five stars now glow together in harmony as Aaliya's mother, wearing a beautiful purple hijab, enters carrying a warm bottle. The mother has kind brown eyes and olive skin. Musical notes seem to float in the air around the glowing stars.",
+            "alt": "All stars singing as Aaliya's mother brings her bottle",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Aaliya closes her eyes. Shh, shh!",
+          "illustration": {
+            "description": "Aaliya snuggles into her mother's arms, eyes peacefully closed. Her mother rocks her gently in a wooden rocking chair. The stars outside have dimmed to a soft silver glow. The room is bathed in gentle moonlight through sheer curtains.",
+            "alt": "Aaliya closing her eyes as mother rocks her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sweet dreams, little star. Zzz, zzz!",
+          "illustration": {
+            "description": "Aaliya sleeps soundly in her white crib, covered by a soft lavender blanket. The five stars twinkle gently outside like nightlights. A small crescent moon smiles down. The room is peaceful and quiet with toys put away neatly on shelves.",
+            "alt": "Aaliya sleeping peacefully as stars watch over her",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "counting",
+      "bedtime routine",
+      "family love",
+      "peaceful sleep"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How many stars did Aaliya count?",
+        "choices": [
+          "Three stars",
+          "Five stars"
+        ],
+        "correctIndex": 1,
+        "explanation": "Aaliya counted five stars: one that twinkled, two that shimmered, three that whispered, four that hummed, and five that yawned!"
+      },
+      {
+        "id": 2,
+        "question": "What sound did the stars make at the end?",
+        "choices": [
+          "La la la",
+          "Whoosh whoosh"
+        ],
+        "correctIndex": 0,
+        "explanation": "The stars sang lullabies with 'La la la' sounds to help Aaliya fall asleep!"
+      },
+      {
+        "id": 3,
+        "question": "Who brought Aaliya her bottle?",
+        "choices": [
+          "Her grandmother",
+          "Her mother"
+        ],
+        "correctIndex": 1,
+        "explanation": "Aaliya's mother, wearing a beautiful purple hijab, brought her the warm bottle at bedtime."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "One star _____. Twinkle, twinkle!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "twinkles",
+            "distractors": [
+              "sleeps",
+              "jumps"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "_____ stars whisper. Whoosh, whoosh!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Three",
+            "distractors": [
+              "One",
+              "Six"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

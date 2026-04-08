@@ -1,0 +1,236 @@
+{
+  "id": "toddler-school-089",
+  "title": "Noor's First Day Friends",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "school",
+    "animals"
+  ],
+  "wordCount": 339,
+  "readingLevel": "1.2",
+  "synopsis": "Noor feels scared on her first day at a new preschool, but with help from her teacher and some friendly classroom animals, she discovers that making new friends can turn scary feelings into happy ones.",
+  "coverImage": "covers/toddler-school-089.webp",
+  "chapters": [
+    {
+      "title": "Scared at School",
+      "pages": [
+        {
+          "text": "Noor held Mama's hand tight. Today was her first day at Rainbow Preschool. The big red door looked scary. \"I don't want to go,\" Noor whispered. She felt butterflies dancing in her tummy.",
+          "illustration": {
+            "description": "A young girl with dark curly hair and brown skin wearing a bright yellow backpack stands hesitantly in front of a large red school door. Her mother, wearing a blue hijab and gentle smile, holds her hand supportively. The school building is cheerful with rainbow decorations around the entrance. The morning sky is soft blue with puffy white clouds.",
+            "alt": "Noor and her mother standing in front of the preschool entrance",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "\"It's okay to feel scared,\" Mama said softly. \"New places can feel big and different.\" Just then, a kind teacher with bouncy braids opened the door. \"Hello! I'm Ms. Chen. Are you ready to meet some special friends?\"",
+          "illustration": {
+            "description": "Ms. Chen, an Asian woman with colorful braids and a warm smile, stands in the doorway wearing a green apron covered in animal stickers. Behind her, glimpses of a bright classroom with rainbow rugs and animal posters can be seen. Noor looks curious but still holds her mother's hand tightly.",
+            "alt": "Ms. Chen greeting Noor and her mother at the classroom door",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Noor peeked into the classroom. She saw toys and books everywhere. But where were the other children? The room felt too quiet. Noor's bottom lip started to wobble. \"I want to go home,\" she said in a small voice.",
+          "illustration": {
+            "description": "Noor stands at the edge of a colorful classroom, looking small and uncertain. The classroom has bright yellow walls, red reading corners, blue play areas, and green plant spaces. Toys are neatly arranged but the room appears empty of other children. Noor's expression shows worry with slightly teary eyes.",
+            "alt": "Noor looking into the empty classroom feeling worried",
+            "layout": "full"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Meeting New Friends",
+      "pages": [
+        {
+          "text": "\"The other children will come soon,\" Ms. Chen said gently. \"But first, let me show you our classroom pets!\" She pointed to a cozy corner. There was Benny the guinea pig, soft and brown. He looked just as shy as Noor felt.",
+          "illustration": {
+            "description": "Ms. Chen kneels beside a pet corner with Noor, pointing to a cage containing a fluffy brown guinea pig. The pet area has soft green carpet, yellow walls with animal pictures, and other small pet habitats visible. Benny the guinea pig has gentle dark eyes and sits quietly in his colorful habitat with blue bedding and orange food bowls.",
+            "alt": "Ms. Chen showing Noor the guinea pig Benny in the classroom pet corner",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Next to Benny lived Luna the rabbit. She had white fur with gray spots and the longest, softest ears. \"Luna was scared when she first came here too,\" Ms. Chen whispered. \"But now she feels safe and happy.\"",
+          "illustration": {
+            "description": "A beautiful white rabbit with gray spots sits in a spacious cage with purple bedding and green lettuce. Luna has expressive dark eyes and long floppy ears. The cage has colorful toys and a small blue water bottle. Noor leans closer, her expression showing growing interest and less fear.",
+            "alt": "Noor looking at Luna the rabbit who appears calm and friendly",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "The last friend was Charlie, a bright green parrot. \"Hello! Hello!\" Charlie chirped happily. Noor giggled for the first time all morning. Charlie made her feel a little bit brave. Maybe this place wasn't so scary after all.",
+          "illustration": {
+            "description": "A vibrant green parrot with bright red tail feathers perches on a wooden swing in a large cage. Charlie has intelligent dark eyes and his beak is open mid-chirp. Noor is smiling for the first time, her hands pressed against the cage bars. The background shows more of the cheerful classroom with rainbow decorations.",
+            "alt": "Noor smiling as Charlie the parrot greets her enthusiastically",
+            "layout": "full"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Happy and Brave",
+      "pages": [
+        {
+          "text": "Soon, other children arrived. There was Jamal with his superhero lunch box, Lily carrying a stuffed elephant, and Sam wearing sparkly shoes. They all looked friendly, just like Noor hoped they would be.",
+          "illustration": {
+            "description": "Three diverse children enter the classroom: Jamal, a Black boy with a red superhero lunch box; Lily, a girl with blonde pigtails holding a gray stuffed elephant; and Sam, wearing glittery purple shoes and carrying a yellow backpack. All three have welcoming smiles and bright, colorful clothing. The classroom background shows the morning sun streaming through windows.",
+            "alt": "Three new children entering the classroom with their belongings",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "\"Do you want to help feed the animals?\" asked Lily kindly. Noor nodded, feeling excited now instead of scared. Together, they gave Benny fresh carrots and Luna some green lettuce. The animals made happy munching sounds.",
+          "illustration": {
+            "description": "Noor and Lily work together at the pet corner, both smiling as they offer food to the animals. Benny munches on orange carrots while Luna nibbles green lettuce. Both girls have gentle, caring expressions. The scene is warm and collaborative, with soft morning light creating a cozy atmosphere in the pet area.",
+            "alt": "Noor and Lily feeding the classroom pets together",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "When Mama came to pick her up, Noor was reading a book about animals with her new friends. \"I was brave today,\" she told Mama proudly. \"And tomorrow, I can't wait to see Benny, Luna, and Charlie again!\" School felt happy now.",
+          "illustration": {
+            "description": "Noor sits in a circle with her new friends, all looking at a colorful animal picture book. Her mother stands in the doorway smiling proudly. The children are relaxed and happy, with the classroom pets visible in the background. The late afternoon sun creates a golden, warm atmosphere. Noor's expression shows confidence and joy.",
+            "alt": "Noor reading happily with friends as her mother arrives for pickup",
+            "layout": "full"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "first day of school",
+      "overcoming fear",
+      "making friends",
+      "emotional growth",
+      "kindness"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Noor feel at the beginning of the story?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Noor felt scared on her first day because the school was new and different."
+      },
+      {
+        "id": 2,
+        "question": "Which animal made Noor giggle first?",
+        "choices": [
+          "Benny the guinea pig",
+          "Luna the rabbit",
+          "Charlie the parrot"
+        ],
+        "correctIndex": 2,
+        "explanation": "Charlie the parrot said 'Hello! Hello!' and made Noor giggle for the first time."
+      },
+      {
+        "id": 3,
+        "question": "What did Noor and Lily do together?",
+        "choices": [
+          "Fed the animals",
+          "Drew pictures",
+          "Played outside"
+        ],
+        "correctIndex": 0,
+        "explanation": "Noor and Lily worked together to feed Benny carrots and Luna lettuce."
+      },
+      {
+        "id": 4,
+        "question": "How did Noor feel at the end of the story?",
+        "choices": [
+          "Sad",
+          "Scared",
+          "Happy and brave"
+        ],
+        "correctIndex": 2,
+        "explanation": "By the end, Noor felt happy and brave and was excited to come back to school."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words",
+        "text": "Noor felt ___ on her first day at school. But when she met the classroom ___, she started to feel ___.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "sleepy",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 11,
+            "correctWord": "animals",
+            "distractors": [
+              "toys",
+              "books",
+              "chairs"
+            ]
+          },
+          {
+            "wordIndex": 17,
+            "correctWord": "brave",
+            "distractors": [
+              "tired",
+              "sad",
+              "cold"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Complete the Story",
+        "text": "Charlie the ___ said 'Hello!' Noor and Lily ___ the pets together. At the end, Noor felt ___ and excited.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "parrot",
+            "distractors": [
+              "rabbit",
+              "dog",
+              "cat"
+            ]
+          },
+          {
+            "wordIndex": 9,
+            "correctWord": "fed",
+            "distractors": [
+              "petted",
+              "washed",
+              "carried"
+            ]
+          },
+          {
+            "wordIndex": 17,
+            "correctWord": "happy",
+            "distractors": [
+              "scared",
+              "angry",
+              "sleepy"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

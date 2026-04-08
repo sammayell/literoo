@@ -1,0 +1,165 @@
+{
+  "id": "baby-bedtime-071",
+  "title": "Keiko Counts Sweet Dreams",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "bedtime",
+    "counting"
+  ],
+  "wordCount": 45,
+  "readingLevel": "0.5",
+  "synopsis": "Little Keiko counts her way to dreamland, discovering sleepy animals from one to five. With gentle sounds and repetitive patterns, this soothing bedtime story helps babies wind down while learning numbers.",
+  "coverImage": "covers/baby-bedtime-071.webp",
+  "chapters": [
+    {
+      "title": "Counting to Sleep",
+      "pages": [
+        {
+          "text": "One sleepy bunny hops. Hop, hop!",
+          "illustration": {
+            "description": "A soft white bunny with droopy eyes and pink inner ears sits on pastel green grass under a lavender twilight sky. Keiko, a young Japanese girl with short black hair in pajamas decorated with small stars, watches from her bedroom window. Warm yellow light glows from the window creating a cozy contrast against the cool evening colors.",
+            "alt": "Keiko watching one sleepy bunny from her window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Two owls say whooo. Whooo, whooo!",
+          "illustration": {
+            "description": "Two round brown owls with large golden eyes perch on a curved tree branch. Soft moonlight filters through gentle clouds in the pale blue sky. Keiko appears in the corner, pointing up at the owls with wonder, her dark eyes wide with curiosity. The scene has a dreamy watercolor quality with muted earth tones.",
+            "alt": "Two owls hooting in a tree with Keiko pointing up",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Three bears snore. Snore, snore, snore!",
+          "illustration": {
+            "description": "Three teddy bears of different sizes curl up together on a soft cloud-like surface, with tiny 'Z' symbols floating above their heads. The largest bear is golden brown, the middle bear is light tan, and the smallest is cream colored. Keiko sits nearby in her star-patterned pajamas, making a gentle shushing gesture with her finger to her lips.",
+            "alt": "Three snoring bears with Keiko making a quiet gesture",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Four cats purr. Purr, purr, purr, purr!",
+          "illustration": {
+            "description": "Four fluffy kittens in various soft colors - orange tabby, gray, white, and calico - curl up in a wicker basket lined with a pale yellow blanket. Musical note symbols drift upward to represent their purring. Keiko kneels beside the basket, gently stroking one kitten with a peaceful smile on her round face.",
+            "alt": "Four purring kittens in a basket with Keiko petting them",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Five sheep jump. Jump, jump, jump, jump, jump!",
+          "illustration": {
+            "description": "Five fluffy white sheep leap over a low wooden fence in a graceful arc against a soft pink and orange sunset sky. Each sheep has a content expression and rosy cheeks. Keiko sits on the grass counting on her fingers, her black hair catching the warm evening light. The scene has a magical, dreamlike quality with wispy clouds.",
+            "alt": "Five sheep jumping over a fence as Keiko counts",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Keiko yawns. Yaaaawn!",
+          "illustration": {
+            "description": "Keiko sits on her soft bed with a patchwork quilt in gentle pastels. She stretches her arms above her head in a big yawn, her eyes squinting shut and mouth open wide. A diverse group of stuffed animals - including a Black doll, a Hispanic boy doll, and various plush creatures - surround her on the bed. Warm lamplight creates a golden glow.",
+            "alt": "Keiko yawning on her bed surrounded by diverse stuffed animals",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Time for bed. Shhhh!",
+          "illustration": {
+            "description": "Keiko lies tucked under her cozy quilt with only her peaceful face visible on a soft pillow. A loving parent with warm brown skin and gentle features leans over to give her a goodnight kiss. The room is dimly lit with a soft nightlight casting star patterns on the pale walls. Everything feels safe and serene.",
+            "alt": "Keiko being tucked into bed by her loving parent",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sweet dreams, Keiko. Night night!",
+          "illustration": {
+            "description": "Keiko sleeps peacefully with a gentle smile, her black hair spread on the pillow. Above her head, all the counted animals from the story - the bunny, owls, bears, cats, and sheep - float in a dreamy cloud, all sleeping contentedly. The room is bathed in soft moonlight streaming through gauze curtains, creating a magical, tranquil atmosphere.",
+            "alt": "Sleeping Keiko with dream animals floating peacefully above",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "counting",
+      "bedtime routine",
+      "animal sounds",
+      "peaceful sleep"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How many bunnies hop in the story?",
+        "choices": [
+          "One",
+          "Two"
+        ],
+        "correctIndex": 0,
+        "explanation": "One sleepy bunny hops at the beginning of Keiko's counting adventure."
+      },
+      {
+        "id": 2,
+        "question": "What sound do the owls make?",
+        "choices": [
+          "Whooo",
+          "Purr"
+        ],
+        "correctIndex": 0,
+        "explanation": "The two owls say 'whooo, whooo!' in the story."
+      },
+      {
+        "id": 3,
+        "question": "What does Keiko do at the end?",
+        "choices": [
+          "Dance",
+          "Sleep"
+        ],
+        "correctIndex": 1,
+        "explanation": "Keiko goes to sleep and has sweet dreams at the end of the story."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Three bears _____. Snore, snore, snore!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "snore",
+            "distractors": [
+              "hop",
+              "purr",
+              "jump"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "_____ cats purr. Purr, purr, purr, purr!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Four",
+            "distractors": [
+              "Two",
+              "Three",
+              "Five"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

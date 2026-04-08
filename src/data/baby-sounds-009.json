@@ -1,0 +1,173 @@
+{
+  "id": "baby-sounds-009",
+  "title": "Yuki's Animal Sound Walk",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "sounds",
+    "animals"
+  ],
+  "wordCount": 73,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Yuki takes a delightful walk through her neighborhood and discovers different animals making their special sounds. From meowing cats to chirping birds, each page introduces a new animal friend with fun sound effects that babies can repeat and predict.",
+  "coverImage": "covers/baby-sounds-009.webp",
+  "chapters": [
+    {
+      "title": "Yuki's Animal Sound Walk",
+      "pages": [
+        {
+          "text": "Yuki goes for a walk. What sounds will she hear?",
+          "illustration": {
+            "description": "A cheerful Japanese-American toddler girl named Yuki with shoulder-length black hair in small pigtails, wearing a bright yellow jacket and red shoes, walking on a sunny sidewalk. Her parents, a Japanese woman and Black man, walk beside her holding hands. Soft pastel neighborhood background with blooming cherry trees and white puffy clouds.",
+            "alt": "Yuki walking with her diverse parents on a sunny day",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Cat says MEOW MEOW! Soft and sweet.",
+          "illustration": {
+            "description": "A fluffy orange tabby cat sitting on a white picket fence, mouth open mid-meow. Yuki points excitedly at the cat with wide, sparkling brown eyes and a big smile. The cat has large friendly eyes and rounded features. Gentle morning light with lavender and peach sky colors.",
+            "alt": "Orange cat meowing on fence while Yuki points happily",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Dog says WOOF WOOF! Big and loud!",
+          "illustration": {
+            "description": "A golden retriever with a red collar barking playfully behind a low garden gate. Yuki claps her hands in delight, her pigtails bouncing. The dog's tail is wagging with motion lines. Background shows a cozy house with flower boxes and an elderly Latina woman waving from the window.",
+            "alt": "Golden dog barking while Yuki claps with joy",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Bird says TWEET TWEET! High up in the tree.",
+          "illustration": {
+            "description": "A bright blue bird with a yellow chest perched on a green branch above Yuki's head. Musical note symbols float near the bird. Yuki looks up with wonder, one hand shading her eyes. Dappled sunlight filters through soft green leaves creating gentle shadows.",
+            "alt": "Blue bird tweeting in tree while Yuki looks up in wonder",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Duck says QUACK QUACK! By the pond.",
+          "illustration": {
+            "description": "A white duck with an orange bill swimming in a small pond with gentle ripples. Yuki kneels at the water's edge, reaching toward the duck with curiosity. Lily pads float nearby and cattails grow along the shore. A young boy with curly hair feeds ducks in the background.",
+            "alt": "White duck quacking in pond while Yuki kneels nearby",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Cow says MOO MOO! In the field so green.",
+          "illustration": {
+            "description": "A friendly black and white spotted cow behind a wooden farm fence, head tilted toward Yuki. The cow has large gentle eyes and pink nose. Yuki reaches through the fence slats. Rolling green hills and a red barn create a peaceful farm setting with white daisies scattered in the grass.",
+            "alt": "Spotted cow mooing while Yuki reaches through farm fence",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Bee says BUZZ BUZZ! Flying flower to flower.",
+          "illustration": {
+            "description": "A chubby yellow and black striped bee hovering over bright pink and purple flowers. Dotted flight path lines show the bee's movement. Yuki watches with amazement, finger to her lip in concentration. Butterfly joins the scene among sunflowers and cosmos blooms.",
+            "alt": "Bee buzzing among colorful flowers while Yuki watches",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Frog says RIBBIT RIBBIT! Green and hoppy.",
+          "illustration": {
+            "description": "A bright green frog sitting on a smooth gray rock near water, throat puffed out mid-croak. Small splash circles show where it jumped. Yuki giggles and mimics the frog's posture, crouching down. Dragonflies and water lilies add magical touches to the pond scene.",
+            "alt": "Green frog ribbiting on rock while Yuki mimics its pose",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "What a noisy, wonderful walk! Yuki heard them all.",
+          "illustration": {
+            "description": "Yuki skipping happily toward home with her arms outstretched, surrounded by small illustrations of all the animals she met floating like memories around her - cat, dog, bird, duck, cow, bee, and frog. Golden sunset colors fill the sky as her diverse family group walks together on the path home.",
+            "alt": "Happy Yuki surrounded by memory bubbles of all the animals",
+            "layout": "full"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "animal sounds",
+      "exploration",
+      "nature",
+      "family"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does the cat make?",
+        "choices": [
+          "MEOW MEOW",
+          "WOOF WOOF"
+        ],
+        "correctIndex": 0,
+        "explanation": "The cat says MEOW MEOW, soft and sweet!"
+      },
+      {
+        "id": "q2",
+        "question": "Where does Yuki see the duck?",
+        "choices": [
+          "In the tree",
+          "By the pond"
+        ],
+        "correctIndex": 1,
+        "explanation": "The duck says QUACK QUACK by the pond."
+      },
+      {
+        "id": "q3",
+        "question": "What color is the frog?",
+        "choices": [
+          "Green",
+          "Blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "The frog is green and hoppy!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Cat says [0] [0]! Soft and sweet.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "MEOW",
+            "distractors": [
+              "WOOF",
+              "TWEET",
+              "MOO"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Duck says QUACK QUACK! By the [0].",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "pond",
+            "distractors": [
+              "tree",
+              "field",
+              "house"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

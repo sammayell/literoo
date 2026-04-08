@@ -1,0 +1,165 @@
+{
+  "id": "baby-sounds-099",
+  "title": "Nyla Hears the Animals",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "sounds",
+    "animals"
+  ],
+  "wordCount": 48,
+  "readingLevel": "0.5",
+  "synopsis": "Little Nyla takes a delightful journey discovering different animal sounds around her neighborhood, from dogs that go 'woof' to birds that sing 'tweet.' Each page introduces a new animal friend and their special sound, creating a repetitive pattern that helps babies learn and anticipate what comes next.",
+  "coverImage": "covers/baby-sounds-099.webp",
+  "chapters": [
+    {
+      "title": "Animal Sounds",
+      "pages": [
+        {
+          "text": "Nyla hears sounds! Listen with Nyla.",
+          "illustration": {
+            "description": "A happy toddler girl with dark curly hair and warm brown skin sits in a sunny garden, cupping her hand to her ear in a listening pose. She wears a soft yellow dress with small flower patterns. The background shows gentle green grass and colorful flowers in soft watercolor style. Her expression is curious and joyful with big bright eyes.",
+            "alt": "Nyla listening for sounds in a garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Dog says WOOF! Woof, woof, woof!",
+          "illustration": {
+            "description": "A friendly golden retriever with a wagging tail stands next to Nyla on a sidewalk. The dog has a big smile and kind eyes. Nyla claps her hands with delight, her curly hair bouncing. In the background, a diverse family walks by - a tall man with a beard pushing a stroller. Warm peach and golden tones dominate the scene.",
+            "alt": "Nyla hearing a dog bark",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Bird says TWEET! Tweet, tweet, tweet!",
+          "illustration": {
+            "description": "A small bright blue bird perches on a low tree branch near Nyla, who points up excitedly. Her mouth forms a small 'o' of wonder. The bird has musical notes floating around it in soft pastels. Behind them, an elderly woman with silver hair and dark skin tends to flowers in her yard, smiling warmly at the scene.",
+            "alt": "Nyla hearing a bird chirp",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Cat says MEOW! Meow, meow, meow!",
+          "illustration": {
+            "description": "A fluffy orange tabby cat sits on a porch step, looking directly at Nyla with bright green eyes. Nyla kneels down to the cat's level, her hands reached out gently. A young boy with light brown skin and short black hair watches from a window behind them, also smiling. Soft orange and cream colors fill the cozy scene.",
+            "alt": "Nyla hearing a cat meow",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Cow says MOO! Moo, moo, moo!",
+          "illustration": {
+            "description": "A gentle black and white spotted cow stands behind a wooden fence, with Nyla reaching up toward it safely from the other side. The cow has long eyelashes and a sweet expression. A farm setting with rolling green hills stretches behind them. A farmer in overalls and a wide-brimmed hat waves from the distance. Earth tones and soft greens dominate.",
+            "alt": "Nyla hearing a cow moo",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Duck says QUACK! Quack, quack, quack!",
+          "illustration": {
+            "description": "A yellow duckling paddles in a small pond while Nyla sits on the grassy bank, her legs crossed. Water ripples around the duck in gentle circles. Other children play in the background - a girl with red braids and freckles, and a boy with glasses. The scene is filled with soft blues and yellows, creating a peaceful pond atmosphere.",
+            "alt": "Nyla hearing a duck quack",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sheep says BAA! Baa, baa, baa!",
+          "illustration": {
+            "description": "A fluffy white sheep with a pink nose stands in a green meadow dotted with small white flowers. Nyla sits cross-legged in the grass, laughing with pure joy, her arms stretched wide. A shepherd with a walking stick and kind weathered face watches over the flock in the distance. Soft whites, greens, and pale pinks create a dreamy pastoral scene.",
+            "alt": "Nyla hearing a sheep bleat",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "So many sounds! Nyla loves animals!",
+          "illustration": {
+            "description": "Nyla sits in the center surrounded by all the animals from the story in a magical circle - the dog, bird, cat, cow, duck, and sheep. Each animal is making their sound with small speech bubbles. Nyla has her arms raised in celebration, beaming with happiness. Rainbow-colored sound waves float around them all. The background fades to soft clouds, creating a dreamy, joyful finale.",
+            "alt": "Nyla surrounded by all the animals",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "animal sounds",
+      "learning",
+      "exploration",
+      "joy"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does the dog make?",
+        "choices": [
+          "WOOF",
+          "MOO"
+        ],
+        "correctIndex": 0,
+        "explanation": "The dog says WOOF! Dogs bark by saying woof, woof, woof!"
+      },
+      {
+        "id": "q2",
+        "question": "What animal says QUACK?",
+        "choices": [
+          "Cat",
+          "Duck"
+        ],
+        "correctIndex": 1,
+        "explanation": "The duck says QUACK! Ducks make quacking sounds."
+      },
+      {
+        "id": "q3",
+        "question": "How does Nyla feel about animals?",
+        "choices": [
+          "Happy",
+          "Scared"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nyla loves animals! She is happy to hear all their different sounds."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Dog says ___! Woof, woof, woof!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "WOOF",
+            "distractors": [
+              "MEOW",
+              "MOO",
+              "TWEET"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "___ says MEOW! Meow, meow, meow!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Cat",
+            "distractors": [
+              "Dog",
+              "Bird",
+              "Cow"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

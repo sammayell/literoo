@@ -1,0 +1,193 @@
+{
+  "id": "toddler-family-044",
+  "title": "Lars and the Missing Sock",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "family",
+    "humor"
+  ],
+  "wordCount": 270,
+  "readingLevel": "1.2",
+  "synopsis": "Lars loses one of his favorite striped socks and feels very sad. With help from his patient mama and playful baby sister Zara, he searches all around the house, learning that sometimes the best solutions come from unexpected places and that asking for help makes everything better.",
+  "coverImage": "covers/toddler-family-044.webp",
+  "chapters": [
+    {
+      "title": "The Missing Sock Adventure",
+      "pages": [
+        {
+          "text": "Lars loved his special striped socks. They were red and blue and made him feel happy when he wore them. But this morning, Lars could only find ONE sock! He looked in his drawer. He looked under his bed. Where was his other sock? Lars felt very sad and worried.",
+          "illustration": {
+            "description": "A young Scandinavian boy with blonde hair and bright blue eyes sits on his bedroom floor looking sad and confused. He holds one red and blue striped sock in his small hands. His bedroom has wooden furniture, scattered toys, and an unmade bed with colorful quilts. Sunlight streams through a window creating warm yellow patches on the hardwood floor.",
+            "alt": "Lars sitting sadly on his bedroom floor holding one striped sock",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Mama!\" called Lars. \"I can't find my sock!\" Mama came into his room. She had long brown hair and kind eyes. \"Don't worry, Lars,\" she said gently. \"Let's look together. Sometimes two people can find things better than one.\" This made Lars feel a little bit brave. Maybe they could solve this problem!",
+          "illustration": {
+            "description": "A warm scene showing Lars's mama, a kind woman with long brown hair in a cozy sweater, kneeling down to Lars's eye level in the bedroom. Her expression is gentle and reassuring. Lars looks up at her with hope beginning to replace his worried expression. The room is softly lit with morning sunlight, creating a comforting atmosphere with soft blue and yellow tones.",
+            "alt": "Mama kneeling down to comfort worried Lars in his bedroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "They looked in the laundry basket. No sock. They looked behind the couch. No sock there either. Just then, baby Zara crawled by, giggling. She was Lars's little sister with curly dark hair and the biggest smile. \"Zara looks happy,\" said Mama. \"Maybe she knows something we don't!\"",
+          "illustration": {
+            "description": "The living room scene shows Lars and his mama searching around a big comfortable couch with colorful cushions. Baby Zara, a cheerful toddler with beautiful curly dark hair and sparkling brown eyes, crawls across a soft rug while giggling. Toys are scattered around, and the room has warm earth tones with pops of bright colors from pillows and toys.",
+            "alt": "Lars and Mama searching while baby Zara crawls by giggling",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Lars followed his giggling sister. She crawled to her toy box and pointed inside. There, wrapped around her favorite teddy bear, was Lars's missing sock! \"Zara wanted to keep your sock safe,\" laughed Mama. Lars felt so happy and grateful. He gave Zara a big hug and said, \"Thank you for taking care of my sock!\"",
+          "illustration": {
+            "description": "A joyful scene in the nursery showing Lars hugging baby Zara near her colorful toy box. The missing red and blue striped sock is visible wrapped around a brown teddy bear inside the box. Both children are smiling brightly - Lars with relief and happiness, Zara with pure delight. The room has soft pastel colors with toys scattered around, creating a warm, loving family moment.",
+            "alt": "Lars hugging Zara after finding his sock in her toy box with the teddy bear",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Now Lars had both his special socks! He put them on and did a happy dance. \"Sometimes the best help comes from the people we love most,\" said Mama, watching Lars dance. Zara clapped her hands and giggled. Lars learned that when something goes wrong, asking for help and working together makes everything better. What a wonderful morning it turned out to be!",
+          "illustration": {
+            "description": "The final scene shows Lars doing a joyful dance in the living room, wearing both of his beloved red and blue striped socks. His mama sits nearby with a warm smile, holding baby Zara who is clapping excitedly. The room is filled with golden morning light, and everyone's faces show pure happiness and love. The scene radiates warmth and family togetherness with bright, cheerful colors throughout.",
+            "alt": "Happy Lars dancing in his striped socks while Mama holds clapping baby Zara",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonds",
+      "problem solving",
+      "asking for help",
+      "sibling love"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Lars feel when he couldn't find his sock?",
+        "choices": [
+          "Happy and excited",
+          "Sad and worried",
+          "Angry and loud"
+        ],
+        "correctIndex": 1,
+        "explanation": "Lars felt sad and worried when he couldn't find his special striped sock."
+      },
+      {
+        "id": "q2",
+        "question": "Who helped Lars look for his missing sock?",
+        "choices": [
+          "His dog",
+          "His mama",
+          "His teacher"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mama helped Lars search for his sock and made him feel brave."
+      },
+      {
+        "id": "q3",
+        "question": "Where did they find Lars's sock?",
+        "choices": [
+          "Under the bed",
+          "In Zara's toy box",
+          "In the kitchen"
+        ],
+        "correctIndex": 1,
+        "explanation": "The sock was in baby Zara's toy box, wrapped around her teddy bear."
+      },
+      {
+        "id": "q4",
+        "question": "What did Lars learn from this adventure?",
+        "choices": [
+          "Socks are not important",
+          "Working together helps solve problems",
+          "He should hide his socks"
+        ],
+        "correctIndex": 1,
+        "explanation": "Lars learned that asking for help and working together makes everything better."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words",
+        "text": "Lars loved his special _____ socks. When he couldn't find one, he felt very _____. His _____ helped him look everywhere until they found it in Zara's toy box!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "striped",
+            "distractors": [
+              "purple",
+              "fuzzy",
+              "giant"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "sad",
+            "distractors": [
+              "hungry",
+              "sleepy",
+              "loud"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "mama",
+            "distractors": [
+              "teacher",
+              "friend",
+              "neighbor"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Complete the Story",
+        "text": "Baby Zara was _____ and pointed to her toy box. Inside, Lars's sock was wrapped around a _____. Lars felt so _____ when he found it!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "giggling",
+            "distractors": [
+              "crying",
+              "sleeping",
+              "eating"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "teddy bear",
+            "distractors": [
+              "toy car",
+              "book",
+              "ball"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "happy",
+            "distractors": [
+              "scared",
+              "angry",
+              "tired"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "id": "toddler-fantasy-050",
+  "title": "Sage and the Rainbow Bridge",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "fantasy",
+    "friendship"
+  ],
+  "wordCount": 106,
+  "readingLevel": "1.2",
+  "synopsis": "When little Sage discovers his magical toy dragon Luna is sad because she can't fly home to the sky, he embarks on a gentle adventure to help his friend. Together with other magical toys, they build a rainbow bridge so Luna can visit her cloud family and return, teaching Sage that true friendship means helping others even when it's hard.",
+  "coverImage": "covers/toddler-fantasy-050.webp",
+  "chapters": [
+    {
+      "title": "Luna's Wish",
+      "pages": [
+        {
+          "text": "Sage loved his little toy dragon Luna. She had sparkly purple scales and tiny silver wings. But today, Luna looked very sad. \"What's wrong, Luna?\" asked Sage, hugging her close.",
+          "illustration": {
+            "description": "A young South Asian boy with warm brown skin and short black hair sits cross-legged on a colorful bedroom rug, holding a small purple dragon toy with silver wings. The dragon has droopy eyes showing sadness. The room has bright yellow walls with toy shelves in the background. Sage wears a green t-shirt and has a concerned, caring expression.",
+            "alt": "Sage holding his sad purple dragon toy Luna",
+            "layout": "centered"
+          }
+        },
+        {
+          "text": "Luna whispered in her tiny dragon voice, \"I miss my family in the clouds, Sage. I want to fly up high to see them, but I don't know how.\" Sage felt sad too. He wanted to help his friend feel happy again.",
+          "illustration": {
+            "description": "Close-up of Sage's face next to Luna the dragon toy. Both characters share sad expressions. Luna's tiny mouth is open as if speaking. In the background, through a window, fluffy white clouds can be seen in a bright blue sky. The lighting is soft and emotional, with warm tones.",
+            "alt": "Sage and Luna looking sad as Luna explains her wish",
+            "layout": "close-up"
+          }
+        },
+        {
+          "text": "\"Don't worry, Luna,\" said Sage, feeling brave. \"We'll find a way for you to visit your cloud family!\" He looked around his room at all his other magical toys. Maybe they could help too!",
+          "illustration": {
+            "description": "Sage stands up with determination, one fist raised in a brave pose, while Luna sits on his shoulder. Around the room are other colorful toys: a yellow teddy bear, blue unicorn, red robot, and green fairy doll on various shelves. The room is filled with bright primary colors and has a hopeful, energetic mood.",
+            "alt": "Sage looking brave and determined with his toys around the room",
+            "layout": "wide-shot"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "helping others",
+      "bravery",
+      "magical adventure"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Why was Luna the dragon sad?",
+        "choices": [
+          "She was hungry",
+          "She missed her cloud family",
+          "She lost her wings"
+        ],
+        "correctIndex": 1,
+        "explanation": "Luna was sad because she missed her family in the clouds and wanted to visit them."
+      },
+      {
+        "id": "q2",
+        "question": "How did Sage feel when Luna was sad?",
+        "choices": [
+          "Happy",
+          "Angry",
+          "Sad too"
+        ],
+        "correctIndex": 2,
+        "explanation": "Sage felt sad too because he cared about his friend Luna's feelings."
+      },
+      {
+        "id": "q3",
+        "question": "What did Sage decide to do?",
+        "choices": [
+          "Take a nap",
+          "Help Luna visit her family",
+          "Play outside"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sage felt brave and decided to help Luna find a way to visit her cloud family."
+      },
+      {
+        "id": "q4",
+        "question": "What color are Luna's scales?",
+        "choices": [
+          "Red",
+          "Purple",
+          "Green"
+        ],
+        "correctIndex": 1,
+        "explanation": "Luna has sparkly purple scales and tiny silver wings."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Sage loved his little toy _____ Luna. She had sparkly _____ scales and tiny silver wings.",
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "dragon",
+            "distractors": [
+              "bear",
+              "cat",
+              "bird"
+            ]
+          },
+          {
+            "wordIndex": 10,
+            "correctWord": "purple",
+            "distractors": [
+              "red",
+              "yellow",
+              "blue"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Luna felt very _____ because she missed her family. Sage wanted to help her feel _____ again.",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "sad",
+            "distractors": [
+              "happy",
+              "angry",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 14,
+            "correctWord": "happy",
+            "distractors": [
+              "tired",
+              "scared",
+              "hungry"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Sage felt _____ and said, 'We'll find a way for you to visit your _____ family!'",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "brave",
+            "distractors": [
+              "scared",
+              "tired",
+              "silly"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "cloud",
+            "distractors": [
+              "tree",
+              "ocean",
+              "mountain"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "id": "baby-animals-102",
+  "title": "Marcus Hears Happy Sounds",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "animals",
+    "feelings"
+  ],
+  "wordCount": 58,
+  "readingLevel": "0.5",
+  "synopsis": "Marcus, a curious toddler, discovers different animal sounds around his neighborhood and learns how each sound makes him feel happy. From chirping birds to barking dogs, Marcus giggles and claps along with each delightful noise he hears.",
+  "coverImage": "covers/baby-animals-102.webp",
+  "chapters": [
+    {
+      "title": "Happy Animal Sounds",
+      "pages": [
+        {
+          "text": "Marcus hears a sound. Tweet, tweet!",
+          "illustration": {
+            "description": "Marcus, a smiling Black toddler with curly hair wearing a bright yellow shirt, looks up at a small blue bird perched on a tree branch. The background shows a sunny park with soft green grass and pastel yellow sky. Marcus has his hand cupped to his ear in a listening gesture, his eyes wide with wonder.",
+            "alt": "Marcus listening to a bird tweeting",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The bird makes Marcus happy. He claps!",
+          "illustration": {
+            "description": "Marcus stands with his arms raised, clapping his hands together with pure joy. His mouth is open in delight, showing his excitement. The blue bird flies nearby with wings spread. Soft pink cherry blossoms frame the scene with warm morning light filtering through.",
+            "alt": "Marcus clapping happily at the bird",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Marcus hears a sound. Woof, woof!",
+          "illustration": {
+            "description": "A friendly golden retriever with a wagging tail sits next to Marcus on a sidewalk. Marcus reaches out his hand toward the dog with curiosity and delight. Behind them, a diverse family - an Asian mother pushing a stroller - walks past. The scene has warm peach and cream tones.",
+            "alt": "Marcus meeting a friendly dog",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The dog makes Marcus happy. He giggles!",
+          "illustration": {
+            "description": "Marcus sits cross-legged on soft grass, laughing with his head tilted back and eyes crinkled with joy. The golden retriever licks his cheek gently. Marcus's hands are on his belly as he giggles. The background shows a peaceful neighborhood with soft lavender and mint green colors.",
+            "alt": "Marcus giggling as the dog gives him kisses",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Marcus hears a sound. Meow, meow!",
+          "illustration": {
+            "description": "A fluffy orange tabby cat sits on a white porch railing, looking down at Marcus who stands below with his arms outstretched. Marcus wears overalls and has an expression of gentle curiosity. The porch belongs to a cozy house with soft blue shutters and climbing roses.",
+            "alt": "Marcus looking up at a cat on a porch",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The cat makes Marcus happy. He waves!",
+          "illustration": {
+            "description": "Marcus waves enthusiastically with both hands raised high above his head, his face beaming with a huge smile. The orange cat gracefully jumps down from the railing toward him. A Hispanic elderly woman with silver hair watches fondly from her porch window, smiling. Warm coral and cream colors fill the scene.",
+            "alt": "Marcus waving at the friendly cat",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Marcus hears a sound. Moo, moo!",
+          "illustration": {
+            "description": "Marcus stands at a wooden fence looking at a gentle black and white cow in a green pasture. His eyes are wide with amazement and his mouth forms a small 'o' of wonder. The cow has kind eyes and is chewing grass. Rolling hills and a red barn create a peaceful farm backdrop in soft sage and cream tones.",
+            "alt": "Marcus discovering a cow at a farm fence",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The cow makes Marcus happy. He laughs!",
+          "illustration": {
+            "description": "Marcus throws his head back in delighted laughter, his whole body expressing pure joy. His arms are spread wide like he's celebrating. The friendly cow has moved closer to the fence, and a white farm cat sits nearby. The scene glows with golden afternoon light and warm honey-colored tones.",
+            "alt": "Marcus laughing with joy at all the animal sounds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "All the sounds make Marcus happy!",
+          "illustration": {
+            "description": "Marcus stands in the center surrounded by all his new animal friends - the blue bird perched nearby, the golden dog sitting beside him, the orange cat at his feet, and the cow visible in the background. Marcus has the biggest smile, his arms raised in celebration. The scene is filled with soft rainbow pastels and twinkling light, showing the magic of his happy day.",
+            "alt": "Marcus surrounded by all his happy animal friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "animal sounds",
+      "happiness",
+      "sensory exploration",
+      "nature connection"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does the bird make?",
+        "choices": [
+          "Tweet, tweet!",
+          "Woof, woof!"
+        ],
+        "correctIndex": 0,
+        "explanation": "The bird says 'Tweet, tweet!' and makes Marcus happy."
+      },
+      {
+        "id": "q2",
+        "question": "How does Marcus feel when he hears the animals?",
+        "choices": [
+          "Sad",
+          "Happy"
+        ],
+        "correctIndex": 1,
+        "explanation": "All the animal sounds make Marcus very happy! He claps, giggles, waves, and laughs."
+      },
+      {
+        "id": "q3",
+        "question": "What does the cow say?",
+        "choices": [
+          "Meow, meow!",
+          "Moo, moo!"
+        ],
+        "correctIndex": 1,
+        "explanation": "The cow says 'Moo, moo!' and makes Marcus laugh with joy."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Marcus hears a sound. ___, ___!",
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "Tweet",
+            "distractors": [
+              "Woof",
+              "Meow",
+              "Moo"
+            ]
+          },
+          {
+            "wordIndex": 6,
+            "correctWord": "tweet",
+            "distractors": [
+              "woof",
+              "meow",
+              "moo"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "The dog makes Marcus ___. He ___!",
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "happy",
+            "distractors": [
+              "sad",
+              "tired",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 6,
+            "correctWord": "giggles",
+            "distractors": [
+              "cries",
+              "sleeps",
+              "runs"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

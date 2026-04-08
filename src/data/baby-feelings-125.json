@@ -1,0 +1,183 @@
+{
+  "id": "baby-feelings-125",
+  "title": "Suki's Happy Sounds",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "feelings",
+    "nature"
+  ],
+  "wordCount": 53,
+  "readingLevel": "0.5",
+  "synopsis": "Little Suki discovers the joy of nature sounds around her, from chirping birds to buzzing bees. Each page features repetitive sound words and gentle scenes that help babies recognize emotions and connect with the natural world through Suki's delightful outdoor adventure.",
+  "coverImage": "covers/baby-feelings-125.webp",
+  "chapters": [
+    {
+      "title": "Suki's Happy Sounds",
+      "pages": [
+        {
+          "text": "Suki hears tweet, tweet! Happy birds sing.",
+          "illustration": {
+            "description": "A smiling Japanese-American toddler girl with short black hair in a bright yellow dress sits on soft green grass. Three colorful birds perch on a low tree branch above her, their beaks open in song. Warm pastel colors fill the gentle garden scene with soft watercolor textures.",
+            "alt": "Suki listening to singing birds in a garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Buzz, buzz! Busy bees make Suki smile.",
+          "illustration": {
+            "description": "Suki claps her hands with joy as two round, friendly cartoon bees with soft yellow and black stripes hover near purple flowers. Her face shows pure delight with wide brown eyes and a big grin. The background features a sunny meadow in warm lavender and peach tones.",
+            "alt": "Suki watching happy bees near flowers",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Splash, splash! Water sounds make Suki giggle.",
+          "illustration": {
+            "description": "Suki sits by a gentle stream, her small hands reaching toward the water. Her expression shows wonder and joy as small ripples create soft splashing sounds. A diverse family with a Black father and Latina mother walk hand-in-hand in the background. Soft blues and greens dominate the peaceful scene.",
+            "alt": "Suki playing by a splashing stream",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Whoosh, whoosh! Wind makes leaves dance.",
+          "illustration": {
+            "description": "Suki looks up with arms outstretched as gentle wind moves through her hair. Soft green leaves swirl around her in a playful dance. Her face shows pure happiness with rosy cheeks. The illustration uses flowing, curved lines to show movement in warm earth tones.",
+            "alt": "Suki enjoying wind blowing through leaves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Patter, patter! Rain drops say hello.",
+          "illustration": {
+            "description": "Suki stands under a colorful umbrella, her face tilted upward with a peaceful smile as gentle raindrops fall around her. An elderly Asian grandmother holds the umbrella, smiling warmly. Soft gray clouds and silver raindrops create a cozy, comforting atmosphere in muted pastels.",
+            "alt": "Suki and grandmother under umbrella in gentle rain",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Chirp, chirp! Cricket friends sing goodnight.",
+          "illustration": {
+            "description": "Suki sits on a soft blanket as twilight approaches, surrounded by tiny crickets with friendly faces. Her expression is calm and content as purple and pink sunset colors fill the sky. Fireflies begin to twinkle like gentle stars. The scene feels warm and sleepy.",
+            "alt": "Suki listening to evening crickets at sunset",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rustle, rustle! Leaves whisper soft dreams.",
+          "illustration": {
+            "description": "Suki lies peacefully on her back looking up at tree branches, her hands behind her head. Soft green leaves create gentle shadows over her relaxed, dreamy expression. The lighting is golden and warm, suggesting late afternoon. Her breathing appears slow and peaceful.",
+            "alt": "Suki relaxing under rustling tree leaves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Shh, shh! All the sounds help Suki sleep.",
+          "illustration": {
+            "description": "Suki sleeps peacefully in her cozy bed, a gentle smile on her face. Through her window, all the nature friends are visible in soft, dreamy colors - birds, bees, trees, and stars. Her multiracial family's photos sit on a nearby dresser. The room glows with soft moonlight in calming blues and silvers.",
+            "alt": "Suki sleeping peacefully with nature sounds outside",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "nature sounds",
+      "happiness",
+      "peacefulness",
+      "sensory exploration"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound do the birds make?",
+        "choices": [
+          "Tweet, tweet",
+          "Buzz, buzz"
+        ],
+        "correctIndex": 0,
+        "explanation": "The birds say 'tweet, tweet' when they sing to Suki."
+      },
+      {
+        "id": "q2",
+        "question": "What makes the splash, splash sound?",
+        "choices": [
+          "Bees",
+          "Water"
+        ],
+        "correctIndex": 1,
+        "explanation": "The water in the stream makes splash, splash sounds."
+      },
+      {
+        "id": "q3",
+        "question": "How does Suki feel when she hears the sounds?",
+        "choices": [
+          "Happy",
+          "Scared"
+        ],
+        "correctIndex": 0,
+        "explanation": "Suki feels happy when she hears all the nature sounds around her."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Suki hears _____, _____! Happy birds sing.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "tweet",
+            "distractors": [
+              "buzz",
+              "splash",
+              "chirp"
+            ]
+          },
+          {
+            "wordIndex": 3,
+            "correctWord": "tweet",
+            "distractors": [
+              "whoosh",
+              "patter",
+              "rustle"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "_____, _____! Water sounds make Suki giggle.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Splash",
+            "distractors": [
+              "Tweet",
+              "Buzz",
+              "Chirp"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "splash",
+            "distractors": [
+              "whoosh",
+              "patter",
+              "rustle"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

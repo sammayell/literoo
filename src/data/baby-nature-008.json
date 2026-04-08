@@ -1,0 +1,173 @@
+{
+  "id": "baby-nature-008",
+  "title": "Felix Says Goodnight",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "nature",
+    "bedtime"
+  ],
+  "wordCount": 56,
+  "readingLevel": "0.5",
+  "synopsis": "Little Felix takes a gentle walk through his garden at sunset, saying goodnight to all the creatures and plants as they settle down for the evening, creating a soothing bedtime routine that mirrors a baby's own journey to sleep.",
+  "coverImage": "covers/baby-nature-008.webp",
+  "chapters": [
+    {
+      "title": "Goodnight Garden",
+      "pages": [
+        {
+          "text": "Felix walks in the garden. Time to say goodnight!",
+          "illustration": {
+            "description": "A sweet Black toddler boy with curly hair wearing soft blue pajamas walks barefoot through a lush garden at golden hour. Warm amber and peach sunset colors fill the sky. Large sunflowers and colorful wildflowers surround him in soft watercolor strokes.",
+            "alt": "Felix walking through a sunset garden",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Goodnight, buzzing bees! Buzz, buzz, buzz.",
+          "illustration": {
+            "description": "Three friendly cartoon bees with round yellow and black striped bodies hover near purple lavender flowers. Felix waves with a gentle smile. The bees have oversized friendly eyes and delicate translucent wings. Soft purple and yellow pastels dominate the scene.",
+            "alt": "Felix waving goodnight to buzzing bees",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Goodnight, chirping birds! Tweet, tweet, tweet.",
+          "illustration": {
+            "description": "Two colorful birds perch on a low branch - one red cardinal and one blue jay with simplified, rounded shapes. Felix reaches up gently toward them. The birds have large, kind eyes and soft feathers rendered in watercolor style against a peachy sunset sky.",
+            "alt": "Felix saying goodnight to chirping birds",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Goodnight, hopping bunny! Hop, hop, hop.",
+          "illustration": {
+            "description": "A fluffy white rabbit with long ears sits among green clover and dandelions. Felix crouches down at the bunny's level with outstretched hands. The rabbit's pink nose and gentle brown eyes create a tender moment. Soft greens and whites with warm golden light.",
+            "alt": "Felix meeting a hopping bunny in the garden",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Goodnight, fluttering butterfly! Flutter, flutter, flutter.",
+          "illustration": {
+            "description": "A large orange and black monarch butterfly with delicate wing patterns lands on a bright pink flower near Felix's face. Felix's eyes are wide with wonder and joy. The butterfly's wings have soft watercolor gradients and the background shows blurred garden flowers in pastels.",
+            "alt": "Felix watching a fluttering butterfly",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Goodnight, croaking frog! Croak, croak, croak.",
+          "illustration": {
+            "description": "A small bright green frog sits on a smooth gray stone beside a tiny garden pond. Felix kneels beside the water with his reflection visible. The frog has big golden eyes and a friendly smile. Soft blues and greens create a peaceful pond setting.",
+            "alt": "Felix saying goodnight to a croaking frog by the pond",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Goodnight, sleepy flowers! Shh, shh, shh.",
+          "illustration": {
+            "description": "Evening flowers like moonflowers and four o'clocks begin to close their petals in the dusky light. Felix touches them gently with one finger. The flowers have drowsy, peaceful expressions with soft white and pale pink petals against deep green leaves.",
+            "alt": "Felix whispering goodnight to sleepy flowers",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Goodnight, twinkling stars! Twinkle, twinkle, twinkle.",
+          "illustration": {
+            "description": "Felix lies on a soft blue blanket in the grass, pointing up at the first stars appearing in the deep purple twilight sky. His mother, a Black woman with natural hair in a yellow dress, sits beside him smiling. Golden stars sparkle against the peaceful night sky.",
+            "alt": "Felix and his mother looking at twinkling stars",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Felix yawns big. Goodnight, garden!",
+          "illustration": {
+            "description": "Felix rubs his sleepy eyes with small fists, yawning widely as his mother carries him toward a cozy house with warm yellow light glowing from the windows. The garden behind them is peaceful in soft moonlight with sleeping creatures barely visible among the plants.",
+            "alt": "Sleepy Felix being carried home from the garden",
+            "layout": "full"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "nature appreciation",
+      "bedtime routine",
+      "gentle sounds",
+      "saying goodnight"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound do the bees make?",
+        "choices": [
+          "Buzz, buzz",
+          "Tweet, tweet"
+        ],
+        "correctIndex": 0,
+        "explanation": "The bees say 'Buzz, buzz, buzz' in the story!"
+      },
+      {
+        "id": "q2",
+        "question": "Where does Felix walk?",
+        "choices": [
+          "In the house",
+          "In the garden"
+        ],
+        "correctIndex": 1,
+        "explanation": "Felix walks in the garden to say goodnight to all his friends!"
+      },
+      {
+        "id": "q3",
+        "question": "What do the stars do?",
+        "choices": [
+          "Twinkle",
+          "Sleep"
+        ],
+        "correctIndex": 0,
+        "explanation": "The stars twinkle, twinkle, twinkle in the night sky!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Felix walks in the _____. Time to say goodnight!",
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "garden",
+            "distractors": [
+              "house",
+              "car",
+              "bed"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Goodnight, buzzing _____! Buzz, buzz, buzz.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "bees",
+            "distractors": [
+              "cats",
+              "dogs",
+              "fish"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

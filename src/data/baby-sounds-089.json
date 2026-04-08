@@ -1,0 +1,191 @@
+{
+  "id": "baby-sounds-089",
+  "title": "Noor's Animal Sounds",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "sounds",
+    "animals"
+  ],
+  "wordCount": 65,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Noor discovers different animal sounds in her backyard and around her home, from chirping birds to buzzing bees, learning to make each sound herself in this repetitive, soothing sound exploration.",
+  "coverImage": "covers/baby-sounds-089.webp",
+  "chapters": [
+    {
+      "title": "Noor Hears Sounds",
+      "pages": [
+        {
+          "text": "Noor hears sounds. Tweet, tweet!",
+          "illustration": {
+            "description": "A cheerful baby girl named Noor with warm brown skin and curly black hair sits in a sunny garden. She looks up at a bright blue bird perched on a flowering branch above her. The bird has its beak open, clearly chirping. Soft pastel blues and greens fill the background with gentle watercolor flowers.",
+            "alt": "Baby Noor looking up at a chirping blue bird in a garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The bird says tweet, tweet! Noor says tweet, tweet!",
+          "illustration": {
+            "description": "Close-up of Noor's smiling face as she mimics the bird's sound, her mouth open in a perfect 'o' shape. The blue bird is visible in the upper corner, still singing. Warm golden sunlight creates a cozy atmosphere with soft yellow and orange tones throughout the scene.",
+            "alt": "Noor mimicking the bird's tweet sound with joy",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Noor hears sounds. Buzz, buzz!",
+          "illustration": {
+            "description": "Noor crawls on soft green grass, watching a fuzzy yellow and black bee hovering near purple flowers. The bee appears friendly with large, gentle eyes. The garden setting continues with pastel purples and yellows, creating high contrast for baby eyes to follow easily.",
+            "alt": "Noor watching a friendly bee buzzing around flowers",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The bee says buzz, buzz! Noor says buzz, buzz!",
+          "illustration": {
+            "description": "Noor sits cross-legged on the grass, her hands fluttering like bee wings as she makes buzzing sounds. Her expression is delighted and focused. The bee hovers nearby, and purple flowers frame the scene with soft, rounded petals in watercolor style.",
+            "alt": "Noor imitating a bee with fluttering hand motions",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Noor hears sounds. Moo, moo!",
+          "illustration": {
+            "description": "Through a white picket fence, Noor waves at a gentle brown and white cow in a green meadow. The cow has kind, large eyes and appears to be mooing. The scene uses warm browns and fresh greens with high contrast white fence posts for visual clarity.",
+            "alt": "Noor greeting a friendly cow through a fence",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The cow says moo, moo! Noor says moo, moo!",
+          "illustration": {
+            "description": "Noor stands holding the fence, her mouth wide open making mooing sounds back at the cow. Both Noor and the cow have similar expressions of joy and connection. The composition shows them facing each other with the fence between them, creating a sweet interaction scene.",
+            "alt": "Noor and cow mooing together across the fence",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Noor hears sounds. Woof, woof!",
+          "illustration": {
+            "description": "A fluffy golden puppy runs toward Noor in the backyard, tail wagging enthusiastically. Noor sits on a colorful blanket with her arms outstretched welcomingly. The scene uses warm golds and soft blues with the puppy's fur appearing extra fluffy and inviting.",
+            "alt": "Happy puppy running to Noor in the backyard",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The puppy says woof, woof! Noor says woof, woof!",
+          "illustration": {
+            "description": "Noor and the golden puppy sit face to face on the blanket, both with their mouths open making sounds together. The puppy's tail is visible wagging, and Noor's hands reach toward the puppy in friendship. Warm sunset colors create a cozy, loving atmosphere.",
+            "alt": "Noor and puppy barking and playing together",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Noor loves all the sounds! Tweet, buzz, moo, woof!",
+          "illustration": {
+            "description": "Final scene showing Noor in the center of the garden surrounded by all her animal friends - the blue bird, yellow bee, brown cow visible over the fence, and golden puppy. All animals appear to be making their sounds simultaneously while Noor claps her hands with pure joy. Rainbow pastel colors fill the scene.",
+            "alt": "Noor celebrating with all her animal friends making sounds together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "animal sounds",
+      "nature exploration",
+      "mimicry and learning",
+      "joy in discovery"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does the bird make?",
+        "choices": [
+          "Tweet, tweet",
+          "Buzz, buzz"
+        ],
+        "correctIndex": 0,
+        "explanation": "The bird says 'tweet, tweet' and Noor copies the sound!"
+      },
+      {
+        "id": "q2",
+        "question": "Which animal says 'moo, moo'?",
+        "choices": [
+          "The puppy",
+          "The cow"
+        ],
+        "correctIndex": 1,
+        "explanation": "The cow says 'moo, moo' from behind the fence!"
+      },
+      {
+        "id": "q3",
+        "question": "What does Noor do when she hears the animals?",
+        "choices": [
+          "She copies their sounds",
+          "She runs away"
+        ],
+        "correctIndex": 0,
+        "explanation": "Noor loves copying all the animal sounds she hears!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "The bird says _____, _____! Noor says _____, _____!",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "tweet",
+            "distractors": [
+              "buzz",
+              "moo",
+              "woof"
+            ]
+          },
+          {
+            "wordIndex": 4,
+            "correctWord": "tweet",
+            "distractors": [
+              "buzz",
+              "moo",
+              "woof"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "The _____ says buzz, buzz! Noor says _____, buzz!",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "bee",
+            "distractors": [
+              "bird",
+              "cow",
+              "puppy"
+            ]
+          },
+          {
+            "wordIndex": 7,
+            "correctWord": "buzz",
+            "distractors": [
+              "tweet",
+              "moo",
+              "woof"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

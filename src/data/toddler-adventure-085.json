@@ -1,0 +1,184 @@
+{
+  "id": "toddler-adventure-085",
+  "title": "Wren's Brave Night Adventure",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "adventure",
+    "bedtime"
+  ],
+  "wordCount": 338,
+  "readingLevel": "1.2",
+  "synopsis": "When Wren's beloved teddy bear Luna goes missing at bedtime, she embarks on a brave nighttime adventure through her house to find her special friend, discovering courage along the way.",
+  "coverImage": "covers/toddler-adventure-085.webp",
+  "chapters": [
+    {
+      "title": "Luna is Missing",
+      "pages": [
+        {
+          "text": "Wren loved bedtime stories with her soft brown teddy bear, Luna. Every night, they would snuggle together under Wren's cozy blankets. But tonight was different. When Wren looked around her room, Luna was nowhere to be found! Wren felt worried and a little scared.",
+          "illustration": {
+            "description": "A young Black girl with curly hair in purple pajamas sits on her bed looking worried, searching through colorful blankets and pillows. Her bedroom has warm yellow walls with star decorations, a bookshelf with picture books, and a nightlight glowing softly. The illustration uses bright primary colors with a slightly textured, construction paper-like background.",
+            "alt": "Wren searching her bed for her missing teddy bear Luna",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "\"Mama, I can't find Luna!\" Wren called out. Her mama, who had beautiful long braids, came into the room and gave Wren a gentle hug. \"Don't worry, sweetie. Luna must be somewhere in the house. You're brave enough to find her,\" Mama said with a warm smile. Wren felt a little bit better, but still scared about looking in the dark house.",
+          "illustration": {
+            "description": "Wren's mama, a tall Black woman with long braids wearing a soft green sweater, kneels down to hug Wren in the bedroom doorway. Warm light spills from the hallway behind them, creating a comforting glow. Both characters have gentle, caring expressions. The scene uses warm yellows and greens with rounded, friendly shapes.",
+            "alt": "Wren's mama comforting her with a hug",
+            "layout": "full_page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Search Begins",
+      "pages": [
+        {
+          "text": "Wren took a deep breath and felt brave. She tiptoed down the hallway, her bare feet quiet on the soft carpet. The house felt big and different in the nighttime, but Wren remembered what Mama said about being brave. She checked the bathroom first, looking behind the towels. No Luna there.",
+          "illustration": {
+            "description": "Wren tiptoes down a dimly lit hallway with family photos on the walls, her hand trailing along the wall for guidance. Soft moonlight streams through a window at the end of the hall, creating gentle shadows. Her expression shows determination mixed with caution. The colors are muted blues and purples with touches of silver moonlight.",
+            "alt": "Wren carefully walking down the hallway at night",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Next, Wren went to the living room. She looked under the soft cushions where her papa, who had kind brown eyes and wore glasses, sometimes read stories. She looked behind the big chair where her little brother Diego liked to play with his toy cars. Still no Luna. Wren was starting to feel sad, but she didn't give up.",
+          "illustration": {
+            "description": "Wren searches through colorful couch cushions in a cozy living room with warm lighting from a table lamp. Family photos showing her diverse family are visible on side tables. Toys are scattered around, including Diego's toy cars. The room has a lived-in, comfortable feeling with reds, oranges, and warm browns dominating the color palette.",
+            "alt": "Wren looking for Luna in the living room",
+            "layout": "full_page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Luna Found!",
+      "pages": [
+        {
+          "text": "Wren had one more place to check - the kitchen. As she walked in, she saw something brown and furry on the floor by the table. \"Luna!\" she whispered happily. Her teddy bear must have fallen during dinner. Wren picked up Luna and hugged her tight. She felt so happy and proud that she had been brave enough to find her special friend.",
+          "illustration": {
+            "description": "Wren joyfully hugs her brown teddy bear Luna in the kitchen, with a huge smile on her face. The kitchen has cheerful yellow walls, colorful fruit magnets on the refrigerator, and child-safe step stools. Moonlight streams through the window above the sink, creating a magical nighttime atmosphere. The scene radiates happiness and relief with bright, warm colors.",
+            "alt": "Wren happily reunited with her teddy bear Luna in the kitchen",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Back in her bedroom, Wren snuggled under her blankets with Luna. \"I was scared, but I was brave too,\" she told Luna softly. Mama peeked in and smiled. \"You were very brave, my sweet girl. Now you and Luna can have wonderful dreams together.\" Wren felt safe, happy, and proud as she drifted off to sleep, holding Luna close.",
+          "illustration": {
+            "description": "Wren peacefully sleeps in her bed, cuddling Luna close to her chest with a content smile. Her mama watches lovingly from the doorway, silhouetted against the soft hallway light. The bedroom is bathed in gentle moonlight and the warm glow of a nightlight. Stars seem to twinkle on the walls, creating a dreamy, secure atmosphere with soft blues, purples, and golden light.",
+            "alt": "Wren sleeping peacefully with Luna while mama watches from the doorway",
+            "layout": "full_page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "courage",
+      "problem-solving",
+      "family love",
+      "bedtime comfort"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Wren feel when she couldn't find Luna?",
+        "choices": [
+          "Happy and excited",
+          "Worried and scared",
+          "Angry and loud"
+        ],
+        "correctIndex": 1,
+        "explanation": "Wren felt worried and a little scared when she realized Luna was missing from her bed."
+      },
+      {
+        "id": "q2",
+        "question": "Where did Wren find Luna?",
+        "choices": [
+          "Under the couch cushions",
+          "In the bathroom",
+          "On the kitchen floor"
+        ],
+        "correctIndex": 2,
+        "explanation": "Wren found Luna on the kitchen floor by the table, where she must have fallen during dinner."
+      },
+      {
+        "id": "q3",
+        "question": "What did Mama tell Wren about finding Luna?",
+        "choices": [
+          "Luna was lost forever",
+          "Wren was brave enough to find her",
+          "They should look in the morning"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mama told Wren that she was brave enough to find Luna, which helped give Wren courage to search."
+      },
+      {
+        "id": "q4",
+        "question": "How did Wren feel at the end of the story?",
+        "choices": [
+          "Still scared and worried",
+          "Safe, happy, and proud",
+          "Sad and tired"
+        ],
+        "correctIndex": 1,
+        "explanation": "At the end, Wren felt safe, happy, and proud because she had been brave and found Luna."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Complete the Story - Page 1",
+        "text": "Wren loved bedtime stories with her soft brown teddy bear, Luna. But tonight, Luna was nowhere to be found! Wren felt _____ and a little scared.",
+        "blanks": [
+          {
+            "wordIndex": 24,
+            "correctWord": "worried",
+            "distractors": [
+              "happy",
+              "sleepy",
+              "hungry"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Complete the Story - Page 2",
+        "text": "Wren took a deep breath and felt _____. She searched the hallway, the living room, and finally found Luna in the _____.",
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "brave",
+            "distractors": [
+              "tired",
+              "sad",
+              "cold"
+            ]
+          },
+          {
+            "wordIndex": 22,
+            "correctWord": "kitchen",
+            "distractors": [
+              "bedroom",
+              "bathroom",
+              "closet"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

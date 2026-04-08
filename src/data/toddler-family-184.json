@@ -1,0 +1,172 @@
+{
+  "id": "toddler-family-184",
+  "title": "Jasper's Big Sneeze",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "family",
+    "humor"
+  ],
+  "wordCount": 189,
+  "readingLevel": "1.2",
+  "synopsis": "When Jasper gets the sniffles, he's worried about sneezing during his sister's tea party. With help from his family, he learns that sometimes accidents happen and that's okay.",
+  "coverImage": "covers/toddler-family-184.webp",
+  "chapters": [
+    {
+      "title": "The Big Sneeze Problem",
+      "pages": [
+        {
+          "text": "Jasper had the sniffles today. His nose felt tickly and his eyes were watery. \"Achoo!\" he sneezed loudly at breakfast. Mama smiled and gave him a soft tissue.",
+          "illustration": {
+            "description": "A young boy with curly brown hair sitting at a colorful breakfast table, mid-sneeze with his eyes squeezed shut and mouth open. His mother, a woman with dark skin and natural hair, is handing him a white tissue with a gentle smile. Bright morning sunlight streams through a window with cheerful yellow curtains.",
+            "alt": "Jasper sneezing at breakfast while his mama offers him a tissue",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Can I still play with Zara's tea party?\" Jasper asked. He felt worried because his big sister was having friends over. \"What if I sneeze during the fancy party?\" he wondered sadly.",
+          "illustration": {
+            "description": "Jasper looking concerned with a slight frown, talking to his older sister Zara who has long black braids and is wearing a purple dress. Behind them, colorful toy tea cups and stuffed animals are arranged on a small table. The room has warm pink and orange tones with a soft textured background.",
+            "alt": "Worried Jasper talking to his sister Zara about the tea party",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Just then, Zara's friends arrived! There was Emma with her bright red hair, and Carlos with his big smile. They all looked so happy and excited for the tea party. Jasper felt scared to join them.",
+          "illustration": {
+            "description": "Three diverse children entering through a doorway - a girl with curly red hair and freckles, a boy with short brown hair and olive skin wearing a striped shirt, and Zara welcoming them. Jasper peeks shyly from behind a doorframe. The scene has bright, welcoming colors with a construction paper texture background.",
+            "alt": "Emma and Carlos arriving for the tea party while Jasper hides nervously",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sneezes Can Be Funny!",
+      "pages": [
+        {
+          "text": "Papa sat down next to Jasper. \"Sometimes our bodies do things we can't control,\" he said kindly. \"That's okay! Your friends will understand.\" Papa gave Jasper a brave hug.",
+          "illustration": {
+            "description": "A tall man with glasses and a beard sitting next to Jasper on a cozy blue couch, giving him a warm side hug. Papa has brown skin and is wearing a green sweater. Jasper looks more relaxed now, leaning into the hug. Soft golden lighting makes the scene feel safe and comforting.",
+            "alt": "Papa comforting Jasper with a hug on the couch",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Jasper decided to be brave and joined the tea party. Right in the middle of serving pretend cookies, \"ACHOO!\" He sneezed so big that his stuffed elephant fell over! Everyone started giggling.",
+          "illustration": {
+            "description": "Jasper in the middle of a colorful tea party setup, mid-sneeze with a big expression, while a gray stuffed elephant tips over comically. Emma, Carlos, and Zara are all laughing joyfully around the small table filled with bright plastic tea cups and pretend treats. The scene bursts with happy primary colors.",
+            "alt": "Jasper sneezing during tea party while everyone laughs as the elephant falls",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"That was the funniest sneeze ever!\" laughed Emma. Carlos clapped his hands happily. Even Zara was smiling big. Jasper felt so happy and relieved. His sneeze made everyone laugh, not run away!",
+          "illustration": {
+            "description": "All four children sitting around the tea party table, faces bright with laughter and joy. Jasper is beaming with a huge smile, no longer worried. The stuffed elephant sits upright again. Warm, cheerful colors fill the scene with hearts and sparkles floating around to show the happy mood.",
+            "alt": "All the children laughing happily together at the tea party",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family support",
+      "overcoming worries",
+      "acceptance",
+      "friendship",
+      "humor in everyday life"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Jasper feel about sneezing at the tea party?",
+        "choices": [
+          "Happy",
+          "Worried",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Jasper felt worried because he was scared he might sneeze during his sister's fancy tea party with her friends."
+      },
+      {
+        "id": "q2",
+        "question": "Who helped Jasper feel better about his sneezes?",
+        "choices": [
+          "His papa",
+          "His teacher",
+          "His dog"
+        ],
+        "correctIndex": 0,
+        "explanation": "Papa sat with Jasper and explained that sometimes our bodies do things we can't control, and that's okay."
+      },
+      {
+        "id": "q3",
+        "question": "What happened when Jasper sneezed during the tea party?",
+        "choices": [
+          "Everyone got scared",
+          "The elephant fell over and everyone laughed",
+          "He had to leave"
+        ],
+        "correctIndex": 1,
+        "explanation": "When Jasper sneezed, his stuffed elephant fell over and all his friends started giggling, which made him feel happy."
+      },
+      {
+        "id": "q4",
+        "question": "How did Jasper feel at the end of the story?",
+        "choices": [
+          "Sad",
+          "Scared",
+          "Happy and relieved"
+        ],
+        "correctIndex": 2,
+        "explanation": "Jasper felt happy and relieved when he realized his sneeze made everyone laugh instead of running away."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words",
+        "instructions": "Help complete the story by choosing the right words!",
+        "text": "Jasper had the sniffles and felt _____ about sneezing at the tea party. His _____ gave him a hug and helped him feel brave. When Jasper sneezed, everyone started _____!",
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "worried",
+            "distractors": [
+              "sleepy",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 20,
+            "correctWord": "papa",
+            "distractors": [
+              "sister",
+              "friend"
+            ]
+          },
+          {
+            "wordIndex": 32,
+            "correctWord": "laughing",
+            "distractors": [
+              "crying",
+              "running"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

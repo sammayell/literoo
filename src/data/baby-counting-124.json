@@ -1,0 +1,179 @@
+{
+  "id": "baby-counting-124",
+  "title": "Theo Counts Kisses",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "counting",
+    "family"
+  ],
+  "wordCount": 58,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Theo receives loving kisses from his diverse family members as he learns to count from one to five. Each family member gives him sweet kisses with gentle sounds, creating a warm bedtime routine filled with love and counting fun.",
+  "coverImage": "covers/baby-counting-124.webp",
+  "chapters": [
+    {
+      "title": "Counting Kisses with Theo",
+      "pages": [
+        {
+          "text": "One kiss from Mama. Mwah!",
+          "illustration": {
+            "description": "A loving Black mother with natural curly hair in a soft yellow dress leans over baby Theo in his crib, giving him a gentle kiss on his forehead. Theo is a chubby-cheeked Black baby in light blue pajamas, smiling with bright eyes. The nursery has warm peach walls with a mobile of soft stars hanging above. Gentle morning light streams through a window with sheer white curtains.",
+            "alt": "Mama giving baby Theo a kiss",
+            "layout": "portrait"
+          }
+        },
+        {
+          "text": "Two kisses from Papa. Mwah! Mwah!",
+          "illustration": {
+            "description": "A gentle Black father with short beard and green shirt holds baby Theo, kissing both his cheeks. Theo giggles with his arms stretched up toward Papa's face, wearing the same light blue pajamas. They sit in a cozy rocking chair with soft cream cushions. The background shows bookshelves with colorful children's books and a warm lamp glowing softly.",
+            "alt": "Papa giving baby Theo two kisses",
+            "layout": "portrait"
+          }
+        },
+        {
+          "text": "Three kisses from Grandma. Mwah! Mwah! Mwah!",
+          "illustration": {
+            "description": "A warm Latina grandmother with silver-streaked hair in a soft purple cardigan holds Theo on her lap, kissing his forehead, nose, and cheek in sequence. Theo claps his hands with delight, his eyes sparkling. They sit on a floral sofa with lavender and cream patterns. Behind them, family photos line a wooden side table next to a vase of fresh daisies.",
+            "alt": "Grandma giving baby Theo three kisses",
+            "layout": "portrait"
+          }
+        },
+        {
+          "text": "Four kisses from big sister. Mwah! Mwah! Mwah! Mwah!",
+          "illustration": {
+            "description": "A cheerful 6-year-old Black girl with braided hair tied with pink ribbons leans over baby Theo who lies on a soft play mat. She's wearing a bright coral dress and giving him four quick kisses on his hands and tummy. Theo kicks his legs happily. The play mat has colorful animal patterns, and soft toys are scattered around in the sunny living room.",
+            "alt": "Big sister giving baby Theo four kisses",
+            "layout": "landscape"
+          }
+        },
+        {
+          "text": "Five kisses from baby cousin. Mwah! Mwah! Mwah! Mwah! Mwah!",
+          "illustration": {
+            "description": "A toddler cousin with East Asian features and wispy black hair in tiny overalls sits next to Theo on the floor, leaning in to give sloppy baby kisses. Both babies laugh and reach for each other. Theo wears his blue pajamas while sitting on a rainbow-colored blanket. Soft building blocks and plush animals surround them in the bright playroom with white walls and colorful wall decals.",
+            "alt": "Baby cousin giving baby Theo five kisses",
+            "layout": "landscape"
+          }
+        },
+        {
+          "text": "So many kisses for Theo! One, two, three, four, five!",
+          "illustration": {
+            "description": "All the loving family members gather around baby Theo in the center - Mama, Papa, Grandma, big sister, and baby cousin all lean in with big smiles. Theo sits contentedly in the middle, arms outstretched toward everyone. The scene shows warm golden light, creating a cozy circle of love. Numbers 1-5 float gently in soft pastel colors above the family group.",
+            "alt": "Whole family surrounding baby Theo with love",
+            "layout": "landscape"
+          }
+        },
+        {
+          "text": "Sleepy Theo yawns. Night-night kisses! Mwah!",
+          "illustration": {
+            "description": "Baby Theo lies peacefully in his crib, eyes heavy with sleep as Mama tucks him in with a soft mint green blanket. A gentle nightlight casts warm stars on the ceiling. The room is dimly lit with deep blue and purple evening colors. Theo's favorite stuffed elephant sits nearby, and a music box plays softly on the dresser. The moon shines through the window.",
+            "alt": "Sleepy baby Theo getting tucked in for bedtime",
+            "layout": "portrait"
+          }
+        },
+        {
+          "text": "Sweet dreams, little Theo. Mwah!",
+          "illustration": {
+            "description": "Baby Theo sleeps peacefully in his crib, completely relaxed with a content smile. Soft dream clouds float above him showing tiny images of all his family members blowing kisses. The nursery is bathed in gentle moonlight with silver and soft blue tones. His stuffed elephant is tucked beside him, and the mobile above moves slowly in the quiet night breeze.",
+            "alt": "Baby Theo sleeping peacefully with sweet dreams",
+            "layout": "portrait"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "counting",
+      "family_love",
+      "bedtime",
+      "diversity"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How many kisses did Mama give Theo?",
+        "choices": [
+          "One kiss",
+          "Two kisses"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama gave Theo one sweet kiss - Mwah!"
+      },
+      {
+        "id": "q2",
+        "question": "Who gave Theo three kisses?",
+        "choices": [
+          "Papa",
+          "Grandma"
+        ],
+        "correctIndex": 1,
+        "explanation": "Grandma gave Theo three kisses - Mwah! Mwah! Mwah!"
+      },
+      {
+        "id": "q3",
+        "question": "What sound do the kisses make?",
+        "choices": [
+          "Mwah!",
+          "Whoosh!"
+        ],
+        "correctIndex": 0,
+        "explanation": "All the family kisses make the sweet sound 'Mwah!'"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "One kiss from ___. Mwah!",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "Mama",
+            "distractors": [
+              "Papa",
+              "Sister",
+              "Baby"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "___ kisses from Papa. Mwah! Mwah!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Two",
+            "distractors": [
+              "One",
+              "Three",
+              "Four"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Sweet dreams, little ___. Mwah!",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "Theo",
+            "distractors": [
+              "Baby",
+              "Papa",
+              "Mama"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

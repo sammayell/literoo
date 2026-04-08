@@ -1,0 +1,182 @@
+{
+  "id": "toddler-family-004",
+  "title": "Ravi's Giggle Game",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "family",
+    "humor"
+  ],
+  "wordCount": 168,
+  "readingLevel": "1.2",
+  "synopsis": "When little Ravi feels sad because his baby sister won't stop crying, he discovers that making funny faces and silly sounds can turn tears into giggles for everyone in the family.",
+  "coverImage": "covers/toddler-family-004.webp",
+  "chapters": [
+    {
+      "title": "Baby Sister's Big Tears",
+      "pages": [
+        {
+          "text": "Ravi was playing with his toy cars when his baby sister Maya started crying. WAAAH! WAAAH! The loud sound made Ravi feel sad and worried.",
+          "illustration": {
+            "description": "A young Indian boy with dark hair and brown eyes sits cross-legged on a colorful rug, holding a red toy car. His expression shows concern and sadness. Behind him, we can see part of a crib where a baby is crying. The room has warm yellow walls and bright toys scattered around.",
+            "alt": "Ravi looking sad while his baby sister cries in the background",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama tried rocking Maya. Papa tried singing to her. But Maya kept crying and crying. Ravi covered his ears. He felt scared because nothing was working!",
+          "illustration": {
+            "description": "A warm family scene showing Mama (wearing a blue sari) holding baby Maya while Papa (in a green shirt) stands nearby looking concerned. Ravi has his hands over his ears with a scared expression. The setting is a cozy living room with soft orange lighting and family photos on the walls.",
+            "alt": "The family trying to comfort crying baby Maya while Ravi covers his ears",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Ravi wanted to help make Maya happy. He thought very hard. Then he remembered something that always made him giggle when he was little.",
+          "illustration": {
+            "description": "Close-up of Ravi's face showing determination and hope. He has his finger on his chin in a thinking pose, with his eyebrows raised and eyes bright with an idea. Soft purple background with sparkly thought bubbles around his head containing tiny images of silly faces.",
+            "alt": "Ravi thinking hard with a hopeful expression and idea bubbles around him",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Giggle Magic",
+      "pages": [
+        {
+          "text": "Ravi made the silliest face he could think of! He puffed out his cheeks, crossed his eyes, and stuck out his tongue. Maya stopped crying and looked at him with big curious eyes.",
+          "illustration": {
+            "description": "Ravi making an extremely silly face with puffed cheeks, crossed eyes, and tongue sticking out. Baby Maya in her mother's arms has stopped crying and is staring at Ravi with wide, interested eyes. The scene is bright and cheerful with yellow and pink colors dominating the warm family room.",
+            "alt": "Ravi making a silly face while baby Maya watches with curiosity",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Then Ravi made funny sounds: 'Boop! Beep! Banana!' Maya started to smile! Mama and Papa started laughing too. Soon everyone was making silly faces and funny sounds together.",
+          "illustration": {
+            "description": "The whole family is now making silly faces and laughing together. Mama is making fish lips, Papa has his nose scrunched up, and Ravi is doing jazz hands while making a goofy expression. Baby Maya is giggling in Mama's arms. The room is filled with joy, depicted with bright rainbow colors and musical note symbols floating around.",
+            "alt": "The entire family making silly faces and laughing together while baby Maya giggles",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Maya giggled and clapped her tiny hands. Ravi felt so proud and happy! He had turned everyone's sad feelings into joy. From that day on, Ravi became the family's official silly-face champion!",
+          "illustration": {
+            "description": "A joyful family group hug with everyone smiling warmly. Ravi beams with pride in the center, wearing an imaginary golden crown. Maya reaches her little hands toward Ravi with a big gummy smile. The background shows their home filled with warm golden light and heart shapes floating in the air to show the love.",
+            "alt": "Happy family group hug with proud Ravi wearing an imaginary crown as the silly-face champion",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "problem solving",
+      "emotional intelligence",
+      "helping others"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Ravi feel when Maya was crying?",
+        "choices": [
+          "Happy",
+          "Sad and scared",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ravi felt sad and scared when he heard Maya crying loudly."
+      },
+      {
+        "id": 2,
+        "question": "What did Ravi do to help Maya stop crying?",
+        "choices": [
+          "Gave her a toy",
+          "Made silly faces",
+          "Sang a song"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ravi made silly faces and funny sounds to make Maya laugh."
+      },
+      {
+        "id": 3,
+        "question": "How did Maya react to Ravi's silly face?",
+        "choices": [
+          "She cried more",
+          "She smiled and giggled",
+          "She fell asleep"
+        ],
+        "correctIndex": 1,
+        "explanation": "Maya stopped crying and started to smile and giggle at Ravi's silly face."
+      },
+      {
+        "id": 4,
+        "question": "How did Ravi feel at the end of the story?",
+        "choices": [
+          "Tired",
+          "Proud and happy",
+          "Worried"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ravi felt proud and happy because he helped make everyone laugh and feel better."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Ravi made the _____ face to help Maya stop crying.",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "silliest",
+            "distractors": [
+              "prettiest",
+              "scariest",
+              "biggest"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Maya stopped crying and started to _____ at Ravi's funny sounds.",
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "giggle",
+            "distractors": [
+              "cry",
+              "sleep",
+              "run"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "The whole family felt _____ when they all made silly faces together.",
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "happy",
+            "distractors": [
+              "sad",
+              "angry",
+              "tired"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

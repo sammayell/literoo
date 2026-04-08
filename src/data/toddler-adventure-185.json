@@ -1,0 +1,175 @@
+{
+  "id": "toddler-adventure-185",
+  "title": "Wren's Brave Bedtime Adventure",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "adventure",
+    "bedtime"
+  ],
+  "wordCount": 331,
+  "readingLevel": "1.2",
+  "synopsis": "When Wren discovers her favorite teddy bear is missing at bedtime, she embarks on a brave adventure through her house to find him, overcoming her fears and feeling proud of her courage.",
+  "coverImage": "covers/toddler-adventure-185.webp",
+  "chapters": [
+    {
+      "title": "The Missing Teddy Bear",
+      "pages": [
+        {
+          "text": "Wren was getting ready for bed when she noticed something terrible. Her favorite teddy bear, Mr. Snuggles, was nowhere to be found! She felt scared and sad. 'Where could he be?' she whispered, looking around her cozy bedroom with worried eyes.",
+          "illustration": {
+            "description": "A young Black girl with curly hair in purple pajamas stands in her bedroom looking worried and sad. Her room has a unmade bed with colorful blankets, toys scattered around, and warm yellow lighting from a bedside lamp. The style is bright cartoon with rounded, friendly shapes and slightly textured backgrounds.",
+            "alt": "Wren looking worried in her bedroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Wren's mama came to tuck her in. 'What's wrong, sweetie?' she asked gently. 'Mr. Snuggles is gone!' Wren said, feeling tears in her eyes. Mama hugged her tight. 'Let's think. Where did you play with him today?' Wren remembered playing in the living room and kitchen.",
+          "illustration": {
+            "description": "A warm scene showing Wren being comforted by her mama, a woman with long brown hair wearing a soft green sweater. They're sitting on Wren's bed together, with mama's arm around Wren. The room feels cozy with soft lighting and primary colors throughout.",
+            "alt": "Mama comforting Wren on the bed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Even though it was dark and the house felt big and scary, Wren decided to be brave. 'I need to find Mr. Snuggles,' she said with determination. Mama smiled proudly. 'I'll help you look. You're being so brave!' Together, they turned on the hallway light and began their nighttime adventure.",
+          "illustration": {
+            "description": "Wren and her mama walking down a dimly lit hallway, holding hands. Wren looks determined and brave now instead of scared. The hallway has family photos on the walls and warm lighting. Bold primary colors create a cozy, safe feeling despite the nighttime setting.",
+            "alt": "Wren and mama beginning their search in the hallway",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "First, they searched the living room. Wren looked behind the big blue couch while mama checked under the coffee table. 'Not here,' Wren said, but she didn't give up. Next, they went to the kitchen. Wren was feeling braver with each step, even though the shadows looked scary at first.",
+          "illustration": {
+            "description": "Wren and her mama searching in a cozy living room with a bright blue couch, colorful cushions, and a wooden coffee table. The room has warm lighting and shows a diverse family photo on the side table. The cartoon style emphasizes rounded, friendly furniture shapes.",
+            "alt": "Wren and mama searching the living room",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "In the kitchen, Wren looked in all the places where Mr. Snuggles might be hiding. Under the table, behind the chairs, even in the pantry! Then she had an idea. 'Maybe he's in the laundry room!' She remembered playing house there earlier. Her heart felt hopeful and excited.",
+          "illustration": {
+            "description": "Wren searching through a bright kitchen with yellow cabinets and red accents. She's looking determined and hopeful, checking under a round dining table. Her mama watches supportively. The kitchen feels warm and inviting with construction paper-like textured backgrounds.",
+            "alt": "Wren searching hopefully in the kitchen",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "They hurried to the laundry room, and there he was! Mr. Snuggles was tucked inside the clean laundry basket, all cozy and warm. Wren felt so happy and proud! 'I found him! I was brave and didn't give up!' She hugged Mr. Snuggles tight, feeling safe and loved.",
+          "illustration": {
+            "description": "Wren joyfully hugging her brown teddy bear in a small laundry room with a white washing machine and a basket of colorful clean clothes. Her face shows pure happiness and pride. The scene is bright and cheerful with primary colors and rounded shapes throughout.",
+            "alt": "Wren happily reunited with Mr. Snuggles",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Back in her bedroom, Wren snuggled under her soft blankets with Mr. Snuggles. 'You were so brave tonight,' mama said, giving her a goodnight kiss. Wren smiled sleepily. 'Even when I felt scared, I kept looking. Now we're together again.' She closed her eyes, feeling proud and peaceful.",
+          "illustration": {
+            "description": "A peaceful bedtime scene with Wren tucked into bed holding Mr. Snuggles, both looking content and sleepy. Her mama sits on the bedside giving her a gentle kiss goodnight. The room is softly lit with warm colors, creating a cozy, safe atmosphere for sleep.",
+            "alt": "Wren peacefully going to sleep with Mr. Snuggles",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "courage",
+      "problem-solving",
+      "bedtime routines",
+      "family support",
+      "emotional growth"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Wren feel when she couldn't find Mr. Snuggles?",
+        "choices": [
+          "Happy and excited",
+          "Scared and sad",
+          "Angry and loud"
+        ],
+        "correctIndex": 1,
+        "explanation": "Wren felt scared and sad when she discovered her favorite teddy bear was missing."
+      },
+      {
+        "id": "q2",
+        "question": "Where did Wren and mama find Mr. Snuggles?",
+        "choices": [
+          "Under the couch",
+          "In the laundry basket",
+          "In the kitchen pantry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mr. Snuggles was found tucked inside the clean laundry basket in the laundry room."
+      },
+      {
+        "id": "q3",
+        "question": "What feeling did Wren have when she decided to look for Mr. Snuggles?",
+        "choices": [
+          "She felt brave",
+          "She felt sleepy",
+          "She felt hungry"
+        ],
+        "correctIndex": 0,
+        "explanation": "Even though she was scared at first, Wren decided to be brave and search for her teddy bear."
+      },
+      {
+        "id": "q4",
+        "question": "How did Wren feel at the end of the story?",
+        "choices": [
+          "Still scared and worried",
+          "Proud and peaceful",
+          "Angry and upset"
+        ],
+        "correctIndex": 1,
+        "explanation": "Wren felt proud of being brave and peaceful knowing Mr. Snuggles was safe with her."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Complete the Story",
+        "instruction": "Fill in the missing words to complete Wren's adventure!",
+        "text": "Wren felt {wordIndex: 0} when Mr. Snuggles was missing. But she decided to be {wordIndex: 1} and search for him. She found her teddy bear in the {wordIndex: 2}.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "brave",
+            "distractors": [
+              "loud",
+              "fast"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "laundry basket",
+            "distractors": [
+              "kitchen sink",
+              "toy box"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

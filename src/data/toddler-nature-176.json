@@ -1,0 +1,180 @@
+{
+  "id": "toddler-nature-176",
+  "title": "Enzo's Garden Discovery",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "nature",
+    "school"
+  ],
+  "wordCount": 170,
+  "readingLevel": "1.2",
+  "synopsis": "Enzo feels scared about planting seeds at school until he discovers the joy of helping things grow in the garden with his diverse group of friends.",
+  "coverImage": "covers/toddler-nature-176.webp",
+  "chapters": [
+    {
+      "title": "Scared in the Garden",
+      "pages": [
+        {
+          "text": "Enzo walked into the school garden with his class. The dirt looked messy and the tools looked big. He felt scared and stayed close to his teacher, Miss Rosa.",
+          "illustration": {
+            "description": "A young Hispanic boy with dark hair and brown eyes looking worried, standing close to a kind teacher with curly red hair. Behind them is a school garden with raised beds, gardening tools, and other diverse children exploring. Bright morning sunlight creates cheerful atmosphere despite Enzo's nervous expression.",
+            "alt": "Enzo looking scared in the school garden with his teacher",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I don't want to get dirty,\" Enzo whispered. His friend Zara was already digging in the soil, looking happy. But Enzo felt too scared to join her.",
+          "illustration": {
+            "description": "Enzo standing with arms crossed, looking sad and worried. Nearby, a cheerful Black girl with braided hair is happily digging in dark soil with a small shovel. The garden has colorful raised beds and green plants growing. Enzo's expression shows he wants to join but feels nervous.",
+            "alt": "Enzo feeling scared while Zara happily digs in the garden soil",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Miss Rosa knelt down next to Enzo. \"It's okay to feel scared,\" she said gently. \"Would you like to watch first?\" Enzo nodded and felt a little better.",
+          "illustration": {
+            "description": "A warm scene of Miss Rosa kneeling at Enzo's eye level, her hand gently on his shoulder. Her expression is kind and understanding. Enzo looks slightly less worried, with other children of different ethnicities working happily in the background among green plants and brown soil.",
+            "alt": "Miss Rosa comforting scared Enzo in the garden",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Brave Little Gardener",
+      "pages": [
+        {
+          "text": "Enzo watched his friends plant tiny seeds. Kai showed him a small sunflower seed. \"This will grow big and tall!\" he said with a big smile. Enzo felt curious now.",
+          "illustration": {
+            "description": "An Asian boy with black hair holding a tiny sunflower seed in his palm, grinning excitedly at Enzo. Enzo leans in closer, looking interested and less scared. The background shows other children planting seeds in neat rows, with gardening tools and watering cans scattered around.",
+            "alt": "Kai showing Enzo a sunflower seed while other children plant in the garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Can I try?\" Enzo asked. He felt brave now! Zara helped him make a small hole in the soft dirt. Enzo dropped in his seed very carefully.",
+          "illustration": {
+            "description": "Enzo looking proud and brave as he carefully places a seed into a small hole in the earth. Zara is beside him, smiling encouragingly. His expression has changed from scared to confident. The soil looks rich and dark, with small garden tools nearby and other children working happily in the background.",
+            "alt": "Brave Enzo planting his first seed with Zara's help",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Enzo covered his seed with dirt and gave it water. \"I'm helping it grow!\" he said, feeling very happy. He wasn't scared anymore - he was a brave gardener!",
+          "illustration": {
+            "description": "Enzo beaming with joy and pride, holding a small watering can over his planted seed. Water droplets sparkle in the sunlight. His clothes have a bit of dirt on them but he looks delighted. Around him, all his diverse friends are celebrating, with Miss Rosa clapping in the background among the flourishing garden beds.",
+            "alt": "Happy Enzo watering his planted seed, feeling proud and brave",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "overcoming fears",
+      "friendship",
+      "nature",
+      "school activities",
+      "emotional growth"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Enzo feel when he first saw the garden?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Excited"
+        ],
+        "correctIndex": 1,
+        "explanation": "Enzo felt scared when he first saw the messy dirt and big tools in the garden."
+      },
+      {
+        "id": "q2",
+        "question": "Who helped Enzo plant his seed?",
+        "choices": [
+          "Miss Rosa",
+          "Zara",
+          "Kai"
+        ],
+        "correctIndex": 1,
+        "explanation": "Zara helped Enzo make a hole in the dirt for his seed."
+      },
+      {
+        "id": "q3",
+        "question": "What kind of seed did Kai show Enzo?",
+        "choices": [
+          "Carrot",
+          "Sunflower",
+          "Bean"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kai showed Enzo a small sunflower seed that would grow big and tall."
+      },
+      {
+        "id": "q4",
+        "question": "How did Enzo feel at the end?",
+        "choices": [
+          "Sad",
+          "Scared",
+          "Happy and brave"
+        ],
+        "correctIndex": 2,
+        "explanation": "By the end, Enzo felt happy and brave because he had planted his seed and was helping it grow."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Enzo felt _____ when he first saw the garden, but Miss Rosa helped him feel better.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "excited"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Kai showed Enzo a tiny _____ seed that would grow big and tall.",
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "sunflower",
+            "distractors": [
+              "carrot",
+              "bean"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "At the end, Enzo felt _____ because he was helping his seed grow!",
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "brave",
+            "distractors": [
+              "worried",
+              "sleepy"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

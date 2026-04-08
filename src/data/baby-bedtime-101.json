@@ -1,0 +1,165 @@
+{
+  "id": "baby-bedtime-101",
+  "title": "Emma's Sleepy Stars",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "bedtime",
+    "counting"
+  ],
+  "wordCount": 52,
+  "readingLevel": "0.5",
+  "synopsis": "Sweet baby Emma counts twinkling stars from one to five as she gets ready for bed, with each star making a gentle sound that helps her drift off to sleep in this soothing bedtime counting adventure.",
+  "coverImage": "covers/baby-bedtime-101.webp",
+  "chapters": [
+    {
+      "title": "Counting Stars to Sleep",
+      "pages": [
+        {
+          "text": "Emma sees one star. Twinkle!",
+          "illustration": {
+            "description": "Baby Emma with warm brown skin and soft black curls sits by a large window in cozy yellow pajamas, pointing up at one bright golden star in the deep purple night sky. Her round face shows wonder and delight. The room glows with soft moonlight and gentle lamp warmth.",
+            "alt": "Emma pointing at one twinkling star through her bedroom window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Two stars shine bright. Twinkle, twinkle!",
+          "illustration": {
+            "description": "Emma claps her small hands together with joy as two sparkly silver stars beam down from above. Her dark eyes are wide with excitement. The bedroom has soft mint green walls and a plush white rug. Gentle shadows dance across the peaceful space.",
+            "alt": "Emma clapping as two stars twinkle in the night sky",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Three stars whisper soft. Shh, shh, shh!",
+          "illustration": {
+            "description": "Emma holds her finger to her lips in a gentle shushing motion, mimicking three pale blue stars that seem to whisper in the sky. Her expression is calm and sleepy. Soft lavender curtains frame the window, and a teddy bear sits nearby on the windowsill.",
+            "alt": "Emma shushing with three whispering stars above",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Four stars hum sweet. Mmm, mmm, mmm, mmm!",
+          "illustration": {
+            "description": "Emma's eyes begin to droop as she listens to four rosy pink stars humming their lullaby. She sits cross-legged on a fluffy cream-colored blanket, swaying gently. The room is bathed in warm peach tones, creating a dreamy, sleepy atmosphere.",
+            "alt": "Sleepy Emma listening to four humming stars",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Five stars sing sleepy. La, la, la, la, la!",
+          "illustration": {
+            "description": "Emma yawns widely as five soft coral stars sing their gentle song above. Her eyelids are heavy and peaceful. She's now lying on her side on a cozy bed with pastel rainbow sheets. A diverse family photo sits on the nightstand showing loving faces.",
+            "alt": "Yawning Emma with five singing stars overhead",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Emma counts and yawns. One, two, three, four, five!",
+          "illustration": {
+            "description": "Emma holds up her tiny fingers, counting each star while letting out a big sleepy yawn. All five stars of different pastel colors twinkle together in harmony. Her bedroom is now dimly lit with just the soft starlight and a gentle nightlight shaped like a crescent moon.",
+            "alt": "Emma counting on her fingers with all five stars visible",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Stars say goodnight. Night-night!",
+          "illustration": {
+            "description": "The five stars seem to wave goodbye as they slowly fade to a gentle glow. Emma waves back with a sleepy smile, her other hand rubbing her tired eyes. The stars appear to be tucking themselves behind fluffy white clouds for their own bedtime.",
+            "alt": "Emma and the stars saying goodnight to each other",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Emma sleeps tight. Zzz!",
+          "illustration": {
+            "description": "Emma lies peacefully asleep in her bed, curled up with a soft stuffed elephant. The five stars watch over her like gentle guardians, creating a protective canopy of soft light. Her face is serene and content, with the faintest smile on her lips.",
+            "alt": "Emma sleeping peacefully under the watchful stars",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "counting",
+      "night sky",
+      "peaceful sleep"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How many stars did Emma count?",
+        "choices": [
+          "Three stars",
+          "Five stars"
+        ],
+        "correctIndex": 1,
+        "explanation": "Emma counted five stars: one, two, three, four, five!"
+      },
+      {
+        "id": "q2",
+        "question": "What sound did the stars make?",
+        "choices": [
+          "Twinkle",
+          "Woof"
+        ],
+        "correctIndex": 0,
+        "explanation": "The stars made twinkling sounds: Twinkle, twinkle!"
+      },
+      {
+        "id": "q3",
+        "question": "Where did Emma see the stars?",
+        "choices": [
+          "In her bedroom window",
+          "In the kitchen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emma saw the beautiful stars through her bedroom window before bedtime."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Emma sees one star. ____!",
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "Twinkle",
+            "distractors": [
+              "Bark",
+              "Meow",
+              "Beep"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "____ stars hum sweet. Mmm, mmm, mmm, mmm!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Four",
+            "distractors": [
+              "Two",
+              "Seven",
+              "Ten"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

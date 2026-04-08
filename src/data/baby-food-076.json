@@ -1,0 +1,163 @@
+{
+  "id": "baby-food-076",
+  "title": "Enzo's Hungry Tummy",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "food",
+    "sounds"
+  ],
+  "wordCount": 27,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Enzo explores different foods and the fun sounds they make when he eats them. From crunchy apples to squishy bananas, each bite brings a new delightful sound that babies will love to repeat.",
+  "coverImage": "covers/baby-food-076.webp",
+  "chapters": [
+    {
+      "title": "Enzo's Hungry Tummy",
+      "pages": [
+        {
+          "text": "Enzo's tummy says grumble-rumble!",
+          "illustration": {
+            "description": "A happy Latino toddler boy named Enzo with curly dark hair and bright brown eyes sits in a sunny yellow high chair. He's wearing a soft blue bib and has his hands on his round little tummy, smiling widely. The kitchen background shows warm cream walls with simple wooden shelves.",
+            "alt": "Enzo sits in his high chair touching his tummy",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Apple goes crunch-crunch!",
+          "illustration": {
+            "description": "Enzo holds a bright red apple slice in his small hands, taking a big bite with his few tiny teeth showing. His eyes are wide with delight as apple juice drips down his chin. The background shows a warm kitchen with soft peach tones and a wooden cutting board with more apple slices.",
+            "alt": "Enzo biting into a red apple slice",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Banana goes squish-squash!",
+          "illustration": {
+            "description": "Enzo squeezes a piece of soft yellow banana between his fingers, giggling as it mushes through. His face shows pure joy with banana smeared on his cheeks. A Black woman with natural hair in the background, presumably his caregiver, watches lovingly from the kitchen counter.",
+            "alt": "Enzo squishing banana in his hands",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Crackers go snap-snap!",
+          "illustration": {
+            "description": "Enzo breaks a golden whole grain cracker in half, creating crumbs that fall onto his blue bib. His expression shows concentration and satisfaction. The warm kitchen setting includes a bowl of crackers on a wooden table, with soft afternoon light streaming through a window.",
+            "alt": "Enzo breaking crackers with his hands",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Soup goes slurp-slurp!",
+          "illustration": {
+            "description": "Enzo carefully holds a small spoon with orange soup, bringing it to his mouth with both hands. Some soup drips back into the colorful bowl below. An Asian woman with short black hair sits beside him, helping guide the spoon. The scene has warm orange and yellow tones.",
+            "alt": "Enzo eating soup with a spoon",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Cereal goes munch-munch!",
+          "illustration": {
+            "description": "Enzo picks up small round cereal pieces one by one with his tiny fingers, concentrating on getting them to his mouth. His bowl is light blue with colorful cereal floating in milk. The background shows a cozy breakfast nook with soft morning light and pastel colors.",
+            "alt": "Enzo eating cereal with his fingers",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Water goes glug-glug!",
+          "illustration": {
+            "description": "Enzo tilts back his small sippy cup, drinking water with both hands gripping the handles. Water dribbles down his chin onto his bib. His eyes look upward following the cup, showing his concentration. The background features soft blue tones and a kitchen window with plants.",
+            "alt": "Enzo drinking from his sippy cup",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Now Enzo's tummy says ahhhh!",
+          "illustration": {
+            "description": "A very content Enzo leans back in his high chair with a big satisfied smile, patting his full tummy with both hands. His bib is messy with food remnants, and his face glows with happiness. The diverse family members from previous pages gather around him, all smiling warmly in the cozy kitchen setting.",
+            "alt": "Happy Enzo with full tummy surrounded by family",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "eating",
+      "sounds",
+      "family",
+      "satisfaction"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "What sound does Enzo's apple make?",
+        "choices": [
+          "crunch-crunch",
+          "squish-squash"
+        ],
+        "correctIndex": 0,
+        "explanation": "The apple goes crunch-crunch when Enzo bites it!"
+      },
+      {
+        "id": 2,
+        "question": "What does Enzo drink from?",
+        "choices": [
+          "bottle",
+          "sippy cup"
+        ],
+        "correctIndex": 1,
+        "explanation": "Enzo drinks water from his sippy cup that goes glug-glug!"
+      },
+      {
+        "id": 3,
+        "question": "How does Enzo's tummy feel at the end?",
+        "choices": [
+          "hungry",
+          "happy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Enzo's tummy says ahhhh because he's full and happy!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Apple goes ___-___!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "crunch-crunch",
+            "distractors": [
+              "squish-squash",
+              "snap-snap"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Now Enzo's ___ says ahhhh!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "tummy",
+            "distractors": [
+              "mouth",
+              "hands"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "id": "toddler-humor-067",
+  "title": "Lily's Silly Sock Day",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "humor",
+    "fantasy"
+  ],
+  "wordCount": 166,
+  "readingLevel": "1.2",
+  "synopsis": "When Lily's magical socks start acting up and making her feet do silly things, she feels frustrated and scared. With help from her diverse group of friends at the playground, she learns that sometimes the silliest problems have the happiest solutions.",
+  "coverImage": "covers/toddler-humor-067.webp",
+  "chapters": [
+    {
+      "title": "The Magic Sock Problem",
+      "pages": [
+        {
+          "text": "Lily put on her favorite rainbow socks this morning. But these weren't ordinary socks - they were magic! As soon as she stepped outside, her feet started doing funny dances all by themselves. \"Oh no!\" said Lily, feeling worried. \"My socks won't stop dancing!\"",
+          "illustration": {
+            "description": "A young Black girl with curly hair in two puff ponytails, wearing a bright yellow dress and rainbow-striped socks, standing on a front porch with her feet in an silly dance position. Her expression shows surprise and worry. The background shows a cheerful neighborhood with colorful houses and a blue sky. Bright cartoon style with bold primary colors and rounded, friendly shapes.",
+            "alt": "Lily looking worried as her rainbow socks make her feet dance",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "At the playground, Lily's magical socks made her hop like a bunny to the swings. Her friend Marcus, who uses a wheelchair, started giggling. \"You look so silly, Lily!\" he said. But Lily felt embarrassed and a little scared. \"I can't control my feet!\" she said sadly.",
+          "illustration": {
+            "description": "A playground scene with Lily mid-hop near colorful swings, looking embarrassed with rosy cheeks. Marcus, a Latino boy with short dark hair in a red wheelchair, is laughing happily nearby. Other diverse children are playing in the background. The playground has bright blue slides and green grass, with a sunny yellow sky and fluffy white clouds.",
+            "alt": "Lily hopping uncontrollably while Marcus laughs at the playground",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Lily's friend Zara, who had beautiful braids, came over with an idea. \"What if we all dance silly together?\" she suggested. Soon, Marcus was spinning his wheelchair in circles, Zara was doing jumping jacks, and even shy Ben was wiggling like a worm. Lily felt so happy! \"My magic socks aren't scary anymore - they're fun!\" she laughed. Everyone danced together, and Lily learned that being different can be the best part of being brave.",
+          "illustration": {
+            "description": "All four children dancing joyfully together on the playground. Lily is in the center with her rainbow socks, arms raised in celebration with a huge smile. Zara, a girl with intricate braids and a purple shirt, is doing jumping jacks. Marcus is spinning his wheelchair with his arms up happily. Ben, an Asian boy with glasses and a green shirt, is wiggling on the ground. The scene is filled with movement lines and sparkles, showing pure joy and friendship.",
+            "alt": "All the children dancing happily together, with Lily feeling brave and joyful",
+            "layout": "full"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "acceptance",
+      "embracing differences",
+      "courage"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Lily feel when her socks started dancing?",
+        "choices": [
+          "Happy and excited",
+          "Worried and scared",
+          "Angry and mad"
+        ],
+        "correctIndex": 1,
+        "explanation": "Lily felt worried and scared because she couldn't control her dancing feet."
+      },
+      {
+        "id": 2,
+        "question": "What did Zara suggest to help Lily?",
+        "choices": [
+          "Take off the socks",
+          "Dance silly together",
+          "Go home"
+        ],
+        "correctIndex": 1,
+        "explanation": "Zara had the great idea for everyone to dance silly together so Lily wouldn't feel alone."
+      },
+      {
+        "id": 3,
+        "question": "How did Lily feel at the end of the story?",
+        "choices": [
+          "Still scared",
+          "Happy and brave",
+          "Tired and sleepy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Lily felt happy and brave when she realized her magic socks could be fun with friends."
+      },
+      {
+        "id": 4,
+        "question": "What color were Lily's special socks?",
+        "choices": [
+          "Blue",
+          "Rainbow colors",
+          "Red"
+        ],
+        "correctIndex": 1,
+        "explanation": "Lily wore her favorite rainbow socks that were magical."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Lily put on her favorite _____ socks this morning. But these weren't ordinary socks - they were _____!",
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "rainbow",
+            "distractors": [
+              "purple",
+              "polka-dot"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "magic",
+            "distractors": [
+              "silly",
+              "big"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Lily felt _____ when her socks made her dance. But with her friends, she felt _____ and brave!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "scared",
+            "distractors": [
+              "sleepy",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "happy",
+            "distractors": [
+              "tired",
+              "cold"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

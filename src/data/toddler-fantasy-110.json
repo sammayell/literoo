@@ -1,0 +1,189 @@
+{
+  "id": "toddler-fantasy-110",
+  "title": "Kofi and the Magic Star",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "fantasy",
+    "friendship"
+  ],
+  "wordCount": 207,
+  "readingLevel": "1.2",
+  "synopsis": "When young Kofi finds a sad, lost star that has fallen from the sky, he embarks on a magical journey with his diverse group of friends to help the star return home, learning about kindness and friendship along the way.",
+  "coverImage": "covers/toddler-fantasy-110.webp",
+  "chapters": [
+    {
+      "title": "The Fallen Star",
+      "pages": [
+        {
+          "text": "Kofi was playing in his backyard when he saw something sparkle behind the big oak tree. He felt curious and excited as he walked closer to see what it was.",
+          "illustration": {
+            "description": "A young Black boy with short curly hair wearing a bright blue t-shirt and red shorts, walking excitedly toward a large oak tree. Golden sparkles shimmer behind the tree trunk. The backyard has green grass and colorful flowers, with a cheerful sunny sky above. Kofi's face shows wonder and curiosity.",
+            "alt": "Kofi walking toward sparkling light behind a tree",
+            "layout": "landscape"
+          }
+        },
+        {
+          "text": "There, sitting on the soft grass, was a small golden star! But the star looked very sad. Its light was dim, and tiny tears sparkled on its points. 'What's wrong?' asked Kofi gently.",
+          "illustration": {
+            "description": "Kofi kneeling down next to a small golden star sitting on green grass. The star has a sweet face with droopy eyes and silver tear drops on its pointed edges. Kofi reaches out his hand with a caring expression. Soft sunlight filters through tree leaves above them, creating dappled shadows.",
+            "alt": "Kofi comforting a sad little star on the grass",
+            "layout": "portrait"
+          }
+        },
+        {
+          "text": "The star sniffled softly. 'I fell from the sky last night, and now I can't find my way back home to my star family. I'm scared and lonely,' the star whispered.",
+          "illustration": {
+            "description": "Close-up of the golden star with a worried expression, looking up at the night sky visible through the tree branches. Twinkling stars can be seen far above in the dark blue sky. Kofi sits beside the star with a thoughtful, empathetic expression on his face.",
+            "alt": "The star looking up at the night sky, feeling lost",
+            "layout": "portrait"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Friends Help Friends",
+      "pages": [
+        {
+          "text": "Kofi felt brave and wanted to help his new friend. 'Don't worry! I'll help you get home,' he said. He called to his friends Maya and Chen, who were playing nearby. They all felt excited to help!",
+          "illustration": {
+            "description": "Kofi standing confidently with his arms spread wide, smiling brightly. A girl with brown skin and braided hair (Maya) and an Asian boy with black hair (Chen) run toward them across the green yard. The golden star looks hopeful now, with a small smile and brighter glow. Colorful playground equipment is visible in the background.",
+            "alt": "Kofi and his friends gathering to help the star",
+            "layout": "landscape"
+          }
+        },
+        {
+          "text": "Together, the three friends held the star gently. They closed their eyes tight and wished very hard. 'We wish for our star friend to go home!' they said together. Magic sparkles began to dance around them!",
+          "illustration": {
+            "description": "The three children standing in a circle, holding the glowing star together above their heads. Their eyes are closed in concentration. Swirling golden and silver magical sparkles surround them, creating streams of light that spiral upward. Their faces show determination and hope. The background glows with warm magical light.",
+            "alt": "Children wishing together as magic sparkles surround them",
+            "layout": "landscape"
+          }
+        },
+        {
+          "text": "The magic worked! The star began to float up, up, up toward the sky. It was happy and bright again! 'Thank you, friends!' called the star. The children felt proud and happy as they watched their friend go home safely.",
+          "illustration": {
+            "description": "The golden star floating high in the twilight sky, now brilliantly glowing with joy. Below, Kofi, Maya, and Chen wave goodbye with big smiles on their faces. The star's trail creates a beautiful arc of golden light across the purple and pink sunset sky. Other stars twinkle welcomingly in the distance.",
+            "alt": "The happy star floating back to the sky while children wave goodbye",
+            "layout": "portrait"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "helping others",
+      "kindness",
+      "bravery",
+      "magic"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Kofi feel when he first saw the sparkle?",
+        "choices": [
+          "Scared",
+          "Curious and excited",
+          "Sad"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kofi felt curious and excited when he saw the sparkle behind the tree!"
+      },
+      {
+        "id": "q2",
+        "question": "Why was the star sad?",
+        "choices": [
+          "It was hungry",
+          "It fell from the sky and couldn't get home",
+          "It lost its toys"
+        ],
+        "correctIndex": 1,
+        "explanation": "The star was sad because it fell from the sky and couldn't find its way back to its star family."
+      },
+      {
+        "id": "q3",
+        "question": "How did the children help the star?",
+        "choices": [
+          "They gave it food",
+          "They held it and wished together",
+          "They called its parents"
+        ],
+        "correctIndex": 1,
+        "explanation": "The children held the star together and made a wish to help it go home."
+      },
+      {
+        "id": "q4",
+        "question": "How did everyone feel at the end?",
+        "choices": [
+          "Tired",
+          "Happy and proud",
+          "Worried"
+        ],
+        "correctIndex": 1,
+        "explanation": "The star was happy to go home, and the children felt proud and happy for helping their friend."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words!",
+        "text": "Kofi saw something _____ behind the tree. The little star was very _____ because it couldn't find its way home.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "sparkle",
+            "distractors": [
+              "jump",
+              "hide",
+              "sleep"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "sad",
+            "distractors": [
+              "hungry",
+              "loud",
+              "green"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Complete the Story!",
+        "text": "Kofi felt _____ and wanted to help. His friends Maya and Chen came to help too. Together they made a _____ to send the star home!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "brave",
+            "distractors": [
+              "sleepy",
+              "angry",
+              "cold"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "wish",
+            "distractors": [
+              "cake",
+              "house",
+              "book"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

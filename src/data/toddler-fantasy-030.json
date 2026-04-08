@@ -1,0 +1,211 @@
+{
+  "id": "toddler-fantasy-030",
+  "title": "Atlas and the Shy Dragon",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "fantasy",
+    "friendship"
+  ],
+  "wordCount": 319,
+  "readingLevel": "1.2",
+  "synopsis": "Atlas, a curious young boy with dark skin and bright eyes, discovers a small purple dragon hiding in the forest who is too scared to play with other magical creatures. Through kindness and patience, Atlas helps the dragon overcome his fear and make new friends.",
+  "coverImage": "covers/toddler-fantasy-030.webp",
+  "chapters": [
+    {
+      "title": "The Hidden Dragon",
+      "pages": [
+        {
+          "text": "Atlas loved exploring the magical forest near his home. He had dark brown skin that sparkled in the sunlight, and his eyes were full of wonder. Today, Atlas heard a tiny whimper coming from behind a big mushroom. 'Hello?' Atlas called softly. 'Are you okay?'",
+          "illustration": {
+            "description": "Atlas, a 4-year-old boy with dark brown skin, curly black hair, and bright curious eyes, wearing a green adventure vest and brown shorts, stands in a magical forest with giant spotted mushrooms. Colorful flowers dot the ground and sparkly trees surround him. His expression shows gentle concern as he looks toward a large red mushroom. The scene is bathed in warm golden sunlight filtering through the trees.",
+            "alt": "Atlas exploring a magical forest with giant mushrooms",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A tiny purple dragon peeked out from behind the mushroom. He had tears in his big green eyes. 'I'm scared,' whispered the dragon. 'The other magical creatures want to play, but I'm too shy.' Atlas felt sad for the little dragon. He sat down slowly and smiled his warmest smile.",
+          "illustration": {
+            "description": "A small purple dragon with shimmering scales, big teardrop-shaped green eyes, and tiny wings crouches behind a spotted red mushroom. The dragon looks scared but curious, peeking at Atlas who sits cross-legged on the forest floor with a gentle, understanding smile. Soft rays of light create a cozy atmosphere, with textured moss and small flowers scattered around them.",
+            "alt": "A shy purple dragon hiding behind a mushroom while Atlas sits nearby",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Being shy is okay,' Atlas said kindly. 'My name is Atlas. What's your name?' 'I'm Pip,' said the dragon in a tiny voice. Atlas could see that Pip was scared but wanted to be brave. 'Would you like to be friends, Pip? We can take things slow.' Pip's eyes lit up with a little spark of hope.",
+          "illustration": {
+            "description": "Atlas extends his hand gently toward Pip the purple dragon. The dragon is slightly less hidden now, showing his full small body with delicate wings and a long curvy tail. Both characters face each other with warm expressions - Atlas patient and encouraging, Pip cautious but hopeful. The background shows the magical forest with soft purples and greens, creating a peaceful, safe feeling.",
+            "alt": "Atlas reaching out to befriend the purple dragon Pip",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Atlas and Pip spent the morning together. They picked magical berries and watched butterflies with rainbow wings. Slowly, Pip felt less scared. When a friendly blue rabbit hopped by, Atlas introduced them. 'This is my friend Pip,' Atlas said proudly. Pip felt brave enough to wave with his tiny wing.",
+          "illustration": {
+            "description": "Atlas and Pip sit together picking glowing blue berries from a low bush while rainbow-colored butterflies flutter around them. A cheerful blue rabbit with pink inner ears approaches, smiling widely. Pip, now more confident, waves his small purple wing while Atlas grins with pride. The scene is filled with magical elements like floating sparkles and colorful flowers in bright primary colors.",
+            "alt": "Atlas, Pip, and a blue rabbit sharing a magical moment in the forest",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Soon, more magical friends joined them - a yellow fox, a pink owl, and twin green frogs. Pip was nervous at first, but Atlas stayed close. 'You're doing great, Pip!' Atlas whispered. The dragon felt happy and brave. He discovered that making friends wasn't so scary after all, especially with a good friend like Atlas by his side.",
+          "illustration": {
+            "description": "A joyful group scene showing Atlas in the center with Pip the purple dragon perched on his shoulder. Around them are diverse magical creatures: a bright yellow fox, a fluffy pink owl, and two identical green frogs. All characters have big smiles and expressive eyes. The setting is a sunny forest clearing with wildflowers and magical sparkles in the air, creating a celebration of friendship.",
+            "alt": "Atlas, Pip, and all their new magical friends together in the forest",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "As the sun began to set, Pip hugged Atlas with his little wings. 'Thank you for helping me be brave,' Pip said happily. 'Thank you for being my friend.' Atlas felt warm and proud inside. He learned that being kind and patient can help scared friends feel brave. The magical forest was even more wonderful when shared with friends.",
+          "illustration": {
+            "description": "Atlas and Pip embrace in a gentle hug as the golden sunset streams through the magical forest trees. Atlas has a proud, content smile while Pip wraps his tiny purple wings around Atlas's neck, both looking happy and peaceful. The background shows a warm orange and pink sky through the trees, with magical creatures visible in the distance, all rendered in soft, comforting colors.",
+            "alt": "Atlas and Pip hugging as friends at sunset in the magical forest",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "overcoming shyness",
+      "kindness",
+      "patience",
+      "bravery"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Pip the dragon feel at the beginning?",
+        "choices": [
+          "Happy and excited",
+          "Scared and shy",
+          "Angry and loud"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pip was scared and shy. He was hiding behind a mushroom and had tears in his eyes because he was too afraid to play with other creatures."
+      },
+      {
+        "id": "q2",
+        "question": "What did Atlas do to help Pip feel better?",
+        "choices": [
+          "He told Pip to go away",
+          "He was kind and patient",
+          "He ran away quickly"
+        ],
+        "correctIndex": 1,
+        "explanation": "Atlas was kind and patient with Pip. He sat down slowly, smiled warmly, and told Pip that being shy was okay."
+      },
+      {
+        "id": "q3",
+        "question": "How did Pip feel at the end of the story?",
+        "choices": [
+          "Still very scared",
+          "Happy and brave",
+          "Angry and upset"
+        ],
+        "correctIndex": 1,
+        "explanation": "By the end, Pip felt happy and brave. He made new friends and thanked Atlas for helping him overcome his fear."
+      },
+      {
+        "id": "q4",
+        "question": "What did Atlas learn in the story?",
+        "choices": [
+          "Dragons are mean",
+          "Being kind helps scared friends feel brave",
+          "Magic isn't real"
+        ],
+        "correctIndex": 1,
+        "explanation": "Atlas learned that being kind and patient can help scared friends feel brave, just like he helped Pip overcome his shyness."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Complete the Friendship Story",
+        "text": "Atlas found a tiny purple [0] hiding behind a big mushroom. The dragon was [1] and didn't want to play. Atlas was [2] and helped Pip feel brave. Soon they became the best of [3]!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "dragon",
+            "distractors": [
+              "butterfly",
+              "rabbit",
+              "flower"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "loud",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "kind",
+            "distractors": [
+              "mean",
+              "fast",
+              "tall"
+            ]
+          },
+          {
+            "wordIndex": 3,
+            "correctWord": "friends",
+            "distractors": [
+              "enemies",
+              "food",
+              "toys"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Feeling Words",
+        "text": "When Pip was hiding, he felt [0]. When Atlas smiled at him, Pip felt [1]. At the end when they hugged, both friends felt [2] and proud!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "shy",
+            "distractors": [
+              "excited",
+              "angry",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "hopeful",
+            "distractors": [
+              "scared",
+              "angry",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "happy",
+            "distractors": [
+              "sad",
+              "scared",
+              "angry"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

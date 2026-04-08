@@ -1,0 +1,171 @@
+{
+  "id": "baby-animals-072",
+  "title": "Arjun's Happy Animal Sounds",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "animals",
+    "feelings"
+  ],
+  "wordCount": 48,
+  "readingLevel": "0.5",
+  "synopsis": "Little Arjun discovers different animals and the happy sounds they make, from chirping birds to roaring lions. Each animal brings joy and wonder as Arjun mimics their sounds with delight.",
+  "coverImage": "covers/baby-animals-072.webp",
+  "chapters": [
+    {
+      "title": "Happy Animal Sounds",
+      "pages": [
+        {
+          "text": "Arjun hears sounds. Tweet tweet!",
+          "illustration": {
+            "description": "A cheerful toddler boy with warm brown skin and dark curly hair sits in a sunny garden. Arjun wears a soft yellow shirt and has bright, curious eyes looking up at colorful birds in a tree. The background features gentle pastel green grass and blue sky with fluffy white clouds.",
+            "alt": "Arjun looking up at birds in a tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Happy bird sings. Arjun smiles!",
+          "illustration": {
+            "description": "A bright blue and yellow bird perches on a low branch near Arjun. The bird has large, friendly eyes and an open beak as if singing. Arjun's face shows pure joy with a wide smile and sparkling eyes. Soft watercolor flowers bloom around them in pink and purple hues.",
+            "alt": "Colorful bird singing while Arjun smiles happily",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Arjun hears sounds. Moo moo!",
+          "illustration": {
+            "description": "Arjun stands by a wooden fence looking at a gentle brown and white cow in a green meadow. The cow has kind, large eyes and spots in warm brown tones. Arjun reaches his small hand toward the fence, his expression filled with wonder and excitement.",
+            "alt": "Arjun looking at a friendly cow by a fence",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Happy cow calls. Arjun laughs!",
+          "illustration": {
+            "description": "The cow leans closer to the fence with its mouth open in a friendly moo. Arjun giggles with his head tilted back, hands clapping together. The scene is bathed in warm golden sunlight with soft green grass and wildflowers scattered around.",
+            "alt": "Cow mooing while Arjun laughs and claps",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Arjun hears sounds. Woof woof!",
+          "illustration": {
+            "description": "A fluffy golden puppy with floppy ears and a wagging tail sits near Arjun in a cozy backyard. Arjun kneels on soft grass, reaching out to pet the puppy. Both have joyful expressions, with the puppy's tongue hanging out happily.",
+            "alt": "Arjun kneeling next to a friendly golden puppy",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Happy puppy barks. Arjun claps!",
+          "illustration": {
+            "description": "The puppy playfully barks with its head raised, while Arjun sits cross-legged clapping his hands with delight. His eyes crinkle with joy and his mouth is open in laughter. The background shows a simple fence and blooming flowers in soft pastels.",
+            "alt": "Puppy barking while Arjun claps with joy",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Arjun hears sounds. Roar roar!",
+          "illustration": {
+            "description": "At a petting zoo, Arjun looks through safe wooden railings at a gentle lion with a magnificent golden mane. The lion sits peacefully with kind eyes. Arjun's parents, a woman in a purple sari and a man in casual clothes, stand behind him smiling.",
+            "alt": "Arjun and his parents watching a lion at the zoo",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Happy lion roars. Arjun dances!",
+          "illustration": {
+            "description": "The lion opens its mouth in a gentle roar while Arjun bounces on his toes with arms raised high in pure joy. His parents laugh warmly behind him. The scene is filled with golden afternoon light and the zoo setting has colorful banners and happy diverse families in the background.",
+            "alt": "Lion roaring while Arjun dances happily with his parents",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Animals make Arjun happy. He loves all sounds!",
+          "illustration": {
+            "description": "Arjun sits in the center surrounded by all the animals from the story - the bird, cow, puppy, and lion - all drawn in a dreamy, gentle style. Arjun has his arms spread wide with the biggest smile, and musical notes float around them. The background is a soft rainbow of pastel colors.",
+            "alt": "Arjun surrounded by all the happy animals with musical notes",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "animal sounds",
+      "joy",
+      "discovery",
+      "nature"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "What sound does the bird make?",
+        "choices": [
+          "Tweet tweet",
+          "Moo moo"
+        ],
+        "correctIndex": 0,
+        "explanation": "Birds make tweet tweet sounds when they sing!"
+      },
+      {
+        "id": 2,
+        "question": "Which animal says moo?",
+        "choices": [
+          "Puppy",
+          "Cow"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cows say moo moo in the field!"
+      },
+      {
+        "id": 3,
+        "question": "How does Arjun feel about the animals?",
+        "choices": [
+          "Happy",
+          "Sad"
+        ],
+        "correctIndex": 0,
+        "explanation": "Arjun smiles, laughs, and dances - he's very happy!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Happy bird ___. Arjun smiles!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "sings",
+            "distractors": [
+              "jumps",
+              "sleeps"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Happy ___ calls. Arjun laughs!",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "cow",
+            "distractors": [
+              "cat",
+              "car"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

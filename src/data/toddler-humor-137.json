@@ -1,0 +1,170 @@
+{
+  "id": "toddler-humor-137",
+  "title": "Ada's Magical Mix-Up",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "humor",
+    "fantasy"
+  ],
+  "wordCount": 209,
+  "readingLevel": "1.2",
+  "synopsis": "When little Ada finds a magical wand in her garden, her spells don't work quite right! With help from her diverse group of friends, Ada learns that mistakes can be funny and that being brave means trying again.",
+  "coverImage": "covers/toddler-humor-137.webp",
+  "chapters": [
+    {
+      "title": "Ada's Magic Adventure",
+      "pages": [
+        {
+          "text": "Ada loved playing in her backyard garden. One sunny morning, she found something sparkly hiding under the big sunflower. It was a tiny purple wand with golden stars! \"Wow!\" said Ada, feeling very excited and happy. She picked up the wand and waved it around.",
+          "illustration": {
+            "description": "A cheerful Black girl with curly hair in two puffs, wearing a bright yellow dress, kneeling in a colorful garden. She's holding a small purple wand with golden stars, looking amazed and delighted. Tall sunflowers, red roses, and green plants surround her. The background has a construction paper texture with warm, sunny colors.",
+            "alt": "Ada discovering the magical wand in her garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I'll make magic flowers!\" Ada said bravely. She pointed the wand at her mom's roses and said, \"Abracadabra!\" POOF! Purple smoke appeared, but instead of pretty flowers, the roses turned into... socks! Red striped socks growing on stems! Ada felt confused and a little sad. \"That's not right,\" she said.",
+          "illustration": {
+            "description": "Ada standing with her magic wand pointed at rose bushes that have transformed into colorful striped socks hanging from green stems. Purple sparkly smoke swirls around. Ada looks puzzled with wide eyes and a slight frown. The garden setting is bright and whimsical with a textured background in warm colors.",
+            "alt": "Ada's magic turning roses into socks",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Ada's friends came to play. There was Marcus with his dark skin and big smile, Jin with her straight black hair, and Sam with freckles and red curls. They all started laughing when they saw the sock flowers. \"Try again!\" said Marcus happily. \"Magic is tricky!\" giggled Jin. Ada felt brave again with her friends cheering her on.",
+          "illustration": {
+            "description": "Four diverse children standing together in the garden, all laughing and pointing at the sock flowers. Marcus is a Black boy in a blue shirt, Jin is an Asian girl in a green dress, and Sam has red curly hair and freckles wearing purple overalls. They all have big, joyful expressions with rosy cheeks and bright smiles.",
+            "alt": "Ada's diverse group of friends laughing at the magical mix-up",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "This time, Ada tried to make butterflies. \"Alakazoo!\" she shouted, waving the wand at the sky. POOF! Instead of butterflies, it started raining jellybeans! Red, blue, yellow, and green jellybeans fell from the clouds. All the children danced around, catching jellybeans and laughing. Ada felt so happy and proud. Sometimes magic mistakes are the most fun!",
+          "illustration": {
+            "description": "All four children dancing joyfully in the garden as colorful jellybeans rain down from fluffy white clouds above. Their arms are raised up, faces tilted toward the sky with huge smiles. Bright jellybeans in primary colors fill the air. The scene is vibrant and celebratory with a textured, cheerful background.",
+            "alt": "Children dancing in a rain of colorful jellybeans",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "trying again",
+      "accepting mistakes",
+      "magic and wonder",
+      "diversity"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Ada find in her garden?",
+        "choices": [
+          "A purple wand",
+          "A red flower",
+          "A yellow ball"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ada found a tiny purple wand with golden stars under the sunflower!"
+      },
+      {
+        "id": "q2",
+        "question": "What happened when Ada tried to make magic flowers?",
+        "choices": [
+          "Pretty roses grew",
+          "The roses turned into socks",
+          "Nothing happened"
+        ],
+        "correctIndex": 1,
+        "explanation": "The roses turned into red striped socks growing on stems!"
+      },
+      {
+        "id": "q3",
+        "question": "How did Ada feel when her friends came to help?",
+        "choices": [
+          "Scared",
+          "Angry",
+          "Brave"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ada felt brave again when her friends cheered her on and encouraged her to try again!"
+      },
+      {
+        "id": "q4",
+        "question": "What rained from the sky at the end?",
+        "choices": [
+          "Water drops",
+          "Jellybeans",
+          "Flower petals"
+        ],
+        "correctIndex": 1,
+        "explanation": "Colorful jellybeans rained from the clouds when Ada tried to make butterflies!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Ada found a _____ wand with golden _____. She felt very _____ and excited!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "purple",
+            "distractors": [
+              "green",
+              "orange"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "stars",
+            "distractors": [
+              "circles",
+              "hearts"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "happy",
+            "distractors": [
+              "sad",
+              "angry"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Ada's _____ friends came to play. They made her feel _____ to try magic again!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "three",
+            "distractors": [
+              "two",
+              "four"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "brave",
+            "distractors": [
+              "scared",
+              "tired"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "id": "baby-animals-112",
+  "title": "Diego's Animal Friends",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "animals",
+    "feelings"
+  ],
+  "wordCount": 58,
+  "readingLevel": "0.5",
+  "synopsis": "Little Diego discovers different animal friends and the happy sounds they make, learning about friendship and joy through gentle encounters with a puppy, kitten, duckling, and bunny in his neighborhood.",
+  "coverImage": "covers/baby-animals-112.webp",
+  "chapters": [
+    {
+      "title": "Diego Meets Animal Friends",
+      "pages": [
+        {
+          "text": "Diego sees a puppy. Woof, woof!",
+          "illustration": {
+            "description": "A smiling toddler boy with dark curly hair and warm brown skin wearing a bright yellow shirt sits on soft green grass. A fluffy golden puppy with a wagging tail approaches him with tongue out. The background shows a sunny park with pastel blue sky and simple white clouds.",
+            "alt": "Diego meeting a friendly golden puppy in the park",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Diego feels happy. The puppy feels happy too!",
+          "illustration": {
+            "description": "Diego giggling with outstretched arms while the golden puppy jumps up playfully toward him. Both have joyful expressions with Diego's eyes crinkled in delight. Soft watercolor style with warm yellows and oranges surrounding them, creating a glowing happy mood.",
+            "alt": "Diego and the puppy playing happily together",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Diego sees a kitten. Meow, meow!",
+          "illustration": {
+            "description": "Diego crouches down with gentle hands extended toward a small orange tabby kitten with white paws. The kitten sits on a soft pink blanket under a flowering tree with pale purple blossoms. Diego's expression is tender and curious, matching the kitten's calm demeanor.",
+            "alt": "Diego gently approaching a small orange kitten",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Diego feels gentle. The kitten feels gentle too!",
+          "illustration": {
+            "description": "Diego softly petting the purring kitten, both with peaceful, content expressions. The kitten's eyes are half-closed in bliss while Diego smiles sweetly. Soft pastel colors in lavender and peach tones create a calm, soothing atmosphere with rounded, cloud-like shapes in the background.",
+            "alt": "Diego gently petting the content kitten",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Diego sees a duckling. Quack, quack!",
+          "illustration": {
+            "description": "Diego kneels by a small pond with lily pads, watching a bright yellow duckling paddle in the clear blue water. Diego wears a soft blue shirt and points excitedly at the duckling. Water ripples create gentle circles around the duckling, with green reeds swaying nearby.",
+            "alt": "Diego watching a yellow duckling swim in a pond",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Diego feels excited. The duckling feels excited too!",
+          "illustration": {
+            "description": "Diego clapping his hands with wide, bright eyes while the duckling flaps its tiny wings on the water. Both show animated, joyful expressions with the duckling creating little splashes. Vibrant yellows and blues dominate with sparkles of light reflecting off the water.",
+            "alt": "Diego and the duckling both showing excitement",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Diego sees a bunny. Hop, hop!",
+          "illustration": {
+            "description": "Diego sits cross-legged in a garden with colorful flowers as a white bunny with pink inner ears hops nearby. Diego's hands rest gently on his knees, watching with wonder. Soft pastel flowers in pink, purple, and white create a dreamy garden setting with rounded, friendly shapes.",
+            "alt": "Diego watching a white bunny hop in a flower garden",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Diego feels loved. All his animal friends feel loved too!",
+          "illustration": {
+            "description": "Diego surrounded by all his animal friends - the golden puppy, orange kitten, yellow duckling, and white bunny - all gathered close to him in a group hug. Everyone has content, loving expressions with soft pink and golden light creating a warm, embracing glow around the entire group.",
+            "alt": "Diego surrounded by all his happy animal friends",
+            "layout": "full_page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "emotions",
+      "animals",
+      "joy"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does the puppy make?",
+        "choices": [
+          "Woof, woof!",
+          "Meow, meow!"
+        ],
+        "correctIndex": 0,
+        "explanation": "Puppies say 'Woof, woof!' when they bark."
+      },
+      {
+        "id": "q2",
+        "question": "Which animal hops?",
+        "choices": [
+          "Kitten",
+          "Bunny"
+        ],
+        "correctIndex": 1,
+        "explanation": "The bunny goes 'Hop, hop!' as it moves around."
+      },
+      {
+        "id": "q3",
+        "question": "How does Diego feel with his animal friends?",
+        "choices": [
+          "Sad",
+          "Happy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Diego feels happy, gentle, excited, and loved with his animal friends."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Diego sees a _____. Woof, woof!",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "puppy",
+            "distractors": [
+              "kitten",
+              "bunny"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Diego sees a duckling. _____, _____!",
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "Quack",
+            "distractors": [
+              "Meow",
+              "Woof"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

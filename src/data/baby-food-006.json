@@ -1,0 +1,165 @@
+{
+  "id": "baby-food-006",
+  "title": "Kai's Kitchen Sounds",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "food",
+    "sounds"
+  ],
+  "wordCount": 40,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Kai explores the kitchen with his mama, discovering delicious foods and the fun sounds they make when cooking and eating together.",
+  "coverImage": "covers/baby-food-006.webp",
+  "chapters": [
+    {
+      "title": "Kai's Kitchen Sounds",
+      "pages": [
+        {
+          "text": "Kai is hungry! Time to cook.",
+          "illustration": {
+            "description": "A happy baby boy Kai with dark hair and brown skin sits in a wooden high chair, clapping his hands with joy. His mama, a woman with long black hair and warm brown skin wearing a soft yellow apron, stands beside him in a bright, cozy kitchen. Pastel green cabinets and white countertops create a gentle backdrop.",
+            "alt": "Baby Kai in high chair with mama in kitchen",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Crack! Crack! Go the eggs.",
+          "illustration": {
+            "description": "Mama's hands crack two white eggs into a pale blue ceramic bowl on the counter. Golden yolks splash gently as Kai watches with wide, curious dark eyes from his high chair. Soft morning light streams through a window, casting warm shadows on the cream-colored walls.",
+            "alt": "Eggs cracking into bowl while Kai watches",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sizzle! Sizzle! In the pan.",
+          "illustration": {
+            "description": "A light pink non-stick pan sits on the stove with fluffy yellow scrambled eggs bubbling and sizzling. Steam rises in gentle white wisps while Kai points excitedly from his chair, his mouth forming a little 'o' of wonder. The kitchen backsplash features soft sage green tiles.",
+            "alt": "Eggs sizzling in pan as Kai points",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Toast pops up! Pop! Pop!",
+          "illustration": {
+            "description": "A cheerful mint green toaster sits on the counter as two golden-brown pieces of toast spring up with visible motion lines. Kai's arms are raised up high in delight, mimicking the popping motion. His mama smiles warmly while buttering the warm toast on a soft lavender plate.",
+            "alt": "Toast popping up from toaster with excited Kai",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Banana goes squish! Squish!",
+          "illustration": {
+            "description": "Mama mashes a ripe yellow banana with a white plastic masher in a small coral-colored bowl. Kai watches intently as the banana becomes creamy and smooth. Tiny pieces of banana are scattered on his high chair tray, and his chubby fingers reach toward the bowl eagerly.",
+            "alt": "Mama mashing banana while Kai reaches for it",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Yum! Yum! Kai eats up.",
+          "illustration": {
+            "description": "Kai sits contentedly in his high chair with banana smeared on his cheeks and fingers, taking a big bite of soft scrambled eggs. His eyes sparkle with joy as he chews. A sippy cup with a soft blue handle sits nearby, and mama watches lovingly from behind.",
+            "alt": "Kai eating eggs and banana messily but happily",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Gulp! Gulp! Milk is good.",
+          "illustration": {
+            "description": "Kai tilts his pale blue sippy cup up high, drinking milk with both hands gripping the handles. A thin white mustache appears on his upper lip as he drinks contentedly. His mama gently wipes his face with a soft white cloth, both looking peaceful and satisfied.",
+            "alt": "Kai drinking from sippy cup with milk mustache",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Pat! Pat! Full belly happy.",
+          "illustration": {
+            "description": "Mama gently pats Kai's round little tummy as he sits back in his high chair with a sleepy, satisfied smile. His arms are relaxed at his sides and his eyes are becoming droopy. The kitchen behind them is softly lit with warm golden light, creating a peaceful, nurturing atmosphere.",
+            "alt": "Mama patting Kai's full belly as he looks sleepy and content",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "mealtime",
+      "sensory exploration",
+      "kitchen sounds"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound do the eggs make?",
+        "choices": [
+          "Sizzle! Sizzle!",
+          "Pop! Pop!"
+        ],
+        "correctIndex": 0,
+        "explanation": "The eggs go 'Sizzle! Sizzle!' in the pan when mama cooks them."
+      },
+      {
+        "id": "q2",
+        "question": "What does Kai drink?",
+        "choices": [
+          "Juice",
+          "Milk"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kai drinks milk from his sippy cup and it goes 'Gulp! Gulp!'"
+      },
+      {
+        "id": "q3",
+        "question": "How does Kai feel at the end?",
+        "choices": [
+          "Happy",
+          "Sad"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kai has a full belly and feels happy after eating his yummy food!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Crack! ___! Go the eggs.",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "Crack",
+            "distractors": [
+              "Pop",
+              "Sizzle",
+              "Squish"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "___ pops up! Pop! Pop!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Toast",
+            "distractors": [
+              "Banana",
+              "Milk",
+              "Egg"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "id": "toddler-fantasy-150",
+  "title": "Sage and the Magic Rainbow Bridge",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "fantasy",
+    "friendship"
+  ],
+  "wordCount": 220,
+  "readingLevel": "1.2",
+  "synopsis": "When Sage's new friend Luna the unicorn feels sad because she can't reach her family across the valley, Sage helps her be brave and together they discover a magical rainbow bridge that brings everyone together.",
+  "coverImage": "covers/toddler-fantasy-150.webp",
+  "chapters": [
+    {
+      "title": "A New Friend",
+      "pages": [
+        {
+          "text": "Sage loved playing in the meadow behind his house. The flowers were bright yellow and red, just like his favorite shirt! Today felt special, but he didn't know why yet.",
+          "illustration": {
+            "description": "A cheerful South Asian boy with dark curly hair wearing a bright yellow and red striped shirt, running through a colorful meadow filled with wildflowers. The background shows rolling green hills and a blue sky with fluffy white clouds. The style is bright and cartoonish with rounded, friendly shapes.",
+            "alt": "Sage playing happily in a flower-filled meadow",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Behind a big oak tree, Sage heard a soft crying sound. He felt worried. Who was sad? Sage was brave, so he walked closer to look.",
+          "illustration": {
+            "description": "Sage approaching a large oak tree with a concerned but brave expression on his face. Soft purple and blue magical sparkles peek out from behind the tree trunk. The tree has thick, textured bark and full green leaves. The scene has a gentle, mysterious mood with warm sunlight filtering through.",
+            "alt": "Sage bravely approaching the oak tree where crying sounds come from",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "There sat a small white unicorn with a sparkly purple mane! \"Hello,\" said Sage softly. \"I'm Luna,\" sniffled the unicorn. \"I'm sad because I miss my family.\"",
+          "illustration": {
+            "description": "A small white unicorn with a flowing purple and silver mane sitting sadly under the oak tree, with tears in her large expressive eyes. Sage kneels beside her with a gentle, caring expression. Magical sparkles surround Luna, and the setting has warm, comforting colors with dappled sunlight.",
+            "alt": "Sage meeting Luna the sad unicorn under the tree",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Luna's Problem",
+      "pages": [
+        {
+          "text": "Luna pointed across the valley with her horn. \"My family lives way over there, but I'm too little to fly that far. I feel scared to try.\"",
+          "illustration": {
+            "description": "Luna pointing her silver horn toward distant purple mountains across a wide green valley. Her expression shows longing and fear. Sage stands beside her looking thoughtful. The valley is vast with a winding river below and the family of unicorns barely visible as tiny sparkly dots on the far mountainside.",
+            "alt": "Luna pointing toward her distant family across the valley",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sage felt sad for his new friend. But then he had an idea! \"My abuela always says there's magic when friends help each other. Let's be brave together!\"",
+          "illustration": {
+            "description": "Sage with an excited, determined expression, his eyes bright with an idea. He places his hand gently on Luna's neck in a comforting gesture. Luna looks up hopefully with sparkling tears still on her cheeks. The background shows them both surrounded by a warm golden glow of friendship and possibility.",
+            "alt": "Sage comforting Luna and sharing his hopeful idea",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Magic Bridge",
+      "pages": [
+        {
+          "text": "Sage held Luna's hoof. \"I believe in magic!\" he said. \"I believe in friendship!\" said Luna. Suddenly, colors swirled around them - red, orange, yellow, green, blue, purple!",
+          "illustration": {
+            "description": "Sage and Luna standing together holding hands/hooves as brilliant rainbow colors swirl in magical spirals around them. Both have amazed, joyful expressions. The colors are vibrant and flowing like ribbons of light against a shimmering background. Their friendship creates visible magic in the air around them.",
+            "alt": "Magical rainbow colors swirling around Sage and Luna as they hold hands",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A beautiful rainbow bridge appeared across the valley! Luna felt so happy and brave. Together, they walked across to meet Luna's family. Everyone was so excited!",
+          "illustration": {
+            "description": "A magnificent rainbow bridge stretching across the valley, with Sage riding on Luna's back as she trots confidently across it. Luna's unicorn family waits on the other side - parents and siblings of different sizes, all with colorful manes, jumping with joy. The bridge sparkles with magic, and everyone looks incredibly happy.",
+            "alt": "Sage and Luna crossing the magical rainbow bridge to reunite with Luna's family",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Thank you for helping me be brave,\" Luna said, giving Sage a magical ride home. Now they could visit each other whenever they wanted! Sage felt very happy.",
+          "illustration": {
+            "description": "Luna flying through the sky carrying a delighted Sage on her back, both with huge smiles. Below them, the rainbow bridge remains, connecting both sides of the valley. Luna's family waves goodbye from their mountain, while Sage's house is visible in the meadow below. The sky is painted in warm sunset colors.",
+            "alt": "Luna giving Sage a magical flying ride home with the rainbow bridge still connecting their worlds",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "bravery",
+      "helping others",
+      "magic",
+      "family"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Luna feel when Sage first met her?",
+        "choices": [
+          "happy",
+          "sad",
+          "angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Luna was crying and sad because she missed her family."
+      },
+      {
+        "id": 2,
+        "question": "What appeared to help Luna reach her family?",
+        "choices": [
+          "a big bird",
+          "a rainbow bridge",
+          "a flying carpet"
+        ],
+        "correctIndex": 1,
+        "explanation": "A magical rainbow bridge appeared when Sage and Luna believed in friendship together."
+      },
+      {
+        "id": 3,
+        "question": "How did Sage help Luna?",
+        "choices": [
+          "by being brave with her",
+          "by giving her food",
+          "by singing a song"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sage helped Luna by being brave together and believing in the magic of friendship."
+      },
+      {
+        "id": 4,
+        "question": "How did everyone feel at the end?",
+        "choices": [
+          "scared",
+          "sad",
+          "happy"
+        ],
+        "correctIndex": 2,
+        "explanation": "Everyone felt happy because Luna was reunited with her family and made a new friend."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Sage felt _____ for his new friend Luna.",
+        "wordIndex": 2,
+        "correctWord": "sad",
+        "distractors": [
+          "happy",
+          "angry",
+          "sleepy"
+        ]
+      },
+      {
+        "text": "Luna felt _____ when the rainbow bridge appeared.",
+        "wordIndex": 2,
+        "correctWord": "brave",
+        "distractors": [
+          "scared",
+          "tired",
+          "silly"
+        ]
+      },
+      {
+        "text": "The magic happened because of their _____.",
+        "wordIndex": 7,
+        "correctWord": "friendship",
+        "distractors": [
+          "singing",
+          "dancing",
+          "jumping"
+        ]
+      }
+    ]
+  }
+}

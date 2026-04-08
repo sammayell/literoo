@@ -1,0 +1,209 @@
+{
+  "id": "toddler-adventure-045",
+  "title": "Mika's Starlight Adventure",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "adventure",
+    "bedtime"
+  ],
+  "wordCount": 402,
+  "readingLevel": "1.2",
+  "synopsis": "When little Mika loses her favorite star blanket on a windy evening, she embarks on a brave adventure through her backyard with her friends to find it, discovering that being scared is okay and that friends help us feel brave.",
+  "coverImage": "covers/toddler-adventure-045.webp",
+  "chapters": [
+    {
+      "title": "The Lost Star Blanket",
+      "pages": [
+        {
+          "text": "Mika loved her soft star blanket. It was yellow with sparkly silver stars all over it. Every night, Mama tucked Mika in with her special blanket. It made her feel safe and happy. But tonight, something was wrong. Mika looked all around her bed. Where was her star blanket?",
+          "illustration": {
+            "description": "A young South Asian girl with curly black hair in pajamas looking worried as she searches her cozy bedroom. Her bed has colorful sheets but no blanket. The room has warm yellow lighting from a bedside lamp, stuffed animals on shelves, and a window showing the evening sky. The girl's expression shows concern and confusion.",
+            "alt": "Mika searching for her missing star blanket in her bedroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mika felt scared without her blanket. Her eyes filled with tears. 'Mama!' she called. Mama came running with a gentle smile. 'What's wrong, little star?' Mama asked. 'My blanket is gone!' Mika said sadly. Mama hugged her tight. 'Let's look together. Maybe the wind blew it outside when we hung laundry today.'",
+          "illustration": {
+            "description": "Mika's mother, a woman with long dark hair in a colorful sari, kneeling down to comfort crying Mika. They're embracing in the bedroom doorway. Mika's face shows sadness and worry while Mama's face is caring and reassuring. Warm indoor lighting creates a safe, loving atmosphere with soft shadows.",
+            "alt": "Mama comforting sad Mika with a loving hug",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Outside, Mika saw her neighbor Carlos playing with his toy airplane. 'Carlos!' Mika called. 'Have you seen my star blanket?' Carlos had kind brown eyes and curly hair. 'No, but I'll help you look!' he said with a big smile. Then their friend Zoe came over. Zoe had beautiful dark skin and wore bright purple overalls. 'What are we looking for?' she asked happily.",
+          "illustration": {
+            "description": "Three children in a colorful backyard during golden hour. Mika in pajamas talking to Carlos, a Latino boy with curly hair holding a red toy airplane, and Zoe, a Black girl in purple overalls with natural hair in small puffs. The setting has green grass, a wooden fence, and flowers. All three children have friendly, helpful expressions.",
+            "alt": "Mika meeting her friends Carlos and Zoe in the backyard",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The three friends looked everywhere. They checked under the big oak tree where squirrels played. They looked behind the garden shed where butterflies danced. They searched near the flower beds where bees buzzed happily. But no star blanket anywhere. Mika felt more scared. 'It's getting dark,' she whispered. 'Don't worry,' said Carlos. 'We're brave together!'",
+          "illustration": {
+            "description": "The three children searching around a lush backyard garden as the sky turns dusky purple. They're looking under plants and around a small wooden shed. Butterflies flutter around colorful flowers - red roses, yellow sunflowers, purple lavender. The children show determination despite the growing darkness, with Mika looking worried but her friends staying positive.",
+            "alt": "Friends searching the garden together as evening approaches",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Just then, Zoe pointed up high. 'Look!' she shouted. There, caught on the tall fence, was Mika's star blanket! It fluttered in the breeze like it was waving hello. But it was too high to reach. Mika felt sad again. 'How can we get it down?' she asked. Carlos had an idea. 'Let's work together!' he said. 'Zoe and I can lift you up!'",
+          "illustration": {
+            "description": "The star blanket caught high on a wooden fence, fluttering in the evening breeze against a purple-pink sunset sky. The yellow blanket with silver stars looks magical as it waves. Below, the three children point upward with excited expressions. Trees and houses create a cozy neighborhood backdrop with warm lights starting to twinkle in windows.",
+            "alt": "The star blanket caught high on the fence at sunset",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "With her friends helping, Mika felt brave! Carlos and Zoe carefully lifted her up. Mika reached high and grabbed her precious star blanket. 'I got it!' she cheered happily. All three friends hugged and laughed. Mika wasn't scared anymore. She felt so grateful for her kind friends. 'Thank you for helping me be brave,' she said with a big, happy smile.",
+          "illustration": {
+            "description": "A joyful scene of the three children celebrating together, with Mika holding her retrieved star blanket triumphantly. All three are hugging and smiling widely. The blanket sparkles in the early evening light. Their faces show pure happiness and friendship. The backyard around them feels warm and safe, with the first stars beginning to appear in the darkening sky.",
+            "alt": "The three friends celebrating together with the rescued star blanket",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "That night, Mika snuggled under her star blanket feeling safe and happy. She wasn't scared of the dark anymore because she knew her friends cared about her. Mama kissed her forehead. 'Sweet dreams, my brave little star,' Mama whispered. Mika smiled sleepily. Tomorrow she would play with Carlos and Zoe again. With good friends, everything felt better.",
+          "illustration": {
+            "description": "Mika peacefully sleeping in her bed, covered by the yellow star blanket that sparkles softly in the moonlight streaming through her window. Her face shows contentment and peace. Mama sits beside the bed, gently stroking Mika's hair. The room is bathed in soft blue moonlight mixed with warm lamplight, creating a serene bedtime atmosphere with stars visible outside the window.",
+            "alt": "Mika sleeping peacefully with her star blanket while Mama watches over her",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "bravery",
+      "problem-solving",
+      "community"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Mika feel when she couldn't find her star blanket?",
+        "choices": [
+          "Happy",
+          "Scared and sad",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mika felt scared without her blanket and her eyes filled with tears because she was sad."
+      },
+      {
+        "id": 2,
+        "question": "Who helped Mika look for her blanket?",
+        "choices": [
+          "Only Mama",
+          "Carlos and Zoe",
+          "Nobody"
+        ],
+        "correctIndex": 1,
+        "explanation": "Carlos and Zoe were Mika's friends who helped her search for the star blanket."
+      },
+      {
+        "id": 3,
+        "question": "Where was the star blanket found?",
+        "choices": [
+          "Under the tree",
+          "Caught on the tall fence",
+          "In the flower bed"
+        ],
+        "correctIndex": 1,
+        "explanation": "Zoe spotted the star blanket caught high up on the tall fence."
+      },
+      {
+        "id": 4,
+        "question": "How did Mika feel at the end of the story?",
+        "choices": [
+          "Still scared",
+          "Happy and brave",
+          "Worried"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mika felt happy and brave because her friends helped her, and she wasn't scared anymore."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Complete the Story",
+        "text": "Mika loved her soft star _____. It made her feel safe and _____. When it was missing, she felt _____ and sad.",
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "blanket",
+            "distractors": [
+              "pillow",
+              "toy",
+              "book"
+            ]
+          },
+          {
+            "wordIndex": 11,
+            "correctWord": "happy",
+            "distractors": [
+              "sleepy",
+              "hungry",
+              "cold"
+            ]
+          },
+          {
+            "wordIndex": 17,
+            "correctWord": "scared",
+            "distractors": [
+              "excited",
+              "silly",
+              "hungry"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Friends Help Friends",
+        "text": "_____ and Zoe helped Mika search. They worked _____ to get the blanket down. Mika felt _____ with her friends helping.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Carlos",
+            "distractors": [
+              "Mama",
+              "Papa",
+              "Teacher"
+            ]
+          },
+          {
+            "wordIndex": 7,
+            "correctWord": "together",
+            "distractors": [
+              "alone",
+              "quickly",
+              "quietly"
+            ]
+          },
+          {
+            "wordIndex": 14,
+            "correctWord": "brave",
+            "distractors": [
+              "tired",
+              "hungry",
+              "cold"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

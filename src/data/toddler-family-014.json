@@ -1,0 +1,205 @@
+{
+  "id": "toddler-family-014",
+  "title": "Noah's Big Pancake Mix-Up",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "family",
+    "humor"
+  ],
+  "wordCount": 178,
+  "readingLevel": "1.2",
+  "synopsis": "When Noah tries to help make breakfast, he accidentally creates a silly mess with pancake batter. With his family's help, he learns that mistakes can turn into fun memories and delicious pancakes.",
+  "coverImage": "covers/toddler-family-014.webp",
+  "chapters": [
+    {
+      "title": "Noah Wants to Help",
+      "pages": [
+        {
+          "text": "Noah woke up happy on Saturday morning. He smelled something yummy coming from the kitchen. \"Pancakes!\" he said with a big smile.",
+          "illustration": {
+            "description": "A cheerful young Black boy with short curly hair stretches happily in his blue pajamas on a cozy bed. Warm golden sunlight streams through a window with colorful curtains. His room has toys scattered around and bright yellow walls.",
+            "alt": "Noah waking up happily in his bedroom",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "In the kitchen, Mama was mixing batter. Papa was setting the table. \"Can I help?\" asked Noah. \"Of course!\" said Mama. \"You can pour the milk.\"",
+          "illustration": {
+            "description": "A warm kitchen scene with Noah's family preparing breakfast. His mama, a Black woman with natural hair in a colorful apron, stirs batter in a large bowl. His papa, a Black man with glasses, arranges plates on a wooden table. The kitchen has bright red cabinets and cheerful morning light.",
+            "alt": "Noah's family preparing breakfast in the kitchen",
+            "layout": "full"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Big Mess",
+      "pages": [
+        {
+          "text": "Noah climbed on his step stool. He reached for the milk jug. Oops! His elbow bumped the bowl. Pancake batter went SPLAT everywhere!",
+          "illustration": {
+            "description": "Noah standing on a colorful step stool looking surprised as pancake batter splashes dramatically across the kitchen counter and floor. White batter drips from cabinets and his pajamas. His expression shows shock with wide eyes and an open mouth.",
+            "alt": "Noah accidentally spilling pancake batter everywhere",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Noah felt scared and sad. \"I'm sorry!\" he cried. Tears rolled down his cheeks. \"I wanted to help, but I made a big mess!\"",
+          "illustration": {
+            "description": "Close-up of Noah's face showing genuine sadness with tears on his cheeks and a worried expression. Pancake batter is visible on his blue pajamas. The background shows the messy kitchen with warm, soft lighting that emphasizes his emotions.",
+            "alt": "Noah crying after making the mess",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Mama gave Noah a warm hug. \"It's okay, sweetie,\" she said softly. \"Everyone makes mistakes. We can clean this up together.\"",
+          "illustration": {
+            "description": "Mama kneeling down to hug Noah tenderly in the messy kitchen. Her expression is loving and understanding. Papa stands nearby with a gentle smile, holding paper towels. The scene emphasizes comfort and family support with warm orange and yellow tones.",
+            "alt": "Mama hugging Noah while Papa helps clean up",
+            "layout": "full"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Making New Pancakes",
+      "pages": [
+        {
+          "text": "Noah felt brave again. He helped wipe the counter. Papa swept the floor. They worked together as a team.",
+          "illustration": {
+            "description": "Noah confidently cleaning the counter with a colorful sponge while Papa sweeps nearby with a bright yellow broom. They both have determined, happy expressions. The kitchen is getting cleaner with sunlight making everything look fresh and new.",
+            "alt": "Noah and Papa cleaning the kitchen together",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Mama made new pancake batter. This time, Noah stirred very carefully. \"Good job!\" said Papa. Noah felt proud and happy.",
+          "illustration": {
+            "description": "Noah carefully stirring pancake batter in a large blue bowl, his tongue sticking out in concentration. Mama and Papa watch with proud smiles. The clean kitchen sparkles around them with bright primary colors and morning sunshine streaming in.",
+            "alt": "Noah carefully stirring new pancake batter",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Soon they were eating fluffy pancakes together. \"These taste extra special,\" laughed Mama, \"because we made them with love... and a little adventure!\"",
+          "illustration": {
+            "description": "The family sitting around their wooden table enjoying golden pancakes with syrup and berries. Everyone is laughing and smiling. Steam rises from the pancakes, and orange juice sits in bright glasses. The scene radiates warmth, joy, and togetherness.",
+            "alt": "The family enjoying pancakes together at the table",
+            "layout": "full"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family support",
+      "learning from mistakes",
+      "helping others",
+      "problem-solving"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Noah feel when he woke up?",
+        "choices": [
+          "Happy",
+          "Sad",
+          "Angry"
+        ],
+        "correctIndex": 0,
+        "explanation": "Noah woke up happy because he smelled pancakes!"
+      },
+      {
+        "id": 2,
+        "question": "What happened when Noah tried to help?",
+        "choices": [
+          "He made perfect pancakes",
+          "He spilled the batter",
+          "He broke a plate"
+        ],
+        "correctIndex": 1,
+        "explanation": "Noah accidentally bumped the bowl and spilled pancake batter everywhere."
+      },
+      {
+        "id": 3,
+        "question": "How did Noah feel after making the mess?",
+        "choices": [
+          "Happy",
+          "Scared and sad",
+          "Excited"
+        ],
+        "correctIndex": 1,
+        "explanation": "Noah felt scared and sad because he thought he did something wrong."
+      },
+      {
+        "id": 4,
+        "question": "How did the family solve the problem?",
+        "choices": [
+          "They gave up",
+          "They worked together",
+          "They ordered food"
+        ],
+        "correctIndex": 1,
+        "explanation": "The family worked together to clean up and make new pancakes!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words!",
+        "text": "Noah woke up _____ on Saturday morning. He wanted to _____ make pancakes.",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "happy",
+            "distractors": [
+              "sleepy",
+              "angry"
+            ]
+          },
+          {
+            "wordIndex": 9,
+            "correctWord": "help",
+            "distractors": [
+              "eat",
+              "play"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "What Happened Next?",
+        "text": "Noah bumped the bowl and batter went _____ everywhere! He felt _____ and cried.",
+        "blanks": [
+          {
+            "wordIndex": 7,
+            "correctWord": "splat",
+            "distractors": [
+              "drip",
+              "fly"
+            ]
+          },
+          {
+            "wordIndex": 11,
+            "correctWord": "sad",
+            "distractors": [
+              "happy",
+              "silly"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

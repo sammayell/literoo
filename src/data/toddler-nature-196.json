@@ -1,0 +1,202 @@
+{
+  "id": "toddler-nature-196",
+  "title": "Otis Plants a Garden",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "nature",
+    "school"
+  ],
+  "wordCount": 291,
+  "readingLevel": "1.2",
+  "synopsis": "When Otis feels sad that his bean plant won't grow at school, his teacher Miss Rosa and friends help him discover what plants need to be happy and healthy.",
+  "coverImage": "covers/toddler-nature-196.webp",
+  "chapters": [
+    {
+      "title": "Otis Plants a Seed",
+      "pages": [
+        {
+          "text": "Otis was excited to start his first day at the new school. His teacher, Miss Rosa, had curly brown hair and a warm smile. \"Today we're going to plant bean seeds!\" she said happily.",
+          "illustration": {
+            "description": "A bright classroom with diverse children sitting in a circle around Miss Rosa, a kind teacher with curly brown hair and a colorful apron. Otis, a young boy with short dark hair, sits cross-legged looking excited. The room has green plants on windowsills and educational posters on yellow walls.",
+            "alt": "Miss Rosa and children in classroom ready to plant seeds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Otis carefully put his seed in a small brown pot with soft dirt. His friend Maya, who had long black braids, planted hers too. \"I hope mine grows big and tall!\" said Otis bravely.",
+          "illustration": {
+            "description": "Otis and Maya sitting at a wooden table with small terracotta pots, dark soil, and bean seeds. Both children look focused and happy. Maya has long black braids and wears a purple shirt. Otis wears a blue striped shirt. Sunlight streams through nearby windows.",
+            "alt": "Otis and Maya planting seeds in small pots",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Every day, Otis watered his plant and watched it carefully. His friend Jamal, who used a wheelchair, had already seen a tiny green sprout! But Otis's pot still looked empty. He felt worried.",
+          "illustration": {
+            "description": "Three children looking at their plants on a sunny windowsill. Jamal, a boy in a red wheelchair, points excitedly at his sprouting plant. Maya's plant shows a small green shoot. Otis looks concerned at his empty pot. The background shows a bright blue sky through the window.",
+            "alt": "Children checking their plants with different growth stages",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Otis Feels Sad",
+      "pages": [
+        {
+          "text": "After two weeks, Otis felt very sad. All his friends' plants were growing green leaves, but his pot was still just dirt. \"Why won't my plant grow?\" he asked, feeling scared it would never sprout.",
+          "illustration": {
+            "description": "Otis sitting alone looking disappointed, holding his empty pot while other children's plants around him have green sprouts and leaves. His expression is sad with downturned mouth. The classroom has warm yellow lighting but Otis looks gloomy. Other diverse children are visible in the background with their thriving plants.",
+            "alt": "Sad Otis holding his pot while other plants have grown",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Miss Rosa sat beside Otis and looked at his pot carefully. \"Let's be plant detectives,\" she said kindly. She touched the dirt with her finger. \"Oh! This soil feels very dry. Plants need water to be happy.\"",
+          "illustration": {
+            "description": "Miss Rosa kneeling beside Otis, both examining his pot closely. She points to the dry, cracked soil while Otis watches with interest. Both have gentle, curious expressions. The scene shows warm orange and yellow colors, with green plants visible on shelves in the background.",
+            "alt": "Miss Rosa and Otis examining the dry soil together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Otis's Plant Grows",
+      "pages": [
+        {
+          "text": "\"Plants need water, sunlight, and love to grow strong,\" explained Miss Rosa. Otis felt brave again! He gave his plant fresh water and moved it to a sunny spot. Maya and Jamal helped him sing a happy song to his seed.",
+          "illustration": {
+            "description": "Otis carefully watering his plant with a small blue watering can while Maya and Jamal cheer him on. All three children look happy and hopeful. The plant sits in bright sunlight by the window. The scene is filled with warm yellows and greens, showing friendship and care.",
+            "alt": "Otis watering his plant while friends encourage him",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Three days later, Otis saw something amazing! A tiny green sprout peeked out of the soil. \"It's growing! It's growing!\" he shouted happily. All his friends cheered. Otis felt so proud and excited about his little plant.",
+          "illustration": {
+            "description": "Otis jumping with joy, pointing at his pot where a small green sprout has emerged. His friends Maya and Jamal celebrate around him with raised arms. Miss Rosa claps in the background. The scene bursts with bright, cheerful colors - blues, greens, and yellows. Everyone has big smiles and the mood is triumphant.",
+            "alt": "Otis and friends celebrating the sprouting plant",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "From that day on, Otis took very good care of his bean plant. He watered it gently, made sure it had sunlight, and talked to it every day. His plant grew tall and strong, just like Otis's confidence and happiness!",
+          "illustration": {
+            "description": "Otis proudly holding a pot with a tall, healthy bean plant with several green leaves. He has a huge, confident smile. The classroom behind him shows other children with their plants, creating a garden-like atmosphere. Bright green leaves and warm sunlight fill the scene with life and growth.",
+            "alt": "Happy Otis with his grown bean plant in the classroom",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "persistence",
+      "friendship",
+      "learning from mistakes",
+      "nature",
+      "problem-solving",
+      "emotions"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Why was Otis's plant not growing at first?",
+        "choices": [
+          "It didn't have enough water",
+          "It was too cold",
+          "The seed was broken"
+        ],
+        "correctIndex": 0,
+        "explanation": "Miss Rosa discovered that Otis's soil was very dry. Plants need water to grow!"
+      },
+      {
+        "id": "q2",
+        "question": "How did Otis feel when his plant didn't grow?",
+        "choices": [
+          "Happy",
+          "Sad and scared",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Otis felt sad and scared when his plant wouldn't grow while his friends' plants were sprouting."
+      },
+      {
+        "id": "q3",
+        "question": "What do plants need to grow?",
+        "choices": [
+          "Only water",
+          "Water, sunlight, and love",
+          "Only sunlight"
+        ],
+        "correctIndex": 1,
+        "explanation": "Miss Rosa taught Otis that plants need water, sunlight, and love to grow strong and healthy."
+      },
+      {
+        "id": "q4",
+        "question": "Who helped Otis with his plant?",
+        "choices": [
+          "Only Miss Rosa",
+          "Miss Rosa, Maya, and Jamal",
+          "Nobody"
+        ],
+        "correctIndex": 1,
+        "explanation": "Miss Rosa helped Otis figure out the problem, and Maya and Jamal helped sing to the plant and cheer him on."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Complete the Story",
+        "instructions": "Fill in the missing words to complete Otis's story!",
+        "text": "Otis planted a ___1___ in his pot at school. When it wouldn't grow, he felt ___2___. Miss Rosa helped him discover that plants need ___3___ to be happy. When his plant finally sprouted, Otis felt ___4___!",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "seed",
+            "distractors": [
+              "rock",
+              "toy"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "sad",
+            "distractors": [
+              "hungry",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 3,
+            "correctWord": "water",
+            "distractors": [
+              "music",
+              "books"
+            ]
+          },
+          {
+            "wordIndex": 4,
+            "correctWord": "happy",
+            "distractors": [
+              "tired",
+              "cold"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

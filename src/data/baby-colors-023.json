@@ -1,0 +1,164 @@
+{
+  "id": "baby-colors-023",
+  "title": "Isla's Rainbow Snacks",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "colors",
+    "food"
+  ],
+  "wordCount": 42,
+  "readingLevel": "0.5",
+  "synopsis": "Little Isla discovers colorful foods throughout her day, from red apples to purple grapes. Each page features a different colored snack with cheerful sound effects and repetitive patterns that help babies learn colors while enjoying familiar foods.",
+  "coverImage": "covers/baby-colors-023.webp",
+  "chapters": [
+    {
+      "title": "Isla's Rainbow Snacks",
+      "pages": [
+        {
+          "text": "Isla loves snacks! Yum, yum, yum!",
+          "illustration": {
+            "description": "A cheerful toddler girl with warm brown skin, curly dark hair in small ponytails, and bright brown eyes sits in a sunny yellow kitchen. She wears a soft pink bib and claps her hands excitedly. The background shows simple rounded kitchen shapes in warm pastels.",
+            "alt": "Happy toddler Isla in kitchen ready for snacks",
+            "layout": "centered"
+          }
+        },
+        {
+          "text": "Red apple! Crunch, crunch, crunch!",
+          "illustration": {
+            "description": "Isla holds a bright red apple with both hands, taking a big bite. Her eyes are wide with delight and apple juice glistens on her chin. The red apple contrasts beautifully against the soft cream background with gentle watercolor washes.",
+            "alt": "Isla eating a bright red apple",
+            "layout": "centered"
+          }
+        },
+        {
+          "text": "Orange carrots! Munch, munch, munch!",
+          "illustration": {
+            "description": "Isla sits with vibrant orange carrot sticks arranged on a pale blue plate. She nibbles one carrot while reaching for another. Her expression shows pure joy and concentration. Soft orange and blue tones dominate the gentle composition.",
+            "alt": "Isla enjoying orange carrot sticks",
+            "layout": "centered"
+          }
+        },
+        {
+          "text": "Yellow banana! Squish, squish, squish!",
+          "illustration": {
+            "description": "Isla holds a peeled yellow banana, some of it squished between her tiny fingers. She giggles as the soft fruit spreads on her hands. Warm yellow tones fill the scene with soft white highlights creating a cheerful, messy moment.",
+            "alt": "Isla playing with a squishy yellow banana",
+            "layout": "centered"
+          }
+        },
+        {
+          "text": "Green peas! Pop, pop, pop!",
+          "illustration": {
+            "description": "Isla carefully picks up bright green peas one by one, popping them into her mouth. Her face shows concentration and satisfaction. The vibrant green peas contrast against a soft lavender plate, creating visual appeal for developing eyes.",
+            "alt": "Isla eating green peas one by one",
+            "layout": "centered"
+          }
+        },
+        {
+          "text": "Blue berries! Smoosh, smoosh, smoosh!",
+          "illustration": {
+            "description": "Isla's fingers are stained purple-blue from plump blueberries. She examines one berry closely before eating it, her expression curious and delighted. Deep blue berries scatter across a clean white surface with soft watercolor shadows.",
+            "alt": "Isla exploring juicy blue berries",
+            "layout": "centered"
+          }
+        },
+        {
+          "text": "Purple grapes! Chomp, chomp, chomp!",
+          "illustration": {
+            "description": "Isla holds a small cluster of deep purple grapes, carefully biting one off the stem. Her eyes sparkle with accomplishment at mastering this tricky snack. Rich purple grapes glow against a warm peachy background with gentle light.",
+            "alt": "Isla carefully eating purple grapes",
+            "layout": "centered"
+          }
+        },
+        {
+          "text": "Rainbow snacks! Isla's tummy is happy!",
+          "illustration": {
+            "description": "Isla pats her full tummy with both hands, surrounded by tiny illustrations of all her colorful snacks floating like memories around her. Her smile is wide and content. A soft rainbow arc frames the scene in gentle pastel hues.",
+            "alt": "Happy Isla with rainbow of snacks around her",
+            "layout": "centered"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "colors",
+      "healthy eating",
+      "sensory exploration"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color is Isla's apple?",
+        "choices": [
+          "Red",
+          "Green"
+        ],
+        "correctIndex": 0,
+        "explanation": "Isla eats a bright red apple that goes crunch, crunch, crunch!"
+      },
+      {
+        "id": "q2",
+        "question": "What sound do the green peas make?",
+        "choices": [
+          "Munch",
+          "Pop"
+        ],
+        "correctIndex": 1,
+        "explanation": "The green peas go pop, pop, pop when Isla eats them!"
+      },
+      {
+        "id": "q3",
+        "question": "How does Isla feel at the end?",
+        "choices": [
+          "Sad",
+          "Happy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Isla's tummy is happy after eating all her rainbow snacks!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Red apple! _____, _____, _____!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "Crunch",
+            "distractors": [
+              "Munch",
+              "Pop",
+              "Squish"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "_____ banana! Squish, squish, squish!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Yellow",
+            "distractors": [
+              "Red",
+              "Blue",
+              "Green"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

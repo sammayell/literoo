@@ -1,0 +1,207 @@
+{
+  "id": "toddler-bedtime-078",
+  "title": "Bodhi's Nighttime Friends",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "bedtime",
+    "feelings"
+  ],
+  "wordCount": 278,
+  "readingLevel": "1.2",
+  "synopsis": "When little Bodhi feels scared at bedtime, he discovers that his stuffed animals have special powers to help him feel brave and safe. With the help of his diverse group of toy friends, Bodhi learns that being scared is okay and that he can find courage within himself.",
+  "coverImage": "covers/toddler-bedtime-078.webp",
+  "chapters": [
+    {
+      "title": "Feeling Scared",
+      "pages": [
+        {
+          "text": "Bodhi sat on his bed in his cozy pajamas. The sun had gone to sleep, and now it was his turn too. But Bodhi felt scared of the dark shadows in his room. His brown eyes looked worried as he hugged his knees tight.",
+          "illustration": {
+            "description": "A young South Asian boy with warm brown skin and short black hair sits on a bright blue bed wearing striped pajamas. His room has soft purple walls with gentle shadows cast by a small nightlight. Bodhi's expression shows worry with wide eyes and a slight frown. The room has colorful toys scattered around and feels cozy but slightly dim.",
+            "alt": "Bodhi sitting worried on his bed in pajamas",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Mama, I'm scared,\" Bodhi called softly. Mama came in with a warm smile. She had beautiful dark skin and wore a bright yellow robe. \"It's okay to feel scared sometimes, little one,\" she said gently. \"But look around. You have friends to keep you company.\"",
+          "illustration": {
+            "description": "A loving Black woman with natural curly hair in a sunny yellow robe sits beside Bodhi on the bed. She has kind eyes and a gentle, reassuring smile. The room feels warmer now with soft golden light from the hallway. Her hand rests comfortingly on Bodhi's shoulder, and both characters show the loving bond between them.",
+            "alt": "Mama comforting Bodhi on his bed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Bodhi looked around his room and saw his stuffed animals. There was Luna the purple elephant, Diego the orange lion, and Zara the green dragon. They sat quietly on his shelf, but Bodhi felt sad because they seemed so far away when he needed them most.",
+          "illustration": {
+            "description": "Three colorful stuffed animals sit on a wooden shelf: a plump purple elephant with a friendly face, a fluffy orange lion with a proud mane, and a cheerful green dragon with small wings. The toys have bright button eyes and soft, inviting textures. Bodhi looks at them from his bed with hopeful but sad eyes, reaching one hand toward them.",
+            "alt": "Bodhi's stuffed animal friends on the shelf",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Finding Courage",
+      "pages": [
+        {
+          "text": "Suddenly, something magical happened! Luna the elephant trumpeted softly, \"Don't worry, Bodhi! I'm here to help you feel brave.\" Diego the lion puffed out his chest and said, \"I'll protect you with my courage!\" Zara the dragon flapped her tiny wings and whispered, \"I'll keep the scary thoughts away!\"",
+          "illustration": {
+            "description": "The three stuffed animals appear to come alive with sparkly, magical glimmers around them. Luna the purple elephant has her trunk raised cheerfully, Diego the orange lion stands proudly with his chest out, and Zara the green dragon has her wings spread wide. Soft, glittery stars float around them, and their expressions are brave and determined.",
+            "alt": "The magical stuffed animals coming to life",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Bodhi's eyes grew wide with wonder, not fear. He felt happy as he gathered all three friends in his arms. Luna felt soft and warm, Diego felt strong and safe, and Zara felt magical and protective. \"I'm not scared anymore,\" Bodhi said with a big smile.",
+          "illustration": {
+            "description": "Bodhi sits in the center of his bed with all three stuffed animals snuggled close to him. His face shows pure joy and relief with a wide smile and bright, happy eyes. The room now feels warm and cozy with a soft, golden glow. The boy's posture is relaxed and confident, surrounded by his colorful animal friends.",
+            "alt": "Happy Bodhi hugging his three stuffed animal friends",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "With Luna, Diego, and Zara by his side, Bodhi felt brave and ready for sleep. Mama tucked them all in together and gave him a goodnight kiss. \"Sweet dreams, my brave boy,\" she whispered. Bodhi closed his eyes, feeling safe and loved, and drifted off to peaceful dreams.",
+          "illustration": {
+            "description": "The cozy bedroom scene shows Bodhi peacefully sleeping in his blue bed, snuggled under a soft rainbow blanket with all three stuffed animals arranged around him. Mama stands nearby blowing a gentle kiss. A warm nightlight casts a soft, comforting glow, and the room feels completely safe and serene. Everyone looks content and peaceful.",
+            "alt": "Bodhi sleeping peacefully with his animal friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "overcoming fear",
+      "bedtime comfort",
+      "friendship",
+      "imagination",
+      "family love"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Bodhi feel at the beginning of the story?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Excited"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bodhi felt scared of the dark shadows in his room at bedtime."
+      },
+      {
+        "id": "q2",
+        "question": "What color is Luna the elephant?",
+        "choices": [
+          "Orange",
+          "Green",
+          "Purple"
+        ],
+        "correctIndex": 2,
+        "explanation": "Luna the elephant is purple, one of Bodhi's three colorful stuffed animal friends."
+      },
+      {
+        "id": "q3",
+        "question": "Who helped Bodhi feel better?",
+        "choices": [
+          "His stuffed animals",
+          "His teacher",
+          "His dog"
+        ],
+        "correctIndex": 0,
+        "explanation": "Bodhi's stuffed animals Luna, Diego, and Zara helped him feel brave and safe."
+      },
+      {
+        "id": "q4",
+        "question": "How did Bodhi feel at the end?",
+        "choices": [
+          "Still scared",
+          "Brave and safe",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "At the end, Bodhi felt brave and safe with his stuffed animal friends, ready for peaceful sleep."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Complete the Story",
+        "text": "Bodhi felt ___ of the dark shadows. Mama said it's okay to feel ___ sometimes. The stuffed animals helped Bodhi feel ___.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "excited",
+              "silly"
+            ]
+          },
+          {
+            "wordIndex": 9,
+            "correctWord": "scared",
+            "distractors": [
+              "hungry",
+              "cold",
+              "tired"
+            ]
+          },
+          {
+            "wordIndex": 16,
+            "correctWord": "brave",
+            "distractors": [
+              "sad",
+              "angry",
+              "sleepy"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Name the Friends",
+        "text": "___ is the purple elephant. ___ is the orange lion. ___ is the green dragon.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Luna",
+            "distractors": [
+              "Diego",
+              "Zara",
+              "Mama"
+            ]
+          },
+          {
+            "wordIndex": 5,
+            "correctWord": "Diego",
+            "distractors": [
+              "Luna",
+              "Zara",
+              "Bodhi"
+            ]
+          },
+          {
+            "wordIndex": 10,
+            "correctWord": "Zara",
+            "distractors": [
+              "Luna",
+              "Diego",
+              "Mama"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

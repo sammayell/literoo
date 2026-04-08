@@ -1,0 +1,183 @@
+{
+  "id": "toddler-bedtime-158",
+  "title": "Felix's Brave Bedtime",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "bedtime",
+    "feelings"
+  ],
+  "wordCount": 175,
+  "readingLevel": "1.2",
+  "synopsis": "Felix feels scared at bedtime but learns to be brave with help from his family and discovers that nighttime can be peaceful and safe.",
+  "coverImage": "covers/toddler-bedtime-158.webp",
+  "chapters": [
+    {
+      "title": "Felix Feels Scared",
+      "pages": [
+        {
+          "text": "Felix was a happy little boy who loved to play all day. But when bedtime came, Felix felt scared. The dark room made him feel worried and sad.",
+          "illustration": {
+            "description": "A cheerful toddler boy with curly brown hair wearing blue pajamas with star patterns, standing in his colorful bedroom during daytime. His expression shows happiness turning to worry as shadows grow longer. Bright primary colors with construction paper texture backgrounds.",
+            "alt": "Felix in his bedroom looking worried as evening approaches",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I don't want to go to sleep,\" Felix told his mama. Mama had warm brown skin and gentle eyes. She sat on his bed and gave him a big hug.",
+          "illustration": {
+            "description": "A loving Black mother with natural hair in a yellow shirt sitting on a child's bed, hugging Felix tenderly. The bedroom has soft lamp light, stuffed animals, and picture books scattered around. Warm, comforting colors with rounded, friendly shapes.",
+            "alt": "Mama hugging Felix on his bed in the softly lit bedroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"What makes you feel scared?\" Mama asked softly. Felix pointed at the dark corners of his room. \"The shadows look scary,\" he whispered.",
+          "illustration": {
+            "description": "Felix pointing at gentle shadows in his room while Mama listens patiently. The shadows are soft and non-threatening, depicted in purple and blue tones. A nightlight glows warmly on the dresser with family photos showing diverse family members.",
+            "alt": "Felix pointing at shadows while Mama listens understanding",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Being Brave Together",
+      "pages": [
+        {
+          "text": "Papa came in too. He had kind eyes behind his glasses. \"Let's make bedtime happy,\" Papa said. They turned on Felix's special nightlight that made colorful stars on the ceiling.",
+          "illustration": {
+            "description": "A Asian father with glasses and a green shirt joining Mama and Felix. Beautiful star projections in rainbow colors dance across the ceiling and walls. Felix's expression begins to show curiosity instead of fear. Magical, warm atmosphere with bright, cheerful colors.",
+            "alt": "Papa showing Felix the star nightlight projections on the ceiling",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"See? The dark isn't scary,\" Mama said. \"It's peaceful and quiet, perfect for dreams.\" Felix felt a little bit brave now. The stars made him feel safe and happy.",
+          "illustration": {
+            "description": "Felix looking up at the colorful star projections with wonder, his scared expression transforming to amazement. Mama and Papa smile proudly beside him. The room glows with soft, magical light in blues, purples, and golds with a construction paper texture background.",
+            "alt": "Felix looking amazed at the stars with his proud parents nearby",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Felix climbed into bed feeling brave and loved. \"I'm not scared anymore,\" he said with a big smile. Mama and Papa kissed him goodnight. Felix fell asleep watching the dancing stars, feeling happy and safe.",
+          "illustration": {
+            "description": "Felix tucked cozily in bed with a big smile, surrounded by the gentle glow of star projections. Mama and Papa are giving him goodnight kisses. His stuffed animals are nearby and his expression shows contentment and bravery. Peaceful nighttime colors with warm, loving atmosphere.",
+            "alt": "Felix sleeping peacefully under the star projections with his parents saying goodnight",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "overcoming fears",
+      "family support",
+      "bedtime comfort",
+      "emotional growth",
+      "feeling safe"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Felix feel at bedtime?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Excited"
+        ],
+        "correctIndex": 1,
+        "explanation": "Felix felt scared when it was time for bed because the dark room made him worried."
+      },
+      {
+        "id": "q2",
+        "question": "What helped Felix feel brave?",
+        "choices": [
+          "A loud toy",
+          "The star nightlight",
+          "A big cookie"
+        ],
+        "correctIndex": 1,
+        "explanation": "The special nightlight that made colorful stars on the ceiling helped Felix feel brave and safe."
+      },
+      {
+        "id": "q3",
+        "question": "Who helped Felix with his scared feelings?",
+        "choices": [
+          "His teacher",
+          "Mama and Papa",
+          "His friend"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mama and Papa both helped Felix feel better by listening to him and showing him the star nightlight."
+      },
+      {
+        "id": "q4",
+        "question": "How did Felix feel at the end of the story?",
+        "choices": [
+          "Still scared",
+          "Happy and safe",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "By the end, Felix felt happy and safe because his family helped him be brave and the stars made bedtime peaceful."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Felix felt _____ at bedtime, but Mama and Papa helped him feel _____.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 11,
+            "correctWord": "brave",
+            "distractors": [
+              "sleepy",
+              "silly"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "The special _____ made colorful _____ on the ceiling that helped Felix feel safe.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "nightlight",
+            "distractors": [
+              "toy",
+              "book"
+            ]
+          },
+          {
+            "wordIndex": 5,
+            "correctWord": "stars",
+            "distractors": [
+              "circles",
+              "squares"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "id": "baby-sounds-129",
+  "title": "Dara Hears the Farm",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "sounds",
+    "animals"
+  ],
+  "wordCount": 33,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Dara visits a farm and discovers the delightful sounds different animals make, from mooing cows to chirping chicks, creating a soothing pattern of animal sounds and gentle repetition perfect for very young children.",
+  "coverImage": "covers/baby-sounds-129.webp",
+  "chapters": [
+    {
+      "title": "Farm Sounds",
+      "pages": [
+        {
+          "text": "Dara goes to the farm.",
+          "illustration": {
+            "description": "A cheerful toddler girl with warm brown skin and curly black hair in small puffs walks toward a red barn. She wears a sunny yellow dress and has bright, curious dark eyes. The background shows rolling green hills and a bright blue sky with fluffy white clouds. The illustration uses soft watercolor pastels with high contrast colors.",
+            "alt": "Dara walking toward a red farm barn",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Cow says MOO! MOO!",
+          "illustration": {
+            "description": "A large, friendly black and white spotted cow with big gentle eyes stands in a green pasture. Dara points excitedly at the cow with both hands raised, her face showing pure delight and wonder. The cow's mouth is open as if mooing. Bright green grass surrounds them with a wooden fence in the background.",
+            "alt": "Dara pointing at a mooing cow",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Pig says OINK! OINK!",
+          "illustration": {
+            "description": "A plump pink pig with a curly tail rolls happily in brown mud near a wooden fence. Dara claps her hands together with joy, her eyes sparkling with excitement. The pig has a friendly snout and small bright eyes. Soft pink and brown tones dominate with green grass around the mud puddle.",
+            "alt": "Dara clapping while watching a pig oink",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Duck says QUACK! QUACK!",
+          "illustration": {
+            "description": "A bright yellow duck with an orange bill swims in a clear blue pond. Dara sits on the grassy bank, leaning forward with wonder as ripples spread around the duck. Cattails and water lilies add gentle details to the pond scene. The duck's head is tilted up as if quacking loudly.",
+            "alt": "Dara watching a duck quack on a pond",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sheep says BAA! BAA!",
+          "illustration": {
+            "description": "A fluffy white sheep with a sweet pink nose stands in a field of daisies. Dara reaches out gently toward the sheep's woolly coat, her expression full of gentle curiosity. The sheep appears calm and friendly with large dark eyes. White and soft yellow flowers dot the green meadow background.",
+            "alt": "Dara reaching toward a fluffy sheep",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Horse says NEIGH! NEIGH!",
+          "illustration": {
+            "description": "A beautiful brown horse with a flowing dark mane tosses its head near a red barn. Dara stands safely by a wooden fence, her arms stretched up toward the horse with excitement. The horse's head is lifted as if neighing. Golden hay bales and a bright blue sky with puffy clouds complete the scene.",
+            "alt": "Dara watching a horse neigh by the barn",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Chick says PEEP! PEEP!",
+          "illustration": {
+            "description": "Three tiny yellow chicks with fluffy down feathers gather around Dara's feet in the farmyard. Dara kneels down with her hands on her knees, gazing at the baby chicks with tender fascination. Their small orange beaks are open as if peeping. Scattered straw and a wooden coop door create a cozy background.",
+            "alt": "Dara kneeling to watch baby chicks peep",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Dara says BYE-BYE! BYE-BYE!",
+          "illustration": {
+            "description": "Dara waves goodbye with both hands raised high, her face beaming with happiness. Behind her, all the farm animals (cow, pig, duck, sheep, horse, and chicks) are visible in the distance across the green farmyard. The setting sun casts a warm golden glow over everything. Her curly hair bounces as she waves enthusiastically.",
+            "alt": "Dara waving goodbye to all the farm animals",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "animal sounds",
+      "farm life",
+      "exploration",
+      "language development"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does the cow make?",
+        "choices": [
+          "MOO!",
+          "OINK!"
+        ],
+        "correctIndex": 0,
+        "explanation": "The cow says MOO! MOO!"
+      },
+      {
+        "id": "q2",
+        "question": "What animal says PEEP?",
+        "choices": [
+          "Duck",
+          "Chick"
+        ],
+        "correctIndex": 1,
+        "explanation": "The baby chick says PEEP! PEEP!"
+      },
+      {
+        "id": "q3",
+        "question": "Where does Dara go?",
+        "choices": [
+          "Farm",
+          "Park"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dara goes to the farm to hear animal sounds!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Cow says ___! ___!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "MOO",
+            "distractors": [
+              "BAA",
+              "OINK"
+            ]
+          },
+          {
+            "wordIndex": 3,
+            "correctWord": "MOO",
+            "distractors": [
+              "QUACK",
+              "NEIGH"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "___ says PEEP! PEEP!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Chick",
+            "distractors": [
+              "Pig",
+              "Horse"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

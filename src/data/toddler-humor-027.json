@@ -1,0 +1,185 @@
+{
+  "id": "toddler-humor-027",
+  "title": "Thandi's Giggling Garden",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "humor",
+    "fantasy"
+  ],
+  "wordCount": 187,
+  "readingLevel": "1.2",
+  "synopsis": "When Thandi discovers that her grandmother's magical garden vegetables have come to life and are making silly sounds, she must figure out how to help them stop their uncontrollable giggling so they can grow properly again.",
+  "coverImage": "covers/toddler-humor-027.webp",
+  "chapters": [
+    {
+      "title": "The Giggly Vegetables",
+      "pages": [
+        {
+          "text": "Thandi loved visiting her Gogo's garden. Today, she heard something very strange - little giggles coming from the vegetable patch! \"Hee-hee-hee!\" laughed the carrots. \"Ho-ho-ho!\" chuckled the tomatoes. Thandi felt surprised and excited. What was making the vegetables so happy?",
+          "illustration": {
+            "description": "A young Black girl with curly hair in colorful hair ties stands amazed in a vibrant garden. Cartoon vegetables with smiling faces and rosy cheeks are giggling around her feet. The garden has bright green plants, red tomatoes, and orange carrots with tiny arms waving. The background shows a sunny blue sky with puffy white clouds.",
+            "alt": "Thandi looking surprised in a garden with giggling vegetables",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Gogo! Gogo!\" called Thandi, running to find her grandmother. Gogo came outside, her warm brown eyes twinkling. She wore a bright yellow headwrap and smiled knowingly. \"Oh my!\" said Gogo. \"I sprinkled my magic growing powder this morning. Sometimes it makes the vegetables very silly!\"",
+          "illustration": {
+            "description": "An elderly Black woman with kind eyes and a bright yellow and orange headwrap stands next to Thandi. She's holding a small sparkly pouch and smiling warmly. Behind them, more vegetables are giggling and wiggling in their garden rows. The scene has warm golden sunlight and shows a cozy house in the background.",
+            "alt": "Gogo explaining the magic to Thandi in the garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "But then Thandi noticed the vegetables looked tired. The poor carrots were giggling so much they couldn't grow tall! The tomatoes were laughing so hard they were turning pale instead of red. Thandi felt worried and wanted to help. \"Gogo, they look sad under all that laughing,\" she said.",
+          "illustration": {
+            "description": "The same garden scene but now the vegetables look exhausted while still giggling. The carrots appear smaller and droopy, the tomatoes are pale pink instead of red. Thandi has a concerned expression with her hand on her chin, thinking. Gogo stands beside her looking thoughtful. The lighting is softer, showing it's getting later in the day.",
+            "alt": "Tired vegetables still giggling while Thandi and Gogo look concerned",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Thandi had an idea! She started singing a gentle lullaby her Gogo taught her. \"Sleep little vegetables, rest and grow, under the stars' gentle glow.\" Slowly, the giggles became quieter. The vegetables began to yawn tiny yawns. Soon they were sleeping peacefully, and Thandi felt proud and happy that she helped her friends.",
+          "illustration": {
+            "description": "Thandi sits cross-legged in the garden under a starry twilight sky, singing softly. The vegetables now have sleepy, peaceful expressions with little 'z's floating above them. Gogo stands nearby clapping quietly with a proud smile. The scene is bathed in soft purple and blue evening colors with twinkling stars above.",
+            "alt": "Thandi singing a lullaby to sleepy vegetables under the stars",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "problem-solving",
+      "helping others",
+      "family bonds",
+      "magic in everyday life"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "What sound were the vegetables making?",
+        "choices": [
+          "Crying",
+          "Giggling",
+          "Singing"
+        ],
+        "correctIndex": 1,
+        "explanation": "The vegetables were giggling and laughing - 'Hee-hee-hee!' and 'Ho-ho-ho!'"
+      },
+      {
+        "id": 2,
+        "question": "How did Thandi feel when she first heard the vegetables?",
+        "choices": [
+          "Scared",
+          "Surprised and excited",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Thandi felt surprised and excited when she discovered the giggling vegetables."
+      },
+      {
+        "id": 3,
+        "question": "Why were the vegetables getting tired?",
+        "choices": [
+          "They were too hot",
+          "They were giggling too much",
+          "They were hungry"
+        ],
+        "correctIndex": 1,
+        "explanation": "The vegetables were giggling so much they couldn't grow properly and were getting tired."
+      },
+      {
+        "id": 4,
+        "question": "How did Thandi help the vegetables?",
+        "choices": [
+          "She gave them water",
+          "She sang a lullaby",
+          "She picked them"
+        ],
+        "correctIndex": 1,
+        "explanation": "Thandi sang a gentle lullaby to help the vegetables calm down and sleep."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words",
+        "text": "Thandi heard little _____ coming from the garden. The vegetables were making silly sounds and felt very _____. Thandi sang a _____ to help them sleep.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "giggles",
+            "distractors": [
+              "songs",
+              "cries",
+              "whispers"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "happy",
+            "distractors": [
+              "sad",
+              "angry",
+              "scared"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "lullaby",
+            "distractors": [
+              "joke",
+              "story",
+              "dance"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Complete the Story",
+        "text": "Gogo wore a bright yellow _____ and had magic growing _____. When Thandi felt _____ about the tired vegetables, she knew she had to help them.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "headwrap",
+            "distractors": [
+              "hat",
+              "shirt",
+              "shoes"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "powder",
+            "distractors": [
+              "water",
+              "seeds",
+              "tools"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "worried",
+            "distractors": [
+              "happy",
+              "sleepy",
+              "hungry"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

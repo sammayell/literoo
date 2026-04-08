@@ -1,0 +1,203 @@
+{
+  "id": "toddler-nature-026",
+  "title": "Enzo's Brave Garden Day",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "nature",
+    "school"
+  ],
+  "wordCount": 225,
+  "readingLevel": "1.2",
+  "synopsis": "When Enzo feels scared about his first day helping in the school garden, he discovers that being brave means trying new things with friends, and finds joy in planting seeds and watching them grow.",
+  "coverImage": "covers/toddler-nature-026.webp",
+  "chapters": [
+    {
+      "title": "Scared of the Garden",
+      "pages": [
+        {
+          "text": "Enzo looked at the big school garden. His teacher, Ms. Rosa, smiled and said, \"Today we plant seeds!\" But Enzo felt scared. The garden looked so big and muddy. He wanted to hide behind his backpack.",
+          "illustration": {
+            "description": "A young Latino boy with short dark hair and brown eyes stands nervously at the edge of a colorful school garden. Ms. Rosa, a kind Black woman with curly hair in a bright yellow apron, gestures welcomingly toward raised garden beds. Enzo clutches his small blue backpack, his expression worried but curious. The garden has wooden raised beds with rich brown soil, green plants, and a cheerful red watering can nearby.",
+            "alt": "Enzo looking nervous at the garden while his teacher welcomes him",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I don't know how to plant,\" Enzo whispered. His friend Maya heard him. She had dirt on her hands but looked very happy. \"It's okay, Enzo,\" Maya said. \"I was scared too, but it's fun! Want to try together?\"",
+          "illustration": {
+            "description": "Maya, a cheerful girl with shoulder-length black hair and Asian features, kneels beside a garden bed with soil on her bright pink gardening gloves. She smiles encouragingly at Enzo, who stands nearby looking uncertain but slightly more hopeful. The scene shows other diverse children in the background happily working in the garden, with green plants and colorful flowers creating a warm, welcoming atmosphere.",
+            "alt": "Maya encouraging Enzo to join her in the garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Enzo took a deep breath. He felt a little brave now. Maya was his friend, and she would help him. \"Okay,\" he said quietly. \"I'll try.\" Ms. Rosa gave him small gardening gloves that fit just right.",
+          "illustration": {
+            "description": "Enzo puts on tiny green gardening gloves while Maya claps her hands excitedly beside him. Ms. Rosa hands him a small packet of sunflower seeds. Enzo's expression shows he's still nervous but trying to be brave, with a small smile beginning to form. The background shows the sunny garden with other children working happily, creating a supportive and encouraging environment.",
+            "alt": "Enzo putting on gardening gloves, looking more brave",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Happy in the Garden",
+      "pages": [
+        {
+          "text": "Maya showed Enzo how to make a little hole in the soft dirt. \"Put the seed in here,\" she said. Enzo dropped the tiny seed into the hole. It felt good to touch the warm soil with his gloved hands.",
+          "illustration": {
+            "description": "Enzo and Maya kneel side by side at a raised garden bed. Enzo carefully drops a small seed into a hole in the rich brown soil while Maya points and guides him. Both children wear colorful gardening gloves. Their faces show concentration and growing excitement. The garden bed is filled with dark, fertile soil, and other gardening tools like small shovels and a watering can are visible nearby.",
+            "alt": "Enzo planting his first seed with Maya's help",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Now we cover it up and water it,\" Maya explained. Enzo patted the dirt gently over his seed. Then he used the watering can. The water made the soil dark and rich. Enzo felt proud and happy!",
+          "illustration": {
+            "description": "Enzo holds a small red watering can, carefully sprinkling water over the freshly planted seed. His face beams with pride and joy, showing a big smile. Maya watches approvingly beside him. Water droplets catch the sunlight, and the soil looks rich and dark. Other children in the background are also watering their plants, creating a scene of shared accomplishment and happiness.",
+            "alt": "Enzo watering his planted seed, looking very happy and proud",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I did it!\" Enzo said with a big smile. He wasn't scared anymore. He felt brave and excited. \"When will my sunflower grow?\" he asked. Ms. Rosa hugged him. \"Soon, Enzo. You were very brave today!\"",
+          "illustration": {
+            "description": "Enzo stands tall and proud next to his planted garden bed, arms raised in celebration with a huge smile on his face. Ms. Rosa gives him an encouraging hug while Maya cheers beside them. The garden scene is bright and cheerful, with all the children's planted beds visible, some small green sprouts already emerging from other plots. The sun shines warmly over the scene, and everyone looks happy and accomplished.",
+            "alt": "Enzo celebrating his successful planting with his teacher and friend",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "overcoming fear",
+      "friendship",
+      "nature connection",
+      "school activities",
+      "personal growth"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Enzo feel when he first saw the garden?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Enzo felt scared when he first saw the big garden and wanted to hide behind his backpack."
+      },
+      {
+        "id": 2,
+        "question": "Who helped Enzo feel brave?",
+        "choices": [
+          "Maya",
+          "His mom",
+          "A dog"
+        ],
+        "correctIndex": 0,
+        "explanation": "Maya, his friend, helped Enzo feel brave by encouraging him and showing him how to plant."
+      },
+      {
+        "id": 3,
+        "question": "What did Enzo plant in the garden?",
+        "choices": [
+          "A carrot",
+          "A sunflower",
+          "A tree"
+        ],
+        "correctIndex": 1,
+        "explanation": "Enzo planted a sunflower seed in the garden with Maya's help."
+      },
+      {
+        "id": 4,
+        "question": "How did Enzo feel at the end?",
+        "choices": [
+          "Sad",
+          "Scared",
+          "Happy and brave"
+        ],
+        "correctIndex": 2,
+        "explanation": "At the end, Enzo felt happy and brave because he had successfully planted his seed."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words",
+        "instruction": "Help complete Enzo's story by choosing the right words!",
+        "text": "Enzo felt _____ when he saw the big garden. But Maya helped him feel _____ and they planted a _____ seed together.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 10,
+            "correctWord": "brave",
+            "distractors": [
+              "sad",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 14,
+            "correctWord": "sunflower",
+            "distractors": [
+              "cookie",
+              "toy"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Garden Words",
+        "instruction": "What did Enzo use in the garden?",
+        "text": "Enzo wore _____ on his hands and used a _____ to water his seed in the _____.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "gloves",
+            "distractors": [
+              "shoes",
+              "hat"
+            ]
+          },
+          {
+            "wordIndex": 8,
+            "correctWord": "watering can",
+            "distractors": [
+              "spoon",
+              "book"
+            ]
+          },
+          {
+            "wordIndex": 14,
+            "correctWord": "soil",
+            "distractors": [
+              "water",
+              "sky"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

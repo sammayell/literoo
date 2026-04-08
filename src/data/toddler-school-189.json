@@ -1,0 +1,204 @@
+{
+  "id": "toddler-school-189",
+  "title": "Noor's First Day at Animal School",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "school",
+    "animals"
+  ],
+  "wordCount": 277,
+  "readingLevel": "1.2",
+  "synopsis": "Noor feels nervous about her first day at a special school where children learn alongside friendly animals. With the help of her new animal friends, she discovers that being brave means trying new things even when you feel scared.",
+  "coverImage": "covers/toddler-school-189.webp",
+  "chapters": [
+    {
+      "title": "Scared About School",
+      "pages": [
+        {
+          "text": "Noor looked at her new school and felt scared. Her tummy had butterflies! The big red building had a sign that said 'Happy Paws Learning School.' She could hear animal sounds from inside.",
+          "illustration": {
+            "description": "A young girl with dark curly hair and brown skin stands outside a cheerful red brick school building, holding her parent's hand. Her expression shows nervousness with wide eyes. Colorful animal paw prints decorate the school sign. Bright blue sky with fluffy white clouds overhead.",
+            "alt": "Noor feeling nervous outside her new school",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama gave Noor a big hug. 'It's okay to feel scared,' Mama said. 'New places can feel scary at first. But you are very brave, my little star.' Noor took a deep breath and squeezed Mama's hand tight.",
+          "illustration": {
+            "description": "A warm scene showing Noor receiving a comforting hug from her mama, who has matching curly hair and kind eyes. They stand near the school entrance with colorful flowers in the background. The mood is loving and supportive with soft golden lighting.",
+            "alt": "Mama hugging Noor before school",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Meeting New Friends",
+      "pages": [
+        {
+          "text": "Inside the classroom, Noor saw something amazing! A fluffy orange cat sat at a tiny desk next to a boy with glasses. A gentle brown rabbit was helping a girl with blonde hair read a book.",
+          "illustration": {
+            "description": "A bright, cheerful classroom with small desks where children and animals sit together. An orange tabby cat with friendly green eyes sits next to a boy with dark skin and round glasses. A soft brown bunny with floppy ears helps a girl with blonde pigtails. Colorful alphabet letters decorate the walls.",
+            "alt": "Children and animals learning together in the classroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A happy golden puppy bounded over to Noor. 'Woof! I'm Sunny!' the puppy said with a big doggy smile. 'Want to be my learning buddy?' Noor felt surprised that the puppy could talk!",
+          "illustration": {
+            "description": "A joyful golden retriever puppy with sparkling brown eyes and a wagging tail approaches Noor. The puppy has a bright red collar and an enthusiastic expression. Noor looks amazed and delighted, her scared expression changing to wonder. The classroom background shows other happy animal-child pairs.",
+            "alt": "Sunny the puppy greeting Noor",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Yes!' said Noor, feeling less scared and more excited. Sunny wagged his tail so hard his whole body wiggled. 'We're going to have so much fun learning together!' he barked happily.",
+          "illustration": {
+            "description": "Noor kneeling down to pet Sunny, both looking happy and excited. Noor's nervous expression has transformed into a bright smile. Sunny's tail is a blur of motion, showing his excitement. The scene is filled with warm yellow and orange colors suggesting friendship and joy.",
+            "alt": "Noor and Sunny becoming friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Being Brave Together",
+      "pages": [
+        {
+          "text": "When it was time for art class, Noor felt scared again. She had never painted with paws before! Sunny showed her how to dip the brush in paint. 'Being brave means trying new things,' he said.",
+          "illustration": {
+            "description": "Noor and Sunny at an art table covered with colorful paints and brushes. Sunny demonstrates holding a paintbrush in his mouth while Noor watches with curiosity mixed with nervousness. Paint splashes and rainbow colors cover the table in a joyful mess. Other animal-child pairs paint in the background.",
+            "alt": "Art time with Noor and Sunny painting together",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Noor tried painting with Sunny. They made a beautiful picture of a rainbow together! Noor felt so proud and happy. 'I was scared, but I was brave too!' she said with a big smile.",
+          "illustration": {
+            "description": "Noor and Sunny admiring their collaborative rainbow painting, both covered in colorful paint splatters. Noor's face glows with pride and happiness, while Sunny has paint on his nose and looks equally pleased. Their rainbow painting shows bright, bold strokes in primary colors against the easel.",
+            "alt": "Noor and Sunny proud of their rainbow painting",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "At the end of the day, Noor hugged Sunny goodbye. 'Thank you for helping me be brave,' she said. 'Tomorrow I want to come back and learn more!' School wasn't scary anymore - it was wonderful!",
+          "illustration": {
+            "description": "A heartwarming scene of Noor giving Sunny a gentle hug at the school entrance. Both characters radiate happiness and friendship. Other diverse children and their animal buddies say goodbye in the background. The afternoon sun creates a warm, golden glow over the scene, emphasizing the joy and comfort of new friendships.",
+            "alt": "Noor hugging Sunny goodbye after a great first day",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "overcoming fears",
+      "friendship",
+      "school readiness",
+      "courage",
+      "new experiences"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Noor feel when she first saw her new school?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Noor felt scared when she first saw her new school because it was a new place and new things can feel scary at first."
+      },
+      {
+        "id": "q2",
+        "question": "What kind of animal became Noor's learning buddy?",
+        "choices": [
+          "A cat",
+          "A puppy",
+          "A rabbit"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sunny the golden puppy became Noor's learning buddy and helped her feel less scared at school."
+      },
+      {
+        "id": "q3",
+        "question": "What did Noor and Sunny paint together?",
+        "choices": [
+          "A house",
+          "A rainbow",
+          "A tree"
+        ],
+        "correctIndex": 1,
+        "explanation": "Noor and Sunny painted a beautiful rainbow together during art class, which made Noor feel proud and happy."
+      },
+      {
+        "id": "q4",
+        "question": "How did Noor feel about school at the end of the day?",
+        "choices": [
+          "Still scared",
+          "Wonderful",
+          "Sad"
+        ],
+        "correctIndex": 1,
+        "explanation": "By the end of the day, Noor thought school was wonderful and wanted to come back to learn more."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Noor felt _____ about her first day at school, but Sunny the _____ helped her feel better.",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "angry"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "puppy",
+            "distractors": [
+              "cat",
+              "rabbit"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Being _____ means trying new things, even when they feel scary. Noor and Sunny painted a beautiful _____ together.",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "brave",
+            "distractors": [
+              "sad",
+              "tired"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "rainbow",
+            "distractors": [
+              "house",
+              "flower"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

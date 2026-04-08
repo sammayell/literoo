@@ -1,0 +1,164 @@
+{
+  "id": "baby-animals-092",
+  "title": "Elio's Animal Feelings",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "animals",
+    "feelings"
+  ],
+  "wordCount": 62,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Elio discovers different animal sounds and the happy feelings they bring. Through gentle repetition and musical animal sounds, Elio learns that animals make him feel joyful, safe, and loved.",
+  "coverImage": "covers/baby-animals-092.webp",
+  "chapters": [
+    {
+      "title": "Elio's Animal Feelings",
+      "pages": [
+        {
+          "text": "Elio hears sounds. Happy sounds!",
+          "illustration": {
+            "description": "A cheerful toddler boy named Elio with warm brown skin and curly black hair sits on a soft yellow blanket in a sunny park. His dark eyes sparkle with curiosity as he tilts his head to listen. Green grass and blue sky create a peaceful background with high contrast colors.",
+            "alt": "Happy toddler Elio sitting on blanket listening to sounds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Moo! Moo! Goes the cow. Elio feels happy!",
+          "illustration": {
+            "description": "A friendly black and white cow with large gentle eyes stands in a pastel green meadow. Elio claps his hands with delight, his face beaming with joy. Soft watercolor textures and rounded shapes create a warm, soothing atmosphere.",
+            "alt": "Elio clapping happily next to a gentle cow",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Woof! Woof! Goes the dog. Elio feels safe!",
+          "illustration": {
+            "description": "A fluffy golden retriever with a wagging tail sits next to Elio on the grass. The dog's tongue hangs out playfully while Elio reaches out to pet it. Warm orange and yellow tones dominate the scene with soft, comforting lighting.",
+            "alt": "Elio petting a friendly golden dog",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Tweet! Tweet! Goes the bird. Elio feels excited!",
+          "illustration": {
+            "description": "A bright red cardinal perches on a low tree branch above Elio. The toddler points up with wonder, his mouth forming an 'o' of amazement. Soft green leaves and blue sky create a high-contrast background perfect for baby eyes.",
+            "alt": "Elio pointing excitedly at a red bird in tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Baa! Baa! Goes the sheep. Elio feels cozy!",
+          "illustration": {
+            "description": "A fluffy white sheep with a pink nose stands in a lavender field. Elio sits cross-legged, looking content and peaceful. The sheep's wool appears extra soft and cloud-like, with gentle purple and white colors creating a dreamy, cozy mood.",
+            "alt": "Elio sitting peacefully with a fluffy white sheep",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Meow! Meow! Goes the cat. Elio feels warm!",
+          "illustration": {
+            "description": "An orange tabby cat rubs against Elio's leg affectionately. Elio giggles with pure delight, his hands reaching down to touch the cat. Warm amber and peach tones fill the scene, emphasizing the feeling of warmth and comfort.",
+            "alt": "Elio giggling as orange cat rubs against his leg",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Neigh! Neigh! Goes the horse. Elio feels brave!",
+          "illustration": {
+            "description": "A gentle brown horse with a flowing mane bends down to Elio's level in a grassy field. Elio stands tall and confident, one small hand stretched toward the horse. Strong but gentle colors of brown and green create a sense of courage and friendship.",
+            "alt": "Brave Elio reaching toward a gentle brown horse",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "All the animals! All the sounds! Elio feels loved!",
+          "illustration": {
+            "description": "Elio sits in the center surrounded by all the animals from the story - cow, dog, bird, sheep, cat, and horse - all gathered in a circle around him. Everyone looks happy and content. Soft rainbow colors and warm lighting create a feeling of complete love and belonging.",
+            "alt": "Elio surrounded by all his animal friends in loving circle",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "animal sounds",
+      "emotions",
+      "joy",
+      "safety",
+      "love"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does the cow make?",
+        "choices": [
+          "Moo! Moo!",
+          "Woof! Woof!"
+        ],
+        "correctIndex": 0,
+        "explanation": "The cow says 'Moo! Moo!' and makes Elio feel happy!"
+      },
+      {
+        "id": "q2",
+        "question": "How does Elio feel with the dog?",
+        "choices": [
+          "Safe",
+          "Scared"
+        ],
+        "correctIndex": 0,
+        "explanation": "The dog makes Elio feel safe with its friendly 'Woof! Woof!'"
+      },
+      {
+        "id": "q3",
+        "question": "What color is the bird?",
+        "choices": [
+          "Red",
+          "Blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "The bird is a bright red cardinal that says 'Tweet! Tweet!'"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Moo! ___ goes the cow. Elio feels happy!",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "Moo!",
+            "distractors": [
+              "Woof!",
+              "Meow!"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "___ feels safe with the dog!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Elio",
+            "distractors": [
+              "Mama",
+              "Doggy"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

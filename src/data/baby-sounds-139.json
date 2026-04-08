@@ -1,0 +1,170 @@
+{
+  "id": "baby-sounds-139",
+  "title": "Noor Hears Animals Say Hello",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "sounds",
+    "animals"
+  ],
+  "wordCount": 60,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Noor explores her neighborhood and discovers the wonderful sounds different animals make, from cats meowing to birds chirping. Each page introduces a new animal friend with their special sound, creating a gentle, repetitive pattern perfect for babies learning about the world around them.",
+  "coverImage": "covers/baby-sounds-139.webp",
+  "chapters": [
+    {
+      "title": "Animal Sounds",
+      "pages": [
+        {
+          "text": "Noor hears sounds everywhere! What do you hear?",
+          "illustration": {
+            "description": "A cheerful baby girl with warm brown skin and soft black curls sits in a sunny garden, wearing a bright yellow dress. She has large, curious dark eyes and is cupping her hand to her ear in a listening pose. The background shows a peaceful neighborhood with pastel-colored houses and blooming flowers in soft pinks and purples.",
+            "alt": "Baby Noor listening carefully in a colorful garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Cat says MEOW! Meow, meow, meow!",
+          "illustration": {
+            "description": "A fluffy orange tabby cat sits near Noor on a soft green lawn, its mouth open mid-meow. The cat has bright amber eyes and a friendly expression. Noor is reaching toward the cat with delight, her face showing pure joy. Gentle watercolor textures create a dreamy, soft atmosphere with dappled sunlight.",
+            "alt": "Orange cat meowing while Noor reaches toward it happily",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Dog says WOOF! Woof, woof, woof!",
+          "illustration": {
+            "description": "A golden retriever with a wagging tail stands beside Noor, barking playfully with its tongue hanging out. The dog's fur gleams in warm honey tones. Noor claps her hands together with glee, sitting cross-legged on a colorful picnic blanket with red and white checks.",
+            "alt": "Friendly golden dog barking while Noor claps with joy",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Bird says TWEET! Tweet, tweet, tweet!",
+          "illustration": {
+            "description": "A small blue robin perches on a low tree branch above Noor, its beak open in song. The bird has a cheerful red breast and bright black eyes. Noor looks up with wonder, pointing at the singing bird. Soft green leaves frame the scene with gentle shadows creating depth.",
+            "alt": "Little blue bird tweeting on branch while Noor points up",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Cow says MOO! Moo, moo, moo!",
+          "illustration": {
+            "description": "A gentle black and white spotted cow leans over a wooden fence, looking down at Noor with kind brown eyes. The cow's pink nose is prominent as it moos. Noor stands holding the fence, giggling up at the friendly farm animal. Rolling green hills stretch behind them in soft watercolor washes.",
+            "alt": "Spotted cow mooing over fence to delighted Noor",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Duck says QUACK! Quack, quack, quack!",
+          "illustration": {
+            "description": "A bright yellow duck waddles near a small pond, its orange bill open wide. Water ripples in gentle blue circles around the duck's feet. Noor sits at the pond's edge, splashing her fingers in the water with pure delight. Cattails and water lilies add soft details to the peaceful scene.",
+            "alt": "Yellow duck quacking by pond while Noor splashes water",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sheep says BAA! Baa, baa, baa!",
+          "illustration": {
+            "description": "A fluffy white sheep with curly wool stands in a meadow dotted with tiny wildflowers. The sheep has a sweet pink nose and gentle eyes. Noor sits in the grass nearby, reaching out to touch the sheep's soft wool. Pastel flowers in lavender and cream create a dreamy backdrop.",
+            "alt": "Woolly sheep baaing while Noor reaches to pet it",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Bee says BUZZ! Buzz, buzz, buzz!",
+          "illustration": {
+            "description": "A round, fuzzy bumblebee with black and yellow stripes hovers near colorful flowers. The bee has tiny wings that seem to flutter. Noor watches from a safe distance, her eyes wide with fascination. Bright sunflowers and daisies create a cheerful garden setting in warm yellow and orange tones.",
+            "alt": "Striped bee buzzing around flowers while Noor watches amazed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "All the animals say hello to Noor! She waves goodbye!",
+          "illustration": {
+            "description": "Noor stands in the center waving with both hands raised high, surrounded by all the animals from the story arranged in a gentle circle. The cat, dog, bird, cow, duck, sheep, and bee are all visible, creating a warm community feeling. Golden sunset light bathes the entire scene in soft, peaceful colors.",
+            "alt": "Noor waving goodbye surrounded by all her new animal friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "animal sounds",
+      "nature exploration",
+      "sensory learning"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does the cat make?",
+        "choices": [
+          "MEOW",
+          "WOOF"
+        ],
+        "correctIndex": 0,
+        "explanation": "The cat says MEOW! Cats meow to communicate."
+      },
+      {
+        "id": "q2",
+        "question": "Which animal says MOO?",
+        "choices": [
+          "Duck",
+          "Cow"
+        ],
+        "correctIndex": 1,
+        "explanation": "The cow says MOO! Cows moo when they talk."
+      },
+      {
+        "id": "q3",
+        "question": "What does Noor do at the end?",
+        "choices": [
+          "Waves goodbye",
+          "Goes to sleep"
+        ],
+        "correctIndex": 0,
+        "explanation": "Noor waves goodbye to all her animal friends!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Cat says ____! Meow, meow, meow!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "MEOW",
+            "distractors": [
+              "WOOF",
+              "TWEET"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Dog says ____! Woof, woof, woof!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "WOOF",
+            "distractors": [
+              "MEOW",
+              "MOO"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

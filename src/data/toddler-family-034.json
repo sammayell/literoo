@@ -1,0 +1,206 @@
+{
+  "id": "toddler-family-034",
+  "title": "Jasper's Messy Morning",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "family",
+    "humor"
+  ],
+  "wordCount": 162,
+  "readingLevel": "1.2",
+  "synopsis": "When three-year-old Jasper tries to make breakfast for his family, everything goes hilariously wrong, but his loving parents help him see that mistakes can be wonderful too.",
+  "coverImage": "covers/toddler-family-034.webp",
+  "chapters": [
+    {
+      "title": "Big Helper",
+      "pages": [
+        {
+          "text": "Jasper wanted to be a big helper. He tiptoed to the kitchen while Mama and Papa slept. \"I'll make breakfast!\" he whispered happily to himself.",
+          "illustration": {
+            "description": "A cheerful three-year-old boy with warm brown skin and curly black hair wearing bright blue pajamas, tiptoeing through a cozy kitchen with wooden cabinets and yellow walls. Morning sunlight streams through a window with checkered curtains. Jasper has a big smile and excited, sparkling eyes.",
+            "alt": "Jasper tiptoeing happily in the kitchen",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "First, Jasper tried to reach the cereal box. CRASH! The box fell down and cereal scattered everywhere. \"Uh oh,\" said Jasper, feeling a little worried.",
+          "illustration": {
+            "description": "Jasper looking surprised with wide eyes and an 'o' shaped mouth, standing among scattered colorful cereal pieces on the bright red kitchen floor. The empty cereal box lies sideways nearby. His expression shows mild worry but still curiosity. The kitchen counter towers above him, emphasizing his small size.",
+            "alt": "Jasper surrounded by spilled cereal looking worried",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Then he climbed on a chair to get eggs. CRACK! SPLAT! The eggs broke on the counter and dripped to the floor. Now Jasper felt scared. \"This is all wrong!\"",
+          "illustration": {
+            "description": "Jasper standing on a wooden chair reaching toward the counter, with broken eggshells and yellow egg yolk splattered across the green countertop and dripping down. His face shows genuine worry and fear, with downturned eyebrows and a frown. The mess looks comically large around the small boy.",
+            "alt": "Jasper on chair with broken eggs everywhere looking scared",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Love and Laughter",
+      "pages": [
+        {
+          "text": "Mama and Papa woke up and found the messy kitchen. But instead of being mad, they started laughing! \"What a wonderful surprise!\" said Mama, giving Jasper a big hug.",
+          "illustration": {
+            "description": "Jasper's parents in the doorway - Mama with long black hair in a purple robe and Papa with glasses and a green robe, both smiling warmly and laughing. Mama has her arms open for a hug. Jasper stands in the middle of the colorful mess looking uncertain but hopeful. The scene feels warm and loving despite the chaos.",
+            "alt": "Jasper's parents laughing warmly at the messy kitchen",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"You wanted to help us,\" said Papa kindly. \"That makes us so happy! Let's clean up together and make pancakes.\" Jasper felt brave and loved again.",
+          "illustration": {
+            "description": "All three family members cleaning together - Jasper holding a small paper towel, Mama sweeping cereal with a bright yellow broom, and Papa wiping the counter. Everyone is smiling and working as a team. The kitchen feels warm and cooperative with golden morning light. Jasper's expression shows relief and joy.",
+            "alt": "The family happily cleaning the kitchen together",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Soon they were all eating fluffy pancakes together. \"Next time, wake us up first,\" giggled Mama. Jasper felt proud and happy. He was still a good helper!",
+          "illustration": {
+            "description": "The family sitting around a round wooden table with a stack of golden pancakes, orange juice, and fresh berries. All three are laughing and eating together. Jasper has syrup on his cheek and looks absolutely delighted. The kitchen is now clean and filled with warm, loving energy. Bright morning sunlight makes everything glow.",
+            "alt": "The happy family eating pancakes together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family love",
+      "helping others",
+      "learning from mistakes",
+      "problem solving"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Jasper feel when he spilled the cereal?",
+        "choices": [
+          "Happy",
+          "Worried",
+          "Sleepy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Jasper felt worried when the cereal scattered everywhere and said 'Uh oh.'"
+      },
+      {
+        "id": 2,
+        "question": "What did Jasper's parents do when they saw the mess?",
+        "choices": [
+          "Got angry",
+          "Started laughing",
+          "Went back to sleep"
+        ],
+        "correctIndex": 1,
+        "explanation": "Instead of being mad, Mama and Papa started laughing and called it a wonderful surprise."
+      },
+      {
+        "id": 3,
+        "question": "What did the family make together?",
+        "choices": [
+          "Pancakes",
+          "Cereal",
+          "Eggs"
+        ],
+        "correctIndex": 0,
+        "explanation": "Papa suggested they clean up together and make pancakes, which they ate at the end."
+      },
+      {
+        "id": 4,
+        "question": "How did Jasper feel at the end of the story?",
+        "choices": [
+          "Scared",
+          "Sad",
+          "Proud and happy"
+        ],
+        "correctIndex": 2,
+        "explanation": "Jasper felt proud and happy because he learned he was still a good helper."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words",
+        "text": "Jasper wanted to be a big ___. He went to the ___ to make breakfast. When he dropped the cereal, he felt ___.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "helper",
+            "distractors": [
+              "sleeper",
+              "jumper",
+              "dancer"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "kitchen",
+            "distractors": [
+              "bedroom",
+              "bathroom",
+              "garden"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "worried",
+            "distractors": [
+              "hungry",
+              "silly",
+              "cold"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Complete the Story",
+        "text": "Mama and Papa started ___ when they saw the mess. They gave Jasper a big ___. Then they all made ___ together.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "laughing",
+            "distractors": [
+              "crying",
+              "sleeping",
+              "running"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "hug",
+            "distractors": [
+              "sandwich",
+              "book",
+              "toy"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "pancakes",
+            "distractors": [
+              "cookies",
+              "pizza",
+              "soup"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

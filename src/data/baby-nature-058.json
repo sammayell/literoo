@@ -1,0 +1,164 @@
+{
+  "id": "baby-nature-058",
+  "title": "Felix Sleeps with Nature",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "nature",
+    "bedtime"
+  ],
+  "wordCount": 55,
+  "readingLevel": "0.5",
+  "synopsis": "Little Felix explores the gentle sounds of nature as nighttime approaches, from chirping birds to rustling leaves, before settling down for a peaceful sleep surrounded by the soothing whispers of the natural world.",
+  "coverImage": "covers/baby-nature-058.webp",
+  "chapters": [
+    {
+      "title": "Nature's Lullaby",
+      "pages": [
+        {
+          "text": "Felix hears the birds. Tweet, tweet, tweet!",
+          "illustration": {
+            "description": "A cheerful toddler Felix with warm brown skin and curly black hair sits on soft green grass, looking up with wonder at colorful birds in a tree. His expression shows pure joy and curiosity. The background features a gentle blue sky with fluffy white clouds, and the tree has rounded, soft branches with pastel green leaves.",
+            "alt": "Felix listening to birds chirping in a tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Felix hears the bees. Buzz, buzz, buzz!",
+          "illustration": {
+            "description": "Felix with his arms outstretched, smiling widely as friendly cartoon bees with round yellow bodies float around colorful wildflowers. The flowers are in soft pinks, purples, and yellows against a warm cream background. Felix wears a light blue shirt and his face glows with delight.",
+            "alt": "Felix watching bees buzzing around flowers",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Felix hears the wind. Whoosh, whoosh, whoosh!",
+          "illustration": {
+            "description": "Felix's curly hair gently blows in the breeze as he stands with arms wide open, eyes closed peacefully. Soft pastel leaves in oranges and yellows swirl gently around him. The background shows rolling hills in muted green tones with a pale sunset sky.",
+            "alt": "Felix feeling the wind blow through the leaves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Felix hears the rain. Pitter, patter, pitter!",
+          "illustration": {
+            "description": "Felix sits by a large window with condensation drops, pressing his small hands against the glass while gentle rain falls outside. He wears cozy pajamas in soft mint green. Outside, the rain creates gentle ripples in a small puddle, and everything has a dreamy, watercolor wash effect in cool blues and grays.",
+            "alt": "Felix listening to rain from inside by the window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Felix hears the creek. Babble, babble, babble!",
+          "illustration": {
+            "description": "Felix sits cross-legged beside a small, winding creek with smooth rounded stones. His reflection appears gently in the clear water. Water lilies float nearby in soft whites and pinks. The scene has warm golden light filtering through overhanging willow branches, creating dappled shadows.",
+            "alt": "Felix sitting peacefully by a babbling creek",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Felix hears the owl. Hoo, hoo, hoo!",
+          "illustration": {
+            "description": "As twilight approaches, Felix looks up at a friendly owl with large, gentle eyes perched on a low branch. The sky transitions from soft orange to deep purple. Felix points up with excitement, his face illuminated by the warm evening glow. Stars begin to twinkle faintly in the darkening sky.",
+            "alt": "Felix spotting an owl as evening begins",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Felix hears the crickets. Chirp, chirp, chirp!",
+          "illustration": {
+            "description": "Felix lies on a soft blanket under a starry night sky, surrounded by tall grass where tiny crickets hide. His mother, a woman with beautiful dark skin and braided hair, sits beside him pointing to the stars. The scene glows with soft moonlight in silvery blues and purples.",
+            "alt": "Felix and his mother listening to crickets under the stars",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Now Felix sleeps. Shh, shh, shh.",
+          "illustration": {
+            "description": "Felix sleeps peacefully in his cozy bed, clutching a small stuffed owl. His room is bathed in gentle moonlight streaming through the window. On the windowsill, silhouettes of leaves create soft shadows. The color palette is soothing lavenders and soft whites, creating a serene nighttime atmosphere.",
+            "alt": "Felix sleeping peacefully in his bed",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "nature sounds",
+      "bedtime routine",
+      "sensory exploration"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound do the birds make?",
+        "choices": [
+          "Tweet, tweet",
+          "Buzz, buzz"
+        ],
+        "correctIndex": 0,
+        "explanation": "Birds make a tweeting sound!"
+      },
+      {
+        "id": "q2",
+        "question": "What does Felix hold when he sleeps?",
+        "choices": [
+          "A flower",
+          "A stuffed owl"
+        ],
+        "correctIndex": 1,
+        "explanation": "Felix sleeps with his stuffed owl friend!"
+      },
+      {
+        "id": "q3",
+        "question": "What sound does the wind make?",
+        "choices": [
+          "Whoosh, whoosh",
+          "Hoo, hoo"
+        ],
+        "correctIndex": 0,
+        "explanation": "The wind makes a whooshing sound!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Felix hears the ___. Tweet, tweet, tweet!",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "birds",
+            "distractors": [
+              "cats",
+              "cars",
+              "dogs"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Felix hears the ___. Buzz, buzz, buzz!",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "bees",
+            "distractors": [
+              "trees",
+              "keys",
+              "seas"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

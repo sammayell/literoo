@@ -1,0 +1,165 @@
+{
+  "id": "baby-food-086",
+  "title": "Oscar's Yummy Sounds",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "food",
+    "sounds"
+  ],
+  "wordCount": 50,
+  "readingLevel": "0.1",
+  "synopsis": "Baby Oscar discovers the delightful sounds that different foods make when he eats them, from crunchy apples to slurpy soup, creating a joyful mealtime adventure filled with onomatopoeia and repetitive patterns perfect for babies.",
+  "coverImage": "covers/baby-food-086.webp",
+  "chapters": [
+    {
+      "title": "Oscar's Yummy Sounds",
+      "pages": [
+        {
+          "text": "Oscar is hungry! Time to eat.",
+          "illustration": {
+            "description": "A cheerful Latino toddler named Oscar with curly dark hair and bright brown eyes sits in a wooden high chair, wearing a soft yellow bib. He has chubby cheeks and a big smile, reaching his small hands toward colorful foods on his tray. The kitchen background shows warm cream walls and gentle morning sunlight streaming through a window.",
+            "alt": "Happy baby Oscar in high chair ready to eat",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Crunch, crunch! Oscar bites his apple.",
+          "illustration": {
+            "description": "Oscar holds a bright red apple slice in his tiny fingers, his mouth open wide showing small white teeth as he takes a big bite. His eyes are squeezed shut with delight and his cheeks are puffed out. Small apple crumbs scatter on his yellow bib. The illustration uses bold reds and yellows with high contrast.",
+            "alt": "Oscar crunching on a red apple slice",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Munch, munch! Oscar chews his banana.",
+          "illustration": {
+            "description": "Oscar's chubby hands hold a peeled yellow banana, and he's taking enthusiastic bites with his mouth full and cheeks bulging. His dark curls bounce as he chews happily. Soft yellow and cream colors dominate the scene with gentle watercolor textures. A few banana pieces stick to his fingers.",
+            "alt": "Oscar munching on a yellow banana",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Squish, squish! Oscar squeezes his peach.",
+          "illustration": {
+            "description": "Oscar giggles as he gently squeezes a soft, fuzzy peach between his palms, and sweet peach juice drips down his fingers and wrists. His expression shows pure joy and wonder at the squishy texture. Warm peach and orange tones fill the illustration with droplets of juice creating movement and energy.",
+            "alt": "Oscar squishing a juicy peach with his hands",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Slurp, slurp! Oscar sips his soup.",
+          "illustration": {
+            "description": "Oscar carefully holds a small plastic spoon in his fist, leaning forward to slurp warm orange soup from a colorful bowl. His grandmother, an elderly Latina woman with gray hair in a bun and kind wrinkles around her eyes, sits nearby smiling warmly. Steam rises from the soup bowl in gentle curving lines.",
+            "alt": "Oscar slurping soup with his grandmother watching",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Chomp, chomp! Oscar bites his cookie.",
+          "illustration": {
+            "description": "Oscar holds a large chocolate chip cookie with both hands, taking an enormous bite that covers half his face. Cookie crumbs scatter everywhere - on his bib, the high chair tray, and the floor below. His eyes sparkle with mischief and delight. Rich browns and warm beiges create a cozy, indulgent feeling.",
+            "alt": "Oscar taking a big bite of chocolate chip cookie",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Gulp, gulp! Oscar drinks his milk.",
+          "illustration": {
+            "description": "Oscar tips back his sippy cup with both hands, drinking creamy white milk. A small white mustache appears on his upper lip, and his throat moves as he swallows. His father, a Black man with short beard and gentle smile, sits at the kitchen table reading a book nearby. Soft whites and pastels create a peaceful afternoon scene.",
+            "alt": "Oscar drinking milk from his sippy cup",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mmm, mmm! Oscar's tummy is happy and full.",
+          "illustration": {
+            "description": "A very content Oscar leans back in his high chair, patting his round little belly with both hands and wearing a satisfied smile. Food remnants from his meal create a colorful mess on his bib and tray - apple bits, banana pieces, cookie crumbs. His eyes are sleepy and content, surrounded by warm golden light suggesting a peaceful end to mealtime.",
+            "alt": "Happy, full Oscar patting his belly contentedly",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "mealtime",
+      "sounds",
+      "sensory exploration",
+      "family"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does Oscar make when he eats his apple?",
+        "choices": [
+          "Crunch, crunch!",
+          "Slurp, slurp!"
+        ],
+        "correctIndex": 0,
+        "explanation": "Oscar says 'Crunch, crunch!' when he bites his crunchy apple."
+      },
+      {
+        "id": "q2",
+        "question": "What does Oscar drink from his sippy cup?",
+        "choices": [
+          "Soup",
+          "Milk"
+        ],
+        "correctIndex": 1,
+        "explanation": "Oscar drinks milk from his sippy cup and gets a milk mustache!"
+      },
+      {
+        "id": "q3",
+        "question": "How does Oscar feel at the end of the story?",
+        "choices": [
+          "Happy and full",
+          "Sad and hungry"
+        ],
+        "correctIndex": 0,
+        "explanation": "Oscar's tummy is happy and full after eating all his yummy foods."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Crunch, ____! Oscar bites his apple.",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "crunch",
+            "distractors": [
+              "slurp",
+              "munch",
+              "chomp"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "____, gulp! Oscar drinks his milk.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Gulp",
+            "distractors": [
+              "Squish",
+              "Crunch",
+              "Mmm"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

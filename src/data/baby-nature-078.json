@@ -1,0 +1,175 @@
+{
+  "id": "baby-nature-078",
+  "title": "Bodhi's Sleepy Forest Friends",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "nature",
+    "bedtime"
+  ],
+  "wordCount": 66,
+  "readingLevel": "0.5",
+  "synopsis": "Little Bodhi takes a gentle walk through the forest as evening falls, discovering sleepy animals who are getting ready for bed. Each forest friend makes their own special sleepy sound, creating a soothing bedtime rhythm that helps Bodhi drift off to sleep.",
+  "coverImage": "covers/baby-nature-078.webp",
+  "chapters": [
+    {
+      "title": "Sleepy Time in the Forest",
+      "pages": [
+        {
+          "text": "Bodhi walks in the quiet forest. Shh, shh, shh.",
+          "illustration": {
+            "description": "A toddler boy with warm brown skin and soft black curly hair walks on a gentle forest path. He wears cozy blue pajamas and has a peaceful expression. Tall trees with soft green leaves surround him, dappled with golden evening light. The scene has warm pastel colors with rounded, gentle shapes.",
+            "alt": "Bodhi walking peacefully through a forest at dusk",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Owl says, 'Hoo, hoo, hoo.' Time for sleep!",
+          "illustration": {
+            "description": "A friendly brown owl with large round eyes perches on a low branch, looking down at Bodhi with a gentle expression. The owl has soft, fluffy feathers in warm brown tones. Bodhi looks up with wonder, his arms slightly raised. The background shows soft purple twilight sky through the trees.",
+            "alt": "A sleepy owl saying goodnight to Bodhi",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Bunny whispers, 'Thump, thump, thump.' So sleepy!",
+          "illustration": {
+            "description": "A small white bunny with floppy ears sits near a mossy tree stump, thumping one hind leg gently. Bodhi kneels down to the bunny's level, smiling softly. The bunny has sleepy half-closed eyes. Soft purple and pink flowers dot the forest floor around them.",
+            "alt": "A drowsy bunny thumping softly as Bodhi watches",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Bear hums, 'Rumble, rumble, rumble.' Getting cozy!",
+          "illustration": {
+            "description": "A large, friendly brown bear with a gentle smile sits against a wide tree trunk, looking sleepy with droopy eyelids. Bodhi stands nearby, waving softly. The bear has rounded, cuddly features and warm cinnamon-colored fur. Soft moonlight begins to filter through the forest canopy.",
+            "alt": "A sleepy bear humming as evening approaches",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Cricket chirps, 'Peep, peep, peep.' Night sounds!",
+          "illustration": {
+            "description": "A tiny green cricket sits on a large leaf near Bodhi's feet, with delicate wings slightly open. Bodhi crouches down with his finger pointing gently toward the cricket. The scene is lit by soft silvery moonlight, with other small fireflies beginning to twinkle in the background.",
+            "alt": "A small cricket chirping goodnight while Bodhi listens",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Wind whispers, 'Whoosh, whoosh, whoosh.' Gentle breeze.",
+          "illustration": {
+            "description": "Bodhi stands with his arms outstretched as gentle wind moves through his curly hair and pajamas. Leaves drift softly around him in warm golden and orange tones. His expression is peaceful and content. The trees sway gently with rounded, flowing shapes in the soft evening light.",
+            "alt": "Bodhi enjoying the gentle evening breeze in the forest",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Stars twinkle, 'Sparkle, sparkle, sparkle.' Sleepy sky!",
+          "illustration": {
+            "description": "Bodhi looks up at the night sky through the forest canopy, where soft white stars begin to appear. His face is tilted upward with wonder and growing sleepiness. The sky is a gentle gradient from deep purple to soft blue, with the first stars twinkling. Tree branches frame the scene softly.",
+            "alt": "Bodhi gazing up at the twinkling stars through the trees",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Bodhi yawns, 'Ahh, ahh, ahh.' Time for dreams!",
+          "illustration": {
+            "description": "Bodhi sits on a soft patch of moss, covering his mouth as he yawns widely. His eyes are heavy with sleep and his body language shows gentle tiredness. A diverse group of forest animals - the owl, bunny, and bear - watch over him protectively from nearby. Soft moonlight bathes the entire peaceful scene.",
+            "alt": "Sleepy Bodhi yawning as forest friends watch over him",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sleep tight, Bodhi. Sweet forest dreams!",
+          "illustration": {
+            "description": "Bodhi curls up peacefully on a bed of soft moss and flowers, fast asleep with a content smile. All his forest friends - owl, bunny, bear, and cricket - sleep nearby in their own cozy spots. Gentle stars and a soft crescent moon illuminate the scene. Everything feels safe, warm, and deeply peaceful.",
+            "alt": "Bodhi sleeping peacefully surrounded by his forest friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "nature sounds",
+      "peaceful sleep",
+      "forest animals"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does the owl make?",
+        "choices": [
+          "Hoo, hoo, hoo",
+          "Peep, peep, peep"
+        ],
+        "correctIndex": 0,
+        "explanation": "The owl says 'Hoo, hoo, hoo' when it's time for sleep!"
+      },
+      {
+        "id": "q2",
+        "question": "Which animal thumps in the story?",
+        "choices": [
+          "Bear",
+          "Bunny"
+        ],
+        "correctIndex": 1,
+        "explanation": "The bunny whispers 'Thump, thump, thump' when it's sleepy!"
+      },
+      {
+        "id": "q3",
+        "question": "What twinkles in the sky?",
+        "choices": [
+          "Stars",
+          "Leaves"
+        ],
+        "correctIndex": 0,
+        "explanation": "The stars twinkle 'Sparkle, sparkle, sparkle' in the sleepy sky!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "id": "puzzle1",
+        "text": "Owl says, '_____.' Time for sleep!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "Hoo, hoo, hoo",
+            "distractors": [
+              "Peep, peep, peep",
+              "Whoosh, whoosh, whoosh",
+              "Rumble, rumble, rumble"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "puzzle2",
+        "text": "_____ whispers, 'Thump, thump, thump.' So sleepy!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Bunny",
+            "distractors": [
+              "Bear",
+              "Cricket",
+              "Owl"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "id": "baby-counting-024",
+  "title": "Theo Counts Kisses",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "counting",
+    "family"
+  ],
+  "wordCount": 34,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Theo receives loving kisses from his diverse family members as he counts from one to five, learning numbers through warm family affection and gentle sounds.",
+  "coverImage": "covers/baby-counting-024.webp",
+  "chapters": [
+    {
+      "title": "Counting Kisses",
+      "pages": [
+        {
+          "text": "One kiss! Mwah!",
+          "illustration": {
+            "description": "Baby Theo, a smiling toddler with warm brown skin and soft black curls, sits in a sunny nursery with pale yellow walls. His mama, a woman with medium brown skin and natural hair in a colorful headwrap, leans down to give him a gentle kiss on his forehead. Theo's eyes sparkle with joy as he holds up one chubby finger.",
+            "alt": "Mama giving baby Theo one kiss",
+            "layout": "single_focus"
+          }
+        },
+        {
+          "text": "Two kisses! Mwah, mwah!",
+          "illustration": {
+            "description": "Theo giggles as his papa, a tall man with light brown skin and a neat beard, plants two quick kisses on both of Theo's rosy cheeks. The room is filled with soft morning light streaming through sheer curtains. Theo holds up two tiny fingers, his mouth open in delighted laughter.",
+            "alt": "Papa giving Theo two kisses on his cheeks",
+            "layout": "single_focus"
+          }
+        },
+        {
+          "text": "Three kisses! Mwah, mwah, mwah!",
+          "illustration": {
+            "description": "Grandma, an elderly woman with silver-gray hair in a soft bun and warm olive skin, covers Theo's forehead, nose, and chin with three gentle kisses. She wears a lavender cardigan and wire-rimmed glasses. Theo's hands reach up toward her face, showing three pudgy fingers as he squeals with happiness.",
+            "alt": "Grandma giving Theo three kisses",
+            "layout": "single_focus"
+          }
+        },
+        {
+          "text": "Four kisses! Mwah, mwah, mwah, mwah!",
+          "illustration": {
+            "description": "Big sister Maya, a young girl with the same warm brown skin as Theo and two neat braids tied with bright purple ribbons, peppers Theo's hands and arms with four quick kisses. The nursery background shows soft toys and books. Theo waves four fingers excitedly as Maya makes exaggerated kissing sounds.",
+            "alt": "Big sister giving Theo four kisses",
+            "layout": "single_focus"
+          }
+        },
+        {
+          "text": "Five kisses! Mwah, mwah, mwah, mwah, mwah!",
+          "illustration": {
+            "description": "Grandpa, a man with dark skin and a white mustache wearing a cozy green sweater, holds Theo on his lap and covers the baby's tummy with five tickly kisses. Theo throws his head back in pure joy, all five fingers spread wide on one hand. The room glows with warm afternoon light and family love.",
+            "alt": "Grandpa giving Theo five tummy kisses",
+            "layout": "single_focus"
+          }
+        },
+        {
+          "text": "So many kisses for Theo!",
+          "illustration": {
+            "description": "All five family members surround baby Theo in a cozy group hug in the center of the nursery. Mama, Papa, Grandma, Sister Maya, and Grandpa all lean in with loving smiles. Theo sits in the middle with both hands raised, fingers spread wide, his face beaming with pure contentment and love.",
+            "alt": "Whole family surrounding Theo with love",
+            "layout": "group_scene"
+          }
+        },
+        {
+          "text": "Kiss, kiss! Night, night!",
+          "illustration": {
+            "description": "Theo sleeps peacefully in his crib, a soft smile on his face as he dreams. The room is bathed in gentle moonlight filtering through the window. His family's photos line the wall nearby, and a mobile with stars and moons turns slowly above him. His tiny fist is curled near his cheek in perfect baby slumber.",
+            "alt": "Theo sleeping peacefully after all the kisses",
+            "layout": "single_focus"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "counting",
+      "family_love",
+      "affection",
+      "numbers"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Who gave Theo one kiss?",
+        "choices": [
+          "Mama",
+          "Papa"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama gave Theo the first kiss!"
+      },
+      {
+        "id": "q2",
+        "question": "How many kisses did Grandpa give?",
+        "choices": [
+          "Three",
+          "Five"
+        ],
+        "correctIndex": 1,
+        "explanation": "Grandpa gave Theo five tickly kisses on his tummy!"
+      },
+      {
+        "id": "q3",
+        "question": "What sound do kisses make?",
+        "choices": [
+          "Mwah",
+          "Beep"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kisses make the sound 'Mwah!'"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "One ____! Mwah!",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "kiss",
+            "distractors": [
+              "hug",
+              "toy",
+              "book"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "____ kisses! Mwah, mwah, mwah!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Three",
+            "distractors": [
+              "Two",
+              "Four",
+              "One"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "id": "toddler-adventure-165",
+  "title": "Asha's Brave Night Adventure",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "adventure",
+    "bedtime"
+  ],
+  "wordCount": 282,
+  "readingLevel": "1.2",
+  "synopsis": "When Asha hears scary sounds at night, she feels scared but discovers her own bravery as she investigates with her teddy bear and finds a friendly surprise waiting for her.",
+  "coverImage": "covers/toddler-adventure-165.webp",
+  "chapters": [
+    {
+      "title": "The Mysterious Night Sounds",
+      "pages": [
+        {
+          "text": "Asha was getting ready for bed in her cozy bedroom. She brushed her teeth and put on her favorite purple pajamas with sparkly stars. But when Mama tucked her in and turned off the light, Asha heard strange sounds outside her window. Bump! Rustle! Scratch! The sounds made her feel scared and worried.",
+          "illustration": {
+            "description": "A young girl with dark curly hair in purple star-patterned pajamas sitting up in bed looking worried. Her bedroom has soft blue walls, a nightlight glowing warmly, and toys scattered around. The window shows darkness outside with mysterious shadows.",
+            "alt": "Asha in her bedroom looking scared at night",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Asha hugged her teddy bear Cocoa tight against her chest. 'I'm too scared to sleep,' she whispered to Cocoa. 'What if there's a monster outside?' Cocoa seemed to look back at her with brave button eyes. Asha took a deep breath and felt a little bit of courage growing in her heart like a tiny warm light.",
+          "illustration": {
+            "description": "Close-up of Asha, a young Black girl with natural curls, hugging a brown teddy bear tightly. Her expression shows fear mixed with growing determination. Warm golden light from a nightlight creates a cozy atmosphere with soft shadows on textured walls.",
+            "alt": "Asha hugging her teddy bear Cocoa for comfort",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Come on, Cocoa,' Asha said quietly. 'Let's be brave together and see what's making those sounds.' She climbed out of bed carefully, holding Cocoa in one hand and her small flashlight in the other. Even though her heart was beating fast, Asha felt proud of herself for being brave. She tiptoed to the window to peek outside.",
+          "illustration": {
+            "description": "Asha tiptoeing across her bedroom floor in purple pajamas, holding a teddy bear and small yellow flashlight. Her posture shows cautious bravery as she approaches the window. The room has warm lighting and child-friendly furniture in bright primary colors.",
+            "alt": "Asha walking bravely to the window with her teddy bear",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When Asha looked out the window, she gasped with surprise and delight! There in the moonlit garden was Mrs. Chen, her elderly neighbor, gently placing a bowl of food near the bushes. A family of raccoons with masked faces was waiting patiently nearby. 'Oh!' Asha whispered happily. 'It's just Mrs. Chen feeding the hungry raccoons!'",
+          "illustration": {
+            "description": "View through the window showing an elderly Asian woman in a colorful robe placing a food bowl in a garden. Three adorable raccoons wait nearby under bright moonlight. The scene is peaceful and magical with silver light and deep blue night colors.",
+            "alt": "Mrs. Chen feeding raccoons in the moonlit garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Asha felt so happy and relieved that she wasn't scared anymore. The mysterious sounds were just kind Mrs. Chen taking care of the animal families! Asha waved quietly at Mrs. Chen, who looked up and waved back with a warm smile. 'Thank you for being brave with me, Cocoa,' Asha whispered as she climbed back into her soft, cozy bed.",
+          "illustration": {
+            "description": "Asha back in bed looking peaceful and happy, still holding Cocoa the teddy bear. She has a content smile and relaxed posture. The bedroom is bathed in gentle moonlight streaming through the window, creating a serene bedtime atmosphere with soft blue and silver tones.",
+            "alt": "Asha peacefully back in bed feeling happy and safe",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bravery",
+      "overcoming fears",
+      "kindness to animals",
+      "bedtime comfort",
+      "community helpers"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Asha feel when she first heard the sounds outside?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Excited"
+        ],
+        "correctIndex": 1,
+        "explanation": "Asha felt scared when she heard the mysterious bumping and rustling sounds outside her window."
+      },
+      {
+        "id": "q2",
+        "question": "What did Asha take with her to investigate the sounds?",
+        "choices": [
+          "Her teddy bear Cocoa and a flashlight",
+          "Her pillow and blanket",
+          "Her favorite book"
+        ],
+        "correctIndex": 0,
+        "explanation": "Asha took her teddy bear Cocoa and her small flashlight to help her be brave while investigating."
+      },
+      {
+        "id": "q3",
+        "question": "Who was making the sounds outside Asha's window?",
+        "choices": [
+          "A scary monster",
+          "Mrs. Chen feeding raccoons",
+          "The wind blowing"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mrs. Chen was outside feeding a family of raccoons, which made the bumping and rustling sounds."
+      },
+      {
+        "id": "q4",
+        "question": "How did Asha feel at the end of the story?",
+        "choices": [
+          "Still scared",
+          "Happy and relieved",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Asha felt happy and relieved when she discovered the sounds came from Mrs. Chen's kind act of feeding the raccoons."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Complete Asha's Adventure",
+        "text": "Fill in the missing words from Asha's brave night!",
+        "sentences": [
+          {
+            "text": "Asha felt _____ when she heard strange sounds outside.",
+            "blanks": [
+              {
+                "wordIndex": 2,
+                "correctWord": "scared",
+                "distractors": [
+                  "happy",
+                  "sleepy"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "She hugged her teddy bear _____ tight for comfort.",
+            "blanks": [
+              {
+                "wordIndex": 4,
+                "correctWord": "Cocoa",
+                "distractors": [
+                  "Fluffy",
+                  "Honey"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Asha decided to be _____ and investigate the sounds.",
+            "blanks": [
+              {
+                "wordIndex": 4,
+                "correctWord": "brave",
+                "distractors": [
+                  "quiet",
+                  "quick"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "What Did Asha Discover?",
+        "text": "Help Asha tell what she found outside her window!",
+        "sentences": [
+          {
+            "text": "Mrs. _____ was in the garden helping animals.",
+            "blanks": [
+              {
+                "wordIndex": 1,
+                "correctWord": "Chen",
+                "distractors": [
+                  "Smith",
+                  "Brown"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "She was feeding a family of _____ with masked faces.",
+            "blanks": [
+              {
+                "wordIndex": 6,
+                "correctWord": "raccoons",
+                "distractors": [
+                  "cats",
+                  "rabbits"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Asha felt _____ when she solved the mystery!",
+            "blanks": [
+              {
+                "wordIndex": 2,
+                "correctWord": "happy",
+                "distractors": [
+                  "worried",
+                  "confused"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "id": "toddler-family-144",
+  "title": "Lars and the Great Pancake Mountain",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "family",
+    "humor"
+  ],
+  "wordCount": 360,
+  "readingLevel": "1.2",
+  "synopsis": "When toddler Lars tries to help make pancakes for his family's Sunday breakfast, his enthusiastic flipping creates a towering mess. With patience and teamwork, his diverse family turns the kitchen disaster into a delicious adventure full of laughter and love.",
+  "coverImage": "covers/toddler-family-144.webp",
+  "chapters": [
+    {
+      "title": "The Big Helper",
+      "pages": [
+        {
+          "text": "Lars woke up excited on Sunday morning. His nose wiggled at the sweet smell coming from the kitchen. \"Pancakes!\" he said happily, jumping out of his little bed. Lars loved pancakes, and he loved helping Mama and Papa too.",
+          "illustration": {
+            "description": "A cheerful toddler with blonde hair and rosy cheeks sits up in a small bed with dinosaur sheets, arms stretched wide with excitement. Sunlight streams through a window with colorful curtains. His room has toys scattered around and bright yellow walls.",
+            "alt": "Happy toddler Lars waking up excitedly in his colorful bedroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "In the kitchen, Mama stirred batter in a big blue bowl. Papa flipped golden pancakes in a pan. \"Can I help?\" asked Lars, standing on his tippy-toes. \"Of course, little chef!\" said Papa with a big smile. \"You can be our special pancake flipper.\"",
+          "illustration": {
+            "description": "A warm kitchen scene with Mama, a woman with dark skin and curly hair in a yellow apron, stirring batter. Papa, a tall man with light brown skin and a beard, flips pancakes. Little Lars reaches up eagerly between them. The kitchen has bright red cabinets and morning sunlight.",
+            "alt": "Family cooking together in a bright, cheerful kitchen",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Papa lifted Lars up to the counter and gave him a small spatula. \"Remember, gentle and slow,\" Papa said softly. But Lars was so excited! He wanted to flip the pancake high, high, high in the air like Papa did. This was going to be fun!",
+          "illustration": {
+            "description": "Papa holds Lars at counter height, both looking at a pancake in the pan. Lars grips a child-sized blue spatula with determination. His face shows pure joy and concentration. The stovetop has several pancakes cooking, and steam rises gently from the pan.",
+            "alt": "Papa teaching Lars how to flip pancakes at the stove",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Pancake Trouble",
+      "pages": [
+        {
+          "text": "Lars flipped his first pancake. WHOOSH! It flew up and landed on Papa's head! Lars felt scared. \"Oh no!\" he cried. But Papa just laughed. \"It's okay, buddy. Let's try again,\" Papa said kindly, wiping batter from his hair.",
+          "illustration": {
+            "description": "Papa stands with a pancake draped over his head and batter dripping down his face, laughing heartily. Lars looks worried with wide eyes and hands covering his mouth. Mama giggles in the background. The kitchen has pancake batter splattered on the bright orange walls.",
+            "alt": "Papa with a pancake on his head laughing while Lars looks worried",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Lars tried again. FLIP! This pancake landed on the window. FLIP! Another one stuck to the ceiling. FLIP! One more landed in Grandma's coffee cup when she walked in. \"My goodness!\" laughed Grandma, her glasses covered in batter.",
+          "illustration": {
+            "description": "The kitchen is now wonderfully chaotic with pancakes stuck everywhere - on windows, ceiling, and in coffee cups. Grandma, an elderly woman with silver hair and glasses, holds a coffee cup with a pancake in it, smiling warmly. Lars stands in the middle looking amazed at his handiwork.",
+            "alt": "Chaotic kitchen with pancakes everywhere and Grandma laughing",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Lars looked around the messy kitchen and felt sad. \"I'm sorry,\" he whispered. \"I wanted to help, but I made a big mess instead.\" His bottom lip wobbled. The kitchen looked like a pancake tornado had visited!",
+          "illustration": {
+            "description": "Lars stands in the center of the messy kitchen looking dejected with tears in his eyes and his lip quivering. Pancakes are scattered everywhere on colorful surfaces. The lighting is softer, showing his sad mood, while his family gathers around him with caring expressions.",
+            "alt": "Sad Lars surrounded by pancake mess in the kitchen",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Best Breakfast",
+      "pages": [
+        {
+          "text": "\"You know what?\" said Mama, hugging Lars tight. \"This is the most fun kitchen mess ever!\" Papa nodded. \"And look - we have pancakes everywhere! Let's gather them up and make the tallest pancake mountain in the world!\"",
+          "illustration": {
+            "description": "Mama, with her arms wrapped around Lars, smiles down at him lovingly. Papa gestures excitedly toward all the scattered pancakes. The family's faces beam with warmth and acceptance. The messy kitchen now looks like an adventure playground with golden pancakes as treasure.",
+            "alt": "Mama hugging Lars while Papa suggests making a pancake mountain",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The whole family worked together! They peeled pancakes off the ceiling and walls. Lars felt brave and happy again. Sister Emma, home from college, helped stack them high. Soon they had a wobbly tower of pancakes that reached almost to the ceiling!",
+          "illustration": {
+            "description": "The diverse family works as a team - Emma, a young woman with curly black hair, stacks pancakes while Lars hands them up proudly. Everyone is laughing and working together. The pancake tower wobbles comically in the center of the kitchen, nearly touching the ceiling.",
+            "alt": "Family working together to build a tall, wobbly pancake tower",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "They sat around their pancake mountain with syrup and berries. \"This is the best breakfast ever!\" said Lars happily, sticky from head to toe. Everyone agreed. Sometimes the most wonderful things happen when everything goes perfectly wrong!",
+          "illustration": {
+            "description": "The family sits around a table with an enormous pancake mountain in the center, drizzled with golden syrup and topped with colorful berries. Everyone has sticky, happy faces and big smiles. The morning sun shines through the window, making everything glow warmly. Lars beams with pride and joy.",
+            "alt": "Happy family enjoying their enormous pancake mountain breakfast together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "learning from mistakes",
+      "helping others",
+      "problem solving"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Lars feel when he made a mess in the kitchen?",
+        "choices": [
+          "Happy",
+          "Sad",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Lars felt sad when he saw the messy kitchen and said 'I'm sorry' because he wanted to help but made a mess instead."
+      },
+      {
+        "id": "q2",
+        "question": "What did the family do with all the scattered pancakes?",
+        "choices": [
+          "Threw them away",
+          "Made a pancake mountain",
+          "Fed them to birds"
+        ],
+        "correctIndex": 1,
+        "explanation": "The family worked together to gather all the pancakes and stack them into a tall pancake mountain that almost reached the ceiling!"
+      },
+      {
+        "id": "q3",
+        "question": "How did Papa react when the first pancake landed on his head?",
+        "choices": [
+          "He got angry",
+          "He laughed",
+          "He cried"
+        ],
+        "correctIndex": 1,
+        "explanation": "Papa laughed when the pancake landed on his head and kindly told Lars 'It's okay, buddy. Let's try again.'"
+      },
+      {
+        "id": "q4",
+        "question": "How did Lars feel at the end of the story?",
+        "choices": [
+          "Scared",
+          "Happy",
+          "Sleepy"
+        ],
+        "correctIndex": 1,
+        "explanation": "At the end, Lars felt happy and said 'This is the best breakfast ever!' when they all ate the pancake mountain together."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words - Page 1",
+        "text": "Lars woke up _____ on Sunday morning. He wanted to help make _____ with his family.",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "excited",
+            "distractors": [
+              "sleepy",
+              "hungry",
+              "cold"
+            ]
+          },
+          {
+            "wordIndex": 11,
+            "correctWord": "pancakes",
+            "distractors": [
+              "cookies",
+              "pizza",
+              "soup"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Fill in the Missing Words - Page 2",
+        "text": "When Lars made a mess, he felt _____. But his family _____ and helped him fix it.",
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "sad",
+            "distractors": [
+              "happy",
+              "brave",
+              "silly"
+            ]
+          },
+          {
+            "wordIndex": 13,
+            "correctWord": "laughed",
+            "distractors": [
+              "cried",
+              "shouted",
+              "ran"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

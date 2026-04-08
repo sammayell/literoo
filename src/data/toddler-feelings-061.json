@@ -1,0 +1,202 @@
+{
+  "id": "toddler-feelings-061",
+  "title": "Aaliya's Big Sister Feelings",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "feelings",
+    "family"
+  ],
+  "wordCount": 209,
+  "readingLevel": "1.2",
+  "synopsis": "When Aaliya's baby brother cries and gets all of Mama's attention, she feels sad and left out. With Mama's help, Aaliya learns that big sisters have special jobs and that there's always enough love for everyone in the family.",
+  "coverImage": "covers/toddler-feelings-061.webp",
+  "chapters": [
+    {
+      "title": "When Baby Cries",
+      "pages": [
+        {
+          "text": "Aaliya loves playing with her colorful blocks. She builds tall towers and makes pretty patterns on the living room rug. 'Look, Mama!' she says proudly, showing off her rainbow tower.",
+          "illustration": {
+            "description": "A cheerful South Asian toddler girl with dark curly hair in two small ponytails sits cross-legged on a soft blue rug, building with bright wooden blocks. She wears a sunny yellow shirt and has a big smile, looking up excitedly. The living room has warm orange walls with family photos, and sunlight streams through a window.",
+            "alt": "Aaliya building colorful blocks and smiling",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "But then baby Zain starts crying. 'Waaaaah! Waaaaah!' Mama hurries over to pick him up. 'I'll be right back, Aaliya,' Mama says as she carries the baby away.",
+          "illustration": {
+            "description": "A warm scene showing Mama, a South Asian woman in a soft green hijab, gently lifting a crying baby from his bouncy seat. The baby has chubby cheeks and is wearing a light blue onesie. Aaliya sits in the background near her blocks, watching with a slightly confused expression. The room has cozy yellow lighting.",
+            "alt": "Mama picking up crying baby while Aaliya watches",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Aaliya waits and waits. Her tower falls down. She tries to build it again, but it's not as fun anymore. She feels sad and lonely. 'Mama?' she calls, but Mama is still busy with baby Zain.",
+          "illustration": {
+            "description": "Aaliya sits alone on the rug, looking down at her scattered blocks with a sad expression. Her shoulders slump and her bottom lip pouts out slightly. The blocks are tumbled around her in bright reds, blues, and yellows. The room feels quieter now, with softer lighting and empty space around her showing how alone she feels.",
+            "alt": "Aaliya looking sad with fallen blocks around her",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Big Sister Love",
+      "pages": [
+        {
+          "text": "When Mama comes back, she sees Aaliya's sad face. 'Oh, my sweet girl,' Mama says, sitting down next to her. 'You look sad. Tell me what you're feeling.' Aaliya snuggles close to Mama's warm hug.",
+          "illustration": {
+            "description": "Mama sits cross-legged on the blue rug, wrapping her arms around Aaliya in a gentle hug. Aaliya leans into her mother's embrace, still looking a bit sad but comforted. Mama's green hijab frames her kind, understanding face as she looks down lovingly at her daughter. The scattered blocks create a colorful border around them.",
+            "alt": "Mama hugging sad Aaliya on the rug",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Sometimes babies need lots of help,' Mama explains gently. 'But that doesn't mean I love you any less. You're my special big sister!' Aaliya feels a little spark of happiness. 'Big sister?' she asks, sitting up straighter.",
+          "illustration": {
+            "description": "Aaliya's face brightens with curiosity and growing pride as she sits up in Mama's arms. Her dark eyes are wide with interest, and a small smile starts to appear. Mama gestures with her hands as she speaks, her face warm and encouraging. The background shows the cozy living room with soft, hopeful lighting.",
+            "alt": "Aaliya looking curious and proud about being a big sister",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Yes! Big sisters have very important jobs,' Mama says. 'You can help me sing to Zain, and show him how to play with toys when he's bigger.' Aaliya feels proud and happy. She helps Mama stack the blocks together, and they both smile.",
+          "illustration": {
+            "description": "Aaliya and Mama work together rebuilding the block tower, both smiling brightly. Aaliya's face glows with happiness and pride as she carefully places a red block on top. Mama watches encouragingly, her hands helping guide. In the background, baby Zain sleeps peacefully in his bouncy seat. The whole scene radiates warmth and family love.",
+            "alt": "Aaliya and Mama building blocks together, both happy",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "sibling relationships",
+      "emotional regulation",
+      "family love",
+      "growing up"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Aaliya feel when Mama went to help the baby?",
+        "choices": [
+          "Happy",
+          "Sad",
+          "Excited"
+        ],
+        "correctIndex": 1,
+        "explanation": "Aaliya felt sad and lonely when Mama had to take care of crying baby Zain."
+      },
+      {
+        "id": 2,
+        "question": "What was Aaliya building with?",
+        "choices": [
+          "Crayons",
+          "Blocks",
+          "Puzzles"
+        ],
+        "correctIndex": 1,
+        "explanation": "Aaliya was building colorful towers with blocks on the living room rug."
+      },
+      {
+        "id": 3,
+        "question": "What special job does Aaliya have?",
+        "choices": [
+          "Being a big sister",
+          "Feeding the cat",
+          "Cooking dinner"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama told Aaliya that being a big sister is a very important and special job."
+      },
+      {
+        "id": 4,
+        "question": "How did Aaliya feel at the end of the story?",
+        "choices": [
+          "Scared",
+          "Angry",
+          "Happy and proud"
+        ],
+        "correctIndex": 2,
+        "explanation": "Aaliya felt happy and proud when she learned about being a big sister and helped Mama with the blocks."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words",
+        "instructions": "Choose the right word to complete each sentence!",
+        "blanks": [
+          {
+            "text": "Aaliya feels _____ when her tower falls down.",
+            "wordIndex": 2,
+            "correctWord": "sad",
+            "distractors": [
+              "happy",
+              "hungry",
+              "sleepy"
+            ]
+          },
+          {
+            "text": "Baby Zain starts to _____ loudly.",
+            "wordIndex": 4,
+            "correctWord": "cry",
+            "distractors": [
+              "laugh",
+              "dance",
+              "sing"
+            ]
+          },
+          {
+            "text": "Mama gives Aaliya a warm _____.",
+            "wordIndex": 6,
+            "correctWord": "hug",
+            "distractors": [
+              "book",
+              "cookie",
+              "hat"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "More Missing Words",
+        "instructions": "Pick the best word for each sentence!",
+        "blanks": [
+          {
+            "text": "Aaliya is a special big _____.",
+            "wordIndex": 5,
+            "correctWord": "sister",
+            "distractors": [
+              "brother",
+              "puppy",
+              "car"
+            ]
+          },
+          {
+            "text": "At the end, Aaliya feels _____ and proud.",
+            "wordIndex": 6,
+            "correctWord": "happy",
+            "distractors": [
+              "sad",
+              "scared",
+              "angry"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "id": "baby-feelings-085",
+  "title": "Wren's Happy Heart",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "feelings",
+    "nature"
+  ],
+  "wordCount": 43,
+  "readingLevel": "0.5",
+  "synopsis": "Little Wren explores different feelings through gentle interactions with nature, learning that all emotions are natural and beautiful, just like the world around her.",
+  "coverImage": "covers/baby-feelings-085.webp",
+  "chapters": [
+    {
+      "title": "Wren's Happy Heart",
+      "pages": [
+        {
+          "text": "Wren feels happy! Tweet, tweet!",
+          "illustration": {
+            "description": "A joyful toddler girl with warm brown skin and curly black hair in two small puffs sits in a sunny meadow. She wears a soft yellow dress and has her arms stretched wide with a huge smile. Bright yellow sunflowers and green grass surround her. The background is soft pastel blue sky with fluffy white clouds.",
+            "alt": "Happy toddler Wren with arms outstretched in sunny meadow",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Birds sing happy songs. Chirp, chirp!",
+          "illustration": {
+            "description": "Three colorful birds perch on a flowering cherry blossom branch above smiling Wren. The birds are bright blue, orange, and red with simple, rounded shapes. Pink blossoms frame the scene. Wren looks up with wonder, her dark eyes sparkling. Soft pink and green watercolor background creates a gentle, dreamy feel.",
+            "alt": "Colorful birds singing in cherry blossom tree above Wren",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Wren feels sad. Drip, drop.",
+          "illustration": {
+            "description": "Wren sits quietly under a large oak tree, her expression gentle and contemplative. Light rain falls softly around her as she watches water droplets on leaves. She wears a soft lavender sweater. The scene uses muted purples and blues with silver raindrops, creating a peaceful, reflective mood.",
+            "alt": "Wren sitting peacefully in gentle rain under oak tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rain makes flowers grow. Pitter, patter!",
+          "illustration": {
+            "description": "Colorful wildflowers bloom all around as gentle rain continues. Wren touches a bright red poppy with one finger, her face showing quiet curiosity. The flowers are various sizes and colors - purple lupines, yellow daisies, pink cosmos. Water droplets glisten on petals, and the background is soft gray-blue with a hint of rainbow.",
+            "alt": "Wren touching blooming flowers in gentle rain with rainbow hint",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Wren feels excited! Whoosh, whoosh!",
+          "illustration": {
+            "description": "A gentle breeze blows through a field of tall grass where Wren stands with arms raised. Her curly hair and yellow dress flutter in the wind. Butterflies dance around her - orange monarchs and white cabbage butterflies. The grass sways in waves of green and gold. Bright blue sky with puffy clouds creates an energetic, joyful scene.",
+            "alt": "Wren with arms up as butterflies and grass dance in breeze",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Wind tickles the trees. Rustle, rustle!",
+          "illustration": {
+            "description": "Tall trees with full green canopies sway gently in the breeze above Wren. She giggles and reaches toward dancing leaves. An Asian grandmother and her granddaughter sit on a nearby bench, also enjoying the windy day. The scene uses fresh greens and blues with dappled sunlight filtering through leaves.",
+            "alt": "Trees swaying in wind above giggling Wren, with grandmother and child on bench",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Wren feels sleepy. Shh, shh.",
+          "illustration": {
+            "description": "As evening approaches, Wren yawns and rubs her eyes while sitting in soft grass. The sky shows gentle sunset colors - pale orange and pink. A Latino father pushes his toddler son on a distant swing set. Crickets hide in the grass, and fireflies begin to twinkle. The mood is calm and drowsy.",
+            "alt": "Sleepy Wren yawning at sunset with family playing in background",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Stars whisper goodnight. Twinkle, twinkle!",
+          "illustration": {
+            "description": "Under a deep purple evening sky dotted with bright silver stars, Wren waves goodbye to her nature friends. A gentle crescent moon smiles down. In the distance, families of different backgrounds walk home together. The scene is peaceful and magical, with soft glowing stars and a warm, sleepy atmosphere perfect for bedtime.",
+            "alt": "Wren waving goodnight under starry sky with crescent moon and families",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotions",
+      "nature",
+      "mindfulness",
+      "acceptance"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound do the birds make?",
+        "choices": [
+          "Chirp, chirp!",
+          "Moo, moo!"
+        ],
+        "correctIndex": 0,
+        "explanation": "The birds sing 'Chirp, chirp!' when they make Wren happy."
+      },
+      {
+        "id": "q2",
+        "question": "What makes the flowers grow?",
+        "choices": [
+          "Snow",
+          "Rain"
+        ],
+        "correctIndex": 1,
+        "explanation": "The rain helps the beautiful flowers grow all around Wren."
+      },
+      {
+        "id": "q3",
+        "question": "What twinkles in the sky?",
+        "choices": [
+          "Stars",
+          "Flowers"
+        ],
+        "correctIndex": 0,
+        "explanation": "The stars twinkle in the night sky and whisper goodnight to Wren."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Wren feels _____! Tweet, tweet!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "happy",
+            "distractors": [
+              "sad",
+              "angry",
+              "hungry"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "_____ makes flowers grow. Pitter, patter!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Rain",
+            "distractors": [
+              "Snow",
+              "Wind",
+              "Sun"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

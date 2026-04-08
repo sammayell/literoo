@@ -1,0 +1,167 @@
+{
+  "id": "toddler-nature-106",
+  "title": "Kai's Garden Adventure",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "nature",
+    "school"
+  ],
+  "wordCount": 218,
+  "readingLevel": "1.2",
+  "synopsis": "Young Kai feels scared on his first day at the new nature preschool, but discovers the joy and wonder of gardening when he plants seeds and makes new friends in the school garden.",
+  "coverImage": "covers/toddler-nature-106.webp",
+  "chapters": [
+    {
+      "title": "First Day Fears and Garden Friends",
+      "pages": [
+        {
+          "text": "Kai felt scared on his first day at Rainbow Nature School. His tummy felt funny and his hands were shaky. The building looked so big! \"I want to go home,\" Kai whispered to his mama. She gave him a warm hug and said, \"You're brave, Kai. Let's see what adventures wait inside.\"",
+          "illustration": {
+            "description": "A young Asian boy with short black hair wearing a bright yellow backpack and green t-shirt, holding his mother's hand outside a cheerful school building. Kai looks worried with big eyes and a small frown. His mother, wearing a blue dress, smiles encouragingly down at him. The school has colorful murals of flowers and trees on the walls. The scene uses warm, soft colors with a slightly textured background like construction paper.",
+            "alt": "Kai holding his mother's hand outside his new nature school, looking worried",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Inside, Kai met Ms. Rosa, his teacher. She had kind brown eyes and wore a sun hat with flowers. \"Welcome, Kai!\" she said happily. \"Would you like to meet our garden? Plants are waiting for new friends!\" Kai felt a little less scared. Maybe this place wasn't so bad after all.",
+          "illustration": {
+            "description": "A warm African-American teacher with curly brown hair wearing a wide-brimmed sun hat decorated with colorful flowers and a green apron. She's kneeling down to Kai's eye level in a bright classroom filled with plants and nature posters. Kai looks curious now instead of scared, his posture more relaxed. Sunlight streams through windows, creating a cheerful atmosphere with golden light and soft shadows.",
+            "alt": "Ms. Rosa introducing herself to Kai in the sunny nature classroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "In the garden, Kai saw other children digging in the dirt. A girl with red braids named Emma waved at him. \"Hi! Want to plant sunflower seeds with me?\" she asked. Kai nodded, feeling happy for the first time today. The soft dirt felt cool between his fingers. He carefully placed three seeds in the ground.",
+          "illustration": {
+            "description": "A diverse group of children in a vibrant school garden. Kai kneels next to Emma, a girl with red braids wearing overalls, both planting seeds in rich brown soil. Other children of different ethnicities work nearby among raised garden beds filled with green plants. Bright yellow sunflowers tower in the background. The scene is filled with primary colors - green leaves, brown earth, blue sky, and colorful watering cans scattered around.",
+            "alt": "Kai and Emma planting sunflower seeds together in the school garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"These seeds will grow big and tall!\" said Emma excitedly. Kai felt proud as he watered his seeds. A boy named Diego showed him how to make a little sign with his name. Now Kai felt brave and excited. \"I can't wait to come back tomorrow,\" he told Ms. Rosa. School wasn't scary anymore - it was an adventure!",
+          "illustration": {
+            "description": "Kai standing proudly next to his planted garden patch, holding a small blue watering can. His expression is now bright and confident with a big smile. Diego, a Latino boy with dark hair, helps him place a wooden name sign in the soil. The garden is lush and inviting with various vegetables and flowers growing. Butterflies flutter around, and the warm afternoon sun casts a golden glow over the peaceful scene.",
+            "alt": "Kai proudly watering his seeds with Diego helping him place a name sign",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "overcoming fears",
+      "making friends",
+      "nature exploration",
+      "school readiness"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Kai feel at the beginning of the story?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kai felt scared on his first day at the new school. His tummy felt funny and his hands were shaky."
+      },
+      {
+        "id": "q2",
+        "question": "What did Kai plant in the garden?",
+        "choices": [
+          "Carrot seeds",
+          "Sunflower seeds",
+          "Apple seeds"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kai planted sunflower seeds with his new friend Emma in the school garden."
+      },
+      {
+        "id": "q3",
+        "question": "Who was Kai's teacher?",
+        "choices": [
+          "Ms. Rosa",
+          "Ms. Emma",
+          "Ms. Diego"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ms. Rosa was Kai's kind teacher who wore a sun hat with flowers and showed him the garden."
+      },
+      {
+        "id": "q4",
+        "question": "How did Kai feel at the end of the story?",
+        "choices": [
+          "Still scared",
+          "Brave and excited",
+          "Sleepy"
+        ],
+        "correctIndex": 1,
+        "explanation": "By the end, Kai felt brave and excited about coming back to school the next day."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words - Page 1",
+        "text": "Kai felt _____ on his first day at Rainbow Nature School. His teacher Ms. Rosa wore a sun hat with _____.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "sleepy",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 17,
+            "correctWord": "flowers",
+            "distractors": [
+              "birds",
+              "stars",
+              "cookies"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Fill in the Missing Words - Page 2",
+        "text": "In the garden, Kai met _____ who had red braids. They planted _____ seeds together in the soft dirt.",
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "Emma",
+            "distractors": [
+              "Rosa",
+              "Diego",
+              "Mama"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "sunflower",
+            "distractors": [
+              "carrot",
+              "apple",
+              "pumpkin"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

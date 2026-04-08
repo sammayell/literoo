@@ -1,0 +1,187 @@
+{
+  "id": "toddler-bedtime-028",
+  "title": "Bodhi's Nighttime Worry",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "bedtime",
+    "feelings"
+  ],
+  "wordCount": 255,
+  "readingLevel": "1.2",
+  "synopsis": "When little Bodhi feels scared about sleeping in his big boy bed, his loving family helps him discover that being brave doesn't mean not feeling scared - it means facing your fears with love and support.",
+  "coverImage": "covers/toddler-bedtime-028.webp",
+  "chapters": [
+    {
+      "title": "Too Scared to Sleep",
+      "pages": [
+        {
+          "text": "Bodhi looked at his big boy bed with wide eyes. The soft blue sheets looked cozy, but something felt different tonight. His tummy had butterflies, and he felt scared.",
+          "illustration": {
+            "description": "A small South Asian boy with dark wavy hair stands next to a toddler bed with blue dinosaur sheets. His brown eyes are wide with worry, hands clasped together. The bedroom has warm yellow walls with cheerful animal pictures. Soft evening light filters through curtains with star patterns.",
+            "alt": "Bodhi looking worried at his bed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Mama, I don't want to sleep alone,\" Bodhi whispered. His voice was small and shaky. Mama sat down next to him and gave him a gentle hug. \"Tell me about your scared feelings,\" she said softly.",
+          "illustration": {
+            "description": "A warm scene showing Bodhi's mother, a woman with long black hair in a purple cardigan, sitting on the edge of the bed with her arms around Bodhi. Both have gentle expressions. The room is softly lit by a star-shaped nightlight casting peaceful shadows on the textured walls.",
+            "alt": "Mama hugging worried Bodhi on his bed",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Finding Brave Help",
+      "pages": [
+        {
+          "text": "Papa came in with Bodhi's little sister Priya. \"We heard you need some brave helpers,\" Papa said with a warm smile. Priya toddled over and patted Bodhi's hand. \"No scared, Bodi!\" she said sweetly.",
+          "illustration": {
+            "description": "A loving family scene with Papa, a tall man with a beard wearing a green shirt, carrying little Priya who has pigtails and a pink pajama set. They're approaching Bodhi and Mama on the bed. The room feels warm and safe with soft lighting and family photos on the walls.",
+            "alt": "Papa and baby Priya joining Bodhi and Mama",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Being scared is okay,\" Mama explained. \"But you know what? You can be scared AND brave at the same time.\" She pointed to Bodhi's stuffed elephant. \"Mr. Jumbo feels scared sometimes too, but he's always brave when you need him.\"",
+          "illustration": {
+            "description": "Close-up of Bodhi holding a gray stuffed elephant with kind button eyes and a red ribbon around its neck. Bodhi's expression is thoughtful, no longer just worried. The elephant sits prominently in the foreground with warm, cozy bedroom details blurred softly in the background.",
+            "alt": "Bodhi thoughtfully holding his stuffed elephant",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Papa tucked the covers around Bodhi and Mr. Jumbo. \"Your family loves you so much,\" he said. \"We're right down the hall if you need us. You're not really alone.\" Bodhi felt a little spark of brave in his chest.",
+          "illustration": {
+            "description": "Papa gently tucking blue covers around Bodhi and his elephant. Bodhi's face shows mixed emotions - still a bit worried but with a small, brave smile emerging. The nightlight casts star shapes on the wall, and family photos are visible on the nightstand, emphasizing love and connection.",
+            "alt": "Papa tucking in Bodhi and Mr. Jumbo",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Brave and Happy Dreams",
+      "pages": [
+        {
+          "text": "Bodhi took a deep breath and squeezed Mr. Jumbo tight. \"I feel scared, but I can be brave too,\" he whispered to his elephant friend. The scared feeling was still there, but now brave feelings were there too.",
+          "illustration": {
+            "description": "Bodhi lying peacefully in bed, hugging Mr. Jumbo close to his chest. His expression shows calm determination rather than fear. Moonlight streams through the window creating gentle blue and silver tones across the cozy bedroom. Stars twinkle outside the window.",
+            "alt": "Bodhi bravely hugging Mr. Jumbo in bed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "As Bodhi closed his eyes, he felt happy and proud. He had been scared, but he chose to be brave anyway. With his family's love and Mr. Jumbo by his side, he drifted off to sweet, peaceful dreams.",
+          "illustration": {
+            "description": "A dreamy final scene showing sleeping Bodhi with a content smile, arms around Mr. Jumbo. Soft dream clouds float above showing happy images - his family, playground scenes, and adventures. The room is bathed in gentle moonlight with the star nightlight glowing warmly. Everything feels safe and loved.",
+            "alt": "Bodhi sleeping peacefully with happy dreams floating above",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "facing fears",
+      "family support",
+      "bedtime comfort",
+      "emotional growth"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Bodhi feel about sleeping in his big boy bed?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Excited"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bodhi felt scared about sleeping alone in his big boy bed."
+      },
+      {
+        "id": 2,
+        "question": "Who came to help Bodhi feel better?",
+        "choices": [
+          "Just Mama",
+          "Mama, Papa, and Priya",
+          "Only Mr. Jumbo"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bodhi's whole family - Mama, Papa, and little sister Priya - came to help him."
+      },
+      {
+        "id": 3,
+        "question": "What did Mama teach Bodhi about being scared and brave?",
+        "choices": [
+          "You can't be both",
+          "You can be scared AND brave",
+          "Brave means no scared feelings"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mama taught Bodhi that you can feel scared and brave at the same time."
+      },
+      {
+        "id": 4,
+        "question": "How did Bodhi feel at the end of the story?",
+        "choices": [
+          "Still very scared",
+          "Happy and proud",
+          "Angry and upset"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bodhi felt happy and proud because he chose to be brave even when he felt scared."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words",
+        "instructions": "Help complete the story by choosing the right words!",
+        "text": "Bodhi felt _____ about sleeping in his big boy bed. His _____ helped him feel better. He learned he could be scared AND _____ at the same time.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "sleepy",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 7,
+            "correctWord": "family",
+            "distractors": [
+              "teacher",
+              "friends",
+              "neighbors"
+            ]
+          },
+          {
+            "wordIndex": 16,
+            "correctWord": "brave",
+            "distractors": [
+              "tired",
+              "silly",
+              "loud"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

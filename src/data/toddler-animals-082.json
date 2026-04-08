@@ -1,0 +1,212 @@
+{
+  "id": "toddler-animals-082",
+  "title": "Rohan and the Lost Baby Bird",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "animals",
+    "adventure"
+  ],
+  "wordCount": 269,
+  "readingLevel": "1.2",
+  "synopsis": "When Rohan finds a scared baby bird that has fallen from its nest, he goes on a brave adventure through his backyard to help the little bird find its mama, learning about kindness and courage along the way.",
+  "coverImage": "covers/toddler-animals-082.webp",
+  "chapters": [
+    {
+      "title": "The Scared Little Bird",
+      "pages": [
+        {
+          "text": "Rohan was playing in his backyard when he heard a tiny peep-peep-peep. He looked around the garden with his big brown eyes. There, under the mango tree, was a very small baby bird. The little bird looked scared and sad.",
+          "illustration": {
+            "description": "A young South Asian boy with warm brown skin, curly black hair, and kind brown eyes kneeling in a lush green garden. He's wearing a bright yellow t-shirt and blue shorts. A tiny gray and white baby bird sits on the grass near a large mango tree with green leaves and orange mangoes. The bird looks small and frightened with ruffled feathers.",
+            "alt": "Rohan discovering the baby bird in the garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Oh no, little bird,\" said Rohan softly. \"Are you lost?\" The baby bird chirped sadly. Rohan felt worried for the tiny creature. He wanted to help, but he didn't know how. The bird's mama was nowhere to be seen.",
+          "illustration": {
+            "description": "Close-up view of Rohan sitting cross-legged on the grass, leaning forward with a concerned but gentle expression. The baby bird is in front of him, wings slightly spread and beak open in a sad chirp. Rohan's hands are placed carefully on his knees, showing his cautious approach. The background shows soft green grass with small yellow flowers scattered around.",
+            "alt": "Rohan talking gently to the worried baby bird",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rohan looked up at the tall mango tree. High up in the branches, he could see a nest made of twigs and leaves. \"That must be your home!\" he said. The baby bird chirped again, but it sounded happy this time. Now Rohan felt brave and ready to help.",
+          "illustration": {
+            "description": "Rohan standing and pointing up at the mango tree, his face filled with determination and excitement. The baby bird is at his feet, looking up too with a more hopeful expression. High in the tree branches, a small brown nest is visible among the green leaves. Bright orange mangoes hang from the branches, and the sky is a cheerful blue with white fluffy clouds.",
+            "alt": "Rohan pointing up at the bird's nest in the mango tree",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "A Brave Plan",
+      "pages": [
+        {
+          "text": "Rohan had an idea! He ran to get his red step stool from the kitchen. \"I'll help you get home,\" he told the bird. Very carefully, he picked up the baby bird. It felt soft and warm in his gentle hands. The bird wasn't scared anymore because Rohan was so kind.",
+          "illustration": {
+            "description": "Rohan carrying a bright red step stool with both hands, walking carefully through the garden. The baby bird is perched on his shoulder, no longer looking frightened. Rohan has a determined smile on his face. The background shows the colorful garden with purple flowers, green bushes, and the mango tree in the distance.",
+            "alt": "Rohan carrying his step stool with the bird on his shoulder",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rohan climbed up on his step stool and reached toward the nest. Just then, Mama Bird flew down! She chirped happily when she saw her baby. Rohan gently placed the baby bird in the nest. \"There you go, little friend,\" he said with a big smile.",
+          "illustration": {
+            "description": "Rohan standing on the red step stool, carefully placing the baby bird into the nest. A larger brown and white mama bird with spread wings is flying toward them, her beak open in a joyful chirp. Rohan's face shows pure happiness and accomplishment. The nest is clearly visible with soft grass and small twigs, nestled securely in the mango tree branches.",
+            "alt": "Rohan reuniting the baby bird with its mama in the nest",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Both birds chirped cheerfully from their cozy nest. Rohan felt so happy and proud. He had been brave and helped someone who needed it. From that day on, whenever Rohan played in the garden, the bird family would sing beautiful songs just for him.",
+          "illustration": {
+            "description": "Rohan standing in the garden with his arms raised in celebration, a huge joyful smile on his face. Above in the mango tree, both birds are visible in their nest - the mama bird with her wing protectively around the baby bird. Musical notes float in the air around them. The entire scene is filled with warm, golden sunlight and vibrant colors showing happiness and harmony.",
+            "alt": "Happy ending with Rohan celebrating as the bird family sings",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "kindness",
+      "helping others",
+      "bravery",
+      "problem-solving"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Rohan feel when he first saw the baby bird?",
+        "choices": [
+          "Happy",
+          "Worried",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Rohan felt worried because the baby bird looked scared and lost."
+      },
+      {
+        "id": 2,
+        "question": "What did Rohan use to reach the nest?",
+        "choices": [
+          "A ladder",
+          "A red step stool",
+          "A chair"
+        ],
+        "correctIndex": 1,
+        "explanation": "Rohan got his red step stool from the kitchen to help him reach the nest."
+      },
+      {
+        "id": 3,
+        "question": "How did Rohan feel at the end of the story?",
+        "choices": [
+          "Sad",
+          "Scared",
+          "Happy and proud"
+        ],
+        "correctIndex": 2,
+        "explanation": "Rohan felt happy and proud because he was brave and helped the baby bird get home."
+      },
+      {
+        "id": 4,
+        "question": "What did the birds do for Rohan after he helped them?",
+        "choices": [
+          "They flew away",
+          "They sang songs for him",
+          "They gave him mangoes"
+        ],
+        "correctIndex": 1,
+        "explanation": "The bird family sang beautiful songs for Rohan whenever he played in the garden."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words - Page 1",
+        "text": "Rohan was playing in his backyard when he heard a tiny peep-peep-peep. There, under the mango tree, was a very small baby ___. The little bird looked ___ and sad.",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "bird",
+            "distractors": [
+              "cat",
+              "dog",
+              "frog"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "silly",
+              "big"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Fill in the Missing Words - Page 2",
+        "text": "Rohan had an idea! He ran to get his red ___ from the kitchen. Very carefully, he picked up the baby bird. The bird wasn't scared anymore because Rohan was so ___.",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "step stool",
+            "distractors": [
+              "toy",
+              "book",
+              "ball"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "kind",
+            "distractors": [
+              "loud",
+              "fast",
+              "tall"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Fill in the Missing Words - Page 3",
+        "text": "Rohan felt so ___ and proud. He had been ___ and helped someone who needed it. The bird family would sing beautiful songs just for him.",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "happy",
+            "distractors": [
+              "tired",
+              "hungry",
+              "cold"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "brave",
+            "distractors": [
+              "sleepy",
+              "messy",
+              "quiet"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

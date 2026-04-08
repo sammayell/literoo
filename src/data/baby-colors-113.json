@@ -1,0 +1,167 @@
+{
+  "id": "baby-colors-113",
+  "title": "Rosa's Colorful Snacks",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "colors",
+    "food"
+  ],
+  "wordCount": 50,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Rosa discovers different colored foods throughout her day, from red strawberries to purple grapes, learning colors through delicious snacks with cheerful sound effects and repetitive patterns.",
+  "coverImage": "covers/baby-colors-113.webp",
+  "chapters": [
+    {
+      "title": "Rosa's Colorful Day",
+      "pages": [
+        {
+          "text": "Rosa sees red strawberries. Yum yum!",
+          "illustration": {
+            "description": "Baby Rosa with warm brown skin and curly black hair sits in a sunny yellow high chair, reaching for bright red strawberries on a white plate. Her eyes are wide with excitement and she's wearing a soft pink bib. The background is a simple cream kitchen with warm natural lighting.",
+            "alt": "Baby Rosa reaching for red strawberries in her high chair",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rosa munches orange carrots. Crunch crunch!",
+          "illustration": {
+            "description": "Rosa happily chewing on bright orange carrot sticks, her cheeks puffed out slightly. She's sitting cross-legged on a soft blue blanket outdoors. Her grandmother, an elderly Black woman with silver hair, sits nearby smiling warmly. Green grass and blue sky create a peaceful background.",
+            "alt": "Rosa eating orange carrots on a picnic blanket with grandmother",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rosa picks yellow bananas. Squish squish!",
+          "illustration": {
+            "description": "Rosa's tiny hands holding a perfectly ripe yellow banana, some squished between her fingers. She's giggling with banana on her face, sitting in her high chair. Her father, a Hispanic man with kind eyes, watches with an amused smile while holding a wet cloth.",
+            "alt": "Rosa squishing yellow banana with her hands while father watches",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rosa tastes green peas. Pop pop!",
+          "illustration": {
+            "description": "Rosa carefully picking up bright green peas one by one with her fingertips, concentrating intensely. Some peas have rolled onto her tray. She's wearing a lime green shirt that matches the peas. The kitchen background shows her mother, an Asian woman, preparing more food.",
+            "alt": "Rosa concentrating on eating green peas while mother cooks nearby",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rosa loves blue blueberries. Plop plop!",
+          "illustration": {
+            "description": "Rosa's face delighted as she drops plump blue blueberries into her mouth, one by one. A few have stained her lips purple-blue. She's in her high chair with a scattered mess of blueberries on the white tray. Soft morning light streams through a nearby window.",
+            "alt": "Rosa eating blue blueberries with stained lips and scattered berries",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rosa enjoys purple grapes. Squeak squeak!",
+          "illustration": {
+            "description": "Rosa holding a cluster of deep purple grapes, biting into one grape while juice runs down her chin. She's sitting on a soft lavender cushion on the floor. Her older brother, a mixed-race boy with freckles, sits beside her also eating grapes from a wooden bowl.",
+            "alt": "Rosa and her brother eating purple grapes together on floor cushions",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rosa waves at white milk. Glug glug!",
+          "illustration": {
+            "description": "Rosa holding a small pink sippy cup with both hands, tilting it to drink creamy white milk. A drop of milk sits on her nose as she pauses to smile. She's in her father's lap on a comfortable brown couch, with soft afternoon light creating a cozy atmosphere.",
+            "alt": "Rosa drinking white milk from sippy cup while sitting in father's lap",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rosa claps for all colors. Hooray hooray!",
+          "illustration": {
+            "description": "Rosa clapping her hands with pure joy, surrounded by all the colorful foods from her day arranged on a rainbow-patterned placemat. Her whole family - mother, father, grandmother, and brother - stand behind her chair clapping too, all with warm, loving expressions. Confetti-like sparkles of color float around them.",
+            "alt": "Rosa clapping with joy surrounded by colorful foods and her diverse family",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "colors",
+      "food",
+      "family",
+      "sensory exploration"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color are Rosa's strawberries?",
+        "choices": [
+          "Red",
+          "Blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "Rosa's strawberries are bright red!"
+      },
+      {
+        "id": "q2",
+        "question": "What sound do the carrots make?",
+        "choices": [
+          "Pop pop",
+          "Crunch crunch"
+        ],
+        "correctIndex": 1,
+        "explanation": "The orange carrots go crunch crunch when Rosa eats them!"
+      },
+      {
+        "id": "q3",
+        "question": "What does Rosa drink that's white?",
+        "choices": [
+          "Milk",
+          "Water"
+        ],
+        "correctIndex": 0,
+        "explanation": "Rosa drinks white milk that goes glug glug!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "id": "puzzle1",
+        "text": "Rosa sees ___ strawberries. Yum yum!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "red",
+            "distractors": [
+              "blue",
+              "green",
+              "yellow"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "puzzle2",
+        "text": "Rosa loves blue ___. Plop plop!",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "blueberries",
+            "distractors": [
+              "carrots",
+              "bananas",
+              "grapes"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

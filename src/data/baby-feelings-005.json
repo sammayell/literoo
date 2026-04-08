@@ -1,0 +1,165 @@
+{
+  "id": "baby-feelings-005",
+  "title": "Amira's Happy Garden",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "feelings",
+    "nature"
+  ],
+  "wordCount": 54,
+  "readingLevel": "0.5",
+  "synopsis": "Little Amira explores her garden and discovers different feelings through gentle interactions with flowers, butterflies, and nature sounds, learning that all feelings are welcome in her happy space.",
+  "coverImage": "covers/baby-feelings-005.webp",
+  "chapters": [
+    {
+      "title": "In the Garden",
+      "pages": [
+        {
+          "text": "Amira goes to the garden. Step, step, step!",
+          "illustration": {
+            "description": "A smiling toddler girl with curly dark hair and warm brown skin wearing a soft yellow dress walks on a stone path toward a colorful garden. Gentle morning sunlight creates a warm glow. The garden has rounded flower beds with pastel pink and purple blooms in the background.",
+            "alt": "Amira walking happily toward her garden",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Pretty flowers say hello! Buzz, buzz goes the bee.",
+          "illustration": {
+            "description": "Amira kneels beside large, friendly-faced sunflowers and daisies in soft yellow and white. A plump cartoon bee with gentle eyes hovers nearby. The flowers have simple, smiling expressions. Warm golden light filters through, creating soft shadows on green grass.",
+            "alt": "Amira greeting flowers with a friendly bee",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Flutter, flutter! Blue butterfly dances.",
+          "illustration": {
+            "description": "A large, gentle blue butterfly with rounded wings dances above Amira's outstretched hand. Amira looks up with wonder, her eyes wide and sparkling. Soft lavender flowers surround them. The background is a dreamy pale blue sky with wispy white clouds.",
+            "alt": "Amira watching a blue butterfly dance",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Splash, splash! Water makes Amira giggle.",
+          "illustration": {
+            "description": "Amira sits beside a small, rounded fountain with gentle water droplets sparkling in the sunlight. Her hands catch the water as she laughs joyfully. Rainbow colors shimmer in the water droplets. Soft green moss and tiny flowers frame the scene.",
+            "alt": "Amira playing happily with fountain water",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Wind goes whoosh! Leaves dance and sway.",
+          "illustration": {
+            "description": "Amira stands with arms outstretched as gentle wind moves through her curly hair. Soft green leaves with rounded edges flutter around her in graceful arcs. The background shows a pastel sunset sky in warm orange and pink tones.",
+            "alt": "Amira enjoying the wind with dancing leaves",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Tweet, tweet sing the birds up high.",
+          "illustration": {
+            "description": "Amira looks up at three small, round birds perched on a low tree branch. The birds have friendly expressions and soft feathers in gentle blues and yellows. Cherry blossoms in pale pink create a canopy above. Amira smiles peacefully with her hands clasped together.",
+            "alt": "Amira listening to birds singing in a tree",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Sleepy time now. Yawn, yawn, yawn.",
+          "illustration": {
+            "description": "Amira sits on a soft green blanket under a large tree, rubbing her eyes tiredly. Golden evening light filters through the leaves, creating gentle patterns on her face. A stuffed bunny sits beside her. The setting is peaceful and cozy with warm amber tones.",
+            "alt": "Tired Amira getting sleepy in the garden",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Garden hugs make Amira feel happy!",
+          "illustration": {
+            "description": "Amira spreads her arms wide with a huge smile, surrounded by all her garden friends - flowers, butterfly, birds, and gentle sunshine. Everything has a soft, glowing aura. The composition creates a feeling of warmth and love embracing her completely.",
+            "alt": "Happy Amira surrounded by her loving garden",
+            "layout": "full_page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotional awareness",
+      "nature connection",
+      "sensory exploration",
+      "joy"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does the bee make?",
+        "choices": [
+          "Buzz, buzz",
+          "Tweet, tweet"
+        ],
+        "correctIndex": 0,
+        "explanation": "The bee says 'Buzz, buzz' when it visits the flowers with Amira."
+      },
+      {
+        "id": "q2",
+        "question": "What color is the butterfly?",
+        "choices": [
+          "Blue",
+          "Yellow"
+        ],
+        "correctIndex": 0,
+        "explanation": "The butterfly that dances for Amira is blue and beautiful."
+      },
+      {
+        "id": "q3",
+        "question": "How does the garden make Amira feel?",
+        "choices": [
+          "Happy",
+          "Sad"
+        ],
+        "correctIndex": 0,
+        "explanation": "The garden hugs make Amira feel happy and loved."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Amira goes to the ____. Step, step, step!",
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "garden",
+            "distractors": [
+              "house",
+              "store",
+              "car"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "____, ____ goes the bee.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Buzz",
+            "distractors": [
+              "Tweet",
+              "Splash",
+              "Whoosh"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

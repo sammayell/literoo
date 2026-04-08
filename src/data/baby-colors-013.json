@@ -1,0 +1,165 @@
+{
+  "id": "baby-colors-013",
+  "title": "Rosa's Yummy Colors",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "colors",
+    "food"
+  ],
+  "wordCount": 48,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Rosa explores different colored foods with joy and excitement, making delightful sounds as she discovers red strawberries, yellow bananas, green peas, and more. Each page features a new color and food combination with repetitive, soothing language perfect for very young readers.",
+  "coverImage": "covers/baby-colors-013.webp",
+  "chapters": [
+    {
+      "title": "Rosa's Yummy Colors",
+      "pages": [
+        {
+          "text": "Rosa sees red strawberries. Yum, yum!",
+          "illustration": {
+            "description": "Smiling baby Rosa with warm brown skin and curly black hair sits in a sunny kitchen, reaching toward bright red strawberries on a white plate. Her dark eyes sparkle with delight. Soft watercolor style with gentle pastels and high contrast red strawberries against a cream background.",
+            "alt": "Baby Rosa reaching for red strawberries",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rosa eats yellow bananas. Munch, munch!",
+          "illustration": {
+            "description": "Rosa holds a peeled yellow banana with both tiny hands, taking a big bite. Her cheeks are slightly puffed and she has a satisfied expression. Warm kitchen setting with soft yellow tones and gentle lighting creating a cozy atmosphere.",
+            "alt": "Rosa eating yellow bananas",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rosa tries green peas. Pop, pop!",
+          "illustration": {
+            "description": "Rosa sits in her high chair, picking up small green peas one by one with her fingers. Some peas are scattered on the tray. Her grandmother, an elderly Latina woman with silver hair, watches lovingly from beside the chair. Soft green hues dominate the gentle scene.",
+            "alt": "Rosa eating green peas with grandmother nearby",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rosa loves orange carrots. Crunch, crunch!",
+          "illustration": {
+            "description": "Rosa holds orange carrot sticks in both hands, alternating bites. Her face shows pure joy with bright orange carrot pieces visible. The kitchen counter has more orange vegetables, creating a warm, vibrant scene with soft watercolor textures.",
+            "alt": "Rosa crunching orange carrots",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rosa tastes purple grapes. Squish, squish!",
+          "illustration": {
+            "description": "Rosa carefully examines a cluster of purple grapes, with grape juice slightly on her fingers and chin. Her father, a Black man with kind eyes and a gentle smile, helps steady the grape cluster. Deep purple tones blend beautifully with soft pastels.",
+            "alt": "Rosa and father with purple grapes",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rosa drinks white milk. Gulp, gulp!",
+          "illustration": {
+            "description": "Rosa holds a small white sippy cup with both hands, tilting it to drink. A white milk mustache appears on her upper lip. The background is soft and creamy with gentle lighting emphasizing the pure white milk and cup.",
+            "alt": "Rosa drinking white milk from sippy cup",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rosa likes brown bread. Nibble, nibble!",
+          "illustration": {
+            "description": "Rosa sits cross-legged on a picnic blanket, holding a piece of golden-brown whole grain bread. Her older brother, a mixed-race boy with freckles, sits beside her sharing the snack. Warm brown tones create a cozy outdoor picnic scene.",
+            "alt": "Rosa and brother sharing brown bread on picnic",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rosa's tummy is happy. All full!",
+          "illustration": {
+            "description": "Rosa pats her round little tummy with both hands, wearing a big satisfied smile. Rainbow-colored food remnants from her meal create a cheerful border around her. Her whole family - grandmother, father, and brother - gather around her with loving expressions in the warm kitchen.",
+            "alt": "Happy Rosa with full tummy surrounded by loving family",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "colors",
+      "food",
+      "family",
+      "sensory exploration"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color are Rosa's strawberries?",
+        "choices": [
+          "Red",
+          "Yellow"
+        ],
+        "correctIndex": 0,
+        "explanation": "Rosa sees red strawberries at the beginning of the story!"
+      },
+      {
+        "id": "q2",
+        "question": "What sound does Rosa make eating carrots?",
+        "choices": [
+          "Squish, squish",
+          "Crunch, crunch"
+        ],
+        "correctIndex": 1,
+        "explanation": "Rosa makes a crunching sound when she eats the orange carrots!"
+      },
+      {
+        "id": "q3",
+        "question": "How does Rosa's tummy feel at the end?",
+        "choices": [
+          "Happy and full",
+          "Still hungry"
+        ],
+        "correctIndex": 0,
+        "explanation": "Rosa's tummy is happy and all full after eating all the colorful foods!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Rosa sees ___ strawberries. Yum, yum!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "red",
+            "distractors": [
+              "blue",
+              "green",
+              "purple"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Rosa loves orange ___. Crunch, crunch!",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "carrots",
+            "distractors": [
+              "apples",
+              "cookies",
+              "crackers"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

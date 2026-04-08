@@ -1,0 +1,211 @@
+{
+  "id": "toddler-feelings-191",
+  "title": "Rio's Big Feelings Day",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "feelings",
+    "family"
+  ],
+  "wordCount": 274,
+  "readingLevel": "1.2",
+  "synopsis": "When Rio's favorite stuffed elephant goes missing, she experiences big feelings of sadness and worry. With help from her loving family, Rio learns to name her feelings and discovers that even when we feel scared or sad, we can be brave and find solutions together.",
+  "coverImage": "covers/toddler-feelings-191.webp",
+  "chapters": [
+    {
+      "title": "Rio's Missing Friend",
+      "pages": [
+        {
+          "text": "Rio loved her stuffed elephant, Peanut, more than anything in the whole world. Every morning, she would hug Peanut tight and say, 'Good morning, best friend!' But today when Rio woke up, Peanut was nowhere to be found.",
+          "illustration": {
+            "description": "A young Latina girl with curly dark hair in polka-dot pajamas sitting up in her bright yellow bed, looking around with wide, worried eyes. Her rumpled bedsheets are rainbow-colored, and there's an empty spot where her stuffed elephant should be. The room has cheerful primary colors with toy blocks scattered on a textured blue carpet.",
+            "alt": "Rio sitting in bed looking worried, searching for her missing stuffed elephant",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rio felt sad. Her bottom lip started to wobble, and her eyes filled with tears. 'Mama!' she called. 'I can't find Peanut anywhere!' Mama came running with her arms open wide. She had kind brown eyes and wore a bright purple robe.",
+          "illustration": {
+            "description": "Rio with tears in her eyes reaching up toward her mother, who is a warm Black woman with natural hair in a purple robe, bending down with open arms. The background shows Rio's colorful bedroom with morning sunlight streaming through yellow curtains, creating a textured, construction paper-like effect.",
+            "alt": "Rio crying while reaching for her mother who is coming to comfort her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'I feel scared that Peanut is lost forever,' Rio sniffled. Mama scooped her up in the biggest, warmest hug. 'It's okay to feel sad and scared, mi amor,' Mama said softly. 'Let's be brave together and look for Peanut. Sometimes when we feel worried, the best thing to do is ask for help.'",
+          "illustration": {
+            "description": "Mama holding Rio in a tender embrace, both sitting on the edge of the bed. Rio's face shows mixed emotions - still sad but a little hopeful. The room around them is warm and cozy with soft morning light, toys on shelves, and a textured background in gentle pastels that suggest comfort and safety.",
+            "alt": "Mama hugging Rio tenderly while talking about feelings",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Finding Peanut Together",
+      "pages": [
+        {
+          "text": "Papa joined the search too! He was a tall man with a friendly smile and glasses. 'Let's check everywhere Peanut likes to hide,' he said cheerfully. They looked under the couch, in the toy box, and behind the kitchen chairs. Rio started to feel a little bit brave.",
+          "illustration": {
+            "description": "The family searching together - Papa (a tall Asian man with glasses and a green shirt) looking behind furniture, Mama checking the toy box, and Rio peeking under a bright red couch. The living room has bold primary colors, scattered toys, and a construction paper texture that makes everything look warm and inviting.",
+            "alt": "The whole family searching for Peanut throughout the colorful living room",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Then Rio remembered something important. 'We had a tea party in the garden yesterday!' she said, feeling excited. They all rushed outside together. And there, sitting under the big oak tree, was Peanut! He was a little dirty but perfectly safe.",
+          "illustration": {
+            "description": "Rio running toward a gray stuffed elephant sitting under a large green tree in a sunny backyard. Her parents are behind her, smiling with relief. The garden has bright flowers, blue sky, and green grass with a textured, construction paper feel. Rio's expression shows pure joy and excitement.",
+            "alt": "Rio running happily toward her stuffed elephant Peanut under a tree in the garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Peanut!' Rio cried, scooping up her beloved elephant. She felt so happy that her whole face lit up with the biggest smile. 'I was sad when you were lost, but now I feel happy and brave!' Mama and Papa hugged them both. 'You were very brave to keep looking,' Papa said proudly.",
+          "illustration": {
+            "description": "Rio hugging her stuffed elephant tight with a radiant, joyful expression while her diverse parents embrace them both in a group hug. The background shows the sunny garden with colorful flowers and blue sky, all rendered in bright, cheerful cartoon style with bold colors and textured, construction paper-like effects.",
+            "alt": "The happy family in a group hug with Rio holding her found stuffed elephant",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotional development",
+      "family support",
+      "problem-solving",
+      "courage",
+      "feelings identification"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Rio feel when she couldn't find Peanut?",
+        "choices": [
+          "Happy and excited",
+          "Sad and scared",
+          "Angry and mad"
+        ],
+        "correctIndex": 1,
+        "explanation": "Rio felt sad and scared when Peanut was missing. These are normal feelings when we lose something important to us."
+      },
+      {
+        "id": "q2",
+        "question": "What did Mama tell Rio about her feelings?",
+        "choices": [
+          "Don't feel sad",
+          "It's okay to feel sad and scared",
+          "You should be happy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mama told Rio it's okay to feel sad and scared. All feelings are normal and it's important to talk about them."
+      },
+      {
+        "id": "q3",
+        "question": "Where did they find Peanut?",
+        "choices": [
+          "Under the couch",
+          "In the garden under the tree",
+          "In the toy box"
+        ],
+        "correctIndex": 1,
+        "explanation": "They found Peanut in the garden under the oak tree, where Rio remembered having a tea party the day before."
+      },
+      {
+        "id": "q4",
+        "question": "How did Rio feel at the end of the story?",
+        "choices": [
+          "Still sad and worried",
+          "Happy and brave",
+          "Scared and angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "At the end, Rio felt happy because she found Peanut and brave because she didn't give up looking for her friend."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in Rio's Feelings",
+        "instruction": "Help Rio name her feelings by choosing the right words!",
+        "text": "When Rio couldn't find Peanut, she felt _____ and _____. But when her family helped her look, she started to feel _____. At the end, when she found Peanut, Rio felt very _____!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "sad",
+            "distractors": [
+              "silly",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "scared",
+            "distractors": [
+              "sleepy",
+              "cold"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "brave",
+            "distractors": [
+              "tired",
+              "thirsty"
+            ]
+          },
+          {
+            "wordIndex": 3,
+            "correctWord": "happy",
+            "distractors": [
+              "angry",
+              "bored"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Rio's Search Adventure",
+        "instruction": "Where did Rio's family look for Peanut? Fill in the missing words!",
+        "text": "Rio and her family looked _____ the couch, in the _____ box, and behind the kitchen chairs. Then Rio remembered they had a tea party in the _____ yesterday!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "under",
+            "distractors": [
+              "over",
+              "inside"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "toy",
+            "distractors": [
+              "food",
+              "shoe"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "garden",
+            "distractors": [
+              "kitchen",
+              "bathroom"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

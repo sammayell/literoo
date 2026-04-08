@@ -1,0 +1,188 @@
+{
+  "id": "toddler-feelings-141",
+  "title": "Rio's Big Feelings Day",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "feelings",
+    "family"
+  ],
+  "wordCount": 189,
+  "readingLevel": "1.2",
+  "synopsis": "When Rio's favorite teddy bear goes missing, she experiences big feelings of worry and sadness. With help from her diverse family members, Rio learns that it's okay to feel upset and discovers that sharing feelings with people who love you can make everything better.",
+  "coverImage": "covers/toddler-feelings-141.webp",
+  "chapters": [
+    {
+      "title": "Rio's Missing Bear",
+      "pages": [
+        {
+          "text": "Rio loved her soft brown teddy bear named Coco. Every morning, she hugged Coco tight and felt happy. Today was different. Rio looked everywhere but couldn't find Coco!",
+          "illustration": {
+            "description": "A young Latina girl with curly dark hair in a bright yellow dress looking worried while searching under her bed. Her bedroom has colorful toys scattered around, rainbow bedsheets, and morning sunlight streaming through the window. The room has a warm, lived-in feeling with construction paper texture.",
+            "alt": "Rio searching for her teddy bear under her bed, looking worried",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rio felt scared. Where was Coco? Her eyes filled with tears and her heart felt heavy. She sat on her bed and began to cry. 'Coco is gone!' she said sadly.",
+          "illustration": {
+            "description": "Rio sitting on her colorful bed with tears in her big brown eyes, looking very sad. Her bedroom is bright with primary colors - red, blue, and yellow toys. Sunlight creates warm patches on the textured walls that look like construction paper. Her expression shows genuine sadness and worry.",
+            "alt": "Rio crying on her bed, feeling sad about her missing teddy bear",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Family Helps",
+      "pages": [
+        {
+          "text": "Mama heard Rio crying and came to her room. Mama had beautiful dark skin and kind eyes. 'What's wrong, mi amor?' she asked gently, sitting next to Rio on the bed.",
+          "illustration": {
+            "description": "A Black woman with natural hair in a soft purple sweater sitting on Rio's colorful bed, reaching out to comfort her daughter. The scene shows warmth and care with bright, cheerful colors and gentle lighting. The background has a construction paper texture with primary color accents.",
+            "alt": "Rio's mama sitting on the bed, reaching out to comfort Rio",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rio told Mama about missing Coco. Papa came in too. He had warm brown skin and a gentle smile. 'We will help you find Coco,' Papa said. Rio felt a little bit brave with her family there.",
+          "illustration": {
+            "description": "Rio with both parents on either side of her on the colorful bed. Papa is a Latino man with short dark hair wearing a blue shirt, Mama in her purple sweater. All three are close together showing family love and support. The room is bright with primary colors and has a warm, safe feeling.",
+            "alt": "Rio with both parents comforting her, showing family support",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Coco is Found",
+      "pages": [
+        {
+          "text": "They searched the whole house together. Papa looked in the kitchen. Mama checked the living room. Rio looked in the toy box. Then Rio remembered - the laundry room!",
+          "illustration": {
+            "description": "The family of three searching different rooms of their colorful home. Each family member is in a different area - Papa in a bright kitchen with yellow cabinets, Mama in a living room with red couch, Rio by a blue toy box. The scene shows teamwork with warm, primary colors throughout.",
+            "alt": "The family searching different rooms of the house for Coco",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "There was Coco, clean and fluffy in the laundry basket! Rio felt so happy and excited. She hugged Coco tight. 'I love you, Coco!' Rio felt grateful for her family's help and love.",
+          "illustration": {
+            "description": "Rio joyfully hugging her brown teddy bear in a bright laundry room with primary colored walls. Clean, colorful clothes are in baskets around them. Rio's face shows pure happiness and relief. Her parents stand in the doorway smiling. The scene has warm lighting and construction paper texture backgrounds.",
+            "alt": "Rio happily hugging Coco in the laundry room while her parents watch and smile",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotional intelligence",
+      "family support",
+      "problem solving",
+      "feelings vocabulary",
+      "comfort objects"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Rio feel when she couldn't find Coco?",
+        "choices": [
+          "Happy",
+          "Scared and sad",
+          "Excited"
+        ],
+        "correctIndex": 1,
+        "explanation": "Rio felt scared and sad when she couldn't find her teddy bear Coco. It's normal to feel upset when we lose something special!"
+      },
+      {
+        "id": "q2",
+        "question": "Who helped Rio look for Coco?",
+        "choices": [
+          "Her friends",
+          "Mama and Papa",
+          "Her teacher"
+        ],
+        "correctIndex": 1,
+        "explanation": "Rio's mama and papa helped her search for Coco. Family members care about us and want to help when we're upset."
+      },
+      {
+        "id": "q3",
+        "question": "Where did they find Coco?",
+        "choices": [
+          "Under the bed",
+          "In the laundry basket",
+          "In the toy box"
+        ],
+        "correctIndex": 1,
+        "explanation": "They found Coco clean and fluffy in the laundry basket! Sometimes our special things are just getting cleaned."
+      },
+      {
+        "id": "q4",
+        "question": "How did Rio feel when she found Coco?",
+        "choices": [
+          "Angry",
+          "Happy and grateful",
+          "Worried"
+        ],
+        "correctIndex": 1,
+        "explanation": "Rio felt happy and grateful when she found Coco and thankful for her family's help. Good feelings come after solving problems!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Rio felt _____ when Coco was missing, but her family helped her feel _____.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "scared",
+            "distractors": [
+              "hungry",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "brave",
+            "distractors": [
+              "tired",
+              "cold"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "When Rio found Coco in the _____ basket, she felt very _____.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "laundry",
+            "distractors": [
+              "toy",
+              "food"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "happy",
+            "distractors": [
+              "angry",
+              "scared"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

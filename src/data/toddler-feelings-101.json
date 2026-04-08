@@ -1,0 +1,217 @@
+{
+  "id": "toddler-feelings-101",
+  "title": "Emma's Big Feelings Day",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "feelings",
+    "family"
+  ],
+  "wordCount": 276,
+  "readingLevel": "1.2",
+  "synopsis": "Emma experiences big emotions when her favorite stuffed elephant goes missing, but with help from her loving family, she learns that it's okay to feel scared and sad, and that asking for help makes her brave.",
+  "coverImage": "covers/toddler-feelings-101.webp",
+  "chapters": [
+    {
+      "title": "Emma Loses Something Special",
+      "pages": [
+        {
+          "text": "Emma loved her stuffed elephant, Peanut, very much. Peanut had soft gray fur and a bright purple bow. Every night, Emma hugged Peanut tight as she went to sleep. They were best friends.",
+          "illustration": {
+            "description": "A cheerful South Asian girl with long black braids sits on a colorful bedroom floor, hugging a gray stuffed elephant with a purple bow. The room has warm yellow walls, a rainbow rug, and toys scattered around. Emma has a big smile and sparkling brown eyes.",
+            "alt": "Emma hugging her stuffed elephant Peanut in her bright, toy-filled bedroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "One morning, Emma woke up and reached for Peanut. But Peanut wasn't there! Emma looked under her pillow. She looked under her blankets. Where was Peanut?",
+          "illustration": {
+            "description": "Emma kneeling on her unmade bed, lifting up pillows and blankets with a worried expression. Her eyebrows are furrowed and her mouth is turned down slightly. The bed is messy with blue and yellow striped sheets, and morning sunlight streams through a window with cheerful curtains.",
+            "alt": "Emma searching through her bedding with a concerned expression",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Emma felt scared and sad. Her eyes filled with tears. \"Mama!\" she called out loudly. \"I can't find Peanut!\" Emma's voice shook because she felt so worried.",
+          "illustration": {
+            "description": "Emma standing in her doorway calling out, with tears in her big brown eyes and her hands cupped around her mouth. She's wearing pink pajamas with star patterns. Her expression shows worry and sadness, with her bottom lip trembling slightly.",
+            "alt": "Emma calling for her mama with tears in her eyes",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Asking for Help",
+      "pages": [
+        {
+          "text": "Mama came running to Emma's room. She had kind brown eyes just like Emma's. \"What's wrong, sweet girl?\" Mama asked gently. \"Peanut is gone!\" Emma cried. \"I'm so sad!\"",
+          "illustration": {
+            "description": "A woman with long black hair in a bun, wearing a soft green sweater, kneeling down to Emma's height with open arms. Her expression is caring and concerned. Emma is reaching toward her mama with tears on her cheeks but hope in her eyes.",
+            "alt": "Mama kneeling down to comfort crying Emma",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"It's okay to feel sad when we lose something special,\" Mama said, giving Emma a warm hug. \"Let's look for Peanut together. You were very brave to ask for help.\"",
+          "illustration": {
+            "description": "Mama hugging Emma close, both sitting on the edge of the bed. Emma's face is pressed against mama's shoulder, and mama is stroking Emma's hair gently. The scene is warm and comforting with soft lighting and peaceful expressions on both faces.",
+            "alt": "Mama giving Emma a comforting hug",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Papa heard them talking and came to help too. He had a warm smile and wore glasses. \"Let's all search together!\" he said cheerfully. Emma felt a little bit better knowing her family cared.",
+          "illustration": {
+            "description": "A tall man with short black hair, glasses, and a bright red shirt stands in the doorway with a encouraging smile. Behind him, a young boy with curly hair peeks around the corner curiously. The family members all have warm, caring expressions.",
+            "alt": "Papa arriving to help, with Emma's little brother peeking behind him",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Finding Peanut Again",
+      "pages": [
+        {
+          "text": "The whole family searched everywhere. They looked in the toy box, under the couch, and in the kitchen. Emma's little brother Arjun helped too, even though he was only three years old.",
+          "illustration": {
+            "description": "The family scattered around the living room searching - Papa looking under cushions, Mama checking behind a colorful bookshelf, Emma peering into a wooden toy box, and little Arjun crawling under a coffee table. The room has warm orange walls and family photos.",
+            "alt": "The whole family searching for Peanut in the living room",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Finally, Papa called out, \"Found him!\" Peanut was in the laundry basket, all clean and fluffy. \"He must have gotten mixed up with the washing,\" Papa laughed.",
+          "illustration": {
+            "description": "Papa holding up the gray stuffed elephant with its purple bow, smiling triumphantly next to a white laundry basket full of colorful clean clothes. Peanut looks extra fluffy and clean, and papa's expression is joyful and proud.",
+            "alt": "Papa holding up clean, fluffy Peanut from the laundry basket",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Emma felt so happy! She hugged Peanut tight and then hugged her whole family. \"Thank you for helping me!\" she said with a big smile. Emma learned that asking for help when she felt scared was very brave.",
+          "illustration": {
+            "description": "A group family hug with Emma in the center clutching Peanut, surrounded by mama, papa, and little Arjun. Everyone has huge, joyful smiles and the scene radiates warmth and love. The background is soft and glowing with happiness, showing the strong family bond.",
+            "alt": "Happy family group hug with Emma holding Peanut in the center",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotional intelligence",
+      "family support",
+      "problem solving",
+      "bravery"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Emma feel when she couldn't find Peanut?",
+        "choices": [
+          "Happy and excited",
+          "Scared and sad",
+          "Angry and mad"
+        ],
+        "correctIndex": 1,
+        "explanation": "Emma felt scared and sad when she couldn't find her special stuffed elephant."
+      },
+      {
+        "id": 2,
+        "question": "What did Emma do when she needed help?",
+        "choices": [
+          "She hid under her bed",
+          "She called for Mama",
+          "She went back to sleep"
+        ],
+        "correctIndex": 1,
+        "explanation": "Emma was brave and called for Mama when she needed help finding Peanut."
+      },
+      {
+        "id": 3,
+        "question": "Where did they find Peanut?",
+        "choices": [
+          "Under the bed",
+          "In the laundry basket",
+          "In the kitchen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Papa found Peanut in the laundry basket where he got mixed up with the washing."
+      },
+      {
+        "id": 4,
+        "question": "How did Emma feel at the end of the story?",
+        "choices": [
+          "Still sad and scared",
+          "Happy and grateful",
+          "Angry at her family"
+        ],
+        "correctIndex": 1,
+        "explanation": "Emma felt happy to have Peanut back and grateful to her family for helping her."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in Emma's Feelings",
+        "text": "Emma felt _____ when she couldn't find Peanut. But asking for help made her feel _____.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "sad",
+            "distractors": [
+              "happy",
+              "silly",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "brave",
+            "distractors": [
+              "tired",
+              "angry",
+              "cold"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Complete the Story",
+        "text": "Emma's stuffed _____ was named Peanut. The whole _____ helped search for him.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "elephant",
+            "distractors": [
+              "bear",
+              "dog",
+              "cat"
+            ]
+          },
+          {
+            "wordIndex": 10,
+            "correctWord": "family",
+            "distractors": [
+              "school",
+              "park",
+              "store"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

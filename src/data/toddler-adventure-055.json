@@ -1,0 +1,187 @@
+{
+  "id": "toddler-adventure-055",
+  "title": "Amira's Moonbeam Adventure",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "adventure",
+    "bedtime"
+  ],
+  "wordCount": 226,
+  "readingLevel": "1.2",
+  "synopsis": "When little Amira loses her special stuffed elephant Kesi in the dark, she feels scared and sad. With help from her mama and a magical moonbeam, she finds the courage to search for her beloved toy and discovers that being brave doesn't mean not feeling scared.",
+  "coverImage": "covers/toddler-adventure-055.webp",
+  "chapters": [
+    {
+      "title": "The Missing Friend",
+      "pages": [
+        {
+          "text": "Amira loved bedtime because she always cuddled with Kesi, her soft gray elephant. But tonight, Kesi was nowhere to be found! Amira looked under her pillow and in her toy box. Where could Kesi be?",
+          "illustration": {
+            "description": "A young Black girl with short curly hair in purple pajamas with star patterns, looking worried as she searches through her colorful bedroom. Her bed has bright orange sheets and the room has warm yellow lighting. Toys are scattered around showing her search.",
+            "alt": "Amira searching her bedroom for her missing elephant toy",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Amira felt very sad. Her eyes filled with tears. 'Mama!' she called. 'I can't find Kesi anywhere!' Mama came in with a gentle smile. She had warm brown skin like Amira's and wore a soft blue robe.",
+          "illustration": {
+            "description": "Amira sitting on her bed looking sad with tears in her eyes, while her mama, a tall Black woman with natural hair in a bun and a blue robe, sits beside her with a comforting expression. The room is softly lit with a bedside lamp casting a warm glow.",
+            "alt": "Mama comforting sad Amira on the bed",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Scary Search",
+      "pages": [
+        {
+          "text": "'Maybe Kesi is in the living room,' said Mama. But the living room looked scary in the dark. The shadows seemed big and strange. Amira felt frightened. 'I'm too scared to look,' she whispered.",
+          "illustration": {
+            "description": "A dimly lit living room with long shadows cast by moonlight through windows. Furniture appears as dark silhouettes creating mysterious shapes. Amira peeks around the doorway looking scared, holding her mama's hand. The room has blues and purples creating a nighttime atmosphere.",
+            "alt": "Dark living room with scary shadows as Amira peeks in nervously",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Just then, a bright moonbeam shone through the window. It made a silver path across the floor. 'Look, Amira,' said Mama. 'The moon wants to help us find Kesi. But we need to be brave.' Amira took a deep breath.",
+          "illustration": {
+            "description": "A beautiful silver moonbeam streaming through the window, illuminating the living room with soft white light. Amira and her mama stand together, with Amira looking more hopeful. The moonlight creates a magical pathway across the floor, transforming the scary room into something wonderful.",
+            "alt": "Magical moonbeam lighting up the living room as Amira and Mama stand together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Finding Courage",
+      "pages": [
+        {
+          "text": "'I can be brave,' said Amira. She followed the moonbeam path with Mama. Behind the big armchair, she saw something gray and soft. 'Kesi!' she cried happily. Her elephant had been hiding there all along!",
+          "illustration": {
+            "description": "Amira kneeling beside a large green armchair, joyfully reaching for her gray stuffed elephant. Her face shows pure happiness and relief. The moonbeam continues to shine, creating a warm spotlight on the reunion. Mama watches with a proud, loving expression.",
+            "alt": "Happy Amira finding her elephant toy behind the armchair in the moonlight",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Back in bed, Amira hugged Kesi tight. 'I was scared, but I was brave too,' she told her elephant. Mama tucked them in with a goodnight kiss. 'Being brave doesn't mean you're not scared. It means you do important things even when you feel scared.'",
+          "illustration": {
+            "description": "Amira snuggled in bed under orange covers, hugging her gray elephant toy with a content, sleepy smile. Mama leans over to give her a goodnight kiss. The room is cozy and warm with soft lighting. Stars are visible through the window, and the moon still shines gently outside.",
+            "alt": "Peaceful bedtime scene with Amira, Kesi, and Mama saying goodnight",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "courage",
+      "family love",
+      "overcoming fears",
+      "bedtime comfort"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What was Amira looking for?",
+        "choices": [
+          "Her teddy bear",
+          "Her elephant Kesi",
+          "Her blanket"
+        ],
+        "correctIndex": 1,
+        "explanation": "Amira was looking for Kesi, her special gray elephant toy that she always cuddled at bedtime."
+      },
+      {
+        "id": "q2",
+        "question": "How did Amira feel when she couldn't find Kesi?",
+        "choices": [
+          "Happy",
+          "Sad and scared",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Amira felt sad and scared when she couldn't find her special elephant friend."
+      },
+      {
+        "id": "q3",
+        "question": "What helped Amira search in the dark room?",
+        "choices": [
+          "A flashlight",
+          "A moonbeam",
+          "A lamp"
+        ],
+        "correctIndex": 1,
+        "explanation": "A bright moonbeam shone through the window and made a silver path to help Amira search."
+      },
+      {
+        "id": "q4",
+        "question": "Where did Amira find Kesi?",
+        "choices": [
+          "Under the bed",
+          "Behind the armchair",
+          "In the toy box"
+        ],
+        "correctIndex": 1,
+        "explanation": "Amira found Kesi hiding behind the big armchair in the living room."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Amira loved bedtime because she always cuddled with ____, her soft gray elephant.",
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "Kesi",
+            "distractors": [
+              "Mama",
+              "teddy",
+              "bunny"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "The living room looked ____ in the dark, so Amira felt frightened.",
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "scary",
+            "distractors": [
+              "pretty",
+              "bright",
+              "small"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "A bright ____ shone through the window to help them search.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "moonbeam",
+            "distractors": [
+              "sunlight",
+              "candle",
+              "star"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

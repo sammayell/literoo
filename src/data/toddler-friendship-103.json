@@ -1,0 +1,171 @@
+{
+  "id": "toddler-friendship-103",
+  "title": "Zara and the Worried Butterfly",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "nature"
+  ],
+  "wordCount": 238,
+  "readingLevel": "1.2",
+  "synopsis": "When Zara finds a sad butterfly with a hurt wing in her garden, she learns about kindness and helping friends in need, discovering that sometimes the smallest acts of care can make the biggest difference.",
+  "coverImage": "covers/toddler-friendship-103.webp",
+  "chapters": [
+    {
+      "title": "A Friend in Need",
+      "pages": [
+        {
+          "text": "Zara loved playing in her family's garden. She had curly black hair and wore her favorite yellow dress with sunflowers on it. Today felt extra special because the sun was shining bright and warm.",
+          "illustration": {
+            "description": "A cheerful young Black girl with bouncy curls wearing a sunny yellow dress decorated with sunflowers, standing in a colorful garden. The background shows bright green plants, purple flowers, and a clear blue sky. Her expression is joyful and excited. The style is bright cartoon with soft, rounded shapes and a construction paper texture.",
+            "alt": "Zara smiling happily in a sunny garden",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "As Zara walked near the big oak tree, she heard a tiny sad sound. \"Oh no!\" she said. There on the ground was a beautiful orange and black butterfly. But something was wrong - the butterfly looked scared and one wing was bent.",
+          "illustration": {
+            "description": "Zara kneeling down near a large oak tree, looking concerned at a small orange and black monarch butterfly on the ground. The butterfly's wing appears slightly damaged. Zara's face shows worry and caring. The scene is set among green grass and fallen leaves with dappled sunlight filtering through tree branches.",
+            "alt": "Zara discovering the injured butterfly by the oak tree",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "\"Don't be scared, little friend,\" Zara whispered gently. The butterfly's name was Luna, and she was very worried. \"My wing hurts and I can't fly to find my family,\" Luna said sadly. Zara felt sad too, but she wanted to help.",
+          "illustration": {
+            "description": "A close-up scene showing Zara sitting cross-legged on the grass, leaning forward with a gentle, caring expression as she talks to the butterfly named Luna. Luna appears small and delicate with drooping antennae showing sadness. The background is soft green with tiny flowers scattered around. Both characters' emotions are clearly visible through their expressions.",
+            "alt": "Zara gently talking to the sad butterfly Luna",
+            "layout": "full"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Being Brave Together",
+      "pages": [
+        {
+          "text": "Zara thought hard about how to help. \"I have an idea!\" she said, feeling brave. She carefully made a tiny soft bed from flower petals and placed it in a sunny, safe spot where Luna could rest and feel better.",
+          "illustration": {
+            "description": "Zara carefully arranging colorful flower petals - pink roses, yellow daisies, and purple violets - into a small cozy bed on a flat garden stone. Her face shows concentration and determination. Luna watches hopefully from nearby. The scene is warm and bright with golden sunlight, emphasizing the caring nature of the moment.",
+            "alt": "Zara making a flower petal bed for Luna",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Luna felt so happy and grateful! \"Thank you, Zara. You're so kind,\" she said. After resting in the warm sunshine and drinking dewdrops Zara brought her, Luna's wing felt much better. Soon she could flutter her wings again!",
+          "illustration": {
+            "description": "Luna the butterfly sitting contentedly on the colorful petal bed, with her wings spread wide showing they're healing. Zara is smiling proudly beside her, holding a large green leaf with dewdrops. Both characters look happy and relieved. The garden around them is vibrant with blooming flowers and cheerful sunshine creating a joyful atmosphere.",
+            "alt": "Luna feeling better on her petal bed while Zara brings her dewdrops",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "\"Now we're best friends forever!\" said Luna as she did a little happy dance in the air. Zara clapped her hands with joy. From that day on, Luna visited Zara in the garden every morning, and they played together in the sunshine.",
+          "illustration": {
+            "description": "Zara dancing and clapping her hands joyfully while Luna flutters in graceful circles around her, both expressing pure happiness. The garden is full of blooming flowers in bright colors - reds, yellows, purples, and pinks. Other friendly butterflies can be seen in the background. The scene radiates friendship, joy, and the beauty of nature working together.",
+            "alt": "Zara and Luna celebrating their new friendship with joyful dancing",
+            "layout": "full"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "kindness",
+      "helping others",
+      "friendship",
+      "nature",
+      "empathy"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Zara feel when she first saw Luna?",
+        "choices": [
+          "Happy",
+          "Sad and worried",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Zara felt sad and worried when she saw that Luna was hurt and scared."
+      },
+      {
+        "id": "q2",
+        "question": "What did Zara make for Luna?",
+        "choices": [
+          "A flower petal bed",
+          "A toy",
+          "A house"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zara made a soft bed from flower petals to help Luna rest and feel better."
+      },
+      {
+        "id": "q3",
+        "question": "How did Luna feel after Zara helped her?",
+        "choices": [
+          "Still sad",
+          "Happy and grateful",
+          "Scared"
+        ],
+        "correctIndex": 1,
+        "explanation": "Luna felt happy and grateful because Zara was kind and helped her feel better."
+      },
+      {
+        "id": "q4",
+        "question": "What happened at the end of the story?",
+        "choices": [
+          "Luna flew away forever",
+          "They became best friends",
+          "Zara went inside"
+        ],
+        "correctIndex": 1,
+        "explanation": "Zara and Luna became best friends and played together in the garden every day."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Zara felt ___ when she wanted to help Luna.",
+        "wordIndex": 2,
+        "correctWord": "brave",
+        "distractors": [
+          "sleepy",
+          "hungry",
+          "cold"
+        ]
+      },
+      {
+        "text": "Luna was ___ when Zara made her a flower bed.",
+        "wordIndex": 2,
+        "correctWord": "happy",
+        "distractors": [
+          "angry",
+          "tired",
+          "loud"
+        ]
+      },
+      {
+        "text": "Zara and Luna became best ___.",
+        "wordIndex": 4,
+        "correctWord": "friends",
+        "distractors": [
+          "enemies",
+          "toys",
+          "books"
+        ]
+      }
+    ]
+  }
+}

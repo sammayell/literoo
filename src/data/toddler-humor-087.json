@@ -1,0 +1,206 @@
+{
+  "id": "toddler-humor-087",
+  "title": "Ada and the Giggling Rainbow",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "humor",
+    "fantasy"
+  ],
+  "wordCount": 196,
+  "readingLevel": "1.2",
+  "synopsis": "When Ada discovers that all the colors have disappeared from her world, she embarks on a magical adventure to find them. With the help of a mischievous giggling rainbow, she learns that sometimes the best solutions come from being brave and asking for help.",
+  "coverImage": "covers/toddler-humor-087.webp",
+  "chapters": [
+    {
+      "title": "The Day Colors Disappeared",
+      "pages": [
+        {
+          "text": "Ada woke up feeling happy, but something was wrong. Everything in her room was gray! Her favorite red teddy bear was gray. Her yellow blanket was gray too. Ada felt scared and confused.",
+          "illustration": {
+            "description": "A young Black girl with curly hair in pajamas sitting up in bed, looking worried. Her room is completely grayscale - gray teddy bear, gray blanket, gray walls. Her dark eyes are wide with concern. Bright cartoon style with rounded shapes and textured backgrounds like construction paper.",
+            "alt": "Ada in her gray bedroom looking confused",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Ada ran to the window. Outside was gray too! The grass, the flowers, even the sky - all gray. 'Where did all the colors go?' Ada wondered sadly. She needed to be brave and find them.",
+          "illustration": {
+            "description": "Ada peering out her bedroom window at a completely gray world outside. Gray trees, gray flowers, gray sky. Ada's expression shows determination mixed with sadness. The window frame creates a border around the gray landscape. Bold primary colors only on Ada herself against the monochrome background.",
+            "alt": "Ada looking out at a colorless gray world",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Just then, Ada heard a funny sound - 'Hee hee hee!' Something was giggling in her backyard. Ada felt curious and excited. She put on her shoes and ran outside to investigate.",
+          "illustration": {
+            "description": "Ada putting on her shoes by the back door, with musical notes floating in the air representing giggling sounds. Her expression shows excitement and curiosity. The door is slightly open showing the gray backyard beyond. Warm lighting inside contrasts with the gray world outside.",
+            "alt": "Ada getting ready to go outside, hearing mysterious giggling",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Giggling Rainbow's Help",
+      "pages": [
+        {
+          "text": "In the backyard, Ada found a rainbow lying on the ground, giggling! 'Hee hee hee! I'm sorry,' said the rainbow. 'I was playing hide-and-seek with my colors and they got lost!'",
+          "illustration": {
+            "description": "A magical rainbow character with a friendly face and arms lying on gray grass, giggling with joy. Ada stands nearby looking amazed. The rainbow has bright stripes of red, orange, yellow, green, blue, and purple against the gray world. Sparkles surround the rainbow to show its magic.",
+            "alt": "Ada meeting the giggling rainbow in her backyard",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Ada felt happy to help! 'Let's find your colors together!' she said bravely. The rainbow smiled. 'Close your eyes and count to three!' Ada closed her eyes tight. 'One... two... three!'",
+          "illustration": {
+            "description": "Ada standing with eyes squeezed shut, hands covering her face, while the rainbow floats nearby with a mischievous grin. Magical sparkles swirl around them both. The rainbow's stripes are glowing brighter. Ada looks determined and brave despite having her eyes closed.",
+            "alt": "Ada closing her eyes while the rainbow prepares magic",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When Ada opened her eyes, colors exploded everywhere! Red flowers, yellow sun, green grass, blue sky! The rainbow giggled happily. 'Thank you for helping me be brave!' Ada felt so happy and proud.",
+          "illustration": {
+            "description": "Ada with arms spread wide in joy, surrounded by a vibrant, colorful world. Bright red flowers, golden yellow sun, emerald green grass, and brilliant blue sky. The rainbow arcs beautifully overhead, still giggling. Ada's face shows pure happiness and pride. Everything is now in brilliant, bold primary colors.",
+            "alt": "Ada celebrating in the restored colorful world with the rainbow",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bravery",
+      "helping others",
+      "problem-solving",
+      "friendship"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Ada feel when she first saw everything was gray?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Silly"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ada felt scared and confused when she woke up and saw that all the colors had disappeared."
+      },
+      {
+        "id": "q2",
+        "question": "What was making the giggling sound in Ada's backyard?",
+        "choices": [
+          "A dog",
+          "A rainbow",
+          "A bird"
+        ],
+        "correctIndex": 1,
+        "explanation": "The giggling sound was coming from a magical rainbow who had lost its colors while playing hide-and-seek."
+      },
+      {
+        "id": "q3",
+        "question": "What did Ada do to help the rainbow?",
+        "choices": [
+          "She ran away",
+          "She closed her eyes and counted",
+          "She went back inside"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ada was brave and helped by closing her eyes and counting to three, which helped the rainbow find its colors."
+      },
+      {
+        "id": "q4",
+        "question": "How did Ada feel at the end when all the colors came back?",
+        "choices": [
+          "Sad",
+          "Scared",
+          "Happy and proud"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ada felt happy and proud because she was brave and helped the rainbow solve the problem."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Feelings!",
+        "text": "Ada woke up feeling [0], but then she felt [1] when everything was gray. She decided to be [2] and help the rainbow!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "happy",
+            "distractors": [
+              "sleepy",
+              "hungry",
+              "cold"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "scared",
+            "distractors": [
+              "tired",
+              "silly",
+              "loud"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "brave",
+            "distractors": [
+              "quiet",
+              "fast",
+              "big"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Color Words!",
+        "text": "The [0] flowers, [1] sun, and [2] grass all came back when the rainbow found its colors!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "red",
+            "distractors": [
+              "soft",
+              "round",
+              "small"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "yellow",
+            "distractors": [
+              "heavy",
+              "quiet",
+              "smooth"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "green",
+            "distractors": [
+              "loud",
+              "hot",
+              "sharp"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

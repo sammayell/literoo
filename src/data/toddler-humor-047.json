@@ -1,0 +1,196 @@
+{
+  "id": "toddler-humor-047",
+  "title": "Esme and the Giggling Clouds",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "humor",
+    "fantasy"
+  ],
+  "wordCount": 223,
+  "readingLevel": "1.2",
+  "synopsis": "When little Esme discovers that the clouds above her backyard are sad and droopy, she uses her magical giggle powder to turn them into happy, bouncing clouds that bring joy to her whole neighborhood.",
+  "coverImage": "covers/toddler-humor-047.webp",
+  "chapters": [
+    {
+      "title": "The Droopy Clouds",
+      "pages": [
+        {
+          "text": "Esme loved playing in her backyard. She had curly black hair and bright brown eyes that sparkled when she smiled. Today, something looked wrong. The clouds above were droopy and gray. They looked very sad!",
+          "illustration": {
+            "description": "A young girl with curly black hair and warm brown skin stands in a colorful backyard, looking up with concern. Above her, gray droopy clouds have sad faces with downturned mouths. The yard has bright green grass, rainbow flowers, and a wooden fence. Her expression shows worry and empathy.",
+            "alt": "Esme looking up at sad, droopy gray clouds in her backyard",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "\"Why are you so sad?\" Esme called to the clouds. To her surprise, they answered! \"We forgot how to be happy,\" they whispered sadly. \"We only remember how to be gray and droopy.\" Esme felt sorry for the clouds.",
+          "illustration": {
+            "description": "The sad gray clouds lean down toward Esme, with tears dripping from their fluffy edges. Esme cups her hands around her mouth, calling up to them with a caring expression. The clouds have simple facial features showing deep sadness. The scene has muted colors except for Esme's bright yellow dress.",
+            "alt": "Esme talking to the sad clouds who are crying gentle raindrops",
+            "layout": "full"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Magic Giggle Powder",
+      "pages": [
+        {
+          "text": "Esme had an idea! She ran to her special toy box and pulled out a tiny bag of sparkly powder. \"This is my giggle powder!\" she said bravely. \"It makes everything happy again!\" She felt excited to help her new cloud friends.",
+          "illustration": {
+            "description": "Esme kneels beside a bright rainbow toy box, holding up a small shimmering bag that sparkles with golden and silver dust. Her face shows determination and joy. The giggle powder glitters in the sunlight, creating tiny rainbow sparkles around her hands. The toy box overflows with colorful toys.",
+            "alt": "Esme holding magical sparkly giggle powder from her toy box",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Esme threw the giggle powder high into the air. \"Giggle, wiggle, happy clouds!\" she chanted. The sparkly dust swirled up, up, up toward the droopy clouds. Magic filled the sky with golden sparkles!",
+          "illustration": {
+            "description": "Esme stands with arms raised high, tossing glittering powder that creates swirling golden spirals in the air. The powder forms magical trails of sparkles rising toward the gray clouds above. Her face shows pure joy and determination. The background transforms from dull to bright as the magic spreads.",
+            "alt": "Esme throwing magical giggle powder up toward the clouds with golden sparkles swirling",
+            "layout": "full"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Happy Clouds Everywhere",
+      "pages": [
+        {
+          "text": "The magic worked! The clouds turned fluffy white and pink. They grew big happy smiles and started giggling! \"Thank you, Esme!\" they laughed. Soon they were bouncing and dancing across the sky. The clouds felt so happy now!",
+          "illustration": {
+            "description": "Fluffy white and pink clouds with big smiling faces bounce joyfully across a bright blue sky. They have rosy cheeks and sparkly eyes, giggling with their mouths wide open. Esme claps her hands below, beaming with happiness. Golden sparkles still float in the air around the transformed clouds.",
+            "alt": "Happy pink and white clouds with big smiles bouncing across the sky while Esme claps",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "The happy clouds sprinkled gentle sunshine and rainbow drops on everyone. Esme's neighbors came outside to see the magical sky. Mrs. Chen smiled, little Marcus giggled, and baby Ava clapped her hands. Everyone felt happy together!",
+          "illustration": {
+            "description": "A diverse group of neighbors stands in their yards, all looking up with wonder and joy. Mrs. Chen, an elderly Asian woman, waves from her garden. Marcus, a young Black boy, points excitedly at the sky. Baby Ava, held by her parent, reaches up toward rainbow droplets falling gently. Esme stands proudly in the center as gentle rainbow light bathes everyone.",
+            "alt": "Diverse neighbors looking up happily at the magical clouds dropping rainbow light",
+            "layout": "full"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "kindness",
+      "problem-solving",
+      "magic",
+      "helping others",
+      "emotions"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did the clouds feel at the beginning?",
+        "choices": [
+          "Happy",
+          "Sad",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "The clouds were sad and droopy because they forgot how to be happy."
+      },
+      {
+        "id": 2,
+        "question": "What did Esme use to help the clouds?",
+        "choices": [
+          "Magic wand",
+          "Giggle powder",
+          "Rainbow paint"
+        ],
+        "correctIndex": 1,
+        "explanation": "Esme used her special giggle powder to make the clouds happy again."
+      },
+      {
+        "id": 3,
+        "question": "How did Esme feel when she wanted to help the clouds?",
+        "choices": [
+          "Scared",
+          "Brave",
+          "Sleepy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Esme felt brave when she decided to use her giggle powder to help the sad clouds."
+      },
+      {
+        "id": 4,
+        "question": "What happened to the neighbors at the end?",
+        "choices": [
+          "They ran away",
+          "They felt happy",
+          "They went to sleep"
+        ],
+        "correctIndex": 1,
+        "explanation": "All the neighbors came outside and felt happy when they saw the magical clouds."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words!",
+        "instructions": "Choose the right word for each blank.",
+        "text": "Esme threw the giggle ___1___ high into the air. The magic worked! The clouds turned fluffy and grew big happy ___2___.",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "powder",
+            "distractors": [
+              "water",
+              "sand",
+              "cookies"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "smiles",
+            "distractors": [
+              "frowns",
+              "tears",
+              "hats"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "More Missing Words!",
+        "instructions": "Pick the best word for each blank.",
+        "text": "The clouds looked very ___1___ at first. But Esme felt ___2___ and wanted to help them feel better.",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "sad",
+            "distractors": [
+              "happy",
+              "hungry",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "brave",
+            "distractors": [
+              "scared",
+              "tired",
+              "angry"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

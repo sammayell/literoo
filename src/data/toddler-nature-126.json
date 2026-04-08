@@ -1,0 +1,191 @@
+{
+  "id": "toddler-nature-126",
+  "title": "Enzo's Garden Helper Day",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "nature",
+    "school"
+  ],
+  "wordCount": 227,
+  "readingLevel": "1.2",
+  "synopsis": "Enzo feels nervous about his first day helping in the school garden, but with encouragement from his teacher Ms. Rosa and new friend Zara, he discovers the joy of planting seeds and watching them grow, transforming his worry into excitement and pride.",
+  "coverImage": "covers/toddler-nature-126.webp",
+  "chapters": [
+    {
+      "title": "Garden Day Worries",
+      "pages": [
+        {
+          "text": "Enzo walked slowly to school with his mama. Today was special garden day! But Enzo felt scared. What if he didn't know how to plant seeds? What if the other kids were better at gardening?",
+          "illustration": {
+            "description": "A young Latino boy with curly dark hair wearing a bright yellow t-shirt and blue overalls walks hand-in-hand with his mother along a sunny sidewalk. Enzo's face shows worry with slightly furrowed brows and a small frown. His mother, wearing a flowing purple dress, smiles encouragingly down at him. The background shows colorful houses and green trees in a cheerful cartoon style with soft, textured paper-like quality.",
+            "alt": "Enzo looking worried while walking to school with his mama",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "At school, Enzo saw the big garden plot. Ms. Rosa, his teacher, waved happily. She had kind brown eyes and wore a sun hat covered in flower patches. 'Ready to be a garden helper, Enzo?' she asked with a warm smile.",
+          "illustration": {
+            "description": "A cheerful classroom garden scene with raised garden beds filled with dark soil. Ms. Rosa, a Black woman with natural hair peeking from under a colorful patchwork sun hat, waves enthusiastically. She wears a green apron over a bright orange dress. Enzo stands nearby looking uncertain but curious. The setting is bright and welcoming with construction paper-textured backgrounds in greens and browns.",
+            "alt": "Ms. Rosa welcoming Enzo to the school garden",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Making a New Friend",
+      "pages": [
+        {
+          "text": "A girl with two braids ran over. 'Hi! I'm Zara!' she said happily. 'Want to plant sunflower seeds together? I can show you how!' Zara's smile was so big and friendly that Enzo started to feel a little brave.",
+          "illustration": {
+            "description": "Zara, a cheerful East Asian girl with two neat braids tied with red ribbons, extends her hand toward Enzo. She wears a bright pink shirt and denim shorts, with a huge excited smile. Enzo looks surprised but pleased, his worried expression beginning to soften. They stand in the garden area with other diverse children visible in the background, all in vibrant cartoon style with rounded, friendly shapes.",
+            "alt": "Zara introducing herself to Enzo in the garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Zara showed Enzo how to make a small hole in the soft dirt. 'Like this!' she said, poking her finger down. Enzo tried too. The soil felt cool and squishy. It was actually fun! Enzo began to feel happy.",
+          "illustration": {
+            "description": "Close-up view of two pairs of small hands working in dark, rich soil. Zara's hands demonstrate making holes while Enzo's hands tentatively follow along. Both children's faces show concentration and growing excitement. Small gardening tools and colorful seed packets are scattered nearby. The illustration uses warm browns for soil contrasting with bright primary colors, maintaining the textured paper-like cartoon style.",
+            "alt": "Zara and Enzo making holes in the soil together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Proud Garden Helper",
+      "pages": [
+        {
+          "text": "Enzo and Zara planted three big sunflower seeds. They watered them gently with a small watering can. 'Good job, garden helpers!' said Ms. Rosa proudly. Enzo felt so proud and excited about his plants.",
+          "illustration": {
+            "description": "Enzo and Zara kneeling side by side in the garden, both beaming with pride as they water their newly planted seeds. Enzo holds a small red watering can while Zara points to their planted area. Ms. Rosa stands behind them clapping her hands together approvingly. The scene is filled with warm yellows and greens, showing the joy and accomplishment of the moment in bright cartoon style.",
+            "alt": "Enzo and Zara proudly watering their planted sunflower seeds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Walking home, Enzo couldn't stop smiling. He told Mama all about planting seeds and his new friend Zara. 'Tomorrow I want to check if they're growing!' he said happily. Garden day wasn't scary at all - it was wonderful!",
+          "illustration": {
+            "description": "Enzo skips along the sidewalk next to his mother, his face bright with joy and excitement. He gestures animatedly with his hands as he talks, his earlier worry completely gone. His mother listens with a proud, loving expression. The background shows the same neighborhood as before, but now seems more vibrant and cheerful, reflecting Enzo's transformed mood. The warm afternoon sun creates a golden glow in this construction paper-textured cartoon scene.",
+            "alt": "Happy Enzo walking home and telling his mama about garden day",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "overcoming fears",
+      "friendship",
+      "nature appreciation",
+      "school experiences"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Enzo feel at the beginning of garden day?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Enzo felt scared because he worried he wouldn't know how to plant seeds."
+      },
+      {
+        "id": 2,
+        "question": "Who helped Enzo learn to plant seeds?",
+        "choices": [
+          "His mama",
+          "Zara",
+          "Ms. Rosa alone"
+        ],
+        "correctIndex": 1,
+        "explanation": "Zara showed Enzo how to make holes and plant the sunflower seeds together."
+      },
+      {
+        "id": 3,
+        "question": "What kind of seeds did Enzo and Zara plant?",
+        "choices": [
+          "Carrot seeds",
+          "Sunflower seeds",
+          "Apple seeds"
+        ],
+        "correctIndex": 1,
+        "explanation": "They planted sunflower seeds together in the school garden."
+      },
+      {
+        "id": 4,
+        "question": "How did Enzo feel at the end of the story?",
+        "choices": [
+          "Still scared",
+          "Happy and proud",
+          "Sad"
+        ],
+        "correctIndex": 1,
+        "explanation": "Enzo felt happy and proud after successfully planting seeds and making a new friend."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Enzo felt _____ about garden day at first, but Zara helped him feel _____.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "angry",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 11,
+            "correctWord": "brave",
+            "distractors": [
+              "tired",
+              "hungry",
+              "cold"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "They planted _____ seeds in the soft _____ and watered them carefully.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "sunflower",
+            "distractors": [
+              "carrot",
+              "apple",
+              "orange"
+            ]
+          },
+          {
+            "wordIndex": 7,
+            "correctWord": "soil",
+            "distractors": [
+              "water",
+              "rocks",
+              "sand"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

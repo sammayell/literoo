@@ -1,0 +1,183 @@
+{
+  "id": "toddler-nature-166",
+  "title": "Luca's Nature Walk",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "nature",
+    "school"
+  ],
+  "wordCount": 229,
+  "readingLevel": "1.2",
+  "synopsis": "When Luca loses his favorite toy bear during a school nature walk, he feels scared and sad. With help from his teacher and classmates, he learns to be brave and discovers that nature has many wonderful surprises.",
+  "coverImage": "covers/toddler-nature-166.webp",
+  "chapters": [
+    {
+      "title": "The Lost Bear",
+      "pages": [
+        {
+          "text": "Luca was so happy! Today his class was going on a nature walk in the forest. He hugged his favorite toy bear, Honey, tight in his arms. 'We're going to see so many trees and flowers!' he told Honey with a big smile.",
+          "illustration": {
+            "description": "A cheerful Latino boy with curly dark hair wearing a bright red backpack, holding a small golden teddy bear. He's standing with diverse classmates outside a colorful school building. Everyone has excited expressions and backpacks ready for adventure.",
+            "alt": "Luca holding his teddy bear with excited classmates",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The forest was amazing! Luca saw tall green trees, pretty yellow flowers, and heard birds singing. He was having so much fun looking at everything. But when he reached for Honey to show him a butterfly, Honey was gone!",
+          "illustration": {
+            "description": "A beautiful forest scene with tall green trees, bright yellow wildflowers, and colorful butterflies. Luca stands in the middle looking around with a worried expression, his hands empty. Sunlight filters through the trees creating a magical atmosphere.",
+            "alt": "Luca in the forest realizing his bear is missing",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Luca felt very scared and sad. 'Honey is lost!' he cried. His teacher, Ms. Chen, knelt down and gave him a gentle hug. 'Don't worry, Luca. We'll find Honey together,' she said in a kind voice.",
+          "illustration": {
+            "description": "Ms. Chen, an Asian woman with kind eyes and a warm smile, kneeling down to comfort Luca who has tears in his eyes. She's wearing a green nature guide vest. Other diverse children gather around looking concerned and supportive.",
+            "alt": "Ms. Chen comforting sad Luca",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Finding Honey",
+      "pages": [
+        {
+          "text": "Luca tried to be brave. 'I can look for Honey!' he said. His friend Maya, who had beautiful braided hair, pointed to some bushes. 'Let's check over there!' Together they searched behind the green bushes.",
+          "illustration": {
+            "description": "Luca looking determined and brave, searching with Maya, an African American girl with intricate braids. They're looking behind lush green bushes together. Both children have focused, hopeful expressions as they work as a team.",
+            "alt": "Luca and Maya searching for the lost bear",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Then Sam, a boy with freckles, called out, 'I found him!' There was Honey, sitting under a big oak tree next to some pretty purple flowers. The little bear looked happy to see Luca coming.",
+          "illustration": {
+            "description": "Sam, a red-haired boy with freckles, pointing excitedly at the golden teddy bear sitting peacefully under a massive oak tree. Purple wildflowers surround the bear. The scene is bright and cheerful with dappled sunlight.",
+            "alt": "Sam pointing to Honey under the oak tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Luca ran to Honey and hugged him tight. He felt so happy! 'Thank you for helping me!' he told his friends. Ms. Chen smiled. 'You were very brave, Luca. And your friends were very kind. That's what makes our class special!'",
+          "illustration": {
+            "description": "A joyful group scene with Luca hugging his teddy bear while surrounded by his diverse classmates and Ms. Chen. Everyone is smiling and celebrating. The forest background is bright and welcoming with colorful flowers and golden sunlight.",
+            "alt": "Happy Luca reunited with Honey, surrounded by friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "bravery",
+      "problem-solving",
+      "nature appreciation",
+      "teamwork"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Luca feel when he couldn't find Honey?",
+        "choices": [
+          "Happy and excited",
+          "Scared and sad",
+          "Angry and mad"
+        ],
+        "correctIndex": 1,
+        "explanation": "Luca felt scared and sad when he realized his favorite teddy bear Honey was missing during the nature walk."
+      },
+      {
+        "id": "q2",
+        "question": "Who helped Luca look for his bear?",
+        "choices": [
+          "Only Ms. Chen",
+          "His friends Maya and Sam",
+          "Nobody helped him"
+        ],
+        "correctIndex": 1,
+        "explanation": "Luca's classmates Maya and Sam helped him search for Honey, showing how friends help each other."
+      },
+      {
+        "id": "q3",
+        "question": "Where was Honey found?",
+        "choices": [
+          "In the school playground",
+          "Under an oak tree with purple flowers",
+          "In Luca's backpack"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sam found Honey sitting peacefully under a big oak tree next to some pretty purple flowers."
+      },
+      {
+        "id": "q4",
+        "question": "What did Ms. Chen say about Luca?",
+        "choices": [
+          "He was very silly",
+          "He was very brave",
+          "He was very sleepy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ms. Chen praised Luca for being brave when he helped search for his lost teddy bear instead of just crying."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Complete the story: Luca felt very _____ when he lost Honey, but his friends helped him be _____.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "sad",
+            "distractors": [
+              "happy",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "brave",
+            "distractors": [
+              "scared",
+              "angry"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Fill in the blanks: _____ found Honey under the big _____ tree with purple flowers.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Sam",
+            "distractors": [
+              "Maya",
+              "Ms. Chen"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "oak",
+            "distractors": [
+              "apple",
+              "pine"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

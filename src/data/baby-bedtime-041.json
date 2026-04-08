@@ -1,0 +1,155 @@
+{
+  "id": "baby-bedtime-041",
+  "title": "Rio's Sleepy Stars",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "bedtime",
+    "counting"
+  ],
+  "wordCount": 65,
+  "readingLevel": "0.5",
+  "synopsis": "Little Rio counts twinkling stars from one to five as each one gently falls asleep, creating a soothing bedtime routine that helps her drift off to dreamland with soft sounds and repetitive patterns perfect for babies.",
+  "coverImage": "covers/baby-bedtime-041.webp",
+  "chapters": [
+    {
+      "title": "Counting Sleepy Stars",
+      "pages": [
+        {
+          "text": "One little star says 'twinkle, twinkle' in the sky.",
+          "illustration": {
+            "description": "Baby Rio with warm brown skin and curly black hair in soft yellow pajamas sits by a large window, pointing up at a single golden star against a deep purple night sky. Her round face shows wonder and delight. The room glows with gentle moonlight, creating soft shadows and a cozy atmosphere.",
+            "alt": "Rio pointing at one twinkling star through her bedroom window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Two sleepy stars whisper 'shh, shh' and close their eyes.",
+          "illustration": {
+            "description": "Two golden stars with peaceful sleeping faces and closed eyelashes drift in the lavender sky. Rio watches from her window with a gentle smile, her small hand pressed against the glass. Soft white curtains frame the scene, and a crescent moon glows softly nearby.",
+            "alt": "Two stars with sleepy faces as Rio watches from her window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Three tired stars yawn 'ahhhh' and start to dim.",
+          "illustration": {
+            "description": "Three stars with tiny open mouths showing yawns float above, their light beginning to fade from bright gold to soft peach. Rio sits cross-legged on her bed, a cozy quilt with star patterns around her shoulders. Her mother with long black braids and warm smile sits beside her.",
+            "alt": "Three yawning stars dimming while Rio and her mother sit together",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Four drowsy stars hum 'mmm, mmm' so soft and low.",
+          "illustration": {
+            "description": "Four stars arranged in a gentle arc across the dusky sky, each with serene expressions and soft musical notes floating around them. Rio lies tucked in her bed with pale yellow sheets, her father with kind eyes and short beard reading beside her. The room is bathed in warm amber light.",
+            "alt": "Four humming stars while Rio's father reads to her in bed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Five quiet stars breathe 'whoosh, whoosh' and fall asleep.",
+          "illustration": {
+            "description": "Five stars clustered together in the midnight blue sky, all with closed eyes and peaceful sleeping expressions. Gentle swirls of silver wind carry them softly. Rio lies with eyes growing heavy, her favorite stuffed bunny tucked in her arms, surrounded by both parents who smile lovingly.",
+            "alt": "Five sleeping stars while Rio grows sleepy with her family nearby",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Now Rio whispers 'night, night' to the sleeping stars.",
+          "illustration": {
+            "description": "All five stars sleep peacefully in a cluster, surrounded by soft white clouds. Rio's eyes are nearly closed, her hand making a tiny wave goodbye toward the window. The room is dimly lit with a gentle nightlight casting star-shaped shadows on the walls. Everything feels calm and safe.",
+            "alt": "Rio saying goodnight to all the sleeping stars",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sweet dreams, little Rio! Sleep tight till morning light.",
+          "illustration": {
+            "description": "Rio sleeps peacefully in her cozy bed, curly hair spread on her pillow, with a content smile. The five stars dream above in fluffy white clouds, all glowing very softly. Early dawn light begins to peek through the curtains in gentle pink and gold hues, promising a new day ahead.",
+            "alt": "Rio sleeping peacefully as dawn approaches with dreaming stars above",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "counting",
+      "family bonding",
+      "peaceful sleep"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound do the sleepy stars make when they close their eyes?",
+        "choices": [
+          "shh, shh",
+          "whoosh, whoosh"
+        ],
+        "correctIndex": 0,
+        "explanation": "The two sleepy stars whisper 'shh, shh' and close their eyes."
+      },
+      {
+        "id": "q2",
+        "question": "How many stars fall asleep at the end?",
+        "choices": [
+          "three stars",
+          "five stars"
+        ],
+        "correctIndex": 1,
+        "explanation": "Five quiet stars breathe 'whoosh, whoosh' and fall asleep."
+      },
+      {
+        "id": "q3",
+        "question": "What does Rio say to the sleeping stars?",
+        "choices": [
+          "good morning",
+          "night, night"
+        ],
+        "correctIndex": 1,
+        "explanation": "Rio whispers 'night, night' to the sleeping stars."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Three tired stars yawn '_____' and start to dim.",
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "ahhhh",
+            "distractors": [
+              "twinkle",
+              "shh"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "_____ quiet stars breathe 'whoosh, whoosh' and fall asleep.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Five",
+            "distractors": [
+              "Two",
+              "Three"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

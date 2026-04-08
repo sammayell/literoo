@@ -1,0 +1,183 @@
+{
+  "id": "toddler-fantasy-060",
+  "title": "Kofi and the Singing Cloud",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "fantasy",
+    "friendship"
+  ],
+  "wordCount": 273,
+  "readingLevel": "1.2",
+  "synopsis": "When young Kofi discovers a sad little cloud that has lost its voice, he embarks on a magical journey with his diverse group of friends to help the cloud sing again, learning about friendship, bravery, and kindness along the way.",
+  "coverImage": "covers/toddler-fantasy-060.webp",
+  "chapters": [
+    {
+      "title": "The Quiet Cloud",
+      "pages": [
+        {
+          "text": "Kofi loved to play in his backyard garden. He had dark skin that sparkled in the sunshine and a big, happy smile. Today, something special floated down from the sky - a small, fluffy white cloud! But this cloud looked very sad.",
+          "illustration": {
+            "description": "A cheerful young Black boy with short curly hair and a bright yellow t-shirt standing in a colorful garden with flowers and butterflies. A small, droopy white cloud with a frowning face floats nearby at eye level. The background shows a sunny blue sky with green grass and rainbow-colored flowers.",
+            "alt": "Kofi, a happy Black boy, meeting a sad little cloud in his garden",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "\"Hello little cloud,\" said Kofi gently. \"Why are you so sad?\" The cloud tried to speak, but no sound came out. It looked scared and lonely. Kofi felt sad for his new friend. \"Don't worry,\" he said. \"I will help you!\"",
+          "illustration": {
+            "description": "Kofi kneeling down with a concerned, caring expression, reaching out his hand toward the small cloud. The cloud has big, worried eyes and appears to be trying to speak with its mouth open but no sound waves visible. Warm orange and pink sunset colors fill the sky behind them.",
+            "alt": "Kofi comforting the worried cloud that cannot make sounds",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Kofi called his friends to help. Maya came running with her long black braids bouncing. Then came Sam with his red hair and freckles, and Aisha wearing her colorful hijab. \"We need to help this cloud find its voice!\" said Kofi. All the friends felt excited to help.",
+          "illustration": {
+            "description": "Four diverse children gathered in a circle around the sad cloud. Kofi (Black boy), Maya (Latina girl with braids), Sam (white boy with red hair and freckles), and Aisha (girl wearing a purple hijab). All children have determined, brave expressions. The cloud sits in the center looking hopeful.",
+            "alt": "Kofi and his diverse group of friends surrounding the cloud, ready to help",
+            "layout": "full_page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Finding the Song",
+      "pages": [
+        {
+          "text": "\"Maybe the cloud needs to remember how to sing,\" said Maya. The friends began to sing a happy song together. \"La la la, tra la la!\" They clapped their hands and danced. The little cloud started to smile and bounce up and down.",
+          "illustration": {
+            "description": "The four children dancing and singing in a joyful circle with their arms raised. Musical notes float in the air around them in bright yellow and blue. The cloud is bouncing happily in the center, its expression changing from sad to hopeful. Green grass and colorful wildflowers surround them.",
+            "alt": "The children singing and dancing while the cloud begins to feel happy",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Suddenly, the cloud opened its mouth and made a tiny \"peep!\" sound. The children cheered! \"You did it!\" shouted Kofi. The cloud felt so happy and brave now. It grew a little bigger and made beautiful singing sounds like a gentle wind chime.",
+          "illustration": {
+            "description": "The cloud floating higher with a huge smile, musical notes and sparkles streaming from its mouth in rainbow colors. All four children are cheering with their arms up in celebration, faces beaming with joy. The sky behind is bright blue with other friendly clouds watching and smiling.",
+            "alt": "The cloud singing joyfully while the children celebrate their success",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "\"Thank you for helping me find my voice,\" sang the cloud in a sweet, tinkling voice. \"I was scared I would never sing again!\" Kofi and his friends felt proud and happy. The cloud danced in the sky, singing a beautiful goodbye song before floating away. Kofi learned that helping friends made everyone feel good inside.",
+          "illustration": {
+            "description": "The cloud floating up toward a golden sunset sky, leaving a trail of musical notes and star sparkles. The four children are waving goodbye from below with huge smiles. The scene is warm and glowing with orange, pink, and purple sunset colors. Other happy clouds can be seen in the distance welcoming their friend back.",
+            "alt": "The children waving goodbye to the happy singing cloud as it returns to the sky",
+            "layout": "full_page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "helping others",
+      "kindness",
+      "bravery",
+      "diversity"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Kofi feel when he saw the sad cloud?",
+        "choices": [
+          "Happy",
+          "Sad for the cloud",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kofi felt sad for the cloud because it looked lonely and scared."
+      },
+      {
+        "id": 2,
+        "question": "What did the friends do to help the cloud remember how to sing?",
+        "choices": [
+          "They sang and danced together",
+          "They gave it food",
+          "They told it stories"
+        ],
+        "correctIndex": 0,
+        "explanation": "The friends sang 'La la la, tra la la!' and danced to help the cloud remember how to make music."
+      },
+      {
+        "id": 3,
+        "question": "How did the cloud feel after it found its voice?",
+        "choices": [
+          "Scared",
+          "Sad",
+          "Happy and brave"
+        ],
+        "correctIndex": 2,
+        "explanation": "The cloud felt happy and brave after it could sing again, thanks to the children's help."
+      },
+      {
+        "id": 4,
+        "question": "What did Kofi learn at the end of the story?",
+        "choices": [
+          "Clouds are scary",
+          "Helping friends makes everyone feel good",
+          "Singing is hard"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kofi learned that when you help friends, it makes everyone feel good inside."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Kofi called his friends to help. Maya came running with her long black braids bouncing. Then came Sam with his red hair and freckles, and Aisha wearing her colorful _____.",
+        "blanks": [
+          {
+            "wordIndex": 26,
+            "correctWord": "hijab",
+            "distractors": [
+              "hat",
+              "dress",
+              "shoes"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "The friends began to _____ a happy song together. The little cloud started to smile and bounce up and down.",
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "sing",
+            "distractors": [
+              "read",
+              "eat",
+              "sleep"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Suddenly, the cloud opened its mouth and made a tiny 'peep!' sound. The children felt so _____!",
+        "blanks": [
+          {
+            "wordIndex": 18,
+            "correctWord": "happy",
+            "distractors": [
+              "sad",
+              "angry",
+              "tired"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "id": "toddler-bedtime-058",
+  "title": "Felix's Brave Night Light",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "bedtime",
+    "feelings"
+  ],
+  "wordCount": 233,
+  "readingLevel": "1.2",
+  "synopsis": "Felix feels scared when his night light burns out, but with help from his loving parents and some creative problem-solving, he discovers he can be brave and find new ways to feel safe at bedtime.",
+  "coverImage": "covers/toddler-bedtime-058.webp",
+  "chapters": [
+    {
+      "title": "When the Light Goes Out",
+      "pages": [
+        {
+          "text": "Felix loved his yellow night light. It made soft, happy shadows on his bedroom walls. Every night, he would say goodnight to his night light before closing his eyes. But tonight was different. When Mama turned off the big light, Felix's room stayed dark. His night light wasn't glowing!",
+          "illustration": {
+            "description": "A cozy bedroom with a young Black boy named Felix sitting up in his bed, looking worried. He has short curly hair and is wearing blue pajamas with stars. The room is dimly lit by hallway light, showing a dark night light plugged into the wall. His bed has a colorful quilt with geometric patterns. Toys are scattered on a soft rug beside the bed.",
+            "alt": "Felix sitting in bed looking concerned at his dark night light",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Felix felt scared. The dark corners of his room looked different without his friendly yellow glow. 'Mama!' he called. 'Papa!' His voice was small and worried. Mama came first, her kind face appearing in the doorway. Papa was right behind her, both looking ready to help their little boy.",
+          "illustration": {
+            "description": "Felix's parents entering his bedroom - Mama is a Black woman with natural hair in a purple robe, and Papa is a Latino man with a beard wearing a green t-shirt. Felix is reaching his arms toward them from his bed. The hallway light creates a warm glow behind the parents. Their expressions are caring and concerned.",
+            "alt": "Felix's diverse parents coming to comfort him in his dark room",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'The night light won't turn on,' Felix said sadly. Papa checked the little light. 'The bulb is broken, mijo,' he said gently. 'But we can fix this together!' Mama sat on Felix's bed and gave him a warm hug. 'What would make you feel safe and happy tonight?' she asked. Felix thought hard. Then he smiled. 'Can we make our own light?'",
+          "illustration": {
+            "description": "A heartwarming scene showing Papa kneeling by the wall outlet examining the night light while Mama sits on the bed hugging Felix. Felix now has a small hopeful smile. The room is lit by warm hallway light. There are family photos on the nightstand and a stuffed elephant on the bed. The atmosphere feels safe and loving.",
+            "alt": "Felix's family working together to solve the night light problem",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Papa brought Felix's flashlight from the toy box. Mama found some colorful tissue paper. Together, they wrapped the flashlight in yellow paper, just like Felix's night light! Felix felt brave and proud. He had helped solve the problem! 'Look!' he said happily. 'Our new night light!' The soft yellow glow filled his room with the same happy feeling as before. Felix snuggled into his blankets, no longer scared but feeling safe and loved.",
+          "illustration": {
+            "description": "Felix beaming with joy as he holds his homemade night light - a flashlight wrapped in yellow tissue paper creating a warm glow. His parents are smiling proudly beside him. The makeshift light casts gentle shadows on the walls similar to his old night light. Felix looks confident and happy, no longer scared. The room feels cozy and peaceful.",
+            "alt": "Felix proudly holding his homemade night light with his smiling parents",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "overcoming fears",
+      "family support",
+      "problem-solving",
+      "bedtime comfort"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Felix feel when his night light wouldn't turn on?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Excited"
+        ],
+        "correctIndex": 1,
+        "explanation": "Felix felt scared when his room stayed dark because his night light was broken."
+      },
+      {
+        "id": 2,
+        "question": "Who came to help Felix when he called?",
+        "choices": [
+          "His teacher",
+          "Mama and Papa",
+          "His friend"
+        ],
+        "correctIndex": 1,
+        "explanation": "Both Mama and Papa came to help Felix when he was scared about his night light."
+      },
+      {
+        "id": 3,
+        "question": "What did they use to make a new night light?",
+        "choices": [
+          "A candle",
+          "A flashlight and yellow paper",
+          "A lamp"
+        ],
+        "correctIndex": 1,
+        "explanation": "Papa brought a flashlight and Mama found yellow tissue paper to wrap around it, making a new night light."
+      },
+      {
+        "id": 4,
+        "question": "How did Felix feel at the end of the story?",
+        "choices": [
+          "Still scared",
+          "Brave and happy",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Felix felt brave and happy because he helped solve the problem and had a new night light."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words",
+        "instructions": "Choose the right word to complete each sentence from the story.",
+        "sentences": [
+          {
+            "text": "Felix loved his _____ night light.",
+            "wordIndex": 3,
+            "correctWord": "yellow",
+            "distractors": [
+              "red",
+              "blue",
+              "green"
+            ]
+          },
+          {
+            "text": "Felix felt _____ when the light wouldn't turn on.",
+            "wordIndex": 2,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "hungry",
+              "sleepy"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "More Missing Words",
+        "instructions": "Pick the best word to finish these sentences.",
+        "sentences": [
+          {
+            "text": "Papa and _____ came to help Felix.",
+            "wordIndex": 2,
+            "correctWord": "Mama",
+            "distractors": [
+              "teacher",
+              "friend",
+              "cat"
+            ]
+          },
+          {
+            "text": "They made a new night light with a flashlight and _____ paper.",
+            "wordIndex": 10,
+            "correctWord": "yellow",
+            "distractors": [
+              "purple",
+              "black",
+              "white"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

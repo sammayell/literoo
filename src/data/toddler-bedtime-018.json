@@ -1,0 +1,222 @@
+{
+  "id": "toddler-bedtime-018",
+  "title": "Mateo's Bedtime Buddy",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "bedtime",
+    "feelings"
+  ],
+  "wordCount": 238,
+  "readingLevel": "1.2",
+  "synopsis": "When Mateo loses his beloved stuffed elephant Ellie at bedtime, he feels scared and sad. With help from his mama and papa, they search the house together and find creative ways to feel brave and cozy until Ellie is safely back in his arms for sweet dreams.",
+  "coverImage": "covers/toddler-bedtime-018.webp",
+  "chapters": [
+    {
+      "title": "Where Is Ellie?",
+      "pages": [
+        {
+          "text": "Mateo loved bedtime with his soft gray elephant, Ellie. Every night, they snuggled together under his cozy blue blanket. But tonight, when Mama called \"Time for bed!\", Mateo looked everywhere. Where was Ellie?",
+          "illustration": {
+            "description": "A young Latino boy with curly dark hair in striped pajamas looking around his colorful bedroom with a worried expression. His room has a blue bed, wooden toys scattered on the floor, and a nightlight glowing softly. The illustration uses warm yellows and blues with rounded, friendly furniture shapes in a cheerful cartoon style.",
+            "alt": "Mateo in pajamas searching his bedroom for his stuffed elephant",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mateo felt scared and sad. His bottom lip started to wobble. \"Mama! Papa! I can't find Ellie!\" he called. Tears rolled down his cheeks. How could he sleep without his best buddy?",
+          "illustration": {
+            "description": "Mateo standing in his bedroom doorway with tears on his cheeks, calling for his parents. His arms are stretched out and his face shows sadness and worry. The hallway behind him is softly lit with warm light, and family photos hang on the walls. The style emphasizes his expressive, sad face with bold primary colors.",
+            "alt": "Mateo crying and calling for his parents from his bedroom doorway",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Great Search",
+      "pages": [
+        {
+          "text": "Mama and Papa came running. Mama had warm brown skin like Mateo, and Papa had kind blue eyes. \"Don't worry, mijo,\" said Papa. \"We'll find Ellie together. Let's be brave detectives!\" Mama hugged Mateo tight.",
+          "illustration": {
+            "description": "A loving family scene with Mama (Latina woman with long dark hair) and Papa (white man with sandy hair) comforting Mateo in the hallway. Mama is kneeling to hug Mateo while Papa has his hand on Mateo's shoulder. All three have caring, determined expressions. The background shows their cozy home with family photos and warm lighting.",
+            "alt": "Mateo's diverse parents comforting him in their cozy hallway",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "They searched high and low. Under the couch cushions - no Ellie. In the toy box - no Ellie. Behind the kitchen table - no Ellie. Mateo started to feel a little brave helping his family look.",
+          "illustration": {
+            "description": "The family searching together through their colorful living room. Mama is lifting couch cushions, Papa is looking in a wooden toy box, and Mateo is peeking under a small table. The room has bright primary colors, a diverse family portrait on the wall, and scattered toys. Everyone looks focused and determined in the cartoon style.",
+            "alt": "The family searching for Ellie throughout their bright, cozy living room",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Finally, Papa looked in the laundry basket. \"Found her!\" he said happily. There was Ellie, all clean and fluffy from her bath earlier. Mateo felt so happy and relieved. \"Ellie!\" he squealed with joy.",
+          "illustration": {
+            "description": "Papa holding up a clean, fluffy gray stuffed elephant from a wicker laundry basket while Mateo jumps with joy and reaches for it. Mama smiles warmly beside them in the laundry room. The elephant looks soft and beloved, and Mateo's face shows pure happiness and relief. Bright, cheerful colors emphasize the joyful reunion.",
+            "alt": "Papa finding Ellie the elephant in the laundry basket while Mateo jumps with happiness",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Safe and Sound",
+      "pages": [
+        {
+          "text": "Back in his room, Mateo hugged Ellie tight. She smelled like flowers from her wash. \"I was scared without you,\" he whispered to Ellie. \"But Mama and Papa helped me be brave.\"",
+          "illustration": {
+            "description": "Mateo sitting on his bed in his cozy blue bedroom, hugging his gray elephant close to his chest with a content, peaceful expression. His parents stand in the doorway smiling warmly. The room is lit by a gentle nightlight, creating a calm, secure atmosphere. The illustration emphasizes the loving bond between boy and stuffed animal.",
+            "alt": "Mateo hugging Ellie tightly on his bed while his parents watch lovingly from the doorway",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama tucked them both under the soft blue blanket. Papa gave them each a goodnight kiss. \"Sweet dreams, brave boy,\" whispered Mama. Mateo felt safe, happy, and ready for sleep with Ellie by his side.",
+          "illustration": {
+            "description": "A peaceful bedtime scene with Mateo and Ellie snuggled under a blue blanket while Mama tucks them in and Papa leans over to give goodnight kisses. The room is dimly lit with a warm glow from the nightlight. Everyone has serene, loving expressions. The composition shows the security and love surrounding Mateo as he prepares for sleep.",
+            "alt": "Mateo and Ellie tucked into bed by his loving parents in the softly lit bedroom",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "family support",
+      "managing emotions",
+      "feeling safe",
+      "problem solving"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Mateo feel when he couldn't find Ellie?",
+        "choices": [
+          "Happy and excited",
+          "Scared and sad",
+          "Angry and mad"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mateo felt scared and sad when he couldn't find his beloved stuffed elephant Ellie at bedtime."
+      },
+      {
+        "id": "q2",
+        "question": "Who helped Mateo look for Ellie?",
+        "choices": [
+          "His teacher",
+          "Mama and Papa",
+          "His friends"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mama and Papa came to help Mateo search for Ellie when he called for them."
+      },
+      {
+        "id": "q3",
+        "question": "Where did they find Ellie?",
+        "choices": [
+          "Under the couch",
+          "In the laundry basket",
+          "In the toy box"
+        ],
+        "correctIndex": 1,
+        "explanation": "Papa found Ellie in the laundry basket, where she was clean and fluffy from her earlier bath."
+      },
+      {
+        "id": "q4",
+        "question": "How did Mateo feel at the end of the story?",
+        "choices": [
+          "Still scared",
+          "Safe and happy",
+          "Worried"
+        ],
+        "correctIndex": 1,
+        "explanation": "At the end, Mateo felt safe, happy, and ready for sleep with Ellie by his side."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words",
+        "instructions": "Choose the right word to complete each sentence from the story.",
+        "sentences": [
+          {
+            "text": "Mateo loved bedtime with his soft gray elephant, ___.",
+            "blanks": [
+              {
+                "wordIndex": 8,
+                "correctWord": "Ellie",
+                "distractors": [
+                  "Mama",
+                  "Papa",
+                  "Bear"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Mateo felt ___ and sad when he couldn't find Ellie.",
+            "blanks": [
+              {
+                "wordIndex": 2,
+                "correctWord": "scared",
+                "distractors": [
+                  "happy",
+                  "angry",
+                  "tired"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "More Missing Words",
+        "instructions": "Pick the correct word to finish these sentences.",
+        "sentences": [
+          {
+            "text": "Papa found Ellie in the ___ basket.",
+            "blanks": [
+              {
+                "wordIndex": 5,
+                "correctWord": "laundry",
+                "distractors": [
+                  "toy",
+                  "food",
+                  "book"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "At bedtime, Mateo felt safe and ___ with Ellie.",
+            "blanks": [
+              {
+                "wordIndex": 7,
+                "correctWord": "happy",
+                "distractors": [
+                  "scared",
+                  "sad",
+                  "angry"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "id": "toddler-friendship-183",
+  "title": "Kira and the Lost Baby Bird",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "nature"
+  ],
+  "wordCount": 384,
+  "readingLevel": "1.2",
+  "synopsis": "When Kira finds a scared baby bird who has fallen from its nest, she learns about kindness, bravery, and helping friends in need. With the help of her diverse group of friends, Kira discovers that being brave means helping others even when you feel a little scared too.",
+  "coverImage": "covers/toddler-friendship-183.webp",
+  "chapters": [
+    {
+      "title": "A Sad Little Chirp",
+      "pages": [
+        {
+          "text": "Kira was playing in her backyard when she heard a tiny, sad chirp. She looked around the green grass and colorful flowers. Where was that sound coming from? Kira felt curious but also a little worried.",
+          "illustration": {
+            "description": "A young girl with curly brown hair and dark skin, wearing a bright yellow t-shirt and blue overalls, standing in a lush green backyard. She has a concerned, listening expression with her hand cupped to her ear. The yard has vibrant flowers in red, pink, and purple, with a wooden fence in the background.",
+            "alt": "Kira listening carefully in her colorful backyard",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Behind a big red flower, Kira found a tiny baby bird. The little bird was sitting on the ground, looking very scared and sad. Its small body was shaking, and it kept making soft, worried chirps.",
+          "illustration": {
+            "description": "Close-up view of a small, fluffy baby bird with gray and white feathers sitting on green grass next to a large red flower. The bird has big, frightened eyes and appears to be trembling. Kira's feet in colorful sneakers are visible at the edge of the frame.",
+            "alt": "A scared baby bird sitting on the grass looking worried",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Oh, little bird,\" Kira said softly. \"You look so scared and sad. Are you lost?\" The baby bird looked up at Kira with big, round eyes. Kira felt sad for the little bird and wanted to help, but she wasn't sure what to do.",
+          "illustration": {
+            "description": "Kira kneeling down on the grass, looking gently at the baby bird with kind, caring eyes. Her expression shows empathy and concern. The baby bird is looking up at her trustingly. Warm sunlight filters through the scene, creating a peaceful, caring atmosphere with soft yellows and greens.",
+            "alt": "Kira kneeling down to talk gently to the baby bird",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Friends Come to Help",
+      "pages": [
+        {
+          "text": "Kira ran to get her friends. \"Marcus! Elena! Come quick!\" she called. Marcus, who had red hair and freckles, came running. Elena, who wore her black hair in braids, hurried over too. \"We found a scared baby bird,\" Kira explained.",
+          "illustration": {
+            "description": "Three diverse children gathered together in the backyard. Marcus, a boy with bright red hair and freckles wearing a green shirt, and Elena, a girl with black braids wearing a purple dress, are listening to Kira. All three children look concerned and ready to help, with determined expressions.",
+            "alt": "Kira explaining to her friends Marcus and Elena about the baby bird",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "All three friends looked at the baby bird. \"It must have fallen from its nest,\" said Elena. \"Look up there!\" She pointed to a tall tree where they could see a nest high in the branches. The baby bird chirped sadly when it saw the nest so far away.",
+          "illustration": {
+            "description": "The three children looking up at a tall tree with lush green leaves. High in the branches, there's a small brown nest visible. Elena is pointing upward with excitement. The tree appears very tall, emphasizing how far the baby bird has fallen. Bright blue sky peeks through the green leaves.",
+            "alt": "The friends looking up at the tall tree where the bird's nest is located",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"We need to help the baby bird get back home,\" said Kira. She felt brave and determined. Marcus found a small, soft towel. \"We can use this to pick up the bird gently,\" he said. Elena felt excited to help their new feathered friend.",
+          "illustration": {
+            "description": "Marcus holding a soft, light blue towel while all three friends gather around the baby bird. The children's faces show determination and kindness. The baby bird looks hopeful, with its head tilted toward the children. The scene has warm, encouraging colors with golden sunlight.",
+            "alt": "The friends preparing to help the baby bird with a soft towel",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "A Happy Ending",
+      "pages": [
+        {
+          "text": "Very carefully, Kira wrapped the baby bird in the soft towel. The little bird felt safe and warm. It stopped shaking and looked up at Kira with trusting eyes. \"Don't worry, little friend,\" Kira whispered. \"We'll help you get home.\"",
+          "illustration": {
+            "description": "Kira gently holding the baby bird wrapped in a light blue towel. Her face shows gentle concentration and care. The baby bird looks calm and trusting, no longer scared. The scene has soft, nurturing colors with warm lighting creating a peaceful, safe feeling.",
+            "alt": "Kira carefully holding the wrapped baby bird, both looking calm and safe",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Elena ran to get Kira's dad, who was tall with kind brown eyes. He carefully climbed a ladder and placed the baby bird back in its nest. Soon, they heard happy chirping from above! The mama bird had found her baby and was so happy.",
+          "illustration": {
+            "description": "A tall man with brown skin and kind eyes on a ladder, gently placing the baby bird into a nest high in the tree. The three children watch from below with excited, happy expressions. Adult and baby birds are visible in the nest, with the mama bird looking relieved and joyful.",
+            "alt": "Kira's dad helping return the baby bird to its nest while the friends watch happily",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Kira, Marcus, and Elena felt so happy and proud. They had been brave and kind, and they had helped a friend in need. The baby bird was safe with its family again. From the nest above, they could hear cheerful chirping, as if the bird family was saying \"thank you!\"",
+          "illustration": {
+            "description": "The three friends standing together in the backyard, all smiling brightly and hugging each other in celebration. Above them, the tree shows the bird family together in their nest, with musical note symbols indicating happy chirping. The whole scene radiates joy and accomplishment with bright, celebratory colors.",
+            "alt": "The three friends celebrating together while the reunited bird family chirps happily above",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "kindness",
+      "helping others",
+      "nature",
+      "bravery",
+      "empathy"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did the baby bird feel when Kira first found it?",
+        "choices": [
+          "Happy and excited",
+          "Scared and sad",
+          "Angry and loud"
+        ],
+        "correctIndex": 1,
+        "explanation": "The baby bird was scared and sad because it had fallen from its nest and was lost."
+      },
+      {
+        "id": "q2",
+        "question": "Who helped Kira take care of the baby bird?",
+        "choices": [
+          "Only her mom",
+          "Marcus and Elena",
+          "No one helped"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kira's friends Marcus and Elena came to help her take care of the scared baby bird."
+      },
+      {
+        "id": "q3",
+        "question": "Where was the baby bird's nest?",
+        "choices": [
+          "On the ground",
+          "High up in a tree",
+          "In Kira's house"
+        ],
+        "correctIndex": 1,
+        "explanation": "The baby bird's nest was high up in the tall tree, which is why it needed help getting back home."
+      },
+      {
+        "id": "q4",
+        "question": "How did the friends feel after helping the baby bird?",
+        "choices": [
+          "Scared and worried",
+          "Happy and proud",
+          "Tired and grumpy"
+        ],
+        "correctIndex": 1,
+        "explanation": "The friends felt happy and proud because they had been brave and kind, helping the baby bird return safely to its family."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Help complete this sentence: Kira found a tiny baby bird that was feeling very _____ and _____.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "sad",
+            "distractors": [
+              "excited",
+              "sleepy"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Fill in the blanks: The baby bird's nest was high up in the _____, so Kira's _____ used a ladder to help.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "tree",
+            "distractors": [
+              "house",
+              "car"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "dad",
+            "distractors": [
+              "friend",
+              "dog"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Complete the story: After helping the baby bird, Kira and her friends felt _____ and _____ because they had been kind.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "happy",
+            "distractors": [
+              "scared",
+              "angry"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "proud",
+            "distractors": [
+              "tired",
+              "worried"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

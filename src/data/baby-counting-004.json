@@ -1,0 +1,165 @@
+{
+  "id": "baby-counting-004",
+  "title": "Ravi Counts Hugs",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "counting",
+    "family"
+  ],
+  "wordCount": 63,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Ravi discovers counting from one to five as he receives warm hugs from different family members throughout his day, learning numbers through love and connection.",
+  "coverImage": "covers/baby-counting-004.webp",
+  "chapters": [
+    {
+      "title": "Counting Hugs",
+      "pages": [
+        {
+          "text": "One hug! Mama hugs Ravi. Squeeze!",
+          "illustration": {
+            "description": "A loving South Asian mother with long dark hair in a braid embraces baby Ravi, who has chubby cheeks and bright dark eyes. Both are smiling warmly in a cozy living room with soft peach and cream colors. The composition focuses on their faces showing pure joy and connection.",
+            "alt": "Mama giving Ravi one big hug",
+            "layout": "center"
+          }
+        },
+        {
+          "text": "Two hugs! Papa hugs too. Squeeze, squeeze!",
+          "illustration": {
+            "description": "A bearded South Asian father with kind eyes joins the hug, wrapping his arms around both Mama and baby Ravi. The family cuddles together on a soft yellow armchair. Warm golden light filters through a window, creating a gentle, secure atmosphere.",
+            "alt": "Papa joining for two hugs total",
+            "layout": "center"
+          }
+        },
+        {
+          "text": "Three hugs! Nani comes. Squeeze, squeeze, squeeze!",
+          "illustration": {
+            "description": "Grandmother Nani with silver-streaked hair in a colorful dupatta approaches with open arms. Baby Ravi reaches toward her with excitement while Mama and Papa smile nearby. The scene is set in a kitchen with warm terracotta and sage green tones.",
+            "alt": "Nani approaching for the third hug",
+            "layout": "center"
+          }
+        },
+        {
+          "text": "Four hugs! Big sister Priya! Squeeze, squeeze, squeeze, squeeze!",
+          "illustration": {
+            "description": "Six-year-old Priya with pigtails and a bright pink dress carefully hugs baby Ravi while he giggles. The family watches lovingly in the background. The illustration uses soft lavender and pink hues with rounded, gentle shapes that feel safe and nurturing.",
+            "alt": "Big sister Priya giving the fourth hug",
+            "layout": "center"
+          }
+        },
+        {
+          "text": "Five hugs! Dada's turn. Squeeze, squeeze, squeeze, squeeze, squeeze!",
+          "illustration": {
+            "description": "Grandfather Dada with a white mustache and gentle wrinkles holds baby Ravi tenderly. His weathered hands are soft and caring. The entire extended family surrounds them in a circle, creating a warm cocoon of love with sunset orange and deep rose colors.",
+            "alt": "Dada giving the fifth and final hug",
+            "layout": "center"
+          }
+        },
+        {
+          "text": "One, two, three, four, five! So many hugs for Ravi!",
+          "illustration": {
+            "description": "All five family members - Mama, Papa, Nani, Priya, and Dada - form a gentle group hug around baby Ravi in the center. Each person shows a unique expression of love and joy. The background glows with soft rainbow pastels, symbolizing the completeness of family love.",
+            "alt": "The whole family hugging Ravi together",
+            "layout": "center"
+          }
+        },
+        {
+          "text": "Sleepy time. One soft hug. Night-night, Ravi!",
+          "illustration": {
+            "description": "Mama rocks a drowsy baby Ravi in a moonlit nursery. Soft blues and purples create a peaceful nighttime atmosphere. A gentle night light casts warm shadows, and stuffed animals sit quietly on shelves. Ravi's eyes are heavy with sleep and contentment.",
+            "alt": "Mama giving Ravi one goodnight hug",
+            "layout": "center"
+          }
+        },
+        {
+          "text": "Sweet dreams with counting hugs. One... two... zzz...",
+          "illustration": {
+            "description": "Baby Ravi sleeps peacefully in his crib, surrounded by soft dream clouds showing faint, loving silhouettes of his family members. The illustration uses the softest pastels - cloud white, baby blue, and gentle yellow - creating a serene, secure feeling perfect for bedtime.",
+            "alt": "Ravi sleeping and dreaming of family hugs",
+            "layout": "center"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "counting",
+      "family_love",
+      "cultural_warmth",
+      "bedtime"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Who gave Ravi the first hug?",
+        "choices": [
+          "Mama",
+          "Papa"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama gave Ravi the very first hug in the story!"
+      },
+      {
+        "id": "q2",
+        "question": "How many total hugs did Ravi get?",
+        "choices": [
+          "Three",
+          "Five"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ravi got five hugs from five different family members!"
+      },
+      {
+        "id": "q3",
+        "question": "What sound do the hugs make?",
+        "choices": [
+          "Squeeze",
+          "Pop"
+        ],
+        "correctIndex": 0,
+        "explanation": "The hugs make a 'squeeze' sound throughout the story!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "One ___! Mama hugs Ravi.",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "hug",
+            "distractors": [
+              "kiss",
+              "wave",
+              "clap"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "___ hugs! Papa hugs too.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Two",
+            "distractors": [
+              "One",
+              "Three",
+              "Four"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

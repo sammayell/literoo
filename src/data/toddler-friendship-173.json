@@ -1,0 +1,165 @@
+{
+  "id": "toddler-friendship-173",
+  "title": "Isla's Garden Friends",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "nature"
+  ],
+  "wordCount": 185,
+  "readingLevel": "1.2",
+  "synopsis": "When shy Isla discovers a caterpillar in her garden, she learns that being brave enough to make new friends leads to wonderful surprises and joy.",
+  "coverImage": "covers/toddler-friendship-173.webp",
+  "chapters": [
+    {
+      "title": "A New Friend in the Garden",
+      "pages": [
+        {
+          "text": "Isla loved playing in her backyard garden with Mama. The flowers were bright yellow and red, just like sunshine and strawberries! But today, Isla felt a little sad because she wished she had a friend to share the pretty flowers with.",
+          "illustration": {
+            "description": "A small girl with curly brown hair and olive skin wearing a bright yellow sundress kneels beside colorful flowers in a garden. Her mother, a woman with short black hair and darker skin, tends to plants nearby. Isla looks wistful as she touches a red flower petal. The garden has textured green grass and vibrant blooms.",
+            "alt": "Isla looking sad while touching flowers in a colorful garden with her mother nearby",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Suddenly, Isla spotted something green and fuzzy crawling on a leaf. It was a tiny caterpillar! At first, Isla felt scared. The caterpillar looked so different from her. But then she saw that the little caterpillar looked scared too, curled up in a small ball.",
+          "illustration": {
+            "description": "Isla crouches down with wide, surprised eyes looking at a small green caterpillar on a large leaf. Both Isla and the caterpillar have slightly worried expressions. The leaf is bright green with visible veins, and colorful flowers frame the scene. Warm sunlight filters through creating a gentle, textured background.",
+            "alt": "Isla discovering a scared little caterpillar on a green leaf",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Isla took a deep breath and felt brave. 'Hello, little caterpillar,' she whispered softly. 'Don't be scared. I'm Isla.' The caterpillar slowly uncurled and wiggled hello! Isla giggled with happiness. She had made a new friend! Together, they explored the garden, looking at every flower and leaf.",
+          "illustration": {
+            "description": "Isla smiles brightly with her hand gently extended toward a friendly green caterpillar who is now uncurled and seems to be waving. Both look happy and comfortable. The garden around them is lush with rainbow-colored flowers and textured green leaves. Isla's face shows pure joy and the caterpillar appears animated and friendly.",
+            "alt": "Happy Isla making friends with a cheerful caterpillar in the colorful garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "From that day on, Isla visited her caterpillar friend every morning. She learned that being brave enough to say hello can turn scary feelings into happy ones. Soon, other garden creatures joined them - a butterfly with rainbow wings, a busy bee, and a red ladybug. Isla's garden was full of friends!",
+          "illustration": {
+            "description": "Isla sits cross-legged in the garden surrounded by her new friends: the green caterpillar, a colorful butterfly, a round yellow and black bee, and a spotted red ladybug. All the creatures have friendly, expressive faces and appear to be having a garden party. The background shows a lush garden with textured soil and vibrant flowers in primary colors.",
+            "alt": "Isla happily surrounded by all her new garden friends including caterpillar, butterfly, bee, and ladybug",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "overcoming shyness",
+      "nature appreciation",
+      "bravery",
+      "kindness"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Isla feel when she first saw the caterpillar?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Isla felt scared when she first saw the caterpillar because it looked different from her, but she learned to be brave."
+      },
+      {
+        "id": "q2",
+        "question": "What did Isla do to make friends with the caterpillar?",
+        "choices": [
+          "She ran away",
+          "She said hello softly",
+          "She picked it up"
+        ],
+        "correctIndex": 1,
+        "explanation": "Isla was brave and said 'Hello, little caterpillar' in a soft, gentle voice to make friends."
+      },
+      {
+        "id": "q3",
+        "question": "How did Isla feel at the end of the story?",
+        "choices": [
+          "Sad",
+          "Scared",
+          "Happy"
+        ],
+        "correctIndex": 2,
+        "explanation": "Isla felt happy because she made many new friends in her garden by being brave and kind."
+      },
+      {
+        "id": "q4",
+        "question": "What other creatures became Isla's friends?",
+        "choices": [
+          "A butterfly, bee, and ladybug",
+          "A dog and cat",
+          "A bird and squirrel"
+        ],
+        "correctIndex": 0,
+        "explanation": "Isla made friends with a butterfly, a bee, and a ladybug who all joined her in the garden."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Complete Isla's Story",
+        "text": "Help complete the story! Fill in the missing words.",
+        "sentences": [
+          {
+            "text": "Isla found a green _______ in her garden.",
+            "blanks": [
+              {
+                "wordIndex": 0,
+                "correctWord": "caterpillar",
+                "distractors": [
+                  "flower",
+                  "rock"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "At first, Isla felt _______ but then she became brave.",
+            "blanks": [
+              {
+                "wordIndex": 1,
+                "correctWord": "scared",
+                "distractors": [
+                  "happy",
+                  "sleepy"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Isla said '_______, little caterpillar' in a soft voice.",
+            "blanks": [
+              {
+                "wordIndex": 2,
+                "correctWord": "hello",
+                "distractors": [
+                  "goodbye",
+                  "help"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "id": "baby-nature-068",
+  "title": "Mateo's Sleepy Garden",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "nature",
+    "bedtime"
+  ],
+  "wordCount": 33,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Mateo explores his garden at bedtime, saying goodnight to all the sleepy animals and plants with gentle sounds and repetitive phrases that soothe him to sleep.",
+  "coverImage": "covers/baby-nature-068.webp",
+  "chapters": [
+    {
+      "title": "Goodnight Garden",
+      "pages": [
+        {
+          "text": "Night-night, garden. Shh, shh.",
+          "illustration": {
+            "description": "Toddler Mateo with warm brown skin and curly dark hair stands at a garden gate in soft pajamas, holding a small stuffed bunny. The garden glows with twilight purples and soft yellows from fireflies. Large sunflowers and tomato plants create a cozy, enclosed feeling with rounded, gentle shapes.",
+            "alt": "Mateo in pajamas looking at his twilight garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Night-night, bees. Buzz, buzz.",
+          "illustration": {
+            "description": "Three sleepy bees with oversized, friendly faces rest on lavender flowers, their wings folded peacefully. Mateo points gently at them with wonder in his dark eyes. The scene uses soft lavender purples and warm honey yellows with high contrast for baby vision.",
+            "alt": "Sleepy bees resting on purple lavender flowers",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Night-night, birds. Tweet, tweet.",
+          "illustration": {
+            "description": "Two round robins with fluffy feathers nestle in a low apple tree branch, their eyes half-closed. Mateo waves up at them from below. The illustration features warm peach and coral tones for the sunset sky, with the birds rendered in soft browns and oranges.",
+            "alt": "Two sleepy robins in an apple tree at sunset",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Night-night, frogs. Ribbit, ribbit.",
+          "illustration": {
+            "description": "A family of three green frogs sits by a small garden pond - mama, papa, and baby frog with large, gentle eyes. Mateo crouches down to their level, smiling. Water lilies float nearby in soft pinks and whites, creating a peaceful pond scene with rounded shapes.",
+            "alt": "Frog family by a garden pond with water lilies",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Night-night, flowers. Shh, shh.",
+          "illustration": {
+            "description": "Oversized daisies and roses with sleepy, drooping petals surround Mateo as he gently touches their stems. The flowers have soft, anthropomorphic faces that look peaceful. Colors are muted pastels - dusty roses, cream whites, and sage greens in watercolor style.",
+            "alt": "Sleepy flowers with drooping petals around Mateo",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Night-night, moon. Shh, shh.",
+          "illustration": {
+            "description": "A large, friendly crescent moon with a gentle smile looks down at Mateo from a starry sky. Mateo reaches up toward the moon with both arms. The sky transitions from deep purple to soft blue, with twinkling stars creating high contrast against the dark background.",
+            "alt": "Smiling crescent moon watching over Mateo in the garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Night-night, Mateo. Shh, shh.",
+          "illustration": {
+            "description": "Mateo curls up on a soft garden blanket under the stars, his stuffed bunny tucked close. His grandmother, an elderly Latina woman with silver hair in a braid, sits nearby reading a book. Fireflies create gentle points of warm light around them in the peaceful garden setting.",
+            "alt": "Mateo sleeping on a blanket with his grandmother nearby",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sweet dreams, garden. Zzz, zzz.",
+          "illustration": {
+            "description": "The entire garden sleeps peacefully - flowers drooped, animals nestled, and Mateo sound asleep. The scene is bathed in soft moonlight with gentle blues and purples. Everything has a dreamy, watercolor quality with floating 'z's suggesting sleep and contentment.",
+            "alt": "The whole garden sleeping peacefully in moonlight",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "nature connection",
+      "peaceful sleep",
+      "garden life"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound do the bees make?",
+        "choices": [
+          "Buzz, buzz",
+          "Tweet, tweet"
+        ],
+        "correctIndex": 0,
+        "explanation": "The bees in the garden make a buzzing sound: buzz, buzz!"
+      },
+      {
+        "id": "q2",
+        "question": "What does Mateo hold while exploring?",
+        "choices": [
+          "A flower",
+          "A stuffed bunny"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mateo carries his soft stuffed bunny as he says goodnight to the garden."
+      },
+      {
+        "id": "q3",
+        "question": "Who sits with Mateo at the end?",
+        "choices": [
+          "His grandmother",
+          "A frog"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mateo's grandmother sits nearby with a book while he sleeps in the garden."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Night-night, bees. ___, ___.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "Buzz",
+            "distractors": [
+              "Tweet",
+              "Ribbit",
+              "Shh"
+            ]
+          },
+          {
+            "wordIndex": 3,
+            "correctWord": "buzz",
+            "distractors": [
+              "tweet",
+              "ribbit",
+              "shh"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Night-night, ___. Ribbit, ribbit.",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "frogs",
+            "distractors": [
+              "bees",
+              "birds",
+              "moon"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

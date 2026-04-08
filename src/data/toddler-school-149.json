@@ -1,0 +1,183 @@
+{
+  "id": "toddler-school-149",
+  "title": "Nyla's First Day Friends",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "school",
+    "animals"
+  ],
+  "wordCount": 249,
+  "readingLevel": "1.2",
+  "synopsis": "Nyla feels nervous about her first day at preschool, but when she meets the classroom pets and other children, she discovers that making friends and being brave can turn scary moments into happy adventures.",
+  "coverImage": "covers/toddler-school-149.webp",
+  "chapters": [
+    {
+      "title": "Scared at School",
+      "pages": [
+        {
+          "text": "Nyla held Mama's hand tight outside the bright yellow school door. Her tummy felt wobbly and scared. \"I don't want to go in,\" Nyla whispered. The sounds inside seemed so loud and different.",
+          "illustration": {
+            "description": "A young Black girl with curly hair in colorful hair ties stands nervously holding her mother's hand outside a cheerful yellow school building. Nyla wears a purple backpack and looks worried, while her mother smiles encouragingly. The school has big windows showing activity inside.",
+            "alt": "Nyla looking nervous outside her new school",
+            "layout": "portrait"
+          }
+        },
+        {
+          "text": "\"It's okay to feel scared,\" Mama said softly. \"Being brave doesn't mean you're not scared. It means you try new things even when you feel worried.\" Nyla took a deep breath and stepped inside.",
+          "illustration": {
+            "description": "Inside the colorful classroom, Nyla peeks around her mother's legs. The room has rainbow decorations, tiny chairs, and toy bins. Other children play happily in the background - a boy with glasses, a girl with braids, and twins sharing blocks.",
+            "alt": "Nyla peeking into the busy, colorful classroom",
+            "layout": "landscape"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Meeting New Friends",
+      "pages": [
+        {
+          "text": "\"Look, Nyla!\" said Ms. Garcia, pointing to a cage near the window. Inside was a fluffy brown rabbit with long ears. \"This is Cocoa. He was scared on his first day too, but now he's happy here.\"",
+          "illustration": {
+            "description": "A kind Latina teacher with wavy black hair kneels beside Nyla, pointing to a large cage containing a friendly brown rabbit. The rabbit sits up with perked ears, and there are colorful drawings of animals taped to the wall behind the cage.",
+            "alt": "Ms. Garcia introducing Nyla to Cocoa the classroom rabbit",
+            "layout": "portrait"
+          }
+        },
+        {
+          "text": "Cocoa wiggled his nose at Nyla. She giggled and felt a little braver. Then a boy with red curly hair came over. \"Hi! I'm Sam. Want to feed Cocoa some carrots? He loves them!\" Nyla nodded and smiled.",
+          "illustration": {
+            "description": "Nyla and Sam, a freckled boy with bright red curly hair, stand together by the rabbit cage. They're both holding small pieces of carrot, and Nyla is smiling for the first time. Cocoa stretches toward the treats eagerly.",
+            "alt": "Nyla and Sam feeding carrots to the happy rabbit",
+            "layout": "landscape"
+          }
+        },
+        {
+          "text": "A girl with black braids joined them. \"I'm Luna! We also have fish in the blue tank. They swim in circles when they're happy. Just like I do!\" Luna spun around and all three children laughed together.",
+          "illustration": {
+            "description": "Three children stand by a bright blue fish tank filled with colorful tropical fish. Luna, an Asian girl with neat black braids, spins with her arms out while Nyla and Sam watch the swimming fish. The children all look delighted and the fish tank glows warmly.",
+            "alt": "Luna showing Nyla and Sam the classroom fish tank",
+            "layout": "landscape"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Happy Together",
+      "pages": [
+        {
+          "text": "At story time, all the children sat in a circle. Nyla felt warm and happy between her new friends. Ms. Garcia read about animals, and Cocoa hopped around inside his open cage nearby.",
+          "illustration": {
+            "description": "Children sit cross-legged in a colorful circle on a soft rug with alphabet letters. Ms. Garcia holds a picture book about animals while Nyla sits happily between Sam and Luna. Cocoa hops freely nearby, and other diverse children complete the circle.",
+            "alt": "Story time circle with all the children and Cocoa the rabbit",
+            "layout": "landscape"
+          }
+        },
+        {
+          "text": "When Mama came to pick her up, Nyla ran to hug her. \"Mama! I was brave today! I made friends with Sam and Luna and Cocoa the rabbit. School is fun!\" Her heart felt full and happy.",
+          "illustration": {
+            "description": "Nyla runs with open arms toward her smiling mother at the classroom door. Behind her, Sam and Luna wave goodbye, and Ms. Garcia holds Cocoa. The classroom looks warm and inviting with artwork on the walls and golden afternoon sunlight streaming through windows.",
+            "alt": "Happy Nyla running to hug her mother at pickup time",
+            "layout": "portrait"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "first day of school",
+      "overcoming fears",
+      "friendship",
+      "caring for animals"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Nyla feel at the beginning of the story?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nyla felt scared about her first day at school. Her tummy felt wobbly and she didn't want to go in."
+      },
+      {
+        "id": 2,
+        "question": "What is the name of the classroom rabbit?",
+        "choices": [
+          "Luna",
+          "Cocoa",
+          "Sam"
+        ],
+        "correctIndex": 1,
+        "explanation": "The classroom rabbit's name is Cocoa. He is fluffy and brown with long ears."
+      },
+      {
+        "id": 3,
+        "question": "Who were Nyla's new friends?",
+        "choices": [
+          "Sam and Luna",
+          "Mama and Ms. Garcia",
+          "Cocoa and the fish"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nyla made friends with Sam, who has red curly hair, and Luna, who has black braids."
+      },
+      {
+        "id": 4,
+        "question": "How did Nyla feel at the end of the story?",
+        "choices": [
+          "Sad",
+          "Scared",
+          "Happy"
+        ],
+        "correctIndex": 2,
+        "explanation": "By the end, Nyla felt happy and proud that she was brave and made new friends at school."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words - Page 1",
+        "text": "Nyla held Mama's hand tight outside the bright yellow school door. Her tummy felt wobbly and _____. \"I don't want to go in,\" Nyla whispered.",
+        "blanks": [
+          {
+            "wordIndex": 17,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "excited",
+              "hungry"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Fill in the Missing Words - Page 2",
+        "text": "\"Look, Nyla!\" said Ms. Garcia, pointing to a cage near the window. Inside was a fluffy brown _____ with long ears. \"This is Cocoa.\"",
+        "blanks": [
+          {
+            "wordIndex": 20,
+            "correctWord": "rabbit",
+            "distractors": [
+              "cat",
+              "bird",
+              "hamster"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

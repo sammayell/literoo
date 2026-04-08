@@ -1,0 +1,786 @@
+{
+  "version": "1.0",
+  "description": "Art style presets for Literoo book illustrations. Each genre has 5-10 distinct styles. The pipeline assigns a style to each book, generates a style reference sheet, and waits for admin approval before generating full illustrations.",
+
+  "styles": {
+    "bedtime": [
+      {
+        "id": "bedtime-watercolor-dreamy",
+        "name": "Dreamy Watercolor",
+        "description": "Soft, flowing watercolors with purple and blue gradients. Stars and moons glow gently. Characters have round, sleepy faces. Everything feels like it's underwater or floating in clouds.",
+        "prompt_keywords": "soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette",
+        "color_palette": ["#2D1B69", "#7B68AE", "#F0E6FF", "#FFD700", "#E8D5F5", "#1A0A3E"],
+        "best_for": ["baby", "toddler"],
+        "negative": "sharp edges, bright neon colors, scary elements, photorealistic"
+      },
+      {
+        "id": "bedtime-cozy-glow",
+        "name": "Cozy Glow",
+        "description": "Warm golden lamplight scenes. Soft textures like knitted blankets and plush toys. Characters in pajamas with rosy cheeks. Everything lit by a warm bedside glow.",
+        "prompt_keywords": "warm golden lamplight, cozy bedroom, knitted textures, plush toys, pajamas, rosy cheeks, soft warm glow, amber and cream palette, comfort",
+        "color_palette": ["#FFB74D", "#FFF3E0", "#8D6E63", "#FFECB3", "#D7CCC8", "#3E2723"],
+        "best_for": ["baby", "toddler"],
+        "negative": "cold colors, bright daylight, outdoor scenes"
+      },
+      {
+        "id": "bedtime-midnight-garden",
+        "name": "Midnight Garden",
+        "description": "Night scenes in magical gardens with fireflies and sleeping flowers. Deep navy sky with tiny stars. Gentle animals curled up among flowers. Enchanted but peaceful.",
+        "prompt_keywords": "midnight garden, fireflies, sleeping flowers, deep navy sky, tiny stars, gentle animals, enchanted peaceful, bioluminescent plants, soft moonlit",
+        "color_palette": ["#0D1B2A", "#1B4965", "#62B6CB", "#BEE9E8", "#CAD2C5", "#354F52"],
+        "best_for": ["baby", "toddler", "early_reader"],
+        "negative": "harsh lighting, dark scary, photorealistic"
+      },
+      {
+        "id": "bedtime-paper-cutout",
+        "name": "Paper Cutout Night",
+        "description": "Layered paper cutout style with depth. Silhouettes against a glowing moon. Textured paper feel with torn edges. Simple shapes creating complex, beautiful night scenes.",
+        "prompt_keywords": "paper cutout style, layered silhouettes, glowing moon backdrop, textured paper, torn edges, simple shapes, shadow puppet feel, craft aesthetic",
+        "color_palette": ["#1A237E", "#311B92", "#E8EAF6", "#FFC107", "#F5F5DC", "#212121"],
+        "best_for": ["baby", "toddler", "early_reader"],
+        "negative": "photorealistic, 3D render, smooth gradients"
+      },
+      {
+        "id": "bedtime-nordic-folk",
+        "name": "Nordic Folk Night",
+        "description": "Scandinavian folk art inspired. Simple, bold shapes with decorative patterns. Muted earth tones with pops of red and gold. Hygge comfort feeling.",
+        "prompt_keywords": "Scandinavian folk art, simple bold shapes, decorative patterns, muted earth tones, red and gold accents, hygge, cozy nordic, flat illustration, folk pattern borders",
+        "color_palette": ["#5D4037", "#D32F2F", "#FFD54F", "#EFEBE9", "#37474F", "#BCAAA4"],
+        "best_for": ["toddler", "early_reader", "reader"],
+        "negative": "anime style, photorealistic, busy cluttered"
+      }
+    ],
+
+    "animals": [
+      {
+        "id": "animals-safari-gouache",
+        "name": "Safari Gouache",
+        "description": "Bold gouache paintings of animals with thick brushstrokes. Warm African savanna colors. Animals have personality and expression. Textured, painterly feel.",
+        "prompt_keywords": "gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes",
+        "color_palette": ["#E65100", "#FF8F00", "#FFF176", "#4E342E", "#A1887F", "#33691E"],
+        "best_for": ["baby", "toddler", "early_reader"],
+        "negative": "digital smooth, anime, photorealistic"
+      },
+      {
+        "id": "animals-woodland-storybook",
+        "name": "Woodland Storybook",
+        "description": "Classic storybook woodland scenes. Detailed forests with dappled light. Anthropomorphic animals in cozy clothes. Beatrix Potter meets modern warmth.",
+        "prompt_keywords": "classic storybook, woodland forest, dappled sunlight, anthropomorphic animals, cozy clothes, Beatrix Potter inspired, mushrooms and ferns, warm earth tones, detailed nature",
+        "color_palette": ["#2E7D32", "#795548", "#FFCC80", "#FFF8E1", "#558B2F", "#3E2723"],
+        "best_for": ["toddler", "early_reader", "reader"],
+        "negative": "urban setting, neon colors, minimalist"
+      },
+      {
+        "id": "animals-ocean-bright",
+        "name": "Ocean Bright",
+        "description": "Vibrant underwater and ocean scenes. Tropical fish colors. Playful sea creatures with big eyes. Crystal clear water with light rays. Coral reef details.",
+        "prompt_keywords": "vibrant underwater, tropical fish colors, playful sea creatures, big eyes, crystal clear water, light rays, coral reef, aqua and turquoise, bubbly cheerful",
+        "color_palette": ["#00BCD4", "#0097A7", "#E0F7FA", "#FF7043", "#FFD54F", "#004D40"],
+        "best_for": ["baby", "toddler", "early_reader"],
+        "negative": "dark deep ocean, scary creatures, murky water"
+      },
+      {
+        "id": "animals-farm-crayon",
+        "name": "Farm Crayon",
+        "description": "Crayon and colored pencil style. Charming farm animals with wobbly lines. Green fields, red barns, blue sky. Child-like drawing quality elevated to professional art.",
+        "prompt_keywords": "crayon colored pencil style, farm animals, wobbly charming lines, green fields, red barn, blue sky, child-like quality, textured paper, hand-drawn feel",
+        "color_palette": ["#F44336", "#4CAF50", "#2196F3", "#FFEB3B", "#795548", "#FFFFFF"],
+        "best_for": ["baby", "toddler"],
+        "negative": "photorealistic, dark moody, urban"
+      },
+      {
+        "id": "animals-arctic-soft",
+        "name": "Arctic Soft",
+        "description": "Soft, cool-toned illustrations of arctic and winter animals. Polar bears, penguins, foxes in snow. Icy blues and whites with warm character accents. Quiet, peaceful atmosphere.",
+        "prompt_keywords": "arctic animals, soft cool tones, polar bears penguins foxes, icy blue and white, snow landscape, peaceful quiet atmosphere, warm character accents, winter wonderland",
+        "color_palette": ["#B3E5FC", "#E1F5FE", "#FFFFFF", "#546E7A", "#FFB74D", "#01579B"],
+        "best_for": ["baby", "toddler", "early_reader"],
+        "negative": "tropical, warm colors dominant, scary predators"
+      }
+    ],
+
+    "adventure": [
+      {
+        "id": "adventure-treasure-map",
+        "name": "Treasure Map",
+        "description": "Aged parchment and map-inspired style. Compass roses, dotted trails, X-marks-the-spot. Warm sepia tones with jewel-colored accents. Characters are bold explorers.",
+        "prompt_keywords": "treasure map style, aged parchment, compass roses, dotted trails, sepia tones, jewel accents, bold explorers, adventure cartography, hand-drawn maps",
+        "color_palette": ["#8D6E63", "#D7CCC8", "#F44336", "#1565C0", "#FFD600", "#3E2723"],
+        "best_for": ["early_reader", "reader"],
+        "negative": "modern digital, minimalist, pastel soft"
+      },
+      {
+        "id": "adventure-jungle-lush",
+        "name": "Jungle Lush",
+        "description": "Dense tropical jungle with layers of green. Hidden paths and ancient ruins. Rich, saturated colors with golden light breaking through canopy. Indiana Jones for kids.",
+        "prompt_keywords": "dense tropical jungle, layers of green, hidden paths, ancient ruins, rich saturated, golden light through canopy, adventure exploration, exotic plants, mysterious",
+        "color_palette": ["#1B5E20", "#388E3C", "#FFD600", "#8D6E63", "#E65100", "#004D40"],
+        "best_for": ["early_reader", "reader", "middle_grade"],
+        "negative": "urban, winter, minimalist"
+      },
+      {
+        "id": "adventure-comic-action",
+        "name": "Comic Action",
+        "description": "Dynamic comic book style with action lines and bold outlines. Bright, punchy colors. Characters in dramatic poses. Speech-bubble-ready composition. Energetic and exciting.",
+        "prompt_keywords": "comic book style, action lines, bold outlines, bright punchy colors, dramatic poses, dynamic composition, energetic, halftone dots, speed lines",
+        "color_palette": ["#F44336", "#2196F3", "#FFC107", "#212121", "#FFFFFF", "#4CAF50"],
+        "best_for": ["reader", "middle_grade"],
+        "negative": "soft pastel, watercolor, quiet peaceful"
+      },
+      {
+        "id": "adventure-retro-explorer",
+        "name": "Retro Explorer",
+        "description": "Mid-century modern illustration style. Geometric shapes, limited color palette. Vintage travel poster feel. Characters with simple, stylish designs. Sophisticated but fun.",
+        "prompt_keywords": "mid-century modern illustration, geometric shapes, limited color palette, vintage travel poster, stylish character design, retro 1960s, clean lines, sophisticated fun",
+        "color_palette": ["#D84315", "#00695C", "#FFB300", "#37474F", "#FFF8E1", "#1A237E"],
+        "best_for": ["reader", "middle_grade"],
+        "negative": "photorealistic, overly detailed, anime"
+      },
+      {
+        "id": "adventure-pirate-ink",
+        "name": "Pirate Ink",
+        "description": "Ink wash and pen style. Swashbuckling ocean scenes. Strong linework with watercolor washes. Dramatic skies and churning seas. Characters with bold, expressive faces.",
+        "prompt_keywords": "ink wash pen style, swashbuckling ocean, strong linework, watercolor washes, dramatic skies, churning seas, bold expressive faces, nautical, crosshatching",
+        "color_palette": ["#1A237E", "#455A64", "#ECEFF1", "#D84315", "#FFD54F", "#212121"],
+        "best_for": ["early_reader", "reader", "middle_grade"],
+        "negative": "cute kawaii, pastel, minimalist flat"
+      }
+    ],
+
+    "fantasy": [
+      {
+        "id": "fantasy-enchanted-forest",
+        "name": "Enchanted Forest",
+        "description": "Magical forest with glowing mushrooms, fairy lights, and mystical creatures. Rich greens and purples with golden sparkles. Detailed, layered environment. Studio Ghibli meets fairytale.",
+        "prompt_keywords": "enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage",
+        "color_palette": ["#1B5E20", "#4A148C", "#FFD600", "#E8F5E9", "#CE93D8", "#004D40"],
+        "best_for": ["early_reader", "reader", "middle_grade"],
+        "negative": "urban, photorealistic, dark horror"
+      },
+      {
+        "id": "fantasy-crystal-kingdom",
+        "name": "Crystal Kingdom",
+        "description": "Sparkling crystalline world with prismatic light. Ice castles and gem-encrusted caves. Cool blues and purples with rainbow refractions. Elegant and magical.",
+        "prompt_keywords": "crystal kingdom, sparkling crystalline, prismatic light, ice castles, gem-encrusted caves, cool blues purples, rainbow refractions, elegant magical, transparent elements",
+        "color_palette": ["#E1F5FE", "#7C4DFF", "#00BCD4", "#F8BBD0", "#FFFFFF", "#311B92"],
+        "best_for": ["early_reader", "reader", "middle_grade"],
+        "negative": "warm earth tones, realistic, gritty"
+      },
+      {
+        "id": "fantasy-dragon-realm",
+        "name": "Dragon Realm",
+        "description": "Epic fantasy landscapes with dragons and castles. Warm fiery tones mixed with cool mountain blues. Dramatic cloud formations. Characters look brave and determined.",
+        "prompt_keywords": "epic fantasy landscape, dragons castles, warm fiery tones, cool mountain blues, dramatic clouds, brave characters, medieval inspired, soaring peaks, mystical fog",
+        "color_palette": ["#BF360C", "#FF6F00", "#1565C0", "#455A64", "#FFC107", "#212121"],
+        "best_for": ["reader", "middle_grade", "young_adult"],
+        "negative": "cute kawaii, modern urban, minimalist"
+      },
+      {
+        "id": "fantasy-whimsical-magic",
+        "name": "Whimsical Magic",
+        "description": "Playful, bubbly magic with potions, wands, and sparkles. Candy-colored palette. Characters with pointy hats and oversized accessories. Fun and lighthearted.",
+        "prompt_keywords": "whimsical magic, potions wands sparkles, candy colors, pointy hats, oversized accessories, fun lighthearted, bubbly cheerful, magical school, potion bottles",
+        "color_palette": ["#E040FB", "#00E5FF", "#FFEA00", "#76FF03", "#FF6E40", "#F3E5F5"],
+        "best_for": ["early_reader", "reader"],
+        "negative": "dark gothic, scary, photorealistic"
+      },
+      {
+        "id": "fantasy-stained-glass",
+        "name": "Stained Glass",
+        "description": "Stained glass window inspired art. Bold black outlines with jewel-toned color fills. Religious art composition adapted for fantasy. Luminous and reverent.",
+        "prompt_keywords": "stained glass style, bold black outlines, jewel tones, luminous color fills, cathedral window composition, fantasy adaptation, glowing backlit, mosaic segments",
+        "color_palette": ["#1565C0", "#C62828", "#FFD600", "#2E7D32", "#4A148C", "#212121"],
+        "best_for": ["middle_grade", "young_adult"],
+        "negative": "photorealistic, pastel, minimalist modern"
+      }
+    ],
+
+    "mystery": [
+      {
+        "id": "mystery-noir-kids",
+        "name": "Kids Noir",
+        "description": "Film noir style adapted for children. Dramatic shadows and spotlights. Trench coats and magnifying glasses. Muted palette with one accent color. Detective atmosphere without being scary.",
+        "prompt_keywords": "film noir for kids, dramatic shadows, spotlights, trench coats, magnifying glass, muted palette, one accent color, detective atmosphere, mysterious but not scary",
+        "color_palette": ["#37474F", "#CFD8DC", "#FF6F00", "#212121", "#ECEFF1", "#455A64"],
+        "best_for": ["reader", "middle_grade"],
+        "negative": "bright cheerful, pastel, kawaii cute"
+      },
+      {
+        "id": "mystery-hidden-clues",
+        "name": "Hidden Clues",
+        "description": "Detailed scenes packed with hidden objects and visual clues. Where's Waldo meets Nancy Drew. Busy but organized compositions. Readers can search for details in the illustration.",
+        "prompt_keywords": "detailed hidden objects, visual clues, busy organized composition, search and find, detailed environment, many small objects, magnifying glass perspective, cluttered room or scene",
+        "color_palette": ["#5D4037", "#FF8F00", "#1565C0", "#FFEE58", "#E8EAF6", "#3E2723"],
+        "best_for": ["early_reader", "reader"],
+        "negative": "minimalist, empty space, simple composition"
+      },
+      {
+        "id": "mystery-foggy-town",
+        "name": "Foggy Town",
+        "description": "Misty small town with cobblestone streets and old buildings. Atmospheric fog with warm window lights. Characters peer around corners. Cozy mystery, not frightening.",
+        "prompt_keywords": "misty small town, cobblestone streets, old buildings, atmospheric fog, warm window lights, peering around corners, cozy mystery, lantern light, autumn leaves",
+        "color_palette": ["#78909C", "#CFD8DC", "#FFB74D", "#4E342E", "#B0BEC5", "#263238"],
+        "best_for": ["reader", "middle_grade"],
+        "negative": "bright sunny, tropical, scary horror"
+      },
+      {
+        "id": "mystery-secret-passages",
+        "name": "Secret Passages",
+        "description": "Hidden doors, sliding bookcases, and underground tunnels. Warm candlelight in stone corridors. Maps and coded messages. Adventure mystery hybrid style.",
+        "prompt_keywords": "hidden doors, sliding bookcases, underground tunnels, warm candlelight, stone corridors, maps coded messages, adventure mystery, ancient secrets, torchlit exploration",
+        "color_palette": ["#795548", "#FFA726", "#455A64", "#FFF8E1", "#3E2723", "#D7CCC8"],
+        "best_for": ["reader", "middle_grade"],
+        "negative": "modern setting, bright daylight, minimalist"
+      },
+      {
+        "id": "mystery-digital-cyber",
+        "name": "Digital Cyber",
+        "description": "Modern tech mystery. Glowing screens, code patterns, digital trails. Neon blues and greens on dark backgrounds. Tron meets detective story for teens.",
+        "prompt_keywords": "digital tech mystery, glowing screens, code patterns, digital trails, neon blue green, dark backgrounds, cyber detective, holographic displays, data visualization",
+        "color_palette": ["#00E676", "#00B0FF", "#121212", "#1A237E", "#76FF03", "#263238"],
+        "best_for": ["middle_grade", "young_adult"],
+        "negative": "historical, watercolor, cute cartoon"
+      }
+    ],
+
+    "sci-fi": [
+      {
+        "id": "scifi-retro-space",
+        "name": "Retro Space",
+        "description": "1960s space age aesthetic. Round-cornered rockets, bubble helmets, ray guns. Optimistic futurism with warm metallic tones. Jetsons meets real space exploration.",
+        "prompt_keywords": "retro 1960s space age, round rockets, bubble helmets, ray guns, optimistic futurism, warm metallic tones, vintage space poster, Jetsons inspired, chrome and orange",
+        "color_palette": ["#E65100", "#78909C", "#B0BEC5", "#FFD54F", "#1565C0", "#ECEFF1"],
+        "best_for": ["early_reader", "reader"],
+        "negative": "dark gritty, realistic NASA, horror"
+      },
+      {
+        "id": "scifi-neon-future",
+        "name": "Neon Future",
+        "description": "Cyberpunk-lite for kids. Neon-lit cities, flying vehicles, holographic signs. Purple and cyan color scheme. Exciting but not dystopian. The future is cool and fun.",
+        "prompt_keywords": "neon-lit city, flying vehicles, holographic signs, purple cyan scheme, exciting futuristic, clean cyberpunk, the future is fun, glass buildings, hover technology",
+        "color_palette": ["#7C4DFF", "#00E5FF", "#FF4081", "#121212", "#E040FB", "#263238"],
+        "best_for": ["reader", "middle_grade", "young_adult"],
+        "negative": "dystopian dark, historical, pastoral"
+      },
+      {
+        "id": "scifi-alien-world",
+        "name": "Alien World",
+        "description": "Strange and beautiful alien landscapes. Unusual plants and friendly alien creatures. Colors that feel otherworldly — magentas, teals, golds. Sense of wonder and discovery.",
+        "prompt_keywords": "alien landscape, unusual plants, friendly alien creatures, otherworldly colors, magenta teal gold, wonder and discovery, bioluminescent flora, multiple moons, crystal formations",
+        "color_palette": ["#E040FB", "#00BCD4", "#FFD600", "#1A237E", "#CE93D8", "#004D40"],
+        "best_for": ["early_reader", "reader", "middle_grade"],
+        "negative": "earth-like, historical, scary aliens"
+      },
+      {
+        "id": "scifi-space-station",
+        "name": "Space Station",
+        "description": "Interior of a sleek space station. Clean whites and grays with colored accent lighting. Zero gravity scenes. Characters in spacesuits. Scientifically inspired but kid-friendly.",
+        "prompt_keywords": "space station interior, sleek clean design, white gray with colored accents, zero gravity, spacesuits, scientifically inspired, kid-friendly NASA, control panels, starfield windows",
+        "color_palette": ["#ECEFF1", "#455A64", "#2196F3", "#FF5722", "#FFFFFF", "#212121"],
+        "best_for": ["reader", "middle_grade"],
+        "negative": "fantasy magic, historical, dark horror"
+      },
+      {
+        "id": "scifi-robot-friends",
+        "name": "Robot Friends",
+        "description": "Warm, friendly robots alongside human children. Soft rounded robot designs with expressive LED faces. Mix of organic and mechanical. Heartwarming tech aesthetic.",
+        "prompt_keywords": "friendly robots, human children together, soft rounded robot designs, expressive LED faces, organic and mechanical mix, heartwarming tech, helper robots, workshop setting",
+        "color_palette": ["#78909C", "#FFB74D", "#4FC3F7", "#F5F5F5", "#FF8A65", "#37474F"],
+        "best_for": ["early_reader", "reader"],
+        "negative": "scary terminators, dark dystopian, war robots"
+      }
+    ],
+
+    "friendship": [
+      {
+        "id": "friendship-playground-bright",
+        "name": "Playground Bright",
+        "description": "Bright, sunny playground and park scenes. Kids of diverse backgrounds playing together. Primary colors with generous white space. Joyful, energetic, inclusive.",
+        "prompt_keywords": "bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities",
+        "color_palette": ["#F44336", "#2196F3", "#4CAF50", "#FFC107", "#FFFFFF", "#FF9800"],
+        "best_for": ["baby", "toddler", "early_reader"],
+        "negative": "dark moody, indoor only, isolated characters"
+      },
+      {
+        "id": "friendship-cozy-hangout",
+        "name": "Cozy Hangout",
+        "description": "Indoor friendship scenes. Pillow forts, sleepovers, hot chocolate. Warm amber lighting. Characters in comfortable clothes sharing quiet moments. Intimate and warm.",
+        "prompt_keywords": "indoor cozy scenes, pillow forts, sleepovers, hot chocolate, warm amber lighting, comfortable clothes, quiet moments, intimate friendship, blanket nests, fairy lights",
+        "color_palette": ["#FFB74D", "#FFF3E0", "#8D6E63", "#E91E63", "#B2EBF2", "#3E2723"],
+        "best_for": ["early_reader", "reader", "middle_grade"],
+        "negative": "outdoor adventure, action scenes, cold lighting"
+      },
+      {
+        "id": "friendship-watercolor-soft",
+        "name": "Watercolor Soft",
+        "description": "Delicate watercolor with soft edges and gentle washes. Characters with simple, sweet expressions. Lots of breathing room in composition. Quiet emotional moments.",
+        "prompt_keywords": "delicate watercolor, soft edges, gentle washes, sweet expressions, breathing room, quiet emotional, pastel tones, loose brushwork, simple composition, tender moments",
+        "color_palette": ["#F8BBD0", "#B2DFDB", "#FFF9C4", "#E1BEE7", "#DCEDC8", "#FCE4EC"],
+        "best_for": ["baby", "toddler", "early_reader"],
+        "negative": "bold graphic, dark moody, sharp edges"
+      },
+      {
+        "id": "friendship-graphic-novel",
+        "name": "Graphic Novel",
+        "description": "Graphic novel style panels and compositions. Clean lines, flat colors, speech-ready layouts. Characters with distinct visual personalities. Modern, accessible, cool.",
+        "prompt_keywords": "graphic novel style, clean lines, flat colors, distinct character design, modern accessible, panel composition feel, confident linework, contemporary illustration",
+        "color_palette": ["#3F51B5", "#FF5722", "#FFEB3B", "#E8EAF6", "#212121", "#4CAF50"],
+        "best_for": ["reader", "middle_grade", "young_adult"],
+        "negative": "watercolor soft, photorealistic, vintage"
+      },
+      {
+        "id": "friendship-collage-mixed",
+        "name": "Collage Mixed Media",
+        "description": "Mixed media collage with paper textures, fabric patterns, and painted elements. Eclectic and crafty. Each page feels handmade. Celebrates individuality and creativity.",
+        "prompt_keywords": "mixed media collage, paper textures, fabric patterns, painted elements, eclectic crafty, handmade feel, celebrates individuality, scrapbook aesthetic, layered materials",
+        "color_palette": ["#FF7043", "#66BB6A", "#42A5F5", "#FFCA28", "#AB47BC", "#EFEBE9"],
+        "best_for": ["early_reader", "reader"],
+        "negative": "clean digital, uniform style, photorealistic"
+      }
+    ],
+
+    "humor": [
+      {
+        "id": "humor-cartoon-bouncy",
+        "name": "Cartoon Bouncy",
+        "description": "Exaggerated cartoon style with squash and stretch. Characters with oversized expressions. Bright, candy colors. Everything feels like it's about to bounce off the page.",
+        "prompt_keywords": "exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel",
+        "color_palette": ["#FF4081", "#00E676", "#FFEA00", "#651FFF", "#FF6E40", "#FFFFFF"],
+        "best_for": ["toddler", "early_reader", "reader"],
+        "negative": "realistic proportions, muted colors, serious mood"
+      },
+      {
+        "id": "humor-doodle-sketch",
+        "name": "Doodle Sketch",
+        "description": "Notebook doodle style. Black pen on white with selective color. Loose, sketchy linework. Arrows, stars, and annotation marks. Diary of a Wimpy Kid vibes.",
+        "prompt_keywords": "notebook doodle style, black pen on white, selective color, loose sketchy lines, arrows and annotations, diary style, hand-drawn spontaneous, school notebook aesthetic",
+        "color_palette": ["#212121", "#FFFFFF", "#F44336", "#2196F3", "#FFC107", "#E0E0E0"],
+        "best_for": ["reader", "middle_grade"],
+        "negative": "polished painterly, watercolor, photorealistic"
+      },
+      {
+        "id": "humor-pixel-retro",
+        "name": "Pixel Retro",
+        "description": "8-bit pixel art style. Chunky pixels with limited color palette. Game-inspired scenes. Characters have simple pixel expressions. Nostalgic and fun.",
+        "prompt_keywords": "8-bit pixel art, chunky pixels, limited color palette, game-inspired, simple pixel faces, nostalgic retro gaming, sprite style, blocky characters",
+        "color_palette": ["#4CAF50", "#2196F3", "#F44336", "#FFEB3B", "#212121", "#9E9E9E"],
+        "best_for": ["reader", "middle_grade"],
+        "negative": "high resolution, photorealistic, watercolor"
+      },
+      {
+        "id": "humor-clay-plasticine",
+        "name": "Clay Plasticine",
+        "description": "Claymation / plasticine style. Characters look like they're made of modeling clay. Fingerprint textures visible. 3D-feeling but illustrated. Wallace and Gromit energy.",
+        "prompt_keywords": "claymation plasticine style, modeling clay characters, fingerprint textures, 3D illustrated, stop motion feel, wobbly shapes, clay animation, handmade sculptural",
+        "color_palette": ["#FF7043", "#66BB6A", "#42A5F5", "#FDD835", "#EF5350", "#8D6E63"],
+        "best_for": ["toddler", "early_reader", "reader"],
+        "negative": "flat 2D, photorealistic, dark moody"
+      },
+      {
+        "id": "humor-food-illustration",
+        "name": "Food Illustration",
+        "description": "Food-themed illustration style. Characters interact with oversized food items. Bright, appetizing colors. Everything looks delicious and slightly silly. Perfect for food-related humor stories.",
+        "prompt_keywords": "food themed illustration, oversized food items, appetizing colors, delicious looking, slightly silly, bright cheerful, food as characters, kitchen scenes, playful proportions",
+        "color_palette": ["#F44336", "#FF9800", "#FFEB3B", "#4CAF50", "#8D6E63", "#FFF3E0"],
+        "best_for": ["baby", "toddler", "early_reader"],
+        "negative": "dark moody, abstract, photorealistic"
+      }
+    ],
+
+    "school": [
+      {
+        "id": "school-chalkboard",
+        "name": "Chalkboard Style",
+        "description": "Chalk on dark green/black board style. White and colored chalk drawings. Equations and doodles in margins. School-themed but artistic and warm.",
+        "prompt_keywords": "chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board",
+        "color_palette": ["#2E7D32", "#FFFFFF", "#FFC107", "#FF5722", "#4FC3F7", "#1B5E20"],
+        "best_for": ["early_reader", "reader"],
+        "negative": "photorealistic, bright white backgrounds, digital clean"
+      },
+      {
+        "id": "school-locker-pop",
+        "name": "Locker Pop",
+        "description": "Bright pop art style school scenes. Bold outlines, halftone dots, speech bubbles. Lockers, hallways, cafeterias as settings. Energetic and social.",
+        "prompt_keywords": "pop art school, bold outlines, halftone dots, speech bubbles, school hallways, lockers cafeteria, energetic social, bright bold, comic influenced",
+        "color_palette": ["#F44336", "#2196F3", "#FFEB3B", "#212121", "#FFFFFF", "#4CAF50"],
+        "best_for": ["reader", "middle_grade"],
+        "negative": "quiet pastoral, watercolor soft, historical"
+      },
+      {
+        "id": "school-watercolor-recess",
+        "name": "Watercolor Recess",
+        "description": "Loose watercolor of school and recess scenes. Splashy, spontaneous feel. Kids running, playing, laughing. Captures the energy of childhood at school.",
+        "prompt_keywords": "loose watercolor, recess scenes, splashy spontaneous, kids running playing, childhood energy, sunny schoolyard, paint splatter accents, free flowing",
+        "color_palette": ["#4CAF50", "#2196F3", "#FF9800", "#F44336", "#FFF9C4", "#81D4FA"],
+        "best_for": ["early_reader", "reader"],
+        "negative": "tight detailed, dark moody, indoor only"
+      },
+      {
+        "id": "school-yearbook-collage",
+        "name": "Yearbook Collage",
+        "description": "Yearbook photo inspired mixed with illustration. Polaroid-style character portraits alongside painted scenes. Nostalgic, personal, memory-book feeling.",
+        "prompt_keywords": "yearbook inspired, polaroid portraits, mixed illustration, nostalgic personal, memory book, school photos, handwritten notes, sticker and tape accents, scrapbook",
+        "color_palette": ["#FFB74D", "#E1BEE7", "#B2DFDB", "#FFCCBC", "#FFFFFF", "#5D4037"],
+        "best_for": ["middle_grade", "young_adult"],
+        "negative": "digital clean, fantasy setting, uniform style"
+      },
+      {
+        "id": "school-science-lab",
+        "name": "Science Lab",
+        "description": "STEM-inspired illustration. Beakers, microscopes, robots, and experiments. Clean lines with bubbling reactions providing color pops. Educational but exciting.",
+        "prompt_keywords": "STEM science illustration, beakers microscopes, robots experiments, clean lines, bubbling reactions, color pops, educational exciting, laboratory setting, discovery moment",
+        "color_palette": ["#00BCD4", "#E040FB", "#76FF03", "#FFFFFF", "#455A64", "#FFC107"],
+        "best_for": ["early_reader", "reader", "middle_grade"],
+        "negative": "dark gothic, historical, soft watercolor"
+      }
+    ],
+
+    "family": [
+      {
+        "id": "family-warm-kitchen",
+        "name": "Warm Kitchen",
+        "description": "Cozy kitchen and home scenes. Family cooking, eating, celebrating together. Warm yellows and oranges. Steam from food, flour-dusted aprons. Love expressed through everyday moments.",
+        "prompt_keywords": "cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food",
+        "color_palette": ["#FF8F00", "#FFF8E1", "#795548", "#E65100", "#FFECB3", "#3E2723"],
+        "best_for": ["toddler", "early_reader", "reader"],
+        "negative": "cold sterile, outdoor only, lonely scenes"
+      },
+      {
+        "id": "family-sunday-morning",
+        "name": "Sunday Morning",
+        "description": "Lazy Sunday morning light. Soft, golden hour illumination. Family in pajamas, newspapers, pancakes. Gentle, unhurried feeling. Norman Rockwell meets modern diversity.",
+        "prompt_keywords": "Sunday morning light, golden hour, family pajamas, newspapers pancakes, gentle unhurried, modern diverse family, lazy morning, sunlit rooms, warm domestic",
+        "color_palette": ["#FFE082", "#FFF8E1", "#8D6E63", "#FFAB91", "#E8EAF6", "#5D4037"],
+        "best_for": ["baby", "toddler", "early_reader"],
+        "negative": "dark night, action adventure, school setting"
+      },
+      {
+        "id": "family-generation-quilt",
+        "name": "Generation Quilt",
+        "description": "Multi-generational family style. Quilting pattern borders and textures. Grandparents, parents, children together. Folk art inspired with cultural patterns. Heritage and continuity.",
+        "prompt_keywords": "multi-generational family, quilting pattern borders, grandparents parents children, folk art inspired, cultural patterns, heritage continuity, patchwork aesthetic, storytelling through pattern",
+        "color_palette": ["#AD1457", "#1565C0", "#2E7D32", "#FF6F00", "#FFF3E0", "#4E342E"],
+        "best_for": ["early_reader", "reader", "middle_grade"],
+        "negative": "modern minimalist, single character, tech focused"
+      },
+      {
+        "id": "family-travel-journal",
+        "name": "Travel Journal",
+        "description": "Family travel and road trip style. Sketch journal with watercolor washes. Maps, tickets, and postcards incorporated. Adventure and togetherness combined.",
+        "prompt_keywords": "travel journal sketch, watercolor washes, maps tickets postcards, family road trip, adventure togetherness, hand-drawn journal, travel memorabilia, diverse destinations",
+        "color_palette": ["#1565C0", "#FF8F00", "#4CAF50", "#FFF8E1", "#795548", "#E0E0E0"],
+        "best_for": ["reader", "middle_grade"],
+        "negative": "indoor only, dark moody, single setting"
+      },
+      {
+        "id": "family-new-baby",
+        "name": "New Baby",
+        "description": "Soft, gentle illustrations about growing families. Pastel pinks, blues, and yellows. Tender moments — first steps, first words, sibling bonding. Ultra-gentle and loving.",
+        "prompt_keywords": "soft gentle growing family, pastel pink blue yellow, tender moments, first steps first words, sibling bonding, ultra gentle loving, nursery warmth, precious memories",
+        "color_palette": ["#F8BBD0", "#B3E5FC", "#FFF9C4", "#FFFFFF", "#E1BEE7", "#FFCCBC"],
+        "best_for": ["baby", "toddler"],
+        "negative": "dark moody, action adventure, school setting"
+      }
+    ],
+
+    "historical": [
+      {
+        "id": "historical-illuminated",
+        "name": "Illuminated Manuscript",
+        "description": "Medieval illuminated manuscript style. Gold leaf accents, ornate borders, rich deep colors. Characters in period clothing but diverse. Storybook history brought to life.",
+        "prompt_keywords": "illuminated manuscript, gold leaf accents, ornate borders, rich deep colors, period clothing, diverse characters, medieval inspired, decorative capitals, parchment texture",
+        "color_palette": ["#FFD600", "#B71C1C", "#1565C0", "#FFF8E1", "#2E7D32", "#3E2723"],
+        "best_for": ["reader", "middle_grade"],
+        "negative": "modern setting, minimalist, digital clean"
+      },
+      {
+        "id": "historical-sepia-story",
+        "name": "Sepia Story",
+        "description": "Warm sepia-toned illustrations evoking old photographs. Selective color highlights. Detailed period architecture and clothing. Historical but accessible and warm.",
+        "prompt_keywords": "sepia toned, old photograph feel, selective color highlights, period architecture clothing, historical accessible warm, vintage photographic, detailed environment, warm nostalgia",
+        "color_palette": ["#795548", "#D7CCC8", "#BCAAA4", "#FF8F00", "#3E2723", "#EFEBE9"],
+        "best_for": ["reader", "middle_grade", "young_adult"],
+        "negative": "neon bright, futuristic, cartoon silly"
+      },
+      {
+        "id": "historical-folk-tale",
+        "name": "Cultural Folk Tale",
+        "description": "Rich folk art style drawing from various cultural traditions. Bold patterns, symbolic imagery. Can adapt to different cultures — African, Asian, Indigenous, European folk art.",
+        "prompt_keywords": "folk art tradition, bold patterns, symbolic imagery, cultural richness, diverse traditions, decorative borders, storytelling through pattern, vibrant traditional, hand-crafted feel",
+        "color_palette": ["#D32F2F", "#1565C0", "#FFD600", "#2E7D32", "#4A148C", "#BF360C"],
+        "best_for": ["early_reader", "reader", "middle_grade"],
+        "negative": "modern minimalist, photorealistic, digital"
+      },
+      {
+        "id": "historical-woodblock",
+        "name": "Woodblock Print",
+        "description": "Japanese woodblock print inspired. Bold lines, flat color areas, elegant composition. Cherry blossoms, waves, mountains. Eastern aesthetic adapted for diverse stories.",
+        "prompt_keywords": "woodblock print inspired, bold lines, flat color areas, elegant composition, cherry blossoms waves mountains, ukiyo-e influenced, eastern aesthetic, block print texture",
+        "color_palette": ["#B71C1C", "#1A237E", "#FFF8E1", "#2E7D32", "#212121", "#FFD54F"],
+        "best_for": ["reader", "middle_grade", "young_adult"],
+        "negative": "photorealistic, western comic, cartoon cute"
+      },
+      {
+        "id": "historical-map-explorer",
+        "name": "Map Explorer",
+        "description": "Old cartographic style with illustrated maps. Sea monsters in the margins. Compass roses and sailing ships. Historical exploration brought to life through map illustration.",
+        "prompt_keywords": "cartographic style, illustrated maps, sea monsters in margins, compass roses, sailing ships, historical exploration, old world maps, terra incognita, adventure cartography",
+        "color_palette": ["#8D6E63", "#D7CCC8", "#1565C0", "#D32F2F", "#FFD600", "#3E2723"],
+        "best_for": ["reader", "middle_grade"],
+        "negative": "modern setting, futuristic, minimalist"
+      }
+    ],
+
+    "feelings": [
+      {
+        "id": "feelings-emotion-colors",
+        "name": "Emotion Colors",
+        "description": "Each emotion mapped to a distinct color. Angry = red swirls, sad = blue rain, happy = yellow sunshine. Abstract emotion backgrounds behind characters. Inside Out inspired.",
+        "prompt_keywords": "emotion mapped colors, angry red swirls, sad blue rain, happy yellow sunshine, abstract emotion backgrounds, Inside Out inspired, feeling visualization, color psychology",
+        "color_palette": ["#F44336", "#2196F3", "#FFEB3B", "#4CAF50", "#9C27B0", "#FF9800"],
+        "best_for": ["baby", "toddler", "early_reader"],
+        "negative": "monochrome, photorealistic, dark scary"
+      },
+      {
+        "id": "feelings-gentle-faces",
+        "name": "Gentle Faces",
+        "description": "Close-up character portraits showing emotions. Simple backgrounds, focus entirely on facial expressions. Gentle, empathetic style. Helps children recognize and name feelings.",
+        "prompt_keywords": "close-up portraits, showing emotions, simple backgrounds, facial expressions focus, gentle empathetic, recognizing feelings, soft lighting, diverse faces, emotional intelligence",
+        "color_palette": ["#FFCCBC", "#B2DFDB", "#F8BBD0", "#FFF9C4", "#E1BEE7", "#FFFFFF"],
+        "best_for": ["baby", "toddler"],
+        "negative": "busy backgrounds, action scenes, small characters"
+      },
+      {
+        "id": "feelings-weather-mood",
+        "name": "Weather Mood",
+        "description": "Emotions expressed through weather metaphors. Sunny smiles, stormy anger, rainbow recovery. The environment mirrors the character's emotional state. Nature as emotional language.",
+        "prompt_keywords": "weather as emotion, sunny smiles, stormy anger, rainbow recovery, environment mirrors feeling, nature emotional language, pathetic fallacy, weather metaphor, sky reflecting mood",
+        "color_palette": ["#FFD600", "#78909C", "#00BCD4", "#F44336", "#8BC34A", "#E1F5FE"],
+        "best_for": ["toddler", "early_reader"],
+        "negative": "indoor only, static weather, photorealistic"
+      },
+      {
+        "id": "feelings-heart-art",
+        "name": "Heart Art",
+        "description": "Warm, heart-centered illustrations. Characters with visible 'feeling bubbles' or heart motifs. Soft rounded everything. Maximum tenderness and empathy. For the most emotional stories.",
+        "prompt_keywords": "heart-centered, feeling bubbles, heart motifs, soft rounded, maximum tenderness, empathy, warm embracing, love expressed visually, gentle supportive",
+        "color_palette": ["#E91E63", "#F8BBD0", "#FCE4EC", "#FFCDD2", "#CE93D8", "#FFF3E0"],
+        "best_for": ["baby", "toddler", "early_reader"],
+        "negative": "cold colors, sharp edges, action scenes"
+      },
+      {
+        "id": "feelings-growth-garden",
+        "name": "Growth Garden",
+        "description": "Emotions as plants growing in a garden. Confidence blooming, worry as weeds, kindness as flowers. Botanical illustration meets emotional storytelling. Beautiful and educational.",
+        "prompt_keywords": "emotions as plants, confidence blooming, worry as weeds, kindness as flowers, botanical illustration, emotional garden, growth metaphor, beautiful educational, seed to bloom",
+        "color_palette": ["#4CAF50", "#E91E63", "#FFD600", "#8BC34A", "#795548", "#FFF8E1"],
+        "best_for": ["early_reader", "reader"],
+        "negative": "urban setting, dark moody, tech focused"
+      }
+    ],
+
+    "nature": [
+      {
+        "id": "nature-botanical-detailed",
+        "name": "Botanical Detailed",
+        "description": "Detailed botanical illustration style. Labeled plants and insects. Scientific accuracy with artistic beauty. Nature journal inspired. Educational and gorgeous.",
+        "prompt_keywords": "botanical illustration, detailed plants insects, scientific accuracy, artistic beauty, nature journal, educational gorgeous, field guide style, specimen drawing, naturalist",
+        "color_palette": ["#2E7D32", "#795548", "#FFD600", "#E8F5E9", "#BF360C", "#FFF8E1"],
+        "best_for": ["early_reader", "reader", "middle_grade"],
+        "negative": "abstract, urban, cartoon silly"
+      },
+      {
+        "id": "nature-seasons-cycle",
+        "name": "Seasons Cycle",
+        "description": "The same scene shown through different seasons. Spring pastels, summer brights, autumn warmth, winter cool. Cyclical nature of the year. Time passing beautifully.",
+        "prompt_keywords": "seasonal cycle, spring pastels, summer brights, autumn warmth, winter cool, same scene different seasons, time passing, nature calendar, cyclical beauty",
+        "color_palette": ["#E91E63", "#4CAF50", "#FF9800", "#90CAF9", "#FFF9C4", "#795548"],
+        "best_for": ["baby", "toddler", "early_reader"],
+        "negative": "indoor only, urban, single season"
+      },
+      {
+        "id": "nature-miniature-world",
+        "name": "Miniature World",
+        "description": "Close-up view of the tiny world. Ants, ladybugs, dewdrops on leaves. Macro photography feel as illustration. Making the small feel magical and important.",
+        "prompt_keywords": "miniature world, close-up view, ants ladybugs dewdrops, macro illustration, small feels magical, leaf level perspective, tiny adventures, insect scale, dewdrop lens",
+        "color_palette": ["#4CAF50", "#8BC34A", "#FFEB3B", "#F44336", "#795548", "#E8F5E9"],
+        "best_for": ["baby", "toddler", "early_reader"],
+        "negative": "wide landscape, urban, dark scary"
+      },
+      {
+        "id": "nature-mountain-vista",
+        "name": "Mountain Vista",
+        "description": "Sweeping mountain and landscape vistas. Layered mountains in atmospheric perspective. Small characters in big nature. Awe-inspiring scale. Hiking and outdoor adventure feel.",
+        "prompt_keywords": "sweeping mountain vistas, layered atmospheric perspective, small characters big nature, awe-inspiring scale, hiking outdoor, alpine meadows, sunrise over peaks, vast wilderness",
+        "color_palette": ["#1565C0", "#4CAF50", "#78909C", "#FFD600", "#ECEFF1", "#37474F"],
+        "best_for": ["reader", "middle_grade"],
+        "negative": "indoor, urban, flat landscape"
+      },
+      {
+        "id": "nature-rain-forest",
+        "name": "Rain Forest Layers",
+        "description": "Layered rainforest canopy illustration. Forest floor, understory, canopy, emergent layers. Rich biodiversity shown at each level. Dense, lush, teeming with life.",
+        "prompt_keywords": "rainforest canopy layers, forest floor understory canopy, rich biodiversity, dense lush, teeming with life, tropical ecosystem, vertical composition, green cathedral",
+        "color_palette": ["#1B5E20", "#4CAF50", "#8BC34A", "#795548", "#FFD600", "#004D40"],
+        "best_for": ["early_reader", "reader", "middle_grade"],
+        "negative": "desert, winter, urban, sparse"
+      }
+    ],
+
+    "sports": [
+      {
+        "id": "sports-action-dynamic",
+        "name": "Action Dynamic",
+        "description": "Dynamic sports action shots. Motion blur, speed lines, dramatic angles. Mid-action freeze frames. Characters giving maximum effort. ESPN meets illustration.",
+        "prompt_keywords": "dynamic sports action, motion blur, speed lines, dramatic angles, mid-action freeze, maximum effort, athletic movement, competitive energy, winning moment",
+        "color_palette": ["#F44336", "#1565C0", "#FFD600", "#212121", "#FFFFFF", "#4CAF50"],
+        "best_for": ["reader", "middle_grade"],
+        "negative": "static poses, quiet pastoral, soft watercolor"
+      },
+      {
+        "id": "sports-team-spirit",
+        "name": "Team Spirit",
+        "description": "Team huddles, high-fives, and celebration. Focus on camaraderie over competition. Diverse team members supporting each other. Warm, inclusive athletic scenes.",
+        "prompt_keywords": "team huddles, high-fives, celebration, camaraderie over competition, diverse team, supporting each other, inclusive athletic, team bonding, sportsmanship",
+        "color_palette": ["#FF9800", "#2196F3", "#4CAF50", "#FFEB3B", "#FFFFFF", "#5D4037"],
+        "best_for": ["early_reader", "reader", "middle_grade"],
+        "negative": "solo athlete, aggressive competition, dark moody"
+      }
+    ],
+
+    "science": [
+      {
+        "id": "science-wonder-discovery",
+        "name": "Wonder & Discovery",
+        "description": "Wide-eyed wonder at scientific discoveries. Experiments with colorful reactions. Microscope views of amazing tiny worlds. Making science feel like magic.",
+        "prompt_keywords": "scientific wonder, wide-eyed discovery, colorful experiments, microscope views, science as magic, eureka moments, bubbling reactions, amazing revelations, young scientist",
+        "color_palette": ["#00BCD4", "#E040FB", "#76FF03", "#FFC107", "#FFFFFF", "#263238"],
+        "best_for": ["early_reader", "reader"],
+        "negative": "dark scary, boring textbook, abstract only"
+      },
+      {
+        "id": "science-space-exploration",
+        "name": "Space Exploration",
+        "description": "NASA-inspired space scenes. Detailed spacecraft, planets, and nebulae. Scientifically inspired but artistically beautiful. The cosmos as a place of wonder.",
+        "prompt_keywords": "NASA inspired, detailed spacecraft, planets nebulae, scientifically inspired, artistically beautiful, cosmos wonder, space exploration, astronaut perspective, stellar nursery",
+        "color_palette": ["#1A237E", "#7C4DFF", "#FF6F00", "#E8EAF6", "#00BCD4", "#212121"],
+        "best_for": ["reader", "middle_grade"],
+        "negative": "alien monsters, dark horror, fantasy magic"
+      }
+    ],
+
+    "fairy-tales": [
+      {
+        "id": "fairytale-classic-golden",
+        "name": "Classic Golden Age",
+        "description": "Golden age of illustration inspired. Arthur Rackham, Edmund Dulac style. Detailed pen work with watercolor washes. Ornate but not overwhelming. Timeless fairy tale feel.",
+        "prompt_keywords": "golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes",
+        "color_palette": ["#FFD600", "#2E7D32", "#B71C1C", "#795548", "#FFF8E1", "#1A237E"],
+        "best_for": ["early_reader", "reader", "middle_grade"],
+        "negative": "modern digital, cartoon, minimalist"
+      },
+      {
+        "id": "fairytale-modern-twist",
+        "name": "Modern Twist",
+        "description": "Classic fairy tales reimagined with modern, inclusive art. Contemporary character designs in traditional settings. Bold colors and clean lines. Old stories, new perspective.",
+        "prompt_keywords": "modern fairy tale, inclusive contemporary, traditional settings, bold colors clean lines, reimagined classic, diverse characters, new perspective, updated storybook",
+        "color_palette": ["#E040FB", "#00BCD4", "#FFD600", "#FF5722", "#E8EAF6", "#2E7D32"],
+        "best_for": ["early_reader", "reader"],
+        "negative": "dark gothic, photorealistic, historical accurate"
+      }
+    ],
+
+    "thriller": [
+      {
+        "id": "thriller-shadow-tension",
+        "name": "Shadow & Tension",
+        "description": "High contrast shadows and dramatic lighting. Characters partially obscured. Tension in composition — tilted angles, cropped frames. Suspenseful without being scary for teens.",
+        "prompt_keywords": "high contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric",
+        "color_palette": ["#212121", "#455A64", "#FF5722", "#ECEFF1", "#1A237E", "#78909C"],
+        "best_for": ["middle_grade", "young_adult"],
+        "negative": "bright cheerful, pastel cute, kawaii"
+      },
+      {
+        "id": "thriller-surveillance",
+        "name": "Surveillance State",
+        "description": "CCTV, screens, data overlays. Orwellian tech aesthetic. Glitch effects and scan lines. Characters watched through screens. Modern paranoia as visual style.",
+        "prompt_keywords": "CCTV surveillance, screens data overlays, tech aesthetic, glitch effects, scan lines, watched through screens, modern paranoia, digital monitoring, security camera view",
+        "color_palette": ["#00E676", "#121212", "#B0BEC5", "#FF1744", "#263238", "#00B0FF"],
+        "best_for": ["young_adult"],
+        "negative": "warm cozy, pastel, cartoon cute, children's"
+      }
+    ],
+
+    "colors": [
+      {
+        "id": "colors-rainbow-splash",
+        "name": "Rainbow Splash",
+        "description": "Bright, pure rainbow colors in splashy, painterly style. Each page dominated by one color. Paint splatter and drip effects. Sensory, visual, joyful.",
+        "prompt_keywords": "rainbow colors, splashy painterly, one color dominant per scene, paint splatter drips, sensory visual, joyful pure color, finger paint aesthetic, color exploration",
+        "color_palette": ["#F44336", "#FF9800", "#FFEB3B", "#4CAF50", "#2196F3", "#9C27B0"],
+        "best_for": ["baby", "toddler"],
+        "negative": "muted palette, monochrome, dark moody"
+      }
+    ],
+
+    "counting": [
+      {
+        "id": "counting-objects-parade",
+        "name": "Objects Parade",
+        "description": "Clear, countable objects arranged in fun patterns. Numbers prominent but part of the scene. Each number has its own visual world. Engaging counting practice.",
+        "prompt_keywords": "clear countable objects, fun patterns, numbers prominent, visual counting, each number unique scene, engaging practice, organized arrangement, mathematical beauty",
+        "color_palette": ["#F44336", "#4CAF50", "#2196F3", "#FFC107", "#9C27B0", "#FFFFFF"],
+        "best_for": ["baby", "toddler"],
+        "negative": "cluttered unclear, abstract, no objects to count"
+      }
+    ],
+
+    "food": [
+      {
+        "id": "food-yummy-feast",
+        "name": "Yummy Feast",
+        "description": "Delicious, appetizing food illustrations. Slightly exaggerated proportions. Steam, drips, and sparkles make food look magical. Diverse cuisines celebrated.",
+        "prompt_keywords": "delicious appetizing food, exaggerated proportions, steam drips sparkles, magical food, diverse cuisines, feast celebration, cooking scenes, yummy visual, food joy",
+        "color_palette": ["#F44336", "#FF9800", "#FFEB3B", "#4CAF50", "#795548", "#FFF3E0"],
+        "best_for": ["baby", "toddler", "early_reader"],
+        "negative": "unappetizing, dark moody, abstract only"
+      }
+    ],
+
+    "sounds": [
+      {
+        "id": "sounds-visual-noise",
+        "name": "Visual Noise",
+        "description": "Sound made visible through illustration. Wavy lines for music, jagged lines for crashes, tiny dots for whispers. Synesthesia-inspired — seeing sound as color and shape.",
+        "prompt_keywords": "sound made visible, wavy lines for music, jagged lines for crashes, dots for whispers, synesthesia inspired, seeing sound, color and shape for noise, vibration visual",
+        "color_palette": ["#FF4081", "#00E676", "#FFEA00", "#7C4DFF", "#FF6E40", "#E0E0E0"],
+        "best_for": ["baby", "toddler"],
+        "negative": "silent still, photorealistic, dark quiet"
+      }
+    ],
+
+    "peek-a-boo": [
+      {
+        "id": "peekaboo-flap-style",
+        "name": "Flap Style",
+        "description": "Lift-the-flap book inspired illustrations. Objects partially hidden behind elements. Peek-a-boo composition — something always hiding, about to be revealed. Interactive feeling.",
+        "prompt_keywords": "lift the flap inspired, partially hidden objects, peek-a-boo composition, hiding and revealing, interactive feel, surprise element, behind the curtain, playful concealment",
+        "color_palette": ["#FF9800", "#4CAF50", "#2196F3", "#F44336", "#FFEB3B", "#FFFFFF"],
+        "best_for": ["baby", "toddler"],
+        "negative": "everything visible, complex scene, dark moody"
+      }
+    ],
+
+    "space": [
+      {
+        "id": "space-cosmic-wonder",
+        "name": "Cosmic Wonder",
+        "description": "Awe-inspiring space vistas. Nebulae, galaxies, planets rendered with artistic beauty. Characters small against the vastness. Carl Sagan's wonder as visual art.",
+        "prompt_keywords": "cosmic space vistas, nebulae galaxies planets, artistic beauty, small characters vast space, Carl Sagan wonder, stellar formations, deep space, astronomical art",
+        "color_palette": ["#1A237E", "#7C4DFF", "#FF6F00", "#00BCD4", "#E8EAF6", "#212121"],
+        "best_for": ["reader", "middle_grade", "young_adult"],
+        "negative": "earth-only, indoor, cartoon silly"
+      }
+    ]
+  }
+}

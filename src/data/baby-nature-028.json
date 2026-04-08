@@ -1,0 +1,176 @@
+{
+  "id": "baby-nature-028",
+  "title": "Bodhi's Sleepy Forest Friends",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "nature",
+    "bedtime"
+  ],
+  "wordCount": 75,
+  "readingLevel": "0.5",
+  "synopsis": "Little Bodhi takes a gentle walk through a peaceful forest at twilight, saying goodnight to all the sleepy animals he meets along the way. Each forest friend makes their own special sleepy sound as they settle down for the night, creating a soothing rhythm that helps Bodhi feel ready for his own bedtime.",
+  "coverImage": "covers/baby-nature-028.webp",
+  "chapters": [
+    {
+      "title": "Sleepy Forest Walk",
+      "pages": [
+        {
+          "text": "Bodhi walks in the quiet forest. Shh, shh, shh go his little feet.",
+          "illustration": {
+            "description": "A sweet toddler boy with warm brown skin and soft black curls walks on a forest path at golden hour. He wears cozy blue pajamas and has gentle brown eyes full of wonder. Tall trees with soft green leaves create dappled light patterns on the ground. The colors are warm peach and gold with gentle shadows.",
+            "alt": "Bodhi walking peacefully through a forest at sunset",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Owl says, 'Hoo, hoo, sleepy time.' Bodhi waves goodnight.",
+          "illustration": {
+            "description": "A fluffy brown owl with large amber eyes perches on a low branch, looking drowsy with half-closed eyes. Bodhi stands below with his small hand raised in a gentle wave, smiling peacefully. The background shows soft purple twilight sky through leafy branches. Everything has rounded, soft edges in watercolor style.",
+            "alt": "Bodhi waving goodnight to a sleepy owl in a tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Bunny says, 'Thump, thump, sleepy time.' Bodhi waves goodnight.",
+          "illustration": {
+            "description": "A plump gray bunny with pink inner ears sits by a mossy tree trunk, tapping one hind foot softly. The bunny's eyes are droopy with sleepiness. Bodhi crouches down at the bunny's level, waving with a gentle smile. Soft lavender flowers dot the forest floor around them.",
+            "alt": "Bodhi saying goodnight to a sleepy bunny by a tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Frog says, 'Ribbit, ribbit, sleepy time.' Bodhi waves goodnight.",
+          "illustration": {
+            "description": "A small green frog sits on a smooth lily pad in a shallow forest pond. The frog's throat is puffed out mid-croak, with sleepy-looking eyes. Bodhi kneels at the pond's edge, his reflection visible in the still water as he waves. Soft reeds and cattails frame the scene in muted greens and blues.",
+            "alt": "Bodhi waving to a sleepy frog on a lily pad",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Cricket says, 'Chirp, chirp, sleepy time.' Bodhi waves goodnight.",
+          "illustration": {
+            "description": "A tiny black cricket perches on a broad green leaf near Bodhi's feet. The cricket's wings are slightly raised as if making music. Bodhi bends down very carefully, his finger extended in a gentle greeting gesture. The scene is lit by soft moonbeams filtering through leaves above.",
+            "alt": "Bodhi gently greeting a chirping cricket on a leaf",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Bear says, 'Snore, snore, sleepy time.' Bodhi waves goodnight.",
+          "illustration": {
+            "description": "A friendly brown bear cub is curled up in a cozy hollow between tree roots, already fast asleep with gentle snoring sounds indicated by small 'Z' symbols. Bodhi stands at a safe distance, blowing a kiss toward the sleeping bear. The scene is bathed in soft moonlight with deep blue and purple shadows.",
+            "alt": "Bodhi quietly saying goodnight to a sleeping bear cub",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "All the forest friends are sleeping. Shh, shh, shh.",
+          "illustration": {
+            "description": "A peaceful forest scene showing all the animal friends settled for sleep - owl tucked into tree hollow, bunny curled in grass, frog on lily pad, cricket on leaf, and bear in den. Bodhi stands in the center of a moonlit clearing, arms spread wide with joy. Silver moonbeams create a magical, dreamy atmosphere.",
+            "alt": "All forest animals sleeping peacefully around Bodhi in moonlight",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Now Bodhi is sleepy too. Goodnight, forest friends!",
+          "illustration": {
+            "description": "Bodhi walks toward a warm, glowing cottage visible through the trees, his steps slow and sleepy. He carries a small stuffed animal and his eyelids are heavy with drowsiness. The cottage windows glow golden yellow, promising warmth and comfort. The forest behind him is peaceful and starlit.",
+            "alt": "Sleepy Bodhi heading home to his cozy cottage",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "nature connection",
+      "gentle sounds",
+      "saying goodnight"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does the owl make?",
+        "choices": [
+          "Hoo, hoo",
+          "Ribbit, ribbit"
+        ],
+        "correctIndex": 0,
+        "explanation": "The owl says 'Hoo, hoo, sleepy time' to Bodhi."
+      },
+      {
+        "id": "q2",
+        "question": "Which animal is sleeping in the den?",
+        "choices": [
+          "Bunny",
+          "Bear"
+        ],
+        "correctIndex": 1,
+        "explanation": "The bear cub is curled up sleeping and snoring in its cozy den."
+      },
+      {
+        "id": "q3",
+        "question": "What does Bodhi do when he sees each animal?",
+        "choices": [
+          "Waves goodnight",
+          "Claps hands"
+        ],
+        "correctIndex": 0,
+        "explanation": "Bodhi waves goodnight to each forest friend he meets."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Complete the Animal Sounds",
+        "text": "Owl says, '___ ___, sleepy time.' Bunny says, '___ ___, sleepy time.'",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "hoo hoo",
+            "distractors": [
+              "chirp chirp",
+              "ribbit ribbit",
+              "snore snore"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "thump thump",
+            "distractors": [
+              "hoo hoo",
+              "chirp chirp",
+              "ribbit ribbit"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "What Does Bodhi Say?",
+        "text": "All the forest friends are sleeping. ___, forest friends!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Goodnight",
+            "distractors": [
+              "Hello",
+              "Good morning",
+              "Wake up"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

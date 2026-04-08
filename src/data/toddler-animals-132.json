@@ -1,0 +1,206 @@
+{
+  "id": "toddler-animals-132",
+  "title": "Rohan and the Lost Baby Bird",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "animals",
+    "adventure"
+  ],
+  "wordCount": 235,
+  "readingLevel": "1.2",
+  "synopsis": "When young Rohan finds a scared baby bird that has fallen from its nest, he feels worried but decides to be brave and help. With the assistance of his diverse neighborhood friends, Rohan learns about kindness and courage as they work together to reunite the little bird with its mama.",
+  "coverImage": "covers/toddler-animals-132.webp",
+  "chapters": [
+    {
+      "title": "A Little Bird Needs Help",
+      "pages": [
+        {
+          "text": "Rohan was playing in his backyard when he heard a tiny sound. \"Peep! Peep!\" He looked around and saw a small baby bird on the ground. The little bird looked scared and sad.",
+          "illustration": {
+            "description": "A young South Asian boy with dark hair and warm brown skin kneels in a sunny backyard, looking concerned at a small yellow baby bird on the green grass. Rohan wears a bright blue t-shirt and red shorts. The background shows a wooden fence, colorful flowers, and a large tree with textured bark like construction paper.",
+            "alt": "Rohan kneeling next to a baby bird in his backyard",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Oh no!\" said Rohan. He felt worried about the baby bird. \"Where is your mama?\" he asked softly. The baby bird just peeped again. Rohan wanted to help, but he didn't know how.",
+          "illustration": {
+            "description": "Close-up of Rohan's expressive face showing worry and concern, with his hands gently cupped near the small bird. His dark eyes are wide with care. The baby bird sits on bright green grass with its tiny wings slightly spread, looking up at Rohan with trust.",
+            "alt": "Rohan looking worried as he talks to the baby bird",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rohan looked up at the tall tree. He could see a nest way up high in the branches. \"That must be your home,\" he told the bird. But the nest was too high for Rohan to reach. He felt sad that he couldn't help right away.",
+          "illustration": {
+            "description": "Rohan standing and looking up at a large tree with bold green leaves and brown textured trunk. High in the branches is a small brown nest. Rohan shades his eyes with his hand, squinting upward. The baby bird sits at his feet on the grass, both looking very small compared to the towering tree.",
+            "alt": "Rohan looking up at a tall tree with a nest in the branches",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Being Brave Together",
+      "pages": [
+        {
+          "text": "Just then, Rohan's neighbor Ms. Chen came outside with her daughter Lily. \"What's wrong, Rohan?\" asked Ms. Chen kindly. Rohan showed them the baby bird. \"We can help!\" said Lily with a happy smile.",
+          "illustration": {
+            "description": "Ms. Chen, an Asian woman with short black hair wearing a yellow cardigan, stands next to her daughter Lily, who has pigtails and wears a pink dress. Rohan points to the baby bird while all three look down at it with caring expressions. The scene is bright and warm with a blue sky background.",
+            "alt": "Ms. Chen and Lily joining Rohan to help the baby bird",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Ms. Chen got a small ladder from her garage. Rohan felt brave now that he had friends to help. Together, they carefully placed the baby bird in a soft towel. Ms. Chen climbed up and gently put the bird back in its nest.",
+          "illustration": {
+            "description": "Ms. Chen on a red ladder reaching toward the tree nest, holding a white towel with the baby bird inside. Rohan and Lily stand below, looking up hopefully with bright, happy expressions. The scene shows teamwork and care, with warm sunlight filtering through the green leaves.",
+            "alt": "Ms. Chen on a ladder returning the baby bird to its nest",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Soon, a mama bird flew to the nest. She was so happy to see her baby! The little bird peeped with joy. Rohan felt proud and happy too. \"We did it!\" he said, clapping his hands. Everyone smiled as they watched the bird family together again.",
+          "illustration": {
+            "description": "A larger brown bird (mama bird) perches on the edge of the nest next to the reunited baby bird. Below, Rohan, Ms. Chen, and Lily all look up with big smiles and raised arms in celebration. The scene is filled with warm golden light and shows pure happiness and accomplishment.",
+            "alt": "Everyone celebrating as the mama bird reunites with her baby",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "helping others",
+      "bravery",
+      "friendship",
+      "kindness"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Rohan feel when he first saw the baby bird?",
+        "choices": [
+          "Happy",
+          "Worried",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Rohan felt worried because the baby bird looked scared and sad, and he wanted to help."
+      },
+      {
+        "id": "q2",
+        "question": "Where was the baby bird's home?",
+        "choices": [
+          "In a box",
+          "In a nest high in the tree",
+          "Under a rock"
+        ],
+        "correctIndex": 1,
+        "explanation": "The baby bird's home was in a nest way up high in the tree branches."
+      },
+      {
+        "id": "q3",
+        "question": "Who helped Rohan save the baby bird?",
+        "choices": [
+          "Ms. Chen and Lily",
+          "His mom and dad",
+          "A firefighter"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ms. Chen and her daughter Lily came to help Rohan return the baby bird to its nest."
+      },
+      {
+        "id": "q4",
+        "question": "How did Rohan feel at the end of the story?",
+        "choices": [
+          "Sad",
+          "Scared",
+          "Happy and proud"
+        ],
+        "correctIndex": 2,
+        "explanation": "Rohan felt happy and proud because they successfully helped the baby bird get back to its mama."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Complete the Story",
+        "text": "Rohan found a baby [BLANK1] on the ground. The bird looked [BLANK2] and needed help. Rohan felt [BLANK3] when his friends came to help him.",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "bird",
+            "distractors": [
+              "cat",
+              "dog",
+              "fish"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "scared",
+            "distractors": [
+              "angry",
+              "silly",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 3,
+            "correctWord": "brave",
+            "distractors": [
+              "sad",
+              "tired",
+              "hungry"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Feelings and Actions",
+        "text": "The baby bird's home was in a [BLANK1] high up in the tree. Ms. Chen used a [BLANK2] to reach it. When the mama bird came back, everyone felt [BLANK3]!",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "nest",
+            "distractors": [
+              "house",
+              "box",
+              "cave"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "ladder",
+            "distractors": [
+              "rope",
+              "chair",
+              "stick"
+            ]
+          },
+          {
+            "wordIndex": 3,
+            "correctWord": "happy",
+            "distractors": [
+              "worried",
+              "scared",
+              "angry"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

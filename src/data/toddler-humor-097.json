@@ -1,0 +1,187 @@
+{
+  "id": "toddler-humor-097",
+  "title": "Esme and the Giggling Cloud",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "humor",
+    "fantasy"
+  ],
+  "wordCount": 180,
+  "readingLevel": "1.2",
+  "synopsis": "When a magical giggling cloud starts making silly sounds in her backyard, curious Esme discovers that the cloud is sad and lonely. Through kindness and friendship, she helps the cloud feel happy again while making a wonderful new friend.",
+  "coverImage": "covers/toddler-humor-097.webp",
+  "chapters": [
+    {
+      "title": "The Giggling Cloud",
+      "pages": [
+        {
+          "text": "Esme was playing in her backyard when she heard a funny sound. \"Hee-hee-hoo!\" giggled something above her head. She looked up and saw a fluffy white cloud with a big smile!",
+          "illustration": {
+            "description": "A young South Asian girl with curly black hair in colorful overalls looks up in wonder at a smiling white cloud in a bright blue sky. The cloud has rosy cheeks and twinkling eyes. The backyard has green grass and rainbow flowers. Bright, cheerful cartoon style with bold primary colors and rounded shapes.",
+            "alt": "Esme looking up at a giggling cloud in her backyard",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Hello!\" called Esme, feeling excited. The cloud giggled louder. \"SNORT-GIGGLE-WHEEZE!\" But then Esme noticed the cloud's smile looked a little wobbly, like it might be sad too.",
+          "illustration": {
+            "description": "The cloud making exaggerated funny faces with puffed cheeks and crossed eyes while making silly sounds. Esme waves enthusiastically with both hands raised. The cloud's smile wavers slightly, showing mixed emotions. Background shows a textured sky with wisps of smaller clouds.",
+            "alt": "The cloud making silly sounds while Esme waves hello",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "A Lonely Friend",
+      "pages": [
+        {
+          "text": "\"Why are you making such funny sounds?\" asked Esme. The cloud stopped giggling and looked sad. \"I'm scared no one wants to be my friend,\" the cloud whispered. \"So I make silly sounds to get attention.\"",
+          "illustration": {
+            "description": "The cloud now has droopy edges and teardrop-shaped eyes, looking genuinely sad. Esme has a concerned, empathetic expression with her hand over her heart. The sky has gentle pastel colors around them, creating a softer, more emotional mood. Construction paper texture visible in the background.",
+            "alt": "The sad cloud talking to concerned Esme",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Esme felt sad for her new friend. \"I want to be your friend!\" she said with a big smile. \"Really?\" asked the cloud, looking hopeful. \"You don't mind my silly sounds?\"",
+          "illustration": {
+            "description": "Esme beaming with joy, arms stretched wide toward the cloud. The cloud shows a mix of hope and surprise with one eyebrow raised and a tentative smile. Warm golden sunlight streams between them, and diverse neighborhood children can be seen playing in the background yards.",
+            "alt": "Esme offering friendship to the hopeful cloud",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Happy Together",
+      "pages": [
+        {
+          "text": "\"I love your silly sounds!\" laughed Esme. \"They make me happy!\" The cloud felt so brave and joyful. Together they made the silliest sounds ever: \"Wobble-bubble-TOOT!\"",
+          "illustration": {
+            "description": "Both Esme and the cloud laughing together with their mouths wide open, making silly sounds. Musical notes and giggle bubbles float around them. The cloud is fluffy and bright white again, and Esme is jumping with joy. Other diverse children in the background are looking up and smiling.",
+            "alt": "Esme and the cloud making silly sounds together happily",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "From that day on, Esme and the cloud were best friends. They played together every day, making everyone in the neighborhood smile with their funny sounds and happy friendship.",
+          "illustration": {
+            "description": "A wide view of the diverse neighborhood with children of different ethnicities playing outside - some African American, Latino, and Asian children pointing up and laughing. Esme dances below while her cloud friend creates rainbow droplets. Houses with colorful doors line the street, and parents smile from porches.",
+            "alt": "The whole neighborhood enjoying Esme and her cloud friend",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "acceptance",
+      "kindness",
+      "loneliness"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Esme feel when she first heard the cloud?",
+        "choices": [
+          "Scared",
+          "Excited",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Esme felt excited when she heard the funny sounds and saw the giggling cloud."
+      },
+      {
+        "id": "q2",
+        "question": "Why was the cloud making silly sounds?",
+        "choices": [
+          "To be mean",
+          "To get attention because it was lonely",
+          "To be loud"
+        ],
+        "correctIndex": 1,
+        "explanation": "The cloud was scared no one wanted to be its friend, so it made silly sounds to get attention."
+      },
+      {
+        "id": "q3",
+        "question": "How did the cloud feel when Esme offered friendship?",
+        "choices": [
+          "Sad",
+          "Hopeful",
+          "Scared"
+        ],
+        "correctIndex": 1,
+        "explanation": "The cloud felt hopeful when Esme said she wanted to be friends."
+      },
+      {
+        "id": "q4",
+        "question": "What happened at the end of the story?",
+        "choices": [
+          "The cloud flew away",
+          "They became best friends",
+          "Esme went inside"
+        ],
+        "correctIndex": 1,
+        "explanation": "Esme and the cloud became best friends and played together every day."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Esme heard a _____ sound from the cloud above her head.",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "funny",
+            "distractors": [
+              "loud",
+              "scary",
+              "quiet"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "The cloud was _____ because it wanted a friend.",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "sad",
+            "distractors": [
+              "angry",
+              "silly",
+              "tired"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Esme and the cloud became _____ friends.",
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "best",
+            "distractors": [
+              "new",
+              "old",
+              "funny"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

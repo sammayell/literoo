@@ -1,0 +1,184 @@
+{
+  "id": "baby-family-117",
+  "title": "Where Is Baby Lily?",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "family",
+    "peek-a-boo"
+  ],
+  "wordCount": 53,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Lily plays peek-a-boo with her loving family members throughout the house, hiding behind colorful objects and giggling with delight as each person finds her with warm embraces and gentle sounds.",
+  "coverImage": "covers/baby-family-117.webp",
+  "chapters": [
+    {
+      "title": "Peek-A-Boo Fun",
+      "pages": [
+        {
+          "text": "Where is baby Lily? Peek-a-boo!",
+          "illustration": {
+            "description": "Baby Lily with warm brown skin and curly black hair peeks out from behind a soft yellow blanket, her bright brown eyes sparkling with joy. She wears a mint green onesie with tiny white polka dots. The nursery background features gentle pastel pink walls with simple white cloud shapes floating above.",
+            "alt": "Baby Lily playing peek-a-boo with a yellow blanket",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama finds Lily! Giggle, giggle!",
+          "illustration": {
+            "description": "A loving mother with medium brown skin and long black hair pulled back in a ponytail gently lifts the yellow blanket to reveal smiling baby Lily. Both are laughing with pure joy, their faces close together. The mother wears a soft lavender sweater, and warm golden sunlight streams through a nearby window.",
+            "alt": "Mama discovering baby Lily during peek-a-boo game",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Where is Lily now? Behind the teddy!",
+          "illustration": {
+            "description": "Baby Lily hides behind a large, fluffy brown teddy bear with a red ribbon bow. Only her tiny feet in white socks are visible peeking out from behind the bear. The scene is set on a soft cream-colored carpet with pastel blue walls and simple white furniture in the background.",
+            "alt": "Baby Lily hiding behind a brown teddy bear",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Papa finds her! Tickle, tickle!",
+          "illustration": {
+            "description": "A gentle father with light brown skin and short black hair playfully tickles baby Lily as she squeals with delight. He wears a soft blue button-up shirt and has a warm smile. Baby Lily is giggling with her arms outstretched, and the teddy bear sits nearby watching the joyful interaction.",
+            "alt": "Papa tickling baby Lily after finding her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Now Lily hides! Under the table, shh!",
+          "illustration": {
+            "description": "Baby Lily crawls under a low wooden coffee table with rounded edges, putting her finger to her lips in a 'shh' gesture. Her eyes are bright with mischief and excitement. The living room has warm beige walls and a soft orange area rug with simple geometric patterns.",
+            "alt": "Baby Lily hiding under a coffee table",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Big sister finds Lily! Clap, clap!",
+          "illustration": {
+            "description": "An older sister with dark skin and natural hair in two puff buns discovers baby Lily under the table. The sister, about 4 years old, wears a bright coral dress and claps her hands with excitement. Both children are beaming with happiness, and colorful building blocks are scattered on the floor around them.",
+            "alt": "Big sister finding and clapping for baby Lily",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Behind the pillow! Where could she be?",
+          "illustration": {
+            "description": "A large, fluffy white pillow with soft pink trim sits on a comfortable sofa. Baby Lily's curly hair just barely peeks out from behind it, creating suspense in the peek-a-boo game. The sofa is sage green with gentle texture, and the background shows warm cream walls with simple framed family photos.",
+            "alt": "Baby Lily hiding behind a white and pink pillow",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Grandma finds Lily! Kiss, kiss, hug!",
+          "illustration": {
+            "description": "A loving grandmother with silver-gray hair in a neat bun and warm dark skin holds baby Lily close, giving her gentle kisses on both cheeks. Grandma wears a soft peach cardigan, and both have expressions of pure love and contentment. The background is softly blurred with warm golden tones suggesting a cozy living space.",
+            "alt": "Grandma hugging and kissing baby Lily",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Lily loves peek-a-boo! Family fun!",
+          "illustration": {
+            "description": "All the family members - Mama, Papa, big sister, and Grandma - sit in a cozy circle on the soft carpet with baby Lily in the center, all laughing and playing together. Everyone has their hands partially covering their faces in a group peek-a-boo gesture. The room glows with warm, golden light and radiates love and togetherness.",
+            "alt": "Whole family playing peek-a-boo together with baby Lily",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "peek-a-boo games",
+      "love and affection",
+      "interactive play"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color is baby Lily's blanket?",
+        "choices": [
+          "Yellow",
+          "Blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "Baby Lily plays peek-a-boo with a soft yellow blanket at the beginning of the story."
+      },
+      {
+        "id": "q2",
+        "question": "Who tickles baby Lily?",
+        "choices": [
+          "Papa",
+          "Mama"
+        ],
+        "correctIndex": 0,
+        "explanation": "Papa finds baby Lily behind the teddy bear and gives her tickles."
+      },
+      {
+        "id": "q3",
+        "question": "What does the teddy bear have?",
+        "choices": [
+          "A red bow",
+          "A blue hat"
+        ],
+        "correctIndex": 0,
+        "explanation": "The fluffy brown teddy bear that Lily hides behind has a red ribbon bow."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Fun Words!",
+        "text": "Where is baby ___? Peek-a-___!",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "Lily",
+            "distractors": [
+              "Mama",
+              "Papa",
+              "Bear"
+            ]
+          },
+          {
+            "wordIndex": 5,
+            "correctWord": "boo",
+            "distractors": [
+              "bye",
+              "hi",
+              "go"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Complete the Sounds!",
+        "text": "Papa finds her! ___, ___!",
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "Tickle",
+            "distractors": [
+              "Giggle",
+              "Clap",
+              "Kiss"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

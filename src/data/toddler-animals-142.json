@@ -1,0 +1,202 @@
+{
+  "id": "toddler-animals-142",
+  "title": "Elio and the Lost Baby Bird",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "animals",
+    "adventure"
+  ],
+  "wordCount": 231,
+  "readingLevel": "1.2",
+  "synopsis": "When young Elio discovers a scared baby bird that has fallen from its nest, he embarks on a brave adventure through the garden to help his new feathered friend find its way home, learning about kindness and courage along the way.",
+  "coverImage": "covers/toddler-animals-142.webp",
+  "chapters": [
+    {
+      "title": "A Little Bird Needs Help",
+      "pages": [
+        {
+          "text": "Elio was playing in his backyard when he heard a tiny peep. He looked around the colorful flowers and found a small yellow bird sitting on the ground. The baby bird looked scared and sad.",
+          "illustration": {
+            "description": "A cheerful Latino boy with dark curly hair wearing a bright red t-shirt and blue shorts kneels in a lush garden. He's looking curiously at a tiny yellow canary chick sitting among purple and pink flowers. The garden has green grass and a wooden fence in the background. Elio has kind brown eyes and an interested expression.",
+            "alt": "Elio discovering the baby bird in the garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Don't be scared, little bird,\" Elio said softly. \"I want to help you.\" The bird chirped quietly and looked up at Elio with big, round eyes. Elio felt brave and happy that he could help his new friend.",
+          "illustration": {
+            "description": "Close-up view of Elio gently extending his small hand toward the yellow baby bird. His face shows a warm, reassuring smile and his eyes are full of kindness. The bird appears slightly less frightened, with its head tilted up toward Elio. Soft green leaves frame the scene with dappled sunlight creating a peaceful mood.",
+            "alt": "Elio comforting the scared baby bird",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Looking for Home",
+      "pages": [
+        {
+          "text": "Elio looked up at the tall oak tree. \"Your nest must be up there,\" he said. But the tree was too high to climb! Elio felt worried. How could he help the baby bird get home?",
+          "illustration": {
+            "description": "Elio stands at the base of a massive oak tree, looking up with a concerned expression. The baby yellow bird sits on his shoulder. The tree trunk is brown and textured, with thick branches reaching high into a blue sky dotted with white clouds. Green leaves create shadows on the ground, and the perspective emphasizes how tall and challenging the tree appears.",
+            "alt": "Elio and the bird looking up at the tall tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Just then, Elio's neighbor Mrs. Chen walked over with her black cat, Whiskers, and her daughter Zara. \"What's wrong, Elio?\" asked Mrs. Chen kindly. Elio explained about the lost baby bird, and he felt hopeful when he saw their friendly faces.",
+          "illustration": {
+            "description": "A friendly Asian woman with gray hair in a colorful floral blouse stands next to a young girl with pigtails wearing a yellow dress. A fluffy black cat sits calmly beside them. Elio holds the baby bird carefully in his cupped hands. All the characters have warm, caring expressions, and the garden setting shows diverse flowers and plants around them.",
+            "alt": "Mrs. Chen, Zara, and Whiskers meeting Elio and the bird",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Working Together",
+      "pages": [
+        {
+          "text": "\"I have an idea!\" said Mrs. Chen. She brought a long ladder from her garage. Elio felt excited and brave as he watched her set it up against the tree. \"We can help your little friend get home,\" she smiled.",
+          "illustration": {
+            "description": "Mrs. Chen carefully positions a red ladder against the oak tree while Elio and Zara watch with excited expressions. The baby bird perches safely in Elio's hands. Whiskers the cat sits nearby, observing calmly. The scene shows teamwork and community spirit with bright, encouraging colors and everyone working together in the sunny garden.",
+            "alt": "Mrs. Chen setting up the ladder to help",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mrs. Chen climbed up carefully and placed the happy baby bird back in its cozy nest. The little bird chirped joyfully and snuggled with its family. Elio felt so happy and proud that he had helped his new friend find home.",
+          "illustration": {
+            "description": "A bird's nest high in the oak tree contains the reunited yellow baby bird with two adult birds, all chirping happily. Below, Elio claps his hands with joy, his face beaming with happiness and pride. Mrs. Chen is climbing down the ladder with a satisfied smile, while Zara and Whiskers watch the heartwarming reunion. Warm golden sunlight filters through the green leaves.",
+            "alt": "The baby bird happily reunited with its family",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "helping others",
+      "bravery",
+      "community",
+      "problem-solving"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Elio feel when he first found the baby bird?",
+        "choices": [
+          "Angry",
+          "Happy and brave",
+          "Sleepy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Elio felt happy that he could help and brave enough to approach the scared little bird."
+      },
+      {
+        "id": "q2",
+        "question": "Why couldn't Elio climb the tree?",
+        "choices": [
+          "It was too tall",
+          "It was raining",
+          "He was scared"
+        ],
+        "correctIndex": 0,
+        "explanation": "The oak tree was too high for little Elio to climb by himself."
+      },
+      {
+        "id": "q3",
+        "question": "Who helped Elio solve the problem?",
+        "choices": [
+          "His teacher",
+          "Mrs. Chen and her family",
+          "A firefighter"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mrs. Chen, her daughter Zara, and their cat Whiskers all helped Elio return the bird to its nest."
+      },
+      {
+        "id": "q4",
+        "question": "How did everyone feel at the end of the story?",
+        "choices": [
+          "Sad and worried",
+          "Happy and proud",
+          "Tired and grumpy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Everyone felt happy that the baby bird was safely back home with its family, and Elio felt proud that he had helped."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words - Page 1",
+        "text": "Elio found a small yellow _____ in his garden. The baby bird looked _____ and needed help getting back to its _____.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "bird",
+            "distractors": [
+              "cat",
+              "flower",
+              "toy"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "scared",
+            "distractors": [
+              "hungry",
+              "big",
+              "red"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "nest",
+            "distractors": [
+              "house",
+              "car",
+              "school"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Fill in the Missing Words - Page 2",
+        "text": "Mrs. Chen brought a _____ to help reach the tall tree. Elio felt _____ when they worked together to help the little bird find its family.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "ladder",
+            "distractors": [
+              "rope",
+              "chair",
+              "stick"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "happy",
+            "distractors": [
+              "angry",
+              "sleepy",
+              "cold"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "id": "toddler-fantasy-170",
+  "title": "Ezra and the Magic Rainbow Bridge",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "fantasy",
+    "friendship"
+  ],
+  "wordCount": 255,
+  "readingLevel": "1.2",
+  "synopsis": "When Ezra's new friend Luna the unicorn loses her sparkle and feels very sad, brave Ezra helps her find the magic rainbow bridge that will make her shine bright again. Together they discover that friendship and kindness can solve any problem.",
+  "coverImage": "covers/toddler-fantasy-170.webp",
+  "chapters": [
+    {
+      "title": "Luna Loses Her Sparkle",
+      "pages": [
+        {
+          "text": "Ezra was playing in his backyard when he heard soft crying. Behind the big oak tree sat a beautiful white unicorn with a silver horn. But something was wrong - she wasn't sparkling like unicorns should!",
+          "illustration": {
+            "description": "A young Black boy with curly hair wearing a bright blue t-shirt and red shorts stands near a large green oak tree. A sad white unicorn with a silver horn sits behind the tree, looking dull without her usual sparkle. The backyard has green grass and colorful flowers. Bright cartoon style with expressive faces.",
+            "alt": "Ezra discovers Luna the unicorn crying behind a tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Hello,\" said Ezra gently. \"I'm Ezra. Why are you so sad?\" The unicorn looked up with big purple eyes full of tears. \"I'm Luna,\" she whispered. \"I lost my magic sparkle and now I can't fly or make rainbows. I feel scared and alone.\"",
+          "illustration": {
+            "description": "Close-up of Ezra kneeling down next to Luna the unicorn, both facing each other. Ezra has a kind, concerned expression while Luna looks sad with purple teary eyes. The background shows soft green grass and purple flowers. Warm, comforting colors in bright cartoon style.",
+            "alt": "Ezra talking gently to sad Luna the unicorn",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Ezra felt sad for his new friend. He wanted to help Luna feel happy again. \"Don't worry, Luna,\" he said bravely. \"We can find your sparkle together! I'll be your friend and help you.\" Luna's ears perked up a little bit.",
+          "illustration": {
+            "description": "Ezra stands with his hands on his hips in a brave pose, smiling confidently at Luna. Luna's ears are slightly raised showing hope. Behind them, other diverse children can be seen playing in the distance - an Asian girl on swings and a Hispanic boy with a ball. Bright primary colors and cheerful cartoon style.",
+            "alt": "Brave Ezra promising to help Luna find her sparkle",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Finding the Rainbow Bridge",
+      "pages": [
+        {
+          "text": "Ezra remembered a story his grandma told him about a magic rainbow bridge. \"My grandma says rainbow bridges appear after rain to help magical creatures!\" he said excitedly. Just then, it started to sprinkle, and Ezra felt happy because he knew this would help.",
+          "illustration": {
+            "description": "Ezra points up at the sky with excitement while gentle rain drops fall around him and Luna. The sky shows gray rain clouds with hints of colorful light. Luna looks more hopeful now. The scene has a magical feeling with soft raindrops and emerging light. Bright cartoon style with expressive faces.",
+            "alt": "Ezra and Luna in the gentle rain looking hopeful",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "After the rain stopped, a beautiful rainbow appeared in the sky! \"Look, Luna!\" shouted Ezra. The rainbow touched the ground near them, making a shimmering bridge of red, orange, yellow, green, blue, and purple light. Luna gasped with joy.",
+          "illustration": {
+            "description": "A magnificent rainbow bridge stretches across the page in bold primary colors, touching the ground near Ezra and Luna. Both characters look amazed and happy, with Luna's eyes wide with wonder. The background shows a sunny sky after rain with puffy white clouds. Bright, magical cartoon style.",
+            "alt": "The magical rainbow bridge appears before Ezra and Luna",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Luna stepped onto the rainbow bridge, and suddenly she began to sparkle all over! Her white coat shimmered, her horn gleamed, and her eyes twinkled with magic. \"Thank you, Ezra!\" she said happily. \"You were so brave and kind. Now we can be best friends forever!\" Ezra felt very happy too.",
+          "illustration": {
+            "description": "Luna stands on the rainbow bridge, now sparkling brilliantly all over with magical glitter. Ezra claps his hands with joy below. Luna's coat shines with rainbow colors and her horn gleams silver. Both characters have huge happy smiles. The scene radiates joy and friendship with bright, celebratory colors in cartoon style.",
+            "alt": "Luna gets her sparkle back while Ezra celebrates happily",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "helping others",
+      "bravery",
+      "problem-solving",
+      "magic"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Luna the unicorn feel at the beginning of the story?",
+        "choices": [
+          "Happy and excited",
+          "Sad and scared",
+          "Angry and mad"
+        ],
+        "correctIndex": 1,
+        "explanation": "Luna felt sad because she lost her sparkle, and she felt scared because she couldn't fly or make rainbows anymore."
+      },
+      {
+        "id": "q2",
+        "question": "What did Ezra do when he found Luna crying?",
+        "choices": [
+          "He ran away",
+          "He was kind and wanted to help",
+          "He laughed at her"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ezra was gentle and kind to Luna. He wanted to help her find her sparkle and be her friend."
+      },
+      {
+        "id": "q3",
+        "question": "What appeared in the sky after the rain?",
+        "choices": [
+          "A big storm",
+          "A rainbow bridge",
+          "More dark clouds"
+        ],
+        "correctIndex": 1,
+        "explanation": "After the rain stopped, a beautiful rainbow bridge appeared that helped Luna get her magic sparkle back."
+      },
+      {
+        "id": "q4",
+        "question": "How did Luna and Ezra feel at the end of the story?",
+        "choices": [
+          "Sad and worried",
+          "Happy and excited",
+          "Tired and sleepy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Both Luna and Ezra felt very happy at the end because Luna got her sparkle back and they became best friends."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Complete the Story",
+        "text": "Help finish this sentence: Ezra was very _____ when he helped Luna find her magic sparkle.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "brave",
+            "distractors": [
+              "sleepy",
+              "hungry"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "What Comes Next?",
+        "text": "After the rain stopped, a beautiful _____ appeared in the sky to help Luna.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "rainbow",
+            "distractors": [
+              "airplane",
+              "butterfly"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Feeling Words",
+        "text": "At the beginning Luna felt _____, but at the end she felt _____.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "sad",
+            "distractors": [
+              "happy",
+              "silly"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "happy",
+            "distractors": [
+              "scared",
+              "angry"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

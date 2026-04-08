@@ -1,0 +1,201 @@
+{
+  "id": "toddler-family-104",
+  "title": "Ravi's Big Helper Day",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "family",
+    "humor"
+  ],
+  "wordCount": 205,
+  "readingLevel": "1.2",
+  "synopsis": "When little Ravi wants to help Mama cook dinner but makes a big mess instead, he learns that the best helpers clean up their mistakes and that family love means working together, even when things get messy.",
+  "coverImage": "covers/toddler-family-104.webp",
+  "chapters": [
+    {
+      "title": "Ravi Wants to Help",
+      "pages": [
+        {
+          "text": "Ravi was feeling very happy today. He wanted to help Mama cook dinner in the kitchen. \"I'm a big helper!\" said Ravi with a big smile.",
+          "illustration": {
+            "description": "A cheerful young Indian boy with dark hair and bright brown eyes, wearing a colorful striped shirt, standing in a warm kitchen with yellow walls. His mother, a woman with long black hair in a ponytail wearing an apron, is smiling at him. The kitchen has wooden cabinets and colorful pots hanging on the wall.",
+            "alt": "Ravi standing happily in the kitchen with his mother",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Mama was making rice and curry. She gave Ravi a small wooden spoon. \"You can help stir,\" she said. Ravi felt so proud and brave to have an important job.",
+          "illustration": {
+            "description": "Ravi holding a wooden spoon with both hands, looking very concentrated and proud. His mother stands beside him at the stove with two pots - one with fluffy white rice and another with golden curry. Steam rises gently from both pots, creating a cozy cooking scene with warm orange and yellow tones.",
+            "alt": "Ravi proudly holding a wooden spoon while helping cook",
+            "layout": "full"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Oops! A Big Mess",
+      "pages": [
+        {
+          "text": "Ravi stirred the rice very fast. Stir, stir, stir! But then - SPLASH! Rice flew everywhere. It was on the floor, on the counter, and even on Ravi's nose!",
+          "illustration": {
+            "description": "Rice grains scattered everywhere in the kitchen, with some stuck to Ravi's surprised face and hair. His eyes are wide with shock and his mouth is open in an 'oh no' expression. Rice covers the blue countertop and checkered floor. The scene shows motion lines and scattered white rice grains against the colorful kitchen backdrop.",
+            "alt": "Rice scattered everywhere with Ravi looking surprised",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Ravi looked at the big mess. He felt scared and sad. \"I'm sorry, Mama,\" he said quietly. \"I wanted to be a good helper, but I made everything messy.\"",
+          "illustration": {
+            "description": "Ravi with a sad expression, his shoulders slumped and eyes looking down at the messy floor. His mother kneels beside him with a gentle, understanding smile, one hand reaching out to comfort him. The kitchen mess surrounds them, but her expression shows love and patience, not anger.",
+            "alt": "Sad Ravi apologizing to his understanding mother",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "Mama gave Ravi a big hug. \"It's okay, my brave little helper,\" she said with a warm smile. \"Good helpers clean up their messes. Let's do it together!\"",
+          "illustration": {
+            "description": "A warm hug between mother and son, with Mama's arms wrapped around Ravi. Both have gentle, loving expressions. Ravi's face shows relief and happiness returning. The background is soft and warm with golden light, emphasizing the loving bond between them despite the messy kitchen around them.",
+            "alt": "Mother and son sharing a comforting hug",
+            "layout": "full"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Cleaning Up Together",
+      "pages": [
+        {
+          "text": "Ravi and Mama picked up every grain of rice. Ravi used a small dustpan while Mama swept with the big broom. Working together made Ravi feel happy and proud again.",
+          "illustration": {
+            "description": "Ravi crouched down with a tiny blue dustpan, carefully collecting rice grains with focused determination. His mother sweeps nearby with a brown broom, both working as a team. Their expressions show teamwork and cooperation. The kitchen is gradually becoming clean, with most rice gathered into neat piles.",
+            "alt": "Ravi and Mama working together to clean up the rice",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "When the kitchen was clean, they finished cooking together. Papa came home and they all enjoyed the delicious dinner. \"You're the best helper in our family,\" said Papa, making Ravi beam with joy.",
+          "illustration": {
+            "description": "The family of three sitting around a wooden dining table, sharing bowls of rice and golden curry. Ravi sits between his parents, grinning widely with pride. Papa, a man with glasses and a beard, is ruffling Ravi's hair affectionately. The scene is warm and cozy with soft lighting and happy expressions all around.",
+            "alt": "Happy family enjoying dinner together at the table",
+            "layout": "full"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "helping family",
+      "learning from mistakes",
+      "teamwork",
+      "responsibility"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Ravi feel when he wanted to help Mama cook?",
+        "choices": [
+          "Sad and scared",
+          "Happy and proud",
+          "Angry and upset"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ravi felt happy and proud because he wanted to be Mama's big helper in the kitchen."
+      },
+      {
+        "id": "q2",
+        "question": "What happened when Ravi stirred the rice too fast?",
+        "choices": [
+          "The rice got burned",
+          "Rice flew everywhere",
+          "Nothing happened"
+        ],
+        "correctIndex": 1,
+        "explanation": "When Ravi stirred too fast, rice splashed and flew all over the kitchen, making a big mess."
+      },
+      {
+        "id": "q3",
+        "question": "How did Ravi feel after making the mess?",
+        "choices": [
+          "Happy and excited",
+          "Scared and sad",
+          "Proud and brave"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ravi felt scared and sad because he made a big mess and thought he wasn't a good helper."
+      },
+      {
+        "id": "q4",
+        "question": "What did Mama say good helpers do?",
+        "choices": [
+          "Make more messes",
+          "Clean up their messes",
+          "Run away"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mama taught Ravi that good helpers clean up their messes, and they did it together as a team."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words - Page 1",
+        "text": "Ravi was feeling very _____ today. He wanted to help Mama cook dinner in the kitchen. Mama gave him a small wooden _____ to stir the rice.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "happy",
+            "distractors": [
+              "sad",
+              "angry",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "spoon",
+            "distractors": [
+              "fork",
+              "plate",
+              "cup"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Fill in the Missing Words - Page 2",
+        "text": "When Ravi made a mess, he felt _____ and sad. But Mama gave him a big _____ and said good helpers clean up together.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "excited",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "hug",
+            "distractors": [
+              "book",
+              "toy",
+              "snack"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

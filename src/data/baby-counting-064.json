@@ -1,0 +1,165 @@
+{
+  "id": "baby-counting-064",
+  "title": "Noah Counts Hugs",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "counting",
+    "family"
+  ],
+  "wordCount": 53,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Noah discovers the joy of counting through warm family hugs, from one hug with Mama to five hugs with his whole loving family, creating a soothing bedtime routine filled with love and gentle sounds.",
+  "coverImage": "covers/baby-counting-064.webp",
+  "chapters": [
+    {
+      "title": "Counting Hugs with Noah",
+      "pages": [
+        {
+          "text": "One hug, squeeze! Noah hugs Mama.",
+          "illustration": {
+            "description": "A cheerful Black toddler boy with curly hair wearing soft blue pajamas embraces his mama, a warm-skinned woman with natural hair in a cozy yellow sweater. They're in a softly lit nursery with pastel walls. Noah's face shows pure joy with bright eyes and a big smile. The scene radiates warmth with gentle golden lighting.",
+            "alt": "Noah giving his mama a big hug",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Two hugs, mmmm! Mama and Papa hug Noah.",
+          "illustration": {
+            "description": "Noah nestled between his parents in a group hug. Papa is a tall man with brown skin and a gentle beard wearing a soft green shirt. All three faces show contentment with closed eyes and peaceful smiles. The background shows a living room with warm coral and peach tones. Soft afternoon light streams through a window.",
+            "alt": "Noah getting hugs from both parents",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Three hugs, ahh! Grandma joins the hug.",
+          "illustration": {
+            "description": "An elderly Asian woman with silver hair in a lavender cardigan adds to the family embrace. Her weathered hands gently wrap around the group. All four family members have serene expressions. The setting is the same cozy living room with added warm purple and pink hues. A soft throw blanket drapes nearby.",
+            "alt": "Grandma joining the family hug",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Four hugs, ooh! Big sister Sophie hugs too.",
+          "illustration": {
+            "description": "A 4-year-old girl with honey-colored skin and braided hair in a bright pink dress squeezes into the family huddle. Sophie's face beams with excitement, eyes sparkling. The group hug now includes five people in various pastel colors. The background shows family photos on cream-colored walls with soft natural lighting.",
+            "alt": "Big sister Sophie joining the family hug",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Five hugs, wow! Everyone hugs Noah.",
+          "illustration": {
+            "description": "The complete family of five in a joyful group embrace with Noah at the center, surrounded by love. Each face shows pure happiness with bright smiles and twinkling eyes. The composition forms a warm circle of bodies in soft pastels - blues, pinks, yellows, and greens. Golden hour lighting makes everything glow with warmth and comfort.",
+            "alt": "The whole family hugging Noah",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Hugs everywhere! Noah feels so loved.",
+          "illustration": {
+            "description": "Noah sits contentedly in the center of his family circle, arms outstretched with a radiant smile. Heart shapes float gently in the air around them in soft pink and lavender tones. The family members all have their arms reaching toward Noah with loving expressions. The room glows with warm, dreamy light creating a magical atmosphere.",
+            "alt": "Noah surrounded by his loving family",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Sweet dreams, Noah. Shh, shh, shh.",
+          "illustration": {
+            "description": "Noah peacefully sleeping in his crib, covered by a soft rainbow-colored blanket. His parents stand nearby watching him with gentle smiles, Mama's hand resting on Papa's arm. The nursery is dimly lit with a small nightlight casting soft stars on the wall. Everything is rendered in soothing blues and purples with touches of warm yellow light.",
+            "alt": "Noah sleeping peacefully while parents watch",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "One, two, three, four, five... zzz.",
+          "illustration": {
+            "description": "A dreamy illustration of sleeping Noah with thought bubbles above showing his family's faces in soft, cloud-like circles numbered 1 through 5. Each family member's face glows gently in the dream clouds. Noah's expression is serene with a slight smile. The scene uses very soft pastels with lots of white space and ethereal, floating elements.",
+            "alt": "Noah dreaming about counting his family",
+            "layout": "full_page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family love",
+      "counting",
+      "bedtime routine",
+      "security"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Who gives Noah the first hug?",
+        "choices": [
+          "Mama",
+          "Papa"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama gives Noah the very first hug in the story!"
+      },
+      {
+        "id": "q2",
+        "question": "How many people hug Noah at the end?",
+        "choices": [
+          "Three people",
+          "Five people"
+        ],
+        "correctIndex": 1,
+        "explanation": "Five people hug Noah: Mama, Papa, Grandma, Sophie, and Noah makes five!"
+      },
+      {
+        "id": "q3",
+        "question": "What sound does the story make when Noah goes to sleep?",
+        "choices": [
+          "Shh, shh, shh",
+          "Zzz, zzz, zzz"
+        ],
+        "correctIndex": 0,
+        "explanation": "The story makes 'Shh, shh, shh' sounds to help Noah fall asleep peacefully."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "One hug, squeeze! Noah hugs ____.",
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "Mama",
+            "distractors": [
+              "Papa",
+              "Sophie",
+              "Grandma"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "____ hugs, wow! Everyone hugs Noah.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Five",
+            "distractors": [
+              "Three",
+              "Two",
+              "Four"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

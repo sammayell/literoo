@@ -1,0 +1,193 @@
+{
+  "id": "toddler-school-119",
+  "title": "Aiko and the Shy Bunny",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "school",
+    "animals"
+  ],
+  "wordCount": 225,
+  "readingLevel": "1.2",
+  "synopsis": "When Aiko finds a scared bunny hiding in her school garden, she uses kindness and patience to help the little animal feel safe and happy, learning about being gentle with frightened friends.",
+  "coverImage": "covers/toddler-school-119.webp",
+  "chapters": [
+    {
+      "title": "A Friend in the Garden",
+      "pages": [
+        {
+          "text": "Aiko loved playing in her school garden. The flowers were bright yellow and red, and the vegetables grew in neat rows. Today, something moved behind the big green leaves. \"What could that be?\" Aiko wondered, feeling curious and excited.",
+          "illustration": {
+            "description": "A cheerful Japanese girl with short black hair in colorful overalls kneels in a vibrant school garden with yellow sunflowers and red tomatoes. Her dark eyes sparkle with curiosity as she peers toward some leafy green plants. The garden has raised wooden beds and a bright blue sky background.",
+            "alt": "Aiko exploring the colorful school garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Behind the lettuce leaves sat a small gray bunny. The bunny's ears were flat against his head, and his little body was shaking. Aiko could see that the bunny felt very scared. \"Oh no,\" whispered Aiko softly. \"You look so frightened, little friend.\"",
+          "illustration": {
+            "description": "A small gray bunny with drooping ears huddles behind bright green lettuce leaves, his round black eyes wide with fear. Aiko's gentle face appears at the edge of the scene, her expression showing concern and kindness. The textured garden setting has warm earth tones.",
+            "alt": "A scared bunny hiding behind lettuce leaves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Aiko sat down quietly and spoke in her gentlest voice. \"Hello, little bunny. I won't hurt you. Would you like to be friends?\" She reached into her lunch box and found a piece of carrot. Very slowly, she placed it near the bunny and waited patiently.",
+          "illustration": {
+            "description": "Aiko sits cross-legged on the ground with a warm, patient smile, holding out a bright orange carrot piece. The bunny peeks out from the lettuce, still nervous but curious. Aiko's lunch box with colorful containers sits nearby on the textured garden path.",
+            "alt": "Aiko offering food to the nervous bunny",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The bunny sniffed the air. Slowly, very slowly, he hopped closer to the carrot. His ears stood up a little bit. After a few tiny bites, the bunny looked at Aiko with less fear in his eyes. \"You're feeling a little better now,\" Aiko said happily.",
+          "illustration": {
+            "description": "The gray bunny cautiously nibbles the orange carrot, his ears perked up slightly and his posture more relaxed. Aiko watches with a gentle, encouraging smile. Warm golden sunlight filters through the garden, creating a peaceful, safe atmosphere with soft shadows.",
+            "alt": "The bunny beginning to trust Aiko",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Soon the bunny finished the whole carrot piece and hopped even closer to Aiko. His ears were up and his tail wiggled. \"You're not scared anymore!\" Aiko laughed with joy. \"You feel brave and happy now.\" The bunny seemed to smile as he played around Aiko's feet in the sunny garden.",
+          "illustration": {
+            "description": "A joyful scene showing Aiko giggling as the now-confident gray bunny hops playfully around her feet. His ears are fully upright and his fluffy tail wiggles with happiness. Both characters radiate joy and friendship in the bright, colorful garden setting with dancing shadows.",
+            "alt": "Aiko and the bunny playing happily together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "kindness",
+      "patience",
+      "overcoming fear",
+      "friendship"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did the bunny feel when Aiko first saw him?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Sleepy"
+        ],
+        "correctIndex": 1,
+        "explanation": "The bunny was scared - his ears were flat and his body was shaking."
+      },
+      {
+        "id": "q2",
+        "question": "What did Aiko give to the bunny?",
+        "choices": [
+          "An apple",
+          "A carrot",
+          "Some water"
+        ],
+        "correctIndex": 1,
+        "explanation": "Aiko gave the bunny a piece of carrot from her lunch box."
+      },
+      {
+        "id": "q3",
+        "question": "How did Aiko act around the scared bunny?",
+        "choices": [
+          "Loud and fast",
+          "Gentle and patient",
+          "Angry and mean"
+        ],
+        "correctIndex": 1,
+        "explanation": "Aiko was gentle and patient, speaking softly and moving slowly to help the bunny feel safe."
+      },
+      {
+        "id": "q4",
+        "question": "How did the bunny feel at the end?",
+        "choices": [
+          "Still scared",
+          "Happy and brave",
+          "Very tired"
+        ],
+        "correctIndex": 1,
+        "explanation": "By the end, the bunny felt happy and brave, with his ears up and tail wiggling."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Feelings",
+        "text": "The bunny felt very _____ when Aiko first found him. But Aiko was _____ and patient. Soon the bunny felt _____ and happy!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "scared",
+            "distractors": [
+              "hungry",
+              "sleepy",
+              "cold"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "gentle",
+            "distractors": [
+              "loud",
+              "fast",
+              "big"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "brave",
+            "distractors": [
+              "sad",
+              "angry",
+              "tired"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "What Happened?",
+        "text": "Aiko found a bunny in the school _____. She gave him a piece of _____. The bunny learned to _____ Aiko.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "garden",
+            "distractors": [
+              "house",
+              "car",
+              "room"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "carrot",
+            "distractors": [
+              "cake",
+              "cookie",
+              "banana"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "trust",
+            "distractors": [
+              "run",
+              "hide",
+              "cry"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

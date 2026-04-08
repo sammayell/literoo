@@ -1,0 +1,165 @@
+{
+  "id": "baby-bedtime-141",
+  "title": "Rio's Sleepy Stars",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "bedtime",
+    "counting"
+  ],
+  "wordCount": 56,
+  "readingLevel": "0.5",
+  "synopsis": "Rio counts twinkling stars from her bedroom window as bedtime approaches, with each star bringing her closer to sweet dreams in this gentle counting and bedtime story.",
+  "coverImage": "covers/baby-bedtime-141.webp",
+  "chapters": [
+    {
+      "title": "Counting Stars to Sleep",
+      "pages": [
+        {
+          "text": "Rio sees one bright star. Twinkle, twinkle!",
+          "illustration": {
+            "description": "Rio, a young Latina girl with curly dark hair and warm brown eyes, sits by a large bedroom window at dusk. She wears soft lavender pajamas and points excitedly at one golden star visible in the deepening purple sky. Her room has warm yellow lighting from a bedside lamp.",
+            "alt": "Rio pointing at one star through her bedroom window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Two stars shimmer and shine. Sparkle, sparkle!",
+          "illustration": {
+            "description": "Rio presses her small hands against the window glass, her eyes wide with wonder as two glittering stars appear in the navy blue sky. The stars emit soft golden rays. Rio's reflection shows faintly in the window, and stuffed animals sit on her windowsill.",
+            "alt": "Rio looking at two twinkling stars in the night sky",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Three little stars dance above. Glitter, glitter!",
+          "illustration": {
+            "description": "The view shows Rio's silhouette against the window as three cheerful stars seem to dance and sway in the starry sky. The stars have gentle faces with sleepy expressions. Rio's bedroom is bathed in soft moonlight, creating a peaceful atmosphere with pastel blue and silver tones.",
+            "alt": "Three dancing stars with faces in the night sky above Rio",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Four sleepy stars yawn wide. Yaaaawn!",
+          "illustration": {
+            "description": "Four drowsy stars with tiny mouths open in yawns float in the deep blue sky. Rio rubs her eyes sleepily, mimicking the stars. Her curly hair is slightly mussed and she leans against the windowframe. The room is dimmer now, with soft purple and blue hues dominating.",
+            "alt": "Four yawning stars and sleepy Rio rubbing her eyes",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Five gentle stars whisper, 'Shhhh, shhhh.'",
+          "illustration": {
+            "description": "Five stars arranged in a peaceful arc across the sky, each with a finger pressed to tiny lips in a shushing gesture. Rio sits quietly on a soft cushion by the window, her eyes growing heavy. The color palette shifts to soothing lavender and pale yellow tones.",
+            "alt": "Five stars making shushing gestures while Rio sits quietly",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Six cozy stars hum softly. Mmmmm, mmmmm.",
+          "illustration": {
+            "description": "Six stars glow warmly like tiny night lights, with musical notes floating around them. Rio's head tilts against the window as she listens to their gentle humming. Her parents, a Latina mother and father, peek lovingly through the doorway behind her, smiling at the peaceful scene.",
+            "alt": "Six humming stars with musical notes while Rio's parents watch from the doorway",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Seven dreamy stars close their eyes. Sweet dreams!",
+          "illustration": {
+            "description": "Seven stars with peaceful, closed eyes drift across the midnight blue sky like sleepy guardians. Rio's mother, with long dark hair and kind brown eyes, gently lifts Rio from the window seat. Both have serene expressions, and the room glows with soft pink and cream colors.",
+            "alt": "Seven sleeping stars while Rio's mother carries her from the window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rio counts stars in her dreams. Night-night, stars!",
+          "illustration": {
+            "description": "Rio sleeps peacefully in her cozy bed with a soft smile, surrounded by stuffed animals including a diverse family of dolls. Through her window, all seven stars watch over her like twinkling guardians. The room is bathed in gentle moonlight with warm cream and soft blue tones.",
+            "alt": "Sleeping Rio in bed with stars watching through her window",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "counting",
+      "bedtime routine",
+      "nature wonder",
+      "family love"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Rio see in the sky?",
+        "choices": [
+          "Stars",
+          "Clouds"
+        ],
+        "correctIndex": 0,
+        "explanation": "Rio sees twinkling stars through her bedroom window!"
+      },
+      {
+        "id": "q2",
+        "question": "What sound do the stars make when they yawn?",
+        "choices": [
+          "Yaaaawn",
+          "Whoosh"
+        ],
+        "correctIndex": 0,
+        "explanation": "The sleepy stars make a 'Yaaaawn' sound when they yawn!"
+      },
+      {
+        "id": "q3",
+        "question": "Where does Rio go at the end?",
+        "choices": [
+          "Outside",
+          "To bed"
+        ],
+        "correctIndex": 1,
+        "explanation": "Rio goes to bed to sleep and dream about the stars!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Rio sees one bright ___. Twinkle, twinkle!",
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "star",
+            "distractors": [
+              "moon",
+              "cloud",
+              "bird"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Five gentle stars whisper, '___.'",
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "Shhhh",
+            "distractors": [
+              "Hello",
+              "Goodbye",
+              "Twinkle"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

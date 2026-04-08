@@ -1,0 +1,165 @@
+{
+  "id": "baby-colors-003",
+  "title": "Zara's Colorful Yums",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "colors",
+    "food"
+  ],
+  "wordCount": 35,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Zara explores colorful foods with delightful sounds and tastes, from red apples to purple grapes, discovering the rainbow of flavors in her world through repetitive, soothing interactions.",
+  "coverImage": "covers/baby-colors-003.webp",
+  "chapters": [
+    {
+      "title": "Zara's Colorful Yums",
+      "pages": [
+        {
+          "text": "Zara sees red. Crunch, crunch!",
+          "illustration": {
+            "description": "A cheerful toddler girl named Zara with curly dark hair and warm brown skin sits in a sunny kitchen, holding a bright red apple. Her eyes are wide with delight as she takes a bite. The kitchen has soft yellow walls and simple wooden furniture. Warm sunlight streams through a window.",
+            "alt": "Zara eating a red apple in a bright kitchen",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Orange carrots. Munch, munch!",
+          "illustration": {
+            "description": "Zara sits at a low wooden table with orange carrot sticks arranged on a pale blue plate. She picks up a carrot stick with both small hands, smiling broadly. The background shows soft mint green walls with simple shapes. Her expression shows pure joy and curiosity.",
+            "alt": "Zara holding orange carrot sticks at a table",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Yellow banana. Squish, squish!",
+          "illustration": {
+            "description": "Zara holds a perfectly yellow banana, some of it playfully squished between her fingers. She giggles with banana on her cheek. She sits on a soft lavender cushion on the floor. The background features gentle cream-colored walls with floating pastel shapes.",
+            "alt": "Zara playing with and eating a yellow banana",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Green peas. Pop, pop!",
+          "illustration": {
+            "description": "Zara carefully picks up bright green peas from a white bowl, popping them into her mouth one by one. Her expression shows concentration and delight. She wears a soft pink bib. The setting is a cozy dining area with warm beige walls and simple furniture.",
+            "alt": "Zara eating green peas from a bowl",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Blue berries. Pop, pop!",
+          "illustration": {
+            "description": "Zara holds a handful of plump blueberries, some juice staining her fingers purple-blue. She sits in a white high chair with a cheerful expression. The background shows soft coral walls with gentle cloud-like shapes. Natural light creates a warm, inviting atmosphere.",
+            "alt": "Zara eating blueberries in her high chair",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Purple grapes. Squish, squish!",
+          "illustration": {
+            "description": "Zara examines a small cluster of deep purple grapes, holding them delicately. She sits on a soft cream-colored blanket on the floor. Her face shows wonder and concentration. The background features pale yellow walls with simple geometric shapes in pastel tones.",
+            "alt": "Zara holding purple grapes while sitting on a blanket",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Pink strawberry. Yum, yum!",
+          "illustration": {
+            "description": "Zara holds a bright pink strawberry close to her face, about to take a bite. Her eyes sparkle with anticipation and joy. She sits in a garden setting with soft green grass and pastel flowers in the background. Gentle morning light creates a dreamy atmosphere.",
+            "alt": "Zara with a pink strawberry in a garden setting",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Zara loves colors! Yum, yum, yum!",
+          "illustration": {
+            "description": "Zara sits surrounded by all the colorful foods from the story - red apple, orange carrots, yellow banana, green peas, blue berries, purple grapes, and pink strawberry - arranged in a rainbow around her. She claps her hands with pure joy, her face beaming with happiness. The background is soft white with gentle rainbow arcs.",
+            "alt": "Zara surrounded by all the colorful foods, clapping happily",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "colors",
+      "healthy eating",
+      "sensory exploration",
+      "joy"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color is Zara's apple?",
+        "choices": [
+          "Red",
+          "Green"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zara's apple is red, and she goes 'crunch, crunch' when she eats it!"
+      },
+      {
+        "id": "q2",
+        "question": "What sound do the peas make?",
+        "choices": [
+          "Squish, squish",
+          "Pop, pop"
+        ],
+        "correctIndex": 1,
+        "explanation": "The green peas make a 'pop, pop' sound when Zara eats them!"
+      },
+      {
+        "id": "q3",
+        "question": "What does Zara love?",
+        "choices": [
+          "Colors",
+          "Noise"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zara loves all the beautiful colors of her yummy foods!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Zara sees ___. Crunch, crunch!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "red",
+            "distractors": [
+              "blue",
+              "green",
+              "yellow"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "___ carrots. Munch, munch!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Orange",
+            "distractors": [
+              "Purple",
+              "Pink",
+              "Blue"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

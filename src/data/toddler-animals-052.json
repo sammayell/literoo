@@ -1,0 +1,216 @@
+{
+  "id": "toddler-animals-052",
+  "title": "Marcus and the Lost Baby Bird",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "animals",
+    "adventure"
+  ],
+  "wordCount": 215,
+  "readingLevel": "1.2",
+  "synopsis": "Marcus, a curious young boy, discovers a scared baby bird that has fallen from its nest. With the help of his diverse group of friends, he learns about being brave and kind while finding a way to reunite the little bird with its family.",
+  "coverImage": "covers/toddler-animals-052.webp",
+  "chapters": [
+    {
+      "title": "A Little Bird Needs Help",
+      "pages": [
+        {
+          "text": "Marcus was playing in his backyard when he heard a tiny sound. \"Peep! Peep!\" It was a small, scared baby bird sitting on the ground. The little bird looked lost and sad.",
+          "illustration": {
+            "description": "Marcus, a young Black boy with short curly hair wearing a bright red t-shirt and blue shorts, crouches down looking concerned at a small yellow baby bird on green grass. The backyard has colorful flowers and a wooden fence. The scene has warm, gentle lighting with a slightly textured background.",
+            "alt": "Marcus discovering the baby bird in his backyard",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Oh no, little bird! Are you hurt?\" Marcus asked gently. The baby bird was too scared to move. Marcus felt worried but wanted to help. He knew he needed to be brave for the tiny creature.",
+          "illustration": {
+            "description": "Close-up of Marcus kneeling with his hands on his knees, looking at the baby bird with kind, determined eyes. The baby bird has its wings slightly spread, looking up at Marcus with big, round eyes. Soft afternoon sunlight filters through, creating a warm, caring atmosphere.",
+            "alt": "Marcus speaking gently to the scared baby bird",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Friends Come to Help",
+      "pages": [
+        {
+          "text": "Marcus ran to find his friends. \"Aisha! Carlos! Come quick!\" he called. Aisha, who lived next door, and Carlos from across the street came running. They all felt happy to help the baby bird together.",
+          "illustration": {
+            "description": "Marcus running excitedly toward two children - Aisha, a girl with long braided hair wearing a purple dress, and Carlos, a boy with brown hair in a green striped shirt. They're all in a sunny neighborhood with colorful houses in the background. Their expressions show excitement and eagerness to help.",
+            "alt": "Marcus calling his friends Aisha and Carlos for help",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"We need to find the bird's family,\" said Aisha wisely. Carlos pointed up to a tall oak tree. \"Look! There's a nest up there!\" The mama bird was calling from above, looking worried about her baby.",
+          "illustration": {
+            "description": "Three children looking up at a large oak tree with green leaves. A brown mama bird sits in a nest high in the branches, looking down anxiously. The children point upward with hopeful expressions. The tree has a thick trunk and spreading branches against a bright blue sky.",
+            "alt": "The children looking up at the mama bird in the tree",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "A Happy Reunion",
+      "pages": [
+        {
+          "text": "Marcus had a brave idea. \"Let's make a soft bed and lift the baby bird up high!\" They gathered soft grass and leaves. Carlos's dad helped them reach the nest safely with a ladder.",
+          "illustration": {
+            "description": "The children working together gathering soft materials while a tall Hispanic man with a mustache holds a wooden ladder against the tree. Marcus carefully holds the baby bird in a small nest made of grass. Everyone has focused, caring expressions showing teamwork and gentleness.",
+            "alt": "The group working together to help return the baby bird",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The mama bird sang a happy song when her baby was safe in the nest again! Marcus felt so proud and happy. \"We were brave and kind,\" he said. The baby bird peeped a tiny \"thank you\" to all the helpful friends.",
+          "illustration": {
+            "description": "All the characters smiling and looking up as the mama bird nuzzles her baby in the nest. The baby bird looks content and safe. Golden sunset light bathes the scene, creating a warm, joyful atmosphere. The children's faces glow with happiness and accomplishment.",
+            "alt": "Happy reunion as the baby bird is safely returned to its mama",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "kindness",
+      "bravery",
+      "helping others",
+      "friendship",
+      "teamwork"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Marcus feel when he first saw the baby bird?",
+        "choices": [
+          "Happy",
+          "Worried",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Marcus felt worried when he saw the scared baby bird on the ground."
+      },
+      {
+        "id": 2,
+        "question": "Who helped Marcus save the baby bird?",
+        "choices": [
+          "His mom",
+          "Aisha and Carlos",
+          "His teacher"
+        ],
+        "correctIndex": 1,
+        "explanation": "Aisha and Carlos were the friends who came to help Marcus with the baby bird."
+      },
+      {
+        "id": 3,
+        "question": "Where was the mama bird?",
+        "choices": [
+          "In the house",
+          "In a nest in the tree",
+          "On the ground"
+        ],
+        "correctIndex": 1,
+        "explanation": "The mama bird was in her nest high up in the oak tree, calling for her baby."
+      },
+      {
+        "id": 4,
+        "question": "How did everyone feel at the end of the story?",
+        "choices": [
+          "Sad",
+          "Scared",
+          "Happy"
+        ],
+        "correctIndex": 2,
+        "explanation": "Everyone felt happy when the baby bird was safely returned to its mama in the nest."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "id": 1,
+        "title": "Fill in the Missing Words",
+        "instructions": "Choose the right word to complete each sentence from the story!",
+        "text": "Marcus found a small, _____ baby bird on the ground. The little bird felt _____ and needed help getting back to its _____ in the tree.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "big",
+              "purple"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "sad",
+            "distractors": [
+              "angry",
+              "sleepy",
+              "loud"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "nest",
+            "distractors": [
+              "house",
+              "car",
+              "book"
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "More Missing Words",
+        "instructions": "Help complete the story by picking the best words!",
+        "text": "Marcus felt _____ when he decided to help the bird. His friends Aisha and Carlos were _____ to help too. At the end, everyone felt _____ when the baby bird was safe.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "brave",
+            "distractors": [
+              "tired",
+              "cold",
+              "silly"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "happy",
+            "distractors": [
+              "scared",
+              "mean",
+              "slow"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "proud",
+            "distractors": [
+              "hungry",
+              "mad",
+              "small"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

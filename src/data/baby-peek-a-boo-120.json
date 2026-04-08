@@ -1,0 +1,171 @@
+{
+  "id": "baby-peek-a-boo-120",
+  "title": "Ezra's Rainbow Peek-a-Boo",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "peek-a-boo",
+    "colors"
+  ],
+  "wordCount": 58,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Ezra plays a delightful peek-a-boo game with colorful objects and diverse friends, discovering red, blue, yellow, and green treasures hidden behind his hands and around his world.",
+  "coverImage": "covers/baby-peek-a-boo-120.webp",
+  "chapters": [
+    {
+      "title": "Ezra's Rainbow Peek-a-Boo",
+      "pages": [
+        {
+          "text": "Peek-a-boo, Ezra! Where's the red ball?",
+          "illustration": {
+            "description": "Baby Ezra, a cheerful toddler with warm brown skin and curly black hair, sits on a soft cream carpet with his chubby hands covering his eyes. A bright red ball peeks out from behind a pastel pink cushion nearby. The room has gentle morning light streaming through a window.",
+            "alt": "Baby Ezra playing peek-a-boo with a red ball",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "There it is! Bounce, bounce, bounce!",
+          "illustration": {
+            "description": "Ezra's face lights up with pure joy, his dark eyes sparkling as he claps his hands. The bright red ball bounces in the air above him, creating motion lines. His expression shows delighted surprise with a wide smile and raised eyebrows.",
+            "alt": "Ezra discovering the bouncing red ball",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo, Ezra! Where's the blue bird?",
+          "illustration": {
+            "description": "Ezra covers his eyes again with his small hands, giggling. A beautiful blue toy bird with soft feathers sits perched on a low wooden shelf behind him. The background shows soft watercolor washes of pale blue and white.",
+            "alt": "Ezra hiding his eyes while a blue bird waits nearby",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "There it is! Tweet, tweet, tweet!",
+          "illustration": {
+            "description": "Ezra points excitedly at the blue bird with one chubby finger, his mouth open in wonder. The blue bird appears to be singing with musical notes floating around it. Ezra's expression shows amazement and joy.",
+            "alt": "Ezra finding the tweeting blue bird",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo, Ezra! Where's the yellow sun?",
+          "illustration": {
+            "description": "Ezra peeks through his fingers this time, his dark eyes visible between his small brown fingers. A warm golden-yellow sun shape is partially hidden behind a sheer white curtain at the window, casting gentle yellow light across the room.",
+            "alt": "Ezra peeking through fingers at hidden yellow sun",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "There it is! Shine, shine, shine!",
+          "illustration": {
+            "description": "Ezra reaches both arms up toward the bright yellow sun now fully visible through the window. Golden rays of light stream down, illuminating his happy face. His expression is one of pure wonder and reaching joy.",
+            "alt": "Ezra reaching for the shining yellow sun",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo, Ezra! Where's the green frog?",
+          "illustration": {
+            "description": "Ezra sits cross-legged, hands over his eyes in the classic peek-a-boo pose. A soft green stuffed frog sits quietly behind a large leafy houseplant. The green tones blend together in gentle watercolor washes.",
+            "alt": "Ezra playing peek-a-boo with a green frog hiding in plants",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "There it is! Ribbit, ribbit, ribbit!",
+          "illustration": {
+            "description": "Ezra crawls toward the green frog with excitement, his face beaming with discovery. The frog appears to be hopping with motion lines around it. Ezra's expression shows delighted recognition and eagerness to reach his green friend.",
+            "alt": "Ezra crawling toward the ribbiting green frog",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo, Ezra sees all the colors! Red, blue, yellow, green!",
+          "illustration": {
+            "description": "Ezra sits in the center surrounded by all his colorful discoveries - the red ball, blue bird, yellow sun rays, and green frog. His arms are outstretched in joy, face tilted up with the biggest smile. The colors create a gentle rainbow effect around him.",
+            "alt": "Ezra surrounded by all the colorful objects he found",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "colors",
+      "discovery",
+      "peek-a-boo games",
+      "joy"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color is Ezra's ball?",
+        "choices": [
+          "Red",
+          "Blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ezra plays with a bright red ball that bounces!"
+      },
+      {
+        "id": "q2",
+        "question": "What sound does the bird make?",
+        "choices": [
+          "Ribbit",
+          "Tweet"
+        ],
+        "correctIndex": 1,
+        "explanation": "The blue bird goes tweet, tweet, tweet!"
+      },
+      {
+        "id": "q3",
+        "question": "Where does the yellow sun shine from?",
+        "choices": [
+          "Window",
+          "Door"
+        ],
+        "correctIndex": 0,
+        "explanation": "The bright yellow sun shines through the window!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Peek-a-boo, Ezra! Where's the ___ ball?",
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "red",
+            "distractors": [
+              "blue",
+              "green"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "There it is! ___, ___, ___!",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "bounce",
+            "distractors": [
+              "tweet",
+              "ribbit"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

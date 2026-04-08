@@ -1,0 +1,165 @@
+{
+  "id": "baby-peek-a-boo-060",
+  "title": "Kofi's Rainbow Hide-and-Seek",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "peek-a-boo",
+    "colors"
+  ],
+  "wordCount": 39,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Kofi plays a delightful peek-a-boo game with colorful objects and friends in his room. Each page reveals a different colored surprise hiding behind Kofi's hands, creating a gentle, repetitive pattern perfect for very young children to anticipate and enjoy.",
+  "coverImage": "covers/baby-peek-a-boo-060.webp",
+  "chapters": [
+    {
+      "title": "Peek-a-Boo Colors",
+      "pages": [
+        {
+          "text": "Peek-a-boo! What do you see?",
+          "illustration": {
+            "description": "Adorable toddler Kofi with warm brown skin and curly black hair covers his eyes with chubby hands, wearing a soft yellow onesie. His expression shows playful anticipation with a gentle smile peeking through his fingers. The background is a cozy nursery with soft cream walls and scattered rainbow-colored toys.",
+            "alt": "Baby Kofi playing peek-a-boo with hands over eyes",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A red ball bounces - boing, boing!",
+          "illustration": {
+            "description": "Kofi's hands spread wide revealing a bright red rubber ball mid-bounce with motion lines. His eyes are wide with delight, mouth open in surprise. The ball has a gentle shine and the background shows soft pastel blue walls with high contrast for baby vision.",
+            "alt": "Red bouncing ball revealed behind Kofi's hands",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! What's hiding now?",
+          "illustration": {
+            "description": "Kofi covers his face again with both hands, this time sitting cross-legged on a soft rainbow rug. His fingers slightly parted showing one curious eye peeking through. A diverse group of stuffed animals sits nearby including a brown teddy bear and colorful elephant.",
+            "alt": "Kofi hiding his face with hands, peeking through fingers",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Blue bubbles float - pop, pop!",
+          "illustration": {
+            "description": "Kofi's hands reveal shimmering blue soap bubbles floating around him. His face shows pure joy with a wide smile and sparkling eyes following the bubbles. The bubbles have iridescent quality and the background is soft lavender creating beautiful contrast.",
+            "alt": "Blue bubbles floating around smiling Kofi",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Who's there?",
+          "illustration": {
+            "description": "Kofi covers his eyes while sitting on his mama's lap. Mama has beautiful dark skin, natural hair in a colorful headwrap, wearing a gentle smile. They're in a sunny window nook with plants visible outside, creating a warm family moment.",
+            "alt": "Kofi on mama's lap covering his eyes",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Yellow sun shines - bright, bright!",
+          "illustration": {
+            "description": "Both Kofi and mama reveal a cheerful yellow sun streaming through the window behind them. Golden sunbeams create a warm glow on their faces. Kofi claps his hands in delight while mama points to the sun with loving expression.",
+            "alt": "Kofi and mama looking at bright yellow sunshine",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Last surprise?",
+          "illustration": {
+            "description": "Kofi sits on the floor with daddy, both covering their eyes playfully. Daddy has warm brown skin, short beard, wearing casual clothes. Around them are the red ball, blue bubble solution, and yellow toy sun, creating a colorful circle of discovered treasures.",
+            "alt": "Kofi and daddy both playing peek-a-boo together",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rainbow colors everywhere - hooray!",
+          "illustration": {
+            "description": "The whole family - Kofi, mama, and daddy - sit together surrounded by all the colorful objects from their peek-a-boo game. A gentle rainbow appears in the background through the window. Everyone is smiling and clapping, celebrating their colorful discoveries in this warm family scene.",
+            "alt": "Happy family surrounded by rainbow colors",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "colors",
+      "family bonding",
+      "peek-a-boo play",
+      "discovery"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color is the bouncing ball?",
+        "choices": [
+          "Red",
+          "Blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "The ball that goes 'boing, boing' is red!"
+      },
+      {
+        "id": "q2",
+        "question": "What floats and goes 'pop, pop'?",
+        "choices": [
+          "Bubbles",
+          "Ball"
+        ],
+        "correctIndex": 0,
+        "explanation": "The blue bubbles float and make 'pop, pop' sounds!"
+      },
+      {
+        "id": "q3",
+        "question": "Who plays peek-a-boo with Kofi?",
+        "choices": [
+          "His family",
+          "His toys"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kofi plays peek-a-boo with mama and daddy - his loving family!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "A [BLANK] ball bounces - boing, boing!",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "red",
+            "distractors": [
+              "blue",
+              "yellow",
+              "green"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "[BLANK] bubbles float - pop, pop!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Blue",
+            "distractors": [
+              "Red",
+              "Yellow",
+              "Green"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

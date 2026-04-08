@@ -1,0 +1,162 @@
+{
+  "id": "toddler-nature-076",
+  "title": "Enzo's Garden Adventure",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "nature",
+    "school"
+  ],
+  "wordCount": 161,
+  "readingLevel": "1.2",
+  "synopsis": "When Enzo feels scared about starting his first day at preschool, his grandmother takes him on a special walk through their community garden where he discovers that growing plants and making friends both take time, patience, and a little bit of bravery.",
+  "coverImage": "covers/toddler-nature-076.webp",
+  "chapters": [
+    {
+      "title": "Enzo's First Day",
+      "pages": [
+        {
+          "text": "Enzo felt scared about his first day at preschool. His tummy felt funny, and he didn't want to leave Abuela's house. \"What if the other kids don't like me?\" he whispered.",
+          "illustration": {
+            "description": "A young Latino boy with curly dark hair and warm brown eyes sits on a bright yellow couch, looking worried with his hands on his tummy. His grandmother, an older Latina woman with silver-streaked hair in a bun, sits beside him wearing a colorful floral apron. The living room has warm terracotta walls and family photos.",
+            "alt": "Enzo looking worried while sitting with his grandmother",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Mijo, let's visit our garden before school,\" said Abuela with a gentle smile. She took Enzo's hand, and they walked to the community garden behind their apartment building. Enzo loved the bright flowers and green plants.",
+          "illustration": {
+            "description": "Enzo and his grandmother walking hand-in-hand down a sunny path toward a vibrant community garden. The garden has raised beds filled with colorful vegetables, sunflowers, and tomato plants. Other families of different ethnicities tend to their plots in the background. The sky is bright blue with fluffy white clouds.",
+            "alt": "Enzo and Abuela walking to the community garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Look, Enzo,\" Abuela pointed to tiny green sprouts. \"These seeds were scared to grow at first too. But look how brave they are now!\" Enzo watched a butterfly land on a red flower. He felt a little less scared.",
+          "illustration": {
+            "description": "Close-up view of small green seedlings sprouting from rich brown soil, with Enzo's small hands cupping around them protectively. A bright orange monarch butterfly rests on a nearby red marigold. Enzo's face shows wonder and curiosity, his worried expression beginning to soften. The illustration has warm golden sunlight filtering through.",
+            "alt": "Enzo examining seedlings with a butterfly nearby",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "At preschool, Enzo met Maya, who had beautiful dark skin and loved butterflies too. He also met Sam, who wore glasses and knew all about plants. \"Want to help us plant flowers?\" Maya asked. Enzo smiled and felt happy. Making friends was like growing a garden - it just took a little time and courage.",
+          "illustration": {
+            "description": "Three children in a preschool garden area: Enzo smiling widely, Maya (a Black girl with braided hair tied with colorful beads) holding a small watering can, and Sam (an Asian boy with round glasses) holding a small plant pot. They're all kneeling around a small garden plot with their teacher, a kind woman with brown skin, supervising nearby. The scene is bright and cheerful with primary colors.",
+            "alt": "Enzo making friends while planting in the preschool garden",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "overcoming fear",
+      "friendship",
+      "nature",
+      "family support",
+      "first experiences"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Enzo feel about his first day of preschool?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Enzo felt scared about starting preschool and didn't want to leave his Abuela's house."
+      },
+      {
+        "id": "q2",
+        "question": "Where did Abuela take Enzo before school?",
+        "choices": [
+          "To the park",
+          "To the garden",
+          "To the store"
+        ],
+        "correctIndex": 1,
+        "explanation": "Abuela took Enzo to visit their community garden to help him feel better."
+      },
+      {
+        "id": "q3",
+        "question": "What did Abuela compare the scared seeds to?",
+        "choices": [
+          "Enzo feeling scared",
+          "Butterflies flying",
+          "Flowers blooming"
+        ],
+        "correctIndex": 0,
+        "explanation": "Abuela showed Enzo that seeds can be scared to grow at first, just like he was scared about school."
+      },
+      {
+        "id": "q4",
+        "question": "How did Enzo feel at the end of the story?",
+        "choices": [
+          "Sad",
+          "Scared",
+          "Happy"
+        ],
+        "correctIndex": 2,
+        "explanation": "Enzo felt happy after making new friends Maya and Sam at preschool."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Enzo felt _____ about his first day at preschool.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "excited",
+              "sleepy"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Abuela took Enzo to the community _____ to see the plants.",
+        "blanks": [
+          {
+            "wordIndex": 7,
+            "correctWord": "garden",
+            "distractors": [
+              "store",
+              "playground",
+              "school"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "At school, Enzo made new _____ who liked plants and butterflies too.",
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "friends",
+            "distractors": [
+              "toys",
+              "books",
+              "pictures"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

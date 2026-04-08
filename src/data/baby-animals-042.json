@@ -1,0 +1,165 @@
+{
+  "id": "baby-animals-042",
+  "title": "Elio's Animal Friends",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "animals",
+    "feelings"
+  ],
+  "wordCount": 47,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Elio discovers different animal friends and the happy sounds they make, learning about friendship and joy through gentle animal encounters in his backyard.",
+  "coverImage": "covers/baby-animals-042.webp",
+  "chapters": [
+    {
+      "title": "Animal Friends",
+      "pages": [
+        {
+          "text": "Elio loves animals! Woof, woof!",
+          "illustration": {
+            "description": "A happy toddler boy named Elio with warm brown skin, dark curly hair, and bright brown eyes sits in a sunny backyard. He wears a soft yellow shirt and blue overalls, clapping his hands with joy. A friendly golden retriever sits nearby, tail wagging. The background shows green grass and colorful flowers in soft watercolor style.",
+            "alt": "Happy toddler Elio sitting with a golden dog in a sunny backyard",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Cat says meow! Elio feels happy.",
+          "illustration": {
+            "description": "Elio reaches out gently toward a fluffy orange tabby cat sitting on a wooden fence. The cat's tail is curved upward and its green eyes sparkle kindly. Elio's face shows pure delight with a wide smile. Soft morning light filters through the scene with pastel pink and lavender clouds in the background.",
+            "alt": "Elio reaching toward an orange cat on a fence",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Bird chirps tweet, tweet! So sweet.",
+          "illustration": {
+            "description": "A small blue bird perches on Elio's outstretched finger. The bird has bright blue feathers and a cheerful expression. Elio looks up at the bird with wonder, his mouth forming a small 'o' of amazement. Soft green leaves and branches frame the scene with dappled sunlight creating warm highlights.",
+            "alt": "Small blue bird perched on Elio's finger",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Bunny hops hop, hop! Elio giggles.",
+          "illustration": {
+            "description": "A white bunny with pink inner ears bounces playfully near Elio's feet. Elio sits cross-legged on the grass, hands covering his mouth as he giggles. His eyes crinkle with laughter. Small white flowers dot the green grass around them, and soft afternoon light creates a warm, cozy atmosphere.",
+            "alt": "White bunny hopping near giggling Elio on grass",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Duck says quack, quack! Fun sounds!",
+          "illustration": {
+            "description": "A yellow duckling waddles beside a small blue kiddie pool. Elio kneels nearby, splashing his hands gently in the water. Water droplets sparkle in the sunlight. Both Elio and the duckling look joyful and playful. The scene is filled with bright blues and yellows, creating a cheerful summer mood.",
+            "alt": "Yellow duckling and Elio playing near a small pool",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Bee buzzes buzz, buzz! Elio smiles.",
+          "illustration": {
+            "description": "A friendly cartoon bee with black and yellow stripes hovers near colorful flowers. Elio watches from a safe distance, pointing at the bee with curiosity and delight. His expression shows wonder rather than fear. Bright purple, pink, and yellow flowers create a vibrant garden setting with soft, rounded petals.",
+            "alt": "Elio watching a bee hover near colorful flowers",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Frog goes ribbit! Jump, jump!",
+          "illustration": {
+            "description": "A bright green frog sits on a lily pad in a small garden pond. Elio crouches at the pond's edge, his reflection visible in the calm water. The frog's throat is puffed out mid-ribbit. Soft green plants and cattails surround the pond, with gentle ripples spreading across the water's surface.",
+            "alt": "Green frog on lily pad with Elio watching from pond edge",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "All friends say hello! Elio loves animals.",
+          "illustration": {
+            "description": "Elio sits in the center surrounded by all his animal friends - the dog, cat, bird, bunny, duck, bee, and frog arranged in a gentle circle around him. Everyone looks happy and peaceful. Elio's arms are spread wide in a welcoming gesture. Soft golden sunset light bathes the entire scene in warm, cozy tones.",
+            "alt": "Elio surrounded by all his animal friends in a circle",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "animals",
+      "joy",
+      "discovery"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does the cat make?",
+        "choices": [
+          "Meow",
+          "Woof"
+        ],
+        "correctIndex": 0,
+        "explanation": "The cat says 'meow' to Elio!"
+      },
+      {
+        "id": "q2",
+        "question": "How does the bunny move?",
+        "choices": [
+          "Flies",
+          "Hops"
+        ],
+        "correctIndex": 1,
+        "explanation": "The bunny hops hop, hop around Elio!"
+      },
+      {
+        "id": "q3",
+        "question": "How does Elio feel with his animal friends?",
+        "choices": [
+          "Happy",
+          "Sad"
+        ],
+        "correctIndex": 0,
+        "explanation": "Elio feels happy and loves all his animal friends!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Cat says ___! Elio feels happy.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "meow",
+            "distractors": [
+              "woof",
+              "tweet",
+              "buzz"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Bunny ___ hop, hop! Elio giggles.",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "hops",
+            "distractors": [
+              "flies",
+              "swims",
+              "runs"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

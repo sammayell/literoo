@@ -1,0 +1,183 @@
+{
+  "id": "baby-feelings-135",
+  "title": "Wren's Happy Sounds",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "feelings",
+    "nature"
+  ],
+  "wordCount": 51,
+  "readingLevel": "0.5",
+  "synopsis": "Little Wren discovers the happy sounds all around her garden, from buzzing bees to chirping birds, learning that nature is full of joyful music that makes her heart feel warm and content.",
+  "coverImage": "covers/baby-feelings-135.webp",
+  "chapters": [
+    {
+      "title": "Happy Sounds",
+      "pages": [
+        {
+          "text": "Wren hears happy sounds. Buzz, buzz!",
+          "illustration": {
+            "description": "A cheerful toddler girl named Wren with warm brown skin and curly black hair in two small puffs, wearing a sunny yellow dress. She's pointing excitedly at a friendly cartoon bee with black and yellow stripes flying near purple flowers. The background shows a soft pastel garden with rounded flower shapes in pink and lavender.",
+            "alt": "Wren pointing at a buzzing bee in a colorful garden",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "The bee goes buzz, buzz. Wren smiles big!",
+          "illustration": {
+            "description": "Close-up of Wren's delighted face with a huge smile and bright, sparkling brown eyes. The bee hovers nearby with gentle motion lines. Soft yellow and orange watercolor background with subtle flower petals floating around. High contrast between Wren's warm skin tone and the bright background.",
+            "alt": "Wren smiling happily at the buzzing bee",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Tweet, tweet! Birds sing happy.",
+          "illustration": {
+            "description": "Three colorful birds perched on a low branch - one blue, one red, one yellow - with their beaks open in song. Musical notes float in the air around them. Wren stands below looking up with wonder, her arms outstretched. Soft green and blue watercolor sky background with puffy white clouds.",
+            "alt": "Colorful birds singing while Wren watches from below",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Wren claps her hands. Tweet, tweet!",
+          "illustration": {
+            "description": "Wren clapping her small hands together with pure joy, her curly hair bouncing slightly. Motion lines show the clapping movement. A diverse group of children play in the soft-focus background - a child with light skin and blonde hair, and another with medium brown skin. Warm pastel colors throughout.",
+            "alt": "Wren clapping happily while other children play nearby",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Splash, splash! Water sounds happy too.",
+          "illustration": {
+            "description": "A small fountain or birdbath with gentle water droplets creating ripples. Wren reaches toward the water with curiosity. An elderly woman with silver hair and dark skin tends to nearby flowers, smiling warmly. Soft blue and aqua colors dominate with white water splashes that pop against the gentle background.",
+            "alt": "Wren exploring a fountain while an elderly woman gardens",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Wren touches water. Splash, splash, giggle!",
+          "illustration": {
+            "description": "Wren's small hands creating tiny splashes in the water, with droplets catching light like diamonds. Her face shows pure delight with her mouth open in a giggle. Water drops are illustrated with high contrast white against the blue water. Rounded, soft shapes throughout the scene.",
+            "alt": "Wren giggling while splashing in the water",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Whoosh, whoosh! Wind makes leaves dance.",
+          "illustration": {
+            "description": "Gentle green leaves floating and swirling in the breeze with curved motion lines. Wren watches with arms spread wide, mimicking the dancing leaves. A father figure with medium brown skin and a beard pushes a stroller in the background. Soft greens and yellows create a peaceful, airy feeling.",
+            "alt": "Leaves dancing in the wind while Wren watches with spread arms",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "All sounds make Wren happy. She dances too!",
+          "illustration": {
+            "description": "Wren in the center of the garden scene, arms raised joyfully as she spins or dances. All the happy elements surround her - the bee, birds, water, leaves - creating a celebration of nature's sounds. Warm golden light bathes the entire scene with soft, rounded shapes and high contrast details that babies can easily see.",
+            "alt": "Wren dancing joyfully surrounded by all the happy sounds of nature",
+            "layout": "full_page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "joy",
+      "nature sounds",
+      "sensory exploration",
+      "emotional expression"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "What sound does the bee make?",
+        "choices": [
+          "Buzz, buzz",
+          "Tweet, tweet"
+        ],
+        "correctIndex": 0,
+        "explanation": "The bee goes buzz, buzz!"
+      },
+      {
+        "id": 2,
+        "question": "What does Wren do when she hears the birds?",
+        "choices": [
+          "She runs away",
+          "She claps her hands"
+        ],
+        "correctIndex": 1,
+        "explanation": "Wren claps her hands when the birds sing tweet, tweet!"
+      },
+      {
+        "id": 3,
+        "question": "How do the sounds make Wren feel?",
+        "choices": [
+          "Happy",
+          "Scared"
+        ],
+        "correctIndex": 0,
+        "explanation": "All the sounds make Wren happy, and she dances!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "The bee goes ____, ____. Wren smiles big!",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "buzz",
+            "distractors": [
+              "tweet",
+              "splash",
+              "whoosh"
+            ]
+          },
+          {
+            "wordIndex": 4,
+            "correctWord": "buzz",
+            "distractors": [
+              "tweet",
+              "splash",
+              "whoosh"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Wren claps her hands. ____, ____!",
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "Tweet",
+            "distractors": [
+              "Buzz",
+              "Splash",
+              "Whoosh"
+            ]
+          },
+          {
+            "wordIndex": 6,
+            "correctWord": "tweet",
+            "distractors": [
+              "buzz",
+              "splash",
+              "whoosh"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

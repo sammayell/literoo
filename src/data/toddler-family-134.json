@@ -1,0 +1,188 @@
+{
+  "id": "toddler-family-134",
+  "title": "Jasper's Big Cleanup",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "family",
+    "humor"
+  ],
+  "wordCount": 178,
+  "readingLevel": "1.2",
+  "synopsis": "When four-year-old Jasper makes a huge mess while trying to help his mama make breakfast, he feels scared that she'll be upset. With courage and determination, Jasper learns that mistakes happen and cleaning up together can be fun.",
+  "coverImage": "covers/toddler-family-134.webp",
+  "chapters": [
+    {
+      "title": "The Big Mess",
+      "pages": [
+        {
+          "text": "Jasper wanted to help Mama make pancakes. He climbed on his step stool and reached for the flour. \"I can do it!\" he said with a big smile.",
+          "illustration": {
+            "description": "A cheerful Black boy with curly hair wearing a bright red shirt stands on a colorful step stool in a sunny yellow kitchen. He's reaching toward a flour container on the counter with a determined, happy expression. The kitchen has warm wooden cabinets and cheerful morning light streaming through a window.",
+            "alt": "Jasper reaching for flour while standing on his step stool",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "CRASH! The flour bag fell and split open. White flour went everywhere - on the counter, on the floor, and all over Jasper! He looked around at the huge mess.",
+          "illustration": {
+            "description": "The same kitchen now covered in white flour dust. Jasper stands in the middle of the mess, completely covered in flour from head to toe, with wide surprised eyes and flour in his curly hair. White flour clouds drift in the air, covering the bright blue countertops and red tile floor in a snowy mess.",
+            "alt": "Jasper covered in flour with kitchen mess all around",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Jasper felt scared. His bottom lip trembled and his eyes filled with tears. \"Mama will be so upset with me,\" he whispered. He heard footsteps coming toward the kitchen.",
+          "illustration": {
+            "description": "Close-up of Jasper's face showing worry and fear, with flour still dusting his dark skin and curly hair. His brown eyes are wide and teary, and he's biting his lower lip nervously. The background shows blurred kitchen mess in soft, muted colors to focus on his emotional expression.",
+            "alt": "Jasper looking worried and scared about the mess",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Brave Jasper",
+      "pages": [
+        {
+          "text": "Mama walked into the kitchen and gasped. But then she started to giggle. \"Oh my! You look like a little ghost!\" she laughed. Jasper felt surprised but happy.",
+          "illustration": {
+            "description": "A beautiful Black woman with natural hair in a colorful headwrap enters the flour-covered kitchen, her hands on her cheeks in surprise but with a warm, amused smile. Jasper stands nearby still covered in flour, now looking hopeful instead of scared. The scene shows the contrast between the messy white flour and their rich skin tones.",
+            "alt": "Mama discovering the flour mess and laughing",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I wanted to help, but I made a big mess,\" Jasper said sadly. \"I'm sorry, Mama.\" Mama knelt down and gave him a floury hug. \"Mistakes happen, baby. Let's clean up together!\"",
+          "illustration": {
+            "description": "Mama kneeling down to Jasper's height, giving him a warm embrace despite the flour covering both of them now. Her expression is loving and understanding, while Jasper looks relieved and grateful. The kitchen mess surrounds them, but the focus is on their tender moment of connection and forgiveness.",
+            "alt": "Mama hugging Jasper and showing understanding",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Jasper felt brave now. He got the broom while Mama got the mop. They cleaned and laughed together. \"Cleaning up can be fun!\" Jasper said happily. Soon the kitchen sparkled again.",
+          "illustration": {
+            "description": "Jasper holding a child-sized broom with a proud, happy expression while Mama mops nearby, both smiling and working together. The kitchen is now clean and bright again, with golden sunlight streaming through the window. Both characters look joyful and accomplished, showing teamwork and family bonding.",
+            "alt": "Jasper and Mama cleaning the kitchen together happily",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "learning from mistakes",
+      "courage",
+      "helping"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What was Jasper trying to help Mama make?",
+        "choices": [
+          "Cookies",
+          "Pancakes",
+          "Bread"
+        ],
+        "correctIndex": 1,
+        "explanation": "Jasper wanted to help Mama make pancakes for breakfast."
+      },
+      {
+        "id": "q2",
+        "question": "How did Jasper feel when he made the mess?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Excited"
+        ],
+        "correctIndex": 1,
+        "explanation": "Jasper felt scared because he thought Mama would be upset with him."
+      },
+      {
+        "id": "q3",
+        "question": "What did Mama do when she saw the mess?",
+        "choices": [
+          "Got angry",
+          "Started to cry",
+          "Started to laugh"
+        ],
+        "correctIndex": 2,
+        "explanation": "Mama giggled and said Jasper looked like a little ghost!"
+      },
+      {
+        "id": "q4",
+        "question": "How did Jasper feel while cleaning up with Mama?",
+        "choices": [
+          "Sad",
+          "Happy",
+          "Scared"
+        ],
+        "correctIndex": 1,
+        "explanation": "Jasper felt happy and brave while cleaning up with Mama together."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words",
+        "text": "Jasper wanted to help Mama make _____. The flour bag fell and made a big _____!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "pancakes",
+            "distractors": [
+              "cookies",
+              "soup",
+              "salad"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "mess",
+            "distractors": [
+              "noise",
+              "cake",
+              "surprise"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Complete the Story",
+        "text": "Jasper felt _____ about the mess, but Mama was not upset. They cleaned up _____ and had fun!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "excited",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "together",
+            "distractors": [
+              "quickly",
+              "quietly",
+              "slowly"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "id": "baby-bedtime-021",
+  "title": "Keiko Counts Sleepy Stars",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "bedtime",
+    "counting"
+  ],
+  "wordCount": 39,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Keiko counts twinkling stars from one to five as she gets ready for bed, with each star making a gentle 'twinkle' sound that helps her drift off to sleep in this soothing bedtime counting adventure.",
+  "coverImage": "covers/baby-bedtime-021.webp",
+  "chapters": [
+    {
+      "title": "Counting Stars to Sleep",
+      "pages": [
+        {
+          "text": "One star twinkles. Twinkle, twinkle!",
+          "illustration": {
+            "description": "Baby Keiko with straight black hair in soft pajamas sits by a large window, pointing up at one bright golden star in the deep purple night sky. Her round face shows wonder and delight. The room is softly lit with warm yellow light from a small lamp.",
+            "alt": "Baby Keiko in pajamas pointing at one twinkling star through her bedroom window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Two stars twinkle. Twinkle, twinkle!",
+          "illustration": {
+            "description": "Keiko claps her small hands together as two sparkling stars shine brightly above her house. The stars are different sizes, both glowing with soft yellow and white light. Keiko's eyes are wide with joy, and her window shows the peaceful nighttime scene.",
+            "alt": "Keiko clapping as two bright stars twinkle in the night sky",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Three stars twinkle. Twinkle, twinkle!",
+          "illustration": {
+            "description": "Three twinkling stars form a gentle triangle pattern in the sky as Keiko holds her favorite stuffed bunny. The stars pulse with warm golden light. Keiko's expression is calm and sleepy, leaning against her windowsill with the soft bunny pressed to her cheek.",
+            "alt": "Keiko holding a stuffed bunny while three stars twinkle in a triangle pattern",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Four stars twinkle. Twinkle, twinkle!",
+          "illustration": {
+            "description": "Four stars arranged in a diamond shape sparkle gently as Keiko's mother, a woman with long black hair in a soft robe, approaches to tuck her in. The room is bathed in peaceful moonlight and starlight, creating a dreamy atmosphere with soft purple and blue tones.",
+            "alt": "Keiko's mother approaching as four stars twinkle in a diamond pattern outside",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Five stars twinkle. Twinkle, twinkle!",
+          "illustration": {
+            "description": "Five beautiful stars shine in a gentle arc across the night sky as Keiko yawns sleepily. Her little hand covers her mouth in a tiny yawn. The stars create a natural constellation pattern, glowing with soft pastels of gold, silver, and pale blue.",
+            "alt": "Sleepy Keiko yawning as five stars form an arc pattern in the sky",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama tucks Keiko in. Shh, shh!",
+          "illustration": {
+            "description": "Keiko's mother gently pulls a soft pink and white blanket up to Keiko's chin. Both have peaceful, loving expressions. The mother's face shows tender care as she smooths the blanket. The room is dimly lit with warm, cozy lighting creating a secure feeling.",
+            "alt": "Keiko's mother tucking her into bed with a soft blanket",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Stars still twinkle. Twinkle, twinkle!",
+          "illustration": {
+            "description": "All five stars continue to twinkle gently outside the window as Keiko lies in her cozy bed, eyes starting to close. The stars seem to pulse in a slow, hypnotic rhythm. The room is very dim now, with just the starlight providing a soft, magical glow.",
+            "alt": "All five stars twinkling outside as Keiko lies in her cozy bed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Keiko sleeps. Night-night!",
+          "illustration": {
+            "description": "Keiko sleeps peacefully with her eyes gently closed and a small smile on her face. The five stars continue their gentle twinkle outside, now softer and more distant. The entire scene is bathed in deep blues and purples with touches of golden starlight creating a serene bedtime mood.",
+            "alt": "Keiko sleeping peacefully as five stars twinkle softly outside her window",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "counting",
+      "bedtime routine",
+      "nature",
+      "family love"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How many stars were twinkling at the end?",
+        "choices": [
+          "Three stars",
+          "Five stars"
+        ],
+        "correctIndex": 1,
+        "explanation": "Keiko counted up to five twinkling stars before going to sleep!"
+      },
+      {
+        "id": "q2",
+        "question": "Who tucked Keiko into bed?",
+        "choices": [
+          "Mama",
+          "Papa"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama lovingly tucked Keiko in with her soft blanket."
+      },
+      {
+        "id": "q3",
+        "question": "What sound did the stars make?",
+        "choices": [
+          "Twinkle, twinkle",
+          "Beep, beep"
+        ],
+        "correctIndex": 0,
+        "explanation": "The stars made a gentle 'twinkle, twinkle' sound throughout the story."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Three stars _____. Twinkle, twinkle!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "twinkle",
+            "distractors": [
+              "jump",
+              "sleep",
+              "run"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Mama _____ Keiko in. Shh, shh!",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "tucks",
+            "distractors": [
+              "plays",
+              "dances",
+              "reads"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

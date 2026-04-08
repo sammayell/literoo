@@ -1,0 +1,193 @@
+{
+  "id": "toddler-nature-156",
+  "title": "Kai's Garden Discovery",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "nature",
+    "school"
+  ],
+  "wordCount": 178,
+  "readingLevel": "1.2",
+  "synopsis": "When little Kai feels scared on his first day at the new preschool garden, he discovers that helping plants grow makes him feel brave and happy, leading to new friendships.",
+  "coverImage": "covers/toddler-nature-156.webp",
+  "chapters": [
+    {
+      "title": "First Day Worries",
+      "pages": [
+        {
+          "text": "Kai held his mama's hand tight. Today was his first day at the new preschool. His tummy felt funny and his heart beat fast. \"I'm scared, Mama,\" he whispered.",
+          "illustration": {
+            "description": "A young Asian boy with short black hair wearing a bright blue t-shirt and green shorts, holding hands with his mother outside a colorful preschool building. Kai looks worried with wide eyes and slightly downturned mouth. His mother, wearing a yellow dress, bends down comfortingly toward him. The background shows a cheerful school with rainbow-colored walls and blooming flowers.",
+            "alt": "Kai holding his mother's hand, looking worried on his first day of preschool",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "\"It's okay to feel scared,\" Mama said gently. \"But look at all the wonderful things to explore!\" She pointed to a special garden behind the school where children were playing.",
+          "illustration": {
+            "description": "A warm scene showing Kai and his mother looking toward a vibrant school garden filled with raised wooden planter boxes, colorful flowers, and small trees. Other diverse children can be seen playing in the background - a girl with curly red hair, a boy with dark skin wearing yellow, and a girl with braids. The garden has bright green plants and rainbow-colored stepping stones.",
+            "alt": "Kai and his mother looking at the school garden with other children playing",
+            "layout": "full"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Magic Garden",
+      "pages": [
+        {
+          "text": "Ms. Rosa, the kind teacher with sparkly earrings, showed Kai the garden. \"Would you like to help water the plants?\" she asked. Kai nodded slowly, still feeling a little nervous.",
+          "illustration": {
+            "description": "A warm Latina teacher with long black hair, wearing a purple apron and silver hoop earrings, kneeling next to Kai in the garden. She's holding a small red watering can and smiling encouragingly. Kai looks curious but still hesitant, with one hand touching a large green leaf of a tomato plant.",
+            "alt": "Ms. Rosa the teacher showing Kai how to water plants in the garden",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "As Kai poured water on the tiny green sprouts, something magical happened. The scared feeling in his tummy started to go away. \"The plants are happy!\" he said, beginning to smile.",
+          "illustration": {
+            "description": "Kai carefully watering small green seedlings with a bright red watering can, his expression changing from worried to delighted. Tiny water droplets sparkle in the sunlight, and the green plants seem to shimmer with dewdrops. Butterflies flutter nearby - one orange monarch and one yellow butterfly. The soil is rich brown with a textured, construction paper-like appearance.",
+            "alt": "Kai watering plants and starting to smile as he helps them grow",
+            "layout": "full"
+          }
+        }
+      ]
+    },
+    {
+      "title": "New Friends and Brave Hearts",
+      "pages": [
+        {
+          "text": "\"Can I help too?\" asked Emma, a girl with curly hair and freckles. Soon, Zara with her beautiful braids joined them. Together they planted seeds and sang to the flowers.",
+          "illustration": {
+            "description": "Three children working together in the garden: Kai, a cheerful white girl with curly red hair and freckles wearing a pink shirt, and a smiling Black girl with intricate braids wearing a purple dress. They're all kneeling around a wooden planter box, planting colorful flower seeds. Small packets of seeds are scattered nearby showing pictures of sunflowers and marigolds.",
+            "alt": "Kai working in the garden with his new friends Emma and Zara",
+            "layout": "full"
+          }
+        },
+        {
+          "text": "By lunchtime, Kai felt brave and happy. \"I love our garden!\" he told his new friends. The scared feelings were gone, replaced by joy and excitement for tomorrow.",
+          "illustration": {
+            "description": "All three children sitting on a bright blue picnic blanket under a large oak tree, sharing lunch and laughing together. Kai has a huge smile and is pointing excitedly toward the garden they worked in. Their lunch boxes are open showing colorful fruits and sandwiches. The garden is visible in the background with their newly planted areas marked by small wooden signs.",
+            "alt": "Kai and his friends enjoying lunch together, all looking happy and excited",
+            "layout": "full"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "overcoming fears",
+      "making friends",
+      "nature connection",
+      "school adjustment"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Kai feel on his first day of school?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kai felt scared on his first day and told his mama about his worried feelings."
+      },
+      {
+        "id": 2,
+        "question": "What made Kai start to feel better?",
+        "choices": [
+          "Eating lunch",
+          "Watering plants",
+          "Reading books"
+        ],
+        "correctIndex": 1,
+        "explanation": "When Kai helped water the plants in the garden, his scared feelings started to go away."
+      },
+      {
+        "id": 3,
+        "question": "Who were Kai's new friends?",
+        "choices": [
+          "Emma and Zara",
+          "Rosa and Mama",
+          "Tom and Sara"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kai made friends with Emma, who has curly hair, and Zara, who has braids."
+      },
+      {
+        "id": 4,
+        "question": "How did Kai feel at the end of the story?",
+        "choices": [
+          "Still scared",
+          "Brave and happy",
+          "Sleepy"
+        ],
+        "correctIndex": 1,
+        "explanation": "By the end, Kai felt brave and happy, and was excited for tomorrow."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Feelings",
+        "text": "Kai felt _____ on his first day, but helping plants made him feel _____.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "sleepy",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 11,
+            "correctWord": "brave",
+            "distractors": [
+              "sad",
+              "tired",
+              "cold"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Garden Friends",
+        "text": "In the _____, Kai met Emma and Zara. They _____ seeds together.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "garden",
+            "distractors": [
+              "classroom",
+              "playground",
+              "kitchen"
+            ]
+          },
+          {
+            "wordIndex": 8,
+            "correctWord": "planted",
+            "distractors": [
+              "ate",
+              "drew",
+              "sang"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "id": "baby-peek-a-boo-090",
+  "title": "Tomas Finds the Colors",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "peek-a-boo",
+    "colors"
+  ],
+  "wordCount": 47,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Tomas discovers bright colors hiding behind everyday objects in this interactive peek-a-boo adventure. Each page reveals a new color surprise with gentle sounds and repetitive patterns that help babies learn color recognition while enjoying the anticipation of what comes next.",
+  "coverImage": "covers/baby-peek-a-boo-090.webp",
+  "chapters": [
+    {
+      "title": "Chapter 1",
+      "pages": [
+        {
+          "text": "Where is red? Peek-a-boo!",
+          "illustration": {
+            "description": "Adorable baby Tomas with warm brown skin and big dark eyes sits on a soft cream carpet, reaching toward a white cloth covering something round. His expression shows curious excitement with a gentle smile. The room has soft pastel yellow walls and simple white furniture. High contrast red peeks slightly from under the cloth.",
+            "alt": "Baby Tomas reaching for a hidden red object",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Pop! A red apple says hello!",
+          "illustration": {
+            "description": "Tomas claps his hands with delight as a bright red apple sits revealed on the carpet. His eyes are wide with joy and his mouth forms a happy 'o' shape. The apple gleams with soft highlights against the cream background. Warm sunlight filters through a nearby window creating gentle shadows.",
+            "alt": "Tomas clapping at a bright red apple",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Where is blue? Peek-a-boo!",
+          "illustration": {
+            "description": "Tomas crawls toward a small basket covered with a pale yellow blanket, his chubby hands reaching forward eagerly. His dark curly hair bounces slightly as he moves. The basket sits on a soft pink rug with gentle floral patterns. A hint of bright blue peeks from the basket's edge.",
+            "alt": "Tomas crawling toward a covered basket",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Whoosh! Blue blocks tumble out!",
+          "illustration": {
+            "description": "Three bright blue wooden blocks spill from the wicker basket as Tomas sits back with surprised delight, his arms spread wide. His expression shows pure joy with sparkling eyes and an open-mouthed smile. The blocks cast soft shadows on the pink rug, creating depth and movement in the gentle watercolor style.",
+            "alt": "Blue blocks tumbling from basket as Tomas watches",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Where is yellow? Peek-a-boo!",
+          "illustration": {
+            "description": "Tomas kneels beside a large cardboard box covered with a soft green cloth, his small hands pulling at one corner. His concentration shows in his slightly furrowed brow and pursed lips. The box sits against a wall with gentle lavender paint. Golden yellow light seems to glow from within the box.",
+            "alt": "Tomas uncovering a mysterious glowing box",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Squeak! A yellow duck waves hi!",
+          "illustration": {
+            "description": "A plump rubber duck in bright sunny yellow sits in the open box while Tomas waves back with both tiny hands raised high. His face radiates pure happiness with crinkled eyes and a wide grin. The duck appears to glow against the soft cardboard box, with gentle reflections on its smooth surface.",
+            "alt": "Tomas waving at a yellow rubber duck in a box",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Where is green? Peek-a-boo!",
+          "illustration": {
+            "description": "Tomas sits cross-legged facing a small white tablecloth draped over something tall and leafy. His hands are pressed together in anticipation, and his eyes shine with excitement. Bright green leaves peek out from multiple spots around the cloth's edges. The setting shows a corner of a sunny room with warm wooden floors.",
+            "alt": "Tomas anticipating what's under a white cloth",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "Rustle! Green leaves dance and play!",
+          "illustration": {
+            "description": "A small potted plant with vibrant green leaves is revealed as Tomas claps happily, the white cloth pooled beside him. The leaves seem to shimmer and move in a gentle breeze from an open window. Tomas's expression shows wonder and joy, with his mouth forming a perfect circle of amazement. Dappled sunlight creates dancing shadows.",
+            "alt": "Tomas discovering a green plant with dancing leaves",
+            "layout": "full_page"
+          }
+        },
+        {
+          "text": "So many colors to find! Peek-a-boo with me!",
+          "illustration": {
+            "description": "Tomas sits surrounded by all the discovered treasures - the red apple, blue blocks, yellow duck, and green plant - with his arms outstretched welcomingly toward the viewer. His face beams with pure joy and accomplishment. All the colors create a gentle rainbow effect around him against the soft neutral background, inviting babies to join the fun.",
+            "alt": "Happy Tomas surrounded by colorful objects, inviting readers to play",
+            "layout": "full_page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "color recognition",
+      "object permanence",
+      "cause and effect",
+      "interactive play"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "color-red",
+        "question": "What red thing did Tomas find?",
+        "choices": [
+          "Apple",
+          "Ball"
+        ],
+        "correctIndex": 0,
+        "explanation": "Tomas found a bright red apple that said hello when he lifted the cloth!"
+      },
+      {
+        "id": "sound-duck",
+        "question": "What sound did the yellow duck make?",
+        "choices": [
+          "Squeak",
+          "Moo"
+        ],
+        "correctIndex": 0,
+        "explanation": "The yellow rubber duck made a squeak sound when Tomas found it in the box!"
+      },
+      {
+        "id": "blue-objects",
+        "question": "What blue things tumbled out?",
+        "choices": [
+          "Blocks",
+          "Socks"
+        ],
+        "correctIndex": 0,
+        "explanation": "Three bright blue wooden blocks tumbled out of the basket with a whoosh!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Colors",
+        "text": "Pop! A ___ apple says hello! Whoosh! ___ blocks tumble out!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "red",
+            "distractors": [
+              "blue",
+              "green",
+              "yellow"
+            ]
+          },
+          {
+            "wordIndex": 8,
+            "correctWord": "blue",
+            "distractors": [
+              "red",
+              "yellow",
+              "green"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Fill in the Sounds",
+        "text": "___! A yellow duck waves hi! ___! Green leaves dance and play!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "squeak",
+            "distractors": [
+              "pop",
+              "whoosh",
+              "meow"
+            ]
+          },
+          {
+            "wordIndex": 8,
+            "correctWord": "rustle",
+            "distractors": [
+              "squeak",
+              "pop",
+              "ring"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

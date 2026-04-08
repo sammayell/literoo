@@ -1,0 +1,183 @@
+{
+  "id": "toddler-family-074",
+  "title": "Theo's Silly Sock Day",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "family",
+    "humor"
+  ],
+  "wordCount": 238,
+  "readingLevel": "1.2",
+  "synopsis": "When toddler Theo wakes up and can't find matching socks, he feels frustrated and sad. With help from his loving family, he discovers that wearing silly, mismatched socks can actually be fun and special, turning his morning from sad to happy.",
+  "coverImage": "covers/toddler-family-074.webp",
+  "chapters": [
+    {
+      "title": "The Missing Sock",
+      "pages": [
+        {
+          "text": "Theo woke up feeling happy. The sun was shining through his window. But when he opened his sock drawer, his smile turned into a frown. All his socks were different colors! Where were the matching pairs?",
+          "illustration": {
+            "description": "A young Black boy with curly hair in striped pajamas looking confused at an open dresser drawer full of colorful mismatched socks. Morning sunlight streams through a window with cheerful yellow curtains. His expression shows puzzlement turning to concern. The room has warm orange walls and toys scattered on a soft blue carpet.",
+            "alt": "Theo looking confused at his messy sock drawer",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Theo felt frustrated. He picked up a red sock and a blue sock, but they didn't match. He tried a yellow sock and a green sock, but those didn't match either. His eyes started to feel watery. He was getting sad.",
+          "illustration": {
+            "description": "Theo sitting on his bedroom floor holding up two different colored socks, looking sad with slightly teary eyes. Socks are scattered around him in bright primary colors - red, blue, yellow, green. His posture shows disappointment, shoulders slumped. The textured carpet background has a construction paper-like quality in soft blue tones.",
+            "alt": "Theo sitting sadly surrounded by mismatched colorful socks",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Mama!\" called Theo. His mama came running. She had beautiful long braids and wore a bright purple robe. \"My socks don't match!\" Theo said, feeling worried. Mama smiled and sat down next to him on the soft carpet.",
+          "illustration": {
+            "description": "A loving Black woman with long braided hair in a bright purple robe kneeling down next to Theo on the carpet. She has kind, understanding eyes and a gentle smile. Theo looks up at her with a worried expression, still holding mismatched socks. The scene shows warmth and comfort with soft lighting and rounded, friendly shapes throughout the cozy bedroom.",
+            "alt": "Theo's mama comforting him about the sock problem",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"What if we make today Silly Sock Day?\" Mama suggested with a giggle. She helped Theo put on one striped sock and one polka dot sock. Theo looked down at his feet and started to smile. They looked funny and special!",
+          "illustration": {
+            "description": "Theo and his mama sitting together, both smiling and looking at his feet which now wear one striped red and white sock and one blue sock with yellow polka dots. Both characters have happy, amused expressions. The illustration emphasizes the silly, colorful socks against the warm carpet. Bright, cheerful colors dominate the scene with a playful, lighthearted mood.",
+            "alt": "Theo and mama laughing at his silly mismatched socks",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "At breakfast, Papa saw Theo's silly socks and laughed. Papa had kind eyes and wore glasses. \"I love your socks!\" he said. Theo's little sister Maya, who had puffy pigtails, giggled too. \"Can I wear silly socks too?\" she asked. Theo felt proud and happy.",
+          "illustration": {
+            "description": "The family around a breakfast table - Theo showing off his silly socks, his papa (a Black man with glasses and a warm smile) looking delighted, and little Maya (a small girl with puffy pigtails) clapping her hands with joy. The kitchen has bright yellow walls and colorful breakfast items. Everyone has expressive, happy faces showing love and acceptance. The mood is warm and celebratory.",
+            "alt": "Happy family at breakfast celebrating Theo's silly socks",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Now Theo wasn't sad anymore. He felt brave and silly and happy all at once. Sometimes different can be wonderful! From that day on, Theo loved wearing his special silly socks. They made every day more fun.",
+          "illustration": {
+            "description": "Theo dancing happily in his silly socks, arms raised in joy with a huge smile on his face. His mismatched socks are clearly visible and celebratory. The background shows his cheerful bedroom with toys and bright colors. Other family members peek in the doorway, all smiling. The overall composition radiates happiness, confidence, and celebration of being different and special.",
+            "alt": "Theo dancing happily in his special silly socks",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "self-acceptance",
+      "family-support",
+      "problem-solving",
+      "emotions"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Theo feel when he couldn't find matching socks?",
+        "choices": [
+          "Happy",
+          "Sad and frustrated",
+          "Excited"
+        ],
+        "correctIndex": 1,
+        "explanation": "Theo felt sad and frustrated when his socks didn't match."
+      },
+      {
+        "id": "q2",
+        "question": "Who helped Theo solve his sock problem?",
+        "choices": [
+          "His sister Maya",
+          "His mama",
+          "His papa"
+        ],
+        "correctIndex": 1,
+        "explanation": "Theo's mama helped him by suggesting they make it Silly Sock Day."
+      },
+      {
+        "id": "q3",
+        "question": "What did Mama call the day with mismatched socks?",
+        "choices": [
+          "Crazy Day",
+          "Silly Sock Day",
+          "Fun Day"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mama suggested they make it 'Silly Sock Day' to make the mismatched socks special."
+      },
+      {
+        "id": "q4",
+        "question": "How did Theo feel at the end of the story?",
+        "choices": [
+          "Still sad",
+          "Angry",
+          "Happy and brave"
+        ],
+        "correctIndex": 2,
+        "explanation": "At the end, Theo felt happy, brave, and proud of his silly socks."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Feelings",
+        "text": "Theo felt [0] when his socks didn't match. But Mama's idea made him feel [1] and special!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "sad",
+            "distractors": [
+              "happy",
+              "sleepy",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "happy",
+            "distractors": [
+              "angry",
+              "scared",
+              "tired"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Family Fun",
+        "text": "[0] helped Theo with his sock problem. [1] wanted silly socks too!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Mama",
+            "distractors": [
+              "Papa",
+              "Maya",
+              "Teacher"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "Maya",
+            "distractors": [
+              "Papa",
+              "Mama",
+              "Friend"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

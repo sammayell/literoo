@@ -1,0 +1,197 @@
+{
+  "id": "toddler-family-194",
+  "title": "Lars and the Giggling Grandpa",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "family",
+    "humor"
+  ],
+  "wordCount": 223,
+  "readingLevel": "1.2",
+  "synopsis": "When Lars visits Grandpa's house, he feels scared by all the strange new sounds. But when he discovers Grandpa's silly giggling fits, Lars learns that unfamiliar can also mean wonderful and fun.",
+  "coverImage": "covers/toddler-family-194.webp",
+  "chapters": [
+    {
+      "title": "Grandpa's Giggly House",
+      "pages": [
+        {
+          "text": "Lars held Mama's hand tight as they walked up to Grandpa's house. The big blue door looked scary to Lars. He had never been to Grandpa's house before. 'I'm scared, Mama,' whispered Lars, hiding behind her legs.",
+          "illustration": {
+            "description": "A small boy with curly brown hair hiding behind his tall mama with dark skin and a bright yellow dress. They stand before a cheerful blue door on a cozy house with flower boxes. Lars looks worried while Mama smiles encouragingly. Bright cartoon style with soft textures like construction paper.",
+            "alt": "Lars hiding nervously behind his mama at Grandpa's front door",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Inside Grandpa's house, everything made strange sounds. The old wooden floors went CREAK! The teakettle went WHISTLE! The grandfather clock went TICK-TOCK-BONG! Lars felt even more scared and stayed very close to Mama.",
+          "illustration": {
+            "description": "A cozy living room with an elderly grandfather with white beard and glasses, wearing a red sweater. Lars clings to his mama while looking around nervously at a tall grandfather clock, steaming teakettle, and creaky wooden floors. Warm yellow and orange colors with textured backgrounds.",
+            "alt": "Lars looking scared in Grandpa's noisy living room with grandfather clock and teakettle",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Suddenly, Grandpa started making a funny noise too. 'Hee-hee-hee! Ho-ho-ho!' Grandpa was giggling! His belly shook like jelly. His eyes crinkled up like happy crescents. Lars had never heard such silly giggles before.",
+          "illustration": {
+            "description": "Grandpa laughing with his head thrown back, belly shaking, eyes crinkled with joy. His white beard bounces as he giggles. Lars looks curious now instead of scared, taking a small step forward. Bright primary colors with Grandpa in his red sweater against a warm living room background.",
+            "alt": "Grandpa having a giggling fit while Lars watches with growing curiosity",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Why are you giggling, Grandpa?' asked Lars, feeling brave enough to speak. 'Because my socks don't match!' said Grandpa, lifting his feet. One sock was purple with green dots. One sock was orange with blue stripes. Lars started to smile.",
+          "illustration": {
+            "description": "Grandpa sitting in a comfortable armchair, proudly showing off his mismatched colorful socks - one purple with green dots, one orange with blue stripes. Lars is smiling now, moving closer with interest. The room feels warmer and more welcoming with golden lighting.",
+            "alt": "Grandpa showing his silly mismatched socks to a now-smiling Lars",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Then Lars noticed something wonderful. The house sounds weren't scary anymore - they were like music! CREAK went his footsteps. WHISTLE sang the kettle. TICK-TOCK-BONG chimed the clock. And Grandpa's giggles made the best sound of all!",
+          "illustration": {
+            "description": "Lars dancing around the living room with his arms spread wide, now happy and comfortable. Musical notes float in the air around the room's sounds. Grandpa claps along from his chair while Mama watches with a proud smile. Joyful primary colors and bouncy, rounded shapes.",
+            "alt": "Lars happily dancing to the musical sounds of Grandpa's house",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Now Lars wasn't scared anymore - he was happy! He ran to Grandpa for a big hug. 'I like your giggly house, Grandpa!' he said. And together they giggled and giggled until Mama started giggling too. What a wonderfully noisy family they made!",
+          "illustration": {
+            "description": "A heartwarming group hug with Lars in Grandpa's arms while Mama joins in, all three laughing together. The room glows with warm golden light, and everyone's faces show pure joy and love. Soft, rounded shapes and warm colors create a cozy family moment.",
+            "alt": "Lars, Grandpa, and Mama in a happy family hug, all giggling together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "overcoming fear",
+      "family bonds",
+      "finding joy in differences",
+      "emotional growth"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Lars feel when he first arrived at Grandpa's house?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Lars felt scared because he had never been to Grandpa's house before and hid behind Mama's legs."
+      },
+      {
+        "id": "q2",
+        "question": "What made Grandpa start giggling?",
+        "choices": [
+          "His funny hat",
+          "His mismatched socks",
+          "His silly dance"
+        ],
+        "correctIndex": 1,
+        "explanation": "Grandpa giggled because his socks didn't match - one was purple with green dots and one was orange with blue stripes."
+      },
+      {
+        "id": "q3",
+        "question": "What sounds did Lars hear in Grandpa's house?",
+        "choices": [
+          "CREAK, WHISTLE, TICK-TOCK-BONG",
+          "MEOW, WOOF, CHIRP",
+          "BEEP, RING, BUZZ"
+        ],
+        "correctIndex": 0,
+        "explanation": "Lars heard the floors go CREAK, the teakettle go WHISTLE, and the grandfather clock go TICK-TOCK-BONG."
+      },
+      {
+        "id": "q4",
+        "question": "How did Lars feel at the end of the story?",
+        "choices": [
+          "Still scared",
+          "Happy",
+          "Sleepy"
+        ],
+        "correctIndex": 1,
+        "explanation": "By the end, Lars felt happy and gave Grandpa a big hug, saying he liked the giggly house."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words",
+        "instructions": "Help complete the story by choosing the right words!",
+        "text": "Lars felt _____ when he first saw Grandpa's house. But when Grandpa started _____, Lars began to smile. Soon the house sounds became like _____ to his ears!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "giggling",
+            "distractors": [
+              "singing",
+              "sleeping"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "music",
+            "distractors": [
+              "thunder",
+              "crying"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "What Happened Next?",
+        "instructions": "Choose what happened in the story!",
+        "text": "Grandpa showed Lars his _____ socks. One was purple with green dots and one was _____ with blue stripes. This made Lars feel _____ and ready for a big hug!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "mismatched",
+            "distractors": [
+              "new",
+              "dirty"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "orange",
+            "distractors": [
+              "red",
+              "yellow"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "brave",
+            "distractors": [
+              "tired",
+              "angry"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

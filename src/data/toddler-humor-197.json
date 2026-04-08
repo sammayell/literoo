@@ -1,0 +1,225 @@
+{
+  "id": "toddler-humor-197",
+  "title": "Esme and the Giggling Cloud",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "humor",
+    "fantasy"
+  ],
+  "wordCount": 210,
+  "readingLevel": "1.2",
+  "synopsis": "When Esme discovers a sad cloud in her backyard, she uses her creativity and kindness to help it find its giggle again, learning that helping others makes us happy too.",
+  "coverImage": "covers/toddler-humor-197.webp",
+  "chapters": [
+    {
+      "title": "The Sad Cloud",
+      "pages": [
+        {
+          "text": "Esme was playing in her backyard when she heard a soft sniffling sound. She looked up and saw a little gray cloud floating near the apple tree. The cloud looked very sad.",
+          "illustration": {
+            "description": "A cheerful girl with curly brown hair and dark skin wearing a bright yellow dress stands in a colorful backyard garden. Above her floats a small gray cloud with droopy eyes and a sad expression near a green apple tree. The scene has bold primary colors with a textured construction paper background.",
+            "alt": "Esme looking up at a sad gray cloud in her backyard",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Why are you crying, little cloud?\" Esme asked kindly. The cloud sniffled again. \"I lost my giggle,\" it said in a whisper. \"Without my giggle, I can't make happy rain for the flowers.\"",
+          "illustration": {
+            "description": "Esme reaches up toward the sad gray cloud with concerned, caring eyes and an empathetic expression. The cloud has tears falling gently from its fluffy edges. Colorful flowers in the garden below look droopy and thirsty. The illustration uses soft blues and grays contrasted with bright garden colors.",
+            "alt": "Esme talking to the crying cloud while flowers wait for rain",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Looking for Giggles",
+      "pages": [
+        {
+          "text": "Esme felt brave and wanted to help. \"Let's look for your giggle together!\" she said. They searched under the slide, behind the fence, and in the sandbox. But no giggle anywhere!",
+          "illustration": {
+            "description": "Esme searches around a colorful playground with determination, looking under a red slide and near a wooden fence. The gray cloud follows her hopefully. Other diverse children play in the background - a boy with glasses and an Asian girl on swings. The scene shows movement and energy with bright, bold colors.",
+            "alt": "Esme and the cloud searching for the lost giggle around the playground",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The cloud grew even more sad. \"I'll never find my giggle,\" it sighed. Esme thought hard. Then she had a wonderful idea that made her feel excited and happy!",
+          "illustration": {
+            "description": "The cloud looks darker and more droopy while Esme has a bright light bulb moment with wide, excited eyes and a big smile. Her finger points up as she gets her idea. The background shows a sunset sky transitioning from worried grays to hopeful warm colors in construction paper texture style.",
+            "alt": "Esme having a brilliant idea while the cloud looks discouraged",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Finding the Giggle",
+      "pages": [
+        {
+          "text": "\"Maybe we can make a new giggle!\" Esme said. She started making funny faces and doing silly dances. Soon she was laughing so hard that her giggles floated up like bubbles to the cloud.",
+          "illustration": {
+            "description": "Esme dances and makes goofy faces with pure joy, her arms spread wide and one leg kicked up playfully. Sparkly giggle bubbles float upward from her mouth toward the cloud. Her neighbors, including a elderly woman with a walker and a dad holding a toddler, watch and smile from their yards. Bright yellows and pinks dominate the joyful scene.",
+            "alt": "Esme dancing and sending giggle bubbles up to the cloud",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The cloud caught Esme's giggles and began to glow! It turned from gray to fluffy white, then to a beautiful rainbow color. \"Thank you, Esme!\" it laughed. \"Now I can make the happiest rain ever!\" And it did - raining gentle, sparkly drops that made all the flowers dance with joy.",
+          "illustration": {
+            "description": "The transformed cloud now glows with rainbow colors and has a huge smile with twinkling eyes. Sparkly, colorful raindrops fall gently onto dancing flowers that have faces and are swaying happily. Esme claps her hands with delight, her face beaming with happiness and pride. The entire scene radiates joy with rainbow colors and golden light effects.",
+            "alt": "The happy rainbow cloud raining sparkly drops on dancing flowers while Esme celebrates",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "kindness",
+      "helping others",
+      "creativity",
+      "problem-solving",
+      "friendship"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did the cloud feel at the beginning of the story?",
+        "choices": [
+          "happy",
+          "sad",
+          "angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "The cloud was sad because it had lost its giggle and couldn't make happy rain for the flowers."
+      },
+      {
+        "id": "q2",
+        "question": "What did the cloud lose?",
+        "choices": [
+          "its hat",
+          "its giggle",
+          "its home"
+        ],
+        "correctIndex": 1,
+        "explanation": "The cloud told Esme that it lost its giggle, which is why it couldn't make happy rain."
+      },
+      {
+        "id": "q3",
+        "question": "How did Esme help the cloud?",
+        "choices": [
+          "gave it food",
+          "made new giggles",
+          "found its old giggle"
+        ],
+        "correctIndex": 1,
+        "explanation": "Esme made funny faces and danced to create new giggles that floated up to the cloud."
+      },
+      {
+        "id": "q4",
+        "question": "What color did the cloud become when it was happy?",
+        "choices": [
+          "gray",
+          "black",
+          "rainbow"
+        ],
+        "correctIndex": 2,
+        "explanation": "When the cloud caught Esme's giggles, it changed from gray to white to rainbow colors."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Esme heard a _____ sound and looked up to see a _____ cloud floating near the apple tree.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "sniffling",
+            "distractors": [
+              "laughing",
+              "singing"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "gray",
+            "distractors": [
+              "pink",
+              "green"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "The cloud was _____ because it lost its _____. Esme felt _____ and wanted to help.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "sad",
+            "distractors": [
+              "happy",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "giggle",
+            "distractors": [
+              "hat",
+              "friend"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "brave",
+            "distractors": [
+              "scared",
+              "tired"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Esme made funny faces and her _____ floated up like bubbles. The cloud became _____ colored and felt very _____!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "giggles",
+            "distractors": [
+              "tears",
+              "words"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "rainbow",
+            "distractors": [
+              "purple",
+              "black"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "happy",
+            "distractors": [
+              "angry",
+              "sad"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

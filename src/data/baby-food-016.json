@@ -1,0 +1,183 @@
+{
+  "id": "baby-food-016",
+  "title": "Luca's Yummy Sounds",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "food",
+    "sounds"
+  ],
+  "wordCount": 42,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Luca explores different foods and discovers the delightful sounds they make when he eats them. From crunchy apples to slurpy soup, each bite creates a new sound that makes mealtime fun and engaging.",
+  "coverImage": "covers/baby-food-016.webp",
+  "chapters": [
+    {
+      "title": "Luca's Yummy Sounds",
+      "pages": [
+        {
+          "text": "Luca is hungry! Time to eat.",
+          "illustration": {
+            "description": "A chubby-cheeked Latino toddler with dark curly hair sits in a wooden high chair, wearing a bright yellow bib. His round brown eyes sparkle with excitement as he claps his small hands together. The kitchen background features soft mint green walls and a warm wooden table with colorful bowls.",
+            "alt": "Happy baby Luca in high chair ready to eat",
+            "layout": "centered"
+          }
+        },
+        {
+          "text": "Apple slices go CRUNCH CRUNCH!",
+          "illustration": {
+            "description": "Luca holds a red apple slice in his tiny fingers, his mouth open wide showing tiny white teeth. Golden crumbs scatter around his bib as he takes a big bite. His expression shows pure joy with raised eyebrows and a wide smile. Soft peach and cream colors fill the warm kitchen setting.",
+            "alt": "Luca eating crunchy apple slices",
+            "layout": "close-up"
+          }
+        },
+        {
+          "text": "Banana makes SQUISH SQUASH sounds!",
+          "illustration": {
+            "description": "Luca squeezes a soft yellow banana piece between his fingers, creating a delighted giggle expression. Bits of banana stick to his cheeks and bib. His eyes are wide with wonder at the squishy texture. A diverse family photo hangs softly blurred in the background.",
+            "alt": "Luca playing with squishy banana",
+            "layout": "medium shot"
+          }
+        },
+        {
+          "text": "Soup goes SLURP SLURP SLURP!",
+          "illustration": {
+            "description": "Luca leans forward with a bright blue plastic spoon, making exaggerated slurping motions. Orange carrot soup drips from the spoon as steam rises gently. His dark eyes focus intently on the bowl while his free hand pats the high chair tray. Warm orange and yellow tones dominate the scene.",
+            "alt": "Luca slurping soup with spoon",
+            "layout": "action shot"
+          }
+        },
+        {
+          "text": "Crackers say SNAP SNAP SNAP!",
+          "illustration": {
+            "description": "Luca breaks a golden whole grain cracker in half, his face lighting up at the snapping sound. Tiny crumbs fall onto his tray as his mouth forms a perfect 'o' of surprise. His chubby hands grasp the cracker pieces with determination. Soft beige and tan colors create a cozy atmosphere.",
+            "alt": "Luca breaking crackers with snapping sounds",
+            "layout": "hands focus"
+          }
+        },
+        {
+          "text": "Cereal makes CRACKLE POP sounds!",
+          "illustration": {
+            "description": "Luca peers into a colorful bowl of puffed rice cereal with milk, his ear tilted toward the bowl as if listening carefully. His expression shows fascination and curiosity. Tiny bubbles and milk droplets are visible around the bowl rim. Soft lavender and white pastels create a gentle morning mood.",
+            "alt": "Luca listening to crackling cereal",
+            "layout": "profile view"
+          }
+        },
+        {
+          "text": "Cheese goes CHOMP CHOMP CHOMP!",
+          "illustration": {
+            "description": "Luca takes a big bite of mild yellow cheese, his cheeks puffed out comically as he chews with enthusiasm. His eyes are squeezed shut in concentration and joy. Small cheese pieces are scattered on his tray. A diverse group of family members can be seen softly blurred in the kitchen background.",
+            "alt": "Luca chomping on cheese enthusiastically",
+            "layout": "full face"
+          }
+        },
+        {
+          "text": "All done! Luca's tummy is happy.",
+          "illustration": {
+            "description": "Luca pats his round little belly with both hands, wearing a satisfied smile with food remnants still on his cheeks and bib. His dark curly hair is slightly messy from his meal adventure. The kitchen glows with warm golden light, and his parents' loving hands reach in to clean him up.",
+            "alt": "Happy, full Luca patting his satisfied tummy",
+            "layout": "wide shot"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "mealtime",
+      "sensory exploration",
+      "sounds",
+      "family"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does Luca's apple make?",
+        "choices": [
+          "CRUNCH CRUNCH",
+          "SLURP SLURP"
+        ],
+        "correctIndex": 0,
+        "explanation": "Apples make a crunchy sound when Luca bites them!"
+      },
+      {
+        "id": "q2",
+        "question": "What does Luca do with the banana?",
+        "choices": [
+          "Throws it",
+          "Squishes it"
+        ],
+        "correctIndex": 1,
+        "explanation": "Luca squishes the soft banana and it makes SQUISH SQUASH sounds!"
+      },
+      {
+        "id": "q3",
+        "question": "How does Luca feel at the end?",
+        "choices": [
+          "Sad",
+          "Happy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Luca is happy because his tummy is full after eating all the yummy foods!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Apple slices go _____ _____!",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "CRUNCH",
+            "distractors": [
+              "SLURP",
+              "SNAP",
+              "CHOMP"
+            ]
+          },
+          {
+            "wordIndex": 4,
+            "correctWord": "CRUNCH",
+            "distractors": [
+              "POP",
+              "SQUISH",
+              "SLURP"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Soup goes _____ _____ _____!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "SLURP",
+            "distractors": [
+              "CRUNCH",
+              "SNAP",
+              "CHOMP"
+            ]
+          },
+          {
+            "wordIndex": 3,
+            "correctWord": "SLURP",
+            "distractors": [
+              "CRACK",
+              "SQUASH",
+              "POP"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "id": "toddler-bedtime-038",
+  "title": "Axel's Big Night Feelings",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "bedtime",
+    "feelings"
+  ],
+  "wordCount": 199,
+  "readingLevel": "1.2",
+  "synopsis": "When little Axel feels scared about sleeping in his new big boy bed, his mama helps him understand that feeling scared is okay and teaches him how to be brave with deep breaths and happy thoughts.",
+  "coverImage": "covers/toddler-bedtime-038.webp",
+  "chapters": [
+    {
+      "title": "Axel's New Big Bed",
+      "pages": [
+        {
+          "text": "Axel had a new big boy bed! It was blue like the ocean and had soft pillows. But when bedtime came, Axel felt scared. The bed seemed so big and different from his old crib.",
+          "illustration": {
+            "description": "A young Black boy with short curly hair stands next to a large blue toddler bed in a cozy bedroom. Axel looks uncertain, with wide eyes and a small frown. The room has warm yellow walls with star decorations, a colorful rug, and toys scattered around. Soft evening light streams through curtains.",
+            "alt": "Axel looking worried next to his new blue bed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I don't want to sleep there,\" Axel said to his mama. His bottom lip trembled and his eyes felt watery. Mama sat down next to him and gave him a gentle hug.",
+          "illustration": {
+            "description": "Axel's mama, a kind Black woman with natural hair in a colorful headwrap, sits on the edge of the bed hugging her son. Axel's face shows he's about to cry, with tears in his eyes. The illustration uses warm oranges and blues, showing the loving connection between mother and child.",
+            "alt": "Mama hugging scared Axel on his bed",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Talking About Feelings",
+      "pages": [
+        {
+          "text": "\"It's okay to feel scared,\" Mama said softly. \"New things can make us feel scared sometimes. But you know what? You are very brave, Axel. Being brave means doing something even when you feel scared.\"",
+          "illustration": {
+            "description": "Mama and Axel sit together on the bed, facing each other. Mama's expression is gentle and understanding, with a warm smile. Axel looks curious now instead of scared, his head tilted slightly. The room glows with soft lamp light, creating a safe, cozy atmosphere with golden hues.",
+            "alt": "Mama talking gently to Axel about being brave",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"When I feel scared, I take big deep breaths,\" Mama showed Axel. They breathed in slowly together - whoooosh in, whoooosh out. Axel felt a little bit better already.",
+          "illustration": {
+            "description": "Both Mama and Axel have their eyes closed, taking deep breaths together. Their cheeks are puffed out slightly as they exhale. Peaceful blue and purple swirls float around them to show the calming breaths. Both characters look more relaxed, with gentle smiles beginning to form.",
+            "alt": "Mama and Axel breathing deeply together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sweet Dreams",
+      "pages": [
+        {
+          "text": "Mama helped Axel think of happy things - playing at the park with his friend Maya, eating ice cream, and reading stories. \"Think about these happy things in your big boy bed,\" she said.",
+          "illustration": {
+            "description": "Thought bubbles above Axel's head show him playing on swings with Maya, a cheerful Latina girl with braided hair, both children laughing. Another bubble shows colorful ice cream, and another shows story books. Axel now looks happy and excited, his earlier fear replaced with joy.",
+            "alt": "Axel imagining happy memories in thought bubbles",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Axel climbed into his big bed and pulled up his cozy blanket. He took deep breaths and thought happy thoughts. \"I feel brave now!\" he said. Soon, Axel was fast asleep, dreaming sweet dreams.",
+          "illustration": {
+            "description": "Axel lies peacefully in his blue bed, covered by a soft rainbow-colored blanket. His face shows contentment and bravery, with a small smile as he sleeps. The room is dimly lit with a nightlight casting gentle star patterns on the walls. Everything feels safe and secure.",
+            "alt": "Axel sleeping peacefully in his big boy bed",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotions",
+      "bedtime routine",
+      "growing up",
+      "bravery",
+      "family support"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Axel feel about his new big bed at first?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Axel felt scared about sleeping in his new big boy bed because it was different from his old crib."
+      },
+      {
+        "id": 2,
+        "question": "What did Mama teach Axel to do when he feels scared?",
+        "choices": [
+          "Run away",
+          "Take deep breaths",
+          "Hide under covers"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mama taught Axel to take big deep breaths when he feels scared to help him feel better."
+      },
+      {
+        "id": 3,
+        "question": "What happy things did Axel think about?",
+        "choices": [
+          "Playing with Maya and eating ice cream",
+          "Watching scary movies",
+          "Cleaning his room"
+        ],
+        "correctIndex": 0,
+        "explanation": "Axel thought about happy things like playing at the park with his friend Maya and eating ice cream."
+      },
+      {
+        "id": 4,
+        "question": "How did Axel feel at the end of the story?",
+        "choices": [
+          "Still scared",
+          "Brave and peaceful",
+          "Sad"
+        ],
+        "correctIndex": 1,
+        "explanation": "By the end, Axel felt brave and peaceful, and he was able to sleep happily in his big boy bed."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Feelings",
+        "text": "Axel felt ____ about his new bed, but Mama helped him feel ____.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 11,
+            "correctWord": "brave",
+            "distractors": [
+              "sleepy",
+              "silly"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "What Did They Do?",
+        "text": "When Axel felt scared, Mama taught him to take big ____ and think ____ thoughts.",
+        "blanks": [
+          {
+            "wordIndex": 11,
+            "correctWord": "breaths",
+            "distractors": [
+              "jumps",
+              "steps"
+            ]
+          },
+          {
+            "wordIndex": 14,
+            "correctWord": "happy",
+            "distractors": [
+              "scary",
+              "loud"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "id": "toddler-adventure-025",
+  "title": "Suki and the Gentle Night Shadows",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "adventure",
+    "bedtime"
+  ],
+  "wordCount": 154,
+  "readingLevel": "1.2",
+  "synopsis": "When bedtime shadows make Suki feel scared, she discovers they're actually friendly nighttime helpers who keep her safe while she sleeps. With her teddy bear Mochi by her side, Suki learns to be brave and finds comfort in the gentle darkness.",
+  "coverImage": "covers/toddler-adventure-025.webp",
+  "chapters": [
+    {
+      "title": "Suki's Shadow Friends",
+      "pages": [
+        {
+          "text": "Suki sat on her bed with her fluffy teddy bear, Mochi. The sun was setting, and long shadows danced on her bedroom walls. \"I feel scared of the dark shadows,\" Suki whispered to Mochi, hugging him tight.",
+          "illustration": {
+            "description": "A young Japanese girl with shoulder-length black hair in purple pajamas sits cross-legged on a cozy bed, holding a cream-colored teddy bear. Soft evening light streams through a window, casting gentle shadows on cheerful yellow walls decorated with star stickers. Her expression shows slight worry as she looks at the moving shadows.",
+            "alt": "Suki sitting on her bed holding teddy bear Mochi, looking worried about shadows",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Suddenly, one shadow moved closer. \"Hello, Suki!\" said a gentle voice. It was Shadow Sam, a kind shadow friend. \"We're not scary - we're here to keep you safe at night. We watch over all the sleeping children in the neighborhood.\"",
+          "illustration": {
+            "description": "A friendly, rounded shadow figure with a warm smile and outstretched arms approaches Suki's bed. The shadow has a soft purple glow around its edges. Behind Shadow Sam, other gentle shadows of different sizes can be seen on the walls, all with kind expressions. Suki looks surprised but curious.",
+            "alt": "Friendly Shadow Sam introducing himself to surprised Suki",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Shadow Sam showed Suki how the shadows helped at night. \"We rock baby Maya next door when she cries,\" he explained. \"We keep the nightlight warm for little Carlos across the street. We even help tired parents find lost blankets.\" Suki felt brave and happy. \"Thank you for keeping us safe,\" she said, snuggling with Mochi. The shadows smiled and gently tucked her in. Suki felt cozy and loved as she drifted off to peaceful sleep.",
+          "illustration": {
+            "description": "Multiple diverse shadow figures perform gentle nighttime tasks around a dreamy montage - one rocking a cradle, another adjusting a nightlight, and one folding a blanket. In the center, Suki lies peacefully in bed with Mochi, smiling contentedly. The scene has a warm, magical blue-purple glow with twinkling stars visible through the window.",
+            "alt": "Shadow friends helping children sleep while Suki rests peacefully",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "overcoming fears",
+      "friendship",
+      "bedtime comfort",
+      "community helpers"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Suki feel about the shadows at first?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Excited"
+        ],
+        "correctIndex": 1,
+        "explanation": "Suki felt scared of the dark shadows on her bedroom walls."
+      },
+      {
+        "id": "q2",
+        "question": "What is the name of Suki's teddy bear?",
+        "choices": [
+          "Mochi",
+          "Cookie",
+          "Buddy"
+        ],
+        "correctIndex": 0,
+        "explanation": "Suki's fluffy teddy bear is named Mochi."
+      },
+      {
+        "id": "q3",
+        "question": "What do the shadow friends do at night?",
+        "choices": [
+          "Play games",
+          "Keep children safe",
+          "Make noise"
+        ],
+        "correctIndex": 1,
+        "explanation": "The shadow friends watch over and keep all the sleeping children safe at night."
+      },
+      {
+        "id": "q4",
+        "question": "How did Suki feel at the end of the story?",
+        "choices": [
+          "Sad and worried",
+          "Happy and brave",
+          "Angry and upset"
+        ],
+        "correctIndex": 1,
+        "explanation": "Suki felt happy and brave after learning the shadows were friendly helpers."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words - Page 1",
+        "text": "Suki sat on her bed with her fluffy teddy bear, ____. The sun was setting, and long ____ danced on her bedroom walls.",
+        "blanks": [
+          {
+            "wordIndex": 10,
+            "correctWord": "Mochi",
+            "distractors": [
+              "Shadow",
+              "Pillow",
+              "Cookie"
+            ]
+          },
+          {
+            "wordIndex": 17,
+            "correctWord": "shadows",
+            "distractors": [
+              "lights",
+              "toys",
+              "books"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Fill in the Missing Words - Page 2",
+        "text": "\"We're not scary - we're here to keep you ____ at night. We watch over all the sleeping children in the ____.\"",
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "safe",
+            "distractors": [
+              "awake",
+              "busy",
+              "cold"
+            ]
+          },
+          {
+            "wordIndex": 22,
+            "correctWord": "neighborhood",
+            "distractors": [
+              "house",
+              "garden",
+              "school"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Fill in the Missing Words - Page 3",
+        "text": "Suki felt ____ and happy. The shadows smiled and gently tucked her in. Suki felt cozy and ____ as she drifted off to peaceful sleep.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "brave",
+            "distractors": [
+              "scared",
+              "angry",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "loved",
+            "distractors": [
+              "worried",
+              "hungry",
+              "cold"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

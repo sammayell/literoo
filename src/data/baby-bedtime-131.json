@@ -1,0 +1,165 @@
+{
+  "id": "baby-bedtime-131",
+  "title": "Ines Counts Sleepy Friends",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "bedtime",
+    "counting"
+  ],
+  "wordCount": 48,
+  "readingLevel": "0.5",
+  "synopsis": "Little Ines counts her sleepy animal friends from one to five as they each make gentle sounds and settle down for the night, creating a soothing bedtime routine filled with soft counting and peaceful sounds.",
+  "coverImage": "covers/baby-bedtime-131.webp",
+  "chapters": [
+    {
+      "title": "Counting to Sleep",
+      "pages": [
+        {
+          "text": "One sleepy bear says yawn, yawn.",
+          "illustration": {
+            "description": "A gentle brown bear with round, soft features stretching and yawning in a cozy forest clearing. Little Ines, a toddler with curly dark hair and warm brown skin, sits nearby in soft pink pajamas. The scene is painted in warm pastels with golden evening light filtering through tall trees.",
+            "alt": "Ines watching a yawning brown bear in a peaceful forest",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Two soft bunnies hop, hop, hop.",
+          "illustration": {
+            "description": "Two fluffy white and gray bunnies with droopy ears hopping gently across a meadow dotted with small flowers. Ines claps her hands with delight, her eyes bright and happy. The illustration uses soft lavender and mint green tones with puffy clouds in a dusky sky.",
+            "alt": "Two bunnies hopping while Ines watches happily",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Three little owls hoot, hoot, hoot.",
+          "illustration": {
+            "description": "Three round, fluffy owls perched on a low tree branch, their large eyes blinking sleepily. Ines points up at them with wonder, her mouth forming a small 'o' of amazement. The scene is painted in soft blues and purples with twinkling stars beginning to appear in the twilight sky.",
+            "alt": "Three sleepy owls on a branch with Ines pointing up at them",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Four sleepy cats purr, purr, purr.",
+          "illustration": {
+            "description": "Four cats of different colors - orange, black, white, and gray - curled up together on a soft blanket under a large oak tree. Ines sits cross-legged nearby, gently petting the orange cat. The illustration features warm coral and cream colors with soft shadows from the tree.",
+            "alt": "Four purring cats on a blanket with Ines petting one",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Five gentle sheep baa, baa, baa.",
+          "illustration": {
+            "description": "Five fluffy white sheep with pink noses standing in a circle around Ines in a peaceful meadow. Ines sits in the center, looking drowsy and content. The scene is painted in soft whites and pale yellows with a crescent moon visible in the darkening sky above rolling hills.",
+            "alt": "Five sheep surrounding sleepy Ines in a moonlit meadow",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Shh, shh. All friends sleep now.",
+          "illustration": {
+            "description": "All the animals - bear, bunnies, owls, cats, and sheep - sleeping peacefully around Ines, who is now curled up with her eyes closed, thumb near her mouth. The scene is painted in deep blues and soft purples with gentle starlight, creating a dreamy, peaceful atmosphere.",
+            "alt": "All animals and Ines sleeping peacefully under the stars",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Ines counts dreams. One, two, three.",
+          "illustration": {
+            "description": "Ines fast asleep with a gentle smile, surrounded by dream bubbles showing her animal friends. The bear, bunnies, owls, cats, and sheep float in soft, translucent circles above her. The illustration uses ethereal pastels with soft glowing effects and twinkling stars.",
+            "alt": "Sleeping Ines with dream bubbles containing her animal friends",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sweet dreams, little one. Zzz, zzz.",
+          "illustration": {
+            "description": "A peaceful final scene showing Ines sleeping soundly in a cozy bed with a diverse family - her parents with different skin tones - watching over her lovingly. Soft moonlight streams through a window, and the room is painted in calming blues and whites with gentle shadows.",
+            "alt": "Ines sleeping peacefully in bed with loving parents nearby",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "counting",
+      "bedtime routine",
+      "animal sounds",
+      "peaceful sleep"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How many bears did Ines see?",
+        "choices": [
+          "One",
+          "Two"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ines saw one sleepy bear that said yawn, yawn."
+      },
+      {
+        "id": "q2",
+        "question": "What sound did the cats make?",
+        "choices": [
+          "Purr",
+          "Hoot"
+        ],
+        "correctIndex": 0,
+        "explanation": "The four sleepy cats went purr, purr, purr."
+      },
+      {
+        "id": "q3",
+        "question": "How many sheep were there?",
+        "choices": [
+          "Three",
+          "Five"
+        ],
+        "correctIndex": 1,
+        "explanation": "There were five gentle sheep that went baa, baa, baa."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Two soft bunnies ___, ___, ___.",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "hop",
+            "distractors": [
+              "run",
+              "jump",
+              "walk"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Four sleepy cats ___, ___, ___.",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "purr",
+            "distractors": [
+              "meow",
+              "hiss",
+              "bark"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

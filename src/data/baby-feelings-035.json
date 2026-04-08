@@ -1,0 +1,165 @@
+{
+  "id": "baby-feelings-035",
+  "title": "Wren's Happy Sounds",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "feelings",
+    "nature"
+  ],
+  "wordCount": 33,
+  "readingLevel": "0.1",
+  "synopsis": "Little Wren discovers the joyful sounds of nature around her garden, from buzzing bees to chirping birds, learning that each sound brings its own special happiness and wonder.",
+  "coverImage": "covers/baby-feelings-035.webp",
+  "chapters": [
+    {
+      "title": "Wren's Happy Sounds",
+      "pages": [
+        {
+          "text": "Wren hears buzz, buzz!",
+          "illustration": {
+            "description": "A cheerful toddler girl with warm brown skin and soft black curls sits in a sunny garden. She has bright, curious eyes and wears a pale yellow dress. A friendly cartoon bee with bold black stripes hovers nearby among oversized purple flowers. The background features soft green grass and pastel blue sky.",
+            "alt": "Wren listening to a buzzing bee in a colorful garden",
+            "layout": "centered"
+          }
+        },
+        {
+          "text": "Buzz makes Wren giggle!",
+          "illustration": {
+            "description": "Close-up of Wren's delighted face as she giggles with pure joy. Her eyes crinkle with happiness and her mouth is open in laughter. The same friendly bee dances in the air beside her head. Warm golden sunlight creates a gentle glow around her face and curls.",
+            "alt": "Wren giggling happily at the buzzing bee",
+            "layout": "portrait"
+          }
+        },
+        {
+          "text": "Wren hears chirp, chirp!",
+          "illustration": {
+            "description": "Wren looks up at a small red robin perched on a low tree branch. The bird has a bright orange breast and friendly black eyes. Wren points upward with excitement, her face filled with wonder. Soft green leaves frame the scene with dappled sunlight filtering through.",
+            "alt": "Wren pointing at a chirping robin in a tree",
+            "layout": "vertical"
+          }
+        },
+        {
+          "text": "Chirp makes Wren clap!",
+          "illustration": {
+            "description": "Wren claps her small hands together with delight, her arms raised high. The robin still sits on the branch above, seeming to sing just for her. Her expression shows pure excitement and joy. Pastel pink cherry blossoms float gently around the scene.",
+            "alt": "Wren clapping her hands while the robin chirps",
+            "layout": "action"
+          }
+        },
+        {
+          "text": "Wren hears splash, splash!",
+          "illustration": {
+            "description": "Wren kneels beside a small garden pond where a brown duck with an iridescent green head creates gentle ripples. Water droplets catch the light as they splash. Wren's reflection wavers in the clear blue water alongside floating lily pads and small yellow water flowers.",
+            "alt": "Wren watching a duck splash in a garden pond",
+            "layout": "horizontal"
+          }
+        },
+        {
+          "text": "Splash makes Wren smile!",
+          "illustration": {
+            "description": "Wren's face lights up with the biggest, warmest smile as she watches the water ripples spread. Her dark eyes sparkle with happiness and wonder. The duck swims peacefully nearby, and the water reflects soft blues and greens. Everything feels calm and joyful.",
+            "alt": "Wren smiling widely at the splashing water",
+            "layout": "close-up"
+          }
+        },
+        {
+          "text": "Wren hears whoosh, whoosh!",
+          "illustration": {
+            "description": "A gentle breeze makes the tree branches sway and Wren's curls dance around her face. Her light dress flutters in the wind as she stands with arms outstretched. Soft green leaves swirl through the air in graceful patterns around her small figure.",
+            "alt": "Wren enjoying the whooshing wind in the garden",
+            "layout": "dynamic"
+          }
+        },
+        {
+          "text": "All sounds make Wren happy!",
+          "illustration": {
+            "description": "Wren sits cross-legged in the center of the garden, surrounded by all her sound friends - the bee, robin, duck, and swaying leaves. She has the most content, peaceful expression with arms spread wide in joy. The entire scene glows with warm, golden afternoon light creating a magical, harmonious feeling.",
+            "alt": "Wren sitting happily surrounded by all the sounds of nature",
+            "layout": "panoramic"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "joy",
+      "nature sounds",
+      "sensory exploration",
+      "happiness"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does the bee make?",
+        "choices": [
+          "buzz",
+          "chirp"
+        ],
+        "correctIndex": 0,
+        "explanation": "The bee makes a buzz, buzz sound that makes Wren giggle!"
+      },
+      {
+        "id": "q2",
+        "question": "What does Wren do when she hears the bird?",
+        "choices": [
+          "clap",
+          "splash"
+        ],
+        "correctIndex": 0,
+        "explanation": "Wren claps her hands when she hears the bird chirp!"
+      },
+      {
+        "id": "q3",
+        "question": "How do all the sounds make Wren feel?",
+        "choices": [
+          "happy",
+          "sleepy"
+        ],
+        "correctIndex": 0,
+        "explanation": "All the nature sounds make Wren feel happy and joyful!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Wren hears _____, buzz!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "buzz",
+            "distractors": [
+              "chirp",
+              "splash",
+              "whoosh"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Chirp makes Wren _____!",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "clap",
+            "distractors": [
+              "buzz",
+              "giggle",
+              "splash"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

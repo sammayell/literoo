@@ -1,0 +1,211 @@
+{
+  "id": "toddler-animals-092",
+  "title": "Elio and the Lost Baby Bird",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "animals",
+    "adventure"
+  ],
+  "wordCount": 211,
+  "readingLevel": "1.2",
+  "synopsis": "When Elio finds a scared baby bird that has fallen from its nest, he goes on a brave adventure through his neighborhood to help it get back home to its mama, learning about kindness and courage along the way.",
+  "coverImage": "covers/toddler-animals-092.webp",
+  "chapters": [
+    {
+      "title": "The Little Bird",
+      "pages": [
+        {
+          "text": "Elio was playing in his backyard when he heard a tiny sound. \"Peep! Peep!\" He looked around and saw a small baby bird on the ground. The little bird looked scared and sad.",
+          "illustration": {
+            "description": "A cheerful Latino boy with curly dark hair and warm brown skin wearing a bright red t-shirt and blue shorts, crouching down in a green backyard. A small yellow baby bird sits on the grass nearby looking worried. The scene is bright and sunny with colorful flowers and a wooden fence in the background.",
+            "alt": "Elio discovers a baby bird in his backyard",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Oh no, little bird! Are you hurt?\" Elio asked gently. The baby bird flapped its tiny wings but couldn't fly. Elio felt worried too. He wanted to help his new friend feel better.",
+          "illustration": {
+            "description": "Close-up of Elio's kind face with concerned brown eyes as he reaches out slowly toward the baby bird. The bird has fluffy yellow feathers and big round eyes showing fear. Soft green grass surrounds them with dappled sunlight creating a warm, gentle mood.",
+            "alt": "Elio gently approaches the scared baby bird",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Looking for Mama",
+      "pages": [
+        {
+          "text": "Elio carefully picked up the baby bird. \"Don't be scared,\" he whispered. \"I'll help you find your mama.\" He looked up at the tall oak tree. Way up high, he could see a nest among the green leaves.",
+          "illustration": {
+            "description": "Elio holding the small yellow bird gently in his cupped hands, both looking up at a large oak tree. The perspective shows them from below looking up at green branches with a small nest visible high above. The composition emphasizes the height of the tree and the challenge ahead.",
+            "alt": "Elio and the bird look up at the high nest",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"That must be your home,\" Elio said. But the tree was very tall! Elio felt a little scared, but he also felt brave. He wanted to help his feathered friend get back to his family.",
+          "illustration": {
+            "description": "Elio standing at the base of the enormous oak tree, looking determined despite being much smaller than the tree. The baby bird peeks out from his protective hands. Warm afternoon light filters through the leaves, and the tree trunk has a textured brown bark pattern.",
+            "alt": "Elio looks brave despite the tall tree challenge",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Safe at Home",
+      "pages": [
+        {
+          "text": "Elio ran to get his dad. \"Papa, can you help?\" His dad smiled and brought a tall ladder. Together, they climbed up, up, up to the nest. Elio's heart felt happy and excited!",
+          "illustration": {
+            "description": "Elio and his father, a tall Latino man with a mustache wearing a green plaid shirt, climbing a wooden ladder against the oak tree. Elio holds the bird carefully while his dad supports the ladder. Both have determined, caring expressions as they work together.",
+            "alt": "Elio and his dad climb up to help the bird",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Gently, Elio placed the baby bird back in its cozy nest. \"Mama! Mama!\" chirped the baby bird happily. A beautiful blue bird appeared and hugged her baby with her wings. Elio felt so proud and happy that he helped!",
+          "illustration": {
+            "description": "A heartwarming scene in the nest showing the reunion of the yellow baby bird with its bright blue mama bird. They nuzzle together lovingly while Elio watches with a huge smile from the ladder. The nest is woven with twigs and soft materials, surrounded by green leaves and golden sunlight.",
+            "alt": "Happy reunion as baby bird returns to mama",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "kindness",
+      "bravery",
+      "helping others",
+      "family"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Elio feel when he first saw the baby bird?",
+        "choices": [
+          "Happy and excited",
+          "Worried and wanted to help",
+          "Angry and upset"
+        ],
+        "correctIndex": 1,
+        "explanation": "Elio felt worried when he saw the scared baby bird and wanted to help it."
+      },
+      {
+        "id": 2,
+        "question": "Where was the baby bird's home?",
+        "choices": [
+          "In a doghouse",
+          "High up in the oak tree",
+          "Under a rock"
+        ],
+        "correctIndex": 1,
+        "explanation": "The baby bird's nest was high up in the tall oak tree."
+      },
+      {
+        "id": 3,
+        "question": "Who helped Elio reach the nest?",
+        "choices": [
+          "His mama",
+          "His papa with a ladder",
+          "A neighbor"
+        ],
+        "correctIndex": 1,
+        "explanation": "Elio's papa helped by bringing a tall ladder so they could reach the high nest."
+      },
+      {
+        "id": 4,
+        "question": "How did Elio feel at the end of the story?",
+        "choices": [
+          "Sad and tired",
+          "Scared and worried",
+          "Proud and happy"
+        ],
+        "correctIndex": 2,
+        "explanation": "Elio felt proud and happy because he helped the baby bird get back to its mama."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words",
+        "text": "Elio found a little _____ on the ground. The bird looked _____ and couldn't fly. Elio felt _____ and wanted to help.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "bird",
+            "distractors": [
+              "cat",
+              "dog",
+              "toy"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "sleepy",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "worried",
+            "distractors": [
+              "angry",
+              "silly",
+              "cold"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Complete the Story",
+        "text": "Elio and his _____ used a tall _____ to climb up to the nest. When the baby bird saw its _____, it felt very happy!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "papa",
+            "distractors": [
+              "mama",
+              "friend",
+              "teacher"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "ladder",
+            "distractors": [
+              "rope",
+              "chair",
+              "box"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "mama",
+            "distractors": [
+              "papa",
+              "sister",
+              "friend"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

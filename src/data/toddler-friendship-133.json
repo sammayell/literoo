@@ -1,0 +1,167 @@
+{
+  "id": "toddler-friendship-133",
+  "title": "Kira and the Shy Squirrel",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "nature"
+  ],
+  "wordCount": 221,
+  "readingLevel": "1.2",
+  "synopsis": "When Kira finds a scared squirrel hiding in the park, she learns how to be patient and kind to help make a new friend. Through gentle persistence and sharing, Kira discovers that friendship takes time and understanding.",
+  "coverImage": "covers/toddler-friendship-133.webp",
+  "chapters": [
+    {
+      "title": "A New Friend",
+      "pages": [
+        {
+          "text": "Kira loved playing in the sunny park. She had curly black hair that bounced when she ran. Today, she felt happy and excited to explore. But then she heard a tiny sound - squeak, squeak! Behind a big oak tree, Kira saw a small gray squirrel. The squirrel looked scared and was shaking.",
+          "illustration": {
+            "description": "A cheerful young Black girl with bouncy curly hair wearing a bright yellow dress stands in a sunny park with green grass and colorful flowers. Behind a large brown oak tree, a small gray squirrel peeks out nervously, its eyes wide with worry. The background shows blue sky, puffy white clouds, and other children playing in the distance.",
+            "alt": "Kira discovers a scared squirrel hiding behind a tree in the park",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Hello, little squirrel,\" Kira said softly. But the squirrel ran higher up the tree! Kira felt sad. She wanted to be friends, but the squirrel was too scared. \"Don't worry,\" she whispered. \"I won't hurt you.\" Kira sat down quietly under the tree and waited. Being patient was hard, but she wanted to help.",
+          "illustration": {
+            "description": "Kira sits cross-legged on the grass under the oak tree, looking up with a gentle, patient expression. The gray squirrel is now higher in the tree branches, still looking frightened but curious. Kira's posture is calm and non-threatening, with her hands resting peacefully in her lap. Dappled sunlight filters through the green leaves above.",
+            "alt": "Kira sits patiently under the tree while the scared squirrel watches from above",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Kira had an idea! She pulled out her snack - some nuts her mom packed. She placed them gently on the ground and stepped back. \"These are for you,\" she said kindly. Slowly, very slowly, the squirrel came down. First one branch, then another. The squirrel was still nervous but curious about the nuts.",
+          "illustration": {
+            "description": "Kira stands a few feet away from the tree, smiling encouragingly as she watches the gray squirrel cautiously descend branch by branch. Small brown nuts are scattered on the grass near the tree base. The squirrel's body language shows it's still wary but interested, with one paw reaching toward a lower branch.",
+            "alt": "The squirrel carefully climbs down toward the nuts Kira left",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The brave little squirrel finally touched the ground! It grabbed a nut and looked at Kira. This time, it didn't run away. Kira felt so happy! She sat very still as the squirrel ate. \"You're not so scared now,\" she whispered. The squirrel's tail twitched, and Kira giggled softly. They were becoming friends! Sometimes friendship takes time, and that's okay.",
+          "illustration": {
+            "description": "Kira and the squirrel share a peaceful moment together on the grass. The squirrel sits upright holding a nut, no longer looking scared but alert and friendly. Kira beams with joy, her eyes sparkling with happiness. The scene is warm and golden with afternoon sunlight, showing the beginning of a beautiful friendship between girl and squirrel.",
+            "alt": "Kira and the squirrel share a peaceful, friendly moment together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "patience",
+      "kindness",
+      "overcoming fear",
+      "making friends"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did the squirrel feel at the beginning of the story?",
+        "choices": [
+          "Happy and excited",
+          "Scared and shaking",
+          "Angry and loud"
+        ],
+        "correctIndex": 1,
+        "explanation": "The squirrel was scared and shaking when Kira first found it behind the tree."
+      },
+      {
+        "id": "q2",
+        "question": "What did Kira do to help the squirrel feel better?",
+        "choices": [
+          "She chased it up the tree",
+          "She shared her nuts and was patient",
+          "She made loud noises"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kira shared her nuts and waited patiently for the squirrel to feel safe enough to come down."
+      },
+      {
+        "id": "q3",
+        "question": "How did Kira feel when the squirrel finally came down?",
+        "choices": [
+          "Scared",
+          "Sad",
+          "Happy"
+        ],
+        "correctIndex": 2,
+        "explanation": "Kira felt happy when the squirrel was brave enough to come down and eat the nuts."
+      },
+      {
+        "id": "q4",
+        "question": "What did Kira learn about friendship?",
+        "choices": [
+          "Friends should be loud",
+          "Sometimes friendship takes time",
+          "Friends always run away"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kira learned that sometimes friendship takes time and patience, and that's okay."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words",
+        "text": "Kira saw a small ___ squirrel. The squirrel looked ___ and was shaking.",
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "gray",
+            "distractors": [
+              "red",
+              "blue",
+              "purple"
+            ]
+          },
+          {
+            "wordIndex": 8,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "angry",
+              "sleepy"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Complete the Story",
+        "text": "Kira had some ___ for the squirrel. She waited ___ under the tree.",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "nuts",
+            "distractors": [
+              "cookies",
+              "toys",
+              "books"
+            ]
+          },
+          {
+            "wordIndex": 8,
+            "correctWord": "patiently",
+            "distractors": [
+              "loudly",
+              "quickly",
+              "sadly"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "id": "baby-bedtime-051",
+  "title": "Emma's Sleepy Stars",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "bedtime",
+    "counting"
+  ],
+  "wordCount": 53,
+  "readingLevel": "0.5",
+  "synopsis": "Little Emma counts twinkling stars from one to five as she gets ready for bed, with each star making a gentle 'twinkle' sound that helps her drift off to sleep in this soothing bedtime counting adventure.",
+  "coverImage": "covers/baby-bedtime-051.webp",
+  "chapters": [
+    {
+      "title": "Emma's Sleepy Stars",
+      "pages": [
+        {
+          "text": "Emma sees one star. Twinkle!",
+          "illustration": {
+            "description": "Emma, a young Latina toddler with curly dark hair in soft pajamas with moon patterns, stands at her bedroom window pointing up at the night sky. One bright yellow star twinkles above in a deep purple sky. Her round face shows wonder and delight. The room has warm peach walls and a cozy lamp glowing softly.",
+            "alt": "Emma pointing at one twinkling star through her bedroom window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Emma sees two stars. Twinkle, twinkle!",
+          "illustration": {
+            "description": "Emma claps her small hands together with joy as two golden stars shine brightly in the darker evening sky. Her pajamas are pale lavender with tiny star prints. Her expression is delighted and excited. The window frame is painted white and soft curtains with constellation patterns frame the scene.",
+            "alt": "Emma clapping as two stars twinkle in the night sky",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Emma sees three stars. Twinkle, twinkle, twinkle!",
+          "illustration": {
+            "description": "Emma sits on a plush cream-colored window seat with a small stuffed bunny, gazing up at three shimmering stars arranged in a gentle triangle. Her curly hair catches the soft starlight. The room is dimmer now with a warm nightlight casting a gentle glow on pastel pink walls decorated with cloud shapes.",
+            "alt": "Emma sitting with her bunny looking at three twinkling stars",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Emma sees four stars. Twinkle, twinkle, twinkle, twinkle!",
+          "illustration": {
+            "description": "Emma yawns softly while holding her stuffed bunny close, as four bright stars form a diamond pattern in the midnight blue sky. Her eyelids are getting heavy and her posture is more relaxed. A mobile with soft fabric stars hangs nearby, and a cozy rocking chair sits in the corner with a quilted blanket.",
+            "alt": "Sleepy Emma yawning while looking at four twinkling stars",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Emma sees five stars. Twinkle, twinkle, twinkle, twinkle, twinkle!",
+          "illustration": {
+            "description": "Emma rubs her sleepy eyes with tiny fists as five golden stars twinkle in a gentle arc across the deep navy sky. Her curly hair is slightly mussed and her expression is drowsy but content. The bedroom is softly lit by the starlight streaming through sheer curtains with a dreamy, peaceful atmosphere.",
+            "alt": "Very sleepy Emma rubbing her eyes as five stars twinkle overhead",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama tucks Emma in. Shhh...",
+          "illustration": {
+            "description": "Emma's mama, a warm-skinned woman with long dark hair in a soft yellow nightgown, gently pulls a light blue blanket with star patterns up to Emma's chin. Emma lies in her white crib with wooden rails, holding her bunny. The room is bathed in gentle moonlight with all five stars visible through the window.",
+            "alt": "Mama tucking Emma into her crib under a starry blanket",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Emma closes her eyes. The stars say goodnight.",
+          "illustration": {
+            "description": "Emma sleeps peacefully in her crib with closed eyes and a gentle smile, her stuffed bunny tucked beside her. The five stars outside seem to pulse more softly now, creating a dreamy glow. The room is filled with soft blues and purples, creating the perfect sleepy atmosphere with a crescent moon visible in the corner of the window.",
+            "alt": "Emma sleeping peacefully as the stars glow softly outside",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sweet dreams, Emma. Twinkle... twinkle...",
+          "illustration": {
+            "description": "The entire scene is bathed in the softest pastels as Emma sleeps deeply, curled up with her bunny. The five stars fade to a gentle shimmer in the pale dawn sky. Her mama's silhouette can be seen in the doorway, watching lovingly. Everything feels warm, safe, and peaceful with hints of sunrise pink beginning to touch the edges of the sky.",
+            "alt": "Emma sleeping peacefully as dawn approaches and stars fade gently",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "counting",
+      "nature",
+      "family love"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "What sound do the stars make?",
+        "choices": [
+          "Twinkle",
+          "Buzz"
+        ],
+        "correctIndex": 0,
+        "explanation": "The stars say 'twinkle' throughout the story!"
+      },
+      {
+        "id": 2,
+        "question": "Who tucks Emma into bed?",
+        "choices": [
+          "Daddy",
+          "Mama"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mama tucks Emma in with her cozy blanket."
+      },
+      {
+        "id": 3,
+        "question": "What does Emma hold while sleeping?",
+        "choices": [
+          "Bunny",
+          "Ball"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emma cuddles her stuffed bunny throughout the story."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Count the Stars",
+        "text": "Emma sees ___ stars. Twinkle, twinkle, twinkle!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "three",
+            "distractors": [
+              "two",
+              "four",
+              "five"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Bedtime Sounds",
+        "text": "Mama tucks Emma in. ___...",
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "Shhh",
+            "distractors": [
+              "Twinkle",
+              "Buzz",
+              "Clap"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

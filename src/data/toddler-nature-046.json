@@ -1,0 +1,176 @@
+{
+  "id": "toddler-nature-046",
+  "title": "Otis and the Scared Little Seed",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "nature",
+    "school"
+  ],
+  "wordCount": 254,
+  "readingLevel": "1.2",
+  "synopsis": "When Otis plants a seed at preschool, it won't grow because it's too scared. With gentle care and encouraging words, Otis helps the little seed feel brave enough to sprout into a beautiful sunflower.",
+  "coverImage": "covers/toddler-nature-046.webp",
+  "chapters": [
+    {
+      "title": "The Scared Little Seed",
+      "pages": [
+        {
+          "text": "Otis was excited at preschool today. His teacher Ms. Chen gave each child a tiny sunflower seed to plant. Otis held his seed gently in his small brown hands. \"Hello, little seed,\" he whispered. \"I'm going to help you grow big and strong!\"",
+          "illustration": {
+            "description": "A cheerful preschool classroom with bright yellow walls and colorful learning posters. Otis, a 3-year-old Black boy with short curly hair and a big smile, sits at a low wooden table wearing a green t-shirt. He's holding a small seed in his cupped palms, looking down at it with wonder. Ms. Chen, an Asian woman with long black hair in a ponytail, stands nearby smiling warmly. Other diverse children are visible in the background at similar tables.",
+            "alt": "Otis holding a seed in his hands at preschool",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Otis carefully put his seed in a small pot with soft dirt. He gave it water and placed it by the sunny window. Every day, Otis checked on his seed. But after a whole week, nothing happened! All the other children's seeds had started to grow, but Otis's seed stayed hidden in the dirt.",
+          "illustration": {
+            "description": "A bright windowsill in the classroom with several small terracotta pots lined up. Most pots have tiny green sprouts poking through the soil, but one pot remains empty with just dark brown dirt visible. Otis kneels beside the windowsill with a worried expression, his eyebrows slightly furrowed as he looks at his pot. Sunlight streams through the window, casting warm golden rays across the scene.",
+            "alt": "Otis looking worried at his pot with no sprout while other pots have small green plants",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Otis felt sad. \"Why won't you grow, little seed?\" he asked quietly. Just then, he heard a tiny, scared voice: \"I'm too frightened to come out!\" Otis looked around in surprise. The voice was coming from his pot! \"Don't be scared,\" Otis said gently. \"I'll take good care of you.\"",
+          "illustration": {
+            "description": "A close-up view of Otis leaning down toward his pot, his ear almost touching the soil as if listening carefully. His expression shows surprise and wonder with wide eyes and an 'o' shaped mouth. Small, sparkly speech bubbles float near the pot suggesting the seed's tiny voice. The pot sits on the wooden windowsill with soft afternoon light creating a magical, warm glow around the scene.",
+            "alt": "Otis listening to his seed with surprise and wonder",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Every day, Otis talked to his scared little seed. He sang soft songs and told funny stories. \"You're safe here,\" he whispered. \"I believe you can be brave.\" Slowly, the little seed began to feel happy and loved. One morning, Otis saw something wonderful - a tiny green sprout had poked through the dirt!",
+          "illustration": {
+            "description": "Otis sits cross-legged on a colorful classroom rug in front of his pot, which now has a small but visible bright green sprout emerging from the dark soil. His face radiates joy and pride with a huge smile and sparkling eyes. Musical notes and heart shapes float in the air around him, suggesting his songs and love. The morning sunlight creates a golden backdrop, and other children can be seen celebrating in the background.",
+            "alt": "Otis celebrating as his seed finally sprouts with a tiny green shoot",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I did it! I was brave!\" said the little sprout in its tiny voice. Otis clapped his hands with joy. \"You're the most beautiful plant ever!\" he said proudly. The little seed had grown because it felt loved and safe. Otis learned that sometimes being gentle and patient helps others feel brave too.",
+          "illustration": {
+            "description": "The sprout has grown taller with two small green leaves, and Otis is gently touching one leaf with his finger while beaming with pride. The classroom is filled with warm, golden light, and Ms. Chen stands behind Otis with an approving smile. Other diverse children gather around admiringly, pointing and smiling at Otis's successful plant. The scene conveys warmth, accomplishment, and community celebration.",
+            "alt": "Otis proudly showing off his grown sprout to his teacher and classmates",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "empathy",
+      "patience",
+      "nature",
+      "overcoming fear",
+      "nurturing"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Otis feel when his seed wouldn't grow?",
+        "choices": [
+          "Happy",
+          "Sad",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Otis felt sad when his seed wouldn't grow while all the other seeds were sprouting."
+      },
+      {
+        "id": 2,
+        "question": "Why was the seed scared to grow?",
+        "choices": [
+          "It was too cold",
+          "It was frightened",
+          "It was tired"
+        ],
+        "correctIndex": 1,
+        "explanation": "The little seed told Otis it was too frightened to come out of the dirt."
+      },
+      {
+        "id": 3,
+        "question": "What did Otis do to help his seed feel brave?",
+        "choices": [
+          "Gave it more water",
+          "Sang songs and told stories",
+          "Moved it to a different spot"
+        ],
+        "correctIndex": 1,
+        "explanation": "Otis sang soft songs and told funny stories to help his seed feel loved and safe."
+      },
+      {
+        "id": 4,
+        "question": "How did the seed feel when it finally sprouted?",
+        "choices": [
+          "Scared",
+          "Brave",
+          "Sleepy"
+        ],
+        "correctIndex": 1,
+        "explanation": "The little sprout said 'I did it! I was brave!' when it finally grew."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words - Page 1",
+        "text": "Otis was _____ at preschool today. His teacher gave him a tiny _____ to plant.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "excited",
+            "distractors": [
+              "tired",
+              "hungry",
+              "sad"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "seed",
+            "distractors": [
+              "book",
+              "toy",
+              "cookie"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Fill in the Missing Words - Page 2",
+        "text": "The little seed was too _____ to come out. Otis sang _____ songs to help it feel brave.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "big",
+              "fast"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "soft",
+            "distractors": [
+              "loud",
+              "scary",
+              "fast"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

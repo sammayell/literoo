@@ -1,0 +1,174 @@
+{
+  "id": "baby-nature-048",
+  "title": "Quinn's Sleepy Forest",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "nature",
+    "bedtime"
+  ],
+  "wordCount": 54,
+  "readingLevel": "0.5",
+  "synopsis": "Quinn, a young boy with warm brown skin and curly hair, takes a gentle journey through a peaceful forest as day turns to night. He discovers sleeping animals and soothing sounds, creating a calming bedtime story perfect for babies learning about nature and nighttime routines.",
+  "coverImage": "covers/baby-nature-048.webp",
+  "chapters": [
+    {
+      "title": "Quinn's Sleepy Forest",
+      "pages": [
+        {
+          "text": "Quinn walks softly. Shh, shh, shh.",
+          "illustration": {
+            "description": "Quinn, a toddler with warm brown skin and soft curly black hair, wearing pale blue pajamas, walks barefoot on a mossy forest path. Tall green trees with rounded shapes surround him in warm golden evening light. His expression is calm and curious, with large bright eyes looking ahead.",
+            "alt": "Quinn walking quietly through a peaceful forest",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Bunny sleeps quietly. Shh, shh, shh.",
+          "illustration": {
+            "description": "A fluffy white bunny curled up sleeping beneath a large mushroom with red cap and white spots. Soft purple and pink flowers dot the forest floor around the bunny. Quinn stands nearby watching gently, his finger to his lips in a 'quiet' gesture.",
+            "alt": "Sleeping bunny under mushroom with Quinn watching quietly",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Owl hoots softly. Hoo, hoo, hoo.",
+          "illustration": {
+            "description": "A round, fluffy brown owl with large golden eyes perched on a low branch of an oak tree. Quinn looks up at the owl with wonder, both arms raised slightly. The background shows a dusky sky with the first stars appearing, painted in soft lavender and peach tones.",
+            "alt": "Quinn looking up at a hooting owl in evening light",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Bear snores loudly. Zzz, zzz, zzz.",
+          "illustration": {
+            "description": "A large, friendly brown bear sleeping peacefully against a wide tree trunk, with visible 'Z' symbols floating above him. Quinn stands at a safe distance, smiling softly. The bear has a gentle expression even while sleeping, and autumn leaves in warm oranges and yellows surround them both.",
+            "alt": "Sleeping bear with Quinn watching from nearby",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Wind whispers gently. Whoosh, whoosh, whoosh.",
+          "illustration": {
+            "description": "Quinn's curly hair and pajamas flutter gently in a soft breeze. Tree branches sway with leaves dancing in the wind, shown with subtle motion lines. The scene has a dreamy quality with soft green and blue tones, and Quinn's eyes are half-closed, looking peaceful and sleepy.",
+            "alt": "Quinn feeling gentle wind in the forest",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Stream bubbles softly. Babble, babble, babble.",
+          "illustration": {
+            "description": "A small, clear stream flows over smooth stones with tiny bubbles and ripples visible on the surface. Quinn kneels beside the water, one hand touching the cool stream. Small white and yellow flowers grow along the bank, and the water reflects the darkening sky above.",
+            "alt": "Quinn beside a gentle babbling stream",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Fireflies dance quietly. Twinkle, twinkle, twinkle.",
+          "illustration": {
+            "description": "Dozens of tiny golden fireflies float around Quinn in the now-dark forest, creating magical points of warm light. Quinn reaches one hand up toward them with joy, his face illuminated by their gentle glow. The background is deep blue-purple with the fireflies creating a enchanting atmosphere.",
+            "alt": "Quinn surrounded by twinkling fireflies at night",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Quinn yawns sleepily. Ahh, ahh, ahh.",
+          "illustration": {
+            "description": "Quinn sits on a soft patch of moss, stretching his arms up in a big yawn. His eyes are droopy and peaceful. A diverse group of forest friends - the white bunny, brown owl, and a small gray squirrel - gather nearby, all looking sleepy. The scene is bathed in soft moonlight with gentle blue and silver tones.",
+            "alt": "Sleepy Quinn yawning with forest animal friends nearby",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Everyone dreams sweetly. Shh, shh, shh.",
+          "illustration": {
+            "description": "Quinn lies curled up sleeping peacefully on the soft forest floor, covered by a blanket of fallen leaves in warm autumn colors. All the forest animals sleep nearby - the bunny, owl, bear, and squirrel - creating a cozy circle of friends. Stars twinkle overhead through the tree branches in a deep indigo sky.",
+            "alt": "Quinn and all forest animals sleeping peacefully together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "nature",
+      "bedtime",
+      "quiet sounds",
+      "forest animals",
+      "peaceful sleep"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does the owl make?",
+        "choices": [
+          "Hoo, hoo, hoo",
+          "Zzz, zzz, zzz"
+        ],
+        "correctIndex": 0,
+        "explanation": "The owl says 'Hoo, hoo, hoo' when it hoots softly in the forest."
+      },
+      {
+        "id": "q2",
+        "question": "Where does the bunny sleep?",
+        "choices": [
+          "Under a mushroom",
+          "In a tree"
+        ],
+        "correctIndex": 0,
+        "explanation": "The bunny sleeps quietly under a big mushroom with red cap and white spots."
+      },
+      {
+        "id": "q3",
+        "question": "What makes the twinkle sound?",
+        "choices": [
+          "The stream",
+          "The fireflies"
+        ],
+        "correctIndex": 1,
+        "explanation": "The fireflies dance and make a twinkling sound as they light up the night."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Quinn walks _____. Shh, shh, shh.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "softly",
+            "distractors": [
+              "loudly",
+              "quickly",
+              "slowly"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Owl _____ softly. Hoo, hoo, hoo.",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "hoots",
+            "distractors": [
+              "sleeps",
+              "walks",
+              "flies"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

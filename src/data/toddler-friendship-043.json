@@ -1,0 +1,211 @@
+{
+  "id": "toddler-friendship-043",
+  "title": "Yara and the Shy Butterfly",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "nature"
+  ],
+  "wordCount": 276,
+  "readingLevel": "1.2",
+  "synopsis": "When Yara finds a scared butterfly hiding in her garden, she learns how to be patient and gentle to help her new friend feel brave enough to come out and play.",
+  "coverImage": "covers/toddler-friendship-043.webp",
+  "chapters": [
+    {
+      "title": "A New Friend",
+      "pages": [
+        {
+          "text": "Yara loved playing in her family's garden. She had curly black hair and wore her favorite yellow dress with tiny flowers on it. Today, she was looking for pretty bugs to watch. 'Where are all the butterflies?' Yara wondered out loud. She felt curious and excited to find some new friends.",
+          "illustration": {
+            "description": "A cheerful young girl with curly black hair wearing a bright yellow dress with small flower patterns. She's standing in a lush garden with green plants and colorful flowers around her. Her expression is curious and happy as she looks around. The illustration uses warm, bright colors with a slightly textured background that looks like construction paper.",
+            "alt": "Yara, a young girl with curly hair in a yellow dress, exploring a colorful garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Behind a big sunflower, Yara heard a tiny voice. 'I'm too scared to come out,' whispered someone very small. Yara looked carefully and saw beautiful orange and black wings peeking out. It was a butterfly! But the butterfly looked sad and frightened. Yara felt worried about her new friend.",
+          "illustration": {
+            "description": "Yara kneeling down near a tall bright yellow sunflower, peering gently behind it. Orange and black butterfly wings are barely visible behind the flower's green stem. Yara's face shows concern and kindness. The garden setting is warm with golden sunlight filtering through, creating a cozy but slightly mysterious mood with soft shadows.",
+            "alt": "Yara discovering a shy butterfly hiding behind a sunflower",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Hello, little butterfly,' Yara said in her softest voice. 'I'm Yara. What's your name?' The butterfly peeked out a little more. 'I'm Bella,' she said quietly. 'I'm scared because I'm new to this garden. What if the other butterflies don't like me?' Bella's wings trembled as she spoke. Yara felt sad that Bella was so frightened.",
+          "illustration": {
+            "description": "A close-up view showing Yara sitting cross-legged on the grass, speaking gently to a beautiful monarch butterfly named Bella who is partially hidden behind flower stems. Bella has vibrant orange wings with black borders and white spots. Yara's expression is kind and patient. The background shows soft green grass and flower stems in warm, comforting colors.",
+            "alt": "Yara talking gently to Bella the butterfly who is still partly hiding",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'I was scared when I started at my new daycare too,' Yara said kindly. 'But then I met my friend Marcus and teacher Ms. Chen, and they were so nice!' Yara smiled warmly. 'Would you like me to help you meet the other butterflies? We can go slowly.' Bella felt a little bit braver hearing Yara's gentle words.",
+          "illustration": {
+            "description": "Yara extending her hand palm-up toward Bella, with a warm encouraging smile. Bella the butterfly is now fully visible, her orange and black wings catching dappled sunlight. In the background, other colorful butterflies can be seen flying around purple and pink flowers. The scene feels hopeful and bright, with soft golden lighting and cheerful primary colors throughout the garden.",
+            "alt": "Yara offering friendship to Bella while other butterflies play in the background",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Slowly, Bella flew to Yara's outstretched finger. Together, they watched the other butterflies dancing around the flowers. 'They look friendly!' Bella said, feeling excited now. Soon, a blue butterfly and a yellow butterfly came over to say hello. Bella felt so happy and brave! Yara felt proud that she helped her new friend. They played together all afternoon in the sunny garden.",
+          "illustration": {
+            "description": "A joyful scene showing Yara with Bella perched on her finger, surrounded by several colorful butterflies - blue, yellow, and purple ones flying around them. All the butterflies have friendly, smiling expressions. Yara looks delighted and proud. The garden is in full bloom with bright flowers everywhere. The composition is celebratory with butterflies creating a gentle circle around Yara and Bella in warm, happy colors.",
+            "alt": "Yara and Bella surrounded by friendly butterflies in a celebration of new friendship",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "courage",
+      "kindness",
+      "empathy"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Bella the butterfly feel at the beginning of the story?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bella felt scared because she was new to the garden and worried the other butterflies wouldn't like her."
+      },
+      {
+        "id": "q2",
+        "question": "How did Yara help Bella feel better?",
+        "choices": [
+          "She spoke loudly",
+          "She spoke softly and kindly",
+          "She ran away"
+        ],
+        "correctIndex": 1,
+        "explanation": "Yara used her softest voice and spoke kindly to help Bella feel safe and brave."
+      },
+      {
+        "id": "q3",
+        "question": "What color dress was Yara wearing?",
+        "choices": [
+          "Blue",
+          "Red",
+          "Yellow"
+        ],
+        "correctIndex": 2,
+        "explanation": "Yara wore her favorite yellow dress with tiny flowers on it."
+      },
+      {
+        "id": "q4",
+        "question": "How did Bella feel at the end of the story?",
+        "choices": [
+          "Sad",
+          "Happy and brave",
+          "Sleepy"
+        ],
+        "correctIndex": 1,
+        "explanation": "After meeting the other butterflies with Yara's help, Bella felt happy and brave."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Complete the Story",
+        "text": "Yara loved playing in her family's ___1___. Behind a big sunflower, she found Bella the ___2___. Bella felt ___3___ because she was new. Yara spoke in her softest ___4___ to help Bella feel better.",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "garden",
+            "distractors": [
+              "house",
+              "car",
+              "school"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "butterfly",
+            "distractors": [
+              "bird",
+              "cat",
+              "dog"
+            ]
+          },
+          {
+            "wordIndex": 3,
+            "correctWord": "scared",
+            "distractors": [
+              "hungry",
+              "cold",
+              "tall"
+            ]
+          },
+          {
+            "wordIndex": 4,
+            "correctWord": "voice",
+            "distractors": [
+              "shoe",
+              "book",
+              "cup"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Feelings and Friends",
+        "text": "At first, Bella was too ___1___ to come out from hiding. But Yara was very ___2___ and patient. Together, they met other friendly ___3___. At the end, Bella felt ___4___ and brave!",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "loud",
+              "big"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "kind",
+            "distractors": [
+              "fast",
+              "small",
+              "red"
+            ]
+          },
+          {
+            "wordIndex": 3,
+            "correctWord": "butterflies",
+            "distractors": [
+              "flowers",
+              "trees",
+              "rocks"
+            ]
+          },
+          {
+            "wordIndex": 4,
+            "correctWord": "happy",
+            "distractors": [
+              "sad",
+              "angry",
+              "tired"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

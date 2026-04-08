@@ -1,0 +1,179 @@
+{
+  "id": "toddler-adventure-135",
+  "title": "Wren's Sleepy Star Adventure",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "adventure",
+    "bedtime"
+  ],
+  "wordCount": 203,
+  "readingLevel": "1.2",
+  "synopsis": "When little Wren discovers that a star has fallen from the sky and feels sad and scared, she embarks on a gentle nighttime adventure to help the star find its way back home, learning about kindness and bravery along the way.",
+  "coverImage": "covers/toddler-adventure-135.webp",
+  "chapters": [
+    {
+      "title": "The Lost Star",
+      "pages": [
+        {
+          "text": "Wren was getting ready for bed when she heard a tiny, sad sound from her backyard. She looked out her window and gasped! A little star was sitting in her garden, glowing softly and looking very scared.",
+          "illustration": {
+            "description": "A young Black girl with curly hair in purple pajamas peers out of her bedroom window. In the garden below, a small, glowing golden star sits among colorful flowers, looking worried with droopy points. The night sky is deep blue with a few twinkling stars above.",
+            "alt": "Wren looking out her window at a sad star in the garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Don't be scared, little star,\" Wren whispered as she tiptoed outside. The star looked up with sparkly eyes. \"I fell down and I can't get back home,\" the star said softly. Wren felt sorry for the lonely star.",
+          "illustration": {
+            "description": "Wren kneels in the garden next to the glowing star, both surrounded by purple and pink flowers. The star has a gentle, sad expression with tear-like sparkles. Wren reaches out her hand with a kind, caring expression on her face.",
+            "alt": "Wren comforting the sad fallen star in the garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I'll help you get home!\" Wren said bravely. She gently picked up the warm, glowing star. Together, they walked to the big hill behind her house. The star felt happy that Wren was being so kind and helpful.",
+          "illustration": {
+            "description": "Wren walks up a grassy hill holding the glowing star carefully in her hands. The star now looks hopeful with brighter sparkles around it. In the background, a cozy house with warm yellow windows sits at the bottom of the hill.",
+            "alt": "Wren carrying the hopeful star up the hill",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "At the top of the hill, Wren held the star up high toward the dark sky. \"Jump when you're ready,\" she said. The star glowed brighter and brighter, then leaped up into the night sky with a happy twinkle. \"Thank you, brave Wren!\" it called.",
+          "illustration": {
+            "description": "Wren stands on the hilltop with her arms raised up high, releasing the star into the starry night sky. The star trails golden sparkles as it flies upward, looking joyful. The moon smiles down from above, and other stars seem to welcome their friend home.",
+            "alt": "Wren releasing the happy star back to the night sky",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Wren felt proud and happy as she walked back home. She had been brave and helped a friend in need. As she snuggled into her cozy bed, the little star winked at her from the sky, and Wren drifted off to sleep with a smile.",
+          "illustration": {
+            "description": "Wren sleeps peacefully in her bed with a content smile, covered by a soft blue blanket. Through her window, the night sky shows the little star twinkling extra bright among its star friends. Warm moonlight streams through the window, creating a magical, peaceful bedtime scene.",
+            "alt": "Wren sleeping peacefully while the star twinkles outside her window",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "kindness",
+      "bravery",
+      "helping others",
+      "bedtime comfort"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did the star feel when Wren first found it?",
+        "choices": [
+          "Happy and excited",
+          "Sad and scared",
+          "Angry and loud"
+        ],
+        "correctIndex": 1,
+        "explanation": "The star was sad and scared because it had fallen from the sky and couldn't get back home."
+      },
+      {
+        "id": "q2",
+        "question": "What did Wren do to help the star?",
+        "choices": [
+          "She sang a song",
+          "She carried it up the hill",
+          "She gave it food"
+        ],
+        "correctIndex": 1,
+        "explanation": "Wren bravely carried the star up the big hill so it could jump back into the sky."
+      },
+      {
+        "id": "q3",
+        "question": "How did Wren feel after helping the star?",
+        "choices": [
+          "Tired and grumpy",
+          "Proud and happy",
+          "Scared and worried"
+        ],
+        "correctIndex": 1,
+        "explanation": "Wren felt proud and happy because she had been brave and helped her new friend."
+      },
+      {
+        "id": "q4",
+        "question": "What did the star do to thank Wren?",
+        "choices": [
+          "It gave her a present",
+          "It winked at her from the sky",
+          "It sang a lullaby"
+        ],
+        "correctIndex": 1,
+        "explanation": "The grateful star winked at Wren from the night sky as she went to sleep."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Help Wren Find the Right Words!",
+        "instructions": "Fill in the missing words from the story.",
+        "sentences": [
+          {
+            "text": "The little star was feeling ___ and scared in the garden.",
+            "wordIndex": 5,
+            "correctWord": "sad",
+            "distractors": [
+              "mad",
+              "loud",
+              "big"
+            ]
+          },
+          {
+            "text": "Wren was very ___ when she decided to help the star.",
+            "wordIndex": 3,
+            "correctWord": "brave",
+            "distractors": [
+              "sleepy",
+              "hungry",
+              "cold"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Complete the Adventure!",
+        "instructions": "Choose the right word to finish each sentence.",
+        "sentences": [
+          {
+            "text": "Wren carried the star up the big ___.",
+            "wordIndex": 7,
+            "correctWord": "hill",
+            "distractors": [
+              "tree",
+              "car",
+              "house"
+            ]
+          },
+          {
+            "text": "The star felt ___ when Wren helped it get home.",
+            "wordIndex": 3,
+            "correctWord": "happy",
+            "distractors": [
+              "angry",
+              "scared",
+              "sleepy"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

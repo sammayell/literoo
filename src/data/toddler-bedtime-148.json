@@ -1,0 +1,173 @@
+{
+  "id": "toddler-bedtime-148",
+  "title": "Quinn's Big Night Light",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "bedtime",
+    "feelings"
+  ],
+  "wordCount": 167,
+  "readingLevel": "1.2",
+  "synopsis": "When Quinn's night light breaks, he feels scared about sleeping in the dark. With help from his mama and big sister Zara, Quinn discovers he's braver than he thought and finds a new way to feel safe at bedtime.",
+  "coverImage": "covers/toddler-bedtime-148.webp",
+  "chapters": [
+    {
+      "title": "The Broken Night Light",
+      "pages": [
+        {
+          "text": "Quinn loved his rocket night light. It made his room glow with soft blue stars. Every night, the happy light helped him feel safe and sleepy.",
+          "illustration": {
+            "description": "A cozy bedroom with Quinn, a young Black boy with curly hair, sitting on his bed looking lovingly at a rocket-shaped night light projecting blue stars on the ceiling. The room has warm yellow walls, colorful toys, and a cheerful atmosphere. Quinn wears dinosaur pajamas and has a big smile.",
+            "alt": "Quinn in his pajamas admiring his rocket night light in his cozy bedroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "But tonight was different. When Mama pressed the button, nothing happened. The rocket was broken! Quinn's bottom lip started to wobble. He felt scared.",
+          "illustration": {
+            "description": "Quinn's mama, a Black woman with natural hair in a colorful headwrap and gentle expression, kneeling beside Quinn's bed holding the dark night light. Quinn looks worried with wide eyes and a trembling lip. The room feels dimmer without the light, with shadows in soft purples and blues.",
+            "alt": "Mama holding the broken night light while Quinn looks scared and worried",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I don't want to sleep in the dark!\" Quinn said with tears in his eyes. \"The dark feels too big and scary.\" Mama gave him a warm, gentle hug.",
+          "illustration": {
+            "description": "Mama embracing Quinn in a comforting hug on his bed. Quinn has small tears on his cheeks but looks comforted in his mama's arms. The room is darker now but Mama's presence feels warm and safe. Soft moonlight streams through the window with star-patterned curtains.",
+            "alt": "Mama hugging Quinn to comfort him about the dark room",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Finding Brave",
+      "pages": [
+        {
+          "text": "Zara, Quinn's big sister, peeked in. She had brown skin like Quinn and wore star pajamas. \"I have an idea!\" she said with a bright smile. \"Let's make our own stars!\"",
+          "illustration": {
+            "description": "Zara, a cheerful Black girl with braided hair and star-patterned pajamas, standing in the doorway with an excited expression and raised finger. She looks confident and caring. Behind her, the hallway has warm lighting, and she radiates positive energy with her bright smile.",
+            "alt": "Zara in star pajamas standing in the doorway with a helpful idea",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Zara brought glow-in-the-dark star stickers. Together, they stuck them all over Quinn's ceiling. \"Now you'll have stars every night!\" she said. Quinn felt happy and proud.",
+          "illustration": {
+            "description": "Quinn and Zara working together, with Quinn standing on his bed reaching up to place glowing star stickers on the ceiling while Zara helps from beside the bed. Both children look joyful and focused. The stickers emit a soft green glow, creating a magical atmosphere in the room.",
+            "alt": "Quinn and Zara putting glow-in-the-dark stars on the ceiling together",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Quinn looked up at his new glowing stars and smiled big. \"I feel brave now!\" he said. The stars twinkled softly as he drifted off to sleep, feeling safe and loved.",
+          "illustration": {
+            "description": "Quinn peacefully sleeping in his bed with a contented smile, surrounded by the gentle glow of star stickers on the ceiling. The room feels cozy and magical with the soft green light from the stars. Mama and Zara can be seen in the doorway, smiling warmly at the sleeping boy.",
+            "alt": "Quinn sleeping peacefully under his new glowing stars with family watching lovingly",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "overcoming fear",
+      "family support",
+      "bedtime comfort",
+      "sibling love"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "How did Quinn feel when his night light broke?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Sleepy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Quinn felt scared because he didn't want to sleep in the dark without his night light."
+      },
+      {
+        "id": 2,
+        "question": "Who helped Quinn solve his problem?",
+        "choices": [
+          "His dog",
+          "His sister Zara",
+          "His teacher"
+        ],
+        "correctIndex": 1,
+        "explanation": "Zara, Quinn's big sister, helped by bringing glow-in-the-dark star stickers."
+      },
+      {
+        "id": 3,
+        "question": "What did they use to make new stars?",
+        "choices": [
+          "Stickers",
+          "Crayons",
+          "Blocks"
+        ],
+        "correctIndex": 0,
+        "explanation": "They used glow-in-the-dark star stickers to put on Quinn's ceiling."
+      },
+      {
+        "id": 4,
+        "question": "How did Quinn feel at the end?",
+        "choices": [
+          "Sad",
+          "Angry",
+          "Brave"
+        ],
+        "correctIndex": 2,
+        "explanation": "Quinn felt brave and safe with his new glowing stars watching over him."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words",
+        "text": "Quinn loved his rocket night ___. When it broke, he felt ___. But Zara helped him put up glowing ___ stickers!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "light",
+            "distractors": [
+              "toy",
+              "book",
+              "pillow"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "hungry",
+              "cold"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "star",
+            "distractors": [
+              "moon",
+              "sun",
+              "circle"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

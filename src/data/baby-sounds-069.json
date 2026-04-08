@@ -1,0 +1,184 @@
+{
+  "id": "baby-sounds-069",
+  "title": "Aiko's Animal Sounds",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "sounds",
+    "animals"
+  ],
+  "wordCount": 48,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Aiko explores her backyard and makes friends with different animals, learning their special sounds. Each animal greets her with their unique noise, from moo to chirp, creating a delightful sound adventure perfect for little ones learning about animals and onomatopoeia.",
+  "coverImage": "covers/baby-sounds-069.webp",
+  "chapters": [
+    {
+      "title": "Animal Friends Say Hello",
+      "pages": [
+        {
+          "text": "Aiko goes outside to play.",
+          "illustration": {
+            "description": "A happy Japanese-American toddler with short black hair in pigtails wearing a bright yellow dress walks through an open garden gate. The background shows a sunny backyard with soft green grass and colorful flowers. Her expression is curious and joyful with large, bright eyes.",
+            "alt": "Aiko walking into backyard garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Moo! Moo!\" says the cow.",
+          "illustration": {
+            "description": "A friendly brown and white spotted cow with a big pink nose and gentle eyes stands behind a wooden fence. Aiko stands nearby, clapping her hands with delight. The cow's mouth is open as if mooing. Soft pastel colors with a peaceful farm setting in the background.",
+            "alt": "Cow saying moo to Aiko",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Woof! Woof!\" says the dog.",
+          "illustration": {
+            "description": "A golden retriever puppy with a wagging tail sits in front of Aiko, looking up at her with bright, friendly eyes. Aiko is giggling and reaching out to pet the dog. The scene is set on soft green grass with dappled sunlight filtering through trees.",
+            "alt": "Dog barking at Aiko",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Meow! Meow!\" says the cat.",
+          "illustration": {
+            "description": "A fluffy orange tabby cat sits on a garden wall, looking down at Aiko with bright green eyes. The cat's tail is curled and its mouth is open in a meow. Aiko looks up with wonder, her arms outstretched. Soft watercolor style with warm orange and cream tones.",
+            "alt": "Cat meowing to Aiko",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Oink! Oink!\" says the pig.",
+          "illustration": {
+            "description": "A chubby pink pig with a curly tail stands in a muddy pen, looking happy with small bright eyes and a snout pointed upward. Aiko peers through wooden fence slats, smiling widely. The background shows a rustic farm setting with soft brown earth tones and pink highlights.",
+            "alt": "Pig oinking at Aiko",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Chirp! Chirp!\" says the bird.",
+          "illustration": {
+            "description": "A small blue bird perches on a low tree branch at Aiko's eye level, with its beak open in song. Aiko stands close by, her hands pressed together in delight, eyes wide with wonder. The background features soft green leaves and dappled sunlight in gentle watercolor washes.",
+            "alt": "Bird chirping to Aiko",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Baa! Baa!\" says the sheep.",
+          "illustration": {
+            "description": "A fluffy white sheep with a black face stands in a grassy meadow, looking directly at Aiko with gentle dark eyes. Aiko is clapping her hands together, her face bright with joy. The scene uses soft whites, creams, and gentle green tones with a peaceful countryside background.",
+            "alt": "Sheep saying baa to Aiko",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Neigh! Neigh!\" says the horse.",
+          "illustration": {
+            "description": "A brown horse with a flowing dark mane leans its head over a white fence toward Aiko, who reaches up to touch the horse's nose. The horse's eyes are kind and gentle, and its mouth is open as if neighing. Warm brown and cream colors dominate the peaceful stable setting.",
+            "alt": "Horse neighing to Aiko",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "All the animals say goodbye! Aiko waves bye-bye.",
+          "illustration": {
+            "description": "Aiko stands in the center of the yard waving with both hands raised high, surrounded by all the animals from the story - cow, dog, cat, pig, bird, sheep, and horse - all visible in the background. Everyone looks happy and content. The scene uses warm, golden sunset colors creating a cozy, peaceful ending.",
+            "alt": "Aiko waving goodbye to all the animals",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "animal sounds",
+      "friendship",
+      "nature exploration",
+      "onomatopoeia"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does the cow make?",
+        "choices": [
+          "Moo",
+          "Woof"
+        ],
+        "correctIndex": 0,
+        "explanation": "Cows say 'Moo! Moo!' like the friendly cow in Aiko's backyard."
+      },
+      {
+        "id": "q2",
+        "question": "Which animal says 'Chirp'?",
+        "choices": [
+          "Cat",
+          "Bird"
+        ],
+        "correctIndex": 1,
+        "explanation": "The little blue bird says 'Chirp! Chirp!' when it sings to Aiko."
+      },
+      {
+        "id": "q3",
+        "question": "What does Aiko do at the end?",
+        "choices": [
+          "Waves goodbye",
+          "Goes to sleep"
+        ],
+        "correctIndex": 0,
+        "explanation": "Aiko waves bye-bye to all her new animal friends before going inside."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Animal Sounds",
+        "text": "The cow says '____! ____!' to Aiko.",
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "Moo",
+            "distractors": [
+              "Woof",
+              "Meow",
+              "Chirp"
+            ]
+          },
+          {
+            "wordIndex": 4,
+            "correctWord": "Moo",
+            "distractors": [
+              "Baa",
+              "Oink",
+              "Neigh"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "What Says What?",
+        "text": "The ____ says 'Woof! Woof!' and wags its tail.",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "dog",
+            "distractors": [
+              "cat",
+              "bird",
+              "pig"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

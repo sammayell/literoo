@@ -1,0 +1,188 @@
+{
+  "id": "toddler-feelings-071",
+  "title": "Keiko's Big Brave Day",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "feelings",
+    "family"
+  ],
+  "wordCount": 207,
+  "readingLevel": "1.2",
+  "synopsis": "When Keiko feels scared about her first day at a new daycare, Mama helps her find ways to be brave and make new friends, showing that it's okay to feel scared and that courage grows with love and support.",
+  "coverImage": "covers/toddler-feelings-071.webp",
+  "chapters": [
+    {
+      "title": "Scared Feelings",
+      "pages": [
+        {
+          "text": "Keiko looked at the big daycare building with wide eyes. Her tummy felt funny and her hands felt shaky. 'I'm scared, Mama,' she whispered, holding tight to her purple backpack.",
+          "illustration": {
+            "description": "A young Japanese girl with shoulder-length black hair and bangs, wearing a bright yellow dress and carrying a small purple backpack, standing hand-in-hand with her mother in front of a cheerful daycare building. Keiko's expression shows worry with big eyes and a slight frown. The building is painted in warm colors with colorful windows and a rainbow on the door. The scene has a soft morning light with textured, construction paper-like backgrounds.",
+            "alt": "Keiko looking worried while holding her mother's hand outside daycare",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama knelt down and gave Keiko a warm hug. 'It's okay to feel scared about new places,' she said softly. 'But you know what? You are very brave, even when you feel scared.'",
+          "illustration": {
+            "description": "Keiko's mother, a woman with long black hair in a gentle bun wearing a soft blue cardigan, kneeling at eye level with Keiko and embracing her tenderly. Both have peaceful, loving expressions. The background shows the daycare entrance with other diverse families walking by - a Latino father with his son, an elderly Black grandmother with twin girls. The colors are warm and comforting with golden morning sunlight filtering through.",
+            "alt": "Mama hugging Keiko reassuringly outside the daycare",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'How can I be brave?' Keiko asked. Mama smiled and pointed to Keiko's heart. 'Being brave means doing something even when you feel scared. And remember, I'll always come back for you.'",
+          "illustration": {
+            "description": "Close-up of Keiko's face showing curiosity mixed with nervousness, with her mother's gentle hand placed over Keiko's heart area. Keiko's expression is softening from worried to thoughtful. The background is softly blurred with warm, peachy tones. Keiko's yellow dress stands out brightly, and you can see her small hands clutching her purple backpack straps.",
+            "alt": "Mama explaining bravery to Keiko with her hand over Keiko's heart",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Finding Brave",
+      "pages": [
+        {
+          "text": "Inside the daycare, Keiko met Ms. Rosa, her teacher. Ms. Rosa had a kind smile and showed Keiko the reading corner with soft pillows. Keiko still felt a little scared, but also a tiny bit curious.",
+          "illustration": {
+            "description": "A warm classroom scene with Ms. Rosa, a friendly Latina woman with curly brown hair wearing a colorful apron, showing Keiko a cozy reading nook filled with bright cushions and picture books. Keiko looks hesitant but interested, still holding her backpack. Other children of various ethnicities are playing in the background - building blocks, painting, playing with dolls. The room is filled with primary colors and child-friendly decorations.",
+            "alt": "Ms. Rosa showing Keiko the reading corner in the bright classroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A boy named Marcus came over with a puzzle. 'Want to help me?' he asked with a friendly smile. Keiko felt nervous but nodded. 'I'm scared too sometimes,' Marcus whispered. 'But puzzles make me happy.'",
+          "illustration": {
+            "description": "Keiko and Marcus, a cheerful Black boy with short curly hair wearing a green striped shirt, sitting cross-legged on the floor working on a colorful animal puzzle together. Keiko's expression shows she's becoming more relaxed, with a small smile starting to appear. Marcus has an encouraging, warm expression. Around them, other children are engaged in various activities, creating a busy but welcoming atmosphere with bright, primary-colored toys and furniture.",
+            "alt": "Keiko and Marcus working on a puzzle together on the classroom floor",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "By lunchtime, Keiko felt proud and happy. She had shared her crackers with Aisha, helped water the plants, and even sang a song! When Mama came back, Keiko ran to her with a big smile. 'I was brave today!' she said.",
+          "illustration": {
+            "description": "Keiko running joyfully toward her mother at pickup time, arms outstretched with a brilliant smile on her face, her purple backpack bouncing behind her. Her mother has her arms open wide with a proud, loving expression. In the background, other happy reunion scenes show diverse families - Ms. Rosa waving goodbye, Marcus hugging his grandmother, and Aisha (a girl with hijab) walking with her father. The scene is bathed in warm afternoon sunlight with golden tones.",
+            "alt": "Happy Keiko running to reunite with her mother at the end of the day",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "overcoming fear",
+      "family support",
+      "making friends",
+      "emotional growth"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Keiko feel about going to daycare at first?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Keiko felt scared about going to the new daycare because it was unfamiliar to her."
+      },
+      {
+        "id": "q2",
+        "question": "What did Mama tell Keiko about being brave?",
+        "choices": [
+          "Brave people never feel scared",
+          "Being brave means doing something even when you feel scared",
+          "Only big kids can be brave"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mama explained that being brave means doing something even when you feel scared."
+      },
+      {
+        "id": "q3",
+        "question": "Who was Keiko's new friend at daycare?",
+        "choices": [
+          "Marcus",
+          "Ms. Rosa",
+          "Aisha"
+        ],
+        "correctIndex": 0,
+        "explanation": "Marcus was the boy who invited Keiko to help with the puzzle and became her new friend."
+      },
+      {
+        "id": "q4",
+        "question": "How did Keiko feel at the end of the day?",
+        "choices": [
+          "Sad and scared",
+          "Proud and happy",
+          "Tired and grumpy"
+        ],
+        "correctIndex": 1,
+        "explanation": "By the end of the day, Keiko felt proud and happy because she had been brave and made new friends."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Feelings",
+        "text": "Keiko felt _____ about going to daycare, but Mama helped her be _____.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "sleepy",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 11,
+            "correctWord": "brave",
+            "distractors": [
+              "silly",
+              "quiet",
+              "fast"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "New Friends",
+        "text": "_____ asked Keiko to help with a puzzle, and it made her feel _____.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Marcus",
+            "distractors": [
+              "Mama",
+              "Ms. Rosa",
+              "Aisha"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "happy",
+            "distractors": [
+              "scared",
+              "angry",
+              "cold"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

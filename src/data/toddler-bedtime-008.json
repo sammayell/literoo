@@ -1,0 +1,178 @@
+{
+  "id": "toddler-bedtime-008",
+  "title": "Felix and the Bedtime Monster",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "bedtime",
+    "feelings"
+  ],
+  "wordCount": 263,
+  "readingLevel": "1.2",
+  "synopsis": "Felix feels scared when he thinks there's a monster in his room at bedtime, but with help from his mama and his brave teddy bear, he learns that the scary shadow is just his clothes and discovers he's braver than he thought.",
+  "coverImage": "covers/toddler-bedtime-008.webp",
+  "chapters": [
+    {
+      "title": "Scared at Bedtime",
+      "pages": [
+        {
+          "text": "Felix brushed his teeth and put on his soft blue pajamas. Mama tucked him into bed with his teddy bear, Benny. \"Goodnight, my brave boy,\" Mama said with a warm smile. But when she turned off the light, Felix felt scared.",
+          "illustration": {
+            "description": "Felix, a young Latino boy with curly dark hair, sits in bed wearing blue pajamas and holding a brown teddy bear. His mama, a woman with long black hair in a purple sweater, is tucking him in. The bedroom has warm yellow walls with star decorations. Felix looks worried while mama smiles kindly.",
+            "alt": "Felix in bed with his teddy bear while his mama tucks him in",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "In the corner of his room, Felix saw a big, dark shadow. It looked like a scary monster with long arms reaching out! Felix pulled his blanket up to his chin. His heart beat fast. \"Mama!\" he called out. \"There's a monster!\"",
+          "illustration": {
+            "description": "Felix's bedroom at night with moonlight streaming through the window. Felix, with wide frightened eyes, peeks over his blue blanket. In the corner, clothes hanging on a chair create a dark, monster-like shadow on the wall. The room has soft blue and purple nighttime colors with a gentle, slightly spooky atmosphere.",
+            "alt": "Felix looking scared at a shadow in his dark bedroom",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Finding Courage",
+      "pages": [
+        {
+          "text": "Mama came back into the room. \"What's wrong, Felix?\" she asked gently. Felix pointed to the scary shadow. \"It's right there!\" Mama sat on his bed and gave him a hug. \"Let's be brave together,\" she said. \"Sometimes things look different in the dark.\"",
+          "illustration": {
+            "description": "Mama sits on Felix's bed, hugging him close. Both are looking toward the shadow in the corner. The room is dimly lit by a small nightlight, creating a cozy, safe feeling. Mama has a calm, reassuring expression while Felix looks less scared but still uncertain, snuggled against his mama.",
+            "alt": "Mama hugging Felix on his bed, both looking at the shadow",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Felix held Benny tight. The teddy bear made him feel a little braver. \"Benny isn't scared,\" Felix whispered. Mama nodded. \"That's right. And you're brave too, just like Benny. Should we go see what's really there?\" Felix took a deep breath and felt happy that Mama was with him.",
+          "illustration": {
+            "description": "Close-up of Felix holding his brown teddy bear Benny close to his chest. Felix's expression is changing from scared to determined, with his mama's hand gently on his shoulder. The teddy bear has a friendly, brave expression with button eyes and a small smile. Warm golden light surrounds them, showing comfort and courage.",
+            "alt": "Felix hugging his brave teddy bear Benny with mama's support",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Not So Scary After All",
+      "pages": [
+        {
+          "text": "Together, Felix and Mama walked to the corner. Mama turned on the lamp. \"Look, Felix!\" The scary monster was just his jacket and pants hanging on the chair! Felix laughed. \"It's just my clothes!\" He felt so much braver now.",
+          "illustration": {
+            "description": "Felix and his mama stand next to a wooden chair with clothes draped over it - a red jacket and blue pants. The lamp is now on, casting bright yellow light that shows the clothes clearly. Felix is pointing and smiling with relief, while mama has a gentle, proud expression. The room looks friendly and normal in the light.",
+            "alt": "Felix and mama looking at clothes on a chair that looked like a monster",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Back in bed, Felix felt happy and safe. \"I was brave, wasn't I, Mama?\" he asked. \"Very brave,\" Mama said, kissing his forehead. \"Now you know there are no monsters here. Sweet dreams, my brave Felix.\" Felix hugged Benny and closed his eyes with a big smile.",
+          "illustration": {
+            "description": "Felix lies peacefully in bed, smiling contentedly while hugging his teddy bear. Mama leans over to give him a goodnight kiss on his forehead. The room is softly lit by a nightlight, showing the chair with clothes in the background looking perfectly normal. Stars on the walls seem to twinkle, and everything feels warm, safe, and cozy.",
+            "alt": "Felix sleeping peacefully with his teddy bear after being brave",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "overcoming fears",
+      "bedtime comfort",
+      "courage",
+      "parent-child bond"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright, cheerful cartoon style with expressive faces. Bold primary colors. Rounded, friendly shapes. Slightly textured backgrounds like construction paper."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Felix feel when he saw the shadow?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Excited"
+        ],
+        "correctIndex": 1,
+        "explanation": "Felix felt scared when he saw the dark shadow that looked like a monster."
+      },
+      {
+        "id": "q2",
+        "question": "What made Felix feel braver?",
+        "choices": [
+          "His teddy bear Benny",
+          "The scary shadow",
+          "His pajamas"
+        ],
+        "correctIndex": 0,
+        "explanation": "Felix held his teddy bear Benny tight, which made him feel braver."
+      },
+      {
+        "id": "q3",
+        "question": "What was the scary monster really?",
+        "choices": [
+          "A real monster",
+          "His clothes on a chair",
+          "A toy"
+        ],
+        "correctIndex": 1,
+        "explanation": "The scary monster was just Felix's jacket and pants hanging on a chair."
+      },
+      {
+        "id": "q4",
+        "question": "How did Felix feel at the end of the story?",
+        "choices": [
+          "Still scared",
+          "Happy and brave",
+          "Sad"
+        ],
+        "correctIndex": 1,
+        "explanation": "At the end, Felix felt happy and brave because he faced his fear and discovered there was no real monster."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words",
+        "text": "Felix felt _____ when he saw the shadow. But his teddy bear Benny made him feel _____. The scary monster was really just his _____ on a chair!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "excited",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "brave",
+            "distractors": [
+              "sad",
+              "angry",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "clothes",
+            "distractors": [
+              "toys",
+              "books",
+              "shoes"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

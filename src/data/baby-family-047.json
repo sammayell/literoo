@@ -1,0 +1,165 @@
+{
+  "id": "baby-family-047",
+  "title": "Peek-a-Boo, Esme!",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "family",
+    "peek-a-boo"
+  ],
+  "wordCount": 33,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Esme plays peek-a-boo with her loving family members throughout the day, discovering the joy of hiding and finding in this gentle, repetitive story perfect for the youngest readers.",
+  "coverImage": "covers/baby-family-047.webp",
+  "chapters": [
+    {
+      "title": "Peek-a-Boo with Family",
+      "pages": [
+        {
+          "text": "Where is Esme? Peek-a-boo!",
+          "illustration": {
+            "description": "Baby Esme with warm brown skin and curly black hair sits on a soft pink blanket, covering her bright brown eyes with tiny hands. She wears a yellow onesie with small flower prints. The background is a sunny nursery with pastel walls and soft toys scattered around.",
+            "alt": "Baby Esme playing peek-a-boo with her hands over her eyes",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Where is Mama? Peek-a-boo!",
+          "illustration": {
+            "description": "A loving mother with medium brown skin and long braided hair hides behind a large teddy bear, her gentle smile barely visible. She wears a soft lavender sweater. The scene is in the cozy living room with warm beige tones and a comfortable armchair in the background.",
+            "alt": "Mama hiding behind a teddy bear playing peek-a-boo",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Where is Papa? Peek-a-boo!",
+          "illustration": {
+            "description": "A cheerful father with darker brown skin and a neat beard peeks out from behind a bright blue pillow, his eyes twinkling with joy. He wears a mint green t-shirt. The setting shows part of a sofa with colorful cushions in soft pastels.",
+            "alt": "Papa hiding behind a blue pillow playing peek-a-boo",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Where is Grandma? Peek-a-boo!",
+          "illustration": {
+            "description": "A warm grandmother with silver-gray hair and gentle wrinkles hides behind her knitting, colorful yarn balls scattered around her. She has light brown skin and wears a coral cardigan. The background shows a sunny window with soft white curtains.",
+            "alt": "Grandma hiding behind her knitting playing peek-a-boo",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Where is kitty? Peek-a-boo!",
+          "illustration": {
+            "description": "A fluffy orange tabby cat hides behind a large potted plant with green leaves, only its bright green eyes and pink nose visible. The scene shows a corner of the room with warm wooden floors and a woven basket nearby.",
+            "alt": "Orange tabby cat hiding behind a plant playing peek-a-boo",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Where is doggy? Peek-a-boo!",
+          "illustration": {
+            "description": "A friendly golden retriever puppy hides behind a stack of colorful picture books, its tail wagging and barely visible. The dog's floppy ears peek out slightly. The background shows a soft reading nook with a small bookshelf and cushioned reading corner.",
+            "alt": "Golden retriever puppy hiding behind books playing peek-a-boo",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Where is brother? Peek-a-boo!",
+          "illustration": {
+            "description": "A young boy with curly hair similar to Esme's hides behind a large picture frame, giggling. He has the same warm brown skin tone and wears a bright red shirt. The frame shows a family photo, and the background is the hallway with soft cream walls.",
+            "alt": "Big brother hiding behind a picture frame playing peek-a-boo",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Everyone loves peek-a-boo! Giggle, giggle!",
+          "illustration": {
+            "description": "The whole loving family gathered together in a circle around baby Esme, everyone smiling and laughing. Esme sits in the center clapping her tiny hands with pure joy. The diverse family members all beam with happiness in the warm, sunlit living room filled with soft pastels.",
+            "alt": "Happy family gathered around baby Esme, all laughing and playing together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "peek-a-boo games",
+      "love",
+      "togetherness"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What game does Esme play with her family?",
+        "choices": [
+          "Peek-a-boo",
+          "Hide and seek"
+        ],
+        "correctIndex": 0,
+        "explanation": "Esme plays peek-a-boo with everyone in her family!"
+      },
+      {
+        "id": "q2",
+        "question": "What color is the kitty in the story?",
+        "choices": [
+          "Black",
+          "Orange"
+        ],
+        "correctIndex": 1,
+        "explanation": "The kitty is a fluffy orange tabby cat!"
+      },
+      {
+        "id": "q3",
+        "question": "Where does Grandma hide?",
+        "choices": [
+          "Behind her knitting",
+          "Behind a pillow"
+        ],
+        "correctIndex": 0,
+        "explanation": "Grandma hides behind her colorful knitting!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Where is ____? Peek-a-boo!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "Esme",
+            "distractors": [
+              "Mama",
+              "Papa",
+              "kitty"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Everyone loves ____! Giggle, giggle!",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "peek-a-boo",
+            "distractors": [
+              "hide",
+              "play",
+              "laugh"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "id": "baby-feelings-015",
+  "title": "Asha's Happy Heart",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "feelings",
+    "nature"
+  ],
+  "wordCount": 55,
+  "readingLevel": "0.5",
+  "synopsis": "Baby Asha discovers different feelings through gentle interactions with nature, from splashing in puddles to cuddling with soft animals, learning that all feelings are special and her heart is always full of love.",
+  "coverImage": "covers/baby-feelings-015.webp",
+  "chapters": [
+    {
+      "title": "Asha's Happy Heart",
+      "pages": [
+        {
+          "text": "Asha's heart goes thump-thump-thump!",
+          "illustration": {
+            "description": "A smiling toddler girl with dark curly hair and warm brown skin sits cross-legged, hands on her chest. She wears a soft yellow dress with tiny flowers. Gentle sunlight streams through a window behind her, creating warm golden tones. Her expression is joyful and curious.",
+            "alt": "Happy toddler Asha with hands on heart",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Rain goes pitter-patter! Asha feels excited.",
+          "illustration": {
+            "description": "Asha looks out a large window at gentle rain falling on green grass and colorful flowers. Raindrops are painted as soft blue dots against a pale gray sky. Her eyes are wide with wonder, pressed against the glass with small handprints visible.",
+            "alt": "Asha watching rain through window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Splash, splash! Asha feels giggly.",
+          "illustration": {
+            "description": "Asha jumps in a shallow puddle wearing bright yellow rain boots. Water droplets spray around her in cheerful arcs. A diverse group of children play in the background - a boy with red hair and freckles, and a girl with black braids. Everyone is laughing.",
+            "alt": "Asha splashing in puddles with friends",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Wind goes whoosh-whoosh! Asha feels surprised.",
+          "illustration": {
+            "description": "Asha's curly hair blows gently in the breeze as she stands in a meadow of soft pastel wildflowers. Her arms are outstretched, dress fluttering. Her expression shows delighted surprise with wide eyes and an open smile. Butterflies dance around her in soft blues and yellows.",
+            "alt": "Asha in windy meadow with butterflies",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Thunder goes rumble-rumble! Asha feels worried.",
+          "illustration": {
+            "description": "Asha sits on a soft couch, looking slightly concerned but safe. Her grandmother, an elderly woman with silver hair and kind eyes, wraps a cozy blanket around them both. The room is warm with soft lighting from a lamp, creating a secure atmosphere despite the storm outside.",
+            "alt": "Asha and grandmother during thunderstorm",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama's voice goes shhh-shhh! Asha feels calm.",
+          "illustration": {
+            "description": "Asha's mother, a woman with similar curly hair and warm brown skin, gently rocks Asha. Both have peaceful expressions. The mother wears a soft lavender sweater. The background shows a nursery with pale green walls and a mobile with soft animal shapes hanging nearby.",
+            "alt": "Mother comforting Asha in nursery",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Bunny's fur goes soft-soft! Asha feels gentle.",
+          "illustration": {
+            "description": "Asha carefully pets a fluffy white rabbit in a garden setting. Her touch is tender, and both she and the bunny look peaceful. Pink and white flowers bloom around them. A diverse family - including a father with a beard and a young boy - watches fondly from nearby.",
+            "alt": "Asha petting soft bunny in garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Birds go tweet-tweet! Asha feels happy again.",
+          "illustration": {
+            "description": "Asha claps her hands with pure joy as colorful birds perch on tree branches above her. The birds are painted in soft pastels - pink, blue, and yellow. Asha's smile is radiant, and musical notes seem to dance in the air around the cheerful scene.",
+            "alt": "Happy Asha with singing birds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Asha's heart goes thump-thump-thump! Full of love.",
+          "illustration": {
+            "description": "Asha sits in the same position as the first page, but now surrounded by soft heart shapes in warm pastels. Her expression is serene and content, hands still on her chest. The background glows with gentle golden light, suggesting the warmth of love filling her heart.",
+            "alt": "Peaceful Asha surrounded by hearts",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotions",
+      "nature sounds",
+      "comfort",
+      "family love"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly faces. High contrast for baby eyes. Simple backgrounds."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": 1,
+        "question": "What sound does Asha's heart make?",
+        "choices": [
+          "thump-thump-thump",
+          "tweet-tweet"
+        ],
+        "correctIndex": 0,
+        "explanation": "Asha's heart goes thump-thump-thump throughout the story!"
+      },
+      {
+        "id": 2,
+        "question": "What makes the pitter-patter sound?",
+        "choices": [
+          "birds",
+          "rain"
+        ],
+        "correctIndex": 1,
+        "explanation": "The rain goes pitter-patter on the window!"
+      },
+      {
+        "id": 3,
+        "question": "How does Asha feel when she pets the bunny?",
+        "choices": [
+          "gentle",
+          "worried"
+        ],
+        "correctIndex": 0,
+        "explanation": "Asha feels gentle when touching the soft bunny's fur!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "text": "Rain goes _____! Asha feels excited.",
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "pitter-patter",
+            "distractors": [
+              "thump-thump",
+              "whoosh-whoosh"
+            ]
+          }
+        ]
+      },
+      {
+        "text": "Asha's heart goes thump-thump-thump! Full of _____.",
+        "blanks": [
+          {
+            "wordIndex": 7,
+            "correctWord": "love",
+            "distractors": [
+              "rain",
+              "wind"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
