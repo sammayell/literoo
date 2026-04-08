@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import { Header } from "@/components/shared/Header";
 
 export default function ClassroomPage() {
   const [submitted, setSubmitted] = useState(false);
@@ -26,35 +27,7 @@ export default function ClassroomPage() {
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-blue-50 to-white">
-      {/* Header */}
-      <header className="bg-white/80 backdrop-blur border-b border-stone-200 sticky top-0 z-40">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex items-center justify-between h-16">
-            <Link href="/" className="flex items-center gap-3">
-              <div className="w-8 h-8 bg-brand-500 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-sm">L</span>
-              </div>
-              <span className="text-xl font-bold text-stone-900 font-[family-name:var(--font-lexend)]">
-                Literoo
-              </span>
-            </Link>
-            <div className="flex items-center gap-4">
-              <Link
-                href="/library"
-                className="text-sm text-stone-500 hover:text-brand-600 transition-colors"
-              >
-                Library
-              </Link>
-              <Link
-                href="/pricing"
-                className="text-sm text-stone-500 hover:text-brand-600 transition-colors"
-              >
-                Pricing
-              </Link>
-            </div>
-          </div>
-        </div>
-      </header>
+      <Header currentPage="classroom" />
 
       {/* Hero */}
       <section className="pt-20 pb-12 px-4 text-center">

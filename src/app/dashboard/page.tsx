@@ -1,6 +1,7 @@
 import { getAllBooks } from "@/lib/books";
 import { AGE_TIER_LABELS } from "@/lib/types";
 import DashboardClient from "@/components/dashboard/DashboardClient";
+import { Header } from "@/components/shared/Header";
 
 export default function DashboardPage() {
   const books = getAllBooks();
@@ -20,5 +21,10 @@ export default function DashboardPage() {
     hasPuzzle: !!b.puzzle,
   }));
 
-  return <DashboardClient books={bookMeta} />;
+  return (
+    <>
+      <Header currentPage="dashboard" />
+      <DashboardClient books={bookMeta} />
+    </>
+  );
 }

@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { getAllBooks, estimateReadTime, isFreeBook } from "@/lib/books";
 import { AGE_TIER_LABELS, AGE_TIER_COLORS, AgeTier } from "@/lib/types";
+import { Header } from "@/components/shared/Header";
 
 export default function LibraryPage() {
   const books = getAllBooks();
@@ -17,43 +18,7 @@ export default function LibraryPage() {
 
   return (
     <div className="min-h-screen">
-      {/* Header */}
-      <header className="bg-white border-b border-stone-200 sticky top-0 z-40">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex items-center justify-between h-16">
-            <div className="flex items-center gap-3">
-              <Link href="/" className="flex items-center gap-3">
-                <div className="w-8 h-8 bg-brand-500 rounded-lg flex items-center justify-center">
-                  <span className="text-white font-bold text-sm">L</span>
-                </div>
-                <h1 className="text-xl font-bold text-stone-900 font-[family-name:var(--font-lexend)]">
-                  Literoo
-                </h1>
-              </Link>
-            </div>
-            <div className="flex items-center gap-4">
-              <Link
-                href="/dashboard"
-                className="text-sm text-stone-500 hover:text-brand-600 transition-colors hidden sm:block"
-              >
-                Dashboard
-              </Link>
-              <Link
-                href="/info"
-                className="text-sm text-stone-500 hover:text-brand-600 transition-colors hidden sm:block"
-              >
-                For Parents
-              </Link>
-              <Link
-                href="/pricing"
-                className="text-sm text-stone-500 hover:text-brand-600 transition-colors hidden sm:block"
-              >
-                Pricing
-              </Link>
-            </div>
-          </div>
-        </div>
-      </header>
+      <Header currentPage="library" />
 
       {/* Hero */}
       <section className="bg-gradient-to-b from-brand-50 to-white py-16 px-4">

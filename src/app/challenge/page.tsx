@@ -10,6 +10,7 @@ import {
   type ChallengeState,
 } from "@/lib/challenge";
 import { GuaranteeBadge } from "@/components/shared/GuaranteeBadge";
+import { Header } from "@/components/shared/Header";
 
 export default function ChallengePage() {
   const router = useRouter();
@@ -40,25 +41,7 @@ export default function ChallengePage() {
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-brand-50 to-white">
-      {/* Header */}
-      <header className="bg-white/80 backdrop-blur border-b border-stone-200 sticky top-0 z-40">
-        <div className="max-w-3xl mx-auto px-4 py-4 flex items-center justify-between">
-          <Link
-            href="/"
-            className="flex items-center gap-2 text-stone-500 hover:text-brand-600 transition-colors"
-          >
-            <span className="text-sm">&larr; Home</span>
-          </Link>
-          <div className="flex items-center gap-3">
-            <div className="w-7 h-7 bg-brand-500 rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-xs">L</span>
-            </div>
-            <span className="text-sm font-semibold text-stone-700 font-[family-name:var(--font-lexend)]">
-              Literoo
-            </span>
-          </div>
-        </div>
-      </header>
+      <Header currentPage="challenge" />
 
       <main className="max-w-2xl mx-auto px-4 py-10">
         {/* Title */}
