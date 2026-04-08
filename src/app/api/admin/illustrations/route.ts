@@ -12,16 +12,22 @@ export async function GET(request: Request) {
   const status = searchParams.get("status");
   const tier = searchParams.get("tier");
 
+  const page = parseInt(searchParams.get("page") || "0");
+  const pageSize = parseInt(searchParams.get("pageSize") || "50");
+  const from = page * pageSize;
+  const to = from + pageSize - 1;
+
   let query = supabase
     .from("book_illustrations")
-    .select("*")
+    .select("*", { count: "exact" })
     .order("age_tier")
-    .order("book_id");
+    .order("book_id")
+    .range(from, to);
 
   if (status && status !== "all") query = query.eq("approval_status", status);
   if (tier && tier !== "all") query = query.eq("age_tier", tier);
 
-  const { data, error } = await query;
+  const { data, error, count } = await query;
 
   if (error) {
     // Table doesn't exist yet — return empty with needsSetup flag
@@ -39,7 +45,7 @@ export async function GET(request: Request) {
     complete: all.filter((b: any) => b.approval_status === "complete").length,
   };
 
-  return NextResponse.json({ books: data || [], stats });
+  return NextResponse.json({ books: data || [], stats, totalCount: count || 0, page, pageSize });
 }
 
 // POST: Actions

@@ -48,6 +48,9 @@ export default function AdminPage() {
   const [filterStatus, setFilterStatus] = useState<string>("all");
   const [needsSetup, setNeedsSetup] = useState(false);
   const [statsData, setStats] = useState({ total: 0, pending: 0, approved: 0, generating: 0, complete: 0 });
+  const [page, setPage] = useState(0);
+  const [totalCount, setTotalCount] = useState(0);
+  const pageSize = 50;
 
   // Load art styles
   useEffect(() => {
@@ -62,18 +65,16 @@ export default function AdminPage() {
     loadBooks();
   }, []);
 
-  async function loadBooks() {
+  async function loadBooks(p?: number) {
     setLoading(true);
+    const currentPage = p ?? page;
     try {
-      const res = await fetch(`/api/admin/illustrations?status=${filterStatus}&tier=${filterTier}`);
+      const res = await fetch(`/api/admin/illustrations?status=${filterStatus}&tier=${filterTier}&page=${currentPage}&pageSize=${pageSize}`);
       const data = await res.json();
       setBooks(data.books || []);
-      if (data.stats) {
-        setStats(data.stats);
-      }
-    } catch {
-      // API might not be set up yet
-    }
+      setTotalCount(data.totalCount || 0);
+      if (data.stats) setStats(data.stats);
+    } catch {}
     setLoading(false);
   }
 
@@ -138,10 +139,17 @@ export default function AdminPage() {
     loadBooks();
   }
 
-  // Reload when filters change
+  // Reload when filters or page change
   useEffect(() => {
     if (!loading) loadBooks();
+  }, [filterTier, filterStatus, page]);
+
+  // Reset page when filters change
+  useEffect(() => {
+    setPage(0);
   }, [filterTier, filterStatus]);
+
+  const totalPages = Math.ceil(totalCount / pageSize);
 
   const filteredBooks = books;
   const stats = statsData;
@@ -350,6 +358,29 @@ export default function AdminPage() {
                     </div>
                   );
                 })}
+              </div>
+            )}
+
+            {/* Pagination */}
+            {totalPages > 1 && (
+              <div className="flex items-center justify-center gap-3 mt-6">
+                <button
+                  onClick={() => setPage(Math.max(0, page - 1))}
+                  disabled={page === 0}
+                  className="px-3 py-1.5 text-sm border border-stone-300 rounded-lg disabled:opacity-30 hover:bg-stone-100"
+                >
+                  Previous
+                </button>
+                <span className="text-sm text-stone-500">
+                  Page {page + 1} of {totalPages} ({totalCount} books)
+                </span>
+                <button
+                  onClick={() => setPage(Math.min(totalPages - 1, page + 1))}
+                  disabled={page >= totalPages - 1}
+                  className="px-3 py-1.5 text-sm border border-stone-300 rounded-lg disabled:opacity-30 hover:bg-stone-100"
+                >
+                  Next
+                </button>
               </div>
             )}
           </>
