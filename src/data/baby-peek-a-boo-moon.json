@@ -1,0 +1,182 @@
+{
+  "id": "baby-peek-a-boo-moon-001",
+  "title": "Peek-a-Boo Moon",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "bedtime",
+    "animals"
+  ],
+  "wordCount": 78,
+  "readingLevel": "0.1",
+  "synopsis": "A gentle bedtime journey where the moon plays peek-a-boo with sleepy animals, one by one, until baby falls asleep too.",
+  "coverImage": "covers/baby-peek-a-boo-moon-001.webp",
+  "chapters": [
+    {
+      "title": "Peek-a-Boo Moon",
+      "pages": [
+        {
+          "text": "The moon comes up.\nHello, Moon!",
+          "illustration": {
+            "description": "A large, round, smiling moon rising over soft rolling green hills. The sky transitions from dusky lavender at the bottom to deep indigo at the top. A few twinkling stars are just appearing. The moon has a warm golden glow and two gentle, friendly eyes. Soft watercolor style with no hard edges.",
+            "alt": "A big friendly moon with a warm glow rising over gentle green hills at twilight",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo, little owl!\nWhoo whoo!",
+          "illustration": {
+            "description": "A round, fluffy baby owl with enormous amber eyes sits on a thick tree branch in the foreground. The owl is peeking out from behind a cluster of soft green leaves. The smiling moon is visible in the background, casting a gentle silver-gold light. The owl's feathers are warm brown and cream, rendered with soft brushstrokes. Warm pastel palette with high contrast between the owl and the dark blue-purple sky.",
+            "alt": "A cute fluffy baby owl peeking out from behind leaves with the moon shining behind",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo, little frog!\nRibbit ribbit!",
+          "illustration": {
+            "description": "A chubby, bright green frog with big round eyes sits on a large lily pad in a calm pond. The frog is mid-peek, half-hidden behind a tall cattail reed. Tiny fireflies dot the air with soft yellow-green glows. The moon reflects as a wobbly golden circle on the still water. Soft rounded shapes, gentle watercolor textures, warm and inviting.",
+            "alt": "A small green frog peeking from behind a cattail on a lily pad, with the moon reflected in the pond",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo, little bunny!\nHop hop hop!",
+          "illustration": {
+            "description": "An adorable white bunny with pink-lined ears and a round cotton tail peeks out from behind a large purple wildflower. The bunny's dark eyes catch the moonlight. A meadow of soft pastel flowers -- lavender, pale yellow, soft pink -- stretches behind. The moon watches from above, still smiling. Everything is rendered with gentle, blurred edges and a dreamy watercolor quality.",
+            "alt": "A white bunny peeking from behind a purple flower in a moonlit meadow",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo, little deer!\nShhh shhh.",
+          "illustration": {
+            "description": "A baby fawn with large, soft brown eyes and white spots on its back peeks from behind a silver birch tree trunk. The fawn's ears are perked up. Soft moss covers the ground in muted greens. Tiny white mushrooms glow faintly near the tree roots. The moon peeks through the canopy above, dappling everything in gentle light. Ultra-soft edges, warm muted palette, cozy atmosphere.",
+            "alt": "A spotted baby deer peeking shyly from behind a birch tree in soft moonlight",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo, little bear!\nYaaawn.",
+          "illustration": {
+            "description": "A small, round brown bear cub with a cream-colored muzzle yawns widely, showing a tiny pink tongue. The cub sits at the entrance of a cozy den made of rounded rocks, half-hidden by the stone edge. A soft blue blanket of night sky wraps around the scene. The moon leans down closer, as if tucking the bear in. Extremely soft, plushy rendering. Warm browns, creams, and gentle blues.",
+            "alt": "A sleepy bear cub yawning at the entrance of a cozy den under the moon",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The owl sleeps. Whoo.\nThe frog sleeps. Ribbit.",
+          "illustration": {
+            "description": "Split composition: on the left, the baby owl from earlier is now asleep on its branch, eyes closed, feathers puffed up. On the right, the little frog is curled up on its lily pad, eyes shut, one tiny leg tucked under. Both scenes are bathed in deep blue moonlight with scattered soft-focus stars. Dreamy, hushed atmosphere. Muted warm pastels against cool night blues.",
+            "alt": "The baby owl sleeping on a branch and the frog sleeping on a lily pad, both under starlight",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The bunny sleeps. Hop.\nThe deer sleeps. Shhh.",
+          "illustration": {
+            "description": "Split composition: on the left, the white bunny is curled into a ball among the wildflowers, nose tucked into its paws. On the right, the baby fawn is lying down in the soft moss beside the birch tree, legs folded beneath it. A single firefly drifts between the two scenes. Deep, soothing blues and lavenders dominate, with warm highlights on the animals' fur. Peaceful, sleepy mood.",
+            "alt": "The bunny curled up in flowers and the fawn resting in moss, both fast asleep",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The bear sleeps. Shhh.\nGoodnight, Moon.",
+          "illustration": {
+            "description": "The bear cub is now fully inside its den, curled into a perfect circle, fast asleep. The moon, still smiling but with half-closed drowsy eyes, hangs low and large in the sky just outside the den entrance. A soft golden glow emanates from the moon, wrapping the whole scene in warmth. Stars twinkle gently. The color palette is the warmest and most soothing of the entire book -- deep warm blues, amber golds, soft creams.",
+            "alt": "The bear cub asleep in its den while the drowsy moon says goodnight from a starry sky",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo.\nGoodnight, you.",
+          "illustration": {
+            "description": "A wide landscape view showing all the sleeping animals in their places across the scene -- owl on branch, frog on lily pad, bunny in flowers, fawn by tree, bear in den. The moon is now very low on the horizon, barely peeking over the hills with a sleepy smile and nearly closed eyes, as if playing one last peek-a-boo. The entire scene is wrapped in a soft, dreamy indigo-violet haze with golden moonlight. The composition feels like a warm hug. Maximum softness, maximum coziness.",
+            "alt": "All five animals sleeping peacefully across a moonlit landscape as the moon sinks behind the hills",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime",
+      "nature",
+      "animals",
+      "peek-a-boo"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-08",
+    "illustrationStyle": "Soft, rounded shapes with warm pastel colors. Gentle watercolor feel. Large, friendly animal faces. High contrast for baby eyes."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Who plays peek-a-boo in this story?",
+        "choices": [
+          "The Moon",
+          "The Sun"
+        ],
+        "correctIndex": 0,
+        "explanation": "The Moon plays peek-a-boo with all the animals!",
+        "difficulty": 1
+      },
+      {
+        "id": "q2",
+        "question": "What sound does the owl make?",
+        "choices": [
+          "Ribbit",
+          "Whoo whoo"
+        ],
+        "correctIndex": 1,
+        "explanation": "The owl says 'Whoo whoo!'",
+        "difficulty": 1
+      },
+      {
+        "id": "q3",
+        "question": "What do all the animals do at the end?",
+        "choices": [
+          "They sleep",
+          "They play"
+        ],
+        "correctIndex": 0,
+        "explanation": "All the animals fall asleep under the moon. Goodnight!",
+        "difficulty": 1
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "owl",
+            "distractors": [
+              "frog",
+              "bear"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "bunny",
+            "distractors": [
+              "deer",
+              "owl"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

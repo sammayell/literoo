@@ -1,26 +1,243 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --font-sans: var(--font-lexend);
+  --font-serif: var(--font-literata);
+  --color-brand-50: #fef7ed;
+  --color-brand-100: #fdecd6;
+  --color-brand-200: #fad5ac;
+  --color-brand-300: #f6b878;
+  --color-brand-400: #f19242;
+  --color-brand-500: #ee7a20;
+  --color-brand-600: #df6116;
+  --color-brand-700: #b94914;
+  --color-brand-800: #933a18;
+  --color-brand-900: #773216;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+/* Reader theme variables */
+[data-reader-theme="light"] {
+  --reader-bg: #ffffff;
+  --reader-text: #1a1a1a;
+  --reader-text-secondary: #4a4a4a;
+  --reader-accent: #4a90d9;
+}
+
+[data-reader-theme="sepia"] {
+  --reader-bg: #f8f0e3;
+  --reader-text: #3b2f1e;
+  --reader-text-secondary: #5c4a32;
+  --reader-accent: #8b6914;
+}
+
+[data-reader-theme="grey"] {
+  --reader-bg: #e8e8e8;
+  --reader-text: #2a2a2a;
+  --reader-text-secondary: #555555;
+  --reader-accent: #5b7fa5;
+}
+
+[data-reader-theme="dark"] {
+  --reader-bg: #121212;
+  --reader-text: #e0e0e0;
+  --reader-text-secondary: #a0a0a0;
+  --reader-accent: #7eb8e0;
+}
+
+/* Typography tiers for the reader */
+.reader-tier-baby {
+  font-family: var(--font-lexend), sans-serif;
+  font-size: clamp(36px, 8vw, 48px);
+  line-height: 1.8;
+  letter-spacing: 0.05em;
+  word-spacing: 0.15em;
+  max-width: 18ch;
+  text-align: center;
+  hyphens: none;
+}
+
+.reader-tier-toddler {
+  font-family: var(--font-lexend), sans-serif;
+  font-size: clamp(28px, 6vw, 36px);
+  line-height: 1.7;
+  letter-spacing: 0.04em;
+  word-spacing: 0.12em;
+  max-width: 24ch;
+  text-align: left;
+  hyphens: none;
+}
+
+.reader-tier-developing {
+  font-family: var(--font-literata), var(--font-lexend), serif;
+  font-size: clamp(18px, 4vw, 24px);
+  line-height: 1.6;
+  letter-spacing: 0.02em;
+  word-spacing: 0.08em;
+  max-width: 45ch;
+  text-align: left;
+  hyphens: none;
+}
+
+.reader-tier-confident {
+  font-family: var(--font-literata), Georgia, serif;
+  font-size: clamp(16px, 3.2vw, 20px);
+  line-height: 1.5;
+  letter-spacing: 0.01em;
+  word-spacing: 0.05em;
+  max-width: 60ch;
+  text-align: left;
+  hyphens: auto;
+}
+
+.reader-tier-advanced {
+  font-family: var(--font-literata), Georgia, serif;
+  font-size: clamp(15px, 2.8vw, 18px);
+  line-height: 1.45;
+  letter-spacing: normal;
+  word-spacing: normal;
+  max-width: 65ch;
+  text-align: left;
+  hyphens: auto;
+}
+
+/* Scroll snap reader */
+.reader-scroll-container {
+  overflow-x: auto;
+  overflow-y: hidden;
+  scroll-snap-type: x mandatory;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  scrollbar-width: none;
+}
+
+.reader-scroll-container::-webkit-scrollbar {
+  display: none;
+}
+
+.reader-page {
+  flex: 0 0 100vw;
+  scroll-snap-align: start;
+  scroll-snap-stop: always;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 48px 24px;
+  box-sizing: border-box;
+}
+
+/* Picture book full-bleed */
+.picture-book-page {
+  flex: 0 0 100vw;
+  scroll-snap-align: start;
+  scroll-snap-stop: always;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Progress bar */
+.reading-progress {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 3px;
+  background: var(--reader-accent, #ee7a20);
+  transition: width 300ms ease;
+  z-index: 50;
+}
+
+/* Tap zones */
+.tap-zone {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  z-index: 10;
+  cursor: pointer;
+}
+
+.tap-zone-prev { left: 0; width: 25%; }
+.tap-zone-next { right: 0; width: 25%; }
+.tap-zone-menu { left: 25%; width: 50%; }
+
+/* Navigation hint animations */
+@keyframes swipeHint {
+  0%, 100% { transform: translateX(0); }
+  50% { transform: translateX(8px); }
+}
+
+@keyframes slideRight {
+  0%, 100% { transform: translateX(0); opacity: 0.4; }
+  50% { transform: translateX(6px); opacity: 1; }
+}
+
+@keyframes tapPulse {
+  0%, 100% { opacity: 0.3; transform: scale(1); }
+  50% { opacity: 0.6; transform: scale(1.05); }
+}
+
+/* Word highlighting for AI Read mode */
+.word-highlight {
+  background-color: rgba(238, 122, 32, 0.25);
+  border-radius: 3px;
+  padding: 0 2px;
+  transition: background-color 150ms ease;
+}
+
+/* Puzzle blank styles */
+.puzzle-blank {
+  display: inline-block;
+  min-width: 60px;
+  border-bottom: 2px dashed #ccc;
+  padding: 2px 8px;
+  margin: 0 4px;
+  cursor: pointer;
+  transition: all 200ms ease;
+  border-radius: 4px;
+}
+
+.puzzle-blank:hover {
+  background-color: rgba(238, 122, 32, 0.1);
+  border-color: #ee7a20;
+}
+
+.puzzle-blank.correct {
+  background-color: rgba(34, 197, 94, 0.15);
+  border-color: #22c55e;
+  border-style: solid;
+  color: #16a34a;
+}
+
+.puzzle-blank.incorrect {
+  animation: shake 0.4s ease;
+  background-color: rgba(239, 68, 68, 0.1);
+  border-color: #ef4444;
+}
+
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  25% { transform: translateX(-4px); }
+  75% { transform: translateX(4px); }
+}
+
+/* Reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .reader-scroll-container {
+    scroll-behavior: auto;
   }
-}
-
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  .reading-progress {
+    transition: none;
+  }
+  @keyframes swipeHint { 0%, 100% { transform: none; } }
+  @keyframes slideRight { 0%, 100% { transform: none; } }
+  @keyframes tapPulse { 0%, 100% { opacity: 0.3; } }
 }
