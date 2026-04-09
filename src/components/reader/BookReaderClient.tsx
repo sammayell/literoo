@@ -25,6 +25,7 @@ interface ReaderPage {
   illustrationDesc?: string;
   illustrationAlt?: string;
   illustrationLayout?: string;
+  illustrationSrc?: string;
 }
 
 function flattenBookToPages(book: Book): ReaderPage[] {
@@ -52,6 +53,7 @@ function flattenBookToPages(book: Book): ReaderPage[] {
             illustrationDesc: page.illustration?.description,
             illustrationAlt: page.illustration?.alt,
             illustrationLayout: page.illustration?.layout || "full-page",
+            illustrationSrc: page.illustration?.src,
           });
         });
       }
@@ -101,6 +103,7 @@ function flattenBookToPages(book: Book): ReaderPage[] {
               content: currentPageContent.trim(),
               illustrationDesc: ill?.description,
               illustrationAlt: ill?.alt,
+              illustrationSrc: ill?.src,
             });
             currentPageContent = "";
             currentPageIllustrations = [];
@@ -147,39 +150,15 @@ function flattenBookToPages(book: Book): ReaderPage[] {
 }
 
 export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?: boolean }) {
-  // Paywall gate — check on client side after hydration
-  const [showPaywall, setShowPaywall] = useState(false);
-  const [hasCheckedAccess, setHasCheckedAccess] = useState(false);
-
-  useEffect(() => {
-    if (!isFree && !isSubscribed() && !isChallengeBook(book.id)) {
-      setShowPaywall(true);
-    }
-    setHasCheckedAccess(true);
-  }, [isFree, book.id]);
-
-  if (showPaywall) {
-    return (
-      <UpgradePrompt
-        trigger="This book"
-        bookTitle={book.title}
-        onClose={() => {
-          // Navigate back to library
-          window.location.href = "/library";
-        }}
-      />
-    );
-  }
-
-  if (!hasCheckedAccess) {
-    return <div className="w-screen h-screen bg-white" />; // Loading state
-  }
   const mode = getReaderMode(book.ageTier);
   const typographyTier = getTypographyTier(book.ageTier);
   const pages = flattenBookToPages(book);
   const colors = AGE_TIER_COLORS[book.ageTier];
   const { updateBook, addReadingTime } = useProgress();
 
+  // ALL hooks must be declared before any early returns
+  const [showPaywall, setShowPaywall] = useState(false);
+  const [hasCheckedAccess, setHasCheckedAccess] = useState(false);
   const [currentPage, setCurrentPage] = useState(0);
   const [showUI, setShowUI] = useState(true);
   const [theme, setTheme] = useState<ReaderTheme>("light");
@@ -193,6 +172,16 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
   const [ttsSpeed, setTtsSpeed] = useState(1.0);
   const scrollRef = useRef<HTMLDivElement>(null);
   const readingTimerRef = useRef<number>(0);
+
+  // Paywall check
+  useEffect(() => {
+    if (!isFree && !isSubscribed() && !isChallengeBook(book.id)) {
+      setShowPaywall(true);
+    }
+    setHasCheckedAccess(true);
+  }, [isFree, book.id]);
+
+  // NO early returns — hooks must always run. Paywall renders conditionally in JSX below.
 
   // Detect touch device
   useEffect(() => {
@@ -333,6 +322,21 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
   const applyTheme = mode !== "picture-book" ? theme : "light";
 
   const fontSizeAdjust = `${fontSize * 2}px`;
+
+  // Paywall and loading states (rendered here, not as early returns, to preserve hook order)
+  if (showPaywall) {
+    return (
+      <UpgradePrompt
+        trigger="This book"
+        bookTitle={book.title}
+        onClose={() => { window.location.href = "/library"; }}
+      />
+    );
+  }
+
+  if (!hasCheckedAccess) {
+    return <div className="w-screen h-screen bg-white" />;
+  }
 
   return (
     <div
@@ -749,8 +753,8 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
                     : "justify-start items-center overflow-y-auto px-6 pt-20 pb-16"
                 }`}
               >
-                {/* Illustration placeholder */}
-                {page.illustrationDesc && (
+                {/* Illustration — real image if src exists, placeholder if not */}
+                {(page.illustrationSrc || page.illustrationDesc) && (
                   <div
                     className={`${
                       mode === "picture-book"
@@ -758,33 +762,36 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
                         : "w-full max-w-xl mb-6"
                     }`}
                   >
-                    <div
-                      className={`${
-                        mode === "picture-book"
-                          ? "aspect-[4/3] rounded-2xl"
-                          : "aspect-[16/10] rounded-xl"
-                      } bg-gradient-to-br from-stone-200 to-stone-300 flex items-center justify-center p-6 text-center`}
-                    >
-                      <div>
-                        <svg
-                          xmlns="http://www.w3.org/2000/svg"
-                          width="32"
-                          height="32"
-                          viewBox="0 0 24 24"
-                          fill="none"
-                          stroke="currentColor"
-                          strokeWidth="1.5"
-                          className="mx-auto mb-3 text-stone-400"
-                        >
-                          <rect width="18" height="18" x="3" y="3" rx="2" ry="2" />
-                          <circle cx="9" cy="9" r="2" />
-                          <path d="m21 15-3.086-3.086a2 2 0 0 0-2.828 0L6 21" />
-                        </svg>
-                        <p className="text-xs text-stone-400 italic max-w-sm">
-                          {page.illustrationAlt || "Illustration"}
-                        </p>
+                    {page.illustrationSrc ? (
+                      <img
+                        src={page.illustrationSrc}
+                        alt={page.illustrationAlt || "Illustration"}
+                        className={`${
+                          mode === "picture-book"
+                            ? "rounded-2xl"
+                            : "rounded-xl"
+                        } w-full object-contain max-h-[60vh]`}
+                      />
+                    ) : (
+                      <div
+                        className={`${
+                          mode === "picture-book"
+                            ? "aspect-[4/3] rounded-2xl"
+                            : "aspect-[16/10] rounded-xl"
+                        } bg-gradient-to-br from-stone-200 to-stone-300 flex items-center justify-center p-6 text-center`}
+                      >
+                        <div>
+                          <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="mx-auto mb-3 text-stone-400">
+                            <rect width="18" height="18" x="3" y="3" rx="2" ry="2" />
+                            <circle cx="9" cy="9" r="2" />
+                            <path d="m21 15-3.086-3.086a2 2 0 0 0-2.828 0L6 21" />
+                          </svg>
+                          <p className="text-xs text-stone-400 italic max-w-sm">
+                            {page.illustrationAlt || "Illustration"}
+                          </p>
+                        </div>
                       </div>
-                    </div>
+                    )}
                   </div>
                 )}
 
