@@ -1,0 +1,185 @@
+{
+  "id": "v2-toddler-family-134",
+  "title": "Marcus Makes a Mess",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "family",
+    "humor"
+  ],
+  "wordCount": 139,
+  "readingLevel": "Pre-K",
+  "synopsis": "Marcus wants to help make pancakes in the kitchen, but everything goes wonderfully wrong in the most hilarious ways as he creates happy messes with his family.",
+  "coverImage": "covers/v2-toddler-family-134.webp",
+  "chapters": [
+    {
+      "title": "Pancake Helper",
+      "pages": [
+        {
+          "text": "Marcus smells something yummy! Mama is making pancakes in the kitchen. \"I want to help!\" says Marcus. He puts on his tiny blue apron.",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes wearing a tiny blue apron, standing in a cozy kitchen with warm yellow walls. His mama is at the stove making pancakes with steam rising from the pan.",
+            "alt": "Marcus putting on his apron in a warm kitchen",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"You can crack the eggs,\" says Mama. Marcus holds an egg very carefully. CRACK! The egg goes everywhere except the bowl. Marcus giggles.",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes holding broken eggshells with egg splattered on the kitchen counter. Flour dust floats in warm orange sunlight streaming through the window.",
+            "alt": "Marcus with cracked eggs making a mess on the counter",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Flour Power",
+      "pages": [
+        {
+          "text": "\"Now we add flour,\" says Mama. Marcus scoops the flour. WHOOSH! White flour flies everywhere like snow. Marcus looks like a ghost!",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes covered in white flour from head to toe, standing in a cloud of flour dust in the cozy kitchen with warm yellow lighting.",
+            "alt": "Marcus covered in flour looking like a ghost",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama laughs and laughs. \"You're my little flour monster!\" She wipes Marcus's face gently. His warm brown eyes sparkle with joy.",
+          "illustration": {
+            "description": "Mama gently wiping flour from Marcus's face, showing his short curly hair with a fade, medium-dark brown skin, warm brown eyes twinkling with happiness in the cozy kitchen surrounded by warm oranges and yellows.",
+            "alt": "Mama cleaning flour off Marcus's happy face",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Perfect Pancakes",
+      "pages": [
+        {
+          "text": "Together, they mix the batter. Marcus stirs very slowly this time. The pancakes sizzle and pop in the pan. \"We did it!\" says Marcus.",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes carefully stirring pancake batter with Mama beside him. Golden pancakes cook on the stove with steam rising in the warm cozy kitchen.",
+            "alt": "Marcus and Mama cooking pancakes together successfully",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The family sits at the dining table. The pancakes are delicious! \"Marcus is the best helper,\" says Papa. Marcus smiles big and takes another bite.",
+          "illustration": {
+            "description": "The whole family gathered around the dining table in warm yellow and orange lighting. Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes sits proudly eating pancakes with his family in their cozy home.",
+            "alt": "Marcus eating pancakes happily with his family at the table",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "helping in kitchen",
+      "learning through mistakes",
+      "everyday love",
+      "cooking together"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Marcus want to help make?",
+        "choices": [
+          "pancakes",
+          "cookies",
+          "soup"
+        ],
+        "correctIndex": 0,
+        "explanation": "Marcus wants to help Mama make pancakes in the kitchen!"
+      },
+      {
+        "id": "q2",
+        "question": "What happens when Marcus cracks the egg?",
+        "choices": [
+          "it goes everywhere",
+          "it breaks the bowl",
+          "it tastes bad"
+        ],
+        "correctIndex": 0,
+        "explanation": "The egg goes everywhere except in the bowl when Marcus tries to crack it!"
+      },
+      {
+        "id": "q3",
+        "question": "What makes Marcus look like a ghost?",
+        "choices": [
+          "flour",
+          "milk",
+          "sugar"
+        ],
+        "correctIndex": 0,
+        "explanation": "Marcus gets covered in white flour and looks like a ghost!"
+      },
+      {
+        "id": "q4",
+        "question": "Where does the family eat the pancakes?",
+        "choices": [
+          "at the dining table",
+          "in the kitchen",
+          "outside"
+        ],
+        "correctIndex": 0,
+        "explanation": "The family sits together at the dining table to eat their delicious pancakes!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "pancakes",
+            "distractors": [
+              "cookies",
+              "bread"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "flour",
+            "distractors": [
+              "sugar",
+              "milk"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 6,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "delicious",
+            "distractors": [
+              "cold",
+              "hard"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

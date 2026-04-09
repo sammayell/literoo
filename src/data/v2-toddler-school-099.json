@@ -1,0 +1,195 @@
+{
+  "id": "v2-toddler-school-099",
+  "title": "Hiro's First Day at Animal School",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "school",
+    "animals"
+  ],
+  "wordCount": 233,
+  "readingLevel": "Pre-K",
+  "synopsis": "Hiro starts his first day at a special school where he learns alongside friendly animal classmates, discovering that differences make learning fun and exciting.",
+  "coverImage": "covers/v2-toddler-school-099.webp",
+  "chapters": [
+    {
+      "title": "Welcome to Animal School",
+      "pages": [
+        {
+          "text": "Hiro was excited for his first day at a very special school. This wasn't just any school - it was Animal School! He put on his favorite backpack and walked through the big red doors.",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face stands in front of a school building drawn in white chalk on a dark green chalkboard. Animal paw prints and simple math equations are doodled around the edges in colored chalk.",
+            "alt": "Hiro standing in front of Animal School entrance",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "In his classroom, Hiro met his teacher, Mrs. Owl. She had big round glasses and feathers that looked soft and brown. 'Welcome, Hiro!' she hooted kindly. 'Let me introduce you to your new friends.'",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face sits at a small desk while Mrs. Owl, drawn in white and brown chalk, points to a chalkboard with ABC letters. The scene has a dusty, hand-drawn texture on the dark green board.",
+            "alt": "Hiro meeting Mrs. Owl in the classroom",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Making Animal Friends",
+      "pages": [
+        {
+          "text": "At his table sat Bella the bunny with fluffy white ears, Max the monkey with a long curly tail, and Luna the lamb with woolly white fur. They all waved their paws and hands at Hiro.",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face sits at a round table with three animal friends drawn in white and colored chalk. Simple addition problems like 1+1=2 are sketched in the background on the dark green chalkboard.",
+            "alt": "Hiro sitting with his animal classmates at their table",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Hi Hiro!' said Bella, wiggling her pink nose. 'Want to share my carrots at snack time?' Max clapped his hands. 'We can play together at recess!' Luna smiled sweetly. 'You'll love it here!'",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face shares snacks with the three animal friends. Bella bunny offers orange carrots drawn in chalk, while alphabet letters and number equations decorate the dusty dark green chalkboard background.",
+            "alt": "Hiro sharing snacks with his new animal friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Learning Together",
+      "pages": [
+        {
+          "text": "During circle time, they sang songs about shapes and colors. Bella hopped when they sang about circles. Max swung his arms for triangles. Luna woolly white body wiggled for squares.",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face sits in a circle with animal friends. Geometric shapes - circles, triangles, and squares - are drawn in colorful chalk around them on the dark green chalkboard with artistic warm dusty texture.",
+            "alt": "Hiro and friends singing about shapes in circle time",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "For art time, they painted pictures of their families. Hiro painted his mom and dad. His animal friends painted their families too. Everyone's family looked different, but they were all filled with love.",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face holds up a chalk-drawn family picture while his animal friends show their artwork. Paint brushes and family drawings in various colors decorate the dark green chalkboard with school-themed doodles.",
+            "alt": "Hiro and friends showing their family artwork",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When the school day ended, Hiro hugged his new friends goodbye. 'I can't wait to come back tomorrow!' he said happily. Mrs. Owl smiled. 'We can't wait to see you again, Hiro!'",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face waves goodbye to his animal friends at the school entrance. A clock showing 3 o'clock and happy sun are drawn in yellow chalk on the dark green chalkboard with warm, hand-drawn artistic texture.",
+            "alt": "Hiro saying goodbye to friends at end of school day",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "school readiness",
+      "acceptance of differences",
+      "kindness"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What kind of school does Hiro attend?",
+        "choices": [
+          "Animal School",
+          "Art School",
+          "Music School"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hiro goes to Animal School, where he learns with animal friends like Bella the bunny, Max the monkey, and Luna the lamb."
+      },
+      {
+        "id": "q2",
+        "question": "Who is Hiro's teacher?",
+        "choices": [
+          "Mrs. Cat",
+          "Mrs. Owl",
+          "Mrs. Dog"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mrs. Owl is Hiro's teacher. She has big round glasses and brown feathers, and she welcomes Hiro kindly to the class."
+      },
+      {
+        "id": "q3",
+        "question": "What does Bella the bunny offer to share?",
+        "choices": [
+          "Carrots",
+          "Apples",
+          "Cookies"
+        ],
+        "correctIndex": 0,
+        "explanation": "Bella the bunny offers to share her carrots with Hiro at snack time, showing her friendship and kindness."
+      },
+      {
+        "id": "q4",
+        "question": "How does Hiro feel about his first day?",
+        "choices": [
+          "Sad",
+          "Happy",
+          "Scared"
+        ],
+        "correctIndex": 1,
+        "explanation": "Hiro feels happy about his first day. He says he can't wait to come back tomorrow because he enjoyed making new animal friends."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "school",
+            "distractors": [
+              "home",
+              "park"
+            ]
+          },
+          {
+            "wordIndex": 25,
+            "correctWord": "doors",
+            "distractors": [
+              "windows",
+              "walls"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "friends",
+            "distractors": [
+              "toys",
+              "books"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "waved",
+            "distractors": [
+              "jumped",
+              "ran"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "id": "v2-baby-family-074",
+  "title": "Marcus's Morning Sounds",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "family",
+    "sounds"
+  ],
+  "wordCount": 39,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Marcus wakes up to discover all the wonderful sounds of a cozy Sunday morning with his family - from sizzling pancakes to chirping birds.",
+  "coverImage": "covers/v2-baby-family-074.webp",
+  "chapters": [
+    {
+      "title": "Wake Up, Marcus!",
+      "pages": [
+        {
+          "text": "Marcus opens his eyes. What does he hear?",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes lying in bed in cozy pajamas, golden sunlight streaming through windows, soft morning light illuminating a child's bedroom",
+            "alt": "Marcus waking up in his sunny bedroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sizzle! Pop! Mama makes pancakes in the kitchen.",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes standing in doorway watching his mama cook pancakes, golden hour light filling modern kitchen, family pajamas, newspapers on counter",
+            "alt": "Marcus watching mama cook breakfast",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Tweet! Tweet! Birds sing outside the window.",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes looking out sunlit window at birds in tree, gentle unhurried Sunday morning atmosphere, warm domestic setting",
+            "alt": "Marcus listening to birds chirping",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Tick-tock! The clock says it's breakfast time!",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes pointing at wall clock, Sunday morning light streaming in, modern diverse family home, lazy morning feeling",
+            "alt": "Marcus looking at the clock",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Yum! Marcus hears his tummy rumble. Time to eat!",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes sitting at breakfast table with family, golden hour light, pancakes and newspapers, gentle unhurried morning scene, warm domestic atmosphere",
+            "alt": "Marcus enjoying breakfast with his family",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "morning routines",
+      "sound recognition",
+      "home comfort"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Sunday morning light, golden hour, family pajamas, newspapers pancakes, gentle unhurried, modern diverse family, lazy morning, sunlit rooms, warm domestic"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound do the pancakes make?",
+        "choices": [
+          "Sizzle! Pop!",
+          "Tweet! Tweet!"
+        ],
+        "correctIndex": 0,
+        "explanation": "Pancakes sizzle and pop when they cook in the pan!"
+      },
+      {
+        "id": "q2",
+        "question": "What sound do the birds make?",
+        "choices": [
+          "Tick-tock!",
+          "Tweet! Tweet!"
+        ],
+        "correctIndex": 1,
+        "explanation": "Birds make tweeting sounds when they sing!"
+      },
+      {
+        "id": "q3",
+        "question": "What makes the tick-tock sound?",
+        "choices": [
+          "The clock",
+          "Marcus's tummy"
+        ],
+        "correctIndex": 0,
+        "explanation": "Clocks make tick-tock sounds to show the time!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "pancakes",
+            "distractors": [
+              "cookies",
+              "bread"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "Birds",
+            "distractors": [
+              "Cars",
+              "Dogs"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

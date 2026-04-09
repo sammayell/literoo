@@ -1,0 +1,208 @@
+{
+  "id": "v2-toddler-feelings-041",
+  "title": "Emma's Rainbow of Feelings",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "feelings",
+    "family"
+  ],
+  "wordCount": 217,
+  "readingLevel": "Pre-K",
+  "synopsis": "Emma learns about different emotions throughout her day with help from her loving family, discovering that all feelings are okay and how to express them in healthy ways.",
+  "coverImage": "covers/v2-toddler-feelings-041.webp",
+  "chapters": [
+    {
+      "title": "The Big Mad",
+      "pages": [
+        {
+          "text": "Emma woke up feeling grumpy. Her toy was broken and she couldn't find her favorite socks. Red feelings swirled inside her tummy like a storm.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks sitting on her bed looking upset, surrounded by swirling red angry emotions in the background like storm clouds",
+            "alt": "Emma looking angry with red swirling emotions around her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I'm MAD!\" Emma shouted. Mommy came over and sat down. \"It's okay to feel mad, Emma. Let's take some deep breaths together.\"",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks sitting with her mother, both taking deep breaths as the red swirls begin to calm into softer colors",
+            "alt": "Emma and her mother breathing together as angry feelings start to calm",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Emma breathed in and out. The red feelings got smaller. Mommy hugged her tight and helped fix her toy. Emma felt much better.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks hugging her mother, with gentle pink and orange colors replacing the red swirls in the background",
+            "alt": "Emma hugging her mother with calmer, warmer colors around them",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Rainy Day Blues",
+      "pages": [
+        {
+          "text": "Later, Emma felt sad. It was raining and she couldn't play outside. Blue feelings dropped down like raindrops in her heart.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks looking out the window at rain, with blue teardrop-like emotions falling around her like gentle rain",
+            "alt": "Emma looking sad by the window with blue raindrop emotions around her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Daddy saw Emma's sad face. \"Would you like to tell me about your blue feelings?\" he asked softly. Emma nodded and climbed onto his lap.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks sitting on her father's lap, blue emotions softening into lighter blue clouds around them",
+            "alt": "Emma sitting with her father as sad feelings begin to lighten",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I wanted to play outside,\" Emma said. Daddy smiled. \"We can have fun inside too! Let's build a blanket fort.\" The blue feelings started floating away.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks building a blanket fort with her father, blue emotions transforming into purple and green creative swirls",
+            "alt": "Emma and her father building a fort with colorful creative emotions swirling around",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sunshine Happiness",
+      "pages": [
+        {
+          "text": "At dinner, Emma felt happy. Her whole family was together, and they made her favorite soup. Golden sunshine feelings bubbled up inside her.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks sitting at the dinner table with her family, surrounded by warm yellow sunshine rays and golden bubbles of joy",
+            "alt": "Emma at dinner with her family surrounded by golden happy emotions",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I love you, Mommy and Daddy,\" Emma giggled. Her parents smiled big smiles. \"We love you too, Emma. All of your feelings make you special.\"",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks hugging both parents, with warm rainbow colors swirling gently around the happy family",
+            "alt": "Emma hugging her parents with warm rainbow emotions surrounding the loving family",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Emma learned that feelings come and go like colors in the sky. Mad, sad, and happy feelings are all okay. Her family helps her understand them all.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks playing happily with a rainbow of gentle emotions swirling around her like a beautiful sky",
+            "alt": "Emma playing with a rainbow of emotions swirling around her like a colorful sky",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotional intelligence",
+      "family support",
+      "expressing feelings",
+      "emotional regulation"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "emotion mapped colors, angry red swirls, sad blue rain, happy yellow sunshine, abstract emotion backgrounds, Inside Out inspired, feeling visualization, color psychology"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color were Emma's mad feelings?",
+        "choices": [
+          "red",
+          "blue",
+          "yellow"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emma's mad feelings were red like swirling storm clouds!"
+      },
+      {
+        "id": "q2",
+        "question": "Who helped Emma when she felt mad?",
+        "choices": [
+          "Mommy",
+          "her friend",
+          "her teacher"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mommy helped Emma take deep breaths when she felt mad."
+      },
+      {
+        "id": "q3",
+        "question": "What did Emma and Daddy build together?",
+        "choices": [
+          "a tower",
+          "a blanket fort",
+          "a puzzle"
+        ],
+        "correctIndex": 1,
+        "explanation": "Emma and Daddy built a blanket fort when she felt sad about not playing outside."
+      },
+      {
+        "id": "q4",
+        "question": "How did Emma's family feel about all her different feelings?",
+        "choices": [
+          "they said all feelings are okay",
+          "they were worried",
+          "they were confused"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emma's family told her that all of her feelings make her special and are okay to have."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "mad",
+            "distractors": [
+              "happy",
+              "sleepy"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "sad",
+            "distractors": [
+              "mad",
+              "excited"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 7,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "happy",
+            "distractors": [
+              "angry",
+              "tired"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

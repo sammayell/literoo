@@ -1,0 +1,147 @@
+{
+  "id": "v2-baby-food-089",
+  "title": "Chloe's Yummy Animal Friends",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "food",
+    "animals"
+  ],
+  "wordCount": 48,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Chloe discovers magical animal friends who love to share delicious foods, from honey with bears to carrots with bunnies in a delightful culinary adventure.",
+  "coverImage": "covers/v2-baby-food-089.webp",
+  "chapters": [
+    {
+      "title": "Yummy Friends",
+      "pages": [
+        {
+          "text": "Chloe loves yummy food! She meets a fuzzy brown bear.",
+          "illustration": {
+            "description": "A little girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes stands next to a friendly brown bear holding a golden honey pot with magical sparkles and steam rising from it",
+            "alt": "Chloe meeting a bear with honey",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The bear shares sweet honey. Yum yum!",
+          "illustration": {
+            "description": "The girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes tasting golden honey dripping from a wooden spoon with exaggerated sparkles and magical steam swirling around",
+            "alt": "Chloe tasting honey",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A white bunny hops over with orange carrots.",
+          "illustration": {
+            "description": "A fluffy white bunny carrying oversized orange carrots with magical sparkles toward the girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes in a feast-like setting",
+            "alt": "Bunny bringing carrots to Chloe",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Crunch crunch! The carrots are so good!",
+          "illustration": {
+            "description": "The girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes happily crunching on exaggerated orange carrots with magical sparkles and steam effects showing delicious food joy",
+            "alt": "Chloe eating carrots",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A red bird brings juicy red apples.",
+          "illustration": {
+            "description": "A bright red bird carrying shiny red apples with magical drips and sparkles to the girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes in a celebration feast scene",
+            "alt": "Red bird bringing apples",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Chloe shares with all her animal friends. So yummy!",
+          "illustration": {
+            "description": "The girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes sitting with the bear, bunny, and bird sharing a magical feast with exaggerated proportions, steam, sparkles, and food joy celebration",
+            "alt": "Chloe sharing food with animal friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "sharing",
+      "healthy eating",
+      "animals"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "delicious appetizing food, exaggerated proportions, steam drips sparkles, magical food, diverse cuisines, feast celebration, cooking scenes, yummy visual, food joy"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does the bear give Chloe?",
+        "choices": [
+          "honey",
+          "carrots"
+        ],
+        "correctIndex": 0,
+        "explanation": "The fuzzy brown bear shares sweet honey with Chloe!"
+      },
+      {
+        "id": "q2",
+        "question": "What color is the bunny?",
+        "choices": [
+          "white",
+          "brown"
+        ],
+        "correctIndex": 0,
+        "explanation": "The bunny is white and brings orange carrots to share."
+      },
+      {
+        "id": "q3",
+        "question": "What does Chloe do with the food?",
+        "choices": [
+          "shares it",
+          "hides it"
+        ],
+        "correctIndex": 0,
+        "explanation": "Chloe shares the yummy food with all her animal friends!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "honey",
+            "distractors": [
+              "bread",
+              "milk"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "carrots",
+            "distractors": [
+              "cookies",
+              "pasta"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

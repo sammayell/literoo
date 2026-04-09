@@ -1,0 +1,139 @@
+{
+  "id": "v2-baby-food-139",
+  "title": "Hiro's Animal Feast",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "food",
+    "animals"
+  ],
+  "wordCount": 37,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Hiro shares yummy foods with his animal friends in a magical feast celebration filled with delicious treats and joyful moments.",
+  "coverImage": "covers/v2-baby-food-139.webp",
+  "chapters": [
+    {
+      "title": "Yummy Friends",
+      "pages": [
+        {
+          "text": "Hiro has yummy food! Big red apples. Sweet yellow bananas.",
+          "illustration": {
+            "description": "A toddler boy with short straight black hair, light skin, bright dark brown eyes, round face holds oversized magical apples and bananas with sparkles and steam rising from the colorful fruits in exaggerated proportions",
+            "alt": "Hiro holding magical oversized apples and bananas",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Bunny wants apples! Munch, munch, munch! Monkey wants bananas! Yum, yum, yum!",
+          "illustration": {
+            "description": "A boy with short straight black hair, light skin, bright dark brown eyes, round face sits at a magical feast table sharing glowing apples with a fluffy bunny and golden bananas with a happy monkey, steam and sparkles surrounding the delicious food",
+            "alt": "Hiro sharing food with bunny and monkey at feast table",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "More friends come! Bear wants honey. Fish wants crackers. All friends eat together! Happy tummies!",
+          "illustration": {
+            "description": "A toddler with short straight black hair, light skin, bright dark brown eyes, round face celebrates at a magical feast with a bear eating dripping golden honey and a fish enjoying sparkling crackers, all food glowing with exaggerated delicious proportions and joy sparkles",
+            "alt": "Hiro and all animal friends enjoying feast together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "sharing",
+      "friendship",
+      "healthy eating",
+      "animals"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "delicious appetizing food, exaggerated proportions, steam drips sparkles, magical food, diverse cuisines, feast celebration, cooking scenes, yummy visual, food joy"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Bunny want to eat?",
+        "choices": [
+          "apples",
+          "bananas"
+        ],
+        "correctIndex": 0,
+        "explanation": "Bunny wants to eat the red apples that Hiro shares!"
+      },
+      {
+        "id": "q2",
+        "question": "What sound does Monkey make eating?",
+        "choices": [
+          "yum yum",
+          "munch munch"
+        ],
+        "correctIndex": 0,
+        "explanation": "Monkey says yum, yum, yum when eating bananas!"
+      },
+      {
+        "id": "q3",
+        "question": "How do all the friends feel?",
+        "choices": [
+          "happy",
+          "sad"
+        ],
+        "correctIndex": 0,
+        "explanation": "All friends have happy tummies after eating together!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "yummy",
+            "distractors": [
+              "scary",
+              "big"
+            ]
+          },
+          {
+            "wordIndex": 8,
+            "correctWord": "bananas",
+            "distractors": [
+              "cookies",
+              "carrots"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "wants",
+            "distractors": [
+              "likes",
+              "sees"
+            ]
+          },
+          {
+            "wordIndex": 11,
+            "correctWord": "yum",
+            "distractors": [
+              "wow",
+              "fun"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

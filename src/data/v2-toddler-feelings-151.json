@@ -1,0 +1,188 @@
+{
+  "id": "v2-toddler-feelings-151",
+  "title": "Zara's Big Feelings",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "feelings",
+    "family"
+  ],
+  "wordCount": 207,
+  "readingLevel": "Pre-K",
+  "synopsis": "When Zara's favorite toy breaks, she experiences big feelings of anger and sadness. With her family's love and support, she learns that all feelings are okay and discovers ways to feel better.",
+  "coverImage": "covers/v2-toddler-feelings-151.webp",
+  "chapters": [
+    {
+      "title": "The Broken Toy",
+      "pages": [
+        {
+          "text": "Zara loved her teddy bear, Mr. Snuggles. She hugged him every day and took him everywhere. One morning, Mr. Snuggles' arm came off! Zara felt a big feeling growing inside her chest.",
+          "illustration": {
+            "description": "A little girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes holding a broken teddy bear. Red angry swirls begin to emerge from around her body against a neutral background.",
+            "alt": "Zara holding her broken teddy bear with red emotion swirls appearing",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"NO!\" Zara shouted. She felt hot and angry. Red swirls danced around her like a tornado. She threw the broken teddy on the floor and stomped her feet. Everything felt too big and too much!",
+          "illustration": {
+            "description": "A little girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes surrounded by intense red swirling patterns and jagged shapes. The background is filled with angry red emotion colors as she stomps her feet.",
+            "alt": "Zara surrounded by red angry swirls and emotion patterns",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Big Feelings",
+      "pages": [
+        {
+          "text": "Mama came running. \"Oh, Zara,\" she said softly. \"You're having big angry feelings.\" The red swirls slowly changed to blue raindrops as tears rolled down Zara's cheeks. Now she felt sad instead of mad.",
+          "illustration": {
+            "description": "A little girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes with her mother nearby. Blue rain-like patterns replace the red swirls, creating a sad emotional atmosphere around them.",
+            "alt": "Zara crying with blue rain emotion patterns while Mama approaches",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"All feelings are okay,\" Mama said, giving Zara a big hug. \"It's okay to feel angry when something breaks. It's okay to feel sad too. Let's take some deep breaths together.\" Zara breathed in and out with Mama.",
+          "illustration": {
+            "description": "A warm embrace scene with a little girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes being hugged by her mother. Gentle purple and calming blue swirls replace the storm, showing emotions settling.",
+            "alt": "Mama hugging Zara as calming purple and blue emotions swirl around them",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Feeling Better",
+      "pages": [
+        {
+          "text": "Papa came with his sewing kit. \"I can fix Mr. Snuggles,\" he smiled. Zara watched Papa carefully sew the arm back on. Little sparkles of hope began to dance around her.",
+          "illustration": {
+            "description": "A little girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes watching her father repair the teddy bear. Small golden sparkles and warm yellow light begin to appear, mixing with the calmer blue tones.",
+            "alt": "Papa fixing the teddy bear while Zara watches with hopeful golden sparkles appearing",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"All better!\" Papa announced. Zara hugged Mr. Snuggles tight. Bright yellow sunshine burst all around her like warm rays of happiness. \"Thank you, Mama and Papa!\" she giggled. Her big feelings had turned into love and joy.",
+          "illustration": {
+            "description": "A joyful little girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes hugging her repaired teddy bear. Brilliant yellow sunshine rays and warm golden light surround the happy family, with parents smiling nearby.",
+            "alt": "Happy Zara hugging fixed teddy bear surrounded by bright yellow sunshine emotions with her parents",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotional regulation",
+      "family support",
+      "processing anger and sadness",
+      "comfort objects",
+      "parental guidance"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "emotion mapped colors, angry red swirls, sad blue rain, happy yellow sunshine, abstract emotion backgrounds, Inside Out inspired, feeling visualization, color psychology"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What happened to Zara's teddy bear?",
+        "choices": [
+          "His arm came off",
+          "He got lost",
+          "He got dirty"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mr. Snuggles' arm came off, which made Zara very upset."
+      },
+      {
+        "id": "q2",
+        "question": "How did Zara feel when her toy broke?",
+        "choices": [
+          "Angry and sad",
+          "Happy and excited",
+          "Sleepy and tired"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zara felt angry first, then sad when her special teddy bear broke."
+      },
+      {
+        "id": "q3",
+        "question": "What did Mama tell Zara about feelings?",
+        "choices": [
+          "All feelings are okay",
+          "Don't have big feelings",
+          "Only happy feelings are good"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama told Zara that all feelings are okay, including angry and sad ones."
+      },
+      {
+        "id": "q4",
+        "question": "Who fixed Mr. Snuggles?",
+        "choices": [
+          "Papa",
+          "Mama",
+          "Zara"
+        ],
+        "correctIndex": 0,
+        "explanation": "Papa used his sewing kit to carefully fix Mr. Snuggles' arm."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 7,
+            "correctWord": "teddy",
+            "distractors": [
+              "doll",
+              "ball"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "angry",
+            "distractors": [
+              "happy",
+              "sleepy"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "feelings",
+            "distractors": [
+              "toys",
+              "colors"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "hug",
+            "distractors": [
+              "wave",
+              "dance"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

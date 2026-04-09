@@ -1,0 +1,193 @@
+{
+  "id": "v2-toddler-family-144",
+  "title": "Oscar's Pancake Adventure",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "family",
+    "humor"
+  ],
+  "wordCount": 196,
+  "readingLevel": "Pre-K",
+  "synopsis": "When little Oscar decides to help make pancakes for breakfast, flour flies everywhere and silly mistakes happen, but the love and laughter shared with family make it the best morning ever.",
+  "coverImage": "covers/v2-toddler-family-144.webp",
+  "chapters": [
+    {
+      "title": "The Big Helper",
+      "pages": [
+        {
+          "text": "Oscar woke up hungry. His tummy made funny rumbling sounds. \"I want to help make breakfast!\" he told Mama. Mama smiled. \"Let's make pancakes together!\" Oscar jumped up and down. He loved pancakes!",
+          "illustration": {
+            "description": "A cozy kitchen with warm yellow sunlight streaming through windows. Oscar, with short brown wavy hair, fair skin, warm hazel eyes, stands on his tippy-toes next to his mama at the kitchen counter. They both wear matching yellow aprons. The kitchen has orange accents and feels homey.",
+            "alt": "Oscar and his mama in a sunny kitchen getting ready to cook",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama got out the big mixing bowl. Oscar climbed on his special step stool. \"First we need flour,\" said Mama. Oscar grabbed the flour bag. WHOOSH! White flour puffed everywhere like snow!",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes stands on a wooden step stool, holding a flour bag with flour clouds puffing out everywhere. The cozy kitchen is dusted with white flour, and steam rises from a warm orange teapot in the background.",
+            "alt": "Oscar making a flour mess while trying to help cook",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Crack and Mix",
+      "pages": [
+        {
+          "text": "Oscar giggled. He looked like a ghost! Mama giggled too. \"Now we crack eggs,\" she said. Oscar held an egg very carefully. CRACK! Some shell fell in the bowl. \"Oops!\" said Oscar.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes has flour dusting his face and apron. He holds a cracked egg over a yellow mixing bowl while his mama helps fish out eggshell pieces. The kitchen has warm orange lighting and everyday love moments.",
+            "alt": "Oscar learning to crack eggs with his mama's help",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama helped get the shells out. \"Good try!\" she said. Oscar stirred the batter round and round. Some splashed on his nose. He looked cross-eyed at the blob of batter and laughed.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes has pancake batter on his nose while stirring a bowl. His mama stands beside him smiling. The cozy kitchen has warm yellows and oranges, with flour still dusting the counter from their cooking adventure.",
+            "alt": "Oscar stirring pancake batter with some on his nose",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Pancake Party",
+      "pages": [
+        {
+          "text": "The pancakes sizzled in the pan. Oscar watched them bubble and pop. \"They're dancing!\" he said. Soon, Papa and big sister came to the kitchen. \"What smells so good?\" asked Papa.",
+          "illustration": {
+            "description": "The family gathers around the stove where golden pancakes cook in a pan with steam rising. Oscar with short brown wavy hair, fair skin, warm hazel eyes points excitedly at the bubbling pancakes while his papa and sister join them in the warm, cozy kitchen.",
+            "alt": "The whole family watching pancakes cook together",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "They all sat at the dining table. Oscar's pancakes were lumpy and funny-shaped, but they tasted perfect! \"These are the best pancakes ever,\" said Papa. Oscar beamed with pride. Cooking with family was the most fun!",
+          "illustration": {
+            "description": "The family sits around a dining table with warm orange lighting. Oscar with short brown wavy hair, fair skin, warm hazel eyes grins proudly as everyone enjoys the homemade pancakes. Steam rises from the golden, slightly lumpy pancakes, and the scene shows everyday love moments of family gathering.",
+            "alt": "Oscar and his family enjoying breakfast together at the dining table",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "cooking together",
+      "learning through mistakes",
+      "helping parents",
+      "everyday moments"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Oscar want to make for breakfast?",
+        "choices": [
+          "pancakes",
+          "cookies",
+          "soup"
+        ],
+        "correctIndex": 0,
+        "explanation": "Oscar and Mama decided to make pancakes together for breakfast!"
+      },
+      {
+        "id": "q2",
+        "question": "What happened when Oscar opened the flour bag?",
+        "choices": [
+          "it puffed everywhere",
+          "it stayed neat",
+          "it disappeared"
+        ],
+        "correctIndex": 0,
+        "explanation": "The flour went WHOOSH and puffed everywhere like snow, making a fun mess!"
+      },
+      {
+        "id": "q3",
+        "question": "What fell into the bowl when Oscar cracked the egg?",
+        "choices": [
+          "eggshell pieces",
+          "nothing",
+          "flour"
+        ],
+        "correctIndex": 0,
+        "explanation": "Some eggshell fell in the bowl, but Mama helped Oscar fish it out."
+      },
+      {
+        "id": "q4",
+        "question": "How did Oscar's pancakes turn out?",
+        "choices": [
+          "lumpy but tasty",
+          "perfect circles",
+          "too burnt"
+        ],
+        "correctIndex": 0,
+        "explanation": "Oscar's pancakes were lumpy and funny-shaped, but they tasted perfect and made everyone happy!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "flour",
+            "distractors": [
+              "sugar",
+              "salt"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "puffed",
+            "distractors": [
+              "melted",
+              "disappeared"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "eggs",
+            "distractors": [
+              "apples",
+              "bread"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 6,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "family",
+            "distractors": [
+              "strangers",
+              "toys"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "id": "v2-toddler-adventure-125",
+  "title": "Isla's Treasure Map Adventure",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "adventure",
+    "bedtime"
+  ],
+  "wordCount": 166,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Isla discovers a magical treasure map in her bedroom and follows the dotted trail to find a wonderful surprise that helps her drift off to sleep.",
+  "coverImage": "covers/v2-toddler-adventure-125.webp",
+  "chapters": [
+    {
+      "title": "The Magic Map",
+      "pages": [
+        {
+          "text": "Isla was getting ready for bed when she spotted something special on her dresser. It was an old, crinkly map with golden edges and a big red X!",
+          "illustration": {
+            "description": "A bedroom scene showing Isla with long wavy red hair, very fair freckled skin, bright green eyes examining a treasure map on her dresser. The map has aged parchment texture, compass roses, dotted trails, and sepia tones with jewel accents. Her bedroom has adventure cartography elements on the walls.",
+            "alt": "Isla discovers a treasure map in her bedroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The map showed a dotted trail that started right at her bed! Isla giggled and decided to follow it. She put on her fuzzy slippers and began her adventure.",
+          "illustration": {
+            "description": "Isla with long wavy red hair, very fair freckled skin, bright green eyes wearing pajamas and fuzzy slippers, holding the treasure map. The illustration shows a hand-drawn map style with dotted trails leading from her bed, compass roses in corners, and sepia tones with bold explorer elements.",
+            "alt": "Isla begins following the treasure map trail",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The dotted line led her around her toy chest, past her bookshelf, and under her reading chair. Isla crawled and tiptoed, following every twist and turn.",
+          "illustration": {
+            "description": "Adventure cartography style illustration showing Isla with long wavy red hair, very fair freckled skin, bright green eyes following a dotted trail around her room. The scene resembles aged parchment with compass roses, showing her navigating past furniture with treasure map styling and sepia tones.",
+            "alt": "Isla follows the winding trail through her room",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Sleepy Treasure",
+      "pages": [
+        {
+          "text": "The trail led to her closet door. Inside, Isla found a treasure chest made of cardboard and covered in shiny stickers! She opened it carefully.",
+          "illustration": {
+            "description": "Isla with long wavy red hair, very fair freckled skin, bright green eyes opening a decorated cardboard treasure chest in her closet. The illustration uses treasure map style with aged parchment background, jewel accents on the chest, and hand-drawn map elements framing the scene.",
+            "alt": "Isla discovers a treasure chest in her closet",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Inside the chest was the softest, coziest blanket she had ever seen. It was sprinkled with tiny golden stars that seemed to twinkle in the lamplight.",
+          "illustration": {
+            "description": "Close-up of Isla with long wavy red hair, very fair freckled skin, bright green eyes holding up a star-covered blanket. The treasure map style illustration features aged parchment textures, golden jewel accents representing the stars, and compass rose details in the corners with sepia tones.",
+            "alt": "Isla finds a magical starry blanket",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Isla wrapped herself in the magical blanket and climbed into bed. The stars seemed to sing a gentle lullaby as her eyes grew heavy. What a wonderful treasure to end her adventure!",
+          "illustration": {
+            "description": "Isla with long wavy red hair, very fair freckled skin, bright green eyes tucked in bed with the star blanket, looking sleepy and content. The treasure map style illustration shows her bedroom as aged parchment with dotted trails completed, compass roses, and jewel accents creating a peaceful bedtime scene in sepia tones.",
+            "alt": "Isla sleeps peacefully with her treasure blanket",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "adventure",
+      "bedtime routine",
+      "imagination",
+      "discovery",
+      "comfort"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "treasure map style, aged parchment, compass roses, dotted trails, sepia tones, jewel accents, bold explorers, adventure cartography, hand-drawn maps"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where did Isla find the treasure map?",
+        "choices": [
+          "on her dresser",
+          "under her bed",
+          "in the kitchen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Isla found the treasure map on her dresser when she was getting ready for bed."
+      },
+      {
+        "id": "q2",
+        "question": "What did Isla put on her feet for the adventure?",
+        "choices": [
+          "fuzzy slippers",
+          "sneakers",
+          "boots"
+        ],
+        "correctIndex": 0,
+        "explanation": "Isla put on her fuzzy slippers before following the treasure map trail."
+      },
+      {
+        "id": "q3",
+        "question": "Where was the treasure chest hidden?",
+        "choices": [
+          "in her closet",
+          "under her bed",
+          "on her bookshelf"
+        ],
+        "correctIndex": 0,
+        "explanation": "The dotted trail led Isla to find the treasure chest inside her closet."
+      },
+      {
+        "id": "q4",
+        "question": "What treasure did Isla find in the chest?",
+        "choices": [
+          "a starry blanket",
+          "golden coins",
+          "a teddy bear"
+        ],
+        "correctIndex": 0,
+        "explanation": "Isla found a soft, cozy blanket covered with tiny golden stars inside the treasure chest."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "map",
+            "distractors": [
+              "book",
+              "toy"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "chest",
+            "distractors": [
+              "box",
+              "bag"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "id": "v2-toddler-fantasy-070",
+  "title": "Jasper and the Glowing Mushroom Friend",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "fantasy",
+    "friendship"
+  ],
+  "wordCount": 214,
+  "readingLevel": "Pre-K",
+  "synopsis": "A young boy named Jasper discovers a magical glowing mushroom in an enchanted forest and learns that friendship can bloom in the most unexpected places.",
+  "coverImage": "covers/v2-toddler-fantasy-070.webp",
+  "chapters": [
+    {
+      "title": "The Magic Forest",
+      "pages": [
+        {
+          "text": "Jasper loved to explore. One sunny day, he walked into a magical forest. The trees were tall and green, with sparkles dancing in the air.",
+          "illustration": {
+            "description": "A boy with wavy reddish-brown hair, fair freckled skin, green eyes walking into an enchanted forest with towering trees, golden sparkles floating through the air, and dappled sunlight filtering through the canopy in rich greens, Studio Ghibli inspired magical atmosphere",
+            "alt": "Jasper entering a magical forest with sparkling lights",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "As Jasper walked deeper, he saw something amazing. A tiny mushroom was glowing with soft purple light! It was the most beautiful thing he had ever seen.",
+          "illustration": {
+            "description": "A boy with wavy reddish-brown hair, fair freckled skin, green eyes kneeling down to look at a small glowing purple mushroom surrounded by detailed foliage, fairy lights twinkling in the background, mystical creatures hiding in the shadows, rich purples and greens",
+            "alt": "Jasper discovering a glowing purple mushroom in the forest",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The little mushroom wiggled and giggled! 'Hello!' it said in a tiny voice. 'I'm Luna! I've been waiting for a friend to find me.'",
+          "illustration": {
+            "description": "A boy with wavy reddish-brown hair, fair freckled skin, green eyes sitting cross-legged facing a cute anthropomorphic glowing mushroom with a friendly face, surrounded by other glowing mushrooms and fairy lights, golden sparkles in the air, enchanted forest setting",
+            "alt": "Jasper meeting Luna the talking glowing mushroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Jasper's eyes grew wide with wonder. 'You can talk!' he said. 'I'm Jasper! I love making new friends!' Luna's glow got brighter with happiness.",
+          "illustration": {
+            "description": "A boy with wavy reddish-brown hair, fair freckled skin, green eyes reaching out his hand toward a brightly glowing happy mushroom character, mystical creatures peeking from behind trees, rich greens and purples, magical atmosphere with golden sparkles everywhere",
+            "alt": "Jasper and Luna becoming friends as she glows brighter",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Playing Together",
+      "pages": [
+        {
+          "text": "Luna showed Jasper how to make the forest glow. 'Touch the other mushrooms gently,' she said. Soon, the whole forest was twinkling with colorful lights!",
+          "illustration": {
+            "description": "A boy with wavy reddish-brown hair, fair freckled skin, green eyes touching various glowing mushrooms throughout the forest, creating a spectacular light show with fairy lights and golden sparkles, detailed foliage glowing in rich greens and purples, Studio Ghibli inspired",
+            "alt": "Jasper and Luna making the whole forest glow with colorful lights",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "They played hide and seek among the glowing mushrooms. Luna was very good at hiding because she could dim her light. Jasper giggled as he searched for his new friend.",
+          "illustration": {
+            "description": "A boy with wavy reddish-brown hair, fair freckled skin, green eyes searching playfully among large glowing mushrooms while Luna hides behind one with dimmed light, mystical creatures watching the game, enchanted forest with fairy lights twinkling",
+            "alt": "Jasper and Luna playing hide and seek in the mushroom forest",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When it was time to go home, Jasper felt sad. 'Don't worry,' said Luna. 'I'll always be here waiting for you. Friends are forever!' She gave him a tiny glowing seed as a gift.",
+          "illustration": {
+            "description": "A boy with wavy reddish-brown hair, fair freckled skin, green eyes holding a small glowing seed in his palm while Luna the mushroom smiles nearby, surrounded by glowing mushrooms and fairy lights, golden sparkles creating a warm magical atmosphere",
+            "alt": "Luna giving Jasper a glowing seed as a friendship gift",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Jasper planted the seed in his garden at home. Every night, it glowed softly, reminding him of his magical friend Luna in the enchanted forest.",
+          "illustration": {
+            "description": "A boy with wavy reddish-brown hair, fair freckled skin, green eyes kneeling in his home garden at twilight, watching a small glowing mushroom growing from the planted seed, with the magical forest visible in the distance, golden sparkles connecting the two places",
+            "alt": "Jasper watching his glowing mushroom grow in his home garden",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "magic",
+      "wonder",
+      "nature",
+      "kindness"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color light did Luna the mushroom glow with?",
+        "choices": [
+          "Purple",
+          "Blue",
+          "Yellow"
+        ],
+        "correctIndex": 0,
+        "explanation": "Luna glowed with a soft purple light when Jasper first found her in the magical forest."
+      },
+      {
+        "id": "q2",
+        "question": "What game did Jasper and Luna play together?",
+        "choices": [
+          "Hide and seek",
+          "Tag",
+          "Dancing"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jasper and Luna played hide and seek among the glowing mushrooms in the forest."
+      },
+      {
+        "id": "q3",
+        "question": "What gift did Luna give to Jasper?",
+        "choices": [
+          "A glowing seed",
+          "A flower",
+          "A rock"
+        ],
+        "correctIndex": 0,
+        "explanation": "Luna gave Jasper a tiny glowing seed as a friendship gift before he went home."
+      },
+      {
+        "id": "q4",
+        "question": "Where did Jasper plant Luna's gift?",
+        "choices": [
+          "In his garden",
+          "In the forest",
+          "In a pot"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jasper planted the glowing seed in his garden at home, where it grew into a glowing mushroom."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "purple",
+            "distractors": [
+              "blue",
+              "red"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 5,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "hide",
+            "distractors": [
+              "run",
+              "jump"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

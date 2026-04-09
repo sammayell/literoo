@@ -1,0 +1,164 @@
+{
+  "id": "v2-toddler-adventure-165",
+  "title": "Isla's Treasure Map Adventure",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "adventure",
+    "bedtime"
+  ],
+  "wordCount": 232,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Isla finds a mysterious treasure map in her grandmother's attic and embarks on a gentle adventure through her backyard, discovering that the greatest treasure is already at home.",
+  "coverImage": "covers/v2-toddler-adventure-165.webp",
+  "chapters": [
+    {
+      "title": "The Magic Map",
+      "pages": [
+        {
+          "text": "Isla was playing in Grandma's dusty attic when she found something special. Behind an old trunk, there was a rolled-up paper tied with a golden ribbon. When she unrolled it, her green eyes grew wide with wonder. It was a treasure map! The map showed her very own backyard, but with dotted trails leading to an X marked 'treasure.' Isla's heart fluttered with excitement.",
+          "illustration": {
+            "description": "A treasure map style illustration showing Isla with long wavy red hair, very fair freckled skin, bright green eyes in a dusty attic, holding an aged parchment map with compass roses and dotted trails, sepia tones with jewel accents",
+            "alt": "Isla discovering a treasure map in the attic",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Following the Trail",
+      "pages": [
+        {
+          "text": "Isla tucked the map into her pocket and ran downstairs. Outside in the garden, she looked at the map carefully. The dotted trail started at the old oak tree. She walked slowly, following the path drawn on the parchment. Past the flower beds, around the birdbath, and under the apple tree she went. Each step made her feel like a real explorer. The X on the map was pointing to her favorite reading spot under the willow tree.",
+          "illustration": {
+            "description": "A treasure map style illustration showing Isla with long wavy red hair, very fair freckled skin, bright green eyes walking through a backyard garden following dotted trails on aged parchment, with compass roses and sepia tones, hand-drawn map adventure cartography style",
+            "alt": "Isla following the treasure map through her backyard",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Best Treasure",
+      "pages": [
+        {
+          "text": "Under the willow tree, Isla found a small wooden box buried in the soft earth. Inside the box was a note from Grandma that read: 'The greatest treasure is time spent with those you love.' Just then, Grandma appeared with two cups of warm cocoa and her favorite storybook. They sat together under the tree as the sun set, sharing stories and giggles. Isla realized Grandma was right – this moment was the most precious treasure of all. Sleepy and happy, Isla knew she would always remember this magical adventure.",
+          "illustration": {
+            "description": "A treasure map style illustration showing Isla with long wavy red hair, very fair freckled skin, bright green eyes sitting under a willow tree with Grandma, holding cocoa cups with aged parchment treasure map nearby, sepia tones with jewel accents, compass roses, bold explorers adventure cartography style",
+            "alt": "Isla and Grandma sharing cocoa under the willow tree at sunset",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonds",
+      "adventure",
+      "discovery",
+      "imagination",
+      "gratitude"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "treasure map style, aged parchment, compass roses, dotted trails, sepia tones, jewel accents, bold explorers, adventure cartography, hand-drawn maps"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where did Isla find the treasure map?",
+        "choices": [
+          "Grandma's attic",
+          "Under the tree",
+          "In the garden"
+        ],
+        "correctIndex": 0,
+        "explanation": "Isla found the treasure map in Grandma's dusty attic behind an old trunk."
+      },
+      {
+        "id": "q2",
+        "question": "What was tied around the map?",
+        "choices": [
+          "Golden ribbon",
+          "Blue string",
+          "Red rope"
+        ],
+        "correctIndex": 0,
+        "explanation": "The treasure map was tied with a golden ribbon when Isla found it."
+      },
+      {
+        "id": "q3",
+        "question": "What did Isla find in the wooden box?",
+        "choices": [
+          "A note from Grandma",
+          "Gold coins",
+          "Pretty jewels"
+        ],
+        "correctIndex": 0,
+        "explanation": "Inside the wooden box, Isla found a special note from Grandma about the greatest treasure."
+      },
+      {
+        "id": "q4",
+        "question": "What did Grandma bring to share under the tree?",
+        "choices": [
+          "Cocoa and storybook",
+          "Cookies and milk",
+          "Tea and crackers"
+        ],
+        "correctIndex": 0,
+        "explanation": "Grandma brought two cups of warm cocoa and her favorite storybook to share with Isla."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "map",
+            "distractors": [
+              "book",
+              "toy"
+            ]
+          },
+          {
+            "wordIndex": 25,
+            "correctWord": "treasure",
+            "distractors": [
+              "flowers",
+              "animals"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 18,
+            "correctWord": "trail",
+            "distractors": [
+              "road",
+              "fence"
+            ]
+          },
+          {
+            "wordIndex": 35,
+            "correctWord": "explorer",
+            "distractors": [
+              "princess",
+              "dancer"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

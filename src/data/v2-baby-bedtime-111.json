@@ -1,0 +1,131 @@
+{
+  "id": "v2-baby-bedtime-111",
+  "title": "Zara's Sleepy Time",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "bedtime",
+    "family"
+  ],
+  "wordCount": 62,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Zara gets ready for bed with help from her loving family in this gentle bedtime story filled with hugs, kisses, and sweet dreams.",
+  "coverImage": "covers/v2-baby-bedtime-111.webp",
+  "chapters": [
+    {
+      "title": "Time for Bed",
+      "pages": [
+        {
+          "text": "The moon is up. The stars shine bright. Time for Zara to say goodnight.",
+          "illustration": {
+            "description": "A little girl named Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes looking out a window at the night sky, soft watercolor style with dreamy purple and blue gradients, glowing stars, gentle moonlight, ethereal atmosphere",
+            "alt": "Zara looking at the starry night sky through her window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama helps Zara brush her teeth. Papa reads a story, soft and sweet.",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes sitting with her parents in a cozy room, soft watercolor with dreamy purple and blue gradients, floating clouds, round sleepy faces, gentle moonlight, pastel palette",
+            "alt": "Zara with her parents getting ready for bedtime",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Into pajamas, warm and nice. Grandma gives hugs, not just once but twice.",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes in soft pajamas being hugged by her grandmother, soft watercolor style with dreamy purple and blue gradients, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette",
+            "alt": "Zara getting hugs from Grandma before bed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Blanket up to Zara's chin. Dreams of love dance within. Good night, sleep tight, little one. Tomorrow brings a brand new sun.",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes tucked in bed with a soft blanket, surrounded by her family giving goodnight kisses, soft watercolor with dreamy purple and blue gradients, glowing stars, round sleepy faces, gentle moonlight, ethereal atmosphere",
+            "alt": "Zara peacefully sleeping in bed surrounded by her loving family",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "family love",
+      "comfort",
+      "sleep"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Mama help Zara do?",
+        "choices": [
+          "Brush her teeth",
+          "Put on shoes"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama helps Zara brush her teeth as part of her bedtime routine."
+      },
+      {
+        "id": "q2",
+        "question": "How many hugs does Grandma give?",
+        "choices": [
+          "Two",
+          "One"
+        ],
+        "correctIndex": 0,
+        "explanation": "Grandma gives Zara hugs twice, not just once but twice."
+      },
+      {
+        "id": "q3",
+        "question": "What shines in the sky?",
+        "choices": [
+          "Stars",
+          "Cars"
+        ],
+        "correctIndex": 0,
+        "explanation": "The stars shine bright in the night sky when it's time for bed."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "goodnight",
+            "distractors": [
+              "hello",
+              "breakfast"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "story",
+            "distractors": [
+              "cookie",
+              "shoe"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

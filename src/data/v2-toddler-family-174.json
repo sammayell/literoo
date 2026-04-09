@@ -1,0 +1,180 @@
+{
+  "id": "v2-toddler-family-174",
+  "title": "Marcus Makes a Mess",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "family",
+    "humor"
+  ],
+  "wordCount": 202,
+  "readingLevel": "Pre-K",
+  "synopsis": "Marcus tries to help make pancakes in the kitchen but creates a wonderful mess that leads to family fun and laughter.",
+  "coverImage": "covers/v2-toddler-family-174.webp",
+  "chapters": [
+    {
+      "title": "Pancake Helper",
+      "pages": [
+        {
+          "text": "Marcus woke up hungry. He smelled something yummy coming from the kitchen. Pancakes! His tummy rumbled. \"I want to help!\" Marcus said, running to the kitchen. Mama was mixing batter in a big yellow bowl. \"Can I stir?\" Marcus asked with his biggest smile.",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes standing in a cozy kitchen with warm yellow lighting, reaching up toward his mother who holds a mixing bowl, steam rising from the stove, flour scattered on counters",
+            "alt": "Marcus eagerly asking to help his mother cook pancakes in a warm kitchen",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama handed Marcus the wooden spoon. \"Stir slowly,\" she said. Marcus stirred fast instead. Splish! Splash! Batter flew everywhere. It landed on his nose, on the counter, and even on the ceiling! \"Oops!\" Marcus giggled.",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes stirring pancake batter enthusiastically, batter splashing around the cozy kitchen with warm orange tones, flour clouds in the air, wearing a small apron",
+            "alt": "Marcus making a mess while stirring pancake batter with enthusiasm",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "More Mess, More Fun",
+      "pages": [
+        {
+          "text": "\"Let me add flour,\" Marcus said. He grabbed the big bag. Poof! White flour went everywhere like snow. It covered Marcus from head to toe. \"I'm a snowman!\" he laughed. Mama laughed too, even though the kitchen looked like a tornado hit it.",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes covered in white flour from head to toe, standing in a kitchen filled with flour clouds, warm yellow lighting, his mother laughing in the background",
+            "alt": "Marcus covered in flour like a snowman while his mother laughs",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Papa walked in and gasped. \"What happened here?\" he asked. Marcus and Mama pointed at each other and giggled. \"Marcus happened!\" they said together. Papa started laughing too. Soon everyone was covered in flour and having a flour fight!",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes having a playful flour fight with both parents in the cozy kitchen, warm orange lighting, flour flying through the air, everyone laughing and wearing aprons",
+            "alt": "Marcus and his parents having a fun flour fight in the messy kitchen",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Perfect Pancakes",
+      "pages": [
+        {
+          "text": "After cleaning up, they made pancakes together. Marcus helped flip them. Only two landed on the floor! \"These are the best pancakes ever,\" Papa said at the dining table. \"That's because Marcus made them,\" Mama said, hugging her messy little helper.",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes sitting at a cozy dining table with his parents, a stack of golden pancakes in the center, warm yellow morning light streaming in, everyone smiling and sharing homemade food",
+            "alt": "Marcus and his family enjoying pancakes together at the breakfast table",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "helping in kitchen",
+      "making mistakes",
+      "laughter",
+      "cooking together"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Marcus want to help make?",
+        "choices": [
+          "pancakes",
+          "cookies",
+          "soup"
+        ],
+        "correctIndex": 0,
+        "explanation": "Marcus smelled pancakes and wanted to help make them in the kitchen."
+      },
+      {
+        "id": "q2",
+        "question": "What happened when Marcus stirred the batter?",
+        "choices": [
+          "it splashed everywhere",
+          "it stayed in the bowl",
+          "it disappeared"
+        ],
+        "correctIndex": 0,
+        "explanation": "Marcus stirred too fast and the batter splashed all around the kitchen."
+      },
+      {
+        "id": "q3",
+        "question": "What made Marcus look like a snowman?",
+        "choices": [
+          "flour",
+          "sugar",
+          "milk"
+        ],
+        "correctIndex": 0,
+        "explanation": "When Marcus added flour, it went everywhere and covered him in white like snow."
+      },
+      {
+        "id": "q4",
+        "question": "How did the family feel about the mess?",
+        "choices": [
+          "they laughed and had fun",
+          "they got angry",
+          "they cried"
+        ],
+        "correctIndex": 0,
+        "explanation": "The whole family laughed together and even had a flour fight, turning the mess into fun."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "kitchen",
+            "distractors": [
+              "bedroom",
+              "bathroom"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "pancakes",
+            "distractors": [
+              "cookies",
+              "bread"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "flour",
+            "distractors": [
+              "sugar",
+              "salt"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "snowman",
+            "distractors": [
+              "robot",
+              "monster"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

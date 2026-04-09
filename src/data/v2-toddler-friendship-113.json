@@ -1,0 +1,167 @@
+{
+  "id": "v2-toddler-friendship-113",
+  "title": "Nia and the Magic Garden Friends",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "nature"
+  ],
+  "wordCount": 152,
+  "readingLevel": "Pre-K",
+  "synopsis": "Nia discovers a magical garden where she makes new friends and learns about caring for nature together.",
+  "coverImage": "covers/v2-toddler-friendship-113.webp",
+  "chapters": [
+    {
+      "title": "Nia Finds the Garden",
+      "pages": [
+        {
+          "text": "Nia loved to explore. She had long braids with colorful beads that clicked when she walked. Today, she found a special gate covered in pretty flowers.",
+          "illustration": {
+            "description": "A little girl with long braids with colorful beads, dark brown skin, warm kind eyes standing before a flower-covered garden gate in bright sunlight with primary colors and white space around",
+            "alt": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes at a garden gate",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Behind the gate was the most beautiful garden Nia had ever seen! Butterflies danced around tall sunflowers. Bees buzzed happily from flower to flower.",
+          "illustration": {
+            "description": "A magical garden scene with Nia who has long braids with colorful beads, dark brown skin, warm kind eyes walking among bright sunflowers, colorful butterflies, and busy bees in a joyful energetic style with primary colors",
+            "alt": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes in a magical garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A little rabbit hopped up to Nia. 'Hello!' said the rabbit. 'I'm Ruby. Will you be my friend?' Nia clapped her hands with joy. 'Yes! I'm Nia!'",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes sitting on grass talking to a friendly white rabbit, surrounded by flowers in bright sunny colors with white space",
+            "alt": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes meeting Ruby the rabbit",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Friends Help Friends",
+      "pages": [
+        {
+          "text": "Ruby showed Nia around the garden. They met Benny the butterfly and Sam the squirrel. All the animals loved playing together in the sunshine.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes playing with diverse animal friends including a butterfly, rabbit, and squirrel in a bright sunny garden with primary colors and joyful energy",
+            "alt": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes playing with garden animal friends",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The flowers looked thirsty. 'Let's help them!' said Nia. All the friends worked together. Nia carried water while Ruby and Sam planted new seeds.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes carrying a watering can, helping animal friends tend to flowers in an inclusive friendship scene with bright primary colors",
+            "alt": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes watering flowers with friends",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When they finished, the garden sparkled even more! 'Thank you for being such good friends,' said all the flowers. Nia smiled. She loved her new garden friends.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes surrounded by happy animal friends and blooming flowers in a celebratory scene with bright primary colors and white space showing friendship and joy",
+            "alt": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes celebrating with garden friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "nature",
+      "helping others",
+      "teamwork",
+      "exploring"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Nia find behind the special gate?",
+        "choices": [
+          "a beautiful garden",
+          "a playground",
+          "a house"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nia found a beautiful garden with flowers, butterflies, and bees behind the gate."
+      },
+      {
+        "id": "q2",
+        "question": "Who was the first animal friend Nia met?",
+        "choices": [
+          "Ruby the rabbit",
+          "Sam the squirrel",
+          "Benny the butterfly"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ruby the rabbit was the first to hop up and ask Nia to be friends."
+      },
+      {
+        "id": "q3",
+        "question": "How did the friends help the garden?",
+        "choices": [
+          "they watered flowers and planted seeds",
+          "they picked all the flowers",
+          "they chased the butterflies"
+        ],
+        "correctIndex": 0,
+        "explanation": "The friends worked together to water the thirsty flowers and plant new seeds."
+      },
+      {
+        "id": "q4",
+        "question": "What makes Nia's braids special?",
+        "choices": [
+          "they have colorful beads that click",
+          "they are very short",
+          "they are always messy"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nia's long braids have colorful beads that make clicking sounds when she walks."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "flowers",
+            "distractors": [
+              "rocks",
+              "trees"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "friends",
+            "distractors": [
+              "cats",
+              "toys"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

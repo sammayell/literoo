@@ -13,7 +13,7 @@
   "wordCount": 33,
   "readingLevel": "Pre-K",
   "synopsis": "Little Emma gets ready for bed with help from Mama and Papa, creating a peaceful bedtime routine filled with love and comfort.",
-  "coverImage": "covers/v2-baby-bedtime-001.webp",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-001/cover.png",
   "chapters": [
     {
       "title": "Time for Bed",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks yawning in soft watercolor style with dreamy purple and blue gradients, glowing stars floating around her, gentle moonlight streaming through a window",
             "alt": "Sleepy Emma yawning with stars around her",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-001/scene_1_1.png"
           }
         },
         {
@@ -31,7 +32,8 @@
           "illustration": {
             "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks brushing teeth with Mama in a bathroom scene rendered in soft watercolor with dreamy purple and blue gradients, floating clouds of minty fresh air, ethereal atmosphere with pastel palette",
             "alt": "Emma brushing teeth with Mama",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-001/scene_1_2.png"
           }
         },
         {
@@ -39,7 +41,8 @@
           "illustration": {
             "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks sitting on Papa's lap with a book, painted in soft watercolor style with dreamy purple and blue gradients, gentle moonlight glowing through the window, round sleepy faces, glowing stars visible outside",
             "alt": "Papa reading to Emma by moonlight",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-001/scene_1_3.png"
           }
         },
         {
@@ -47,7 +50,8 @@
           "illustration": {
             "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks sleeping peacefully in bed hugging a teddy bear, soft watercolor rendering with dreamy purple and blue gradients, floating clouds above her head, glowing stars scattered around, ethereal atmosphere with gentle moonlight, pastel palette creating a serene bedtime scene",
             "alt": "Emma sleeping peacefully with teddy bear",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-001/scene_1_4.png"
           }
         }
       ]

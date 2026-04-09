@@ -1,0 +1,172 @@
+{
+  "id": "v2-toddler-friendship-153",
+  "title": "Nia's Flower Friends",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "nature"
+  ],
+  "wordCount": 184,
+  "readingLevel": "Pre-K",
+  "synopsis": "Nia discovers that flowers in the park can be special friends too, learning about nature and friendship through gentle exploration.",
+  "coverImage": "covers/v2-toddler-friendship-153.webp",
+  "chapters": [
+    {
+      "title": "Nia Finds New Friends",
+      "pages": [
+        {
+          "text": "Nia loved playing at the sunny park. She had long braids with colorful beads that danced when she ran. Today, she wanted to find new friends to play with.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes standing at the entrance of a bright sunny playground with swings and slides, diverse kids playing in the background, primary colors, white space, joyful energetic atmosphere",
+            "alt": "Nia at a colorful playground entrance",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Near the big slide, Nia saw pretty yellow flowers growing in the soft grass. 'Hello, little flowers!' she said with a big smile. The flowers seemed to wave in the gentle breeze.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes kneeling beside bright yellow flowers near playground slides, diverse kids playing on swings in background, primary colors, white space, inclusive park setting with laughter and friendship activities",
+            "alt": "Nia greeting yellow flowers near playground equipment",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Talking to Flowers",
+      "pages": [
+        {
+          "text": "Nia sat down next to the flowers. 'Do you want to be my friends?' she asked. She told them about her favorite games and songs. The flowers listened quietly, swaying softly.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes sitting cross-legged next to yellow flowers, talking animatedly with her hands, bright sunny playground behind her with diverse kids on swings and slides, primary colors, joyful energetic scene",
+            "alt": "Nia sitting and talking to flowers at the park",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A butterfly landed on one of the flowers. 'Oh!' said Nia. 'You have friends too!' She watched the pretty butterfly dance from flower to flower. Nature was full of friends everywhere.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes watching a colorful butterfly on yellow flowers, bright sunny playground with inclusive diverse kids playing, primary colors, white space, friendship activities and laughter in background",
+            "alt": "Nia observing a butterfly on flowers with playground behind",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Friends Everywhere",
+      "pages": [
+        {
+          "text": "More children came to see what Nia was doing. 'These are my flower friends,' she explained. Soon, all the kids were sitting with Nia, talking to the flowers and watching butterflies.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes surrounded by diverse kids of different backgrounds sitting in a circle around yellow flowers, bright sunny playground with swings and slides, primary colors, inclusive joyful energetic scene with friendship activities",
+            "alt": "Nia and diverse children sitting together around flowers",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "From that day on, Nia visited her flower friends every time she came to the park. She learned that friends can be found everywhere - even in nature's beautiful garden.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes gently touching yellow flowers while diverse kids play on playground equipment behind her, bright sunny park setting with primary colors, white space, laughter and inclusive friendship activities",
+            "alt": "Nia tenderly touching flowers with playground activities in background",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "nature appreciation",
+      "inclusivity",
+      "outdoor play",
+      "gentle exploration"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color were Nia's new flower friends?",
+        "choices": [
+          "yellow",
+          "red",
+          "blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nia found pretty yellow flowers growing near the big slide."
+      },
+      {
+        "id": "q2",
+        "question": "Where did Nia find the flowers?",
+        "choices": [
+          "at the park",
+          "at home",
+          "at school"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nia was playing at the sunny park when she discovered the flowers."
+      },
+      {
+        "id": "q3",
+        "question": "What landed on Nia's flower friends?",
+        "choices": [
+          "a butterfly",
+          "a bird",
+          "a bee"
+        ],
+        "correctIndex": 0,
+        "explanation": "A pretty butterfly landed on one of the flowers and danced from flower to flower."
+      },
+      {
+        "id": "q4",
+        "question": "What did Nia learn about friendship?",
+        "choices": [
+          "friends are everywhere",
+          "friends are only people",
+          "friends don't listen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nia learned that friends can be found everywhere, even in nature's beautiful garden."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "flowers",
+            "distractors": [
+              "trees",
+              "rocks"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "butterfly",
+            "distractors": [
+              "bird",
+              "leaf"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

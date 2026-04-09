@@ -1,0 +1,167 @@
+{
+  "id": "v2-toddler-humor-187",
+  "title": "Ivy and the Giggling Garden Gnomes",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "humor",
+    "fantasy"
+  ],
+  "wordCount": 207,
+  "readingLevel": "Pre-K",
+  "synopsis": "When Ivy discovers her garden gnomes come to life at night, she joins them for silly adventures that turn her backyard into a magical playground of giggles and mischief.",
+  "coverImage": "covers/v2-toddler-humor-187.webp",
+  "chapters": [
+    {
+      "title": "The Wiggling Gnomes",
+      "pages": [
+        {
+          "text": "Ivy loved playing in her backyard garden. Every day, she would wave hello to the three little garden gnomes by the flower bed. But today, something was different. When Ivy waved, one gnome's hat wiggled!",
+          "illustration": {
+            "description": "A girl with short dark brown bob with bangs, fair skin, big brown eyes stands in a bright garden with exaggerated surprise expression, mouth forming a perfect 'O' and eyes bulging comically. Three colorful garden gnomes sit by vibrant flowers, one gnome's red pointy hat wobbling cartoonishly.",
+            "alt": "Ivy looking surprised at wiggling garden gnomes",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Did you see that?\" Ivy whispered to her teddy bear. She tiptoed closer to the gnomes. Suddenly, the middle gnome stretched his tiny arms up high and yawned the biggest yawn ever! \"YAAAAWN!\"",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes crouches down holding a teddy bear, eyes stretched impossibly wide in rubber hose animation style. A blue garden gnome in the center stretches his arms toward the sky with an enormous gaping yawn, his mouth taking up half his face.",
+            "alt": "Ivy watching a gnome yawn dramatically",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Oh my!\" giggled Ivy. \"You're alive!\" All three gnomes began to wiggle and jiggle. They rolled around like bouncy balls, their hats flopping everywhere. Ivy clapped her hands with joy.",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes claps with exaggerated delight, her body bouncing with squash-and-stretch energy. Three garden gnomes tumble and roll in slapstick fashion, their pointy hats flying in different directions, bodies stretched and squished like rubber.",
+            "alt": "Ivy clapping as three gnomes roll around comically",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Silly Dance Party",
+      "pages": [
+        {
+          "text": "\"Want to dance?\" asked the red-hatted gnome in a squeaky voice. \"Yes!\" shouted Ivy. The gnomes started doing the silliest dance ever. They wiggled their bottoms, spun in circles, and made funny faces.",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes dances with arms stretched wide in comedic pose, grinning enormously. Three garden gnomes perform exaggerated silly dance moves - one wiggling dramatically, one spinning like a top with motion lines, one making a ridiculous cross-eyed face.",
+            "alt": "Ivy and gnomes doing silly dance moves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Ivy copied their moves. She wiggled and giggled until she got so dizzy, she fell down with a soft PLOP! The gnomes laughed so hard they rolled over like bowling pins. \"Again! Again!\" they all cheered.",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes sits on the ground with swirly eyes showing dizziness, legs splayed out in slapstick fashion. Three garden gnomes lie on their backs laughing hysterically with oversized smiling mouths and bouncy body language, arms and legs flailing comically.",
+            "alt": "Ivy sitting dizzy while gnomes laugh on their backs",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "As the sun began to set, the gnomes yawned again. \"Time for us to sleep,\" they said. \"See you tomorrow for more giggles!\" Ivy hugged each gnome goodnight. From that day on, her garden was the most magical place ever!",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes gently hugs a sleepy garden gnome with exaggerated tender expression. The other two gnomes yawn enormously in the background. The setting sun casts warm candy-bright orange and pink colors across the garden, creating a bouncy, magical atmosphere.",
+            "alt": "Ivy hugging sleepy gnomes at sunset",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "imagination",
+      "play",
+      "magic",
+      "joy"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did the garden gnome do that surprised Ivy?",
+        "choices": [
+          "His hat wiggled",
+          "He sang a song",
+          "He grew bigger"
+        ],
+        "correctIndex": 0,
+        "explanation": "The gnome's hat wiggled when Ivy waved, which was the first sign they were alive!"
+      },
+      {
+        "id": "q2",
+        "question": "How many garden gnomes were in Ivy's backyard?",
+        "choices": [
+          "Three gnomes",
+          "Two gnomes",
+          "Four gnomes"
+        ],
+        "correctIndex": 0,
+        "explanation": "There were three little garden gnomes by the flower bed that came to life."
+      },
+      {
+        "id": "q3",
+        "question": "What happened when Ivy got dizzy from dancing?",
+        "choices": [
+          "She fell down with a PLOP",
+          "She started crying",
+          "She ran inside"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ivy got so dizzy from copying the gnomes' silly dance moves that she fell down with a soft PLOP!"
+      },
+      {
+        "id": "q4",
+        "question": "When did the gnomes say it was time to sleep?",
+        "choices": [
+          "When the sun began to set",
+          "In the morning",
+          "At lunchtime"
+        ],
+        "correctIndex": 0,
+        "explanation": "As the sun began to set, the gnomes yawned and said it was time for them to sleep."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "wiggled",
+            "distractors": [
+              "danced",
+              "jumped"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "dance",
+            "distractors": [
+              "sing",
+              "run"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

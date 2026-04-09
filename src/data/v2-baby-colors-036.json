@@ -1,0 +1,155 @@
+{
+  "id": "v2-baby-colors-036",
+  "title": "Malik's Rainbow Kitchen",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "colors",
+    "food"
+  ],
+  "wordCount": 96,
+  "readingLevel": "Pre-K",
+  "synopsis": "Baby Malik explores colorful foods in his kitchen, discovering red apples, yellow bananas, green peas, blue berries, and orange carrots while learning about colors through taste and touch.",
+  "coverImage": "covers/v2-baby-colors-036.webp",
+  "chapters": [
+    {
+      "title": "Malik's Colorful Foods",
+      "pages": [
+        {
+          "text": "Malik loves colors! Malik loves food! Let's see what colors Malik finds in his kitchen today.",
+          "illustration": {
+            "description": "A joyful baby boy with short twists, dark brown skin, gentle expressive eyes sitting in a bright rainbow kitchen with paint splatter drips on the walls, finger paint aesthetic with swirls of all colors blending together",
+            "alt": "Malik sitting happily in a colorful kitchen",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Red apple! Malik holds the red apple. Red is bright. Red is sweet. Yum!",
+          "illustration": {
+            "description": "Baby Malik with short twists, dark brown skin, gentle expressive eyes holding a bright red apple, dominant red colors splashing across the scene with painterly drips and finger paint texture",
+            "alt": "Malik holding a red apple",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Yellow banana! Malik peels the yellow banana. Yellow is sunny. Yellow is soft. Mmm!",
+          "illustration": {
+            "description": "Baby Malik with short twists, dark brown skin, gentle expressive eyes peeling a yellow banana, dominant yellow paint splatters and drips creating a sunny sensory visual with finger paint aesthetic",
+            "alt": "Malik peeling a yellow banana",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Green peas! Malik pops green peas. Green is fresh. Green is round. Pop!",
+          "illustration": {
+            "description": "Baby Malik with short twists, dark brown skin, gentle expressive eyes eating green peas, dominant green splashy painterly background with paint splatter drips and joyful pure color exploration",
+            "alt": "Malik eating green peas",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Blue berries! Malik picks blue berries. Blue is juicy. Blue is small. Squish!",
+          "illustration": {
+            "description": "Baby Malik with short twists, dark brown skin, gentle expressive eyes picking blueberries, dominant blue paint splatters and drips with sensory visual finger paint aesthetic and rainbow accents",
+            "alt": "Malik picking blueberries",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Orange carrots! Malik crunches orange carrots. Orange is crunchy. Orange is long. Crunch!",
+          "illustration": {
+            "description": "Baby Malik with short twists, dark brown skin, gentle expressive eyes eating orange carrots, dominant orange splashy painterly background with paint splatter drips and joyful color exploration",
+            "alt": "Malik eating orange carrots",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Malik loves all the colors! Red, yellow, green, blue, orange. Colors taste good!",
+          "illustration": {
+            "description": "Baby Malik with short twists, dark brown skin, gentle expressive eyes surrounded by all the colorful foods, rainbow colors swirling together with splashy painterly drips and finger paint aesthetic in pure joyful celebration",
+            "alt": "Malik surrounded by colorful foods",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "color recognition",
+      "healthy eating",
+      "sensory exploration",
+      "kitchen discovery"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "rainbow colors, splashy painterly, one color dominant per scene, paint splatter drips, sensory visual, joyful pure color, finger paint aesthetic, color exploration"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color is the apple Malik holds?",
+        "choices": [
+          "Red",
+          "Blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "The apple is red! Red apples are sweet and bright."
+      },
+      {
+        "id": "q2",
+        "question": "What sound do the peas make?",
+        "choices": [
+          "Pop",
+          "Crunch"
+        ],
+        "correctIndex": 0,
+        "explanation": "The green peas go 'Pop!' when Malik eats them."
+      },
+      {
+        "id": "q3",
+        "question": "What color are the berries?",
+        "choices": [
+          "Yellow",
+          "Blue"
+        ],
+        "correctIndex": 1,
+        "explanation": "The berries are blue! Blueberries are small and juicy."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "red",
+            "distractors": [
+              "blue",
+              "green"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "Yellow",
+            "distractors": [
+              "Red",
+              "Green"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

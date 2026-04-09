@@ -1,0 +1,174 @@
+{
+  "id": "v2-toddler-family-034",
+  "title": "Marcus Makes a Mess",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "family",
+    "humor"
+  ],
+  "wordCount": 112,
+  "readingLevel": "Pre-K",
+  "synopsis": "Marcus wants to help make pancakes but creates a flour-filled mess in the kitchen, leading to giggles and family bonding time.",
+  "coverImage": "covers/v2-toddler-family-034.webp",
+  "chapters": [
+    {
+      "title": "Pancake Helper",
+      "pages": [
+        {
+          "text": "Marcus loves Saturday mornings. Today, Mama is making pancakes in the sunny kitchen.",
+          "illustration": {
+            "description": "A boy with short curly hair with a fade, medium-dark brown skin, warm brown eyes standing in a cozy kitchen filled with warm yellow sunlight streaming through windows, his mother at the stove with a mixing bowl",
+            "alt": "Marcus watching his mother cook pancakes in a bright kitchen",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Can I help?\" Marcus asks, bouncing on his toes. \"Please, please, please?\"",
+          "illustration": {
+            "description": "A boy with short curly hair with a fade, medium-dark brown skin, warm brown eyes jumping excitedly next to his mother in the warm orange-lit kitchen, flour bags and mixing bowls visible on the counter",
+            "alt": "Marcus excitedly asking to help cook",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama smiles. \"You can pour the flour, but be very careful.\" She hands Marcus the big bag of flour.",
+          "illustration": {
+            "description": "A smiling mother handing a large flour bag to a boy with short curly hair with a fade, medium-dark brown skin, warm brown eyes in the cozy kitchen with warm yellow lighting and cooking ingredients spread across the counter",
+            "alt": "Mama giving Marcus a bag of flour to help",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Marcus grabs the flour bag with both hands. It's heavier than he thought! WHOOSH! Flour goes everywhere!",
+          "illustration": {
+            "description": "A boy with short curly hair with a fade, medium-dark brown skin, warm brown eyes covered in white flour dust, flour clouds filling the warm orange-toned kitchen, flour scattered across counters and floor",
+            "alt": "Marcus accidentally spilling flour everywhere in the kitchen",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Flour Fun",
+      "pages": [
+        {
+          "text": "Marcus looks like a flour ghost! Flour is on his nose, in his hair, and all over the floor.",
+          "illustration": {
+            "description": "A boy with short curly hair with a fade, medium-dark brown skin, warm brown eyes completely dusted with white flour from head to toe, standing in the messy kitchen with warm yellow lighting and flour covering every surface",
+            "alt": "Marcus covered in flour looking like a little ghost",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Oops!\" Marcus giggles. Mama starts laughing too. \"You look like a snowman, Marcus!\"",
+          "illustration": {
+            "description": "A boy with short curly hair with a fade, medium-dark brown skin, warm brown eyes giggling while covered in flour, his mother laughing beside him in the cozy kitchen with warm orange tones and flour dust still floating in the air",
+            "alt": "Marcus and Mama laughing together about the flour mess",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "They clean up together. Then Mama helps Marcus make the best pancakes ever. Even messy helpers make yummy food!",
+          "illustration": {
+            "description": "A boy with short curly hair with a fade, medium-dark brown skin, warm brown eyes sitting at the dining table with his mother, both wearing aprons, sharing a stack of golden pancakes with steam rising, warm yellow kitchen lighting creating a cozy family moment",
+            "alt": "Marcus and Mama enjoying pancakes together at the table",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "helping in kitchen",
+      "learning from mistakes",
+      "laughter and joy"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Marcus want to help make?",
+        "choices": [
+          "pancakes",
+          "cookies",
+          "soup"
+        ],
+        "correctIndex": 0,
+        "explanation": "Marcus wants to help Mama make pancakes on Saturday morning."
+      },
+      {
+        "id": "q2",
+        "question": "What happens when Marcus tries to pour the flour?",
+        "choices": [
+          "it spills everywhere",
+          "it goes in the bowl",
+          "it falls on the floor"
+        ],
+        "correctIndex": 0,
+        "explanation": "The flour bag is too heavy for Marcus and flour goes everywhere, making a big mess."
+      },
+      {
+        "id": "q3",
+        "question": "What does Mama say Marcus looks like covered in flour?",
+        "choices": [
+          "a snowman",
+          "a ghost",
+          "a cloud"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama laughs and says Marcus looks like a snowman when he's covered in flour."
+      },
+      {
+        "id": "q4",
+        "question": "How do Marcus and Mama feel about the mess?",
+        "choices": [
+          "they laugh about it",
+          "they get upset",
+          "they cry"
+        ],
+        "correctIndex": 0,
+        "explanation": "Both Marcus and Mama laugh about the flour mess, showing that mistakes can be fun when family is together."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "pancakes",
+            "distractors": [
+              "cookies",
+              "bread"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "everywhere",
+            "distractors": [
+              "nowhere",
+              "somewhere"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "id": "v2-baby-colors-076",
+  "title": "Malik's Colorful Snacks",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "colors",
+    "food"
+  ],
+  "wordCount": 55,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Malik explores different colored foods, learning about colors through delicious snacks like red apples, yellow bananas, and green peas.",
+  "coverImage": "covers/v2-baby-colors-076.webp",
+  "chapters": [
+    {
+      "title": "Yummy Colors",
+      "pages": [
+        {
+          "text": "Malik is hungry! He looks at his colorful snacks.",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, gentle expressive eyes sits at a small table with rainbow-colored foods spread out, dominant rainbow swirls with paint splatter drips in finger paint aesthetic",
+            "alt": "Malik sitting at table with colorful foods",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Red apple! Crunch, crunch. Malik smiles. Red is sweet!",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, gentle expressive eyes holding a bright red apple, dominant red paint splatters and drips surrounding him in joyful pure color finger paint style",
+            "alt": "Malik holding a red apple",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Yellow banana! Peel, peel. Malik giggles. Yellow is soft!",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, gentle expressive eyes peeling a banana, dominant yellow splashy painterly background with sensory visual paint drips in finger paint aesthetic",
+            "alt": "Malik peeling a yellow banana",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Green peas! Pop, pop. Malik claps. Green is fun!",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, gentle expressive eyes eating green peas from a bowl, dominant green color exploration with splashy painterly drips and joyful pure color finger paint style",
+            "alt": "Malik eating green peas",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Orange carrots! Munch, munch. Malik laughs. Orange is crunchy!",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, gentle expressive eyes biting an orange carrot, dominant orange paint splatter drips with sensory visual finger paint aesthetic and joyful pure color",
+            "alt": "Malik eating an orange carrot",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Purple grapes! Squish, squish. Malik is happy. Colors taste good!",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, gentle expressive eyes with purple grapes, dominant purple splashy painterly background with paint splatter drips in color exploration finger paint aesthetic",
+            "alt": "Malik with purple grapes",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "colors",
+      "healthy eating",
+      "sensory exploration",
+      "joy"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "rainbow colors, splashy painterly, one color dominant per scene, paint splatter drips, sensory visual, joyful pure color, finger paint aesthetic, color exploration"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color is Malik's apple?",
+        "choices": [
+          "red",
+          "blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "Malik's apple is red! Red apples are sweet and crunchy."
+      },
+      {
+        "id": "q2",
+        "question": "What does Malik do with the banana?",
+        "choices": [
+          "peel it",
+          "throw it"
+        ],
+        "correctIndex": 0,
+        "explanation": "Malik peels the banana! You have to peel bananas before eating them."
+      },
+      {
+        "id": "q3",
+        "question": "How does Malik feel about the colorful foods?",
+        "choices": [
+          "happy",
+          "sad"
+        ],
+        "correctIndex": 0,
+        "explanation": "Malik is happy! He smiles, giggles, claps, and laughs while eating his colorful snacks."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Red",
+            "distractors": [
+              "Blue",
+              "Green"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Yellow",
+            "distractors": [
+              "Purple",
+              "Orange"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

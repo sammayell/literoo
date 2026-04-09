@@ -1,0 +1,161 @@
+{
+  "id": "v2-baby-food-199",
+  "title": "Hiro's Animal Friends Share Yummy Food",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "food",
+    "animals"
+  ],
+  "wordCount": 55,
+  "readingLevel": "Pre-K",
+  "synopsis": "Baby Hiro discovers different animals and the delicious foods they love to eat in this colorful feast adventure.",
+  "coverImage": "covers/v2-baby-food-199.webp",
+  "chapters": [
+    {
+      "title": "Animal Friends and Yummy Food",
+      "pages": [
+        {
+          "text": "Hiro sees bunny. Bunny loves carrots! Crunch, crunch, crunch!",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face sits next to a fluffy white bunny eating bright orange carrots with magical sparkles and steam rising from the fresh vegetables in exaggerated proportions",
+            "alt": "Hiro sitting with a bunny eating carrots",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Bear likes honey. Sweet, sticky, yummy honey drips everywhere!",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face watches a friendly brown bear eating golden honey from a pot with magical drips and sparkles flowing down in exaggerated sweet streams",
+            "alt": "Hiro watching a bear eat honey",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Monkey wants bananas. Yellow bananas are so tasty!",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face giggles as a playful monkey peels bright yellow bananas with magical steam and sparkles in a tropical feast scene with exaggerated fruit proportions",
+            "alt": "Hiro laughing with a monkey eating bananas",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Fish loves bubbles in water. Glub, glub, splash!",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face peers into clear blue water where colorful fish swim among magical sparkling bubbles and water droplets in exaggerated aquatic feast celebration",
+            "alt": "Hiro looking at fish in bubbly water",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Cat drinks milk. White milk makes kitty happy. Meow!",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face pets a fluffy orange cat drinking creamy white milk from a bowl with magical steam swirls and sparkles in exaggerated proportions",
+            "alt": "Hiro petting a cat drinking milk",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Hiro loves all the yummy food too! Animals and Hiro share together.",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face sits surrounded by all the animal friends in a magical feast celebration with carrots, honey, bananas, bubbling water, and milk with sparkling steam and exaggerated delicious proportions",
+            "alt": "Hiro sharing food with all animal friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "sharing",
+      "friendship",
+      "animals",
+      "healthy eating",
+      "discovery"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "delicious appetizing food, exaggerated proportions, steam drips sparkles, magical food, diverse cuisines, feast celebration, cooking scenes, yummy visual, food joy"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does the bunny like to eat?",
+        "choices": [
+          "carrots",
+          "honey"
+        ],
+        "correctIndex": 0,
+        "explanation": "The bunny loves to eat crunchy orange carrots!"
+      },
+      {
+        "id": "q2",
+        "question": "What does the bear eat?",
+        "choices": [
+          "bananas",
+          "honey"
+        ],
+        "correctIndex": 1,
+        "explanation": "The bear likes sweet, sticky honey that drips everywhere!"
+      },
+      {
+        "id": "q3",
+        "question": "What does the cat drink?",
+        "choices": [
+          "water",
+          "milk"
+        ],
+        "correctIndex": 1,
+        "explanation": "The cat drinks white milk and says meow!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "carrots",
+            "distractors": [
+              "cookies",
+              "apples"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "honey",
+            "distractors": [
+              "water",
+              "bread"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 5,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "milk",
+            "distractors": [
+              "juice",
+              "soup"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

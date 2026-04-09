@@ -1,0 +1,201 @@
+{
+  "id": "v2-early_reader-mystery-156",
+  "title": "Malik and the Missing Magnets",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "mystery",
+    "science"
+  ],
+  "wordCount": 351,
+  "readingLevel": "Grade 1",
+  "synopsis": "When the classroom magnets mysteriously disappear, young detective Malik uses his scientific knowledge and keen observation skills to solve the case. Through careful investigation and experimentation, he discovers the magnetic truth behind the missing materials.",
+  "coverImage": "covers/v2-early_reader-mystery-156.webp",
+  "chapters": [
+    {
+      "title": "The Missing Magnets",
+      "pages": [
+        {
+          "text": "Malik walked into his classroom on Monday morning. Something was wrong. The science table looked empty. 'Where are all our magnets?' asked his teacher, Ms. Chen. The red horseshoe magnet was gone. The silver bar magnets had disappeared too. Even the tiny round magnets were missing! Malik's gentle expressive eyes grew wide. This was a mystery that needed solving.",
+          "illustration": {
+            "description": "A busy classroom scene with a boy with short twists, dark brown skin, gentle expressive eyes standing near an empty science table. The room is cluttered with many small objects - pencils, books, papers, crayons, scissors, rulers, and empty spaces where magnets should be. Children's backpacks hang on hooks, and the walls are covered with colorful posters and charts.",
+            "alt": "Malik in a cluttered classroom looking at an empty science table where magnets should be",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Clues Everywhere",
+      "pages": [
+        {
+          "text": "Malik put on his detective hat. He looked carefully around the classroom. On the floor near the science table, he found something interesting. There were tiny metal paper clips scattered about. 'That's strange,' thought Malik. 'Paper clips stick to magnets!' He also noticed that some metal scissors on the art table had moved. The stapler was in a different spot too. Everything metal seemed to have moved around the room.",
+          "illustration": {
+            "description": "A detailed magnifying glass view of the classroom floor showing a boy with short twists, dark brown skin, gentle expressive eyes crouched down examining scattered paper clips. The scene is filled with many small objects - dropped pencils, erasers, coins, buttons, bottle caps, safety pins, thumbtacks, and various metal items scattered across the floor in an organized but busy composition.",
+            "alt": "Malik examining scattered paper clips on the classroom floor through a magnifying glass perspective",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Following the Trail",
+      "pages": [
+        {
+          "text": "Malik followed the trail of metal objects. They seemed to lead toward the back of the classroom. Near the reading corner, he found more clues. A metal bookmark was stuck to the leg of a chair. Some coins had gathered under the bookshelf. 'The magnets must have come this way,' Malik said to himself. He remembered that magnets attract metal things. The missing magnets were pulling metal objects as they moved!",
+          "illustration": {
+            "description": "A search and find scene in the reading corner showing a boy with short twists, dark brown skin, gentle expressive eyes following a trail of metal objects. The area is packed with details - books, pillows, a cozy reading nook, metal bookmarks, coins, paper clips, safety pins, small toy cars, keys, and other metallic objects scattered throughout the cluttered but organized space.",
+            "alt": "Malik in the reading corner discovering metal objects attracted to an invisible magnetic trail",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Big Discovery",
+      "pages": [
+        {
+          "text": "The trail led to the janitor's cart in the hallway. Mr. Rodriguez, the janitor, was cleaning nearby. 'Excuse me,' said Malik politely. 'Have you seen our classroom magnets?' Mr. Rodriguez smiled and pointed to his cart. 'Are those your magnets? They jumped onto my cart this morning! They stuck to all my metal tools!' Sure enough, there were the missing magnets, clinging tightly to the metal mops, buckets, and cleaning tools.",
+          "illustration": {
+            "description": "A busy hallway scene with a janitor's cart covered in many small objects and cleaning supplies. A boy with short twists, dark brown skin, gentle expressive eyes stands next to the cart where colorful magnets are stuck to metal tools. The cart is cluttered with mops, buckets, spray bottles, rags, keys, screws, paper clips, and various maintenance tools in a detailed, organized composition.",
+            "alt": "Malik discovering the missing magnets stuck to the janitor's metal cleaning tools",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Mystery Solved",
+      "pages": [
+        {
+          "text": "Malik carefully removed the magnets from the cart. 'How did they get on your cart?' he asked. Mr. Rodriguez explained, 'I was cleaning your classroom early this morning. The magnets must have stuck to my metal tools!' Malik understood now. The magnets had taken a ride on the cleaning cart. Back in the classroom, Ms. Chen was impressed. 'Great detective work, Malik! You used science to solve the mystery. Magnets really do attract metal objects!' Malik smiled proudly. Case closed!",
+          "illustration": {
+            "description": "A celebratory classroom scene showing a boy with short twists, dark brown skin, gentle expressive eyes holding the recovered magnets while surrounded by classmates and the teacher. The science table is now full of many small objects - magnets, paper clips, coins, metal toys, nuts and bolts, keys, and other magnetic materials scattered across the surface in a busy but organized search-and-find composition.",
+            "alt": "Malik successfully returning the magnets to the science table surrounded by happy classmates",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "problem-solving",
+      "scientific thinking",
+      "observation skills",
+      "magnetism",
+      "persistence"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "detailed hidden objects, visual clues, busy organized composition, search and find, detailed environment, many small objects, magnifying glass perspective, cluttered room or scene"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What was missing from Malik's classroom?",
+        "choices": [
+          "books",
+          "magnets",
+          "pencils"
+        ],
+        "correctIndex": 1,
+        "explanation": "The classroom magnets had disappeared, including the horseshoe magnet and bar magnets."
+      },
+      {
+        "id": "q2",
+        "question": "What clues did Malik find on the floor?",
+        "choices": [
+          "paper clips",
+          "crayons",
+          "erasers"
+        ],
+        "correctIndex": 0,
+        "explanation": "Malik found scattered paper clips, which stick to magnets and showed where the magnets had been."
+      },
+      {
+        "id": "q3",
+        "question": "Where did Malik find the missing magnets?",
+        "choices": [
+          "in the library",
+          "on the janitor's cart",
+          "in the cafeteria"
+        ],
+        "correctIndex": 1,
+        "explanation": "The magnets had stuck to Mr. Rodriguez's metal cleaning tools on his janitor's cart."
+      },
+      {
+        "id": "q4",
+        "question": "Why did metal objects move around the classroom?",
+        "choices": [
+          "students moved them",
+          "magnets attracted them",
+          "the wind blew them"
+        ],
+        "correctIndex": 1,
+        "explanation": "As the magnets moved through the room, they attracted and pulled metal objects with them."
+      },
+      {
+        "id": "q5",
+        "question": "How did the magnets get on the janitor's cart?",
+        "choices": [
+          "they stuck to his metal tools",
+          "he picked them up",
+          "they fell into his bucket"
+        ],
+        "correctIndex": 0,
+        "explanation": "When Mr. Rodriguez cleaned the classroom, the magnets stuck to his metal cleaning tools and went with him."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "magnets",
+            "distractors": [
+              "pencils",
+              "books"
+            ]
+          },
+          {
+            "wordIndex": 28,
+            "correctWord": "metal",
+            "distractors": [
+              "plastic",
+              "wooden"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "attract",
+            "distractors": [
+              "push",
+              "break"
+            ]
+          },
+          {
+            "wordIndex": 20,
+            "correctWord": "trail",
+            "distractors": [
+              "mess",
+              "pile"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

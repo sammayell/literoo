@@ -1,0 +1,139 @@
+{
+  "id": "v2-baby-peek-a-boo-148",
+  "title": "Theo's Sleepy Peek-a-Boo",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "peek-a-boo",
+    "bedtime"
+  ],
+  "wordCount": 29,
+  "readingLevel": "Baby/Toddler",
+  "synopsis": "Baby Theo plays peek-a-boo with his favorite bedtime friends hiding around his room before settling down for sleep.",
+  "coverImage": "covers/v2-baby-peek-a-boo-148.webp",
+  "chapters": [
+    {
+      "title": "Sleepy Peek-a-Boo",
+      "pages": [
+        {
+          "text": "Where is Theo's teddy bear? Peek-a-boo! Behind the pillow!",
+          "illustration": {
+            "description": "Theo with short curly blonde hair, light skin, round blue eyes sits on a cozy bed, pulling back a fluffy white pillow to reveal a brown teddy bear hiding behind it. The room has soft lighting and the teddy bear appears to be peeking out playfully.",
+            "alt": "Theo discovering his teddy bear behind a pillow",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Where is bunny? Peek-a-boo! Under the blanket!",
+          "illustration": {
+            "description": "Theo with short curly blonde hair, light skin, round blue eyes lifts up a corner of a soft blue blanket on his bed, revealing a white stuffed bunny rabbit hiding underneath. The bunny's ears are just visible peeking out from the blanket's edge.",
+            "alt": "Theo finding his bunny under the blanket",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Where is the moon? Peek-a-boo! Behind the curtain! Time for bed, sleepy Theo.",
+          "illustration": {
+            "description": "Theo with short curly blonde hair, light skin, round blue eyes stands by a window, pulling back a soft yellow curtain to reveal a gentle crescent moon glowing in the dark sky. Stars twinkle around the moon, and Theo looks ready for sleep.",
+            "alt": "Theo revealing the moon behind bedroom curtains",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "peek-a-boo games",
+      "bedtime routine",
+      "finding hidden objects",
+      "sleepy time"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "lift the flap inspired, partially hidden objects, peek-a-boo composition, hiding and revealing, interactive feel, surprise element, behind the curtain, playful concealment"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where was Theo's teddy bear hiding?",
+        "choices": [
+          "Behind the pillow",
+          "Under the bed"
+        ],
+        "correctIndex": 0,
+        "explanation": "The teddy bear was hiding behind the pillow on Theo's bed!"
+      },
+      {
+        "id": "q2",
+        "question": "What did Theo find under the blanket?",
+        "choices": [
+          "Bunny",
+          "Teddy bear"
+        ],
+        "correctIndex": 0,
+        "explanation": "Theo found his bunny rabbit hiding under the soft blue blanket!"
+      },
+      {
+        "id": "q3",
+        "question": "What was behind the curtain?",
+        "choices": [
+          "The moon",
+          "A star"
+        ],
+        "correctIndex": 0,
+        "explanation": "The beautiful crescent moon was hiding behind Theo's bedroom curtain!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "teddy",
+            "distractors": [
+              "bunny",
+              "moon"
+            ]
+          },
+          {
+            "wordIndex": 8,
+            "correctWord": "pillow",
+            "distractors": [
+              "blanket",
+              "curtain"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "bunny",
+            "distractors": [
+              "teddy",
+              "moon"
+            ]
+          },
+          {
+            "wordIndex": 7,
+            "correctWord": "blanket",
+            "distractors": [
+              "pillow",
+              "curtain"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

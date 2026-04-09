@@ -1,0 +1,252 @@
+{
+  "id": "v2-early_reader-animals-113",
+  "title": "The Case of the Missing Honey",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "animals",
+    "mystery"
+  ],
+  "wordCount": 372,
+  "readingLevel": "Pre-K to Grade 1",
+  "synopsis": "When the honey disappears from the savanna beehive, young detective Nia must follow the clues and question the animal suspects to solve the sweet mystery.",
+  "coverImage": "covers/v2-early_reader-animals-113.webp",
+  "chapters": [
+    {
+      "title": "The Missing Honey",
+      "pages": [
+        {
+          "text": "Nia loved exploring the golden savanna. The tall grass swayed in the warm breeze. Birds sang happy songs in the acacia trees. Today felt like a perfect day for an adventure.",
+          "illustration": {
+            "description": "A young girl with long braids with colorful beads, dark brown skin, warm kind eyes walking through golden savanna grass with acacia trees in the background, painted in gouache with thick brushstrokes and warm colors",
+            "alt": "Nia walking through the savanna",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Suddenly, Nia heard a loud buzzing sound. \"BZZZZ! BZZZZ!\" She followed the noise to a big baobab tree. There, she found Bella the bee crying. \"What's wrong, Bella?\" asked Nia.",
+          "illustration": {
+            "description": "A young girl with long braids with colorful beads, dark brown skin, warm kind eyes standing next to a large baobab tree with an upset bee hovering nearby, painted with textured painterly gouache strokes in warm savanna colors",
+            "alt": "Nia talking to Bella the bee by the baobab tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Someone stole all our honey!\" sobbed Bella. \"We worked so hard to make it. Now our hive is empty!\" Nia looked at the beehive hanging from the tree branch. It was indeed empty. \"Don't worry,\" said Nia. \"I'll help you find the honey thief!\"",
+          "illustration": {
+            "description": "A young girl with long braids with colorful beads, dark brown skin, warm kind eyes examining an empty beehive with Bella the bee, orange sunset colors and bold confident gouache strokes",
+            "alt": "Nia investigating the empty beehive",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Following the Clues",
+      "pages": [
+        {
+          "text": "Nia put on her detective hat. She looked around the tree for clues. \"Look!\" she said, pointing to the ground. \"There are sticky paw prints leading away from the hive.\" The prints were big and round.",
+          "illustration": {
+            "description": "A young girl with long braids with colorful beads, dark brown skin, warm kind eyes wearing a detective hat and pointing at large paw prints on the ground, painted with thick brushstrokes in golden grass colors",
+            "alt": "Nia finding paw prints as clues",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Nia and Bella followed the paw prints through the savanna. They led to a watering hole where Benny the bear was washing his paws. \"Excuse me, Benny,\" said Nia politely. \"Did you take honey from the beehive?\"",
+          "illustration": {
+            "description": "A young girl with long braids with colorful beads, dark brown skin, warm kind eyes with Bella the bee approaching Benny the bear at a watering hole, expressive animals painted in warm savanna colors with gouache",
+            "alt": "Nia questioning Benny the bear at the watering hole",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Benny looked surprised. \"Honey? Oh no, I don't eat honey. I only eat fish and berries. But I did see something strange this morning. I saw Marvin the monkey swinging through the trees very fast. He looked like he was carrying something.\"",
+          "illustration": {
+            "description": "A young girl with long braids with colorful beads, dark brown skin, warm kind eyes listening to Benny the bear who is gesturing toward the trees, painted with textured painterly gouache in orange sunset colors",
+            "alt": "Benny the bear giving Nia information about Marvin",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Solving the Mystery",
+      "pages": [
+        {
+          "text": "Nia and Bella hurried to find Marvin the monkey. They found him high up in an acacia tree. \"Marvin!\" called Nia. \"We need to talk to you about the missing honey!\" Marvin swung down, looking nervous.",
+          "illustration": {
+            "description": "A young girl with long braids with colorful beads, dark brown skin, warm kind eyes looking up at Marvin the monkey in an acacia tree, painted with bold confident strokes in warm savanna colors",
+            "alt": "Nia calling up to Marvin the monkey in the tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I didn't mean to cause trouble,\" said Marvin sadly. \"I found the honey pot on the ground. I thought someone dropped it, so I took it home to keep it safe. I was going to ask around to find the owner.\"",
+          "illustration": {
+            "description": "A young girl with long braids with colorful beads, dark brown skin, warm kind eyes listening to Marvin the monkey who looks apologetic, painted with thick gouache brushstrokes and golden grass background",
+            "alt": "Marvin explaining what happened to the honey",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Marvin led them to his tree house where the honey pot sat safely on a branch. \"I'm sorry, Bella,\" said Marvin. \"I should have asked first.\" Bella smiled. \"Thank you for keeping it safe! Next time, just ask us first.\"",
+          "illustration": {
+            "description": "A young girl with long braids with colorful beads, dark brown skin, warm kind eyes with Marvin the monkey and Bella the bee looking at the honey pot, painted with expressive animals and textured painterly gouache strokes",
+            "alt": "Finding the honey pot in Marvin's tree house",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Mystery solved!\" said Nia happily. The three friends shared some honey together as the sun set over the beautiful savanna. Nia learned that sometimes mysteries have happy endings when everyone talks to each other kindly.",
+          "illustration": {
+            "description": "A young girl with long braids with colorful beads, dark brown skin, warm kind eyes sharing honey with Marvin the monkey and Bella the bee as the orange sunset paints the savanna, painted with warm colors and bold confident gouache strokes",
+            "alt": "Nia, Marvin, and Bella sharing honey at sunset",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "problem-solving",
+      "friendship",
+      "communication",
+      "helping others",
+      "detective work"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What was missing from the beehive?",
+        "choices": [
+          "honey",
+          "flowers",
+          "water"
+        ],
+        "correctIndex": 0,
+        "explanation": "Bella the bee told Nia that someone had stolen all their honey from the hive."
+      },
+      {
+        "id": "q2",
+        "question": "What clue did Nia find on the ground?",
+        "choices": [
+          "sticky paw prints",
+          "feathers",
+          "leaves"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nia found big, round, sticky paw prints that led away from the beehive."
+      },
+      {
+        "id": "q3",
+        "question": "Who did Benny the bear say he saw carrying something?",
+        "choices": [
+          "Marvin the monkey",
+          "Bella the bee",
+          "another bear"
+        ],
+        "correctIndex": 0,
+        "explanation": "Benny told Nia he saw Marvin the monkey swinging through trees looking like he was carrying something."
+      },
+      {
+        "id": "q4",
+        "question": "Why did Marvin take the honey?",
+        "choices": [
+          "to keep it safe",
+          "to eat it",
+          "to hide it"
+        ],
+        "correctIndex": 0,
+        "explanation": "Marvin found the honey pot on the ground and took it home to keep it safe until he could find the owner."
+      },
+      {
+        "id": "q5",
+        "question": "How did the story end?",
+        "choices": [
+          "everyone shared honey together",
+          "Nia went home alone",
+          "the honey was lost forever"
+        ],
+        "correctIndex": 0,
+        "explanation": "The story ended happily with Nia, Marvin, and Bella sharing honey together as the sun set."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "buzzing",
+            "distractors": [
+              "singing",
+              "crying"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "bee",
+            "distractors": [
+              "bird",
+              "butterfly"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "paw",
+            "distractors": [
+              "foot",
+              "hand"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "prints",
+            "distractors": [
+              "marks",
+              "spots"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "monkey",
+            "distractors": [
+              "elephant",
+              "lion"
+            ]
+          },
+          {
+            "wordIndex": 11,
+            "correctWord": "swinging",
+            "distractors": [
+              "running",
+              "walking"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "v2-baby-family-124",
+  "title": "Oscar's Sunday Morning Sounds",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "family",
+    "sounds"
+  ],
+  "wordCount": 54,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Oscar discovers all the wonderful sounds of a cozy Sunday morning with his family, from sizzling pancakes to rustling newspapers.",
+  "coverImage": "covers/v2-baby-family-124.webp",
+  "chapters": [
+    {
+      "title": "Wake Up Sounds",
+      "pages": [
+        {
+          "text": "Oscar opens his eyes. The sun says good morning! Birds chirp tweet-tweet outside his window.",
+          "illustration": {
+            "description": "A toddler boy with short brown wavy hair, fair skin, warm hazel eyes sitting up in his crib, golden morning sunlight streaming through the window, birds visible on a tree branch outside",
+            "alt": "Oscar waking up in his crib with sunlight coming through the window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama's footsteps go tap-tap-tap down the hall. Papa's coffee maker goes gurgle-bubble-drip.",
+          "illustration": {
+            "description": "A diverse family kitchen scene with golden hour lighting, showing feet walking and a coffee maker bubbling, while Oscar with short brown wavy hair, fair skin, warm hazel eyes watches from his high chair",
+            "alt": "Kitchen sounds with Oscar watching from his high chair",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The pancakes sizzle pop-pop-pop in the pan. Oscar claps his hands clap-clap-clap!",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes clapping excitedly in his high chair while pancakes sizzle in a pan, warm sunlit kitchen with family in pajamas",
+            "alt": "Oscar clapping while pancakes cook on the stove",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Papa turns the newspaper pages rustle-whoosh. Oscar laughs ha-ha-ha at all the happy morning sounds!",
+          "illustration": {
+            "description": "A cozy living room scene with Papa reading newspaper, Oscar with short brown wavy hair, fair skin, warm hazel eyes giggling on the floor, golden morning light, family in comfortable pajamas, lazy Sunday atmosphere",
+            "alt": "Oscar laughing while Papa reads the newspaper in their sunny living room",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "sensory exploration",
+      "morning routines",
+      "sound recognition"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Sunday morning light, golden hour, family pajamas, newspapers pancakes, gentle unhurried, modern diverse family, lazy morning, sunlit rooms, warm domestic"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound do the birds make?",
+        "choices": [
+          "tweet-tweet",
+          "moo-moo"
+        ],
+        "correctIndex": 0,
+        "explanation": "Birds make a tweet-tweet sound when they sing in the morning!"
+      },
+      {
+        "id": "q2",
+        "question": "What sound do the pancakes make?",
+        "choices": [
+          "woof-woof",
+          "pop-pop-pop"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pancakes make a sizzling pop-pop-pop sound when they cook in the pan!"
+      },
+      {
+        "id": "q3",
+        "question": "How does Oscar show he's happy?",
+        "choices": [
+          "clap-clap-clap",
+          "meow-meow"
+        ],
+        "correctIndex": 0,
+        "explanation": "Oscar claps his hands clap-clap-clap when he's excited about the morning sounds!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "tap-tap-tap",
+            "distractors": [
+              "moo-moo",
+              "beep-beep"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "pop-pop-pop",
+            "distractors": [
+              "ring-ring",
+              "honk-honk"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

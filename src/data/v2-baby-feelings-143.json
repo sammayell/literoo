@@ -1,0 +1,147 @@
+{
+  "id": "v2-baby-feelings-143",
+  "title": "Lily's Colors of Feelings",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "feelings",
+    "colors"
+  ],
+  "wordCount": 71,
+  "readingLevel": "Pre-K",
+  "synopsis": "Baby Lily discovers different emotions through colors as she experiences happy yellow sunshine, sad blue rain, and angry red swirls throughout her day.",
+  "coverImage": "covers/v2-baby-feelings-143.webp",
+  "chapters": [
+    {
+      "title": "Lily's Colorful Day",
+      "pages": [
+        {
+          "text": "This is Lily. She feels many things today.",
+          "illustration": {
+            "description": "A cheerful toddler girl with long curly auburn hair, fair skin with light freckles, green eyes standing in a swirling rainbow of emotion colors - yellow happiness, blue sadness, red anger, all mixing around her in abstract patterns",
+            "alt": "Lily surrounded by colorful emotion swirls",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When Lily plays, she feels happy! Happy is bright yellow like sunshine.",
+          "illustration": {
+            "description": "Lily with long curly auburn hair, fair skin with light freckles, green eyes laughing and playing with toys, surrounded by bright yellow sunshine rays and golden swirls of joy radiating outward",
+            "alt": "Happy Lily with yellow sunshine colors",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When Lily's toy breaks, she feels sad. Sad is blue like gentle rain.",
+          "illustration": {
+            "description": "Lily with long curly auburn hair, fair skin with light freckles, green eyes sitting with tears, holding a broken toy, surrounded by soft blue raindrops and misty blue clouds of sadness",
+            "alt": "Sad Lily with blue rain colors",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When Lily can't have a cookie, she feels mad! Mad is red like fire.",
+          "illustration": {
+            "description": "Lily with long curly auburn hair, fair skin with light freckles, green eyes with an upset expression, surrounded by swirling red angry spirals and jagged red flames of frustration",
+            "alt": "Mad Lily with red angry swirls",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama hugs Lily. Now she feels calm. Calm is soft green like grass.",
+          "illustration": {
+            "description": "Lily with long curly auburn hair, fair skin with light freckles, green eyes being hugged, surrounded by peaceful soft green waves and gentle grass-colored flowing patterns of serenity",
+            "alt": "Calm Lily with green peaceful colors",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Lily has many feelings. Each feeling has its own special color.",
+          "illustration": {
+            "description": "Lily with long curly auburn hair, fair skin with light freckles, green eyes smiling peacefully, surrounded by a beautiful blend of all emotion colors - yellow joy, blue sadness, red anger, green calm - flowing together harmoniously",
+            "alt": "Lily with all feeling colors together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotions",
+      "color recognition",
+      "self-awareness",
+      "feelings validation"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "emotion mapped colors, angry red swirls, sad blue rain, happy yellow sunshine, abstract emotion backgrounds, Inside Out inspired, feeling visualization, color psychology"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color is happy like?",
+        "choices": [
+          "Yellow sunshine",
+          "Blue rain"
+        ],
+        "correctIndex": 0,
+        "explanation": "Happy feels bright yellow like sunshine!"
+      },
+      {
+        "id": "q2",
+        "question": "What color is sad like?",
+        "choices": [
+          "Red fire",
+          "Blue rain"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sad feels blue like gentle rain."
+      },
+      {
+        "id": "q3",
+        "question": "What makes Lily feel calm?",
+        "choices": [
+          "Mama's hug",
+          "Broken toy"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama's hug makes Lily feel calm and peaceful."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "yellow",
+            "distractors": [
+              "red",
+              "blue"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "blue",
+            "distractors": [
+              "green",
+              "yellow"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

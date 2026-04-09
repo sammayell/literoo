@@ -1,0 +1,139 @@
+{
+  "id": "v2-baby-bedtime-191",
+  "title": "Zara's Sleepy Stars",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "bedtime",
+    "family"
+  ],
+  "wordCount": 51,
+  "readingLevel": "baby",
+  "synopsis": "Little Zara gets ready for bed with Mama's help, watching the sleepy stars appear in the sky as nighttime comes.",
+  "coverImage": "covers/v2-baby-bedtime-191.webp",
+  "chapters": [
+    {
+      "title": "Time for Bed",
+      "pages": [
+        {
+          "text": "Night time is here. The stars are coming out.",
+          "illustration": {
+            "description": "A toddler girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes standing by a window looking at the darkening sky with soft watercolor, dreamy purple and blue gradients, glowing stars beginning to appear, gentle moonlight, ethereal atmosphere, pastel palette",
+            "alt": "Zara looking out window at evening sky with emerging stars",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama says, 'Zara, time for bed.' Zara yawns. She is sleepy too.",
+          "illustration": {
+            "description": "A loving mother with a toddler girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes in a cozy bedroom with soft watercolor, dreamy purple and blue gradients, floating clouds, round sleepy faces, gentle moonlight streaming through window, ethereal atmosphere, pastel palette",
+            "alt": "Mama talking to sleepy Zara in bedroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama helps Zara put on pajamas. Soft and warm.",
+          "illustration": {
+            "description": "A mother helping dress a toddler girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes in purple pajamas with soft watercolor, dreamy purple and blue gradients, gentle moonlight, ethereal atmosphere, pastel palette, cozy bedroom setting",
+            "alt": "Mama helping Zara put on purple pajamas",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Into the cozy bed. Mama tucks Zara in tight.",
+          "illustration": {
+            "description": "A mother tucking in a toddler girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes under soft blankets in bed with soft watercolor, dreamy purple and blue gradients, floating clouds above the bed, gentle moonlight, ethereal atmosphere, pastel palette",
+            "alt": "Mama tucking Zara into bed with soft blankets",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Good night, little star,' Mama whispers. Zara closes her eyes. Sweet dreams.",
+          "illustration": {
+            "description": "A peaceful toddler girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes sleeping in bed while mother watches lovingly, with soft watercolor, dreamy purple and blue gradients, glowing stars twinkling outside window, floating clouds, gentle moonlight, round sleepy faces, ethereal atmosphere, pastel palette",
+            "alt": "Zara sleeping peacefully as Mama watches and stars twinkle outside",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "parent-child bonding",
+      "comfort",
+      "sleep"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Mama help Zara put on?",
+        "choices": [
+          "pajamas",
+          "shoes"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama helps Zara put on soft and warm pajamas for bedtime."
+      },
+      {
+        "id": "q2",
+        "question": "What are coming out in the sky?",
+        "choices": [
+          "stars",
+          "clouds"
+        ],
+        "correctIndex": 0,
+        "explanation": "The stars are coming out because night time is here."
+      },
+      {
+        "id": "q3",
+        "question": "What does Mama call Zara?",
+        "choices": [
+          "little star",
+          "big girl"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama whispers 'Good night, little star' to Zara."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "bed",
+            "distractors": [
+              "play",
+              "eat"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "bed",
+            "distractors": [
+              "chair",
+              "floor"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

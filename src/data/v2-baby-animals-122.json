@@ -1,0 +1,147 @@
+{
+  "id": "v2-baby-animals-122",
+  "title": "Finn and the Safari Friends",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "animals",
+    "nature"
+  ],
+  "wordCount": 67,
+  "readingLevel": "pre-reader",
+  "synopsis": "Little Finn explores the African savanna and meets friendly animals including elephants, lions, zebras, and giraffes in this gentle introduction to safari wildlife.",
+  "coverImage": "covers/v2-baby-animals-122.webp",
+  "chapters": [
+    {
+      "title": "Safari Adventure",
+      "pages": [
+        {
+          "text": "Finn walks in the warm savanna. The grass is golden and tall.",
+          "illustration": {
+            "description": "A small boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes walking through golden grassland in gouache painting style with thick brushstrokes and warm savanna colors",
+            "alt": "Finn walking through golden savanna grass",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Big elephant says hello! Trumpet, trumpet! Finn waves back.",
+          "illustration": {
+            "description": "A friendly gray elephant with expressive eyes painted in textured painterly gouache style, with a boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes waving, warm orange sunset colors and bold confident strokes",
+            "alt": "Finn waving at a friendly elephant",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sleepy lion rests under a tree. Finn tiptoes quietly past.",
+          "illustration": {
+            "description": "A golden lion resting under an acacia tree in gouache painting with thick brushstrokes, while a boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes tiptoes by in warm savanna colors",
+            "alt": "Finn tiptoeing past a sleeping lion",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Zebra family runs and plays. Black and white stripes everywhere!",
+          "illustration": {
+            "description": "Three zebras with bold black and white stripes galloping through golden grass in textured painterly gouache style, with a boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes watching, painted with bold confident strokes",
+            "alt": "Finn watching zebras run and play",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Tall giraffe reaches high leaves. His neck stretches up, up, up!",
+          "illustration": {
+            "description": "A very tall giraffe with spotted pattern reaching for acacia leaves painted in warm savanna colors with thick brushstrokes, while a boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes looks up in wonder, orange sunset background",
+            "alt": "Finn looking up at a tall giraffe eating leaves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The sun sets orange and red. Finn says goodbye to all his new animal friends.",
+          "illustration": {
+            "description": "A boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes waving goodbye to elephant, lion, zebras and giraffe silhouetted against a vibrant orange sunset painted in gouache with bold confident strokes and warm colors",
+            "alt": "Finn waving goodbye to safari animals at sunset",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "animals",
+      "nature",
+      "exploration"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does the elephant make?",
+        "choices": [
+          "Trumpet, trumpet!",
+          "Roar, roar!"
+        ],
+        "correctIndex": 0,
+        "explanation": "Elephants make trumpet sounds with their trunks!"
+      },
+      {
+        "id": "q2",
+        "question": "What colors are the zebra's stripes?",
+        "choices": [
+          "Black and white",
+          "Brown and yellow"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zebras have beautiful black and white stripes!"
+      },
+      {
+        "id": "q3",
+        "question": "What does the giraffe eat?",
+        "choices": [
+          "High leaves",
+          "Grass on ground"
+        ],
+        "correctIndex": 0,
+        "explanation": "Giraffes use their long necks to reach leaves high up in trees!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "elephant",
+            "distractors": [
+              "monkey",
+              "bird"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "zebra",
+            "distractors": [
+              "horse",
+              "cow"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

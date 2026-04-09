@@ -1,0 +1,205 @@
+{
+  "id": "v2-toddler-adventure-175",
+  "title": "Zuri's Sleepy Island Adventure",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "adventure",
+    "bedtime"
+  ],
+  "wordCount": 280,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Zuri discovers a magical treasure map in her bedroom and embarks on a gentle island adventure to find a special bedtime treasure, meeting friendly animals along the way before returning home for a cozy night's sleep.",
+  "coverImage": "covers/v2-toddler-adventure-175.webp",
+  "chapters": [
+    {
+      "title": "The Magic Map",
+      "pages": [
+        {
+          "text": "Zuri was getting ready for bed when she found something special under her pillow. It was a golden treasure map! The map showed a tiny island with palm trees and a big red X.",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, sitting on her bed holding a glowing treasure map drawn on aged parchment with compass roses and dotted trails in sepia tones with jewel accents",
+            "alt": "Zuri discovering a treasure map in her bedroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The map began to sparkle and glow. Suddenly, Zuri's bedroom filled with the sound of ocean waves and seagulls. She looked around and gasped - she was standing on a beautiful sandy beach!",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, standing on a tropical beach with the treasure map in her hands, surrounded by adventure cartography elements like compass roses and hand-drawn map borders in sepia tones",
+            "alt": "Zuri transported to a magical island beach",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A friendly hermit crab scuttled up to Zuri. 'Hello there, little explorer!' said the crab. 'I see you have the bedtime treasure map. Follow the dotted trail to find something very special!'",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, kneeling on the beach talking to a smiling hermit crab, with dotted trails and compass roses visible in the sand like an adventure map in sepia tones with jewel accents",
+            "alt": "Zuri meeting a friendly hermit crab on the beach",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Zuri followed the dotted path on her map. It led her through soft grass where fireflies danced like tiny stars. She met a sleepy owl who hooted softly, 'The treasure is close, little one. Keep following the trail.'",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, walking along a dotted trail path through grass with glowing fireflies, while a wise owl sits on a branch nearby, all rendered in treasure map style with aged parchment texture and sepia tones",
+            "alt": "Zuri following the trail through grass with fireflies and an owl",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Bedtime Treasure",
+      "pages": [
+        {
+          "text": "The trail led Zuri to a cozy grove where moonbeams danced through the trees. There, under a palm tree marked with a big red X, was a beautiful wooden chest covered in soft, glowing jewels.",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, standing before a glowing treasure chest under a palm tree marked with a red X, surrounded by moonbeams and jewel accents in adventure cartography style with aged parchment textures",
+            "alt": "Zuri finding the treasure chest under the marked palm tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Zuri opened the chest carefully. Inside was the softest, most beautiful blanket she had ever seen. It was decorated with stars and moons and felt as warm as a hug from someone who loves you very much.",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, lifting a magical star-and-moon blanket from an open treasure chest, with the blanket glowing softly and dotted trails visible around the scene in sepia tones with jewel accents",
+            "alt": "Zuri discovering the magical blanket inside the treasure chest",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "As soon as Zuri wrapped the blanket around herself, she felt wonderfully sleepy. The hermit crab and the owl appeared to say goodnight. 'Sweet dreams, brave explorer,' they whispered.",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, wrapped in the magical star-and-moon blanket with the hermit crab and owl nearby saying goodnight, all drawn in treasure map style with compass roses and sepia tones",
+            "alt": "Zuri wrapped in the magical blanket saying goodnight to her animal friends",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The next thing Zuri knew, she was back in her own cozy bed. The treasure map was gone, but the special blanket was still there, keeping her warm. She smiled and drifted off to the most wonderful dreams of her island adventure.",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, sleeping peacefully in her bed covered by the magical blanket with stars and moons, with faint compass roses and adventure map elements visible in the background in sepia tones",
+            "alt": "Zuri sleeping peacefully in her bed with the magical blanket",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "adventure",
+      "imagination",
+      "bedtime routine",
+      "friendship",
+      "magic",
+      "exploration"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "treasure map style, aged parchment, compass roses, dotted trails, sepia tones, jewel accents, bold explorers, adventure cartography, hand-drawn maps"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where did Zuri find the treasure map?",
+        "choices": [
+          "Under her pillow",
+          "In her toy box",
+          "On her desk"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zuri found the magical treasure map under her pillow when she was getting ready for bed."
+      },
+      {
+        "id": "q2",
+        "question": "What animal helped Zuri find the treasure?",
+        "choices": [
+          "A hermit crab",
+          "A butterfly",
+          "A fish"
+        ],
+        "correctIndex": 0,
+        "explanation": "A friendly hermit crab told Zuri to follow the dotted trail to find the bedtime treasure."
+      },
+      {
+        "id": "q3",
+        "question": "What was inside the treasure chest?",
+        "choices": [
+          "A soft blanket",
+          "Gold coins",
+          "Toys"
+        ],
+        "correctIndex": 0,
+        "explanation": "The treasure chest contained a beautiful, soft blanket decorated with stars and moons that felt as warm as a hug."
+      },
+      {
+        "id": "q4",
+        "question": "Where was Zuri when she woke up?",
+        "choices": [
+          "In her own bed",
+          "On the beach",
+          "Under the palm tree"
+        ],
+        "correctIndex": 0,
+        "explanation": "After her magical adventure, Zuri woke up back in her own cozy bed, but she still had the special blanket from her adventure."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "map",
+            "distractors": [
+              "book",
+              "toy"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "island",
+            "distractors": [
+              "house",
+              "car"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 5,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "chest",
+            "distractors": [
+              "box",
+              "bag"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 6,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "blanket",
+            "distractors": [
+              "pillow",
+              "shirt"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

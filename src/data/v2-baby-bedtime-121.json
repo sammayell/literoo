@@ -1,0 +1,140 @@
+{
+  "id": "v2-baby-bedtime-121",
+  "title": "Emma's Sleepy Stars",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "bedtime",
+    "family"
+  ],
+  "wordCount": 56,
+  "readingLevel": "baby",
+  "synopsis": "Little Emma discovers sleepy stars that help her drift off to dreamland with Mama's gentle love.",
+  "coverImage": "covers/v2-baby-bedtime-121.webp",
+  "chapters": [
+    {
+      "title": "Sleepy Time Stars",
+      "pages": [
+        {
+          "text": "Emma looks up at the night sky. Stars twinkle soft and bright.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks stands at a window looking up at a starry night sky. Soft watercolor style with dreamy purple and blue gradients, glowing stars floating in the ethereal atmosphere, gentle moonlight streaming through, pastel palette creating a peaceful bedtime scene.",
+            "alt": "Emma looking at twinkling stars through her bedroom window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama says, 'Stars are sleepy too. They yawn and close their eyes.'",
+          "illustration": {
+            "description": "Mama sitting beside Emma who has straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks. The stars in the sky have round sleepy faces with gentle yawning expressions. Soft watercolor technique with dreamy purple and blue gradients, floating clouds, glowing stars with tired expressions, ethereal atmosphere in pastel palette.",
+            "alt": "Mama and Emma watching sleepy stars yawning in the sky",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Emma yawns too. Her eyes feel heavy and sleepy.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks yawning with a round sleepy face. Her eyes are droopy and tired. Soft watercolor style with dreamy purple and blue gradients, gentle moonlight, floating clouds around her, ethereal atmosphere with pastel palette creating a drowsy bedtime mood.",
+            "alt": "Emma yawning with sleepy, heavy eyes",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama tucks Emma in bed. 'Sleep tight, little star,' she whispers.",
+          "illustration": {
+            "description": "Mama tucking Emma into bed, Emma has straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks with a peaceful round sleepy face. Soft watercolor technique with dreamy purple and blue gradients, gentle moonlight streaming over the bed, glowing stars floating above, ethereal atmosphere in pastel palette.",
+            "alt": "Mama tucking sleepy Emma into her cozy bed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Emma closes her eyes. She dreams of dancing with the sleepy stars.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks sleeping peacefully with closed eyes and a round sleepy face. Dream clouds show her dancing with smiling stars with round sleepy faces. Soft watercolor style with dreamy purple and blue gradients, floating clouds, glowing stars, gentle moonlight, ethereal atmosphere in pastel palette.",
+            "alt": "Emma sleeping and dreaming of dancing with happy stars",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "family love",
+      "imagination",
+      "sleep",
+      "stars"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Emma see in the sky?",
+        "choices": [
+          "stars",
+          "birds"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emma looks up and sees twinkling stars in the night sky."
+      },
+      {
+        "id": "q2",
+        "question": "What do the stars do when they're sleepy?",
+        "choices": [
+          "yawn",
+          "sing"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama tells Emma that the sleepy stars yawn and close their eyes."
+      },
+      {
+        "id": "q3",
+        "question": "What does Emma dream about?",
+        "choices": [
+          "dancing with stars",
+          "playing with toys"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emma dreams of dancing with the sleepy stars when she falls asleep."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "stars",
+            "distractors": [
+              "moon",
+              "clouds"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "bed",
+            "distractors": [
+              "chair",
+              "floor"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

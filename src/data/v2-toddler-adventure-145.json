@@ -1,0 +1,183 @@
+{
+  "id": "v2-toddler-adventure-145",
+  "title": "Isla's Dreamy Treasure Hunt",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "adventure",
+    "bedtime"
+  ],
+  "wordCount": 159,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Isla discovers a magical treasure map in her bedroom and embarks on a gentle adventure through her house to find a special bedtime treasure, learning that the greatest treasure is a peaceful night's sleep.",
+  "coverImage": "covers/v2-toddler-adventure-145.webp",
+  "chapters": [
+    {
+      "title": "The Magic Map",
+      "pages": [
+        {
+          "text": "Isla found a crinkly old map under her pillow. The paper felt warm and smelled like vanilla cookies. Golden stars sparkled along the edges.",
+          "illustration": {
+            "description": "A treasure map style illustration showing a little girl with long wavy red hair, very fair freckled skin, bright green eyes holding an aged parchment map in a cozy bedroom, with compass roses in the corners and sepia tones throughout",
+            "alt": "Isla discovering a treasure map in her bedroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The map showed her house with a dotted trail. It started at her bed and wound through rooms like a wiggly snake. 'X marks the spot!' she whispered.",
+          "illustration": {
+            "description": "A hand-drawn treasure map showing a house layout with dotted trails, featuring Isla with long wavy red hair, very fair freckled skin, bright green eyes pointing at the map, with compass roses and jewel accents decorating the aged parchment borders",
+            "alt": "Isla examining the treasure map showing her house",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Isla tiptoed down the hallway, following the map's dotted path. The floorboards creaked softly like they were whispering secrets. Her teddy bear came along for the adventure.",
+          "illustration": {
+            "description": "An adventure cartography style illustration of Isla with long wavy red hair, very fair freckled skin, bright green eyes tiptoeing through a hallway holding her teddy bear, with dotted trail markers on the aged parchment background and sepia tones creating a cozy atmosphere",
+            "alt": "Isla tiptoeing through the hallway with her teddy bear",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Sleepy Treasure",
+      "pages": [
+        {
+          "text": "The map led to the living room where moonlight made everything glow. Isla found a big red X drawn on the couch with chalk that sparkled.",
+          "illustration": {
+            "description": "A treasure map style scene showing Isla with long wavy red hair, very fair freckled skin, bright green eyes standing by a couch marked with a glowing red X, surrounded by moonlight with compass roses in the corners and jewel accents sparkling on aged parchment",
+            "alt": "Isla finding the X marked on the living room couch",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Under the cushions, Isla discovered the most wonderful treasure - a soft, warm blanket that smelled like lavender. It was exactly what she needed for sweet dreams.",
+          "illustration": {
+            "description": "An aged parchment style illustration showing Isla with long wavy red hair, very fair freckled skin, bright green eyes holding up a beautiful lavender blanket, with bold explorer-style compass roses and dotted trails framing the scene in sepia tones with jewel accents",
+            "alt": "Isla discovering the special blanket treasure",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Isla wrapped herself in the treasure blanket and yawned. The map had led her to the perfect bedtime surprise. She snuggled close and drifted off to dreamland.",
+          "illustration": {
+            "description": "A gentle treasure map style illustration of Isla with long wavy red hair, very fair freckled skin, bright green eyes sleeping peacefully wrapped in the lavender blanket, with the completed treasure map beside her showing dotted trails and compass roses on aged parchment in soft sepia tones",
+            "alt": "Isla sleeping peacefully with her treasure blanket",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "adventure",
+      "bedtime routine",
+      "imagination",
+      "comfort",
+      "home exploration"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "treasure map style, aged parchment, compass roses, dotted trails, sepia tones, jewel accents, bold explorers, adventure cartography, hand-drawn maps"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where did Isla find the treasure map?",
+        "choices": [
+          "Under her pillow",
+          "In the kitchen",
+          "Outside"
+        ],
+        "correctIndex": 0,
+        "explanation": "Isla found the crinkly old map under her pillow in her bedroom."
+      },
+      {
+        "id": "q2",
+        "question": "What marked the treasure spot?",
+        "choices": [
+          "A big red X",
+          "A yellow star",
+          "A blue circle"
+        ],
+        "correctIndex": 0,
+        "explanation": "The treasure spot was marked with a big red X drawn in sparkling chalk."
+      },
+      {
+        "id": "q3",
+        "question": "What treasure did Isla find?",
+        "choices": [
+          "A soft warm blanket",
+          "Gold coins",
+          "A toy car"
+        ],
+        "correctIndex": 0,
+        "explanation": "Isla found a soft, warm blanket that smelled like lavender - perfect for bedtime."
+      },
+      {
+        "id": "q4",
+        "question": "Who went on the adventure with Isla?",
+        "choices": [
+          "Her teddy bear",
+          "Her mom",
+          "Her dog"
+        ],
+        "correctIndex": 0,
+        "explanation": "Isla's teddy bear came along with her on the treasure hunting adventure."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "map",
+            "distractors": [
+              "book",
+              "toy"
+            ]
+          },
+          {
+            "wordIndex": 8,
+            "correctWord": "warm",
+            "distractors": [
+              "cold",
+              "wet"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "treasure",
+            "distractors": [
+              "monster",
+              "spider"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "blanket",
+            "distractors": [
+              "pillow",
+              "shoes"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

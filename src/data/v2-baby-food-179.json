@@ -1,0 +1,140 @@
+{
+  "id": "v2-baby-food-179",
+  "title": "Hiro's Animal Friends Love Food",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "food",
+    "animals"
+  ],
+  "wordCount": 83,
+  "readingLevel": "Pre-K",
+  "synopsis": "Baby Hiro discovers what his animal friends love to eat in this delightful food adventure filled with colorful treats and happy animals.",
+  "coverImage": "covers/v2-baby-food-179.webp",
+  "chapters": [
+    {
+      "title": "Yummy Time with Animal Friends",
+      "pages": [
+        {
+          "text": "Meet Hiro! He loves to eat yummy food. Today, Hiro wants to share food with his animal friends.",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face sits at a colorful picnic table covered with magical sparkling fruits, steaming vegetables, and delicious treats with exaggerated proportions and appetizing visual appeal",
+            "alt": "Hiro sitting at a magical picnic table with colorful food",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Bunny hops over! 'Carrots!' says Hiro. Bunny munches the orange carrots. Crunch, crunch! So good!",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face offering giant sparkling orange carrots to a fluffy white bunny, with magical steam and glittering effects around the appetizing vegetables",
+            "alt": "Hiro feeding magical carrots to a happy bunny",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Cat comes next! 'Fish!' says Hiro. Cat licks the shiny fish. Yum, yum! Cat purrs happily.",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face presenting a glistening, steaming fish with sparkles to an orange tabby cat in a feast celebration scene with exaggerated proportions",
+            "alt": "Hiro giving a magical fish to a purring cat",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Bear walks up! 'Honey!' says Hiro. Bear tastes the golden honey. Drip, drip! Sweet and sticky!",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face holding a jar of golden honey that drips with magical sparkles while a brown bear enjoys the delicious appetizing treat with steam effects",
+            "alt": "Hiro sharing magical honey with a friendly bear",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Monkey swings down! 'Banana!' says Hiro. Monkey peels the yellow banana. So tasty! Everyone is happy eating together.",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face surrounded by all the animals in a joyful feast celebration with magical bananas, sparkling food, and delicious treats creating a scene of food joy",
+            "alt": "Hiro and all animal friends enjoying a magical feast together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "sharing",
+      "animals",
+      "food",
+      "kindness"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "delicious appetizing food, exaggerated proportions, steam drips sparkles, magical food, diverse cuisines, feast celebration, cooking scenes, yummy visual, food joy"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Bunny like to eat?",
+        "choices": [
+          "Carrots",
+          "Fish"
+        ],
+        "correctIndex": 0,
+        "explanation": "Bunny loves to munch on crunchy orange carrots!"
+      },
+      {
+        "id": "q2",
+        "question": "What does Cat enjoy eating?",
+        "choices": [
+          "Honey",
+          "Fish"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cat loves to lick the shiny fish that Hiro shares!"
+      },
+      {
+        "id": "q3",
+        "question": "What makes Bear happy to eat?",
+        "choices": [
+          "Honey",
+          "Banana"
+        ],
+        "correctIndex": 0,
+        "explanation": "Bear loves the sweet, sticky golden honey!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "Carrots",
+            "distractors": [
+              "Apples",
+              "Cookies"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "Fish",
+            "distractors": [
+              "Milk",
+              "Bread"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

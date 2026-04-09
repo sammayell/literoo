@@ -1,0 +1,167 @@
+{
+  "id": "v2-toddler-nature-096",
+  "title": "Malik's Season Tree",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "nature",
+    "school"
+  ],
+  "wordCount": 118,
+  "readingLevel": "Pre-K",
+  "synopsis": "Malik discovers how his favorite tree changes through all four seasons during his school year, learning about nature's beautiful cycles.",
+  "coverImage": "covers/v2-toddler-nature-096.webp",
+  "chapters": [
+    {
+      "title": "Spring and Summer",
+      "pages": [
+        {
+          "text": "Malik goes to school every day. He loves looking at the big tree in the playground. In spring, the tree has tiny green leaves. \"Look!\" says Malik. \"Baby leaves!\"",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, gentle expressive eyes pointing excitedly at a large tree with small, fresh green buds and leaves in spring pastels of soft green, pink, and yellow",
+            "alt": "Malik pointing at a tree with new spring leaves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The leaves grow bigger and bigger. Soon it's summer! The tree is full of big green leaves. Malik sits under the tree. It makes cool shade. \"Thank you, tree!\" he says.",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, gentle expressive eyes sitting contentedly under the same tree now full of lush, bright green summer leaves with vibrant summer colors of deep green, bright blue sky, and golden sunshine",
+            "alt": "Malik sitting in the shade under a leafy summer tree",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Fall and Winter",
+      "pages": [
+        {
+          "text": "When fall comes, the leaves change colors! Red, yellow, and orange leaves cover the tree. Some leaves fall down. Malik catches falling leaves. \"Pretty!\" he laughs.",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, gentle expressive eyes catching colorful falling leaves from the same tree now displaying autumn warmth with red, orange, and golden yellow leaves, some scattered on the ground",
+            "alt": "Malik catching colorful autumn leaves falling from the tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Winter comes and all the leaves are gone. The tree looks different, but it's still beautiful. Malik sees snow on the bare branches. \"Tree is sleeping,\" says Malik. \"See you in spring!\"",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, gentle expressive eyes waving goodbye to the same tree now bare with snow-covered branches in winter cool colors of white, pale blue, and soft gray",
+            "alt": "Malik waving at a bare, snow-covered winter tree",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "seasonal changes",
+      "nature observation",
+      "school environment",
+      "patience",
+      "natural cycles"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "seasonal cycle, spring pastels, summer brights, autumn warmth, winter cool, same scene different seasons, time passing, nature calendar, cyclical beauty"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Malik see on the tree in spring?",
+        "choices": [
+          "tiny green leaves",
+          "snow",
+          "red leaves"
+        ],
+        "correctIndex": 0,
+        "explanation": "In spring, Malik sees tiny green baby leaves growing on the tree."
+      },
+      {
+        "id": "q2",
+        "question": "What does the tree give Malik in summer?",
+        "choices": [
+          "cool shade",
+          "falling leaves",
+          "snow"
+        ],
+        "correctIndex": 0,
+        "explanation": "The big green summer leaves make cool shade for Malik to sit under."
+      },
+      {
+        "id": "q3",
+        "question": "What colors are the fall leaves?",
+        "choices": [
+          "red, yellow, and orange",
+          "only green",
+          "white and blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "In fall, the leaves change to beautiful red, yellow, and orange colors."
+      },
+      {
+        "id": "q4",
+        "question": "What does Malik say the tree is doing in winter?",
+        "choices": [
+          "sleeping",
+          "dancing",
+          "growing"
+        ],
+        "correctIndex": 0,
+        "explanation": "Malik says the bare winter tree is sleeping until spring comes again."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "tree",
+            "distractors": [
+              "car",
+              "house"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "green",
+            "distractors": [
+              "red",
+              "blue"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "leaves",
+            "distractors": [
+              "rocks",
+              "toys"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "catches",
+            "distractors": [
+              "throws",
+              "hides"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

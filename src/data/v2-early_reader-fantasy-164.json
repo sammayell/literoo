@@ -1,0 +1,223 @@
+{
+  "id": "v2-early_reader-fantasy-164",
+  "title": "Oscar's Magic School Day",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "fantasy",
+    "school"
+  ],
+  "wordCount": 298,
+  "readingLevel": "Grade 1",
+  "synopsis": "Oscar discovers his new school is magical when he follows glowing creatures into an enchanted forest classroom where he learns spells, makes fairy friends, and finds confidence in his magical abilities.",
+  "coverImage": "covers/v2-early_reader-fantasy-164.webp",
+  "chapters": [
+    {
+      "title": "A New School",
+      "pages": [
+        {
+          "text": "Oscar walked slowly to his new school. He felt nervous and scared. The building looked big and strange. Other kids ran past him, laughing and playing. Oscar wished he could be brave like them. His backpack felt heavy on his shoulders. He took a deep breath and walked toward the front door.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes standing nervously in front of a mysterious school building surrounded by tall enchanted trees with glowing mushrooms at their base and fairy lights twinkling in the branches, rich greens and purples filling the forest background",
+            "alt": "Oscar looking nervous outside his new magical school",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Following the Light",
+      "pages": [
+        {
+          "text": "As Oscar reached for the door handle, something sparkly caught his eye. A tiny light danced near the trees behind the school. Then another light appeared, and another! The lights were beautiful, like little stars. Oscar forgot about being scared. He followed the dancing lights into the forest. They led him deeper and deeper into the green woods.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes following magical fairy lights through an enchanted forest filled with glowing mushrooms, mystical creatures peeking from behind trees, golden sparkles floating in the air, rich greens and purples creating a magical atmosphere with detailed foliage",
+            "alt": "Oscar following magical lights into an enchanted forest",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Forest Classroom",
+      "pages": [
+        {
+          "text": "The lights stopped at a clearing in the forest. Oscar gasped! There was a classroom made of trees and flowers. Mushroom desks glowed softly. A wise old owl sat on a branch-chalkboard. Other children sat on flower cushions, but they had pointed ears and wings! A fairy teacher smiled at Oscar. 'Welcome to Magic School!' she said sweetly.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes discovering an outdoor classroom in an enchanted forest with glowing mushroom desks, fairy children with wings, a wise owl teacher, magical atmosphere with rich greens and purples, golden sparkles, and detailed foliage in Studio Ghibli style",
+            "alt": "Oscar finding a magical forest classroom with fairy students",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Learning Magic",
+      "pages": [
+        {
+          "text": "The fairy teacher taught Oscar how to make flowers grow with magic words. 'Close your eyes and say Bloomicus Growicus!' she said. Oscar felt silly at first, but he tried. When he opened his eyes, a beautiful rainbow flower had grown at his feet! The fairy children clapped and cheered. Oscar smiled big. Magic was real, and he could do it too!",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes creating a magical rainbow flower with his hands glowing, surrounded by cheering fairy children and mystical creatures in an enchanted forest setting with glowing mushrooms, fairy lights, rich greens and purples, and golden sparkles everywhere",
+            "alt": "Oscar successfully casting his first magic spell to grow a rainbow flower",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "A Magical Friend",
+      "pages": [
+        {
+          "text": "A small fairy with purple wings flew up to Oscar. 'I'm Luna!' she said. 'Will you be my friend?' Oscar nodded happily. Luna taught him more magic spells. They made butterflies dance and made the mushrooms sing songs. When it was time to go, Luna promised to see Oscar tomorrow. Oscar walked back to regular school feeling brave and happy. He had found magic and made a friend!",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes playing with Luna the purple-winged fairy, surrounded by dancing butterflies and singing glowing mushrooms in an enchanted forest filled with fairy lights, mystical creatures, rich greens and purples, golden sparkles, and detailed magical foliage",
+            "alt": "Oscar playing with his new fairy friend Luna in the magical forest",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "courage",
+      "magic",
+      "school anxiety",
+      "self-confidence",
+      "wonder"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Oscar feel when he first saw his new school?",
+        "choices": [
+          "nervous and scared",
+          "happy and excited",
+          "angry and mad"
+        ],
+        "correctIndex": 0,
+        "explanation": "The story says Oscar felt nervous and scared when he walked to his new school."
+      },
+      {
+        "id": "q2",
+        "question": "What led Oscar into the forest?",
+        "choices": [
+          "a map",
+          "dancing lights",
+          "a loud noise"
+        ],
+        "correctIndex": 1,
+        "explanation": "Oscar followed the beautiful dancing lights that looked like little stars into the forest."
+      },
+      {
+        "id": "q3",
+        "question": "What were the desks made of in the forest classroom?",
+        "choices": [
+          "wood",
+          "glowing mushrooms",
+          "rocks"
+        ],
+        "correctIndex": 1,
+        "explanation": "The classroom had mushroom desks that glowed softly in the magical forest."
+      },
+      {
+        "id": "q4",
+        "question": "What magic words did Oscar learn?",
+        "choices": [
+          "Bloomicus Growicus",
+          "Abra Cadabra",
+          "Hocus Pocus"
+        ],
+        "correctIndex": 0,
+        "explanation": "The fairy teacher taught Oscar to say 'Bloomicus Growicus' to make flowers grow."
+      },
+      {
+        "id": "q5",
+        "question": "What was the name of Oscar's new fairy friend?",
+        "choices": [
+          "Stella",
+          "Luna",
+          "Rose"
+        ],
+        "correctIndex": 1,
+        "explanation": "The small fairy with purple wings introduced herself as Luna and became Oscar's friend."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "nervous",
+            "distractors": [
+              "happy",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 8,
+            "correctWord": "big",
+            "distractors": [
+              "tiny",
+              "purple"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "lights",
+            "distractors": [
+              "sounds",
+              "smells"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "forest",
+            "distractors": [
+              "ocean",
+              "desert"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 7,
+            "correctWord": "magic",
+            "distractors": [
+              "scary",
+              "loud"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "flower",
+            "distractors": [
+              "rock",
+              "book"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

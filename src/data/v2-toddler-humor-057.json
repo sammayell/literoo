@@ -1,0 +1,180 @@
+{
+  "id": "v2-toddler-humor-057",
+  "title": "Amara's Giggling Garden",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "humor",
+    "fantasy"
+  ],
+  "wordCount": 142,
+  "readingLevel": "Pre-K",
+  "synopsis": "Amara discovers a magical garden where vegetables come alive and love to play silly games, leading to wonderfully messy and hilarious adventures.",
+  "coverImage": "covers/v2-toddler-humor-057.webp",
+  "chapters": [
+    {
+      "title": "The Wiggly Garden",
+      "pages": [
+        {
+          "text": "Amara loved to help Grandma in the garden. Today, something very funny was happening! The carrots were wiggling in the dirt like orange worms.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes crouches in a bright garden, eyes wide with amazement as cartoon carrots with stick legs wiggle and dance in the soil, their green tops bouncing wildly",
+            "alt": "Amara discovering dancing carrots in the garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Pop! Pop! Pop! The carrots jumped out of the ground and started doing silly dances. They spun around and around until they got dizzy and fell down.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes laughs with mouth wide open as three cartoon carrots with rubber hose arms and legs spin like tops, their faces dizzy with spiral eyes, dirt flying everywhere",
+            "alt": "Amara laughing at spinning, dizzy carrots",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The tomatoes started giggling too! They rolled around like red bouncy balls, bumping into each other. Boing! Boing! Boing!",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes claps her hands in delight as round cartoon tomatoes with huge smiling faces bounce like rubber balls, stretching and squashing with each bounce in candy bright colors",
+            "alt": "Amara watching bouncing tomatoes play",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Garden Party Fun",
+      "pages": [
+        {
+          "text": "The corn started popping! Pop! Pop! Pop! White fluffy popcorn flew everywhere like snow. Amara tried to catch some in her mouth.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes tilts her head back with mouth open wide, trying to catch popcorn falling like snow while cartoon corn cobs with big grins shoot popcorn everywhere in exaggerated slapstick style",
+            "alt": "Amara catching popcorn in her mouth",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The pumpkins rolled around like big orange bowling balls. They knocked over the watering can with a great big SPLASH! Water went everywhere!",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes jumps back with arms stretched wide in surprise as cartoon pumpkins with stick arms bowl into a watering can, creating a huge candy-colored water splash with droplets flying in all directions",
+            "alt": "Amara surprised by pumpkins causing a water splash",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Amara giggled and giggled. The whole garden was having a party! She danced with the vegetables until Grandma called for snack time. What a wonderful, wiggly day!",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes dances joyfully with arms raised high, surrounded by all the cartoon vegetables - carrots, tomatoes, corn, and pumpkins - all dancing together in a conga line with huge smiles and bouncy movements",
+            "alt": "Amara dancing with all the happy vegetables",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "imagination",
+      "nature",
+      "joy",
+      "play",
+      "gardening"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did the carrots do first in the garden?",
+        "choices": [
+          "wiggled in the dirt",
+          "jumped high",
+          "rolled around"
+        ],
+        "correctIndex": 0,
+        "explanation": "The carrots wiggled in the dirt like orange worms before they popped out!"
+      },
+      {
+        "id": "q2",
+        "question": "What sound did the tomatoes make when they bounced?",
+        "choices": [
+          "Pop! Pop! Pop!",
+          "Boing! Boing! Boing!",
+          "Splash! Splash! Splash!"
+        ],
+        "correctIndex": 1,
+        "explanation": "The tomatoes made 'Boing! Boing! Boing!' sounds as they bounced like bouncy balls!"
+      },
+      {
+        "id": "q3",
+        "question": "What flew everywhere like snow?",
+        "choices": [
+          "water",
+          "popcorn",
+          "dirt"
+        ],
+        "correctIndex": 1,
+        "explanation": "The corn started popping and white fluffy popcorn flew everywhere like snow!"
+      },
+      {
+        "id": "q4",
+        "question": "What did Amara do at the end?",
+        "choices": [
+          "danced with the vegetables",
+          "went to sleep",
+          "watered the plants"
+        ],
+        "correctIndex": 0,
+        "explanation": "Amara danced with all the vegetables until Grandma called for snack time!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "wiggling",
+            "distractors": [
+              "sleeping",
+              "hiding"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "giggling",
+            "distractors": [
+              "crying",
+              "singing"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 5,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "SPLASH",
+            "distractors": [
+              "BOOM",
+              "CRASH"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

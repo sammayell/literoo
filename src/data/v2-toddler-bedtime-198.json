@@ -1,0 +1,183 @@
+{
+  "id": "v2-toddler-bedtime-198",
+  "title": "Yuki's Sleepy Moon Adventure",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "bedtime",
+    "feelings"
+  ],
+  "wordCount": 170,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Yuki feels too excited to sleep, but with the help of a gentle moon and floating clouds, she learns to calm her feelings and drift peacefully into dreamland.",
+  "coverImage": "covers/v2-toddler-bedtime-198.webp",
+  "chapters": [
+    {
+      "title": "Too Excited to Sleep",
+      "pages": [
+        {
+          "text": "Yuki sat up in her cozy bed, her eyes wide open. She felt too excited to sleep! Her heart was beating fast like a little drum. \"I can't sleep, Mama,\" she whispered.",
+          "illustration": {
+            "description": "A young girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes sits upright in a soft bed with purple blankets. Gentle moonlight streams through a window, creating dreamy blue gradients. Floating clouds drift softly around the room in soft watercolor style.",
+            "alt": "Yuki sitting up in bed looking excited and wide awake",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama smiled and pointed to the window. \"Look, Yuki. The moon wants to help you feel calm. Let's watch the clouds dance together in the starry sky.\"",
+          "illustration": {
+            "description": "A young girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes stands at a window with her mother. Outside, glowing stars twinkle in dreamy purple and blue gradients. Soft watercolor clouds float peacefully across the night sky with gentle moonlight illuminating everything.",
+            "alt": "Yuki and her mother looking out the window at the peaceful night sky",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The moon glowed softly, and fluffy white clouds floated by like gentle pillows. Yuki watched them move slowly across the purple sky. Her excited feelings began to feel softer.",
+          "illustration": {
+            "description": "A dreamy night scene with a young girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes gazing upward. Floating clouds drift through dreamy purple and blue gradients, with glowing stars scattered throughout. The ethereal atmosphere is painted in soft watercolor with gentle moonlight casting a peaceful glow.",
+            "alt": "Yuki watching peaceful clouds float through the starry purple sky",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Floating to Dreamland",
+      "pages": [
+        {
+          "text": "\"I feel like I'm floating too,\" Yuki said with a yawn. Her body felt light and peaceful now. The excited feeling had melted away like snow in sunshine.",
+          "illustration": {
+            "description": "A young girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes appears to gently float among soft watercolor clouds. Her round sleepy face shows contentment. Dreamy purple and blue gradients surround her with glowing stars twinkling in the ethereal atmosphere.",
+            "alt": "Yuki floating peacefully among soft clouds with a sleepy expression",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama tucked Yuki into her warm blankets. \"When big feelings come, remember the moon and clouds. They help us feel calm and ready for sweet dreams.\"",
+          "illustration": {
+            "description": "A cozy bedroom scene with a young girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes snuggled under soft purple blankets. Her mother sits beside the bed. Gentle moonlight filters through the window, creating dreamy blue gradients. Floating clouds and glowing stars visible outside in soft watercolor style.",
+            "alt": "Yuki being tucked into bed by her mother in the moonlit room",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Yuki's eyes grew heavy like the sleepy clouds. She smiled and whispered, \"Thank you, moon.\" Soon she was floating into the most wonderful dreams, feeling safe and loved.",
+          "illustration": {
+            "description": "A peaceful sleeping scene with a young girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes sleeping soundly with a round sleepy face. Floating clouds drift around her bed in soft watercolor style. Dreamy purple and blue gradients fill the room with gentle moonlight and glowing stars creating an ethereal atmosphere.",
+            "alt": "Yuki sleeping peacefully surrounded by dreamy clouds and moonlight",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "managing excitement",
+      "calming techniques",
+      "family comfort",
+      "nature connection"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Yuki feel at the beginning of the story?",
+        "choices": [
+          "Too excited to sleep",
+          "Very hungry",
+          "Cold and shivery"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yuki felt too excited to sleep, with her heart beating fast like a little drum."
+      },
+      {
+        "id": "q2",
+        "question": "What did Mama show Yuki to help her feel calm?",
+        "choices": [
+          "A warm bath",
+          "The moon and clouds",
+          "A favorite toy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mama pointed to the window and showed Yuki the moon and dancing clouds to help her feel calm."
+      },
+      {
+        "id": "q3",
+        "question": "What happened to Yuki's excited feelings?",
+        "choices": [
+          "They got bigger",
+          "They melted away like snow",
+          "They turned into anger"
+        ],
+        "correctIndex": 1,
+        "explanation": "Yuki's excited feelings melted away like snow in sunshine as she watched the peaceful clouds."
+      },
+      {
+        "id": "q4",
+        "question": "How did Yuki feel at the end of the story?",
+        "choices": [
+          "Safe and loved",
+          "Still too excited",
+          "Worried and scared"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yuki fell asleep feeling safe and loved, floating into wonderful dreams."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "excited",
+            "distractors": [
+              "sleepy",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "sleep",
+            "distractors": [
+              "play",
+              "eat"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "clouds",
+            "distractors": [
+              "birds",
+              "toys"
+            ]
+          },
+          {
+            "wordIndex": 22,
+            "correctWord": "peaceful",
+            "distractors": [
+              "loud",
+              "scary"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "id": "v2-early_reader-adventure-101",
+  "title": "Emma's Treasure Hunt Adventure",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "adventure",
+    "fantasy"
+  ],
+  "wordCount": 502,
+  "readingLevel": "early reader",
+  "synopsis": "Emma discovers a magical treasure map in her grandmother's attic and embarks on an exciting adventure through an enchanted forest to find hidden treasure, meeting helpful creatures along the way.",
+  "coverImage": "covers/v2-early_reader-adventure-101.webp",
+  "chapters": [
+    {
+      "title": "The Magic Map",
+      "pages": [
+        {
+          "text": "Emma loved exploring her grandmother's old attic. It was full of dusty boxes and forgotten treasures. One sunny morning, she climbed the creaky stairs to look around. In a corner, she found an old wooden chest. Emma opened it carefully. Inside was a rolled-up piece of paper that looked very old. When she unrolled it, her eyes grew wide. It was a real treasure map! The paper showed a winding path through a forest, with an X marking where treasure was buried. The map began to glow with a soft golden light. Emma gasped as the map started to pull her forward, as if it had magic powers.",
+          "illustration": {
+            "description": "A girl with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks holding a glowing treasure map in a dusty attic, aged parchment style with compass roses and dotted trails, sepia tones with jewel accents",
+            "alt": "Emma discovering a magical glowing treasure map in her grandmother's attic",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Into the Enchanted Forest",
+      "pages": [
+        {
+          "text": "Suddenly, Emma found herself standing at the edge of a magical forest. The trees were taller than any she had ever seen, and their leaves sparkled like emeralds. The treasure map floated in front of her, showing the way. A dotted trail on the map matched a real path through the trees. Emma took her first brave step into the enchanted forest. Birds with colorful feathers sang sweet songs from the branches above. Flowers as big as dinner plates bloomed along the path. Everything seemed to shimmer with magic. Emma felt excited and a little nervous, but she knew she had to follow the map. The adventure was just beginning, and she couldn't wait to see what she would find next.",
+          "illustration": {
+            "description": "A girl with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks entering an enchanted forest with a floating treasure map, hand-drawn map style with adventure cartography, sepia tones with magical sparkles and jewel accents",
+            "alt": "Emma entering the magical forest following her treasure map",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Forest Friends",
+      "pages": [
+        {
+          "text": "As Emma walked deeper into the forest, she heard a tiny voice calling for help. She looked around and saw a small rabbit caught under a fallen branch. Emma carefully lifted the branch and set the rabbit free. 'Thank you!' squeaked the rabbit. 'I'm Ruby. I can help you on your treasure hunt!' Ruby hopped alongside Emma, pointing out which paths were safe to take. Soon they met a wise old owl named Oliver perched on a low branch. 'I've been watching over this forest for many years,' hooted Oliver. 'That map you carry is very special. The treasure it leads to has been waiting for someone kind and brave like you.' Emma smiled. She felt happy to have new friends to help her on this magical adventure.",
+          "illustration": {
+            "description": "A girl with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks helping a small rabbit while a wise owl watches, treasure map style with dotted trails and compass roses, aged parchment look with sepia tones and jewel accents",
+            "alt": "Emma helping a rabbit while an owl gives advice about her treasure map",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Hidden Treasure",
+      "pages": [
+        {
+          "text": "Following the map's dotted trail, Emma, Ruby, and Oliver reached a clearing where an old oak tree stood. The X on the map was glowing right at the base of the tree! Emma knelt down and began to dig gently with her hands. Soon she felt something hard buried in the soft earth. She pulled out a beautiful wooden box decorated with colorful jewels. When she opened it, inside was the most wonderful treasure of all - a collection of magical seeds. Oliver explained that these seeds would grow into anything Emma wished for. But the real treasure, Emma realized, was the friendship she had made with Ruby and Oliver. 'The greatest adventures are the ones we share with friends,' she said, smiling at her new companions. The map glowed one last time before gently floating back to Emma's hands, ready for the next adventure.",
+          "illustration": {
+            "description": "A girl with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks discovering a jeweled treasure box under an oak tree with a rabbit and owl nearby, adventure cartography style with sepia tones, compass roses, and bright jewel accents highlighting the treasure",
+            "alt": "Emma finding the treasure chest with her forest friends Ruby and Oliver",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "adventure",
+      "kindness",
+      "bravery",
+      "magic",
+      "helping others"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "treasure map style, aged parchment, compass roses, dotted trails, sepia tones, jewel accents, bold explorers, adventure cartography, hand-drawn maps"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where did Emma find the treasure map?",
+        "choices": [
+          "In her grandmother's attic",
+          "In the forest",
+          "In her bedroom"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emma found the magical treasure map in an old wooden chest in her grandmother's attic."
+      },
+      {
+        "id": "q2",
+        "question": "What was the first animal Emma helped in the forest?",
+        "choices": [
+          "A rabbit named Ruby",
+          "An owl named Oliver",
+          "A bird"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emma helped Ruby the rabbit who was caught under a fallen branch."
+      },
+      {
+        "id": "q3",
+        "question": "What did Emma find in the treasure box?",
+        "choices": [
+          "Magical seeds",
+          "Gold coins",
+          "Pretty jewels"
+        ],
+        "correctIndex": 0,
+        "explanation": "The treasure box contained magical seeds that could grow into anything Emma wished for."
+      },
+      {
+        "id": "q4",
+        "question": "Where was the treasure buried?",
+        "choices": [
+          "At the base of an old oak tree",
+          "By a river",
+          "In a cave"
+        ],
+        "correctIndex": 0,
+        "explanation": "The X on the map showed the treasure was buried at the base of an old oak tree in the clearing."
+      },
+      {
+        "id": "q5",
+        "question": "What did Emma think was the real treasure?",
+        "choices": [
+          "The friendship she made",
+          "The magical seeds",
+          "The treasure map"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emma realized that the real treasure was the friendship she made with Ruby and Oliver during her adventure."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "attic",
+            "distractors": [
+              "basement",
+              "kitchen"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "chest",
+            "distractors": [
+              "box",
+              "bag"
+            ]
+          },
+          {
+            "wordIndex": 23,
+            "correctWord": "map",
+            "distractors": [
+              "book",
+              "picture"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "forest",
+            "distractors": [
+              "garden",
+              "park"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "magical",
+            "distractors": [
+              "pretty",
+              "big"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 9,
+            "correctWord": "rabbit",
+            "distractors": [
+              "squirrel",
+              "mouse"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "Ruby",
+            "distractors": [
+              "Rosie",
+              "Roxy"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

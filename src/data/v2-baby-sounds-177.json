@@ -1,0 +1,155 @@
+{
+  "id": "v2-baby-sounds-177",
+  "title": "Amara's Sound Adventure",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "sounds",
+    "counting"
+  ],
+  "wordCount": 84,
+  "readingLevel": "Pre-K",
+  "synopsis": "Join Amara as she discovers different sounds around her home, counting from one to five while exploring the musical world of everyday noises.",
+  "coverImage": "covers/v2-baby-sounds-177.webp",
+  "chapters": [
+    {
+      "title": "Counting Sounds with Amara",
+      "pages": [
+        {
+          "text": "Meet Amara! She loves to listen to sounds. Let's count sounds with her!",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes sits on a colorful rug, surrounded by gentle rainbow waves floating in the air representing various sounds",
+            "alt": "A young girl with braids sitting and listening to colorful sound waves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "ONE clock goes TICK TOCK! The sound makes blue circles dance.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes points to a wall clock, with blue circular ripples emanating from it in rhythmic patterns",
+            "alt": "Girl pointing at a clock with blue sound circles",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "TWO birds chirp TWEET TWEET! Yellow dots bounce up and down.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes looks out a window at two birds, with bright yellow dotted lines bouncing between them",
+            "alt": "Girl watching birds with yellow bouncing sound dots",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "THREE drums go BOOM BOOM BOOM! Red jagged lines jump everywhere.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes sits near three colorful drums, with bold red jagged lightning-like lines exploding outward from each drum",
+            "alt": "Girl near drums with red jagged sound lines",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "FOUR cats meow MEOW softly. Pink wavy ribbons float gently.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes pets four fluffy cats, with soft pink wavy ribbons flowing gracefully around them",
+            "alt": "Girl petting cats with pink wavy sound ribbons",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "FIVE bells ring DING DING! Golden stars sparkle and twinkle all around.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes holds small bells, with golden star-shaped bursts of light twinkling throughout the scene",
+            "alt": "Girl holding bells with golden star-shaped sounds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Amara loves all the sounds! Can you count them with her? One, two, three, four, five!",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes claps happily as all the sound shapes - blue circles, yellow dots, red jagged lines, pink ribbons, and golden stars - swirl together in a joyful rainbow symphony around her",
+            "alt": "Girl celebrating surrounded by all different colored sound shapes",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "counting",
+      "sounds",
+      "exploration",
+      "sensory experience"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "sound made visible, wavy lines for music, jagged lines for crashes, dots for whispers, synesthesia inspired, seeing sound, color and shape for noise, vibration visual"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color are the clock sounds?",
+        "choices": [
+          "blue",
+          "red"
+        ],
+        "correctIndex": 0,
+        "explanation": "The clock makes blue circles when it goes tick tock!"
+      },
+      {
+        "id": "q2",
+        "question": "How many birds chirp in the story?",
+        "choices": [
+          "two",
+          "three"
+        ],
+        "correctIndex": 0,
+        "explanation": "Two birds chirp tweet tweet with yellow dots!"
+      },
+      {
+        "id": "q3",
+        "question": "What shape do the bell sounds make?",
+        "choices": [
+          "stars",
+          "circles"
+        ],
+        "correctIndex": 0,
+        "explanation": "The bells make golden stars that sparkle and twinkle!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "TICK",
+            "distractors": [
+              "MEOW",
+              "BOOM"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "TWO",
+            "distractors": [
+              "ONE",
+              "FIVE"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

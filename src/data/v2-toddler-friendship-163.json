@@ -1,0 +1,196 @@
+{
+  "id": "v2-toddler-friendship-163",
+  "title": "Lily's Garden Friends",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "nature"
+  ],
+  "wordCount": 168,
+  "readingLevel": "Pre-K",
+  "synopsis": "Lily discovers that making friends in her garden is as easy as being kind and sharing. When she meets a shy bunny and busy squirrel, she learns that friendship grows best when we care for each other and nature together.",
+  "coverImage": "covers/v2-toddler-friendship-163.webp",
+  "chapters": [
+    {
+      "title": "New Friends in the Garden",
+      "pages": [
+        {
+          "text": "Lily loved playing in her backyard garden. The flowers were bright and the grass was soft under her feet.",
+          "illustration": {
+            "description": "A little girl with long curly auburn hair, fair skin with light freckles, green eyes playing in a colorful garden with bright flowers, green grass, and sunny skies in primary colors with white space, joyful energetic style",
+            "alt": "Lily playing happily in a bright garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "One morning, Lily saw a small brown bunny hiding behind the big sunflower. The bunny looked scared and lonely.",
+          "illustration": {
+            "description": "A girl with long curly auburn hair, fair skin with light freckles, green eyes discovering a shy brown bunny behind a tall yellow sunflower in a bright sunny garden with primary colors, white space, inclusive friendly atmosphere",
+            "alt": "Lily finding a shy bunny in the garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Hello, little bunny,\" said Lily softly. \"Would you like to be my friend?\" The bunny's nose twitched, but it stayed hidden.",
+          "illustration": {
+            "description": "A kind girl with long curly auburn hair, fair skin with light freckles, green eyes kneeling down and speaking gently to a brown bunny among bright flowers in primary colors with white space, joyful energetic park-like setting",
+            "alt": "Lily speaking kindly to the bunny",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Lily picked some fresh clover and placed it near the bunny. \"Here's a yummy snack,\" she whispered. The bunny hopped closer and nibbled the clover.",
+          "illustration": {
+            "description": "A generous girl with long curly auburn hair, fair skin with light freckles, green eyes offering green clover to a brown bunny in a bright sunny garden with primary colors, white space, friendship activities in inclusive joyful style",
+            "alt": "Lily sharing clover with the bunny",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "More Garden Friends",
+      "pages": [
+        {
+          "text": "Soon a gray squirrel came down from the oak tree. \"Can I have some clover too?\" asked the squirrel. \"Of course!\" said Lily, picking more clover.",
+          "illustration": {
+            "description": "A happy girl with long curly auburn hair, fair skin with light freckles, green eyes with a brown bunny and gray squirrel sharing clover under an oak tree in bright primary colors with white space, diverse animal friends, joyful energetic playground-like garden",
+            "alt": "Lily, bunny, and squirrel sharing food together",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The three friends played hide-and-seek among the flowers. They laughed and ran through the garden paths together.",
+          "illustration": {
+            "description": "A playful girl with long curly auburn hair, fair skin with light freckles, green eyes playing hide-and-seek with a bunny and squirrel among colorful flowers in primary colors with white space, laughter and friendship activities in bright sunny inclusive style",
+            "alt": "Friends playing hide-and-seek in the garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When it was time for lunch, Lily shared her apple slices. \"Friends always share,\" she said with a big smile.",
+          "illustration": {
+            "description": "A caring girl with long curly auburn hair, fair skin with light freckles, green eyes sharing apple slices with a bunny and squirrel in a bright garden with primary colors, white space, friendship activities showing sharing and kindness in joyful energetic style",
+            "alt": "Lily sharing her lunch with her animal friends",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Every day, Lily visited her garden friends. They watered the plants together and watched the flowers grow, just like their friendship.",
+          "illustration": {
+            "description": "A happy girl with long curly auburn hair, fair skin with light freckles, green eyes watering plants with a bunny and squirrel in a lush garden with bright flowers in primary colors, white space, inclusive friendship activities in bright sunny joyful energetic style",
+            "alt": "Lily and friends caring for the garden together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "kindness",
+      "sharing",
+      "nature care",
+      "overcoming shyness"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where did the bunny hide?",
+        "choices": [
+          "behind the sunflower",
+          "in the tree",
+          "under a rock"
+        ],
+        "correctIndex": 0,
+        "explanation": "The bunny was hiding behind the big sunflower when Lily first saw it."
+      },
+      {
+        "id": "q2",
+        "question": "What did Lily give the bunny first?",
+        "choices": [
+          "fresh clover",
+          "apple slices",
+          "water"
+        ],
+        "correctIndex": 0,
+        "explanation": "Lily picked fresh clover and placed it near the bunny to help make friends."
+      },
+      {
+        "id": "q3",
+        "question": "What game did the friends play?",
+        "choices": [
+          "hide-and-seek",
+          "tag",
+          "catch"
+        ],
+        "correctIndex": 0,
+        "explanation": "The three friends played hide-and-seek among the flowers in the garden."
+      },
+      {
+        "id": "q4",
+        "question": "What did Lily share at lunch?",
+        "choices": [
+          "apple slices",
+          "cookies",
+          "carrots"
+        ],
+        "correctIndex": 0,
+        "explanation": "Lily shared her apple slices with her animal friends during lunch time."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "bunny",
+            "distractors": [
+              "bird",
+              "cat"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "clover",
+            "distractors": [
+              "grass",
+              "leaves"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 6,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "share",
+            "distractors": [
+              "hide",
+              "run"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

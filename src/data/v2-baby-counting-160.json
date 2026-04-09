@@ -1,0 +1,164 @@
+{
+  "id": "v2-baby-counting-160",
+  "title": "Sofia Counts Happy Things",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "counting",
+    "feelings"
+  ],
+  "wordCount": 59,
+  "readingLevel": "Pre-K",
+  "synopsis": "Join Sofia as she discovers and counts the special things that make her happy, from one cozy teddy bear to five colorful balloons, learning numbers while exploring joyful feelings.",
+  "coverImage": "covers/v2-baby-counting-160.webp",
+  "chapters": [
+    {
+      "title": "Happy Counting",
+      "pages": [
+        {
+          "text": "This is Sofia. Sofia likes to count happy things!",
+          "illustration": {
+            "description": "Sofia, a girl with long wavy dark brown hair, warm olive skin, big dark brown eyes, smiling and pointing with one finger raised, surrounded by colorful numbers floating in the air",
+            "alt": "Sofia introducing herself with numbers around her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "One teddy bear makes Sofia feel cozy and safe.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes hugging one brown teddy bear, with a large number '1' prominently displayed, soft pastel background",
+            "alt": "Sofia hugging one teddy bear with number 1",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Two puppies make Sofia giggle with joy!",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes laughing while playing with two golden puppies, large number '2' visible, hearts floating around showing happiness",
+            "alt": "Sofia playing with two puppies with number 2",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Three flowers smell so sweet. Sofia feels calm and peaceful.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes gently smelling three colorful flowers arranged in a row, number '3' decorated with petals, serene garden setting",
+            "alt": "Sofia smelling three flowers with number 3",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Four books make Sofia excited to learn new stories!",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes sitting surrounded by four colorful storybooks stacked neatly, number '4' made from book spines, sparkles showing excitement",
+            "alt": "Sofia with four books and number 4",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Five balloons make Sofia feel like she can fly! So many happy feelings to count!",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes holding strings of five bright balloons in different colors, number '5' floating above, rainbow background showing pure joy",
+            "alt": "Sofia holding five balloons with number 5",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "counting",
+      "emotions",
+      "happiness",
+      "comfort objects",
+      "number recognition"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "clear countable objects, fun patterns, numbers prominent, visual counting, each number unique scene, engaging practice, organized arrangement, mathematical beauty"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How many teddy bears makes Sofia feel cozy?",
+        "choices": [
+          "one",
+          "two",
+          "three"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sofia feels cozy with one teddy bear!"
+      },
+      {
+        "id": "q2",
+        "question": "What makes Sofia giggle with joy?",
+        "choices": [
+          "flowers",
+          "puppies",
+          "books"
+        ],
+        "correctIndex": 1,
+        "explanation": "Two puppies make Sofia giggle with joy!"
+      },
+      {
+        "id": "q3",
+        "question": "How many balloons make Sofia feel happy?",
+        "choices": [
+          "four",
+          "five",
+          "three"
+        ],
+        "correctIndex": 1,
+        "explanation": "Five colorful balloons make Sofia feel like she can fly!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "One",
+            "distractors": [
+              "Two",
+              "Three"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Two",
+            "distractors": [
+              "One",
+              "Four"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Four",
+            "distractors": [
+              "Three",
+              "Five"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

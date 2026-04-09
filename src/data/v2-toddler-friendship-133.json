@@ -1,0 +1,180 @@
+{
+  "id": "v2-toddler-friendship-133",
+  "title": "Nia's Garden Friends",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "nature"
+  ],
+  "wordCount": 169,
+  "readingLevel": "Pre-K",
+  "synopsis": "Nia discovers a magical garden where she makes new friends with the butterflies, flowers, and trees, learning about kindness and caring for nature.",
+  "coverImage": "covers/v2-toddler-friendship-133.webp",
+  "chapters": [
+    {
+      "title": "A Special Garden",
+      "pages": [
+        {
+          "text": "Nia loved to explore. One sunny morning, she found a beautiful garden behind the playground. Colorful flowers danced in the breeze, and butterflies fluttered everywhere.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes standing at the entrance of a magical garden with bright flowers, butterflies, and tall trees in the background",
+            "alt": "Nia discovers a beautiful garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Hello, little flowers,\" Nia whispered softly. \"You're so pretty!\" She knelt down to smell the sweet roses and watched a yellow butterfly land on her hand.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes kneeling beside colorful roses with a yellow butterfly gently resting on her outstretched hand",
+            "alt": "Nia greeting flowers with a butterfly on her hand",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Making New Friends",
+      "pages": [
+        {
+          "text": "The butterfly seemed to smile at Nia. More butterflies came to visit - blue ones, orange ones, and spotted ones. They danced around her braids, making her giggle with joy.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes surrounded by colorful butterflies of different colors dancing around her in the sunny garden",
+            "alt": "Nia playing with many colorful butterflies",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"We can be friends!\" Nia said happily. A big sunflower nodded in the wind, and the old oak tree rustled its leaves. Even the little ladybugs crawled closer to say hello.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes talking to a tall sunflower while red ladybugs crawl on nearby leaves and an oak tree sways gently",
+            "alt": "Nia making friends with garden plants and insects",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Caring for Friends",
+      "pages": [
+        {
+          "text": "Nia noticed some flowers looked thirsty. She found a small watering can and gave them cool water. \"Friends help each other,\" she said with a big smile.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes holding a small watering can, gently watering drooping flowers that perk up with happiness",
+            "alt": "Nia watering thirsty flowers",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Every day, Nia visited her garden friends. She watered the flowers, talked to the butterflies, and hugged the trees. The garden grew more beautiful because of her love and care.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes in a thriving garden full of bright blooming flowers, happy butterflies, and lush green trees under a sunny sky",
+            "alt": "Nia in her beautiful, thriving garden with all her friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "nature appreciation",
+      "kindness",
+      "caring for environment",
+      "outdoor exploration"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where did Nia find the special garden?",
+        "choices": [
+          "Behind the playground",
+          "In her backyard",
+          "At the store"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nia found the beautiful garden behind the playground during her morning exploration."
+      },
+      {
+        "id": "q2",
+        "question": "What landed on Nia's hand?",
+        "choices": [
+          "A yellow butterfly",
+          "A red bird",
+          "A green frog"
+        ],
+        "correctIndex": 0,
+        "explanation": "A friendly yellow butterfly landed on Nia's hand when she was greeting the flowers."
+      },
+      {
+        "id": "q3",
+        "question": "How did Nia help her flower friends?",
+        "choices": [
+          "She watered them",
+          "She sang to them",
+          "She picked them"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nia used a watering can to give the thirsty flowers cool water, showing how friends help each other."
+      },
+      {
+        "id": "q4",
+        "question": "What made the garden grow more beautiful?",
+        "choices": [
+          "Nia's love and care",
+          "Magic seeds",
+          "Rainbow colors"
+        ],
+        "correctIndex": 0,
+        "explanation": "The garden became more beautiful because of Nia's daily visits, love, and care for all her garden friends."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "garden",
+            "distractors": [
+              "house",
+              "school"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "butterflies",
+            "distractors": [
+              "cats",
+              "cars"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "friends",
+            "distractors": [
+              "toys",
+              "books"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

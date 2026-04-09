@@ -1,0 +1,183 @@
+{
+  "id": "v2-toddler-friendship-053",
+  "title": "Nia and the Garden Friends",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "nature"
+  ],
+  "wordCount": 250,
+  "readingLevel": "Pre-K",
+  "synopsis": "Nia discovers the magic of friendship while exploring a community garden with new friends, learning about plants and sharing together.",
+  "coverImage": "covers/v2-toddler-friendship-053.webp",
+  "chapters": [
+    {
+      "title": "Finding the Garden",
+      "pages": [
+        {
+          "text": "Nia loved to explore. Today, she walked to the big park with Mama. She saw swings and slides, but something else caught her eye. Behind the playground was a beautiful garden with colorful flowers and green plants everywhere.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes stands at a playground entrance looking toward a vibrant community garden with rainbow flowers, vegetables, and fruit trees. The scene shows bright sunny playground equipment in the background with primary colors and joyful energy.",
+            "alt": "Nia discovers a community garden behind the playground",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "As Nia walked closer, she heard giggles and happy voices. Two children were playing near the tomato plants. 'Hi!' called a boy with curly red hair. 'I'm Sam!' 'And I'm Maya!' said a girl with pigtails. 'Want to help us water the plants?'",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes meets Sam (boy with curly red hair) and Maya (girl with dark pigtails) in the community garden. They're holding small watering cans near bright red tomato plants, with white space around them and joyful energetic poses showing friendship activities.",
+            "alt": "Nia meets Sam and Maya in the community garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Nia smiled her biggest smile. 'Yes, please!' She loved making new friends. Sam gave her a little blue watering can. Maya showed her how to pour water gently on the roots. 'The plants get thirsty, just like us!' Maya explained.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes holds a bright blue watering can while Sam and Maya demonstrate watering techniques. Diverse kids are shown playing and learning together in primary colors with laughter and friendship activities in the sunny garden setting.",
+            "alt": "The three friends water plants together in the garden",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Garden Adventures",
+      "pages": [
+        {
+          "text": "The three friends explored the garden together. They found purple eggplants, orange carrots, and yellow sunflowers as tall as Sam! 'Look!' said Nia, pointing to a butterfly on a pink flower. 'It's so pretty!' The butterfly had orange and black wings.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes points excitedly at an orange and black butterfly on a pink flower while Sam and Maya watch in wonder. The garden shows diverse vegetables in primary colors with tall sunflowers, creating an inclusive, joyful energetic scene with white space.",
+            "alt": "The friends discover a butterfly among the colorful garden plants",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Maya had a wonderful idea. 'Let's pick some flowers for our families!' They asked the garden helper, Mrs. Chen, if they could pick a few. 'Of course!' she said. 'Gardens are for sharing!' Each friend picked their favorite colored flower.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes carefully picks bright yellow flowers alongside Sam and Maya while Mrs. Chen (elderly Asian woman) watches kindly. The scene shows diverse kids playing in the sunny garden with primary colors and friendship activities.",
+            "alt": "The friends pick flowers with permission from the garden helper",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "As the sun began to set, the three friends sat on a garden bench. They looked at their pretty flowers and dirty hands. 'This was the best day!' said Nia. 'Can we come back tomorrow?' 'Yes!' said Sam and Maya together. They were going to be great friends.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes sits on a wooden bench between Sam and Maya, all holding colorful flowers with slightly dirty hands. The bright sunny playground is visible in the background with inclusive, joyful energetic atmosphere showing laughter and friendship in primary colors with white space.",
+            "alt": "The three new friends sit together on a garden bench holding their flowers",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "nature exploration",
+      "community gardens",
+      "sharing",
+      "kindness"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Nia find behind the playground?",
+        "choices": [
+          "A garden",
+          "A pool",
+          "A store"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nia discovered a beautiful community garden with colorful flowers and plants behind the playground."
+      },
+      {
+        "id": "q2",
+        "question": "What did the friends use to water the plants?",
+        "choices": [
+          "Watering cans",
+          "Buckets",
+          "Hoses"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sam gave Nia a little blue watering can, and they used watering cans to gently water the plant roots."
+      },
+      {
+        "id": "q3",
+        "question": "What colors were the butterfly's wings?",
+        "choices": [
+          "Orange and black",
+          "Red and blue",
+          "Yellow and green"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nia saw a beautiful butterfly with orange and black wings on a pink flower in the garden."
+      },
+      {
+        "id": "q4",
+        "question": "Who gave the children permission to pick flowers?",
+        "choices": [
+          "Mrs. Chen",
+          "Their parents",
+          "A police officer"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mrs. Chen, the garden helper, told the children they could pick flowers because gardens are for sharing."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "garden",
+            "distractors": [
+              "house",
+              "store"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "flowers",
+            "distractors": [
+              "toys",
+              "books"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "butterfly",
+            "distractors": [
+              "bird",
+              "bee"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "pretty",
+            "distractors": [
+              "big",
+              "fast"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "id": "v2-early_reader-science-139",
+  "title": "Hiro's Bubbly Lab Day",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "science",
+    "humor"
+  ],
+  "wordCount": 296,
+  "readingLevel": "Grade 1",
+  "synopsis": "Young scientist Hiro discovers the amazing world of bubbles through fun experiments in his backyard lab, learning about shapes, colors, and the magic of science while creating spectacular bubble mixtures that lead to hilarious and wonderful results.",
+  "coverImage": "covers/v2-early_reader-science-139.webp",
+  "chapters": [
+    {
+      "title": "The Bubble Mystery",
+      "pages": [
+        {
+          "text": "Hiro loved science more than anything! In his backyard lab, he had beakers, tubes, and colorful liquids everywhere. Today, he wanted to solve a big mystery: Why are bubbles always round?",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face stands excitedly in a colorful backyard laboratory filled with scientific equipment, beakers of rainbow liquids, and floating soap bubbles all around him",
+            "alt": "Hiro in his backyard science lab surrounded by equipment and bubbles",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "He mixed soap and water in a big bowl. 'Maybe I can make square bubbles!' Hiro giggled. He dipped a square cookie cutter into the mixture and blew gently. Out came... a perfectly round bubble!",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face holding a square cookie cutter with a perfectly round bubble floating from it, his eyes wide with surprise and wonder",
+            "alt": "Hiro looking surprised at a round bubble coming from a square cookie cutter",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Next, he tried a triangle shape. Blow, blow, blow! Another round bubble! 'This is so weird!' Hiro laughed. Even with a star-shaped wand, every bubble was perfectly round. What was happening?",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face surrounded by various shaped bubble wands - triangles, stars, squares - with multiple round bubbles floating around him in a magical, colorful scene",
+            "alt": "Hiro with different shaped bubble wands creating only round bubbles",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Rainbow Bubble Surprise",
+      "pages": [
+        {
+          "text": "Hiro had a new idea. 'What if I add food coloring?' He squeezed red drops, then blue, then yellow into his bubble mixture. The liquid turned purple and green and orange all mixed up!",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face carefully adding colorful food coloring drops to a bowl, creating swirling rainbow patterns in the bubble mixture",
+            "alt": "Hiro adding colorful food coloring to his bubble mixture",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When he blew a bubble with the rainbow mixture, something amazing happened! The bubble wasn't just one color - it shimmered with all the colors of the rainbow! 'Wow!' Hiro shouted with joy.",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face blowing a magnificent iridescent bubble that displays all rainbow colors, his face lit up with pure scientific wonder and excitement",
+            "alt": "Hiro creating a beautiful rainbow-colored bubble",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "But then something funny happened. The bubble got bigger and bigger and bigger! Soon it was as big as Hiro's head! 'Oh no!' he giggled as the giant bubble wobbled toward his face.",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face backing away with a surprised and delighted expression as an enormous rainbow bubble floats toward him, nearly as big as he is",
+            "alt": "Hiro surprised by a giant rainbow bubble floating toward him",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Great Bubble Discovery",
+      "pages": [
+        {
+          "text": "POP! The giant bubble burst and covered Hiro in rainbow soap suds! He looked like a colorful snowman made of bubbles. 'I'm a bubble monster!' he roared playfully, waving his sudsy arms.",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face completely covered in colorful soap suds and foam, laughing joyfully with his arms raised like a playful monster",
+            "alt": "Hiro covered in colorful soap suds, laughing and acting like a bubble monster",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "After cleaning up, Hiro made one more discovery. He looked at a tiny bubble under his magnifying glass. 'I see why bubbles are round!' he exclaimed. 'The soap wants to make the smallest shape possible!'",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face peering through a large magnifying glass at a bubble, having a eureka moment with scientific diagrams and sparkles around him showing his discovery",
+            "alt": "Hiro examining a bubble with a magnifying glass, having a scientific revelation",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Hiro smiled proudly. He had solved the bubble mystery through experiments and discovery! 'Science is the best!' he cheered. Tomorrow, he would investigate why soap makes things slippery. Another mystery to solve!",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face standing triumphantly in his lab with his arms raised in celebration, surrounded by floating bubbles and scientific notes showing his discoveries",
+            "alt": "Hiro celebrating his scientific discovery in his bubble-filled laboratory",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "scientific discovery",
+      "experimentation",
+      "problem-solving",
+      "curiosity",
+      "learning through play"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "scientific wonder, wide-eyed discovery, colorful experiments, microscope views, science as magic, eureka moments, bubbling reactions, amazing revelations, young scientist"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What shape did all of Hiro's bubbles turn out to be?",
+        "choices": [
+          "Round",
+          "Square",
+          "Triangle"
+        ],
+        "correctIndex": 0,
+        "explanation": "Even when Hiro used square and triangle-shaped bubble wands, all the bubbles came out round because soap naturally forms the smallest possible shape."
+      },
+      {
+        "id": "q2",
+        "question": "What did Hiro add to his bubble mixture to make it colorful?",
+        "choices": [
+          "Paint",
+          "Food coloring",
+          "Markers"
+        ],
+        "correctIndex": 1,
+        "explanation": "Hiro added red, blue, and yellow food coloring drops to his bubble mixture to create rainbow-colored bubbles."
+      },
+      {
+        "id": "q3",
+        "question": "What happened when Hiro's giant bubble popped?",
+        "choices": [
+          "He got covered in colorful soap suds",
+          "It made a loud noise",
+          "It disappeared completely"
+        ],
+        "correctIndex": 0,
+        "explanation": "When the giant bubble burst, it covered Hiro in rainbow soap suds, making him look like a colorful bubble monster."
+      },
+      {
+        "id": "q4",
+        "question": "How did Hiro figure out why bubbles are round?",
+        "choices": [
+          "He asked his teacher",
+          "He looked at a bubble with a magnifying glass",
+          "He read it in a book"
+        ],
+        "correctIndex": 1,
+        "explanation": "Hiro used a magnifying glass to examine a tiny bubble closely, which helped him discover that soap makes the smallest shape possible."
+      },
+      {
+        "id": "q5",
+        "question": "What does Hiro want to investigate next?",
+        "choices": [
+          "Why soap makes things slippery",
+          "How to make bigger bubbles",
+          "What bubbles taste like"
+        ],
+        "correctIndex": 0,
+        "explanation": "At the end of the story, Hiro says he wants to investigate why soap makes things slippery as his next scientific mystery."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "science",
+            "distractors": [
+              "magic",
+              "games"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "round",
+            "distractors": [
+              "flat",
+              "big"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 5,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "rainbow",
+            "distractors": [
+              "purple",
+              "green"
+            ]
+          },
+          {
+            "wordIndex": 22,
+            "correctWord": "shimmered",
+            "distractors": [
+              "bounced",
+              "melted"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 8,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "discovery",
+            "distractors": [
+              "game",
+              "trick"
+            ]
+          },
+          {
+            "wordIndex": 25,
+            "correctWord": "experiments",
+            "distractors": [
+              "guessing",
+              "magic"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

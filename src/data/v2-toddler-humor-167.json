@@ -1,0 +1,212 @@
+{
+  "id": "v2-toddler-humor-167",
+  "title": "Ivy's Magic Banana Disaster",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "humor",
+    "fantasy"
+  ],
+  "wordCount": 183,
+  "readingLevel": "Pre-K",
+  "synopsis": "When Ivy finds a magical banana, her simple snack turns into a hilarious adventure filled with bouncing mishaps and silly surprises that teach her sometimes the best magic is sharing with friends.",
+  "coverImage": "covers/v2-toddler-humor-167.webp",
+  "chapters": [
+    {
+      "title": "The Bouncy Banana",
+      "pages": [
+        {
+          "text": "Ivy was very hungry. She opened the fruit bowl and found a yellow banana. But this banana was different - it sparkled like glitter!",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes stands in a bright kitchen, eyes wide with wonder, looking at a sparkling golden banana floating above a colorful fruit bowl, magical sparkles dancing around it",
+            "alt": "Ivy discovers a magical sparkling banana",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When Ivy peeled the banana, something amazing happened. BOING! The banana started bouncing around the kitchen like a rubber ball!",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes ducks comically as the peeled banana bounces wildly around the kitchen, her hair flying up, mouth open in surprise, banana leaving a trail of sparkles as it ricochets off pots and pans",
+            "alt": "The magical banana bounces around the kitchen while Ivy ducks",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "BONK! The banana hit the ceiling. SPLASH! It landed in the dog's water bowl. The banana was getting very silly!",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes points up at the ceiling with exaggerated shock, the banana making a huge splash in a dog bowl, water drops flying everywhere, a confused cartoon dog with bulging eyes watching",
+            "alt": "The banana makes a splash in the dog's water bowl",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Stop, banana!\" giggled Ivy. But the banana kept bouncing - out the door and into the garden where it bounced on flowers and made them grow super tall!",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes chases after the banana in the garden, arms stretched out, flowers shooting up like rockets around her as the banana bounces on them, her expression delighted and cartoonish",
+            "alt": "Ivy chases the banana as it makes flowers grow tall",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Banana Friends",
+      "pages": [
+        {
+          "text": "The bouncing banana rolled into the sandbox where Ivy's friends were playing. \"What's that?\" asked Ben. \"It's my magic banana!\" Ivy laughed.",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes stands by a sandbox pointing at the banana with huge excitement, three cartoon children with exaggerated surprised expressions stare at the sparkling banana in the sand",
+            "alt": "Ivy shows her friends the magic banana in the sandbox",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The banana started bouncing again - BOING, BOING, BOING! It bounced on everyone's heads like they were drums! The children giggled and giggled.",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes and her friends all have the banana bouncing on their heads in sequence, their hair squashing down comically with each bounce, all laughing with mouths wide open and eyes squeezed shut with joy",
+            "alt": "The banana bounces on all the children's heads",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Finally, the tired banana stopped bouncing. It split into four perfect pieces - one for each friend! \"Magic bananas taste the best when shared,\" said Ivy.",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes sits in a circle with three friends, all holding banana pieces with huge smiles, sparkles fading gently around them, the banana pieces glowing softly with leftover magic",
+            "alt": "Ivy and friends share the magical banana pieces",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "From that day on, Ivy always checked the fruit bowl for magic. You never know what might start bouncing next!",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes peers into the fruit bowl with a magnifying glass, various fruits glowing with different colors, her expression hopeful and mischievous, kitchen sparkling with potential magic",
+            "alt": "Ivy searches for more magical fruit",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "sharing",
+      "imagination",
+      "magic",
+      "silliness"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What made Ivy's banana special?",
+        "choices": [
+          "It sparkled like glitter",
+          "It was very big",
+          "It was green"
+        ],
+        "correctIndex": 0,
+        "explanation": "The banana was special because it sparkled like glitter and was magical!"
+      },
+      {
+        "id": "q2",
+        "question": "What did the banana do when Ivy peeled it?",
+        "choices": [
+          "It started bouncing",
+          "It disappeared",
+          "It turned purple"
+        ],
+        "correctIndex": 0,
+        "explanation": "When Ivy peeled the banana, it started bouncing around like a rubber ball!"
+      },
+      {
+        "id": "q3",
+        "question": "What happened to the flowers when the banana bounced on them?",
+        "choices": [
+          "They grew super tall",
+          "They turned blue",
+          "They made music"
+        ],
+        "correctIndex": 0,
+        "explanation": "The magic banana made the flowers grow super tall when it bounced on them!"
+      },
+      {
+        "id": "q4",
+        "question": "How many pieces did the banana split into?",
+        "choices": [
+          "Four pieces",
+          "Two pieces",
+          "Six pieces"
+        ],
+        "correctIndex": 0,
+        "explanation": "The banana split into four perfect pieces - one for each friend to share!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "banana",
+            "distractors": [
+              "apple",
+              "orange"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "sparkled",
+            "distractors": [
+              "jumped",
+              "talked"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "bouncing",
+            "distractors": [
+              "sleeping",
+              "singing"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "flowers",
+            "distractors": [
+              "rocks",
+              "cars"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 7,
+        "blanks": [
+          {
+            "wordIndex": 10,
+            "correctWord": "shared",
+            "distractors": [
+              "hidden",
+              "thrown"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

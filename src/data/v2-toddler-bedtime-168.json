@@ -1,0 +1,209 @@
+{
+  "id": "v2-toddler-bedtime-168",
+  "title": "Theo's Sleepy Moon Journey",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "bedtime",
+    "feelings"
+  ],
+  "wordCount": 144,
+  "readingLevel": "Pre-K",
+  "synopsis": "When little Theo feels too excited to sleep, a gentle moon takes him on a magical journey to learn about peaceful bedtime feelings and find his way to dreamland.",
+  "coverImage": "covers/v2-toddler-bedtime-168.webp",
+  "chapters": [
+    {
+      "title": "Too Excited to Sleep",
+      "pages": [
+        {
+          "text": "Theo bounced on his bed. His heart felt jumpy and excited. \"I don't want to sleep!\" he said. \"I want to play more!\"",
+          "illustration": {
+            "description": "A little boy with short curly blonde hair, light skin, round blue eyes bouncing on a bed in soft watercolor style with dreamy purple and blue gradients, glowing stars twinkling outside the window, gentle moonlight streaming in, ethereal atmosphere with pastel palette",
+            "alt": "Theo bouncing excitedly on his bed at bedtime",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Through his window, a gentle moon smiled down at Theo. \"I can help you find sleepy feelings,\" whispered the moon softly.",
+          "illustration": {
+            "description": "A kind moon face glowing softly outside a window, looking at a little boy with short curly blonde hair, light skin, round blue eyes, painted in soft watercolor with dreamy purple and blue gradients, floating clouds, round sleepy faces, gentle moonlight, ethereal atmosphere with pastel palette",
+            "alt": "The gentle moon talking to Theo through his bedroom window",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Flying with the Moon",
+      "pages": [
+        {
+          "text": "The moon lifted Theo gently into the starry sky. \"Look,\" said the moon. \"See how the flowers close their petals? They feel peaceful now.\"",
+          "illustration": {
+            "description": "A little boy with short curly blonde hair, light skin, round blue eyes floating through a starry night sky with the moon, surrounded by glowing stars and floating clouds in soft watercolor style with dreamy purple and blue gradients, gentle moonlight, ethereal atmosphere with pastel palette",
+            "alt": "Theo flying through the night sky with the moon",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "They floated past sleeping animals. \"The bunny feels calm,\" said the moon. \"The bird feels quiet. These are sleepy feelings, just like you can feel.\"",
+          "illustration": {
+            "description": "Peaceful sleeping animals in a dreamy landscape with a little boy with short curly blonde hair, light skin, round blue eyes and the moon watching them, painted in soft watercolor with dreamy purple and blue gradients, glowing stars, round sleepy faces on the animals, gentle moonlight, ethereal atmosphere with pastel palette",
+            "alt": "Theo and the moon observing sleeping animals",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Finding Sleepy Feelings",
+      "pages": [
+        {
+          "text": "Theo's jumpy feelings began to change. His heart felt slower and calmer. \"I think I feel sleepy now,\" he yawned.",
+          "illustration": {
+            "description": "A little boy with short curly blonde hair, light skin, round blue eyes yawning peacefully while floating in the night sky, surrounded by floating clouds and glowing stars in soft watercolor style with dreamy purple and blue gradients, gentle moonlight, ethereal atmosphere with pastel palette",
+            "alt": "Theo yawning and feeling sleepy in the starry sky",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The moon carried Theo back to his cozy bed. \"Now you know how to find your sleepy feelings,\" the moon whispered. Theo smiled and closed his eyes, feeling peaceful and calm.",
+          "illustration": {
+            "description": "A little boy with short curly blonde hair, light skin, round blue eyes sleeping peacefully in his bed with the gentle moon glowing softly outside, painted in soft watercolor with dreamy purple and blue gradients, glowing stars, floating clouds, gentle moonlight streaming through window, ethereal atmosphere with pastel palette",
+            "alt": "Theo sleeping peacefully in his bed with the moon watching over him",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "managing excitement",
+      "finding calm",
+      "peaceful feelings",
+      "moon magic"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Theo feel at the beginning of the story?",
+        "choices": [
+          "excited and jumpy",
+          "sleepy and calm",
+          "sad and worried"
+        ],
+        "correctIndex": 0,
+        "explanation": "Theo felt excited and jumpy - his heart felt jumpy and he wanted to play more instead of sleep."
+      },
+      {
+        "id": "q2",
+        "question": "Who helped Theo find his sleepy feelings?",
+        "choices": [
+          "the gentle moon",
+          "his teddy bear",
+          "his mommy"
+        ],
+        "correctIndex": 0,
+        "explanation": "The gentle moon helped Theo by taking him on a journey to learn about peaceful, sleepy feelings."
+      },
+      {
+        "id": "q3",
+        "question": "What did the moon show Theo to help him feel calm?",
+        "choices": [
+          "sleeping animals and closing flowers",
+          "toys and games",
+          "loud music"
+        ],
+        "correctIndex": 0,
+        "explanation": "The moon showed Theo sleeping animals and flowers closing their petals to demonstrate peaceful, sleepy feelings."
+      },
+      {
+        "id": "q4",
+        "question": "How did Theo feel at the end of the story?",
+        "choices": [
+          "peaceful and calm",
+          "excited and bouncy",
+          "scared and worried"
+        ],
+        "correctIndex": 0,
+        "explanation": "At the end, Theo felt peaceful and calm, and was able to close his eyes and go to sleep."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "bounced",
+            "distractors": [
+              "jumped",
+              "ran"
+            ]
+          },
+          {
+            "wordIndex": 8,
+            "correctWord": "excited",
+            "distractors": [
+              "sleepy",
+              "hungry"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "gently",
+            "distractors": [
+              "quickly",
+              "loudly"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "peaceful",
+            "distractors": [
+              "loud",
+              "bright"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 5,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "calm",
+            "distractors": [
+              "loud",
+              "fast"
+            ]
+          },
+          {
+            "wordIndex": 10,
+            "correctWord": "sleepy",
+            "distractors": [
+              "hungry",
+              "angry"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

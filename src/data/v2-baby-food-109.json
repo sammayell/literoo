@@ -1,0 +1,147 @@
+{
+  "id": "v2-baby-food-109",
+  "title": "Chloe's Animal Cookie Party",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "food",
+    "animals"
+  ],
+  "wordCount": 85,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Chloe discovers magical animal-shaped cookies that come to life, leading to a delightful cooking adventure and feast celebration with her new animal friends.",
+  "coverImage": "covers/v2-baby-food-109.webp",
+  "chapters": [
+    {
+      "title": "Cookie Friends Come to Life",
+      "pages": [
+        {
+          "text": "Chloe found special cookies in the kitchen. Round cookies. Square cookies. Animal cookies too!",
+          "illustration": {
+            "description": "A little girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes discovers a magical cookie jar filled with sparkling animal-shaped cookies. Steam and golden sparkles swirl around the delicious treats with exaggerated proportions.",
+            "alt": "Chloe discovering magical animal cookies",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The bunny cookie wiggled. The cat cookie purred. The bear cookie danced around!",
+          "illustration": {
+            "description": "Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes watches in wonder as three oversized animal cookies come to life - a bunny, cat, and bear cookie with magical sparkles and steam drips around them.",
+            "alt": "Animal cookies coming to life",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Let's cook together!\" said the bunny cookie. Chloe clapped her hands with joy.",
+          "illustration": {
+            "description": "The bunny cookie speaks to Chloe, who has short wavy strawberry-blonde hair, light skin, blue-gray eyes. She claps excitedly in a magical kitchen scene with yummy visual elements and feast celebration atmosphere.",
+            "alt": "Bunny cookie talking to happy Chloe",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "They mixed flour. They stirred batter. The cat cookie added milk. Yum, yum, yum!",
+          "illustration": {
+            "description": "Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes cooking alongside the animal cookies in a delicious cooking scene with exaggerated proportions, magical sparkles, and appetizing ingredients floating around.",
+            "alt": "Chloe and animal cookies cooking together",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "More animal friends appeared! Duck cookies, pig cookies, cow cookies joined the fun.",
+          "illustration": {
+            "description": "Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes surrounded by many different animal cookies - ducks, pigs, cows - all with magical sparkles and steam, creating a diverse feast celebration scene.",
+            "alt": "Many animal cookie friends joining Chloe",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "They made a big cake together. It was the best cookie party ever! Chloe hugged her new friends.",
+          "illustration": {
+            "description": "Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes hugging all her animal cookie friends around a magnificent, oversized magical cake with steam drips, sparkles, and food joy radiating from the delicious feast celebration.",
+            "alt": "Chloe hugging cookie friends at their party",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "cooking",
+      "imagination",
+      "sharing"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "delicious appetizing food, exaggerated proportions, steam drips sparkles, magical food, diverse cuisines, feast celebration, cooking scenes, yummy visual, food joy"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Chloe find in the kitchen?",
+        "choices": [
+          "cookies",
+          "apples"
+        ],
+        "correctIndex": 0,
+        "explanation": "Chloe found special animal-shaped cookies that came to life!"
+      },
+      {
+        "id": "q2",
+        "question": "What did the bunny cookie want to do?",
+        "choices": [
+          "cook together",
+          "sleep"
+        ],
+        "correctIndex": 0,
+        "explanation": "The bunny cookie asked Chloe to cook together, and they had lots of fun!"
+      },
+      {
+        "id": "q3",
+        "question": "What did they make at the end?",
+        "choices": [
+          "a big cake",
+          "soup"
+        ],
+        "correctIndex": 0,
+        "explanation": "Chloe and all her animal cookie friends made a wonderful big cake together!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "cookies",
+            "distractors": [
+              "toys",
+              "books"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "mixed",
+            "distractors": [
+              "threw",
+              "hid"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

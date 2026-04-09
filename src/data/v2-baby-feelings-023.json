@@ -1,0 +1,139 @@
+{
+  "id": "v2-baby-feelings-023",
+  "title": "Lily's Colorful Feelings",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "feelings",
+    "colors"
+  ],
+  "wordCount": 62,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Lily discovers that feelings have colors as she experiences different emotions throughout her day, from red anger to blue sadness to bright yellow happiness.",
+  "coverImage": "covers/v2-baby-feelings-023.webp",
+  "chapters": [
+    {
+      "title": "Lily's Colorful Feelings",
+      "pages": [
+        {
+          "text": "This is Lily. Lily has many feelings.",
+          "illustration": {
+            "description": "A young girl with long curly auburn hair, fair skin with light freckles, green eyes standing in the center surrounded by swirling colors representing different emotions - red, blue, yellow, and purple abstract shapes floating around her",
+            "alt": "Lily surrounded by colorful emotion swirls",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When Lily is mad, she feels RED. Red like fire. Red like stop.",
+          "illustration": {
+            "description": "Lily with long curly auburn hair, fair skin with light freckles, green eyes with an angry expression, surrounded by intense red swirls and jagged shapes creating an abstract angry background",
+            "alt": "Angry Lily with red swirls around her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When Lily is sad, she feels BLUE. Blue like rain. Blue like tears.",
+          "illustration": {
+            "description": "Lily with long curly auburn hair, fair skin with light freckles, green eyes looking sad with tears, blue raindrops falling around her against a deep blue abstract background",
+            "alt": "Sad Lily with blue rain around her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When Lily is happy, she feels YELLOW. Yellow like sunshine. Yellow like smiles.",
+          "illustration": {
+            "description": "Lily with long curly auburn hair, fair skin with light freckles, green eyes smiling brightly, surrounded by bright yellow sunshine rays and cheerful yellow abstract shapes",
+            "alt": "Happy Lily with yellow sunshine around her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "All feelings are okay. Red feelings. Blue feelings. Yellow feelings. Lily loves all her colorful feelings!",
+          "illustration": {
+            "description": "Lily with long curly auburn hair, fair skin with light freckles, green eyes with arms outstretched, embracing a beautiful rainbow of emotion colors - red, blue, yellow swirling harmoniously around her",
+            "alt": "Lily embracing all her colorful feelings",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotional awareness",
+      "color recognition",
+      "self-acceptance",
+      "feelings validation"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "emotion mapped colors, angry red swirls, sad blue rain, happy yellow sunshine, abstract emotion backgrounds, Inside Out inspired, feeling visualization, color psychology"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color does Lily feel when she is mad?",
+        "choices": [
+          "Red",
+          "Blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "When Lily is mad, she feels RED like fire and like stop signs."
+      },
+      {
+        "id": "q2",
+        "question": "What color does Lily feel when she is sad?",
+        "choices": [
+          "Yellow",
+          "Blue"
+        ],
+        "correctIndex": 1,
+        "explanation": "When Lily is sad, she feels BLUE like rain and like tears."
+      },
+      {
+        "id": "q3",
+        "question": "What color does Lily feel when she is happy?",
+        "choices": [
+          "Yellow",
+          "Red"
+        ],
+        "correctIndex": 0,
+        "explanation": "When Lily is happy, she feels YELLOW like sunshine and like smiles."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 7,
+            "correctWord": "RED",
+            "distractors": [
+              "BLUE",
+              "GREEN"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 7,
+            "correctWord": "BLUE",
+            "distractors": [
+              "RED",
+              "YELLOW"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

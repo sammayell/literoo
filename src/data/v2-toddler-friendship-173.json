@@ -1,0 +1,183 @@
+{
+  "id": "v2-toddler-friendship-173",
+  "title": "Nia's Garden Friends",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "nature"
+  ],
+  "wordCount": 251,
+  "readingLevel": "Pre-K",
+  "synopsis": "Nia discovers the magic of friendship while exploring a sunny garden playground, meeting new friends and learning how nature brings everyone together through play and sharing.",
+  "coverImage": "covers/v2-toddler-friendship-173.webp",
+  "chapters": [
+    {
+      "title": "New Friends in the Garden",
+      "pages": [
+        {
+          "text": "Nia loved playing in the big garden park. She skipped along the sunny paths with her colorful jump rope. The flowers were blooming and the birds were singing happy songs.",
+          "illustration": {
+            "description": "A young girl with long braids with colorful beads, dark brown skin, warm kind eyes skipping through a bright sunny garden playground with blooming flowers, butterflies, and chirping birds. Primary colors fill the scene with lots of white space.",
+            "alt": "Nia skipping through a colorful garden with flowers and birds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "By the flower beds, Nia saw a boy with curly red hair picking dandelions. 'Hi!' said Nia. 'I'm making wishes,' said Sam. 'Can I help?' asked Nia. 'Yes! We can make wishes together!'",
+          "illustration": {
+            "description": "A young girl with long braids with colorful beads, dark brown skin, warm kind eyes standing next to a boy with curly red hair in a bright sunny playground garden. They're surrounded by yellow dandelions with primary colors and white space, both children smiling joyfully.",
+            "alt": "Nia and Sam picking dandelions together in the garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Nia and Sam blew their dandelion wishes into the wind. The fluffy seeds danced in the air like tiny parachutes. They giggled as the seeds tickled their noses.",
+          "illustration": {
+            "description": "A young girl with long braids with colorful beads, dark brown skin, warm kind eyes and a red-haired boy blowing dandelion seeds in a bright sunny playground setting. White dandelion seeds float through the air with primary colors and lots of white space, showing friendship activities.",
+            "alt": "Nia and Sam blowing dandelion seeds into the wind",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Near the big oak tree, they found Maya sitting quietly. She was watching a family of squirrels. 'They're so cute!' whispered Nia. 'Want to watch with us?' Maya smiled and nodded yes.",
+          "illustration": {
+            "description": "A young girl with long braids with colorful beads, dark brown skin, warm kind eyes, a red-haired boy, and a girl with black pigtails sitting under a large oak tree in a bright sunny playground. Squirrels play nearby with primary colors, white space, and joyful energetic feeling showing inclusive friendship.",
+            "alt": "Three children watching squirrels under an oak tree",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Playing Together in Nature",
+      "pages": [
+        {
+          "text": "The three friends decided to explore more of the garden together. They found a patch of soft grass perfect for rolling down the little hill. 'Race you to the bottom!' called Nia.",
+          "illustration": {
+            "description": "A young girl with long braids with colorful beads, dark brown skin, warm kind eyes and two other diverse children rolling down a grassy hill in a bright sunny playground setting. Primary colors and white space show laughter and joyful energetic friendship activities in nature.",
+            "alt": "Nia and friends rolling down a grassy hill together",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "They tumbled and laughed at the bottom of the hill. Grass was in their hair and on their clothes. Maya found a pretty blue butterfly landing on her hand. 'Look!' she whispered excitedly.",
+          "illustration": {
+            "description": "A young girl with long braids with colorful beads, dark brown skin, warm kind eyes and two diverse kids sitting in grass with a blue butterfly on one child's hand. Bright sunny playground atmosphere with primary colors, white space, showing inclusive friendship and nature connection.",
+            "alt": "Children sitting in grass watching a butterfly",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "As the sun began to set, the friends made plans to meet again tomorrow. 'We can plant flower seeds!' said Sam. 'And watch them grow together!' added Maya. Nia hugged her new friends tight.",
+          "illustration": {
+            "description": "A young girl with long braids with colorful beads, dark brown skin, warm kind eyes hugging two diverse children in a bright sunny playground garden setting. Sunset colors mix with primary colors, lots of white space, showing joyful energetic friendship activities with park elements visible in background.",
+            "alt": "Nia hugging her new friends as the sun sets in the garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Walking home, Nia felt so happy. She had made two wonderful friends in the garden. Tomorrow they would plant seeds and watch beautiful things grow, just like their friendship.",
+          "illustration": {
+            "description": "A young girl with long braids with colorful beads, dark brown skin, warm kind eyes walking on a path through a bright sunny playground garden. Primary colors and white space create a joyful energetic scene with flowers and nature elements showing the inclusive, friendship-filled day ending peacefully.",
+            "alt": "Nia walking happily through the garden at sunset",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "nature exploration",
+      "kindness",
+      "sharing",
+      "outdoor play"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What was Sam doing when Nia first met him?",
+        "choices": [
+          "Picking dandelions",
+          "Climbing trees",
+          "Running around"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sam was picking dandelions to make wishes when Nia found him by the flower beds."
+      },
+      {
+        "id": "q2",
+        "question": "What animal were the children watching under the oak tree?",
+        "choices": [
+          "Birds",
+          "Squirrels",
+          "Cats"
+        ],
+        "correctIndex": 1,
+        "explanation": "Maya was watching a family of squirrels under the big oak tree when Nia and Sam joined her."
+      },
+      {
+        "id": "q3",
+        "question": "What did the friends want to plant together?",
+        "choices": [
+          "Flower seeds",
+          "Vegetables",
+          "Trees"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sam suggested they could plant flower seeds and watch them grow together, just like their friendship."
+      },
+      {
+        "id": "q4",
+        "question": "What landed on Maya's hand?",
+        "choices": [
+          "A butterfly",
+          "A bird",
+          "A leaf"
+        ],
+        "correctIndex": 0,
+        "explanation": "A pretty blue butterfly landed on Maya's hand while the friends were sitting in the grass."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "garden",
+            "distractors": [
+              "house",
+              "store"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "squirrels",
+            "distractors": [
+              "rabbits",
+              "puppies"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

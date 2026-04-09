@@ -1,0 +1,175 @@
+{
+  "id": "v2-toddler-friendship-123",
+  "title": "Lily's Nature Friends",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "nature"
+  ],
+  "wordCount": 115,
+  "readingLevel": "Pre-K",
+  "synopsis": "Lily discovers new friends in the park and learns how nature brings everyone together through play and exploration.",
+  "coverImage": "covers/v2-toddler-friendship-123.webp",
+  "chapters": [
+    {
+      "title": "Friends in the Park",
+      "pages": [
+        {
+          "text": "Lily loves playing in the sunny park. She runs to the big oak tree where birds sing happy songs.",
+          "illustration": {
+            "description": "Lily with long curly auburn hair, fair skin with light freckles, green eyes running toward a large oak tree in a bright sunny playground with diverse kids playing in the background, primary colors dominating the scene with white space around the edges",
+            "alt": "Girl with curly auburn hair running to an oak tree in a colorful park",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Under the tree, Lily meets Sam and Maya. They are watching butterflies dance around the colorful flowers.",
+          "illustration": {
+            "description": "Lily with long curly auburn hair, fair skin with light freckles, green eyes sitting with two diverse children under an oak tree, watching butterflies flutter around bright flowers in a joyful energetic park setting with primary colors",
+            "alt": "Three children watching butterflies under a tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The three friends decide to explore together. They find a family of rabbits hopping near the playground swings.",
+          "illustration": {
+            "description": "Lily with long curly auburn hair, fair skin with light freckles, green eyes walking hand-in-hand with two diverse friends toward park swings where small rabbits are hopping, bright sunny playground atmosphere with primary colors and white space",
+            "alt": "Three friends walking together toward swings with rabbits nearby",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Nature's Playground",
+      "pages": [
+        {
+          "text": "Sam shows Lily and Maya how to make leaf boats. They float them in the small pond near the slides.",
+          "illustration": {
+            "description": "Lily with long curly auburn hair, fair skin with light freckles, green eyes crouching by a pond with her diverse friends, floating leaf boats in the water with playground slides visible in the background, bright sunny inclusive park scene with primary colors",
+            "alt": "Children floating leaf boats in a pond near playground slides",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Maya finds smooth stones to skip. The friends take turns, laughing as the stones hop across the water like frogs.",
+          "illustration": {
+            "description": "Lily with long curly auburn hair, fair skin with light freckles, green eyes and her diverse friends skipping stones across a pond, with laughter and friendship activities captured in a joyful energetic scene using primary colors with white space",
+            "alt": "Friends skipping stones across a pond while laughing together",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "As the sun sets, the new friends promise to meet again tomorrow. Nature has given them the best playground of all!",
+          "illustration": {
+            "description": "Lily with long curly auburn hair, fair skin with light freckles, green eyes waving goodbye to her diverse friends in a bright sunny playground at sunset, with park swings and slides in the background, emphasizing friendship and inclusive play with primary colors",
+            "alt": "Friends saying goodbye in the park at sunset",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "nature exploration",
+      "outdoor play",
+      "cooperation",
+      "discovery"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where does Lily like to play?",
+        "choices": [
+          "in the park",
+          "at home",
+          "at school"
+        ],
+        "correctIndex": 0,
+        "explanation": "Lily loves playing in the sunny park where she meets her friends."
+      },
+      {
+        "id": "q2",
+        "question": "What do the friends watch under the tree?",
+        "choices": [
+          "butterflies",
+          "cars",
+          "clouds"
+        ],
+        "correctIndex": 0,
+        "explanation": "Lily, Sam, and Maya watch butterflies dancing around the colorful flowers."
+      },
+      {
+        "id": "q3",
+        "question": "What do they make with leaves?",
+        "choices": [
+          "boats",
+          "hats",
+          "pictures"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sam shows the friends how to make leaf boats to float in the pond."
+      },
+      {
+        "id": "q4",
+        "question": "When will the friends meet again?",
+        "choices": [
+          "tomorrow",
+          "next week",
+          "never"
+        ],
+        "correctIndex": 0,
+        "explanation": "The friends promise to meet again tomorrow to play in their nature playground."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "tree",
+            "distractors": [
+              "house",
+              "car"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "butterflies",
+            "distractors": [
+              "dogs",
+              "trucks"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "boats",
+            "distractors": [
+              "toys",
+              "shoes"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

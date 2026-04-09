@@ -1,0 +1,167 @@
+{
+  "id": "v2-toddler-school-039",
+  "title": "Hiro's Animal School Day",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "school",
+    "animals"
+  ],
+  "wordCount": 185,
+  "readingLevel": "Pre-K",
+  "synopsis": "Hiro discovers different animal friends at his new school and learns what makes each one special during his first exciting day.",
+  "coverImage": "covers/v2-toddler-school-039.webp",
+  "chapters": [
+    {
+      "title": "Meeting New Friends",
+      "pages": [
+        {
+          "text": "Hiro walked into his new classroom. He felt a little nervous but excited too. The room was full of animal friends! A fluffy bunny hopped over to say hello. 'Hi! I'm Bella Bunny,' she said with a wiggle of her pink nose. 'Want to play with blocks?'",
+          "illustration": {
+            "description": "Chalkboard style drawing showing a boy with short straight black hair, light skin, bright dark brown eyes, round face standing in a classroom doorway, with a white chalk bunny hopping nearby and colorful chalk block drawings scattered on the dark green board background",
+            "alt": "Hiro meeting Bella Bunny in the classroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Next, Hiro met Oliver Owl who wore tiny glasses. 'Hoot hoot! I love to read books,' said Oliver. 'Would you like to look at picture books with me?' Then Penny Puppy bounded over, wagging her tail. 'Woof! Let's paint pictures together!' she barked happily.",
+          "illustration": {
+            "description": "Chalkboard style drawing of a boy with short straight black hair, light skin, bright dark brown eyes, round face sitting with a white chalk owl wearing glasses and a chalk puppy with a wagging tail, surrounded by book and paintbrush doodles on the dark green board",
+            "alt": "Hiro with Oliver Owl and Penny Puppy",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Learning and Playing",
+      "pages": [
+        {
+          "text": "At circle time, all the animal friends sat together. Miss Cat, their teacher, asked everyone to share something special about themselves. Bella said she could hop really high. Oliver said he could see in the dark. Penny said she had the best nose for sniffing.",
+          "illustration": {
+            "description": "Chalkboard style drawing showing a boy with short straight black hair, light skin, bright dark brown eyes, round face sitting in a circle with chalk-drawn animal friends and a cat teacher, with simple math equations and alphabet letters doodled around the edges of the dark green board",
+            "alt": "Circle time with Hiro and his animal friends",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When it was Hiro's turn, he smiled big. 'I can be a good friend to everyone!' he said. All the animals cheered. They spent the rest of the day playing, learning letters, and having snack time together. Hiro loved his new school and couldn't wait to come back tomorrow.",
+          "illustration": {
+            "description": "Chalkboard style drawing of a smiling boy with short straight black hair, light skin, bright dark brown eyes, round face surrounded by happy chalk-drawn animals, with colorful chalk hearts, stars, and simple addition problems scattered on the dark green board background",
+            "alt": "Happy Hiro with all his new animal friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "school",
+      "acceptance",
+      "diversity",
+      "kindness"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Bella Bunny want to play with?",
+        "choices": [
+          "blocks",
+          "books",
+          "paints"
+        ],
+        "correctIndex": 0,
+        "explanation": "Bella Bunny asked Hiro if he wanted to play with blocks when they first met."
+      },
+      {
+        "id": "q2",
+        "question": "Who wore tiny glasses?",
+        "choices": [
+          "Penny Puppy",
+          "Oliver Owl",
+          "Bella Bunny"
+        ],
+        "correctIndex": 1,
+        "explanation": "Oliver Owl wore tiny glasses and loved to read books."
+      },
+      {
+        "id": "q3",
+        "question": "What special thing did Hiro share about himself?",
+        "choices": [
+          "he can be a good friend",
+          "he can hop high",
+          "he can see in the dark"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hiro said he could be a good friend to everyone during circle time."
+      },
+      {
+        "id": "q4",
+        "question": "Who was their teacher?",
+        "choices": [
+          "Miss Dog",
+          "Miss Cat",
+          "Miss Bird"
+        ],
+        "correctIndex": 1,
+        "explanation": "Miss Cat was their teacher who led circle time."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "nervous",
+            "distractors": [
+              "happy",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "animal",
+            "distractors": [
+              "robot",
+              "toy"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "glasses",
+            "distractors": [
+              "hat",
+              "bow"
+            ]
+          },
+          {
+            "wordIndex": 22,
+            "correctWord": "tail",
+            "distractors": [
+              "paw",
+              "ear"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

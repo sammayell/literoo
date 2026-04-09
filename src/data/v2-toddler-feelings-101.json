@@ -1,0 +1,204 @@
+{
+  "id": "v2-toddler-feelings-101",
+  "title": "Emma's Big Feelings",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "feelings",
+    "family"
+  ],
+  "wordCount": 288,
+  "readingLevel": "Pre-K",
+  "synopsis": "Emma learns to understand and express her big feelings with help from her loving family through everyday moments of anger, sadness, and joy.",
+  "coverImage": "covers/v2-toddler-feelings-101.webp",
+  "chapters": [
+    {
+      "title": "When Emma Feels Mad",
+      "pages": [
+        {
+          "text": "Emma wanted to build a tall tower with her blocks. She stacked them high, higher, highest! But then... CRASH! The tower fell down. Emma's face turned red. Her hands made tight fists. She felt MAD!",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks stands next to fallen blocks, surrounded by swirling angry red clouds and jagged lightning-like shapes representing her mad feelings",
+            "alt": "Emma looking angry with red swirls around her and fallen toy blocks",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Emma stomped her feet. She wanted to throw the blocks! But Mama came over and sat down beside her. 'I see you're feeling mad,' Mama said softly. 'It's okay to feel mad when things don't work the way we want.'",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks sitting next to her mother, with the angry red swirls slowly mixing with calming purple and blue colors in the background",
+            "alt": "Emma and her mother sitting together with red and calming colors around them",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama helped Emma take deep breaths. 'Let's breathe together,' she said. Emma breathed in... and out... in... and out. The mad feeling started to feel smaller. 'Would you like to try building again?' asked Mama. Emma nodded.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks taking deep breaths with her mother, surrounded by gentle swirling colors transitioning from red to peaceful greens and blues",
+            "alt": "Emma and mother breathing together with calming color swirls",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "When Emma Feels Sad",
+      "pages": [
+        {
+          "text": "The next day, Emma's favorite stuffed bunny was missing. She looked under her bed, in the toy box, everywhere! Emma's eyes filled with tears. Her bottom lip wobbled. She felt SAD.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks searching her room with tears in her eyes, surrounded by droopy blue rain clouds and falling blue teardrops representing her sadness",
+            "alt": "Emma looking sad while searching for her bunny with blue rain around her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Daddy found Emma crying in her room. He picked her up and gave her a big hug. 'What's wrong, little one?' he asked. Emma told him about her missing bunny. 'It's okay to cry when we're sad,' Daddy said. 'Let's look together.'",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks being hugged by her father, with the sad blue rain clouds softening into gentle misty blues and warm yellow rays starting to peek through",
+            "alt": "Emma being comforted by her father with blue and yellow colors mixing",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "They found bunny in the washing machine, all clean and fluffy! Emma's sad tears turned into happy giggles. 'Thank you for helping me, Daddy,' she said, hugging both Daddy and bunny tight.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks holding her clean bunny and hugging her father, surrounded by the blue sad colors transforming into bright, warm golden sunshine and happy sparkles",
+            "alt": "Happy Emma with her bunny and father, surrounded by golden sunshine colors",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "When Emma Feels Happy",
+      "pages": [
+        {
+          "text": "At dinner, Emma helped set the table. She carried the napkins very carefully. 'Good job, Emma!' said Mama. 'You're such a big helper!' Emma felt warm and fuzzy inside. She felt HAPPY!",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks setting the dinner table with her family, surrounded by radiant yellow sunshine, golden sparkles, and warm orange swirls representing pure happiness and joy",
+            "alt": "Emma helping at dinner table with bright yellow and golden happy colors all around",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Emma learned that all feelings are okay. Mad feelings, sad feelings, and happy feelings - they all belong inside her. And the best part? Her family would always be there to help her with every feeling, big or small.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks surrounded by her loving family, with a beautiful rainbow of emotion colors - red swirls, blue raindrops, and yellow sunshine - all blending harmoniously around them in a loving embrace",
+            "alt": "Emma with her family surrounded by a rainbow of emotion colors representing all feelings",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotional regulation",
+      "family support",
+      "expressing feelings",
+      "understanding emotions",
+      "comfort"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "emotion mapped colors, angry red swirls, sad blue rain, happy yellow sunshine, abstract emotion backgrounds, Inside Out inspired, feeling visualization, color psychology"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color represents Emma's mad feeling?",
+        "choices": [
+          "Red",
+          "Blue",
+          "Yellow"
+        ],
+        "correctIndex": 0,
+        "explanation": "Red swirls and colors show Emma's mad feelings, just like how we might feel hot and red when we're angry!"
+      },
+      {
+        "id": "q2",
+        "question": "What did Mama teach Emma to do when she felt mad?",
+        "choices": [
+          "Take deep breaths",
+          "Run away",
+          "Throw toys"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama helped Emma take deep breaths to feel calmer. Breathing in and out helps big feelings feel smaller."
+      },
+      {
+        "id": "q3",
+        "question": "Where did they find Emma's bunny?",
+        "choices": [
+          "In the washing machine",
+          "Under the bed",
+          "In the car"
+        ],
+        "correctIndex": 0,
+        "explanation": "Daddy helped Emma find her bunny in the washing machine where it was getting clean and fluffy!"
+      },
+      {
+        "id": "q4",
+        "question": "What did Emma learn about feelings?",
+        "choices": [
+          "All feelings are okay",
+          "Only happy feelings are good",
+          "Feelings should be hidden"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emma learned that all feelings - mad, sad, and happy - are okay to have, and her family will always help her with them."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "mad",
+            "distractors": [
+              "happy",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "red",
+            "distractors": [
+              "blue",
+              "green"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "sad",
+            "distractors": [
+              "mad",
+              "excited"
+            ]
+          },
+          {
+            "wordIndex": 6,
+            "correctWord": "bunny",
+            "distractors": [
+              "teddy",
+              "doll"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

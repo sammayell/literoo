@@ -1,0 +1,147 @@
+{
+  "id": "v2-baby-bedtime-101",
+  "title": "Emma's Sleepy Stars",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "bedtime",
+    "family"
+  ],
+  "wordCount": 33,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Emma gets ready for bed with help from Mama and Papa, watching the twinkling stars until she drifts off to sleep in this gentle bedtime story.",
+  "coverImage": "covers/v2-baby-bedtime-101.webp",
+  "chapters": [
+    {
+      "title": "Time for Sleep",
+      "pages": [
+        {
+          "text": "Emma yawns. Time for bed!",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks yawning in soft watercolor style with dreamy purple and blue gradients, glowing stars twinkling above, gentle moonlight streaming through a window, ethereal atmosphere with pastel palette",
+            "alt": "Emma yawning at bedtime",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama helps Emma brush teeth. Papa reads a story.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks sitting between Mama and Papa in soft watercolor with dreamy purple and blue gradients, floating clouds around them, glowing stars overhead, round sleepy faces, gentle moonlight, ethereal atmosphere, pastel palette",
+            "alt": "Emma with Mama and Papa getting ready for bed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Emma looks up. Pretty stars twinkle. Night, night stars!",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks lying in bed looking up at glowing stars in soft watercolor style with dreamy purple and blue gradients, floating clouds, round sleepy face, gentle moonlight, ethereal atmosphere, pastel palette",
+            "alt": "Emma looking at twinkling stars from her bed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Emma closes eyes. Stars watch over her. Sweet dreams, Emma!",
+          "illustration": {
+            "description": "Sleeping Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks peaceful in bed with soft watercolor dreamy purple and blue gradients, glowing stars watching over her, floating clouds, round sleepy face, gentle moonlight, ethereal atmosphere, pastel palette",
+            "alt": "Emma sleeping peacefully under the stars",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "family love",
+      "peaceful sleep",
+      "stars and night"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Emma do when she's sleepy?",
+        "choices": [
+          "yawn",
+          "run"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emma yawns when she's sleepy because that's what we do when we're tired!"
+      },
+      {
+        "id": "q2",
+        "question": "Who helps Emma get ready for bed?",
+        "choices": [
+          "Mama and Papa",
+          "friends"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama and Papa help Emma brush her teeth and read her a story before bed."
+      },
+      {
+        "id": "q3",
+        "question": "What does Emma see in the sky?",
+        "choices": [
+          "stars",
+          "birds"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emma sees pretty twinkling stars in the sky that watch over her while she sleeps."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Emma",
+            "distractors": [
+              "Mama",
+              "Papa"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "yawns",
+            "distractors": [
+              "runs",
+              "jumps"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "stars",
+            "distractors": [
+              "birds",
+              "cars"
+            ]
+          },
+          {
+            "wordIndex": 4,
+            "correctWord": "twinkle",
+            "distractors": [
+              "hide",
+              "fall"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "id": "v2-toddler-fantasy-050",
+  "title": "Jasper and the Moonbeam Fairy",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "fantasy",
+    "friendship"
+  ],
+  "wordCount": 191,
+  "readingLevel": "Pre-K",
+  "synopsis": "A young boy named Jasper discovers a tiny fairy in his garden and helps her find her way home to the magical moonbeam tree, learning about kindness and friendship along the way.",
+  "coverImage": "covers/v2-toddler-fantasy-050.webp",
+  "chapters": [
+    {
+      "title": "The Lost Fairy",
+      "pages": [
+        {
+          "text": "Jasper was playing in his backyard when he heard a tiny tinkling sound. Behind a big flower, he found a little fairy with sparkly wings. She was crying.",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes kneeling in an enchanted garden with glowing mushrooms and fairy lights, looking at a small crying fairy with sparkly wings behind a large flower, rich greens and purples surround them with golden sparkles, Studio Ghibli inspired magical atmosphere with detailed foliage",
+            "alt": "Jasper discovers a tiny crying fairy in his magical garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Hello little fairy,\" said Jasper softly. \"Why are you sad?\" The fairy looked up with teary eyes. \"I'm lost! I can't find my way home to the moonbeam tree.\"",
+          "illustration": {
+            "description": "Close-up of Jasper with wavy reddish-brown hair, fair freckled skin, green eyes speaking gently to a small fairy with teary eyes, surrounded by mystical creatures hiding in the foliage, glowing mushrooms casting soft light, fairy lights twinkling overhead, magical atmosphere with rich greens and purples",
+            "alt": "Jasper talking kindly to the lost fairy",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Jasper's heart felt warm and caring. \"Don't worry,\" he said. \"I'll help you find your home. What does the moonbeam tree look like?\" The fairy smiled a little. \"It glows like the moon and has silver leaves.\"",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes reaching out his hand to comfort the fairy, enchanted forest background with glowing mushrooms, fairy lights creating a warm atmosphere, mystical creatures watching from behind detailed foliage, rich greens and purples with golden sparkles, Studio Ghibli inspired",
+            "alt": "Jasper offering to help the fairy find her home",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Finding the Way Home",
+      "pages": [
+        {
+          "text": "Jasper and the fairy walked through the magical garden together. They saw glowing flowers and friendly forest creatures. \"There!\" cried the fairy. \"I see the moonbeam tree!\"",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes walking alongside the fairy through an enchanted forest path, glowing mushrooms lighting their way, mystical creatures peeking out from detailed foliage, fairy lights creating magical atmosphere, rich greens and purples with golden sparkles, Studio Ghibli inspired scene",
+            "alt": "Jasper and the fairy walking through the magical forest",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The moonbeam tree was beautiful! It glowed with soft silver light and had shimmering leaves. Other fairies danced around it happily. \"Thank you, Jasper!\" said the little fairy. \"You're so kind!\"",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes standing before a magnificent glowing moonbeam tree with silver leaves, multiple fairies dancing around it, glowing mushrooms and fairy lights throughout the scene, mystical creatures celebrating, rich greens and purples with golden sparkles, magical atmosphere with detailed foliage, Studio Ghibli inspired",
+            "alt": "Jasper and the fairy arriving at the beautiful moonbeam tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The fairy gave Jasper a tiny flower that glowed like a star. \"This is for being such a good friend,\" she said. Jasper felt happy in his heart. He had made a new friend and helped someone in need.",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes holding a glowing star-like flower while smiling at the fairy, surrounded by other happy fairies near the moonbeam tree, glowing mushrooms and fairy lights creating a warm atmosphere, mystical creatures celebrating friendship, rich greens and purples with golden sparkles, Studio Ghibli inspired magical scene with detailed foliage",
+            "alt": "Jasper receiving a magical flower as a gift of friendship",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "helping others",
+      "kindness",
+      "friendship",
+      "magical adventure"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where did Jasper find the fairy?",
+        "choices": [
+          "behind a big flower",
+          "in a tree",
+          "under a rock"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jasper found the little fairy behind a big flower in his backyard garden."
+      },
+      {
+        "id": "q2",
+        "question": "Why was the fairy crying?",
+        "choices": [
+          "she was lost",
+          "she was hungry",
+          "she was tired"
+        ],
+        "correctIndex": 0,
+        "explanation": "The fairy was crying because she was lost and couldn't find her way home to the moonbeam tree."
+      },
+      {
+        "id": "q3",
+        "question": "What did the moonbeam tree look like?",
+        "choices": [
+          "it glowed like the moon with silver leaves",
+          "it was tall and brown",
+          "it had red flowers"
+        ],
+        "correctIndex": 0,
+        "explanation": "The fairy described her home as a tree that glows like the moon and has silver leaves."
+      },
+      {
+        "id": "q4",
+        "question": "What gift did the fairy give Jasper?",
+        "choices": [
+          "a flower that glowed like a star",
+          "a magic wand",
+          "a pretty stone"
+        ],
+        "correctIndex": 0,
+        "explanation": "The fairy gave Jasper a tiny flower that glowed like a star to thank him for being a good friend."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "fairy",
+            "distractors": [
+              "bird",
+              "bug"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "crying",
+            "distractors": [
+              "singing",
+              "dancing"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "moonbeam",
+            "distractors": [
+              "rainbow",
+              "sunshine"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "beautiful",
+            "distractors": [
+              "scary",
+              "small"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 5,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "friend",
+            "distractors": [
+              "toy",
+              "book"
+            ]
+          },
+          {
+            "wordIndex": 11,
+            "correctWord": "happy",
+            "distractors": [
+              "sad",
+              "angry"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

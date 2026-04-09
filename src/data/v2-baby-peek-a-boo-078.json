@@ -1,0 +1,139 @@
+{
+  "id": "v2-baby-peek-a-boo-078",
+  "title": "Yuki's Sleepy Hide and Seek",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "peek-a-boo",
+    "bedtime"
+  ],
+  "wordCount": 63,
+  "readingLevel": "baby",
+  "synopsis": "Little Yuki plays a gentle peek-a-boo game with her sleepy animal friends as bedtime approaches, finding each one hiding in cozy spots around her bedroom.",
+  "coverImage": "covers/v2-baby-peek-a-boo-078.webp",
+  "chapters": [
+    {
+      "title": "Sleepy Friends Hide",
+      "pages": [
+        {
+          "text": "Time for bed, little Yuki! But where are all your sleepy friends hiding?",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes stands in her cozy bedroom at twilight, looking around curiously with partially visible stuffed animals peeking from behind furniture",
+            "alt": "Yuki looking around her bedroom for hidden friends",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Is Bunny behind the curtain? Yes! Bunny is yawning and ready for dreams.",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes pulling back a blue curtain to reveal a sleepy white bunny, with the curtain partially concealing both characters in a playful peek-a-boo moment",
+            "alt": "Yuki finding Bunny behind the bedroom curtain",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Where is Teddy hiding? Under the soft blanket! Peek-a-boo, sleepy Teddy!",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes lifting a pink blanket to discover a drowsy brown teddy bear underneath, with the blanket creating a hiding and revealing composition",
+            "alt": "Yuki discovering Teddy bear under a blanket",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Is Kitty in the toy box? Peek-a-boo! There's sleepy Kitty, purring softly.",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes opening a wooden toy box with a fluffy orange kitten emerging, the lid partially concealing the surprise element of the discovery",
+            "alt": "Yuki finding Kitty in the toy box",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "All friends found! Now Yuki climbs into bed. Peek-a-boo, sweet dreams! Goodnight, Yuki!",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes tucked in her bed with all her animal friends around her, moonlight partially hidden behind clouds creating a gentle peek-a-boo effect through the window",
+            "alt": "Yuki sleeping peacefully with all her friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "friendship",
+      "hide and seek",
+      "comfort"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "lift the flap inspired, partially hidden objects, peek-a-boo composition, hiding and revealing, interactive feel, surprise element, behind the curtain, playful concealment"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where was Bunny hiding?",
+        "choices": [
+          "Behind the curtain",
+          "Under the bed"
+        ],
+        "correctIndex": 0,
+        "explanation": "Bunny was hiding behind the blue curtain in Yuki's bedroom!"
+      },
+      {
+        "id": "q2",
+        "question": "What was Teddy hiding under?",
+        "choices": [
+          "A blanket",
+          "A pillow"
+        ],
+        "correctIndex": 0,
+        "explanation": "Teddy was hiding under the soft pink blanket!"
+      },
+      {
+        "id": "q3",
+        "question": "Where did Yuki find Kitty?",
+        "choices": [
+          "In the toy box",
+          "Behind the door"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kitty was hiding in the wooden toy box, purring softly!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "curtain",
+            "distractors": [
+              "window",
+              "door"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "blanket",
+            "distractors": [
+              "pillow",
+              "sheet"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

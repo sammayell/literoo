@@ -1,0 +1,139 @@
+{
+  "id": "v2-baby-peek-a-boo-068",
+  "title": "Theo's Sleepy Peek-a-Boo",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "peek-a-boo",
+    "bedtime"
+  ],
+  "wordCount": 66,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Theo plays peek-a-boo with his favorite bedtime friends as he gets ready for sleep, discovering cozy surprises behind curtains, blankets, and pillows.",
+  "coverImage": "covers/v2-baby-peek-a-boo-068.webp",
+  "chapters": [
+    {
+      "title": "Sleepy Hide and Seek",
+      "pages": [
+        {
+          "text": "Time for bed, little Theo! But where are all your sleepy friends hiding?",
+          "illustration": {
+            "description": "Theo with short curly blonde hair, light skin, round blue eyes stands in a cozy bedroom with a curtain partially covering a window, a blanket draped over a chair, and pillows arranged on the bed, suggesting hidden surprises",
+            "alt": "Theo in a bedroom with hidden objects",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo behind the curtain! There's Mr. Moon smiling down at you.",
+          "illustration": {
+            "description": "Theo with short curly blonde hair, light skin, round blue eyes pulling back a blue curtain to reveal a smiling crescent moon in the window, with the curtain creating a peek-a-boo effect",
+            "alt": "Theo revealing the moon behind a curtain",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Who's hiding under the soft blanket? It's your teddy bear, ready for cuddles!",
+          "illustration": {
+            "description": "Theo with short curly blonde hair, light skin, round blue eyes lifting a corner of a fluffy blanket to reveal a brown teddy bear partially hidden underneath, creating a surprise reveal moment",
+            "alt": "Theo finding his teddy bear under a blanket",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo behind the pillow! Your sleepy bunny is waiting for sweet dreams.",
+          "illustration": {
+            "description": "Theo with short curly blonde hair, light skin, round blue eyes moving a white pillow aside to discover a soft toy bunny partially concealed behind it on the bed",
+            "alt": "Theo discovering a toy bunny behind a pillow",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Now all your friends are here. Time to snuggle close and drift to sleep. Good night, Theo!",
+          "illustration": {
+            "description": "Theo with short curly blonde hair, light skin, round blue eyes lying in bed surrounded by his teddy bear and bunny, with the moon visible through the window and a peaceful bedtime scene",
+            "alt": "Theo sleeping peacefully with his toys",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "peek-a-boo games",
+      "comfort objects",
+      "going to sleep"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "lift the flap inspired, partially hidden objects, peek-a-boo composition, hiding and revealing, interactive feel, surprise element, behind the curtain, playful concealment"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Theo find behind the curtain?",
+        "choices": [
+          "Mr. Moon",
+          "A star"
+        ],
+        "correctIndex": 0,
+        "explanation": "Theo found Mr. Moon smiling behind the curtain!"
+      },
+      {
+        "id": "q2",
+        "question": "Where was the teddy bear hiding?",
+        "choices": [
+          "Under the blanket",
+          "Behind the door"
+        ],
+        "correctIndex": 0,
+        "explanation": "The teddy bear was hiding under the soft blanket, ready for cuddles!"
+      },
+      {
+        "id": "q3",
+        "question": "What was behind the pillow?",
+        "choices": [
+          "A sleepy bunny",
+          "A toy car"
+        ],
+        "correctIndex": 0,
+        "explanation": "The sleepy bunny was waiting behind the pillow for sweet dreams!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "curtain",
+            "distractors": [
+              "window",
+              "door"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 7,
+            "correctWord": "blanket",
+            "distractors": [
+              "pillow",
+              "sheet"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "id": "v2-toddler-friendship-103",
+  "title": "Lily's Garden Friends",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "nature"
+  ],
+  "wordCount": 166,
+  "readingLevel": "Pre-K",
+  "synopsis": "Lily discovers the joy of making friends with nature while playing in her garden, learning that friendship can bloom everywhere.",
+  "coverImage": "covers/v2-toddler-friendship-103.webp",
+  "chapters": [
+    {
+      "title": "Lily's Special Garden",
+      "pages": [
+        {
+          "text": "Lily loved her backyard garden. Every morning, she would run outside to see what was growing. The flowers were so colorful and pretty!",
+          "illustration": {
+            "description": "A cheerful garden scene with a little girl with long curly auburn hair, fair skin with light freckles, green eyes standing among bright colorful flowers, butterflies flying around, using primary colors with lots of white space in a joyful energetic style",
+            "alt": "Lily standing happily in a bright garden with colorful flowers and butterflies",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "One sunny day, Lily noticed a tiny butterfly with orange and black wings. 'Hello, little butterfly!' she said. The butterfly danced around her head.",
+          "illustration": {
+            "description": "A little girl with long curly auburn hair, fair skin with light freckles, green eyes reaching up toward an orange and black butterfly in a bright sunny garden, with primary colors, white space, and a joyful energetic inclusive style",
+            "alt": "Lily greeting a beautiful butterfly in her garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Next, she saw a fuzzy bumblebee buzzing from flower to flower. 'Hi there, busy bee!' Lily giggled. The bee seemed to wave its tiny wings at her.",
+          "illustration": {
+            "description": "A little girl with long curly auburn hair, fair skin with light freckles, green eyes watching a fuzzy bumblebee on bright flowers, rendered in primary colors with white space in a joyful energetic playground style",
+            "alt": "Lily watching a friendly bumblebee visit flowers",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "More Garden Friends",
+      "pages": [
+        {
+          "text": "Lily knelt down and found a small ladybug crawling on a green leaf. 'You're so cute, little ladybug!' The red bug with black spots climbed onto her finger.",
+          "illustration": {
+            "description": "A little girl with long curly auburn hair, fair skin with light freckles, green eyes kneeling in a garden with a red ladybug on her finger, surrounded by green leaves, using bright primary colors with white space in a joyful energetic style",
+            "alt": "Lily gently holding a ladybug on her finger",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A small brown rabbit hopped out from behind the carrots. Lily sat very still. 'Hello, bunny friend!' she whispered. The rabbit wiggled its nose and stayed to eat some grass.",
+          "illustration": {
+            "description": "A little girl with long curly auburn hair, fair skin with light freckles, green eyes sitting quietly next to a brown rabbit in a vegetable garden with carrots, rendered in bright primary colors with white space in an inclusive joyful energetic style",
+            "alt": "Lily sitting peacefully with a rabbit in the garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Lily smiled at all her new garden friends. 'I love playing with you!' she said. The butterfly, bee, ladybug, and rabbit all seemed happy too. Every day was an adventure in her special garden!",
+          "illustration": {
+            "description": "A little girl with long curly auburn hair, fair skin with light freckles, green eyes surrounded by all her garden friends - butterfly, bumblebee, ladybug, and rabbit - in a bright colorful garden scene with primary colors, white space, joyful energetic playground style showing friendship and laughter",
+            "alt": "Lily happily surrounded by all her garden animal friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship with nature",
+      "outdoor exploration",
+      "kindness to animals",
+      "wonder and discovery"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color wings did the butterfly have?",
+        "choices": [
+          "orange and black",
+          "blue and white",
+          "red and yellow"
+        ],
+        "correctIndex": 0,
+        "explanation": "The butterfly had beautiful orange and black wings that danced around Lily."
+      },
+      {
+        "id": "q2",
+        "question": "Where did the rabbit come from?",
+        "choices": [
+          "behind the carrots",
+          "under a rock",
+          "from a tree"
+        ],
+        "correctIndex": 0,
+        "explanation": "The little brown rabbit hopped out from behind the carrots in Lily's garden."
+      },
+      {
+        "id": "q3",
+        "question": "What did the ladybug do?",
+        "choices": [
+          "climbed onto Lily's finger",
+          "flew away quickly",
+          "hid under a rock"
+        ],
+        "correctIndex": 0,
+        "explanation": "The cute red ladybug with black spots climbed onto Lily's finger when she was gentle with it."
+      },
+      {
+        "id": "q4",
+        "question": "How did Lily feel about her garden friends?",
+        "choices": [
+          "happy and loved them",
+          "scared of them",
+          "bored with them"
+        ],
+        "correctIndex": 0,
+        "explanation": "Lily was happy and said 'I love playing with you!' to all her garden friends."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "butterfly",
+            "distractors": [
+              "spider",
+              "bird"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "wings",
+            "distractors": [
+              "legs",
+              "eyes"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "ladybug",
+            "distractors": [
+              "beetle",
+              "ant"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "finger",
+            "distractors": [
+              "hand",
+              "arm"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

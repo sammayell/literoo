@@ -1,0 +1,183 @@
+{
+  "id": "v2-toddler-bedtime-058",
+  "title": "Yuki's Sleepy Moon",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "bedtime",
+    "feelings"
+  ],
+  "wordCount": 204,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Yuki feels worried about bedtime until she discovers the moon's gentle magic that helps her feel calm and sleepy. A soothing story about overcoming bedtime fears with the help of nature's nighttime wonders.",
+  "coverImage": "covers/v2-toddler-bedtime-058.webp",
+  "chapters": [
+    {
+      "title": "The Worried Little Girl",
+      "pages": [
+        {
+          "text": "Yuki sat on her bed with her favorite teddy bear. The sun was going down, and bedtime was coming soon. But Yuki felt worried inside her tummy. She didn't want to go to sleep yet.",
+          "illustration": {
+            "description": "A little girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes sitting on a soft bed holding a brown teddy bear. The room glows with soft watercolor purple and blue gradients as evening light filters through the window. Floating clouds drift gently around the room creating an ethereal atmosphere.",
+            "alt": "Yuki sitting on her bed holding a teddy bear as evening approaches",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama came into the room and saw Yuki's sad face. 'What's wrong, little one?' Mama asked gently. 'I don't want to sleep,' Yuki whispered. 'The dark makes me feel scared and lonely.'",
+          "illustration": {
+            "description": "A caring mother sitting next to a little girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes on the bed. Soft watercolor dreamy purple and blue gradients surround them with gentle moonlight beginning to peek through the window. Round sleepy faces show tender emotion in the pastel palette.",
+            "alt": "Mama comforting Yuki who looks worried about bedtime",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama smiled and pointed to the window. 'Look outside, Yuki. Do you see the beautiful moon starting to shine? The moon has a special gift for little ones who feel worried at bedtime.'",
+          "illustration": {
+            "description": "A little girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes and her mother looking out a window at a glowing crescent moon. Soft watercolor technique shows dreamy purple and blue gradients in the sky with twinkling stars beginning to appear. Floating clouds drift past in the ethereal atmosphere.",
+            "alt": "Yuki and Mama looking at the moon through the window",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Moon's Gentle Magic",
+      "pages": [
+        {
+          "text": "Mama opened the window wide. The gentle moonlight floated into Yuki's room like a soft, glowing blanket. The moon seemed to smile down at them with its kind, sleepy face.",
+          "illustration": {
+            "description": "A little girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes standing by an open window with her mother. Gentle moonlight streams in creating soft watercolor purple and blue gradients throughout the room. Glowing stars twinkle outside while floating clouds drift peacefully in the pastel palette ethereal atmosphere.",
+            "alt": "Moonlight flowing into Yuki's bedroom through the open window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'The moon watches over all the children while they sleep,' Mama explained. 'It sends sweet dreams and keeps you safe all night long. You're never alone when the moon is shining.'",
+          "illustration": {
+            "description": "A dreamy scene showing a little girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes lying in bed as magical moonbeams create soft watercolor purple and blue gradients around her. Glowing stars dance above while floating clouds carry tiny dream symbols. The moon has a round sleepy face watching protectively in the ethereal atmosphere.",
+            "alt": "Yuki in bed surrounded by magical moonlight and gentle dream imagery",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Yuki felt the warm, peaceful feeling fill her heart. The worried feeling in her tummy went away. She snuggled under her covers and smiled at the moon. 'Thank you, moon, for keeping me safe,' she whispered as her eyes grew heavy and sleepy.",
+          "illustration": {
+            "description": "A peaceful little girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes tucked cozily in bed with a content smile. Soft watercolor dreamy purple and blue gradients create a gentle glow around her. Glowing stars sparkle softly while floating clouds drift overhead. The gentle moonlight bathes everything in a soothing ethereal atmosphere with round sleepy faces on the moon and stars in the pastel palette.",
+            "alt": "Yuki peacefully falling asleep under the protective gaze of the moon",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime fears",
+      "comfort",
+      "nature's protection",
+      "parent-child bonding",
+      "feeling safe"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Yuki feel about bedtime at first?",
+        "choices": [
+          "worried",
+          "excited",
+          "hungry"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yuki felt worried in her tummy about going to sleep and was scared of the dark."
+      },
+      {
+        "id": "q2",
+        "question": "What did Mama show Yuki outside the window?",
+        "choices": [
+          "the moon",
+          "a bird",
+          "flowers"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama pointed to the beautiful moon that was starting to shine outside."
+      },
+      {
+        "id": "q3",
+        "question": "What does the moon do for children while they sleep?",
+        "choices": [
+          "watches over them",
+          "wakes them up",
+          "hides from them"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama explained that the moon watches over all children while they sleep and keeps them safe."
+      },
+      {
+        "id": "q4",
+        "question": "How did Yuki feel at the end of the story?",
+        "choices": [
+          "peaceful",
+          "worried",
+          "angry"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yuki felt peaceful and safe, and the worried feeling went away when she learned about the moon's protection."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "worried",
+            "distractors": [
+              "happy",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "sleep",
+            "distractors": [
+              "play",
+              "eat"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "moonlight",
+            "distractors": [
+              "sunshine",
+              "raindrops"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "smile",
+            "distractors": [
+              "frown",
+              "hide"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

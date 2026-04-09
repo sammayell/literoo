@@ -1,0 +1,131 @@
+{
+  "id": "v2-baby-peek-a-boo-088",
+  "title": "Where is Theo Hiding?",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "peek-a-boo",
+    "bedtime"
+  ],
+  "wordCount": 51,
+  "readingLevel": "Pre-K",
+  "synopsis": "A gentle peek-a-boo bedtime story where baby Theo plays hiding games around his bedroom before settling down for sleep.",
+  "coverImage": "covers/v2-baby-peek-a-boo-088.webp",
+  "chapters": [
+    {
+      "title": "Theo's Bedtime Hide and Seek",
+      "pages": [
+        {
+          "text": "Where is Theo? Is he behind the big blue curtains?",
+          "illustration": {
+            "description": "A cozy bedroom with large blue curtains partially closed, showing tiny feet peeking out from behind them. The room has soft lighting and toys scattered around. Behind the curtain, we can glimpse a boy with short curly blonde hair, light skin, round blue eyes trying to hide.",
+            "alt": "Theo hiding behind blue bedroom curtains with his feet showing",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! There's Theo! Now where did he go? Is he under the soft blanket?",
+          "illustration": {
+            "description": "A bed with a lumpy blanket that clearly has someone hiding underneath. A small giggle seems to come from the blanket pile. The corner of the blanket is slightly lifted, revealing a glimpse of a boy with short curly blonde hair, light skin, round blue eyes.",
+            "alt": "Theo hiding under a blanket on his bed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Found you again, Theo! One more hiding spot... behind the teddy bear?",
+          "illustration": {
+            "description": "A large brown teddy bear sitting on the floor with small hands visible on either side, clearly showing someone hiding behind it. The boy with short curly blonde hair, light skin, round blue eyes is partially concealed behind the stuffed animal.",
+            "alt": "Theo hiding behind a big teddy bear",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! There you are! Now it's time for sleepy Theo to rest. Good night!",
+          "illustration": {
+            "description": "Theo, a boy with short curly blonde hair, light skin, round blue eyes, is now tucked into bed with his teddy bear beside him. The room is dimly lit with a soft nightlight, curtains drawn, and everything peaceful for bedtime.",
+            "alt": "Theo sleeping peacefully in his bed with teddy bear",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "hide and seek",
+      "bedtime routine",
+      "playfulness",
+      "comfort"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "lift the flap inspired, partially hidden objects, peek-a-boo composition, hiding and revealing, interactive feel, surprise element, behind the curtain, playful concealment"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where was Theo hiding first?",
+        "choices": [
+          "behind curtains",
+          "under blanket"
+        ],
+        "correctIndex": 0,
+        "explanation": "Theo was first hiding behind the big blue curtains!"
+      },
+      {
+        "id": "q2",
+        "question": "What did Theo hide behind at the end?",
+        "choices": [
+          "teddy bear",
+          "pillow"
+        ],
+        "correctIndex": 0,
+        "explanation": "Theo hid behind his big brown teddy bear!"
+      },
+      {
+        "id": "q3",
+        "question": "What does Theo do at the very end?",
+        "choices": [
+          "goes to sleep",
+          "keeps playing"
+        ],
+        "correctIndex": 0,
+        "explanation": "Theo goes to sleep in his cozy bed. Good night!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "Theo",
+            "distractors": [
+              "bear",
+              "cat"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "blanket",
+            "distractors": [
+              "pillow",
+              "toy"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

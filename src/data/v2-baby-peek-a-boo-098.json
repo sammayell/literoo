@@ -1,0 +1,139 @@
+{
+  "id": "v2-baby-peek-a-boo-098",
+  "title": "Yuki's Sleepy Peek-a-Boo",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "peek-a-boo",
+    "bedtime"
+  ],
+  "wordCount": 62,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Yuki plays peek-a-boo with her favorite bedtime friends as she gets ready for sleep, finding teddy bears, moon, and stars hiding in cozy places.",
+  "coverImage": "covers/v2-baby-peek-a-boo-098.webp",
+  "chapters": [
+    {
+      "title": "Peek-a-Boo Bedtime",
+      "pages": [
+        {
+          "text": "Yuki is ready for bed. But where are her sleepy friends? Let's play peek-a-boo!",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes stands in pajamas in a cozy bedroom with curtains partially hiding objects behind them, creating a peek-a-boo composition with interactive feel",
+            "alt": "Yuki in pajamas in bedroom with hidden objects behind curtains",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Where is Teddy? Behind the pillow! There you are, Teddy!",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes lifting a pillow to reveal a teddy bear partially hidden underneath, surprise element with playful concealment in lift the flap inspired style",
+            "alt": "Yuki finding teddy bear behind pillow",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Where is the moon? Behind the window curtain! Hello, moon!",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes pulling back a window curtain to reveal the smiling moon partially hidden behind it, hiding and revealing composition with behind the curtain style",
+            "alt": "Yuki revealing moon behind curtain",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Where are the sleepy stars? Behind the blanket! Twinkle, twinkle!",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes holding up a blanket to show glowing stars partially hidden objects underneath, peek-a-boo composition with surprise element and interactive feel",
+            "alt": "Yuki finding stars under blanket",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Now all friends are here! Teddy, moon, and stars. Time to sleep. Peek-a-boo, sleepy Yuki!",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes tucked in bed with teddy bear, with moon and stars visible through window, playful concealment as she closes her eyes for sleep in lift the flap inspired style",
+            "alt": "Yuki sleeping with all her bedtime friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "peek-a-boo play",
+      "friendship",
+      "comfort objects"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "lift the flap inspired, partially hidden objects, peek-a-boo composition, hiding and revealing, interactive feel, surprise element, behind the curtain, playful concealment"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where was Teddy hiding?",
+        "choices": [
+          "Behind the pillow",
+          "Under the bed"
+        ],
+        "correctIndex": 0,
+        "explanation": "Teddy was hiding behind the pillow when Yuki played peek-a-boo!"
+      },
+      {
+        "id": "q2",
+        "question": "What was behind the window curtain?",
+        "choices": [
+          "The moon",
+          "A bird"
+        ],
+        "correctIndex": 0,
+        "explanation": "The smiling moon was hiding behind the window curtain!"
+      },
+      {
+        "id": "q3",
+        "question": "What did Yuki do at the end?",
+        "choices": [
+          "Went to sleep",
+          "Played more"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yuki went to sleep with all her bedtime friends - Teddy, moon, and stars!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "Teddy",
+            "distractors": [
+              "Bunny",
+              "Doggy"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "moon",
+            "distractors": [
+              "sun",
+              "bird"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

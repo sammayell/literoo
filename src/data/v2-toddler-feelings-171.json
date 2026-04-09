@@ -1,0 +1,188 @@
+{
+  "id": "v2-toddler-feelings-171",
+  "title": "Zara's Big Feelings Day",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "feelings",
+    "family"
+  ],
+  "wordCount": 302,
+  "readingLevel": "Early Reader",
+  "synopsis": "Join Zara as she experiences big emotions throughout her day - from angry morning tantrums to sad moments and finally finding happiness with family love and understanding.",
+  "coverImage": "covers/v2-toddler-feelings-171.webp",
+  "chapters": [
+    {
+      "title": "Mad Morning",
+      "pages": [
+        {
+          "text": "Zara woke up feeling grumpy. Her favorite teddy bear fell on the floor. Her socks felt funny on her feet. Everything made her MAD! Zara stomped her feet and crossed her arms. 'I don't want to get dressed!' she shouted. Red feelings swirled all around her like a storm cloud.",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes, stomping her feet in her bedroom with angry red swirls and jagged lines surrounding her, teddy bear on floor, messy clothes scattered around",
+            "alt": "Angry Zara surrounded by red swirling emotions in her messy bedroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama came into Zara's room. She sat down on the bed and opened her arms. 'I can see you're feeling angry, sweet girl. Big feelings are okay. Let's take some deep breaths together.' Mama showed Zara how to breathe in slowly and breathe out slowly. The red swirls started to fade away.",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes sitting on bed next to Mama, both taking deep breaths, red angry swirls gradually fading to softer pink colors in background",
+            "alt": "Zara and Mama breathing together as angry red emotions begin to calm",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sad Time",
+      "pages": [
+        {
+          "text": "At breakfast, Zara dropped her favorite bowl. CRASH! It broke into pieces. Now Zara felt very sad. Tears rolled down her cheeks like little raindrops. Blue feelings poured down around her like a rainy day. 'My special bowl is broken!' Zara cried.",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes crying at breakfast table, broken bowl pieces on floor, blue rain-like streaks falling around her, sad blue clouds overhead",
+            "alt": "Sad Zara crying over her broken bowl with blue rain emotions falling around her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Daddy knelt down and gave Zara a big hug. 'It's okay to feel sad when something special breaks. Sad feelings are normal too.' He wiped away her tears gently. 'We can't fix the bowl, but we can pick out a new special one together. Would you like that?' The blue rain started to slow down.",
+          "illustration": {
+            "description": "Daddy hugging Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes, blue rain emotions becoming lighter blue wisps, broken bowl pieces still visible but father's warm embrace creating small patches of warmer colors",
+            "alt": "Daddy comforting sad Zara as blue rain emotions begin to clear",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Happy Heart",
+      "pages": [
+        {
+          "text": "Later that day, Zara's whole family sat together for story time. Grandma read Zara's favorite book about dancing elephants. Mama tickled her toes. Daddy made funny voices for all the characters. Zara giggled and felt warm and loved. Golden sunshine feelings sparkled all around her like glitter.",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes laughing and surrounded by family on couch, bright yellow sunshine rays and golden sparkles radiating outward, warm orange and yellow swirls creating cozy atmosphere",
+            "alt": "Happy Zara surrounded by loving family with bright golden sunshine emotions glowing around them",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'I love my family!' Zara said with a big smile. 'We love you too, little one,' they all said together. Zara learned that feelings come and go like clouds in the sky. Mad feelings, sad feelings, and happy feelings are all okay. What matters most is having people who love you through all your big feelings.",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes smiling brightly in center of loving family group hug, rainbow of gentle colors swirling around them representing all emotions in harmony, sunshine yellow dominating the peaceful scene",
+            "alt": "Zara and family in group hug surrounded by harmonious rainbow emotions with happy sunshine feelings glowing brightest",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotional regulation",
+      "family support",
+      "expressing feelings",
+      "coping strategies",
+      "unconditional love"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "emotion mapped colors, angry red swirls, sad blue rain, happy yellow sunshine, abstract emotion backgrounds, Inside Out inspired, feeling visualization, color psychology"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color were Zara's angry feelings?",
+        "choices": [
+          "Red swirls",
+          "Blue rain",
+          "Yellow sunshine"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zara's angry feelings were shown as red swirls around her when she was mad in the morning."
+      },
+      {
+        "id": "q2",
+        "question": "How did Mama help Zara when she was angry?",
+        "choices": [
+          "She gave her candy",
+          "She taught her deep breathing",
+          "She bought new toys"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mama helped Zara by showing her how to take deep breaths in and out slowly to calm down."
+      },
+      {
+        "id": "q3",
+        "question": "Why did Zara feel sad?",
+        "choices": [
+          "She was hungry",
+          "Her favorite bowl broke",
+          "She lost her shoe"
+        ],
+        "correctIndex": 1,
+        "explanation": "Zara felt sad because she dropped and broke her favorite bowl at breakfast."
+      },
+      {
+        "id": "q4",
+        "question": "What made Zara feel happy at the end?",
+        "choices": [
+          "Getting new toys",
+          "Being with her loving family",
+          "Eating ice cream"
+        ],
+        "correctIndex": 1,
+        "explanation": "Zara felt happy when her whole family was together for story time, showing her love and making her laugh."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "MAD",
+            "distractors": [
+              "happy",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "red",
+            "distractors": [
+              "blue",
+              "green"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "sad",
+            "distractors": [
+              "mad",
+              "glad"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "blue",
+            "distractors": [
+              "red",
+              "yellow"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

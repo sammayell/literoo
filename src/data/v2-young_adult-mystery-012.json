@@ -1,0 +1,471 @@
+{
+  "id": "v2-young_adult-mystery-012",
+  "title": "The Digital Ghost",
+  "ageTier": "young_adult",
+  "ageRange": [
+    12,
+    18
+  ],
+  "genre": [
+    "mystery",
+    "friendship"
+  ],
+  "wordCount": 6854,
+  "readingLevel": "8th grade",
+  "synopsis": "When mysterious digital messages begin appearing at Westfield High, sixteen-year-old Kofi must use his coding skills and the help of unlikely friends to uncover the truth behind a decades-old tragedy. As they dig deeper into the school's digital infrastructure, they discover that someone—or something—is trying to communicate from beyond the grave.",
+  "coverImage": "covers/v2-young_adult-mystery-012.webp",
+  "chapters": [
+    {
+      "title": "Ghost in the Machine",
+      "content": "The computer lab at Westfield High hummed with the familiar sound of thirty aging desktops working overtime. Kofi adjusted his headphones and squinted at the lines of code scrolling across his screen. Python had always made sense to him—unlike most things at his new school.\n\n\"Mr. Chen, there's something weird happening with the network,\" called out Jessica from across the room. The computer science teacher looked up from grading papers, his coffee mug suspended halfway to his lips.\n\nKofi glanced over at Jessica's monitor. Her screen flickered between her programming assignment and what looked like random characters streaming down in green text, Matrix-style. Other students began murmuring as their screens started doing the same thing.\n\n\"Everyone save your work,\" Mr. Chen said, standing up quickly. \"This looks like some kind of network interference.\"\n\nBut Kofi noticed something the others didn't. Hidden in the streaming characters, there was a pattern. His fingers flew over the keyboard, capturing screenshots before the anomaly disappeared. As suddenly as it had started, the strange display vanished, leaving everyone staring at their normal desktop wallpapers.\n\n\"Probably just a glitch in the server,\" Mr. Chen announced, though he didn't sound convinced. \"Keep working on your assignments.\"\n\nKofi pulled up his screenshots and enhanced the contrast. There, embedded in the seemingly random code, were letters. Real words trying to break through the digital noise: \"HELP ME.\"\n\nHis heart raced. Someone was trying to communicate through the school's network, but who? And why?",
+      "illustrations": [
+        {
+          "description": "A dimly lit computer lab with rows of glowing monitors. Kofi, with short cropped hair, rich dark brown skin, bright expressive eyes, sits focused at a computer terminal. Green code streams down multiple screens in the background, creating an eerie digital atmosphere with neon blue-green lighting casting shadows across the room.",
+          "alt": "Kofi working at a computer in a lab filled with screens showing mysterious code",
+          "position": "after-paragraph-3"
+        }
+      ]
+    },
+    {
+      "title": "Decoding the Message",
+      "content": "That night, Kofi couldn't stop thinking about the message. He sat in his bedroom, surrounded by the familiar glow of his dual monitor setup, trying to decode what he'd captured. The green LEDs from his custom-built PC cast an ethereal light across his desk as he worked.\n\nHe'd transferred the screenshots to his personal computer and was running them through various decryption algorithms he'd learned from online tutorials. His parents thought he was doing homework—which, technically, he was. Just not the assigned kind.\n\nThe pattern analysis software he'd coded himself finally found something. The message wasn't just \"HELP ME.\" When he isolated the signal from the background noise, more words emerged: \"SARAH CHEN... ACCIDENT... NOT ACCIDENT... FIND TRUTH.\"\n\nKofi leaned back in his chair, his mind racing. Sarah Chen? Could she be related to Mr. Chen, their computer science teacher? He'd never mentioned having a sister or daughter, but that didn't mean anything. Teachers rarely shared personal details with students.\n\nHe grabbed his phone and did what any teenager would do—he started googling. \"Sarah Chen Westfield High\" brought up several results, but one made his blood run cold. A news article from fifteen years ago with the headline: \"Local Teen Dies in Tragic Accident at Westfield High School.\"\n\nThe article was brief, mentioning that seventeen-year-old Sarah Chen had died in a fall from the school's bell tower during a winter storm. The investigation concluded it was an accident—Sarah had been known to sneak up there to stargaze, despite it being off-limits to students.\n\nBut someone—or something—was claiming it wasn't an accident at all.\n\nKofi screenshot the article and saved it to an encrypted folder. Tomorrow, he'd have to decide whether to tell Mr. Chen what he'd found. But first, he needed to understand how someone was hacking into the school's network to send messages from the past.",
+      "illustrations": [
+        {
+          "description": "Kofi's bedroom setup at night, with short cropped hair, rich dark brown skin, bright expressive eyes illuminated by the blue glow of dual monitors. Code and data analysis windows are open on his screens, with digital patterns and encryption algorithms visible. Green LED lighting from his computer case creates atmospheric lighting in the dark room.",
+          "alt": "Kofi analyzing code late at night in his bedroom computer setup",
+          "position": "after-paragraph-2"
+        }
+      ]
+    },
+    {
+      "title": "Unlikely Allies",
+      "content": "The next morning, Kofi arrived at school early, hoping to catch Mr. Chen before first period. He found the computer lab unlocked and the teacher inside, but he wasn't alone. Maya Rodriguez from his AP History class was there, along with someone Kofi only knew by reputation—Alex Park, the quiet kid who always sat in the back corner during lunch.\n\n\"Oh, hey Kofi,\" Mr. Chen said, looking up from a computer he had partially disassembled. \"These two were just telling me about some strange messages they've been seeing on their phones. Messages that seem to be coming from the school's network.\"\n\nMaya held up her phone. \"Look at this. I got a notification from the school's app last night, but when I opened it, there was just this weird text message: 'THE TOWER KNOWS THE TRUTH.'\"\n\nAlex nodded, pulling out an older smartphone with a cracked screen. \"Mine said something about checking the archives. But here's the weird part—the messages don't show up in my regular notification history. It's like they never existed.\"\n\nKofi's pulse quickened. The digital ghost was reaching out through multiple channels now. He made a decision that would change everything.\n\n\"I think I know what's happening,\" he said, pulling out his laptop. \"Yesterday, during class, I captured some screenshots of the network interference. There are hidden messages in the code.\"\n\nHe showed them his analysis, watching their faces change from skepticism to amazement to concern as he revealed the decoded text about Sarah Chen.\n\nMr. Chen went very still when he saw his sister's name. \"Sarah was my older sister,\" he said quietly. \"She died when I was in middle school. The accident happened right here at Westfield.\"\n\n\"But someone is claiming it wasn't an accident,\" Maya said, reading over the decoded message again.\n\n\"Which means,\" Alex added, his voice barely above a whisper, \"someone thinks she was murdered.\"\n\nThe four of them sat in silence, the weight of the revelation settling over them like a digital shroud. Outside, students were starting to arrive for first period, their voices and footsteps echoing in the hallways. But in the computer lab, surrounded by the soft hum of processors and the glow of monitors, they were embarking on a mystery that had been waiting fifteen years to be solved.",
+      "illustrations": [
+        {
+          "description": "The computer lab in early morning light with four figures gathered around a computer. Kofi, with short cropped hair, rich dark brown skin, bright expressive eyes, shows his laptop screen to Maya, Alex, and Mr. Chen. Holographic-style data displays seem to hover above the screen, showing decoded messages and digital patterns in neon blue-green against the darker background of the room.",
+          "alt": "Kofi showing decoded messages to his teacher and new allies in the computer lab",
+          "position": "after-paragraph-6"
+        }
+      ]
+    },
+    {
+      "title": "Digital Footprints",
+      "content": "By lunch, their unlikely group had claimed a table in the far corner of the cafeteria, laptops and phones creating a small fortress of technology around their food trays. Mr. Chen had given them permission to use lunch period for \"independent research,\" though they all knew this was far from any official school project.\n\nMaya had printed out copies of every news article she could find about Sarah's death. The stack was disappointingly thin—just three articles from the local paper, each one shorter than the last. \"Look at this,\" she said, pointing to the timeline. \"The first article treats it like major news, but by the third one, they're barely mentioning it. Like someone wanted the story to disappear.\"\n\nAlex had been surprisingly helpful with the technical aspects. Despite his quiet demeanor, he knew more about network security than Kofi had expected. \"I've been monitoring the school's traffic since this morning,\" he said, showing them a program running on his battered laptop. \"The anomalous signals aren't coming from outside. They're originating from somewhere inside the building.\"\n\n\"That's impossible,\" Kofi said, studying Alex's data. \"All the computers are accounted for. Unless...\"\n\n\"Unless what?\" Maya asked.\n\n\"Unless someone left something behind. Some kind of automated program that's been running undetected for years.\" Kofi pulled up the school's network architecture on his laptop. \"Look at this. The original computer lab was installed in 2008, the year before Sarah died. What if she was into computers too? What if she left behind some kind of digital time bomb?\"\n\nMr. Chen nodded slowly. \"Sarah was brilliant with technology. She taught me everything I knew about computers before I went to college. She used to talk about programming something that would outlast her, something that could protect people even when she couldn't.\"\n\n\"A digital guardian angel,\" Maya whispered.\n\n\"Or a ghost in the machine,\" Alex added, his fingers already flying over his keyboard. \"If that's true, then whatever she programmed has been dormant for over a decade. The question is: what triggered it to start communicating now?\"\n\nKofi felt a chill run down his spine as he considered the possibilities. Whatever Sarah had created, it had chosen this moment to reveal itself. And if her death really wasn't an accident, then someone at Westfield High had been keeping a deadly secret for fifteen years.\n\nThe bell rang, signaling the end of lunch period. As they packed up their equipment, Kofi noticed something that made his blood freeze. At a table across the cafeteria, Vice Principal Davidson was watching them with an expression that was anything but friendly. When their eyes met, Davidson looked away quickly, but not before Kofi caught something in his expression that looked a lot like fear.",
+      "illustrations": [
+        {
+          "description": "A cafeteria scene with four teens gathered around a table covered in laptops and printed papers. Kofi, with short cropped hair, rich dark brown skin, bright expressive eyes, points at a laptop screen showing network diagrams and data streams. Digital trails and code patterns seem to flow between the devices, creating a cyber detective atmosphere with neon blue-green glows against the mundane cafeteria background.",
+          "alt": "The team researching Sarah's case in the school cafeteria surrounded by technology",
+          "position": "after-paragraph-4"
+        }
+      ]
+    },
+    {
+      "title": "The Tower's Secret",
+      "content": "After school, the group met at the base of Westfield High's bell tower. The old brick structure rose four stories above the main building, its windows dark and uninviting. A chain-link fence surrounded the entrance with multiple \"NO TRESPASSING\" signs, but Alex had already found a section where the fence had been cut and carefully concealed.\n\n\"This has been here for a while,\" he said, holding back the flap of cut fencing. \"Someone's been using this entrance regularly.\"\n\nMr. Chen looked uncomfortable. \"I'm not sure we should be doing this. If we get caught—\"\n\n\"Then we say we're investigating network interference for your class,\" Maya interrupted. \"Which is technically true.\"\n\nThe tower's interior was dusty and filled with the kind of shadows that seemed to move when you weren't looking directly at them. But Kofi was more interested in what his phone was detecting. \"The signal is stronger here,\" he said, watching the bars on his network analyzer app fluctuate wildly. \"Whatever's transmitting, it's somewhere in this tower.\"\n\nThey climbed the narrow spiral staircase, their footsteps echoing in the confined space. Each floor had small windows that let in weak afternoon light, illuminating dust motes that danced like digital particles in the air.\n\nOn the third floor, Alex stopped. \"Look at this,\" he said, pointing to what appeared to be a solid wall. But when Kofi examined it more closely, he could see the faint outline of a hidden panel.\n\n\"Sarah used to hide things,\" Mr. Chen said softly. \"She was always creating secret compartments, hiding places for her treasures. Mom used to find stashes of her inventions all over the house.\"\n\nMaya found the hidden latch, and the panel swung open to reveal a small alcove. Inside was a setup that made Kofi's breath catch in his throat. An old laptop, still running after all these years, connected to a solar panel system that led to a disguised antenna on the tower's roof. The screen showed lines of code that had been executing continuously, waiting for the right conditions to activate.\n\n\"She's been here all along,\" Kofi whispered. \"Her program, waiting and watching.\"\n\nThe laptop's screen flickered, and new text appeared: \"YOU FOUND ME. NOW FIND THE TRUTH. DAVIDSON KNOWS. THE ROOF. THAT NIGHT. NOT ALONE.\"\n\n\"Davidson,\" Maya breathed. \"The vice principal. He was here that night?\"\n\nMr. Chen's face had gone pale. \"Mark Davidson was a senior when Sarah died. He was... he was always bothering her. Following her around, asking her out even though she kept saying no.\"\n\nSuddenly, they heard the sound of footsteps on the stairs below them. Heavy, adult footsteps that were trying to be quiet but failing. Someone was coming up the tower, and they were trapped.",
+      "illustrations": [
+        {
+          "description": "Inside a dark tower, illuminated by the blue glow of an old laptop hidden in a wall alcove. Kofi, with short cropped hair, rich dark brown skin, bright expressive eyes, stares at the screen showing streaming code. The hidden computer setup includes cables, solar panels, and antenna equipment, all glowing with digital energy patterns in neon blue-green. Shadows and mysterious lighting create a cyber detective atmosphere.",
+          "alt": "The team discovering Sarah's hidden computer system in the bell tower",
+          "position": "after-paragraph-7"
+        }
+      ]
+    },
+    {
+      "title": "Trapped",
+      "content": "The footsteps were getting closer. Kofi quickly connected his phone to Sarah's laptop via a USB cable he always carried, trying to download as much data as possible before they were discovered. The progress bar crawled forward agonizingly slowly.\n\n\"Come on, come on,\" he whispered, watching the transfer speed fluctuate.\n\nAlex was already moving, carefully closing the hidden panel and making sure no trace of their presence remained visible. Maya grabbed Mr. Chen's arm, pulling him toward the staircase that led to the fourth floor.\n\n\"We go up,\" she whispered. \"Maybe we can hide until they leave.\"\n\nBut as they reached the top of the tower, they realized their mistake. The fourth floor was just a small platform with the old bell mechanism and nowhere to hide. Through the windows, they could see the entire town spread out below them, including the parking lot where a familiar car was parked—Vice Principal Davidson's silver sedan.\n\nThe footsteps had reached the third floor. They heard someone moving around, searching. Then, a voice that made them all freeze: \"I know you're up here. I saw you go in.\"\n\nIt was Davidson, and he didn't sound like the mild-mannered administrator they knew from school announcements and disciplinary meetings. He sounded angry, desperate.\n\n\"Fifteen years,\" his voice echoed up the stairwell. \"Fifteen years I've been waiting for someone to stumble onto her little computer trick. I should have destroyed that equipment years ago, but I couldn't figure out how she'd hidden it.\"\n\nMr. Chen's hands were shaking. \"He's confessing,\" he whispered. \"He's actually confessing.\"\n\nKofi's phone buzzed with a notification. The data transfer was complete. But now they had a new problem—how to get out of the tower with evidence that could prove Sarah's death wasn't an accident.\n\nDavidson's footsteps started up the stairs to their floor. \"You kids don't understand what you're messing with. Some secrets are better left buried. Sarah should have minded her own business, and now you're making the same mistake she did.\"\n\nAlex grabbed Kofi's arm and pointed to one of the windows. \"Fire escape,\" he mouthed silently. \"On the outside of the building.\"\n\nKofi looked where Alex was pointing and saw the rusty remains of an old fire escape ladder attached to the exterior wall. It looked like it hadn't been used in decades, but it might be their only chance.\n\nThe door to their floor burst open just as Maya unlatched the window.",
+      "illustrations": [
+        {
+          "description": "The top of a bell tower at dusk, with four teenagers trapped in the small space. Kofi, with short cropped hair, rich dark brown skin, bright expressive eyes, clutches his phone showing a data transfer in progress. Through the tower windows, the town spreads out below with glowing streetlights beginning to flicker on. Digital data streams seem to flow from Kofi's phone into the darkening sky, creating trails of neon blue-green light against the ominous shadows.",
+          "alt": "The team trapped at the top of the bell tower as darkness falls",
+          "position": "after-paragraph-6"
+        }
+      ]
+    },
+    {
+      "title": "The Chase",
+      "content": "The fire escape ladder groaned under their weight as they descended the outside of the tower. Maya went first, testing each rung carefully before putting her full weight on it. The metal was corroded and several rungs were missing entirely, forcing them to jump gaps in the ladder.\n\nAbove them, they could hear Davidson shouting into his phone. \"They were here. They found it. We need to contain this situation before it gets out of hand.\"\n\n\"Before what gets out of hand?\" Alex whispered as they reached the second-floor level.\n\n\"Sounds like he's not working alone,\" Kofi replied, still clutching his phone with Sarah's downloaded data.\n\nThey dropped the last few feet to the ground and ran for the fence, but as they squeezed through the gap in the chain link, they saw another figure approaching from across the school grounds. Someone was coming to help Davidson, someone who had been waiting for his call.\n\n\"The parking lot,\" Maya gasped. \"We need to get to the street before they cut us off.\"\n\nThey ran across the empty school grounds, their footsteps echoing off the brick buildings. Behind them, they could hear Davidson and his accomplice coordinating their pursuit. The after-school activities had ended hours ago, leaving the campus deserted except for the security lights that cast long shadows between the buildings.\n\nKofi's phone buzzed with another message from Sarah's program: \"SAFE HOUSE. 47 MAPLE STREET. CODE 2847. TRUST NO ONE ELSE.\"\n\n\"This way,\" Kofi called out, changing direction toward the residential area adjacent to the school. \"Sarah's giving us directions.\"\n\nMr. Chen was starting to lag behind, not used to running. \"How is she still helping us? How is any of this possible?\"\n\n\"She programmed it all,\" Alex panted as they ducked behind a row of parked cars. \"Motion sensors, network monitoring, automated responses. She created an AI version of herself to watch over the school and protect people from whoever killed her.\"\n\nThey could hear car engines starting up behind them. Davidson and his helper had given up the foot chase and were now using vehicles. The hunt was escalating.\n\n\"There,\" Maya pointed to a small house with the number 47 on the mailbox. \"But how do we know it's safe?\"\n\n\"Because Sarah's been planning this for fifteen years,\" Kofi said, entering the code 2847 into a hidden keypad beside the front door. \"She's been waiting for someone to find the truth, and she's been preparing for this exact moment.\"\n\nThe door clicked open, revealing a house that had clearly been empty for years but was still somehow equipped with power and basic utilities. As they stepped inside, motion sensors activated soft lighting that illuminated a living room that looked like a cross between a safe house and a computer lab.\n\n\"Welcome to Sarah's backup plan,\" Kofi whispered.",
+      "illustrations": [
+        {
+          "description": "A nighttime chase scene showing four figures running across a school campus. Kofi, with short cropped hair, rich dark brown skin, bright expressive eyes, leads the group while looking at his phone which displays glowing directions and data. Digital trails seem to flow from the phone, creating pathfinding lines across the dark landscape. Security lights create dramatic shadows, and in the background, car headlights sweep across the scene as their pursuers give chase.",
+          "alt": "The team fleeing across the dark school grounds following digital guidance",
+          "position": "after-paragraph-5"
+        }
+      ]
+    },
+    {
+      "title": "The Safe House",
+      "content": "The interior of 47 Maple Street was like stepping into a time capsule from 2009, but one that had been continuously upgraded with modern technology. The walls were lined with computer monitors, all displaying different data streams from around Westfield High. It was clear that Sarah's surveillance system had been much more extensive than any of them had realized.\n\n\"She's been watching the school for fifteen years,\" Mr. Chen said in amazement, studying the feeds from security cameras he didn't even know existed. \"Every conversation in the hallways, every meeting in the administrative offices. She's been collecting evidence this whole time.\"\n\nKofi connected his phone to the central computer system and began uploading the data he'd retrieved from the tower. \"Look at this,\" he said as files began appearing on the main screen. \"She didn't just record what happened to her. She's been documenting a pattern of harassment and cover-ups that goes back decades.\"\n\nThe files revealed a disturbing picture. Davidson hadn't been Sarah's only stalker—he'd been part of a group of older students who had been targeting younger girls for years. When Sarah had discovered their activities and threatened to expose them, they had silenced her permanently.\n\n\"And when Davidson became an administrator,\" Maya continued reading through the files, \"he made sure the investigation into Sarah's death was closed quickly. He's been using his position to cover up his crime all these years.\"\n\nAlex had found another set of files that made his face go pale. \"It didn't end with Sarah. There have been other incidents. Other students who tried to speak up about harassment or abuse, and then either transferred schools suddenly or... had accidents.\"\n\n\"That's why the program activated now,\" Kofi realized. \"It's been monitoring social media, school records, incident reports. It detected a pattern that suggested Davidson was escalating again, getting ready to hurt someone else.\"\n\nAs if summoned by their conversation, new text appeared on the main screen: \"JENNY MARTINEZ. SENIOR. CURRENT TARGET. IN DANGER. TOMORROW NIGHT. WINTER FORMAL. MUST STOP HIM.\"\n\n\"Jenny Martinez,\" Mr. Chen said. \"She's in my AP Computer Science class. Quiet girl, really talented programmer. She... she reminds me a lot of Sarah.\"\n\nOutside, they heard car doors slamming. Through the window blinds, they could see Davidson's sedan parked across the street, along with another vehicle they didn't recognize. Red and blue lights reflected off the windows—somehow, Davidson had convinced the police that they were the criminals in this situation.\n\n\"We're trapped,\" Maya whispered.\n\nBut Kofi was studying the house's systems with growing excitement. \"No, we're not,\" he said, his fingers flying over the keyboard. \"Sarah didn't just create a safe house. She created a fortress. And she's about to show us exactly how she's been staying hidden for fifteen years.\"",
+      "illustrations": [
+        {
+          "description": "The interior of a high-tech safe house filled with glowing monitors and computer equipment. Kofi, with short cropped hair, rich dark brown skin, bright expressive eyes, works at a central computer terminal surrounded by multiple screens showing surveillance feeds and data streams. The room is illuminated by neon blue-green light from the displays, creating a cyber command center atmosphere with holographic data visualizations floating above the screens.",
+          "alt": "Kofi working at the central computer in Sarah's high-tech safe house",
+          "position": "after-paragraph-4"
+        }
+      ]
+    },
+    {
+      "title": "Digital Fortress",
+      "content": "The house's defense systems were more sophisticated than anything Kofi had ever seen. Sarah had essentially created a smart house fifteen years before they became commercially available, complete with automated responses to various threat scenarios.\n\n\"Motion sensors around the perimeter are detecting multiple hostiles,\" the computer announced in a synthesized voice that sounded eerily like what Sarah might have sounded like as an adult. \"Initiating protective protocols.\"\n\nOutside, the police officers who had approached the front door suddenly stopped and began looking around in confusion. The streetlights had gone out, plunging the entire block into darkness. At the same time, every house on the street began playing different music at maximum volume, creating a cacophony that made communication impossible.\n\n\"Noise and confusion,\" Alex said admiringly. \"She's making it impossible for them to coordinate or think clearly.\"\n\nMeanwhile, Kofi was deep in Sarah's files, uncovering the full scope of her digital surveillance network. \"She hacked into everything,\" he said in amazement. \"School security systems, police dispatch, even Davidson's personal devices. Look at this—she has recordings of phone calls he made the night she died.\"\n\nThe audio file that played next made them all go silent:\n\nDavidson's voice, younger but recognizable: \"She was going to ruin everything. You should have seen the files she had on us, all the evidence she'd collected. I didn't mean for her to fall, but when she tried to run... I couldn't let her get away.\"\n\nAnother voice, older, authoritative: \"The story is that she snuck up there to stargaze and fell during the storm. That's the official version, and that's what everyone will believe. You make sure there are no loose ends, Mark. No evidence that contradicts that story.\"\n\n\"That's Principal Morrison,\" Mr. Chen whispered. \"He was the principal back then. He covered it up.\"\n\n\"And now he's the superintendent,\" Maya added grimly. \"Which means this conspiracy goes all the way to the top of the school district.\"\n\nThe computer chimed with another message: \"EVIDENCE PACKAGE COMPILED. AUTOMATED DISTRIBUTION TO MEDIA AND LAW ENFORCEMENT IN PROGRESS. BACKUP COPIES UPLOADED TO SECURE CLOUD STORAGE. JUSTICE PROTOCOL ACTIVATED.\"\n\n\"She's doing it,\" Kofi breathed. \"Sarah's finally getting her justice. After fifteen years, the truth is coming out.\"\n\nBut their moment of triumph was interrupted by the sound of breaking glass. Despite the confusion outside, someone had found a way into the house. Heavy footsteps echoed from the kitchen, moving toward their location in the living room.\n\n\"Time to go,\" Alex said, already heading for what looked like a solid wall but which Kofi now realized had to be another hidden passage.\n\n\"Sarah always has an escape plan,\" he said, finding the concealed door release. \"Trust the ghost in the machine.\"",
+      "illustrations": [
+        {
+          "description": "A dramatic scene showing the safe house at night with multiple computer screens displaying surveillance data and audio waveforms. Kofi, with short cropped hair, rich dark brown skin, bright expressive eyes, points at a screen showing evidence files while chaos unfolds outside the windows. Police lights, darkened streetlights, and digital data streams create a cyberpunk atmosphere with neon blue-green glows contrasting against the dark, threatening environment outside.",
+          "alt": "The team discovering crucial evidence while the digital fortress defends them",
+          "position": "after-paragraph-6"
+        }
+      ]
+    },
+    {
+      "title": "Underground",
+      "content": "The hidden passage led to a tunnel system that Kofi realized must have been part of the original town infrastructure—old utility tunnels that Sarah had discovered and modified for her own purposes. Emergency lighting activated as they moved through the underground passages, and Kofi could see that the tunnels had been equipped with fiber optic cables and wireless access points.\n\n\"She turned the entire underground into a data network,\" he said in amazement, watching his phone automatically connect to \"Sarah_Net\" as they walked. \"Even down here, fifteen feet underground, we have perfect internet access.\"\n\nThe tunnel system was more extensive than any of them had imagined, with passages that seemed to connect to multiple buildings around the school district. Sarah had created a digital underground railroad that allowed her surveillance system to reach everywhere without detection.\n\n\"Look at this map,\" Maya said, studying a display panel embedded in the tunnel wall. \"These passages connect to the high school, the middle school, the district administration building, and at least a dozen private residences.\"\n\n\"Including Principal Morrison's house,\" Alex noted, pointing to one of the marked locations. \"She's been watching all of them for years, collecting evidence, waiting for the right moment to expose the truth.\"\n\nAs they moved through the tunnels, Kofi's phone continued to receive updates from Sarah's system. The evidence packages had been successfully distributed to three news stations, the state police, and the FBI's cybercrime division. Phone records, audio recordings, video surveillance, and digital forensics data that proved beyond any doubt that Sarah Chen's death had been murder, not accident.\n\n\"It's over,\" Mr. Chen said quietly. \"After all these years, it's finally over. Sarah can rest in peace.\"\n\nBut the system had one more message for them: \"NOT OVER. JENNY MARTINEZ STILL IN DANGER. WINTER FORMAL TOMORROW. DAVIDSON WILL RUN. MUST STOP HIM.\"\n\n\"She's right,\" Kofi said, his mind racing through the possibilities. \"Even with all this evidence, it'll take time for the authorities to process everything and issue arrest warrants. Davidson will know his time is up as soon as the news breaks. If he's planning to hurt Jenny tomorrow night, that might be his last chance before he disappears forever.\"\n\nThey emerged from the tunnel system through a concealed exit in Riverside Park, about half a mile from where they'd started. The night air felt cold after the climate-controlled tunnels, and they could see police cars with flashing lights surrounding the safe house in the distance.\n\n\"We need to get home,\" Maya said. \"Our parents are going to be worried sick. But tomorrow—\"\n\n\"Tomorrow we save Jenny Martinez,\" Kofi finished. \"And we make sure Davidson never hurts anyone again.\"\n\nAs they separated to head to their respective homes, Kofi felt his phone buzz with one final message from Sarah's system: \"THANK YOU. FIFTEEN YEARS IS A LONG TIME TO WAIT FOR JUSTICE. TOMORROW, WE FINISH THIS TOGETHER.\"",
+      "illustrations": [
+        {
+          "description": "An underground tunnel system illuminated by LED strips and fiber optic cables creating streams of neon blue-green light. Kofi, with short cropped hair, rich dark brown skin, bright expressive eyes, examines a digital map display embedded in the tunnel wall. The high-tech underground network features holographic data trails and wireless access points, creating a cyber detective atmosphere in the subterranean environment.",
+          "alt": "The team moving through Sarah's high-tech underground tunnel network",
+          "position": "after-paragraph-3"
+        }
+      ]
+    },
+    {
+      "title": "The Plan",
+      "content": "The next morning brought chaos to Westfield High. News vans were parked outside the school, reporters were interviewing anyone who would talk to them, and the administration was in full damage control mode. Principal Martinez (who had replaced Morrison when he became superintendent) had called an emergency assembly to address the \"rumors and speculation\" surrounding recent events.\n\nKofi, Maya, Alex, and Mr. Chen met in the computer lab before school started, ostensibly for a \"special project\" but really to coordinate their final operation. The evidence Sarah had compiled was already making waves—several news outlets had picked up the story, and the state police had announced they were reopening the investigation into Sarah Chen's death.\n\n\"Davidson didn't come to work today,\" Mr. Chen reported. \"His office is locked and security says he called in sick. But his car was spotted at the mall yesterday evening, and mall security says he was asking questions about tonight's winter formal preparations.\"\n\n\"The dance is being held in the mall's community center,\" Maya added, pulling up the event details on her laptop. \"It's a new venue this year—they thought it would be more exciting than the usual gym decoration. But it also means mall security instead of school security, and lots of places for someone to hide or corner a victim.\"\n\nKofi was monitoring Sarah's system, which continued to track Davidson's digital footprint. \"He's not being careful anymore,\" he said, watching Davidson's credit card transactions and cell phone location data scroll across his screen. \"He knows he's caught, so he's not bothering to hide his movements. That makes him predictable, but also more dangerous.\"\n\nAlex had been researching Jenny Martinez, trying to understand why she'd become Davidson's target. \"She's been documenting harassment incidents at school for a journalism project,\" he discovered. \"According to her social media posts, she's uncovered a pattern of administrative cover-ups that goes back years. She doesn't know it yet, but she's been following the same trail that got Sarah killed.\"\n\n\"And tonight, at the dance, he's going to make sure she can't publish her findings,\" Maya concluded grimly.\n\nThe bell rang for first period, but instead of dispersing, they huddled closer around Kofi's laptop as Sarah's system displayed their mission parameters: \"WINTER FORMAL. WESTFIELD MALL COMMUNITY CENTER. 7:00 PM. PROTECT JENNY MARTINEZ. CAPTURE DAVIDSON. END THIS FOREVER.\"\n\n\"We'll need help,\" Mr. Chen said. \"This is too dangerous for just the four of us.\"\n\n\"We have help,\" Kofi replied, gesturing to his screen where dozens of communication channels were lighting up. \"Sarah's been building a network for fifteen years. Every person who's ever been hurt by Davidson's group, every student who suspected something was wrong, every teacher who was silenced when they tried to speak up. Tonight, we're not just four people. We're an army.\"\n\nThe plan was complex but elegant: they would use Sarah's surveillance network to track Davidson's movements, coordinate with mall security and local police, and ensure that Jenny Martinez was protected while gathering the final evidence needed to put Davidson away forever. It was exactly the kind of technological justice that Sarah would have loved.",
+      "illustrations": [
+        {
+          "description": "The computer lab filled with morning light streaming through windows, contrasting with the glow of multiple laptop screens. Kofi, with short cropped hair, rich dark brown skin, bright expressive eyes, coordinates with his team around a table covered in devices. Digital network maps and communication channels are visible on the screens, showing connections spreading across the city. News vans can be seen through the windows, while holographic data displays seem to float above their planning session.",
+          "alt": "The team planning their final operation in the computer lab",
+          "position": "after-paragraph-6"
+        }
+      ]
+    },
+    {
+      "title": "Winter Formal",
+      "content": "The Westfield Mall Community Center had been transformed for the winter formal. Twinkling lights hung from the ceiling, fake snow covered the dance floor, and a DJ booth set up in the corner pumped out music that echoed through the large space. Under normal circumstances, it would have been magical. Tonight, it felt like a battlefield.\n\nKofi stood near the entrance, wearing a rented tuxedo that felt awkward compared to his usual hoodie and jeans. His phone was connected to Sarah's surveillance network, giving him access to every security camera in the mall. Maya and Alex were positioned at different points around the dance floor, both of them trying to look like normal students while watching for any sign of Davidson.\n\nMr. Chen was officially chaperoning the dance, but he was really coordinating with mall security and the undercover police officers who had been briefed on the situation. The evidence Sarah had compiled was enough to secure their cooperation—everyone wanted to catch Davidson before he could hurt another student.\n\nJenny Martinez arrived at seven-thirty, looking beautiful in a blue dress but also nervous in a way that suggested she sensed something was wrong. Kofi watched her through the camera feeds as she greeted friends and tried to enjoy the evening, not knowing she was the center of a fifteen-year-old conspiracy.\n\n\"Contact,\" Alex's voice came through Kofi's earpiece. \"Davidson just entered through the north entrance. He's wearing mall security uniform—looks like he either stole one or convinced someone to give it to him.\"\n\nKofi's fingers flew over his phone screen, switching between camera angles to track Davidson's movement. The man looked haggard, desperate, and dangerous. He was carrying what appeared to be a security radio, but Kofi could see it was actually a jamming device designed to disrupt communications.\n\n\"He's trying to isolate the area,\" Kofi reported. \"But Sarah's network operates on different frequencies. We still have full coverage.\"\n\nDavidson moved through the crowd with the confidence of someone wearing an official uniform, getting closer and closer to Jenny Martinez. She was standing with a group of friends near the refreshment table, laughing at something someone had said, completely unaware of the danger approaching.\n\n\"Maya, can you get to Jenny?\" Kofi asked through the comm system.\n\n\"On my way,\" Maya replied. \"But he's moving fast. I don't know if I can reach her in time.\"\n\nThat's when Sarah's system activated its final protocol. Every screen in the community center—the DJ's equipment, the digital displays advertising mall stores, even people's phones—began displaying the same message: \"JENNY MARTINEZ. BLUE DRESS. YOU ARE IN DANGER. SECURITY IMPOSTER. RUN. NOW.\"\n\nThe dance floor erupted in confusion as students looked around trying to find Jenny, pointing at the screens, pulling out their phones to record what was happening. But Jenny got the message loud and clear. She looked around, spotted Davidson approaching in his fake security uniform, and ran.",
+      "illustrations": [
+        {
+          "description": "A winter formal dance scene in a community center with twinkling lights and fake snow. Kofi, with short cropped hair, rich dark brown skin, bright expressive eyes, stands near the entrance in a tuxedo, his phone glowing with surveillance feeds and digital overlays. Multiple screens throughout the venue display warning messages, while digital data streams flow through the decorated space, creating a contrast between the festive atmosphere and the high-tech security operation.",
+          "alt": "Kofi monitoring the winter formal through Sarah's surveillance network",
+          "position": "after-paragraph-6"
+        }
+      ]
+    },
+    {
+      "title": "The Chase",
+      "content": "Jenny ran through the community center and out into the main mall, Davidson close behind her. But this time, she wasn't running blind—Sarah's system was guiding her every step, using the overhead displays and store announcement systems to give her directions.\n\n\"LEFT AT THE FOOD COURT,\" boomed from the mall's PA system. \"ESCALATOR TO SECOND FLOOR. HELP IS COMING.\"\n\nKofi and the others followed, using Sarah's camera network to coordinate their pursuit. The mall was mostly empty except for a few late shoppers and employees closing up for the night, which made it easier to track both Jenny and Davidson but also meant fewer potential witnesses.\n\n\"He's gaining on her,\" Maya reported as they reached the second floor. \"The escalator slowed him down but not enough.\"\n\nDavidson had abandoned any pretense of being a security guard. His fake uniform was disheveled, his face was twisted with desperation, and he was calling out threats that echoed through the empty mall corridors. \"You can't run forever, Jenny! You're just like Sarah—too smart for your own good!\"\n\nBut Sarah had one more surprise waiting. As Davidson chased Jenny toward the mall's north exit, every security gate between them suddenly slammed shut, trapping him in a corridor lined with closed storefronts. Emergency lighting activated, bathing the area in red light while alarms began wailing.\n\n\"CITIZENS ARREST PROTOCOL ACTIVATED,\" Sarah's system announced through every speaker in the mall. \"SUSPECT CONTAINED. LAW ENFORCEMENT EN ROUTE.\"\n\nDavidson found himself trapped behind reinforced security barriers with nowhere to run. He pounded on the gates, screamed threats and denials, but the digital fortress Sarah had built held firm. After fifteen years of planning, she had finally caught her killer.\n\nPolice officers arrived within minutes, finding Davidson still trapped in Sarah's digital cage. As they took him into custody, he continued to rant about computer ghosts and digital witches, sounding more like a madman than the respected educator he'd pretended to be.\n\nJenny Martinez was safe, shaken but unharmed. As the police led Davidson away in handcuffs, she approached Kofi and his friends with tears in her eyes.\n\n\"You saved my life,\" she said simply. \"But how did you know? How did you figure it all out?\"\n\nKofi looked at his phone, where Sarah's system was displaying one final message: \"JUSTICE SERVED. MISSION COMPLETE. THANK YOU FOR BELIEVING. REST NOW.\"\n\n\"We had help,\" he said quietly. \"From someone who's been watching over Westfield High for a very long time.\"\n\nAround them, the mall's systems were slowly returning to normal. The security gates reopened, the alarms stopped wailing, and the emergency lighting switched back to standard illumination. But Kofi could feel that something fundamental had changed. Sarah's long vigil was finally over.",
+      "illustrations": [
+        {
+          "description": "A dramatic mall corridor scene with red emergency lighting and security barriers. Jenny Martinez runs toward safety while behind her, Davidson is trapped between closed security gates. Kofi, with short cropped hair, rich dark brown skin, bright expressive eyes, watches from a safe distance with his phone displaying \"MISSION COMPLETE\" messages. Digital streams of data flow through the scene like protective barriers, while police lights flash in the background, creating a cyberpunk justice atmosphere with neon blue-green and red lighting.",
+          "alt": "Davidson trapped by Sarah's security system while police arrive",
+          "position": "after-paragraph-5"
+        }
+      ]
+    },
+    {
+      "title": "Justice Served",
+      "content": "Two weeks later, the story had become national news. \"Digital Ghost Solves Fifteen-Year-Old Murder\" was the headline that appeared in newspapers and websites across the country. Technology experts marveled at the sophisticated AI system Sarah had created, while law enforcement agencies studied her methods for potential applications in cold cases.\n\nDavidson had been charged with Sarah's murder as well as attempted assault on Jenny Martinez and conspiracy charges related to the cover-up. Faced with the overwhelming evidence Sarah had compiled over fifteen years, he'd eventually confessed to everything. The recording devices Sarah had hidden around the school had captured his confession in the bell tower, providing the prosecution with a complete audio record of his crimes.\n\nSuperintendent Morrison had also been arrested, along with several other administrators who had been part of the cover-up. The entire Westfield School District was under investigation, and reforms were being implemented to prevent similar incidents in the future.\n\nKofi stood in the computer lab, which had been renamed the Sarah Chen Memorial Technology Center. A plaque near the door honored her memory and her contribution to student safety. Mr. Chen had been promoted to department head and was implementing new programs to teach students about digital forensics and cybersecurity.\n\n\"She would have loved this,\" Mr. Chen said, watching students work on their programming assignments. \"Sarah always believed that technology should be used to protect people, to give voice to the voiceless and power to the powerless.\"\n\nMaya had written a detailed article about the case for the school newspaper, which had been picked up by several major publications. She'd been accepted to Columbia University's journalism program with a full scholarship. \"Sarah's story inspired me,\" she told Kofi. \"I want to use investigative reporting to uncover the truth, just like she used programming.\"\n\nAlex had come out of his shell in the weeks following the case, no longer the quiet kid who sat alone at lunch. He'd been recruited by several universities for their cybersecurity programs, and the FBI had even approached him about internship opportunities. \"Sarah showed me that being good with computers isn't just about coding,\" he said. \"It's about using those skills to make the world safer.\"\n\nAs for Kofi, he'd been changed by the experience in ways he was still discovering. The quiet new kid who'd just wanted to fit in had become someone who understood the power of technology to fight injustice. Several tech companies had reached out after reading about his role in solving the case, offering internships and scholarship opportunities.\n\nBut the most important change was simpler than that. He'd found his place at Westfield High, and more importantly, he'd found friends who shared his values and his passion for using technology to help others.\n\nJenny Martinez had joined their group, bringing her journalism skills and her fierce determination to make sure no other students suffered in silence. Together, they'd formed what they jokingly called the \"Digital Justice League,\" helping other students with cyberbullying issues and working with the administration to improve school safety.\n\nOn the anniversary of Sarah's death, they gathered at her grave in Westfield Cemetery. Someone—probably Mr. Chen—had left fresh flowers, and there were several handwritten notes from students thanking her for watching over them.\n\nKofi placed a small device next to the headstone—a solar-powered transmitter that would ensure Sarah's grave site always had internet access. It seemed like something she would have appreciated.\n\nAs they stood there in the quiet cemetery, Kofi's phone buzzed with one final message: \"THANK YOU. WATCHING OVER YOU ALWAYS. THE GHOST IN THE MACHINE NEVER DIES.\"\n\nHe smiled and put his phone away. Some mysteries were better left unsolved.",
+      "illustrations": [
+        {
+          "description": "The renamed computer lab now called the Sarah Chen Memorial Technology Center, bright and modern with students working at computers. Kofi, with short cropped hair, rich dark brown skin, bright expressive eyes, stands near a memorial plaque while holographic data patterns flow peacefully through the room. The atmosphere is hopeful and inspiring, with neon blue-green accents highlighting the positive transformation of the space into a center for digital justice and learning.",
+          "alt": "The memorial computer lab where students learn cybersecurity and digital forensics",
+          "position": "after-paragraph-4"
+        }
+      ]
+    },
+    {
+      "title": "New Beginnings",
+      "content": "Six months after Sarah's case was solved, Westfield High had transformed into a very different place. The new administration, led by Principal Davis (who had been brought in from another district), had implemented comprehensive anti-bullying policies and created new channels for students to report harassment safely and anonymously.\n\nThe Sarah Chen Memorial Technology Center had become the heart of the school's digital transformation. Students from all grade levels came there not just for computer science classes, but for coding clubs, digital forensics workshops, and cybersecurity training sessions. The FBI had even established a partnership with the school, offering guest lectures and internship opportunities for students interested in cyber crime investigation.\n\nKofi had been elected student body president, running on a platform of using technology to improve communication between students and administration. His first initiative was the \"Digital Democracy\" system—a secure online platform where students could propose ideas, vote on school policies, and communicate directly with administrators without fear of retaliation.\n\n\"Sarah would be proud,\" Maya said as she interviewed Kofi for her latest article. She'd started a podcast called \"Digital Justice\" that covered cases where technology was used to solve crimes or protect victims. The show had gained a national following, and she'd already been approached by several production companies about turning it into a television series.\n\nAlex had surprised everyone by becoming the most popular teacher's assistant in the computer lab. His quiet, patient manner made him perfect for helping struggling students understand complex programming concepts. He was already being recruited by top universities, but he'd decided to stay local for college so he could continue working with the memorial center.\n\n\"I learned something important from Sarah's story,\" he explained to a group of freshman students. \"The most powerful programs aren't necessarily the most complex ones. Sometimes the most important code you'll ever write is the program that helps one person at exactly the right moment.\"\n\nJenny Martinez had become something of a celebrity at school, not just for surviving Davidson's attack, but for her fearless investigative journalism. Her exposé on administrative corruption had won several state awards, and she'd been accepted to Northwestern University's prestigious journalism program.\n\n\"Sarah taught me that the truth always wants to come out,\" she said during her valedictorian speech. \"Sometimes it just needs the right technology and the right people to help it find its voice.\"\n\nMr. Chen had established the Sarah Chen Foundation, which provided scholarships for students interested in using technology for social justice. The foundation also funded research into AI systems that could detect and prevent harassment in schools and workplaces.\n\n\"My sister always believed that technology should serve humanity, not the other way around,\" he said at the foundation's launch event. \"These scholarships will help ensure that her vision lives on in the next generation of programmers, investigators, and digital advocates.\"\n\nBut perhaps the most significant change was harder to quantify. There was a new sense of openness and safety at Westfield High. Students felt empowered to speak up about problems, teachers felt supported in addressing difficult issues, and administrators were held accountable for their actions in ways that hadn't happened before.\n\nThe culture of silence and intimidation that had allowed Davidson's crimes to continue for so long had been replaced by a culture of transparency and mutual support. Sarah's digital ghost had done more than solve a fifteen-year-old murder—it had fundamentally changed how the school community functioned.\n\nAs Kofi walked through the hallways that had once felt foreign and intimidating, he marveled at how much had changed. Students greeted him with genuine friendship, teachers treated him as a valued partner in improving the school, and he felt like he truly belonged in a way he'd never experienced before.\n\nHis phone buzzed with a message, and for a moment his heart skipped, wondering if Sarah's system was still active. But it was just Maya, asking if he wanted to join her and the others for pizza after the coding club meeting.\n\nHe smiled and typed back his response. Some ghosts, he'd learned, were meant to rest in peace. But the changes they inspired could live forever.",
+      "illustrations": [
+        {
+          "description": "A bright, bustling high school hallway filled with diverse students collaborating on laptops and tablets. Kofi, with short cropped hair, rich dark brown skin, bright expressive eyes, walks confidently through the center of the scene, greeting other students. Digital displays show student voting systems and collaborative projects, while holographic data patterns flow gently overhead, representing the positive digital transformation of the school environment with soft neon blue-green accents.",
+          "alt": "Kofi walking through the transformed, digitally-enhanced hallways of Westfield High",
+          "position": "after-paragraph-6"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "justice prevails",
+      "technology for good",
+      "friendship conquers fear",
+      "truth will always surface",
+      "courage in the face of danger",
+      "digital literacy and responsibility",
+      "standing up for others",
+      "legacy and remembrance"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "digital tech mystery, glowing screens, code patterns, digital trails, neon blue green, dark backgrounds, cyber detective, holographic displays, data visualization"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What first made Kofi suspicious that something unusual was happening with the school's network?",
+        "choices": [
+          "Hidden messages appeared in streaming code during computer class",
+          "His personal laptop was hacked from school",
+          "The internet went down completely",
+          "Other students complained about slow computers"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kofi noticed a pattern in what appeared to be random code streaming down screens, and when he analyzed it, he discovered the hidden message 'HELP ME' embedded within."
+      },
+      {
+        "id": "q2",
+        "question": "What was Sarah Chen's relationship to Mr. Chen, the computer science teacher?",
+        "choices": [
+          "She was his older sister",
+          "She was his cousin",
+          "She was his student",
+          "She was his daughter"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mr. Chen revealed that Sarah was his older sister who had died when he was in middle school, and she had taught him everything he knew about computers."
+      },
+      {
+        "id": "q3",
+        "question": "How had Sarah's digital system been operating undetected for fifteen years?",
+        "choices": [
+          "It was powered by solar panels and hidden in the school bell tower",
+          "It ran on the school's main servers",
+          "It was connected to the city's power grid",
+          "It was battery-powered in the basement"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sarah had hidden a laptop system in the bell tower, powered by solar panels with a disguised antenna, allowing it to run continuously and undetected for years."
+      },
+      {
+        "id": "q4",
+        "question": "What was Vice Principal Davidson's motive for killing Sarah Chen?",
+        "choices": [
+          "Sarah had discovered evidence of his harassment of students and threatened to expose him",
+          "He wanted to steal her computer programs",
+          "She had rejected his romantic advances",
+          "He was jealous of her programming skills"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sarah had been documenting Davidson's pattern of harassing younger students, and when she threatened to expose him and his group, they silenced her to prevent the truth from coming out."
+      },
+      {
+        "id": "q5",
+        "question": "What triggered Sarah's AI system to become active after years of dormancy?",
+        "choices": [
+          "It detected that Davidson was targeting another student, Jenny Martinez",
+          "The school installed new computer equipment",
+          "Kofi's programming skills activated it",
+          "The fifteen-year anniversary of Sarah's death"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sarah's system had been monitoring for patterns of harassment and detected that Davidson was escalating his behavior and targeting Jenny Martinez, a student who reminded people of Sarah."
+      },
+      {
+        "id": "q6",
+        "question": "How did Sarah's system help the group escape when they were trapped in the bell tower?",
+        "choices": [
+          "It guided them to a fire escape ladder on the exterior of the building",
+          "It unlocked the tower door remotely",
+          "It called the police for help",
+          "It created a distraction with the school's alarm system"
+        ],
+        "correctIndex": 0,
+        "explanation": "While Sarah's system did create various distractions, the immediate escape route was the old fire escape ladder that Alex spotted on the outside of the building."
+      },
+      {
+        "id": "q7",
+        "question": "What was special about the safe house at 47 Maple Street?",
+        "choices": [
+          "Sarah had equipped it with extensive surveillance equipment to monitor the school",
+          "It belonged to Sarah's family",
+          "It was owned by the school district",
+          "It was an abandoned building with no power"
+        ],
+        "correctIndex": 0,
+        "explanation": "The house was Sarah's backup command center, filled with computer monitors displaying data streams from around Westfield High, showing she had been collecting evidence for fifteen years."
+      },
+      {
+        "id": "q8",
+        "question": "How did Sarah's system protect Jenny Martinez during the winter formal?",
+        "choices": [
+          "It displayed warning messages on every screen in the venue and guided her escape route",
+          "It called the police immediately",
+          "It turned off all the lights in the building",
+          "It locked all the doors to trap Davidson"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sarah's system took control of all the digital displays at the dance to warn Jenny she was in danger, then used the mall's PA system to guide her to safety."
+      },
+      {
+        "id": "q9",
+        "question": "What ultimately led to Davidson's capture?",
+        "choices": [
+          "Sarah's system trapped him behind security barriers in the mall while guiding Jenny to safety",
+          "The police were waiting for him at the dance",
+          "Kofi and his friends physically restrained him",
+          "He confessed voluntarily when confronted"
+        ],
+        "correctIndex": 0,
+        "explanation": "During the chase through the mall, Sarah's system activated security barriers that trapped Davidson in a corridor, preventing his escape until police arrived."
+      },
+      {
+        "id": "q10",
+        "question": "What positive changes occurred at Westfield High after the case was solved?",
+        "choices": [
+          "The computer lab was renamed the Sarah Chen Memorial Technology Center and new anti-bullying policies were implemented",
+          "All the computers were replaced with newer models",
+          "The school was completely rebuilt",
+          "All the administrators were fired"
+        ],
+        "correctIndex": 0,
+        "explanation": "The school honored Sarah's memory by renaming the computer lab after her and implementing comprehensive reforms including new anti-bullying policies, digital democracy systems, and partnerships with law enforcement for cybersecurity education."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "title": "Sarah's First Message",
+        "content": "Help solve the mystery by filling in the missing words from Sarah's decoded messages:",
+        "passage": "The computer lab at Westfield High hummed with the familiar sound of thirty aging desktops working overtime. Kofi noticed something the others didn't. Hidden in the streaming characters, there was a _____. His fingers flew over the keyboard, capturing _____ before the anomaly disappeared. There, embedded in the seemingly random code, were letters. Real words trying to break through the digital _____: \"_____ ME.\"",
+        "blanks": [
+          {
+            "wordIndex": 26,
+            "correctWord": "pattern",
+            "distractors": [
+              "message",
+              "problem"
+            ]
+          },
+          {
+            "wordIndex": 35,
+            "correctWord": "screenshots",
+            "distractors": [
+              "evidence",
+              "pictures"
+            ]
+          },
+          {
+            "wordIndex": 47,
+            "correctWord": "noise",
+            "distractors": [
+              "code",
+              "chaos"
+            ]
+          },
+          {
+            "wordIndex": 51,
+            "correctWord": "HELP",
+            "distractors": [
+              "SAVE",
+              "FIND"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "title": "The Bell Tower Discovery",
+        "content": "Complete the passage about finding Sarah's hidden computer system:",
+        "passage": "The tower's interior was dusty and filled with shadows. \"The _____ is stronger here,\" Kofi said, watching his phone detect network activity. On the third floor, Alex found a hidden _____. Inside was a setup that made Kofi's breath catch - an old _____ still running after all these years, connected to _____ panels and a disguised antenna. The laptop's screen flickered with new text: \"YOU _____ ME. NOW FIND THE TRUTH.\"",
+        "blanks": [
+          {
+            "wordIndex": 13,
+            "correctWord": "signal",
+            "distractors": [
+              "connection",
+              "network"
+            ]
+          },
+          {
+            "wordIndex": 27,
+            "correctWord": "panel",
+            "distractors": [
+              "door",
+              "compartment"
+            ]
+          },
+          {
+            "wordIndex": 37,
+            "correctWord": "laptop",
+            "distractors": [
+              "computer",
+              "device"
+            ]
+          },
+          {
+            "wordIndex": 45,
+            "correctWord": "solar",
+            "distractors": [
+              "power",
+              "energy"
+            ]
+          },
+          {
+            "wordIndex": 54,
+            "correctWord": "FOUND",
+            "distractors": [
+              "DISCOVERED",
+              "LOCATED"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "title": "The Final Confrontation",
+        "content": "Fill in the missing words from the climactic scene at the winter formal:",
+        "passage": "Davidson moved through the crowd wearing a fake _____ uniform, getting closer to Jenny Martinez. That's when Sarah's system activated its final _____. Every screen in the community center began displaying the same message: \"JENNY MARTINEZ. BLUE _____. YOU ARE IN DANGER.\" Jenny got the message and _____. As Davidson chased her through the mall, every security _____ between them suddenly slammed shut, trapping him while _____ began wailing.",
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "security",
+            "distractors": [
+              "police",
+              "guard"
+            ]
+          },
+          {
+            "wordIndex": 19,
+            "correctWord": "protocol",
+            "distractors": [
+              "program",
+              "system"
+            ]
+          },
+          {
+            "wordIndex": 30,
+            "correctWord": "DRESS",
+            "distractors": [
+              "GOWN",
+              "OUTFIT"
+            ]
+          },
+          {
+            "wordIndex": 37,
+            "correctWord": "ran",
+            "distractors": [
+              "fled",
+              "escaped"
+            ]
+          },
+          {
+            "wordIndex": 47,
+            "correctWord": "gate",
+            "distractors": [
+              "door",
+              "barrier"
+            ]
+          },
+          {
+            "wordIndex": 53,
+            "correctWord": "alarms",
+            "distractors": [
+              "sirens",
+              "alerts"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

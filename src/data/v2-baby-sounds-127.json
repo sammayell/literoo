@@ -1,0 +1,159 @@
+{
+  "id": "v2-baby-sounds-127",
+  "title": "Ivy's Sound Counting Adventure",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "sounds",
+    "counting"
+  ],
+  "wordCount": 84,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Ivy discovers sounds all around her and counts them in this sensory adventure filled with musical notes, animal sounds, and everyday noises.",
+  "coverImage": "covers/v2-baby-sounds-127.webp",
+  "chapters": [
+    {
+      "title": "Counting Sounds with Ivy",
+      "pages": [
+        {
+          "text": "This is Ivy! She loves to listen to sounds.",
+          "illustration": {
+            "description": "A cheerful little girl with short dark brown bob with bangs, fair skin, big brown eyes standing in a colorful garden with swirling rainbow sound waves floating around her like ribbons",
+            "alt": "Ivy surrounded by colorful sound waves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "ONE bird goes tweet! The sound looks like yellow dots dancing in the air.",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes looking up at a blue bird on a tree branch, with bright yellow dots floating and sparkling around the bird",
+            "alt": "Ivy watching a bird with yellow sound dots",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "TWO cats go meow! Their sounds are purple zigzags.",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes sitting on grass with two orange cats, surrounded by purple zigzag lines bouncing playfully in the air",
+            "alt": "Ivy with two cats and purple zigzag sounds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "THREE dogs go woof! Big orange circles bounce everywhere!",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes in a park with three playful dogs of different sizes, large bouncing orange circles filling the sky around them",
+            "alt": "Ivy with three dogs and orange circle sounds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The wind goes whoosh! It makes long blue wavy lines that flow like water.",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes standing in a field with her hair gently blowing, surrounded by flowing blue wavy lines that curve and dance like ribbons in the breeze",
+            "alt": "Ivy with flowing blue wind sound lines",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A bell goes ding! It creates tiny silver stars that twinkle and shine.",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes holding a small golden bell, with sparkling silver star shapes twinkling and floating around her like magical fairy dust",
+            "alt": "Ivy with bell and twinkling silver star sounds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Ivy claps her hands! Pink bubbles float up to the sky. What sounds do you hear?",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes clapping her hands with joy, surrounded by floating pink bubble shapes rising upward, with a big smile on her face",
+            "alt": "Ivy clapping with pink bubble sounds floating up",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "counting",
+      "sounds",
+      "sensory exploration",
+      "animals",
+      "nature"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "sound made visible, wavy lines for music, jagged lines for crashes, dots for whispers, synesthesia inspired, seeing sound, color and shape for noise, vibration visual"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How many birds made tweet sounds?",
+        "choices": [
+          "One",
+          "Two",
+          "Three"
+        ],
+        "correctIndex": 0,
+        "explanation": "ONE bird went tweet and made yellow dots!"
+      },
+      {
+        "id": "q2",
+        "question": "What color were the cat sounds?",
+        "choices": [
+          "Yellow",
+          "Purple",
+          "Orange"
+        ],
+        "correctIndex": 1,
+        "explanation": "The cats' meow sounds were purple zigzags!"
+      },
+      {
+        "id": "q3",
+        "question": "What did Ivy do at the end?",
+        "choices": [
+          "Sing",
+          "Clap",
+          "Dance"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ivy clapped her hands and made pink bubble sounds!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "bird",
+            "distractors": [
+              "cat",
+              "dog"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "TWO",
+            "distractors": [
+              "ONE",
+              "THREE"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

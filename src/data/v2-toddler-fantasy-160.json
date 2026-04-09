@@ -1,0 +1,196 @@
+{
+  "id": "v2-toddler-fantasy-160",
+  "title": "Sofia and the Glowing Garden",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "fantasy",
+    "friendship"
+  ],
+  "wordCount": 208,
+  "readingLevel": "Pre-K",
+  "synopsis": "Sofia discovers a magical garden where she befriends a shy fairy and learns that friendship grows when we share kindness and care for others.",
+  "coverImage": "covers/v2-toddler-fantasy-160.webp",
+  "chapters": [
+    {
+      "title": "The Magic Garden",
+      "pages": [
+        {
+          "text": "Sofia loved to explore. One sunny morning, she found a hidden path covered in sparkly leaves. The path led to the most beautiful garden she had ever seen!",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes stands at the entrance of an enchanted garden. Glowing mushrooms line a winding path, fairy lights twinkle in the trees, rich greens and purples fill the magical forest scene with golden sparkles floating through the air, Studio Ghibli inspired with detailed foliage.",
+            "alt": "Sofia discovering a magical garden entrance",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The garden was full of glowing flowers that chimed like tiny bells. Purple mushrooms lit up like lanterns, and golden butterflies danced in the warm air. Sofia gasped with wonder.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes walks through the enchanted garden surrounded by glowing bell-shaped flowers, luminous purple mushrooms, and golden butterflies. Fairy lights create a mystical atmosphere with rich greens and magical sparkles throughout the detailed foliage.",
+            "alt": "Sofia exploring the glowing magical garden",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "A Shy New Friend",
+      "pages": [
+        {
+          "text": "Behind a big glowing mushroom, Sofia heard a tiny sniffle. She peeked around and saw a small fairy with shimmery wings, crying softly.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes peers around a large glowing purple mushroom to see a small fairy with delicate shimmery wings sitting sadly. The enchanted forest scene includes fairy lights twinkling overhead, mystical creatures in the background, rich greens and golden sparkles creating a magical atmosphere.",
+            "alt": "Sofia finding a crying fairy behind a mushroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Hello,\" Sofia said gently. \"I'm Sofia. Why are you sad?\" The fairy looked up with teary eyes. \"I'm Luna. I lost my magic flower that helps the garden glow. Without it, everything will lose its sparkle.\"",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes kneels down talking to Luna the fairy who has delicate wings and is sitting on a glowing mushroom. The enchanted forest surrounds them with fairy lights, mystical atmosphere, rich greens and purples, detailed foliage with golden sparkles floating around them.",
+            "alt": "Sofia talking to Luna the fairy",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Friendship Magic",
+      "pages": [
+        {
+          "text": "\"Let's look together!\" Sofia said with a smile. They searched high and low, under mushrooms and behind flowers. Finally, Sofia spotted something glowing in a stream.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes and Luna the fairy search together through the enchanted forest. They look under glowing mushrooms and around magical flowers. A sparkling stream runs through the scene with fairy lights reflecting in the water, rich greens and purples creating a mystical atmosphere with golden sparkles.",
+            "alt": "Sofia and Luna searching for the magic flower",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"There it is!\" Sofia carefully picked up the glowing flower. Luna clapped her tiny hands with joy. \"Thank you, Sofia! You're the best friend ever!\" The garden sparkled brighter than before.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes holds a brilliantly glowing flower while Luna the fairy flies happily nearby. The entire enchanted forest garden radiates with enhanced magical light, glowing mushrooms shine brighter, fairy lights twinkle more intensely, and golden sparkles fill the air in a Studio Ghibli inspired celebration scene.",
+            "alt": "Sofia and Luna celebrating with the found magic flower",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "From that day on, Sofia visited Luna every week. They played games, shared stories, and took care of the magic garden together. Sofia learned that the best adventures are even better with a friend.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes and Luna the fairy play together in the thriving enchanted garden. They water glowing flowers and laugh among the luminous purple mushrooms. Fairy lights create a warm, magical atmosphere with mystical creatures watching from the detailed foliage, rich greens and golden sparkles completing the friendship scene.",
+            "alt": "Sofia and Luna playing together in the magical garden",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "helping others",
+      "exploration",
+      "magic",
+      "kindness"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Sofia find in the hidden garden?",
+        "choices": [
+          "Glowing flowers and mushrooms",
+          "Regular flowers",
+          "Rocks and sticks"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sofia found glowing flowers that chimed like bells and purple mushrooms that lit up like lanterns!"
+      },
+      {
+        "id": "q2",
+        "question": "What was the fairy's name?",
+        "choices": [
+          "Luna",
+          "Stella",
+          "Rose"
+        ],
+        "correctIndex": 0,
+        "explanation": "The fairy's name was Luna, and she had shimmery wings!"
+      },
+      {
+        "id": "q3",
+        "question": "What did Luna lose?",
+        "choices": [
+          "Her magic flower",
+          "Her wings",
+          "Her wand"
+        ],
+        "correctIndex": 0,
+        "explanation": "Luna lost her magic flower that helped the garden glow and sparkle!"
+      },
+      {
+        "id": "q4",
+        "question": "Where did they find the magic flower?",
+        "choices": [
+          "In a stream",
+          "In a tree",
+          "Under a rock"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sofia spotted the glowing magic flower in the sparkling stream!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "sparkly",
+            "distractors": [
+              "muddy",
+              "plain"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "beautiful",
+            "distractors": [
+              "scary",
+              "empty"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "fairy",
+            "distractors": [
+              "bird",
+              "mouse"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "crying",
+            "distractors": [
+              "laughing",
+              "singing"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

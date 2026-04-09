@@ -1,0 +1,142 @@
+{
+  "id": "v2-baby-family-024",
+  "title": "Oscar's Morning Sounds",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "family",
+    "sounds"
+  ],
+  "wordCount": 66,
+  "readingLevel": "Pre-K",
+  "synopsis": "Baby Oscar discovers the gentle sounds of a cozy family morning, from alarm clocks to sizzling pancakes, in this sweet introduction to everyday home sounds.",
+  "coverImage": "covers/v2-baby-family-024.webp",
+  "chapters": [
+    {
+      "title": "Wake Up Sounds",
+      "pages": [
+        {
+          "text": "RING! RING! goes the alarm clock. Oscar opens his warm hazel eyes. Good morning, Oscar!",
+          "illustration": {
+            "description": "Baby Oscar with short brown wavy hair, fair skin, warm hazel eyes lying in his crib, stretching as golden morning sunlight streams through the window, wearing soft blue pajamas",
+            "alt": "Baby Oscar waking up in his sunny bedroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "CREAK goes the door. Mama comes in. 'Good morning, sweet boy!' she says softly.",
+          "illustration": {
+            "description": "A loving mother in cozy pajamas gently opening Oscar's bedroom door, with Oscar (short brown wavy hair, fair skin, warm hazel eyes) sitting up in his crib reaching toward her, warm golden hour light filling the room",
+            "alt": "Mama entering Oscar's room in the morning",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "SIZZLE! SIZZLE! Papa makes pancakes downstairs. Oscar claps his hands. Yummy sounds!",
+          "illustration": {
+            "description": "Papa cooking pancakes at the stove while Oscar (short brown wavy hair, fair skin, warm hazel eyes) sits in his high chair clapping, golden Sunday morning light streaming through kitchen windows, newspapers on counter",
+            "alt": "Papa making pancakes while Oscar claps excitedly",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "FLIP! goes the pancake. GIGGLE! goes Oscar. What a happy morning sound!",
+          "illustration": {
+            "description": "Papa flipping a pancake in the air while Oscar (short brown wavy hair, fair skin, warm hazel eyes) laughs delightedly from his high chair, sunlit kitchen with gentle unhurried morning atmosphere",
+            "alt": "Papa flipping pancakes as Oscar giggles with joy",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "YUM! YUM! Oscar eats his breakfast. SLURP! goes his milk. Good morning, family!",
+          "illustration": {
+            "description": "The whole modern diverse family sitting around the breakfast table in pajamas, Oscar (short brown wavy hair, fair skin, warm hazel eyes) happily eating pancakes, warm domestic scene with golden morning light and newspapers nearby",
+            "alt": "Family enjoying breakfast together on a lazy morning",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "morning routines",
+      "sound recognition",
+      "home comfort"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Sunday morning light, golden hour, family pajamas, newspapers pancakes, gentle unhurried, modern diverse family, lazy morning, sunlit rooms, warm domestic"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does the alarm clock make?",
+        "choices": [
+          "RING! RING!",
+          "SIZZLE! SIZZLE!",
+          "GIGGLE!"
+        ],
+        "correctIndex": 0,
+        "explanation": "The alarm clock goes RING! RING! to wake up Oscar in the morning."
+      },
+      {
+        "id": "q2",
+        "question": "Who makes the pancakes?",
+        "choices": [
+          "Mama",
+          "Papa",
+          "Oscar"
+        ],
+        "correctIndex": 1,
+        "explanation": "Papa makes the pancakes that go SIZZLE! SIZZLE! on the stove."
+      },
+      {
+        "id": "q3",
+        "question": "What does Oscar do when he hears the pancake sounds?",
+        "choices": [
+          "sleeps",
+          "claps his hands",
+          "cries"
+        ],
+        "correctIndex": 1,
+        "explanation": "Oscar claps his hands when he hears the yummy pancake sounds!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "eyes",
+            "distractors": [
+              "nose",
+              "ears"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "pancakes",
+            "distractors": [
+              "cookies",
+              "toast"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

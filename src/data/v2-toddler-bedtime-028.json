@@ -1,0 +1,196 @@
+{
+  "id": "v2-toddler-bedtime-028",
+  "title": "Theo's Sleepy Feelings",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "bedtime",
+    "feelings"
+  ],
+  "wordCount": 187,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Theo learns to understand and calm his big feelings at bedtime with help from the gentle moon and stars.",
+  "coverImage": "covers/v2-toddler-bedtime-028.webp",
+  "chapters": [
+    {
+      "title": "Theo's Big Feelings",
+      "pages": [
+        {
+          "text": "Theo had big feelings tonight. His heart felt bumpy and his tummy felt wiggly. Sometimes little boys have feelings that feel too big for their small bodies.",
+          "illustration": {
+            "description": "A young boy with short curly blonde hair, light skin, round blue eyes sitting on his bed looking worried, surrounded by soft watercolor dreamy purple and blue gradients with gentle moonlight streaming through a window, glowing stars twinkling outside, ethereal atmosphere with pastel palette",
+            "alt": "Theo sitting on his bed with worried expression",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama tucked Theo into his cozy bed. 'What's making your heart feel bumpy, little one?' she asked softly. Theo pointed to his chest. 'It feels too full,' he whispered.",
+          "illustration": {
+            "description": "A caring mother sitting beside a young boy with short curly blonde hair, light skin, round blue eyes in a cozy bedroom with soft watercolor floating clouds, dreamy purple and blue gradients, round sleepy faces on stuffed animals, gentle moonlight casting ethereal atmosphere in pastel palette",
+            "alt": "Mama sitting with Theo on his bed",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Moon's Gentle Help",
+      "pages": [
+        {
+          "text": "Mama opened the curtains wide. The gentle moon peeked through, casting soft silver light. 'Look, Theo,' Mama said. 'The moon understands big feelings too.'",
+          "illustration": {
+            "description": "A young boy with short curly blonde hair, light skin, round blue eyes looking out a window at a large gentle moon with soft watercolor glowing stars scattered across the sky, dreamy purple and blue gradients, floating clouds, gentle moonlight creating ethereal atmosphere with pastel palette",
+            "alt": "Theo looking at the moon through his window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The moon seemed to smile down at Theo. Its light felt warm and understanding. Theo took a deep breath, just like Mama taught him. In... and out... slowly.",
+          "illustration": {
+            "description": "A peaceful young boy with short curly blonde hair, light skin, round blue eyes breathing deeply in bed with soft watercolor round sleepy faces of moon and stars watching over him, dreamy purple and blue gradients, floating clouds, gentle moonlight creating ethereal atmosphere in pastel palette",
+            "alt": "Theo breathing deeply with the smiling moon watching",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sleepy Peace",
+      "pages": [
+        {
+          "text": "With each gentle breath, Theo's bumpy heart began to feel softer. The wiggly feeling in his tummy started to settle down. The stars twinkled like tiny night lights.",
+          "illustration": {
+            "description": "A relaxed young boy with short curly blonde hair, light skin, round blue eyes lying peacefully in bed surrounded by soft watercolor glowing stars twinkling like fairy lights, dreamy purple and blue gradients, floating clouds drifting by, gentle moonlight in ethereal atmosphere with pastel palette",
+            "alt": "Theo feeling calmer with twinkling stars around",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama kissed Theo's forehead. 'Big feelings are okay,' she whispered. 'They come and they go, like clouds in the sky.' Theo's eyes grew heavy and peaceful.",
+          "illustration": {
+            "description": "A sleepy young boy with short curly blonde hair, light skin, round blue eyes with droopy eyelids as his mother gives him a goodnight kiss, soft watercolor floating clouds drifting peacefully, dreamy purple and blue gradients, gentle moonlight, ethereal atmosphere with round sleepy faces and pastel palette",
+            "alt": "Mama kissing sleepy Theo goodnight",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "As Theo drifted off to sleep, he felt safe and loved. His feelings had become gentle like the moon's soft light. Sweet dreams, little Theo.",
+          "illustration": {
+            "description": "A sleeping young boy with short curly blonde hair, light skin, round blue eyes peacefully slumbering with a content smile, surrounded by soft watercolor floating clouds, glowing stars forming a protective circle, dreamy purple and blue gradients, gentle moonlight creating ethereal atmosphere in pastel palette",
+            "alt": "Theo sleeping peacefully under the starry sky",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotional regulation",
+      "bedtime comfort",
+      "parental support",
+      "mindfulness",
+      "feelings validation"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Theo's heart feel at the beginning?",
+        "choices": [
+          "bumpy",
+          "happy",
+          "sleepy"
+        ],
+        "correctIndex": 0,
+        "explanation": "Theo's heart felt bumpy because he had big feelings that felt too big for his small body."
+      },
+      {
+        "id": "q2",
+        "question": "What did Mama open to help Theo?",
+        "choices": [
+          "curtains",
+          "door",
+          "book"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama opened the curtains wide so Theo could see the gentle moon that understands big feelings too."
+      },
+      {
+        "id": "q3",
+        "question": "What did Theo do to help calm down?",
+        "choices": [
+          "breathe deeply",
+          "run around",
+          "eat cookies"
+        ],
+        "correctIndex": 0,
+        "explanation": "Theo took deep breaths, in and out slowly, just like Mama taught him to help calm his big feelings."
+      },
+      {
+        "id": "q4",
+        "question": "What did Mama say feelings are like?",
+        "choices": [
+          "clouds in the sky",
+          "rocks",
+          "toys"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama said big feelings come and go like clouds in the sky, meaning they don't last forever."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "big",
+            "distractors": [
+              "small",
+              "red"
+            ]
+          },
+          {
+            "wordIndex": 8,
+            "correctWord": "bumpy",
+            "distractors": [
+              "smooth",
+              "square"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "moon",
+            "distractors": [
+              "sun",
+              "car"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "breath",
+            "distractors": [
+              "jump",
+              "dance"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

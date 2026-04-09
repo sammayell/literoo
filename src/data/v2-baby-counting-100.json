@@ -1,0 +1,169 @@
+{
+  "id": "v2-baby-counting-100",
+  "title": "Sofia Counts Happy Things",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "counting",
+    "feelings"
+  ],
+  "wordCount": 83,
+  "readingLevel": "baby",
+  "synopsis": "Join Sofia as she counts from one to five while discovering happy things that make her smile and feel joyful.",
+  "coverImage": "covers/v2-baby-counting-100.webp",
+  "chapters": [
+    {
+      "title": "Counting Happy Things",
+      "pages": [
+        {
+          "text": "Hi! I'm Sofia. I love to count happy things that make me smile.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes standing in a cheerful room with colorful toys scattered around, smiling brightly",
+            "alt": "Sofia introducing herself in a happy, colorful room",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "ONE happy sun shines bright! It makes me feel warm and happy.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes pointing up at one large, smiling yellow sun with rays. The number 1 is prominently displayed in bright colors",
+            "alt": "Sofia looking up at one happy sun with the number 1",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "TWO soft teddy bears give the best hugs. They make me feel loved.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes hugging two fluffy teddy bears, one brown and one cream colored. The number 2 is prominently displayed",
+            "alt": "Sofia hugging two teddy bears with the number 2",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "THREE pretty flowers smell so sweet. They make me feel peaceful.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes smelling three colorful flowers arranged in a row - red, yellow, and pink. The number 3 is prominently displayed",
+            "alt": "Sofia smelling three beautiful flowers with the number 3",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "FOUR little birds sing happy songs. They make me feel excited.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes listening to four small colorful birds perched on a branch, each bird a different bright color. The number 4 is prominently displayed",
+            "alt": "Sofia listening to four singing birds with the number 4",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "FIVE yummy cookies taste so good. They make me feel delighted!",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes sitting at a table with five round chocolate chip cookies arranged in a neat row. The number 5 is prominently displayed",
+            "alt": "Sofia with five cookies on a table with the number 5",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Counting happy things makes me smile big! One, two, three, four, five!",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes with a huge smile, surrounded by all the happy things - sun, teddy bears, flowers, birds, and cookies. Numbers 1-5 are arranged in a cheerful pattern",
+            "alt": "Sofia smiling big surrounded by all the counted happy things and numbers 1 through 5",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "counting",
+      "happiness",
+      "positive emotions",
+      "gratitude",
+      "numbers 1-5"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "clear countable objects, fun patterns, numbers prominent, visual counting, each number unique scene, engaging practice, organized arrangement, mathematical beauty"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How many teddy bears does Sofia hug?",
+        "choices": [
+          "two",
+          "three"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sofia hugs two soft teddy bears that give the best hugs!"
+      },
+      {
+        "id": "q2",
+        "question": "What makes Sofia feel warm and happy?",
+        "choices": [
+          "the sun",
+          "cookies"
+        ],
+        "correctIndex": 0,
+        "explanation": "The one happy sun that shines bright makes Sofia feel warm and happy!"
+      },
+      {
+        "id": "q3",
+        "question": "How many cookies does Sofia have?",
+        "choices": [
+          "four",
+          "five"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sofia has five yummy cookies that taste so good and make her feel delighted!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "sun",
+            "distractors": [
+              "moon",
+              "star"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "TWO",
+            "distractors": [
+              "ONE",
+              "THREE"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "FOUR",
+            "distractors": [
+              "THREE",
+              "FIVE"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

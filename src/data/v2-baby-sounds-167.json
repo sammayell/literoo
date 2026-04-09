@@ -1,0 +1,156 @@
+{
+  "id": "v2-baby-sounds-167",
+  "title": "Ivy's Sound Adventures",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "sounds",
+    "counting"
+  ],
+  "wordCount": 96,
+  "readingLevel": "pre-reading",
+  "synopsis": "Baby Ivy discovers different sounds around her home, from one clapping hand to five singing birds, learning to count while exploring the magical world of noise and music.",
+  "coverImage": "covers/v2-baby-sounds-167.webp",
+  "chapters": [
+    {
+      "title": "Counting Sounds with Ivy",
+      "pages": [
+        {
+          "text": "This is Ivy. She loves sounds! Listen with Ivy as she counts sounds around her home.",
+          "illustration": {
+            "description": "A cheerful baby girl with short dark brown bob with bangs, fair skin, big brown eyes, sitting on a colorful rug surrounded by gentle rainbow sound waves flowing through the air",
+            "alt": "Baby Ivy sitting with colorful sound waves around her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "One! Clap, clap! Ivy claps her hands. One sound makes happy circles.",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes, clapping her hands with bright yellow circular sound waves radiating outward from her palms",
+            "alt": "Ivy clapping with yellow circular sound waves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Two! Tap, tap! Two spoons make music. See the dancing sound ribbons!",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes, holding two wooden spoons with flowing blue and purple ribbon-like sound waves swirling around them",
+            "alt": "Ivy with spoons creating ribbon-like sound waves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Three! Ring, ring, ring! Three bells jingle. Look at the sparkly sound stars!",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes, shaking three small bells with glittering silver star-shaped sound bursts filling the air around her",
+            "alt": "Ivy with bells creating star-shaped sound bursts",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Four! Meow, meow, meow, meow! Four cats purr. Soft orange sound clouds float by.",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes, sitting with four friendly cats while soft orange cloud-like sound shapes drift peacefully above them",
+            "alt": "Ivy with four cats and orange sound clouds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Five! Tweet, tweet, tweet, tweet, tweet! Five birds sing. Beautiful green sound flowers bloom everywhere!",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes, looking up at five colorful birds in a tree with vibrant green flower-shaped sound patterns blooming all around the scene",
+            "alt": "Ivy with five singing birds and flower-shaped sound patterns",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Ivy loves counting sounds! Clap, tap, ring, meow, tweet! What sounds do you hear?",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes, surrounded by a magical symphony of all the sound shapes - circles, ribbons, stars, clouds, and flowers in a rainbow of colors",
+            "alt": "Ivy surrounded by all different sound shapes and colors",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "counting",
+      "sounds",
+      "exploration",
+      "music",
+      "sensory learning"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "sound made visible, wavy lines for music, jagged lines for crashes, dots for whispers, synesthesia inspired, seeing sound, color and shape for noise, vibration visual"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How many hands does Ivy clap?",
+        "choices": [
+          "One",
+          "Two"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ivy makes one clapping sound with her hands together!"
+      },
+      {
+        "id": "q2",
+        "question": "What do the bells make?",
+        "choices": [
+          "Stars",
+          "Circles"
+        ],
+        "correctIndex": 0,
+        "explanation": "The three bells make sparkly sound stars when they ring!"
+      },
+      {
+        "id": "q3",
+        "question": "How many birds sing to Ivy?",
+        "choices": [
+          "Four",
+          "Five"
+        ],
+        "correctIndex": 1,
+        "explanation": "Five birds sing and make beautiful green sound flowers!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "Clap",
+            "distractors": [
+              "Jump",
+              "Run"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "Two",
+            "distractors": [
+              "One",
+              "Three"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

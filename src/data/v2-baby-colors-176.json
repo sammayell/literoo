@@ -1,0 +1,147 @@
+{
+  "id": "v2-baby-colors-176",
+  "title": "Malik's Rainbow Snacks",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "colors",
+    "food"
+  ],
+  "wordCount": 77,
+  "readingLevel": "baby",
+  "synopsis": "Little Malik discovers different colored foods and their tasty flavors in this vibrant sensory adventure perfect for toddlers learning about colors.",
+  "coverImage": "covers/v2-baby-colors-176.webp",
+  "chapters": [
+    {
+      "title": "Yummy Colors",
+      "pages": [
+        {
+          "text": "Malik loves to eat! Red strawberries are sweet and juicy. Yum yum!",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, gentle expressive eyes holds a bright red strawberry with red paint splatters and drips dominating the scene in finger paint style",
+            "alt": "Malik holding a red strawberry with red paint splashes everywhere",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Orange carrots are crunchy! Crunch crunch! Malik likes the sound.",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, gentle expressive eyes munches an orange carrot with vibrant orange paint drips and splashes filling the background in joyful finger paint aesthetic",
+            "alt": "Malik eating an orange carrot surrounded by orange paint splatters",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Yellow bananas are soft and smooth. Malik peels the yellow skin.",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, gentle expressive eyes peeling a bright yellow banana with sunny yellow paint splatter drips dominating the sensory visual scene",
+            "alt": "Malik peeling a yellow banana with yellow paint splashes all around",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Green peas are tiny and round. Pop pop! They roll on Malik's plate.",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, gentle expressive eyes looking at green peas on his plate with emerald green paint drips and splatters in splashy painterly style",
+            "alt": "Malik looking at green peas with green paint splatters everywhere",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Blue blueberries burst with flavor! Malik's fingers turn purple-blue from the juicy fruit.",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, gentle expressive eyes with blue-stained fingers holding blueberries with deep blue paint splatter drips in pure color finger paint aesthetic",
+            "alt": "Malik with blue-stained fingers holding blueberries surrounded by blue paint",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Purple grapes are Malik's favorite! So many colors to taste and see. What color will Malik eat next?",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, gentle expressive eyes surrounded by a rainbow of all colors with purple grapes in focus and multicolored paint splatter drips creating joyful color exploration",
+            "alt": "Malik surrounded by rainbow colored foods and paint splatters",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "color recognition",
+      "healthy eating",
+      "sensory exploration",
+      "food discovery"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "rainbow colors, splashy painterly, one color dominant per scene, paint splatter drips, sensory visual, joyful pure color, finger paint aesthetic, color exploration"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color are strawberries?",
+        "choices": [
+          "red",
+          "blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "Strawberries are red! Malik loves red strawberries because they are sweet and juicy."
+      },
+      {
+        "id": "q2",
+        "question": "What sound do carrots make?",
+        "choices": [
+          "crunch",
+          "pop"
+        ],
+        "correctIndex": 0,
+        "explanation": "Carrots go crunch crunch! Malik likes the crunchy sound when he eats orange carrots."
+      },
+      {
+        "id": "q3",
+        "question": "What are Malik's favorite purple fruit?",
+        "choices": [
+          "grapes",
+          "bananas"
+        ],
+        "correctIndex": 0,
+        "explanation": "Purple grapes are Malik's favorite! He loves their sweet taste and pretty purple color."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "red",
+            "distractors": [
+              "blue",
+              "green"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "green",
+            "distractors": [
+              "red",
+              "yellow"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

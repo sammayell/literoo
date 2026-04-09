@@ -1,0 +1,164 @@
+{
+  "id": "v2-toddler-animals-122",
+  "title": "Finn's Big Safari Adventure",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "animals",
+    "adventure"
+  ],
+  "wordCount": 157,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Finn goes on an exciting safari adventure, meeting friendly animals and discovering the wonders of the savanna with his new animal friends.",
+  "coverImage": "covers/v2-toddler-animals-122.webp",
+  "chapters": [
+    {
+      "title": "Safari Time!",
+      "pages": [
+        {
+          "text": "Finn loves animals! Today he's going on a big safari adventure. He puts on his special safari hat and grabs his binoculars. \"I can't wait to meet all the animals!\" says Finn. The savanna stretches far and wide with golden grass everywhere. What animals will Finn see today?",
+          "illustration": {
+            "description": "A young boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes wearing a khaki safari hat and holding binoculars, standing in a vast golden savanna landscape painted in gouache with thick brushstrokes, warm savanna colors, textured painterly golden grass under an orange sunset sky with bold confident strokes",
+            "alt": "Finn in safari gear looking out over the golden savanna",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "New Animal Friends",
+      "pages": [
+        {
+          "text": "\"Hello there!\" calls a tall giraffe. Finn waves up high. The giraffe's spots look like puzzle pieces! Next, a playful monkey swings down from a tree. \"Want to play?\" chatters the monkey. Then a big, friendly elephant trumpets loudly. \"Welcome to our home!\" she says. Finn giggles with joy. These animals are so nice!",
+          "illustration": {
+            "description": "A boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes surrounded by expressive animals including a tall spotted giraffe, a swinging monkey, and a large friendly elephant, painted in gouache with thick brushstrokes, warm savanna colors, textured painterly style with golden grass and bold confident strokes",
+            "alt": "Finn meeting a giraffe, monkey, and elephant in the savanna",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Best Day Ever",
+      "pages": [
+        {
+          "text": "The sun starts to set with beautiful orange colors. All of Finn's new friends gather around him. The giraffe, monkey, and elephant want to say goodbye. \"This was the best adventure ever!\" says Finn. He hugs each animal friend. \"I'll come back to visit you soon!\" The animals wave as Finn heads home, smiling big.",
+          "illustration": {
+            "description": "A young boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes hugging his animal friends - a giraffe, monkey, and elephant - during a spectacular orange sunset, painted in gouache with thick brushstrokes, warm savanna colors, expressive animals, textured painterly golden grass, and bold confident strokes",
+            "alt": "Finn saying goodbye to his animal friends at sunset",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "adventure",
+      "animals",
+      "exploration",
+      "kindness"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Finn wear on his safari adventure?",
+        "choices": [
+          "A safari hat",
+          "A baseball cap",
+          "A winter hat"
+        ],
+        "correctIndex": 0,
+        "explanation": "Finn puts on his special safari hat before going on his adventure!"
+      },
+      {
+        "id": "q2",
+        "question": "Which animal is the tallest that Finn meets?",
+        "choices": [
+          "The giraffe",
+          "The elephant",
+          "The monkey"
+        ],
+        "correctIndex": 0,
+        "explanation": "The giraffe is the tallest animal, and Finn has to wave up high to greet it!"
+      },
+      {
+        "id": "q3",
+        "question": "What does the monkey want to do with Finn?",
+        "choices": [
+          "Play",
+          "Eat",
+          "Sleep"
+        ],
+        "correctIndex": 0,
+        "explanation": "The playful monkey asks Finn if he wants to play!"
+      },
+      {
+        "id": "q4",
+        "question": "When do the animals say goodbye to Finn?",
+        "choices": [
+          "At sunset",
+          "In the morning",
+          "At lunch time"
+        ],
+        "correctIndex": 0,
+        "explanation": "The sun starts to set with beautiful orange colors when it's time to say goodbye."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "animals",
+            "distractors": [
+              "trees",
+              "cars"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "binoculars",
+            "distractors": [
+              "camera",
+              "backpack"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "giraffe",
+            "distractors": [
+              "zebra",
+              "lion"
+            ]
+          },
+          {
+            "wordIndex": 20,
+            "correctWord": "monkey",
+            "distractors": [
+              "bird",
+              "snake"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

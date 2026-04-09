@@ -1,0 +1,174 @@
+{
+  "id": "v2-toddler-humor-067",
+  "title": "Ivy's Giggly Sock Monster",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "humor",
+    "fantasy"
+  ],
+  "wordCount": 184,
+  "readingLevel": "Pre-K",
+  "synopsis": "When Ivy's favorite polka dot socks come alive and start bouncing around her room causing silly chaos, she must figure out how to calm down her giggly sock monster friend through the power of tickles and friendship.",
+  "coverImage": "covers/v2-toddler-humor-067.webp",
+  "chapters": [
+    {
+      "title": "The Bouncing Sock Surprise",
+      "pages": [
+        {
+          "text": "Ivy was getting ready for bed when something very silly happened. Her favorite polka dot socks started wiggling in the drawer! 'Giggle giggle!' they laughed as they bounced out.",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes stands with mouth wide open in exaggerated surprise, eyes cartoonishly huge. Bright pink polka dot socks are bouncing out of a dresser drawer with rubber arms and legs, big goofy grins, stretching and squashing in mid-bounce. The room is candy bright colors with oversized furniture.",
+            "alt": "Ivy looking shocked as animated polka dot socks bounce from her dresser",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The sock monster bounced on Ivy's bed - BOING! BOING! BOING! Then it bounced on her toy chest - CRASH! All her blocks tumbled everywhere like colorful rain!",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes has her arms stretched wide in comedic shock. The pink polka dot sock monster is stretched tall like a rubber band mid-bounce on a bright purple toy chest. Colorful alphabet blocks are flying everywhere in exaggerated arcs. The sock monster has a mischievous grin and squashed body from bouncing.",
+            "alt": "Sock monster bouncing on toy chest while blocks fly everywhere and Ivy watches",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Stop, silly sock!' Ivy giggled. But the sock monster just bounced faster! It bounced off the walls - BOING! Off the ceiling - BOING! It was having too much fun to stop!",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes is bent over laughing with oversized smile and squeezed-shut eyes. The sock monster is stretched between wall and ceiling in an impossible rubber hose animation pose, leaving bouncy motion lines. The room has candy bright yellow walls with comedic impact stars where the sock monster bounced.",
+            "alt": "Ivy laughing as the sock monster bounces wildly around her colorful room",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Tickles and Giggles",
+      "pages": [
+        {
+          "text": "Ivy had a great idea! 'I know how to catch you!' she said. She wiggled her fingers in the air. 'Tickle tickle!' The sock monster's eyes got very big and round.",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes has an exaggerated lightbulb moment expression with huge grin and sparkly eyes. Her fingers are wiggling in bouncy motion lines. The sock monster is hovering mid-air with cartoonishly enormous round eyes and mouth in an 'O' shape, body slightly squashed from stopping suddenly.",
+            "alt": "Ivy with wiggling fingers facing the surprised sock monster",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Tickle attack!' Ivy shouted as she gently tickled the sock monster. 'Hee hee hee!' it laughed, bouncing slower and slower until it was just giggling softly in her hands.",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes is in a dynamic pose with arms outstretched, huge smile, tickling the sock monster. The sock monster is stretched in a U-shape from laughing, with tears of joy flying off in cartoon drops. Both characters have exaggerated happy expressions with the sock monster's body doing a comedic wiggle dance.",
+            "alt": "Ivy tickling the laughing sock monster who is wiggling with joy",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'There!' Ivy said, putting the happy sock monster back in the drawer. 'Now you can sleep too!' The sock monster yawned a big yawn and curled up with a sleepy smile. 'Good night, silly friend!'",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes leans over an open drawer with a gentle smile and oversized caring eyes. The sock monster is curled up like a cat inside the bright drawer, with a tiny sleepy smile and droopy cartoon eyelids. The scene has soft candy colors with little 'Z' sleep symbols floating above the peaceful sock monster.",
+            "alt": "Ivy tucking the sleepy sock monster into the dresser drawer",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "bedtime",
+      "imagination",
+      "problem-solving"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Ivy's socks do when they came alive?",
+        "choices": [
+          "They bounced and giggled",
+          "They ran away",
+          "They went to sleep"
+        ],
+        "correctIndex": 0,
+        "explanation": "The polka dot socks bounced around Ivy's room saying 'Giggle giggle!' and having lots of bouncy fun."
+      },
+      {
+        "id": "q2",
+        "question": "What happened when the sock monster bounced on the toy chest?",
+        "choices": [
+          "Nothing happened",
+          "All the blocks fell out",
+          "It broke the chest"
+        ],
+        "correctIndex": 1,
+        "explanation": "When the sock monster bounced on the toy chest, all of Ivy's colorful blocks tumbled out everywhere like rain!"
+      },
+      {
+        "id": "q3",
+        "question": "How did Ivy catch the sock monster?",
+        "choices": [
+          "She tickled it",
+          "She chased it",
+          "She called for help"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ivy wiggled her fingers and said 'Tickle tickle!' which made the sock monster slow down so she could catch it."
+      },
+      {
+        "id": "q4",
+        "question": "Where did the sock monster go to sleep?",
+        "choices": [
+          "In the drawer",
+          "On the bed",
+          "In the toy chest"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ivy put the sleepy sock monster back in the dresser drawer where it curled up with a happy smile to sleep."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 7,
+            "correctWord": "socks",
+            "distractors": [
+              "shoes",
+              "toys"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "bounced",
+            "distractors": [
+              "walked",
+              "flew"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "tickled",
+            "distractors": [
+              "hugged",
+              "caught"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

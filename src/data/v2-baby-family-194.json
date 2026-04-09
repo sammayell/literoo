@@ -1,0 +1,144 @@
+{
+  "id": "v2-baby-family-194",
+  "title": "Marcus Makes Morning Music",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "family",
+    "sounds"
+  ],
+  "wordCount": 40,
+  "readingLevel": "Pre-K",
+  "synopsis": "Baby Marcus discovers the delightful sounds of a lazy Sunday morning with his family, from clapping hands to sizzling pancakes.",
+  "coverImage": "covers/v2-baby-family-194.webp",
+  "chapters": [
+    {
+      "title": "Sunday Morning Sounds",
+      "pages": [
+        {
+          "text": "Marcus wakes up! Clap, clap, clap go his tiny hands.",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes sits up in his crib wearing soft blue pajamas, clapping his hands together in golden morning sunlight streaming through the window",
+            "alt": "Baby Marcus clapping hands in his crib",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Tap, tap, tap go Daddy's feet down the hall.",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes peeks through crib bars as his father walks by in striped pajamas, sunlit hallway with warm golden light",
+            "alt": "Marcus watching daddy walk down the hall",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sizzle, pop, sizzle! Mama makes pancakes in the kitchen.",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes being carried by his mother in a cozy kitchen with pancakes cooking on the stove, golden morning light filling the room",
+            "alt": "Marcus and mama in kitchen with pancakes cooking",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Marcus giggles. He loves all the happy morning sounds with his family!",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes sitting in his high chair laughing while his parents smile nearby, newspapers and pancakes on the table in warm Sunday morning light",
+            "alt": "Marcus laughing with his family at breakfast",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "morning routines",
+      "sounds",
+      "home"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Sunday morning light, golden hour, family pajamas, newspapers pancakes, gentle unhurried, modern diverse family, lazy morning, sunlit rooms, warm domestic"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound do Marcus's hands make?",
+        "choices": [
+          "Clap, clap, clap",
+          "Tap, tap, tap"
+        ],
+        "correctIndex": 0,
+        "explanation": "Marcus claps his hands and they go clap, clap, clap!"
+      },
+      {
+        "id": "q2",
+        "question": "What is Mama making in the kitchen?",
+        "choices": [
+          "Pancakes",
+          "Cookies"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama is making pancakes that sizzle and pop on the stove!"
+      },
+      {
+        "id": "q3",
+        "question": "How does Marcus feel about the morning sounds?",
+        "choices": [
+          "Happy",
+          "Sad"
+        ],
+        "correctIndex": 0,
+        "explanation": "Marcus giggles and loves all the happy morning sounds!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "clap",
+            "distractors": [
+              "jump",
+              "run"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "tap",
+            "distractors": [
+              "hop",
+              "slide"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "sizzle",
+            "distractors": [
+              "whistle",
+              "ring"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

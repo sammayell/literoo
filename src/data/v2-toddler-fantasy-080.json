@@ -1,0 +1,209 @@
+{
+  "id": "v2-toddler-fantasy-080",
+  "title": "Sofia and the Glowing Garden",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "fantasy",
+    "friendship"
+  ],
+  "wordCount": 207,
+  "readingLevel": "Pre-K",
+  "synopsis": "Sofia discovers a magical garden where she befriends a lonely bunny and helps restore light to their enchanted world through kindness and friendship.",
+  "coverImage": "covers/v2-toddler-fantasy-080.webp",
+  "chapters": [
+    {
+      "title": "The Magic Garden",
+      "pages": [
+        {
+          "text": "Sofia loved exploring her backyard. One sunny day, she found a sparkly path behind the big oak tree. The path glowed with tiny lights that danced in the air. Sofia followed the magical path deeper into the woods.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes walking on a glowing path through an enchanted forest with fairy lights floating around her, mystical creatures peeking from behind trees, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage",
+            "alt": "Sofia discovering a magical glowing path in an enchanted forest",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The path led to the most beautiful garden Sofia had ever seen. Huge mushrooms glowed like lanterns. Flowers sang soft melodies. Butterflies sparkled like jewels. But something was wrong - half the garden looked dark and sad.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes standing in an enchanted garden with glowing mushrooms, singing flowers, and sparkling butterflies, but half the garden is dark and wilted, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage",
+            "alt": "Sofia in a magical garden that is half bright and half dark",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "A New Friend",
+      "pages": [
+        {
+          "text": "In the dark part of the garden, Sofia heard soft crying. Behind a wilted flower, she found a small white bunny with droopy ears. The bunny looked very lonely and scared.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes kneeling next to a sad white bunny in the dark part of the garden, glowing mushrooms in the background, fairy lights, mystical atmosphere, rich greens and purples, golden sparkles, Studio Ghibli inspired, detailed foliage",
+            "alt": "Sofia finding a lonely bunny in the dark part of the garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Hello little bunny,' Sofia said gently. 'Why are you sad?' The bunny sniffled. 'The garden is losing its magic. All my friends ran away. I'm all alone now.' Sofia's heart felt warm with kindness.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes sitting cross-legged talking to the white bunny, surrounded by wilted flowers and dim mushrooms, with fairy lights beginning to glow brighter around them, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage",
+            "alt": "Sofia having a gentle conversation with the sad bunny",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Magic Returns",
+      "pages": [
+        {
+          "text": "'You're not alone anymore,' Sofia said with a big smile. 'I'll be your friend!' She gave the bunny a gentle hug. Suddenly, golden light began to spread from where they sat together.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes hugging the white bunny as golden light radiates from them, flowers beginning to bloom, glowing mushrooms brightening, fairy lights dancing around them, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage",
+            "alt": "Sofia hugging the bunny as magical light spreads around them",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The magic of friendship filled the whole garden! Flowers bloomed brightly, mushrooms glowed warmly, and fairy lights danced everywhere. Other woodland creatures came back to play. Sofia and Bunny became the very best of friends.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes playing with the happy white bunny in the fully restored magical garden, surrounded by other mystical creatures, glowing mushrooms, blooming flowers, fairy lights, rich greens and purples, golden sparkles everywhere, Studio Ghibli inspired, magical atmosphere, detailed foliage",
+            "alt": "Sofia and bunny playing in the fully restored magical garden with other creatures",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "kindness",
+      "magic",
+      "helping others",
+      "discovery"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Sofia find behind the big oak tree?",
+        "choices": [
+          "a sparkly path",
+          "a red ball",
+          "a toy car"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sofia found a sparkly path with tiny dancing lights that led to the magical garden."
+      },
+      {
+        "id": "q2",
+        "question": "Why was the bunny sad?",
+        "choices": [
+          "he was hungry",
+          "he lost his friends",
+          "he was tired"
+        ],
+        "correctIndex": 1,
+        "explanation": "The bunny was sad because the garden was losing its magic and all his friends ran away, leaving him alone."
+      },
+      {
+        "id": "q3",
+        "question": "What made the garden's magic return?",
+        "choices": [
+          "friendship",
+          "rain",
+          "sunshine"
+        ],
+        "correctIndex": 0,
+        "explanation": "The magic of friendship between Sofia and the bunny brought the garden back to life with golden light."
+      },
+      {
+        "id": "q4",
+        "question": "What glowed like lanterns in the garden?",
+        "choices": [
+          "mushrooms",
+          "rocks",
+          "sticks"
+        ],
+        "correctIndex": 0,
+        "explanation": "The huge mushrooms in the magical garden glowed like lanterns, lighting up the enchanted space."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "sparkly",
+            "distractors": [
+              "muddy",
+              "broken"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "lights",
+            "distractors": [
+              "leaves",
+              "rocks"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "crying",
+            "distractors": [
+              "singing",
+              "laughing"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "bunny",
+            "distractors": [
+              "frog",
+              "bird"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 5,
+        "blanks": [
+          {
+            "wordIndex": 10,
+            "correctWord": "friend",
+            "distractors": [
+              "enemy",
+              "stranger"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "hug",
+            "distractors": [
+              "push",
+              "ignore"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

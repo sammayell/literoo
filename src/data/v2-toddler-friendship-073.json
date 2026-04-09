@@ -1,0 +1,180 @@
+{
+  "id": "v2-toddler-friendship-073",
+  "title": "Nia and the Butterfly Garden",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "nature"
+  ],
+  "wordCount": 168,
+  "readingLevel": "Pre-K",
+  "synopsis": "Nia discovers a beautiful butterfly garden at the park and learns to share this special place with new friends, creating lasting bonds through their love of nature.",
+  "coverImage": "covers/v2-toddler-friendship-073.webp",
+  "chapters": [
+    {
+      "title": "The Pretty Garden",
+      "pages": [
+        {
+          "text": "Nia loved going to the park with Mama. Today she saw something new behind the big slide. Pretty flowers grew everywhere! Red ones, yellow ones, and purple ones too.",
+          "illustration": {
+            "description": "A young girl with long braids with colorful beads, dark brown skin, warm kind eyes stands amazed looking at a beautiful flower garden behind playground equipment. Bright sunny playground with primary colors, diverse kids playing on swings and slides in the background, white space around the garden area, joyful energetic atmosphere.",
+            "alt": "Nia discovering a colorful flower garden at the playground",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Then Nia saw the most amazing thing. Beautiful butterflies danced from flower to flower! Orange ones, blue ones, and spotted ones. They looked like flying rainbows.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes watches in wonder as colorful butterflies flutter around bright flowers. Bright sunny playground setting with primary colors, white space highlighting the magical butterfly dance, joyful energetic scene with inclusive park atmosphere.",
+            "alt": "Butterflies dancing around flowers while Nia watches in amazement",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "New Friends Come",
+      "pages": [
+        {
+          "text": "The next day, Nia rushed to her special garden. But two other children were there! A boy named Sam and a girl named Rosa. Nia felt sad. This was her secret place.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes looks hesitant as she approaches the garden where two diverse children are already exploring. Bright sunny playground with primary colors, park swings slides visible, white space around the garden, friendship activities beginning to unfold.",
+            "alt": "Nia finding other children in her special butterfly garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sam was gently touching a flower. Rosa was counting butterflies. 'Look!' said Rosa. 'I see five!' Nia stepped closer. Maybe sharing could be fun.",
+          "illustration": {
+            "description": "Three diverse children including Nia with long braids with colorful beads, dark brown skin, warm kind eyes, all gathered around flowers and butterflies. Bright sunny playground atmosphere with primary colors, white space highlighting their gentle interaction, joyful energetic scene showing inclusive friendship activities beginning.",
+            "alt": "Three children gently exploring the butterfly garden together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Best Friends Forever",
+      "pages": [
+        {
+          "text": "Nia showed Sam and Rosa the biggest butterfly. They showed her how to sit very still so butterflies would land on their hands. It was magical!",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes sits quietly with two diverse friends as butterflies land on their outstretched hands. Bright sunny playground setting with primary colors, white space creating peaceful moment, joyful energetic friendship activities in inclusive park environment with laughter.",
+            "alt": "Children sitting still as butterflies land on their hands",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "From that day on, Nia, Sam, and Rosa met at the butterfly garden every day. They became the best of friends. The garden was even more beautiful when shared with friends.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes plays happily with her two diverse friends among the flowers and butterflies. Bright sunny playground with primary colors, park swings slides in background, white space highlighting their joyful friendship, inclusive laughter and energetic friendship activities.",
+            "alt": "Three best friends playing together in the butterfly garden",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "sharing",
+      "friendship",
+      "nature appreciation",
+      "inclusivity",
+      "outdoor play"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Nia find behind the big slide?",
+        "choices": [
+          "A butterfly garden",
+          "A sandbox",
+          "A water fountain"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nia discovered a beautiful flower garden full of butterflies behind the playground slide."
+      },
+      {
+        "id": "q2",
+        "question": "How many butterflies did Rosa count?",
+        "choices": [
+          "Five",
+          "Three",
+          "Seven"
+        ],
+        "correctIndex": 0,
+        "explanation": "Rosa excitedly counted five butterflies in the garden when she first arrived."
+      },
+      {
+        "id": "q3",
+        "question": "What did the friends learn to do to attract butterflies?",
+        "choices": [
+          "Sit very still",
+          "Run around",
+          "Make loud noises"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sam and Rosa taught Nia that sitting very still would help butterflies land on their hands."
+      },
+      {
+        "id": "q4",
+        "question": "How did Nia feel about sharing the garden?",
+        "choices": [
+          "Happy and excited",
+          "Angry and upset",
+          "Sleepy and tired"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nia learned that the garden was even more beautiful and fun when shared with her new friends."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "flowers",
+            "distractors": [
+              "rocks",
+              "toys"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "yellow",
+            "distractors": [
+              "green",
+              "black"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "friends",
+            "distractors": [
+              "strangers",
+              "adults"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

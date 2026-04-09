@@ -1,0 +1,183 @@
+{
+  "id": "v2-toddler-bedtime-108",
+  "title": "Theo's Sleepy Feelings",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "bedtime",
+    "feelings"
+  ],
+  "wordCount": 154,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Theo learns to understand his bedtime feelings and finds comfort in his nighttime routine, discovering that feeling scared or restless at bedtime is normal and manageable.",
+  "coverImage": "covers/v2-toddler-bedtime-108.webp",
+  "chapters": [
+    {
+      "title": "Big Feelings at Bedtime",
+      "pages": [
+        {
+          "text": "Theo sat on his bed feeling wiggly and worried. His tummy felt funny, like butterflies were dancing inside. Sometimes bedtime made him feel big feelings.",
+          "illustration": {
+            "description": "A young boy with short curly blonde hair, light skin, round blue eyes sitting on a bed looking anxious, surrounded by soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette",
+            "alt": "Theo sitting on his bed looking worried at bedtime",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I don't want to sleep,\" Theo whispered. \"What if I have scary dreams? What if monsters come?\" His little heart beat fast like a tiny drum.",
+          "illustration": {
+            "description": "A boy with short curly blonde hair, light skin, round blue eyes whispering with wide worried eyes, shadowy dream-like shapes in the background, rendered in soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette",
+            "alt": "Theo whispering his bedtime worries",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama came and sat beside him. \"Tell me about your feelings, little one,\" she said softly. Theo felt safe with Mama near.",
+          "illustration": {
+            "description": "A mother sitting next to a small boy with short curly blonde hair, light skin, round blue eyes on a bed, both figures glowing warmly in soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette",
+            "alt": "Mama sitting with Theo on his bed",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sweet Dreams Come",
+      "pages": [
+        {
+          "text": "\"Feeling scared is okay,\" Mama said. \"Let's make bedtime cozy together.\" She tucked Theo in with his favorite soft blanket that smelled like hugs.",
+          "illustration": {
+            "description": "A mother tucking in a boy with short curly blonde hair, light skin, round blue eyes under a cozy blanket, the scene painted in soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette",
+            "alt": "Mama tucking Theo into bed with his favorite blanket",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "They sang a gentle lullaby about floating on clouds. Theo's worried feelings began to melt away like ice cream in sunshine. His eyes grew heavy and peaceful.",
+          "illustration": {
+            "description": "A boy with short curly blonde hair, light skin, round blue eyes floating peacefully on dreamy clouds while musical notes drift around him, all in soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette",
+            "alt": "Theo peacefully floating on clouds with musical notes around",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Sweet dreams, my brave boy,\" Mama whispered. Theo smiled sleepily. His big feelings felt smaller now. The stars twinkled goodnight as he drifted off to dreamland, feeling loved and safe.",
+          "illustration": {
+            "description": "A sleeping boy with short curly blonde hair, light skin, round blue eyes peacefully asleep with a gentle smile, surrounded by twinkling stars and his mother's silhouette, painted in soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette",
+            "alt": "Theo sleeping peacefully with twinkling stars around him",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "managing emotions",
+      "feeling safe",
+      "parent-child bond",
+      "overcoming fears"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Theo feel at bedtime?",
+        "choices": [
+          "worried and wiggly",
+          "happy and excited",
+          "hungry and loud"
+        ],
+        "correctIndex": 0,
+        "explanation": "Theo felt worried and wiggly at bedtime, with butterflies in his tummy."
+      },
+      {
+        "id": "q2",
+        "question": "Who helped Theo feel better?",
+        "choices": [
+          "Mama",
+          "his teddy bear",
+          "his friend"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama sat with Theo and helped him feel safe and cozy."
+      },
+      {
+        "id": "q3",
+        "question": "What did Mama say about feeling scared?",
+        "choices": [
+          "it's okay",
+          "it's silly",
+          "it's bad"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama told Theo that feeling scared is okay and normal."
+      },
+      {
+        "id": "q4",
+        "question": "How did Theo feel at the end?",
+        "choices": [
+          "loved and safe",
+          "worried and sad",
+          "angry and upset"
+        ],
+        "correctIndex": 0,
+        "explanation": "Theo felt loved and safe as he drifted off to sleep with sweet dreams."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "worried",
+            "distractors": [
+              "happy",
+              "silly"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "butterflies",
+            "distractors": [
+              "elephants",
+              "cookies"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "cozy",
+            "distractors": [
+              "scary",
+              "loud"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "blanket",
+            "distractors": [
+              "shoes",
+              "book"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

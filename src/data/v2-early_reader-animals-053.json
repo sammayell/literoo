@@ -1,0 +1,252 @@
+{
+  "id": "v2-early_reader-animals-053",
+  "title": "The Case of the Missing Watering Hole",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "animals",
+    "mystery"
+  ],
+  "wordCount": 552,
+  "readingLevel": "Grade 1-2",
+  "synopsis": "Nia, a young detective with long braids and colorful beads, helps solve the mystery of why the savanna's watering hole has disappeared, discovering that a family of elephants accidentally blocked the water source while building their new home.",
+  "coverImage": "covers/v2-early_reader-animals-053.webp",
+  "chapters": [
+    {
+      "title": "The Empty Watering Hole",
+      "pages": [
+        {
+          "text": "Nia loved exploring the savanna near her village. Every morning, she would walk to the big watering hole to watch the animals drink. Nia had long braids with colorful beads that jingled softly as she walked. Her warm, kind eyes always sparkled with curiosity.",
+          "illustration": {
+            "description": "A young girl named Nia with long braids with colorful beads, dark brown skin, warm kind eyes walking across golden savanna grass toward a large watering hole, painted in gouache with thick brushstrokes and warm orange sunset colors",
+            "alt": "Nia walking through the savanna toward a watering hole",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "But today was different. When Nia reached the watering hole, it was completely empty! The muddy bottom was dry and cracked. \"Where did all the water go?\" she wondered aloud. This was very strange indeed.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes standing beside an empty, cracked watering hole with dry mud at the bottom, painted in gouache with textured painterly strokes and warm savanna colors",
+            "alt": "Nia looking at the empty, dry watering hole",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Just then, a worried zebra came trotting up. \"Nia!\" called Zara the zebra. \"Have you seen our watering hole? All the animals are thirsty, but there's no water anywhere!\" Nia's beads clicked as she nodded thoughtfully. \"I see the problem,\" she said. \"But don't worry, Zara. I'll solve this mystery!\"",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes talking to a black and white striped zebra near the empty watering hole, painted in gouache with bold confident strokes and golden grass in the background",
+            "alt": "Nia talking with Zara the zebra about the missing water",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Gathering Clues",
+      "pages": [
+        {
+          "text": "Nia decided to follow the dry riverbed that used to fill the watering hole. \"If I follow where the water should be coming from, maybe I can find out what happened,\" she said to herself. Her colorful beads bounced as she walked along the empty stream.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes walking along a dry, rocky riverbed with scattered stones and dried plants, painted in gouache with thick brushstrokes and warm orange sunset lighting",
+            "alt": "Nia following the dry riverbed upstream",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Soon, other animals joined her search. Leo the lion padded alongside her with his golden mane flowing. \"I want to help too,\" he said. \"All my cubs are thirsty.\" Rosie the giraffe stretched her long neck down to talk. \"I can see far ahead,\" she offered. \"Maybe I can spot something from up high.\"",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes walking with a golden-maned lion and a tall spotted giraffe along the riverbed, painted in gouache with expressive animals and textured painterly technique",
+            "alt": "Nia, Leo the lion, and Rosie the giraffe searching together",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "As they walked further upstream, Nia noticed something interesting. There were huge footprints in the dried mud - round and very big! \"Look at these tracks,\" she said, kneeling down to examine them closely. \"These are elephant footprints, and they're fresh!\"",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes kneeling down to examine large, round elephant footprints in dried mud, with Leo and Rosie looking on, painted in gouache with warm savanna colors and bold strokes",
+            "alt": "Nia examining elephant footprints in the dried riverbed",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Following the Trail",
+      "pages": [
+        {
+          "text": "The elephant tracks led them up a small hill. As they climbed higher, Nia could hear the sound of rushing water somewhere nearby. \"Do you hear that?\" she asked her friends. Her beads jingled as she turned her head to listen carefully.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes climbing a hill with Leo the lion and Rosie the giraffe, all looking alert and listening, painted in gouache with golden grass and thick brushstrokes",
+            "alt": "Nia and her animal friends climbing the hill and listening",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "At the top of the hill, they made an amazing discovery! There was the missing water, but it was flowing in the wrong direction. Instead of going down toward their watering hole, the stream was blocked by a huge pile of rocks, logs, and mud.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes standing with Leo and Rosie looking at a stream blocked by a large dam made of rocks, logs, and mud, painted in gouache with warm orange sunset colors and textured painterly style",
+            "alt": "The group discovering the blocked stream with the makeshift dam",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Someone built a dam!\" exclaimed Leo. \"But who would do that?\" Just then, they heard a rumbling sound. Around the bend came Ella the elephant with her two baby calves. \"Oh my!\" trumpeted Ella when she saw Nia and her friends. \"You found our new home!\"",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes meeting a large gray elephant mother with two smaller elephant calves near the dam, painted in gouache with expressive animals and bold confident strokes",
+            "alt": "Nia meeting Ella the elephant and her calves near the dam",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Solving the Mystery",
+      "pages": [
+        {
+          "text": "Ella explained what happened. \"We needed to build a safe pool for my babies to learn how to swim,\" she said. \"I didn't know we were blocking the water for everyone else. We're so sorry!\" Nia's warm, kind eyes smiled with understanding. \"Don't worry, Ella. We can fix this together!\"",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes talking kindly to the worried elephant family, with the baby elephants playing in a small pool behind the dam, painted in gouache with warm savanna colors and thick brushstrokes",
+            "alt": "Nia talking with the elephant family about the solution",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Nia had a wonderful idea. \"What if we move some of these rocks to make two streams? One can fill your swimming pool, and the other can flow down to our watering hole!\" All the animals worked together, moving rocks and logs to create the perfect solution.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes directing various animals including elephants, a lion, and a giraffe as they work together moving rocks and logs to create two water channels, painted in gouache with golden grass and orange sunset lighting",
+            "alt": "All the animals working together to rebuild the water channels",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Soon, water was flowing in both directions! The baby elephants splashed happily in their safe pool, while the stream flowed down the hill toward the watering hole. \"You solved the mystery, Nia!\" cheered all the animals. Nia's beads sparkled in the sunset as she smiled. Everyone was happy, and everyone had water!",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes surrounded by happy animals as water flows in two directions - elephants playing in their pool and a stream flowing toward the watering hole below, painted in gouache with textured painterly technique and warm colors",
+            "alt": "The happy ending with water flowing and all animals celebrating",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "problem-solving",
+      "teamwork",
+      "kindness",
+      "understanding",
+      "community cooperation"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What was wrong with the watering hole when Nia first saw it?",
+        "choices": [
+          "It was empty and dry",
+          "It was too full",
+          "It was muddy"
+        ],
+        "correctIndex": 0,
+        "explanation": "The watering hole was completely empty with dry, cracked mud at the bottom."
+      },
+      {
+        "id": "q2",
+        "question": "Which animal asked Nia for help first?",
+        "choices": [
+          "Leo the lion",
+          "Zara the zebra",
+          "Ella the elephant"
+        ],
+        "correctIndex": 1,
+        "explanation": "Zara the zebra was the first animal to come to Nia asking about the missing water."
+      },
+      {
+        "id": "q3",
+        "question": "What clue did Nia find in the dried riverbed?",
+        "choices": [
+          "Elephant footprints",
+          "Bird feathers",
+          "Fish bones"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nia found large, round elephant footprints in the dried mud that were fresh."
+      },
+      {
+        "id": "q4",
+        "question": "Why did Ella the elephant build the dam?",
+        "choices": [
+          "To stop other animals from drinking",
+          "To create a safe pool for her babies",
+          "To collect water for herself"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ella built the dam to create a safe swimming pool where her baby calves could learn to swim."
+      },
+      {
+        "id": "q5",
+        "question": "How did Nia solve the problem?",
+        "choices": [
+          "She made two streams so everyone could have water",
+          "She asked the elephants to leave",
+          "She found a different watering hole"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nia suggested creating two streams - one for the elephant pool and one for the watering hole, so everyone could have water."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "empty",
+            "distractors": [
+              "full",
+              "clean"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "mystery",
+            "distractors": [
+              "game",
+              "joke"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "footprints",
+            "distractors": [
+              "flowers",
+              "rocks"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "elephant",
+            "distractors": [
+              "giraffe",
+              "zebra"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

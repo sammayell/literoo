@@ -1,0 +1,167 @@
+{
+  "id": "v2-toddler-adventure-105",
+  "title": "Isla's Sleepy Treasure Hunt",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "adventure",
+    "bedtime"
+  ],
+  "wordCount": 163,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little explorer Isla follows a magical treasure map through her bedroom on a gentle adventure to find the greatest treasure of all - a cozy night's sleep.",
+  "coverImage": "covers/v2-toddler-adventure-105.webp",
+  "chapters": [
+    {
+      "title": "The Magic Map",
+      "pages": [
+        {
+          "text": "Isla found a special map on her pillow. It sparkled with golden dots and had a big red X. 'This looks like treasure!' she whispered. The map showed her room, but it looked different - like a magical place full of adventures.",
+          "illustration": {
+            "description": "A little girl with long wavy red hair, very fair freckled skin, bright green eyes sitting on her bed holding an aged parchment treasure map with compass roses and dotted trails in sepia tones with jewel accents",
+            "alt": "Isla discovers a treasure map on her bed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The first clue said: 'Where soft friends sleep in a row, that's where brave explorers go!' Isla looked around her room. Her teddy bears sat on the shelf, watching with button eyes. She tiptoed over and found a golden coin behind them.",
+          "illustration": {
+            "description": "A girl with long wavy red hair, very fair freckled skin, bright green eyes tiptoeing toward a shelf of teddy bears, drawn in treasure map style with aged parchment background and compass roses",
+            "alt": "Isla searches near her teddy bears following the treasure map",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Greatest Treasure",
+      "pages": [
+        {
+          "text": "The second clue read: 'Under something white and fluffy, you'll find what makes dreams lovely!' Isla giggled and looked under her pillow. There was a tiny silver star that twinkled in the lamplight.",
+          "illustration": {
+            "description": "A child with long wavy red hair, very fair freckled skin, bright green eyes lifting her pillow to discover a twinkling star, illustrated in adventure cartography style with sepia tones and jewel accents",
+            "alt": "Isla finds a silver star under her pillow",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The final clue pointed to her cozy blanket. When Isla pulled it back, she found the real treasure - her favorite stuffed bunny and the most comfortable bed in the world! 'The best treasure is a good night's sleep,' she yawned, snuggling down with her bunny.",
+          "illustration": {
+            "description": "A sleepy girl with long wavy red hair, very fair freckled skin, bright green eyes cuddling a stuffed bunny in bed, surrounded by dotted trails and compass roses in warm sepia tones with soft jewel accents",
+            "alt": "Isla discovers the real treasure is her cozy bed and bunny",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "imagination",
+      "comfort",
+      "exploration",
+      "treasure hunting"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "treasure map style, aged parchment, compass roses, dotted trails, sepia tones, jewel accents, bold explorers, adventure cartography, hand-drawn maps"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where did Isla find the treasure map?",
+        "choices": [
+          "On her pillow",
+          "Under her bed",
+          "In her closet"
+        ],
+        "correctIndex": 0,
+        "explanation": "Isla found the special treasure map on her pillow when she got ready for bed."
+      },
+      {
+        "id": "q2",
+        "question": "What did Isla find behind her teddy bears?",
+        "choices": [
+          "A golden coin",
+          "A silver star",
+          "Her bunny"
+        ],
+        "correctIndex": 0,
+        "explanation": "When Isla followed the first clue to her teddy bears, she found a golden coin hidden behind them."
+      },
+      {
+        "id": "q3",
+        "question": "Where was the silver star hiding?",
+        "choices": [
+          "Under her pillow",
+          "Behind the bears",
+          "In her blanket"
+        ],
+        "correctIndex": 0,
+        "explanation": "The second clue led Isla to look under her pillow, where she discovered a tiny twinkling silver star."
+      },
+      {
+        "id": "q4",
+        "question": "What was the greatest treasure Isla found?",
+        "choices": [
+          "A cozy bed and good sleep",
+          "The golden coin",
+          "The silver star"
+        ],
+        "correctIndex": 0,
+        "explanation": "Isla discovered that the real treasure was her comfortable bed and a good night's sleep with her bunny."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "map",
+            "distractors": [
+              "book",
+              "toy"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "treasure",
+            "distractors": [
+              "cookie",
+              "flower"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "star",
+            "distractors": [
+              "moon",
+              "sun"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "twinkled",
+            "distractors": [
+              "jumped",
+              "rolled"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

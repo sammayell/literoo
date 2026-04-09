@@ -1,0 +1,204 @@
+{
+  "id": "v2-toddler-nature-086",
+  "title": "Hugo's Four Seasons at School",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "nature",
+    "school"
+  ],
+  "wordCount": 260,
+  "readingLevel": "Pre-K",
+  "synopsis": "Hugo discovers the beauty of nature's changing seasons at his preschool, learning about spring flowers, summer gardens, autumn leaves, and winter snow through outdoor adventures.",
+  "coverImage": "covers/v2-toddler-nature-086.webp",
+  "chapters": [
+    {
+      "title": "Spring and Summer at School",
+      "pages": [
+        {
+          "text": "Hugo loves going to school! Every day, he looks out the classroom window at the big oak tree in the playground. Today is the first day of spring, and Hugo sees something new.",
+          "illustration": {
+            "description": "Hugo, a boy with straight light blonde hair, fair skin, light blue eyes, standing by a classroom window looking at a large oak tree with tiny green buds and pink spring flowers blooming around its base, rendered in soft spring pastels",
+            "alt": "Hugo looking out window at spring tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Look!\" says Hugo to his teacher, Miss Sarah. \"The tree has baby leaves!\" The tiny green buds are opening up like little hands waving hello. Hugo can hardly wait for outdoor playtime.",
+          "illustration": {
+            "description": "Hugo with straight light blonde hair, fair skin, light blue eyes pointing excitedly at oak tree branches with small green leaves unfurling, while his teacher smiles nearby, painted in gentle spring pastels with soft greens and pinks",
+            "alt": "Hugo pointing at new spring leaves with teacher",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Summer comes to Hugo's school with bright sunshine and warm days. The oak tree is now full of big green leaves that make cool shade. Hugo and his friends have picnic lunch under the tree every day.",
+          "illustration": {
+            "description": "Hugo with straight light blonde hair, fair skin, light blue eyes sitting under a fully leafed oak tree with friends during lunch, the scene bursting with bright summer colors, vibrant greens, sunny yellows, and clear blue sky",
+            "alt": "Hugo having summer picnic under tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"The leaves are so big now!\" Hugo says, reaching up to touch a low branch. The tree gives them shade from the hot sun. Hugo learns that trees help keep us cool in summer.",
+          "illustration": {
+            "description": "Hugo with straight light blonde hair, fair skin, light blue eyes reaching up to touch oak tree leaves, surrounded by lush summer greenery and bright sunlight filtering through the canopy, painted in brilliant summer brights",
+            "alt": "Hugo reaching for summer tree leaves",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Autumn and Winter Wonder",
+      "pages": [
+        {
+          "text": "When autumn arrives at school, Hugo gasps with wonder. The oak tree has changed again! The leaves are now yellow, orange, and red. They look like a rainbow in the tree!",
+          "illustration": {
+            "description": "Hugo with straight light blonde hair, fair skin, light blue eyes looking up at the oak tree with leaves in brilliant autumn colors of gold, orange, and red, the scene painted in warm autumn tones with cozy browns and rich oranges",
+            "alt": "Hugo admiring autumn colored leaves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The best part about autumn is when the leaves fall down! Hugo and his friends jump in the leaf piles during recess. Crunch, crunch, crunch go the leaves under their feet.",
+          "illustration": {
+            "description": "Hugo with straight light blonde hair, fair skin, light blue eyes jumping joyfully in a pile of fallen autumn leaves with friends, the oak tree visible above with colorful leaves still falling, rendered in warm autumn palette",
+            "alt": "Hugo jumping in autumn leaf pile",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Winter brings something magical to Hugo's school. Snow covers the playground, and the oak tree's branches are bare but beautiful. Hugo sees the tree's strong trunk and branches clearly now.",
+          "illustration": {
+            "description": "Hugo with straight light blonde hair, fair skin, light blue eyes in winter clothes looking at the bare oak tree covered with snow, the playground white and peaceful, painted in cool winter tones of blues, grays, and pristine whites",
+            "alt": "Hugo viewing bare winter tree in snow",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I can see the whole tree now!\" Hugo tells Miss Sarah. Even without leaves, the tree is still beautiful. Hugo learns that trees rest in winter, waiting for spring to come again.",
+          "illustration": {
+            "description": "Hugo with straight light blonde hair, fair skin, light blue eyes standing next to his teacher beside the snow-covered oak tree, both admiring its bare winter beauty, the scene in soft winter cool tones with gentle blues and whites",
+            "alt": "Hugo and teacher by winter tree",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "seasonal changes",
+      "nature observation",
+      "school environment",
+      "tree life cycles",
+      "outdoor learning"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "seasonal cycle, spring pastels, summer brights, autumn warmth, winter cool, same scene different seasons, time passing, nature calendar, cyclical beauty"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Hugo see on the tree in spring?",
+        "choices": [
+          "baby leaves",
+          "snow",
+          "big flowers"
+        ],
+        "correctIndex": 0,
+        "explanation": "In spring, Hugo sees tiny green buds opening up like baby leaves on the oak tree."
+      },
+      {
+        "id": "q2",
+        "question": "What do Hugo and his friends do under the tree in summer?",
+        "choices": [
+          "have picnic lunch",
+          "build snowmen",
+          "rake leaves"
+        ],
+        "correctIndex": 0,
+        "explanation": "During summer, Hugo and his friends have picnic lunch under the big green leaves that make cool shade."
+      },
+      {
+        "id": "q3",
+        "question": "What colors are the autumn leaves?",
+        "choices": [
+          "yellow, orange, and red",
+          "all green",
+          "white and blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "In autumn, the oak tree's leaves turn beautiful colors of yellow, orange, and red like a rainbow."
+      },
+      {
+        "id": "q4",
+        "question": "What happens to the tree in winter?",
+        "choices": [
+          "the branches are bare",
+          "it grows bigger leaves",
+          "it turns purple"
+        ],
+        "correctIndex": 0,
+        "explanation": "In winter, the oak tree's branches are bare but still beautiful, and Hugo can see the whole tree clearly."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "tree",
+            "distractors": [
+              "house",
+              "car"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "leaves",
+            "distractors": [
+              "flowers",
+              "rocks"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "summer",
+            "distractors": [
+              "winter",
+              "fall"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 6,
+        "blanks": [
+          {
+            "wordIndex": 9,
+            "correctWord": "autumn",
+            "distractors": [
+              "spring",
+              "summer"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

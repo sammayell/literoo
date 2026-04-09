@@ -1,0 +1,156 @@
+{
+  "id": "v2-baby-counting-200",
+  "title": "Sofia's Happy Numbers",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "counting",
+    "feelings"
+  ],
+  "wordCount": 65,
+  "readingLevel": "baby",
+  "synopsis": "Join Sofia as she discovers numbers 1 through 5 while exploring different emotions and objects around her world. A gentle introduction to counting and feelings for very young children.",
+  "coverImage": "covers/v2-baby-counting-200.webp",
+  "chapters": [
+    {
+      "title": "Counting and Feeling",
+      "pages": [
+        {
+          "text": "This is Sofia. Sofia likes to count!",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes sits smiling in a colorful room with the large number 1 prominently displayed on the wall behind her",
+            "alt": "Sofia sitting happily with number 1 in background",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "One flower makes Sofia happy! She smells it and smiles.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes holding one bright yellow sunflower, with a big number 1 floating above in colorful letters",
+            "alt": "Sofia holding one flower with number 1 above",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Two butterflies! Sofia feels excited watching them dance.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes pointing up at two colorful butterflies with a large number 2 in bright blue patterns nearby",
+            "alt": "Sofia watching two butterflies with number 2 displayed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Three balloons float by! Sofia feels surprised and reaches up.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes reaching toward three red balloons with a decorative number 3 in rainbow stripes",
+            "alt": "Sofia reaching for three balloons with number 3 shown",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Four birds sing! Sofia feels calm listening to their sweet song.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes sitting peacefully under a tree with four small blue birds and a large number 4 with musical note patterns",
+            "alt": "Sofia listening to four birds with decorative number 4",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Five stars shine! Sofia feels sleepy and yawns big.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes yawning in pajamas with five golden stars above her and a glittery number 5 nearby",
+            "alt": "Sleepy Sofia with five stars and number 5 displayed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Counting makes Sofia feel wonderful! One, two, three, four, five!",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes clapping happily surrounded by all five numbers 1-5 in different bright colors and patterns arranged in a circle",
+            "alt": "Happy Sofia surrounded by numbers 1 through 5",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "counting",
+      "emotions",
+      "nature",
+      "happiness",
+      "numbers 1-5"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "clear countable objects, fun patterns, numbers prominent, visual counting, each number unique scene, engaging practice, organized arrangement, mathematical beauty"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How many flowers did Sofia hold?",
+        "choices": [
+          "one",
+          "two"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sofia held one flower and it made her happy!"
+      },
+      {
+        "id": "q2",
+        "question": "How many butterflies did Sofia see?",
+        "choices": [
+          "three",
+          "two"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sofia saw two butterflies dancing and felt excited!"
+      },
+      {
+        "id": "q3",
+        "question": "How did Sofia feel when she saw the stars?",
+        "choices": [
+          "sleepy",
+          "excited"
+        ],
+        "correctIndex": 0,
+        "explanation": "The five stars made Sofia feel sleepy and she yawned!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "flower",
+            "distractors": [
+              "balloon",
+              "bird"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "Two",
+            "distractors": [
+              "Three",
+              "Four"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "id": "v2-toddler-nature-126",
+  "title": "Hugo's School Garden Through the Seasons",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "nature",
+    "school"
+  ],
+  "wordCount": 202,
+  "readingLevel": "Pre-K",
+  "synopsis": "Join Hugo as he discovers how his school garden changes through all four seasons, learning about nature's beautiful cycle from spring planting to winter rest.",
+  "coverImage": "covers/v2-toddler-nature-126.webp",
+  "chapters": [
+    {
+      "title": "Spring and Summer in the Garden",
+      "pages": [
+        {
+          "text": "Hugo loves his school garden! In spring, everything wakes up. The trees grow tiny green leaves. Hugo plants seeds with his teacher.",
+          "illustration": {
+            "description": "Hugo, a boy with straight light blonde hair, fair skin, light blue eyes, kneeling in a school garden planting seeds. Spring pastels fill the scene with soft green buds on trees, pink cherry blossoms, and gentle morning light. Other children help plant in raised garden beds.",
+            "alt": "Hugo planting seeds in the spring school garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The spring rain helps the seeds grow. Hugo watches little green shoots pop up from the soil. Soon there are baby carrots and lettuce!",
+          "illustration": {
+            "description": "Hugo, a boy with straight light blonde hair, fair skin, light blue eyes, crouching down to examine small green sprouts in the garden. Spring pastels show gentle rain drops on leaves, soft pink flowers blooming, and fresh green growth everywhere.",
+            "alt": "Hugo looking at sprouting plants in spring",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Summer comes with warm sunshine! The garden is full of bright colors. Hugo picks red tomatoes and yellow flowers. Bees buzz happily around the sunflowers.",
+          "illustration": {
+            "description": "Hugo, a boy with straight light blonde hair, fair skin, light blue eyes, reaching up to pick bright red tomatoes from tall plants. Summer brights illuminate the scene with golden sunflowers, vibrant green leaves, and busy bees flying around colorful flowers.",
+            "alt": "Hugo picking tomatoes in the bright summer garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "In summer, Hugo waters the plants every day. The garden is like a rainbow - red peppers, orange marigolds, purple eggplants, and green beans climbing high!",
+          "illustration": {
+            "description": "Hugo, a boy with straight light blonde hair, fair skin, light blue eyes, holding a small watering can and smiling at the colorful vegetables. Summer brights showcase a rainbow of produce with vibrant reds, oranges, purples, and greens under brilliant blue sky.",
+            "alt": "Hugo watering the colorful summer vegetables",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Autumn and Winter Changes",
+      "pages": [
+        {
+          "text": "When autumn arrives, the leaves change colors. Hugo collects orange and red leaves. The pumpkins are ready to harvest! The garden looks cozy and warm.",
+          "illustration": {
+            "description": "Hugo, a boy with straight light blonde hair, fair skin, light blue eyes, gathering colorful fallen leaves near large orange pumpkins. Autumn warmth fills the scene with golden, orange, and deep red maple leaves, harvest baskets, and the same garden beds now full of autumn crops.",
+            "alt": "Hugo collecting autumn leaves and pumpkins",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The autumn wind blows the last leaves away. Hugo helps his teacher gather the final vegetables before winter comes. They save seeds for next spring!",
+          "illustration": {
+            "description": "Hugo, a boy with straight light blonde hair, fair skin, light blue eyes, helping his teacher collect the last vegetables and put seeds in small envelopes. Autumn warmth shows golden light, bare tree branches, and the garden preparing for winter rest.",
+            "alt": "Hugo and teacher saving seeds in autumn",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Winter covers the garden with soft white snow. Hugo looks out the classroom window at the sleeping garden. The trees are bare, but Hugo knows spring will come again!",
+          "illustration": {
+            "description": "Hugo, a boy with straight light blonde hair, fair skin, light blue eyes, pressing his face to a classroom window looking at the snow-covered garden. Winter cool tones show the same garden scene now blanketed in pristine white snow, bare tree silhouettes, and peaceful stillness.",
+            "alt": "Hugo looking at the winter garden through the window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Hugo dreams of spring coming back. Under the snow, the roots are resting. Soon the cycle will start again with new green shoots and colorful flowers!",
+          "illustration": {
+            "description": "Hugo, a boy with straight light blonde hair, fair skin, light blue eyes, smiling as he imagines the garden's return. Winter cool blues and whites transition to hints of spring pastels, showing the eternal cycle of the seasons in the same beloved school garden.",
+            "alt": "Hugo dreaming of spring's return to the garden",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "seasonal changes",
+      "plant growth",
+      "school environment",
+      "nature cycles",
+      "patience",
+      "observation"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "seasonal cycle, spring pastels, summer brights, autumn warmth, winter cool, same scene different seasons, time passing, nature calendar, cyclical beauty"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Hugo plant in the spring?",
+        "choices": [
+          "seeds",
+          "rocks",
+          "toys"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hugo plants seeds in spring with his teacher, which grow into vegetables and flowers!"
+      },
+      {
+        "id": "q2",
+        "question": "What color are the tomatoes Hugo picks in summer?",
+        "choices": [
+          "red",
+          "blue",
+          "purple"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hugo picks red tomatoes in the summer when they are ripe and ready to eat!"
+      },
+      {
+        "id": "q3",
+        "question": "What covers the garden in winter?",
+        "choices": [
+          "snow",
+          "flowers",
+          "butterflies"
+        ],
+        "correctIndex": 0,
+        "explanation": "In winter, soft white snow covers the sleeping garden until spring returns!"
+      },
+      {
+        "id": "q4",
+        "question": "What do Hugo and his teacher save for next spring?",
+        "choices": [
+          "seeds",
+          "leaves",
+          "snow"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hugo and his teacher save seeds in autumn to plant again when spring comes back!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "spring",
+            "distractors": [
+              "winter",
+              "night"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "seeds",
+            "distractors": [
+              "rocks",
+              "toys"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "sunshine",
+            "distractors": [
+              "rain",
+              "snow"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "tomatoes",
+            "distractors": [
+              "apples",
+              "cookies"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 7,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "winter",
+            "distractors": [
+              "summer",
+              "morning"
+            ]
+          },
+          {
+            "wordIndex": 10,
+            "correctWord": "snow",
+            "distractors": [
+              "flowers",
+              "leaves"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

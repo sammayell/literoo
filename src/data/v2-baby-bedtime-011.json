@@ -13,7 +13,7 @@
   "wordCount": 36,
   "readingLevel": "Pre-K",
   "synopsis": "Little Zara discovers sleepy stars that help her drift off to dreamland with Mama's gentle bedtime routine.",
-  "coverImage": "covers/v2-baby-bedtime-011.webp",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-011/cover.png",
   "chapters": [
     {
       "title": "Sleepy Time Stars",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes stands at a window. Soft watercolor style with dreamy purple and blue gradients. Glowing stars twinkle outside in gentle moonlight with floating clouds in an ethereal atmosphere using a pastel palette.",
             "alt": "Zara looking out window at night sky with glowing stars",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-011/scene_1_1.png"
           }
         },
         {
@@ -31,7 +32,8 @@
           "illustration": {
             "description": "Mama pointing to the sky while holding Zara, who has natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes. Soft watercolor with dreamy purple and blue gradients, floating clouds, and glowing stars with round sleepy faces in gentle moonlight creating an ethereal atmosphere with pastel palette.",
             "alt": "Mama and Zara looking at sleepy stars together",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-011/scene_1_2.png"
           }
         },
         {
@@ -39,7 +41,8 @@
           "illustration": {
             "description": "Close-up of Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes yawning sleepily. Soft watercolor style with dreamy purple and blue gradients, glowing stars with round sleepy faces yawning in the background, floating clouds, gentle moonlight in ethereal atmosphere with pastel palette.",
             "alt": "Zara yawning with sleepy yawning stars",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-011/scene_1_3.png"
           }
         },
         {
@@ -47,7 +50,8 @@
           "illustration": {
             "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes tucked in bed with Mama beside her. Soft watercolor with dreamy purple and blue gradients, glowing stars with round sleepy faces floating around the room like floating clouds in gentle moonlight, creating ethereal atmosphere with pastel palette.",
             "alt": "Zara in bed with Mama as sleepy stars float around",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-011/scene_1_4.png"
           }
         }
       ]

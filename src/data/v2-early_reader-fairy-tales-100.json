@@ -1,0 +1,264 @@
+{
+  "id": "v2-early_reader-fairy-tales-100",
+  "title": "Sofia and the Magic Forest Friends",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "fairy-tales",
+    "animals"
+  ],
+  "wordCount": 503,
+  "readingLevel": "Kindergarten-1st Grade",
+  "synopsis": "Sofia discovers a magical forest where she befriends talking animals and helps them solve problems with kindness and courage, learning that friendship and helping others brings the greatest magic of all.",
+  "coverImage": "covers/v2-early_reader-fairy-tales-100.webp",
+  "chapters": [
+    {
+      "title": "The Magic Door",
+      "pages": [
+        {
+          "text": "Sofia lived in a little house by the woods. She loved to explore and look for new adventures. One sunny morning, Sofia put on her favorite blue dress and walked into the forest.",
+          "illustration": {
+            "description": "A young girl with long wavy dark brown hair, warm olive skin, big dark brown eyes wearing a blue dress stands at the edge of an enchanted forest. Tall ancient trees with twisted branches frame the scene, with golden sunlight filtering through leaves. Decorative border with vines and flowers surrounds the illustration in Arthur Rackham style with detailed pen work and watercolor washes.",
+            "alt": "Sofia in blue dress standing at forest edge with sunlight streaming through trees",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "As Sofia walked deeper into the woods, she saw something amazing. There was a door in the trunk of the biggest oak tree! The door was painted bright green with golden flowers all around it.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes approaches a massive oak tree with an ornate green door embedded in its trunk. Golden flowers and magical sparkles surround the door. The scene has golden age illustration style with intricate pen details and soft watercolor washes, bordered by decorative Celtic-inspired designs.",
+            "alt": "Sofia discovering a magical green door in a large oak tree trunk",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sofia touched the door gently. It opened with a soft chime like tiny bells. Behind the door was the most beautiful garden she had ever seen. Colorful flowers danced in the breeze, and butterflies sparkled like jewels.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes peeks through the open magical door into a stunning fairy garden. Rainbow flowers sway gently, iridescent butterflies flutter about, and golden light fills the scene. Ornate decorative borders frame the magical vista in timeless Arthur Rackham style with detailed pen work and watercolor techniques.",
+            "alt": "Sofia looking through magical door into enchanted garden with dancing flowers and sparkling butterflies",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sofia stepped through the magical door. As soon as her feet touched the soft grass, she heard a tiny voice say, 'Welcome to our magic forest, Sofia!' She looked around but couldn't see who was talking.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes stands in the magical garden looking around curiously. Soft grass beneath her feet glows faintly, and tiny sparkles of magic float in the air. The scene is rendered in golden age illustration style with intricate details and watercolor washes, surrounded by an enchanted decorative border.",
+            "alt": "Sofia standing in magical garden looking around for the source of a mysterious voice",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "New Friends with Problems",
+      "pages": [
+        {
+          "text": "A small rabbit hopped out from behind a mushroom. 'Hello, Sofia! I'm Ruby the rabbit. We've been waiting for someone kind like you to help us.' Ruby's fur was pure white except for her pink ears and nose.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes kneels down to meet Ruby, a charming white rabbit with pink ears and nose. They're beside a large spotted mushroom in the magical forest. The scene features Arthur Rackham inspired detailed pen work with watercolor washes and an ornate fairy tale border with woodland motifs.",
+            "alt": "Sofia meeting Ruby the white rabbit with pink features beside a spotted mushroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Ruby explained the problem. 'Our friend Benny the bear is very sad. He lost his special honey pot, and without it, he can't make honey for all the forest animals. We've looked everywhere but can't find it.'",
+          "illustration": {
+            "description": "Ruby the white rabbit with pink ears gestures sadly while talking to Sofia, who has long wavy dark brown hair, warm olive skin, big dark brown eyes and listens with concern. In the background, forest animals gather around looking worried. The illustration uses golden age style with detailed pen work, watercolor washes, and decorative borders featuring honey and flower motifs.",
+            "alt": "Ruby the rabbit explaining to Sofia about Benny's lost honey pot while other forest animals look on sadly",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Just then, a big brown bear came walking slowly toward them. His head hung low, and he looked very sad. 'Hello,' he said quietly. 'I'm Benny. I'm sorry I'm not very cheerful today.'",
+          "illustration": {
+            "description": "Benny, a large gentle brown bear with a sad expression, approaches Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes and Ruby the rabbit. The bear's posture shows his sadness. The forest setting is rendered in Arthur Rackham style with intricate pen details and soft watercolor tones, framed by a decorative border with bear and woodland themes.",
+            "alt": "Sad brown bear Benny approaching Sofia and Ruby in the forest",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sofia gave Benny a gentle hug. 'Don't worry, Benny. We'll help you find your honey pot. Sometimes when we work together, we can solve any problem. Where did you last see it?'",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes gives a comforting hug to the large brown bear Benny while Ruby the rabbit watches supportively. The scene shows warmth and friendship in the magical forest setting, illustrated in golden age style with detailed pen work, watercolor washes, and ornate decorative borders.",
+            "alt": "Sofia hugging sad bear Benny while Ruby the rabbit looks on supportively",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Great Honey Hunt",
+      "pages": [
+        {
+          "text": "Benny thought hard. 'I remember I was picking berries by the stream yesterday. I put my honey pot down next to the big willow tree. But when I finished picking berries, it was gone!'",
+          "illustration": {
+            "description": "Benny the brown bear points toward a babbling stream with a large weeping willow tree beside it. Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes and Ruby the rabbit listen attentively. Berry bushes dot the streamside scene, rendered in Arthur Rackham style with intricate pen details and watercolor washes, bordered by decorative stream and berry motifs.",
+            "alt": "Benny pointing to willow tree by stream where he lost his honey pot while Sofia and Ruby listen",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The three friends walked to the willow tree by the stream. Sofia looked carefully at the ground. She saw tiny footprints leading away from the tree. 'Look!' she said. 'These footprints might lead us to your honey pot!'",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes kneels examining small footprints in the soft earth near the willow tree. Benny the bear and Ruby the rabbit peer over her shoulder. The stream flows gently beside them in this detailed golden age illustration with pen work and watercolor techniques, framed by an ornate border.",
+            "alt": "Sofia examining tiny footprints on ground while Benny and Ruby watch by the willow tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "They followed the tiny footprints through the forest. The prints led them to a hollow log. From inside came a squeaky little voice saying, 'I'm sorry! I'm sorry! I didn't mean to take it!'",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes, Benny the brown bear, and Ruby the white rabbit approach a large hollow log. Tiny footprints lead directly to it, and magical sparkles suggest something special inside. The scene is illustrated in Arthur Rackham inspired style with detailed pen work and soft watercolor washes, decorated with woodland border motifs.",
+            "alt": "Sofia, Benny and Ruby following footprints to a hollow log where a voice can be heard",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A tiny field mouse peeked out of the log. Next to him sat Benny's honey pot! 'I'm Mouse,' he squeaked. 'I was so hungry, and the honey smelled so good. I only wanted a tiny taste, but then I fell asleep!'",
+          "illustration": {
+            "description": "A small brown field mouse with big worried eyes sits beside a golden honey pot inside the hollow log. Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes looks kindly at the mouse while Benny and Ruby watch. The scene shows understanding and forgiveness, rendered in golden age illustration style with intricate details and decorative borders.",
+            "alt": "Tiny field mouse with honey pot inside hollow log as Sofia, Benny and Ruby discover him",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Benny smiled for the first time all day. 'It's okay, Mouse. I understand being hungry. From now on, you can always come to me when you need honey. We're all friends in this magic forest!'",
+          "illustration": {
+            "description": "A heartwarming scene showing Benny the bear smiling warmly at Mouse the field mouse, while Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes and Ruby the rabbit beam with happiness. The recovered honey pot sits between them, and magical sparkles of friendship fill the air. Illustrated in Arthur Rackham style with detailed pen work and watercolor, framed by ornate decorative borders.",
+            "alt": "Happy ending scene with all friends together as Benny forgives Mouse and offers friendship",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sofia felt warm and happy inside. She had helped solve the problem and made new friends. As the sun began to set, she knew it was time to go home. 'I'll come back and visit you all soon,' she promised.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes waves goodbye to her new friends - Benny the bear, Ruby the rabbit, and Mouse the field mouse - as golden sunset light filters through the magical forest. The scene captures the warmth of new friendships in classic fairy tale style with Arthur Rackham inspired pen work, watercolor washes, and enchanted decorative borders.",
+            "alt": "Sofia waving goodbye to her animal friends in the magical forest at sunset",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "kindness",
+      "problem-solving",
+      "forgiveness",
+      "helping others",
+      "magical adventures"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Sofia find in the oak tree?",
+        "choices": [
+          "A green door",
+          "A bird's nest",
+          "Some acorns"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sofia found a bright green door painted with golden flowers in the trunk of the biggest oak tree."
+      },
+      {
+        "id": "q2",
+        "question": "What was the first animal Sofia met in the magic forest?",
+        "choices": [
+          "Benny the bear",
+          "Ruby the rabbit",
+          "Mouse"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ruby the rabbit was the first animal Sofia met when she stepped through the magical door."
+      },
+      {
+        "id": "q3",
+        "question": "What did Benny the bear lose?",
+        "choices": [
+          "His favorite berries",
+          "His honey pot",
+          "His home"
+        ],
+        "correctIndex": 1,
+        "explanation": "Benny lost his special honey pot, which he needed to make honey for all the forest animals."
+      },
+      {
+        "id": "q4",
+        "question": "Who took Benny's honey pot?",
+        "choices": [
+          "Mouse",
+          "Ruby",
+          "Another bear"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mouse the field mouse took the honey pot because he was hungry and wanted just a tiny taste, but then fell asleep."
+      },
+      {
+        "id": "q5",
+        "question": "How did the friends solve the problem?",
+        "choices": [
+          "They used magic",
+          "They followed footprints",
+          "They asked other animals"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sofia found tiny footprints on the ground and the friends followed them to the hollow log where they found Mouse and the honey pot."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "adventures",
+            "distractors": [
+              "problems",
+              "troubles"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "forest",
+            "distractors": [
+              "garden",
+              "meadow"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "door",
+            "distractors": [
+              "window",
+              "hole"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "flowers",
+            "distractors": [
+              "leaves",
+              "berries"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

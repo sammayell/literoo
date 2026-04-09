@@ -1,0 +1,147 @@
+{
+  "id": "v2-baby-food-029",
+  "title": "Chloe's Animal Food Party",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "food",
+    "animals"
+  ],
+  "wordCount": 33,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Chloe discovers different animals and the yummy foods they love to eat in this delightful culinary adventure.",
+  "coverImage": "covers/v2-baby-food-029.webp",
+  "chapters": [
+    {
+      "title": "Yummy Food Friends",
+      "pages": [
+        {
+          "text": "Chloe loves food! She sees a bunny.",
+          "illustration": {
+            "description": "Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes stands in a magical garden with a fluffy white bunny. Giant orange carrots with sparkles and steam surround them.",
+            "alt": "Chloe and bunny with magical carrots",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Bunny eats carrots. Crunch, crunch!",
+          "illustration": {
+            "description": "The bunny munches on enormous glowing carrots while Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes watches with delight. Steam and sparkles dance around the crunchy vegetables.",
+            "alt": "Bunny eating magical carrots",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Bear likes honey. So sweet!",
+          "illustration": {
+            "description": "A friendly brown bear sits next to Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes. Golden honey drips magically from floating honeycomb with glittering droplets.",
+            "alt": "Chloe and bear with magical honey",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Monkey swings down. Banana time!",
+          "illustration": {
+            "description": "A playful monkey swings from vines above Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes. Giant yellow bananas with steam and sparkles float around them in exaggerated proportions.",
+            "alt": "Monkey and Chloe with magical bananas",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Fish swim up. Yummy seaweed!",
+          "illustration": {
+            "description": "Colorful fish swim around Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes who stands by magical water. Glowing green seaweed with sparkles and steam bubbles create a feast underwater scene.",
+            "alt": "Fish and Chloe with magical seaweed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "All friends eat together. Happy tummies!",
+          "illustration": {
+            "description": "Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes sits with bunny, bear, monkey, and fish around a magical feast. Steam, sparkles, and food joy fill the celebration scene with diverse cuisines.",
+            "alt": "Chloe and animal friends feast celebration",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "animals",
+      "healthy eating",
+      "sharing"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "delicious appetizing food, exaggerated proportions, steam drips sparkles, magical food, diverse cuisines, feast celebration, cooking scenes, yummy visual, food joy"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does the bunny eat?",
+        "choices": [
+          "carrots",
+          "bananas"
+        ],
+        "correctIndex": 0,
+        "explanation": "The bunny loves to eat crunchy orange carrots!"
+      },
+      {
+        "id": "q2",
+        "question": "What does the bear like?",
+        "choices": [
+          "honey",
+          "fish"
+        ],
+        "correctIndex": 0,
+        "explanation": "The bear enjoys sweet, golden honey!"
+      },
+      {
+        "id": "q3",
+        "question": "What do all the friends do at the end?",
+        "choices": [
+          "eat together",
+          "run away"
+        ],
+        "correctIndex": 0,
+        "explanation": "All the animal friends share a happy meal together with Chloe!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "carrots",
+            "distractors": [
+              "cookies",
+              "cake"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "honey",
+            "distractors": [
+              "water",
+              "milk"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "id": "v2-baby-animals-022",
+  "title": "Finn Meets the Animals",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "animals",
+    "nature"
+  ],
+  "wordCount": 59,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Finn explores the savanna and meets friendly animals who each make their special sounds.",
+  "coverImage": "covers/v2-baby-animals-022.webp",
+  "chapters": [
+    {
+      "title": "Animal Friends",
+      "pages": [
+        {
+          "text": "Finn walks in the warm grass. The sun is orange and bright.",
+          "illustration": {
+            "description": "A toddler boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes walking through golden savanna grass under an orange sunset sky, painted in gouache with thick brushstrokes and warm colors",
+            "alt": "Finn walking in golden grass at sunset",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A big elephant says TRUMPET! Finn laughs and waves hello.",
+          "illustration": {
+            "description": "A large expressive elephant trumpeting next to a small boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes, painted in gouache with bold confident strokes and warm savanna colors",
+            "alt": "Finn meeting a trumpeting elephant",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A tall giraffe says nothing. But Finn sees its long neck reaching high.",
+          "illustration": {
+            "description": "A towering giraffe with its neck stretched up toward acacia leaves, with a tiny boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes looking up in wonder, painted in textured gouache brushstrokes",
+            "alt": "Finn looking up at a tall giraffe",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A lion goes ROAR! Finn is not scared. The lion is friendly.",
+          "illustration": {
+            "description": "A golden maned lion roaring gently while a fearless toddler boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes stands nearby smiling, painted in warm gouache with expressive animal features",
+            "alt": "Finn standing near a friendly roaring lion",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Time to go home. Finn waves goodbye to all his animal friends.",
+          "illustration": {
+            "description": "A boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes waving goodbye to an elephant, giraffe, and lion gathered together under the orange sunset, painted in thick gouache brushstrokes with golden grass",
+            "alt": "Finn waving goodbye to his animal friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "animals",
+      "exploration",
+      "nature"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does the elephant make?",
+        "choices": [
+          "TRUMPET",
+          "ROAR"
+        ],
+        "correctIndex": 0,
+        "explanation": "The elephant says TRUMPET!"
+      },
+      {
+        "id": "q2",
+        "question": "Which animal has a long neck?",
+        "choices": [
+          "giraffe",
+          "lion"
+        ],
+        "correctIndex": 0,
+        "explanation": "The giraffe has a long neck that reaches high."
+      },
+      {
+        "id": "q3",
+        "question": "What does Finn do at the end?",
+        "choices": [
+          "waves goodbye",
+          "runs away"
+        ],
+        "correctIndex": 0,
+        "explanation": "Finn waves goodbye to all his animal friends."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "elephant",
+            "distractors": [
+              "monkey",
+              "zebra"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "giraffe",
+            "distractors": [
+              "hippo",
+              "bird"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

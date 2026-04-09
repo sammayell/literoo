@@ -1,0 +1,151 @@
+{
+  "id": "v2-baby-sounds-047",
+  "title": "Ivy's Counting Sounds",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "sounds",
+    "counting"
+  ],
+  "wordCount": 51,
+  "readingLevel": "Pre-K",
+  "synopsis": "Baby Ivy discovers and counts different sounds around her, from one clap to five raindrops, learning numbers through delightful noises.",
+  "coverImage": "covers/v2-baby-sounds-047.webp",
+  "chapters": [
+    {
+      "title": "One, Two, Three Sounds!",
+      "pages": [
+        {
+          "text": "One clap! Ivy claps her hands. CLAP!",
+          "illustration": {
+            "description": "A cheerful toddler girl with short dark brown bob with bangs, fair skin, big brown eyes clapping her hands. Golden circular waves radiate outward from her hands, representing the clapping sound in vibrant yellow and orange rings.",
+            "alt": "Ivy clapping with visible sound waves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Two drums! BOOM! BOOM! Ivy bangs the drums.",
+          "illustration": {
+            "description": "A little girl with short dark brown bob with bangs, fair skin, big brown eyes sitting with two colorful drums. Jagged red and purple lines burst from each drum, showing the loud booming sounds as spiky geometric shapes.",
+            "alt": "Ivy playing drums with jagged sound lines",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Three bells! RING! RING! RING! Pretty bells sing.",
+          "illustration": {
+            "description": "A toddler with short dark brown bob with bangs, fair skin, big brown eyes holding three silver bells. Delicate blue and silver wavy lines flow upward like musical notes, creating graceful curved patterns in the air.",
+            "alt": "Ivy ringing bells with flowing sound waves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Four birds! TWEET! TWEET! TWEET! TWEET! Birds say hello.",
+          "illustration": {
+            "description": "A little girl with short dark brown bob with bangs, fair skin, big brown eyes looking up at four colorful birds. Small pastel dots in pink, yellow, and green float from each bird's beak, representing their gentle tweets as soft dotted patterns.",
+            "alt": "Ivy watching birds with dotted tweet sounds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Five raindrops! PLINK! PLINK! PLINK! PLINK! PLINK! Rain makes music.",
+          "illustration": {
+            "description": "A happy child with short dark brown bob with bangs, fair skin, big brown eyes catching raindrops. Five bright blue teardrop shapes create rippling circles as they hit surfaces, with concentric rings showing the plink sounds in aqua and turquoise.",
+            "alt": "Ivy with raindrops creating ripple sound patterns",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Ivy loves counting sounds! One, two, three, four, five!",
+          "illustration": {
+            "description": "A joyful toddler with short dark brown bob with bangs, fair skin, big brown eyes surrounded by all the sounds: golden clap rings, jagged drum lines, wavy bell curves, dotted bird tweets, and raindrop ripples all swirling together in a colorful sound symphony.",
+            "alt": "Ivy surrounded by all the counted sounds",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "counting",
+      "sounds",
+      "music",
+      "numbers",
+      "sensory exploration"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "sound made visible, wavy lines for music, jagged lines for crashes, dots for whispers, synesthesia inspired, seeing sound, color and shape for noise, vibration visual"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How many times does Ivy clap?",
+        "choices": [
+          "One",
+          "Two",
+          "Three"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ivy claps one time - CLAP!"
+      },
+      {
+        "id": "q2",
+        "question": "What sound do the bells make?",
+        "choices": [
+          "BOOM",
+          "RING",
+          "TWEET"
+        ],
+        "correctIndex": 1,
+        "explanation": "The bells make a RING sound!"
+      },
+      {
+        "id": "q3",
+        "question": "How many birds say hello?",
+        "choices": [
+          "Three",
+          "Four",
+          "Five"
+        ],
+        "correctIndex": 1,
+        "explanation": "Four birds say TWEET to Ivy!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "CLAP",
+            "distractors": [
+              "BOOM",
+              "RING"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "drums",
+            "distractors": [
+              "bells",
+              "birds"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

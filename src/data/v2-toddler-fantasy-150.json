@@ -1,0 +1,188 @@
+{
+  "id": "v2-toddler-fantasy-150",
+  "title": "Jasper and the Magic Mushroom Friends",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "fantasy",
+    "friendship"
+  ],
+  "wordCount": 131,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Jasper discovers a magical forest where glowing mushrooms come to life as his new friends, teaching him about friendship and wonder.",
+  "coverImage": "covers/v2-toddler-fantasy-150.webp",
+  "chapters": [
+    {
+      "title": "Into the Glowing Forest",
+      "pages": [
+        {
+          "text": "Jasper wandered into a magical forest. The trees sparkled with tiny fairy lights. Golden dust danced in the air around him.",
+          "illustration": {
+            "description": "A boy with wavy reddish-brown hair, fair freckled skin, green eyes walking into an enchanted forest filled with glowing mushrooms, fairy lights twinkling in the trees, rich greens and purples, golden sparkles floating through the air, Studio Ghibli inspired magical atmosphere with detailed foliage",
+            "alt": "Jasper entering a magical glowing forest",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Suddenly, the mushrooms began to glow brighter. They wiggled and giggled! 'Hello, Jasper!' they chimed in tiny voices.",
+          "illustration": {
+            "description": "A boy with wavy reddish-brown hair, fair freckled skin, green eyes looking amazed at glowing mushrooms with cute faces, enchanted forest setting with mystical creatures peeking from behind trees, fairy lights, rich greens and purples, golden sparkles, magical atmosphere",
+            "alt": "Talking glowing mushrooms greeting Jasper",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Playing with New Friends",
+      "pages": [
+        {
+          "text": "The mushroom friends wanted to play! They rolled around like little balls of light. Jasper laughed and chased them through the magical trees.",
+          "illustration": {
+            "description": "A boy with wavy reddish-brown hair, fair freckled skin, green eyes playing and running with glowing mushroom creatures in an enchanted forest, fairy lights strung between trees, mystical creatures watching, rich greens and purples, golden sparkles, Studio Ghibli inspired detailed foliage",
+            "alt": "Jasper playing with mushroom friends in the forest",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Let's sing!' said the biggest mushroom. They all sang a happy song that made the whole forest shimmer with rainbow colors.",
+          "illustration": {
+            "description": "A boy with wavy reddish-brown hair, fair freckled skin, green eyes singing with glowing mushroom friends, rainbow sparkles filling the enchanted forest, fairy lights twinkling, mystical creatures joining in, rich greens and purples with rainbow hues, magical atmosphere with detailed foliage",
+            "alt": "Jasper and mushrooms singing together with rainbow magic",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Forever Friends",
+      "pages": [
+        {
+          "text": "When it was time to go home, the mushrooms gave Jasper a special glowing acorn. 'This will always bring you back to us!' they said.",
+          "illustration": {
+            "description": "A boy with wavy reddish-brown hair, fair freckled skin, green eyes holding a glowing acorn while surrounded by smiling mushroom friends in an enchanted forest, fairy lights, golden sparkles, mystical creatures, rich greens and purples, Studio Ghibli inspired magical atmosphere with detailed foliage",
+            "alt": "Mushroom friends giving Jasper a magical glowing acorn",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Jasper hugged his new friends goodbye. He knew he would return soon to play in the magical forest with his glowing mushroom friends.",
+          "illustration": {
+            "description": "A boy with wavy reddish-brown hair, fair freckled skin, green eyes hugging glowing mushroom creatures in an enchanted forest, fairy lights creating a warm glow, mystical creatures watching fondly, rich greens and purples, golden sparkles, magical atmosphere with detailed foliage, Studio Ghibli inspired",
+            "alt": "Jasper hugging his mushroom friends goodbye",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "magic",
+      "nature",
+      "wonder",
+      "imagination"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Jasper find in the forest?",
+        "choices": [
+          "Glowing mushrooms",
+          "Regular rocks",
+          "Swimming fish"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jasper found magical glowing mushrooms that could talk and play!"
+      },
+      {
+        "id": "q2",
+        "question": "What did the mushrooms and Jasper do together?",
+        "choices": [
+          "They sang songs",
+          "They went swimming",
+          "They cooked dinner"
+        ],
+        "correctIndex": 0,
+        "explanation": "The mushrooms and Jasper sang a happy song that made rainbow colors!"
+      },
+      {
+        "id": "q3",
+        "question": "What gift did the mushrooms give Jasper?",
+        "choices": [
+          "A glowing acorn",
+          "A red apple",
+          "A blue flower"
+        ],
+        "correctIndex": 0,
+        "explanation": "The mushroom friends gave Jasper a special glowing acorn to help him return!"
+      },
+      {
+        "id": "q4",
+        "question": "How did Jasper feel about his new friends?",
+        "choices": [
+          "Happy and excited",
+          "Scared and worried",
+          "Tired and sleepy"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jasper was happy to make new magical friends and play with them!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "magical",
+            "distractors": [
+              "scary",
+              "cold"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "sparkled",
+            "distractors": [
+              "fell",
+              "broke"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "light",
+            "distractors": [
+              "rocks",
+              "water"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "magical",
+            "distractors": [
+              "dark",
+              "empty"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

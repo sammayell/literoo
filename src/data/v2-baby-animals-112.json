@@ -1,0 +1,139 @@
+{
+  "id": "v2-baby-animals-112",
+  "title": "Kofi Meets the Animals",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "animals",
+    "nature"
+  ],
+  "wordCount": 60,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Kofi explores the savanna and meets friendly animals who each make their special sounds, creating a delightful introduction to animal sounds and nature for toddlers.",
+  "coverImage": "covers/v2-baby-animals-112.webp",
+  "chapters": [
+    {
+      "title": "Animal Friends",
+      "pages": [
+        {
+          "text": "Kofi walks in the warm grass. The sun is bright and golden.",
+          "illustration": {
+            "description": "A toddler with short cropped hair, rich dark brown skin, bright expressive eyes walking through tall golden savanna grass under a warm orange sunset sky, painted with thick brushstrokes in gouache",
+            "alt": "Kofi walking through golden grass in the savanna",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A big elephant comes close. 'TRUMPET!' says the elephant. Kofi smiles.",
+          "illustration": {
+            "description": "A large gray elephant with its trunk raised, trumpeting next to a small boy with short cropped hair, rich dark brown skin, bright expressive eyes who is smiling, painted in gouache with thick brushstrokes and warm savanna colors",
+            "alt": "Kofi meeting a trumpeting elephant",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A tall giraffe bends down. 'Hello!' says Kofi. The giraffe is so tall!",
+          "illustration": {
+            "description": "A spotted giraffe bending its long neck down toward a small boy with short cropped hair, rich dark brown skin, bright expressive eyes, painted with bold confident gouache strokes in warm orange and golden tones",
+            "alt": "Kofi looking up at a tall giraffe",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A lion roars. 'ROAR!' Kofi claps his hands. What a big sound!",
+          "illustration": {
+            "description": "A golden lion with a magnificent mane roaring while a toddler with short cropped hair, rich dark brown skin, bright expressive eyes claps happily, painted in textured gouache with warm savanna colors and expressive brushwork",
+            "alt": "Kofi clapping as a lion roars",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Kofi waves goodbye to all his animal friends. Time to go home!",
+          "illustration": {
+            "description": "A boy with short cropped hair, rich dark brown skin, bright expressive eyes waving goodbye to an elephant, giraffe, and lion in the golden grass under an orange sunset, painted with thick gouache brushstrokes",
+            "alt": "Kofi waving goodbye to his animal friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "animals",
+      "nature exploration",
+      "sounds"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does the elephant make?",
+        "choices": [
+          "TRUMPET!",
+          "ROAR!"
+        ],
+        "correctIndex": 0,
+        "explanation": "The elephant makes a trumpet sound with its trunk!"
+      },
+      {
+        "id": "q2",
+        "question": "Which animal is very tall?",
+        "choices": [
+          "Giraffe",
+          "Lion"
+        ],
+        "correctIndex": 0,
+        "explanation": "The giraffe is the tallest animal and has to bend down to see Kofi!"
+      },
+      {
+        "id": "q3",
+        "question": "What does Kofi do when the lion roars?",
+        "choices": [
+          "Claps his hands",
+          "Runs away"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kofi claps his hands happily when he hears the lion's big roar!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "elephant",
+            "distractors": [
+              "monkey",
+              "zebra"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "roars",
+            "distractors": [
+              "sings",
+              "jumps"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

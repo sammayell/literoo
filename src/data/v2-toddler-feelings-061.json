@@ -1,0 +1,208 @@
+{
+  "id": "v2-toddler-feelings-061",
+  "title": "Emma's Big Feelings",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "feelings",
+    "family"
+  ],
+  "wordCount": 166,
+  "readingLevel": "Pre-K",
+  "synopsis": "Emma learns to understand and express her big feelings with help from her loving family, discovering that all emotions are okay to feel.",
+  "coverImage": "covers/v2-toddler-feelings-061.webp",
+  "chapters": [
+    {
+      "title": "Emma's Mad Day",
+      "pages": [
+        {
+          "text": "Emma was having a big feeling day. When her tower of blocks fell down, angry red swirls filled her chest. She stomped her feet and made growling sounds like a bear.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks stands next to fallen blocks, surrounded by angry red swirls and jagged lines representing her mad feelings",
+            "alt": "Emma looking upset with red swirls around her and fallen toy blocks",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama came over with gentle arms. 'I see you're feeling mad, Emma,' she said softly. 'Mad feelings are okay. Let's take three deep breaths together and count to ten.'",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks being hugged by her mama, with red swirls slowly fading to softer pink clouds around them",
+            "alt": "Emma being comforted by her mother with calming colors",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sad Like the Rain",
+      "pages": [
+        {
+          "text": "Later, Emma's favorite stuffed bunny got dirty. Sad blue raindrops seemed to fall all around her heart. She felt like crying, and that was okay too.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks holding a dirty stuffed bunny, surrounded by blue rain drops and gray-blue clouds representing sadness",
+            "alt": "Emma looking sad while holding her dirty stuffed animal with blue rain imagery",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Daddy sat down beside her. 'Sad feelings need hugs,' he said. They washed bunny together in warm soapy water. Soon the blue rain turned into gentle, healing blue waves.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks washing her bunny with daddy at the sink, blue rain transforming into gentle blue waves and lighter colors",
+            "alt": "Emma and her father washing the stuffed bunny with calming blue waves",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Happy Sunshine",
+      "pages": [
+        {
+          "text": "At bedtime, Emma snuggled with clean bunny. Happy yellow sunshine filled her whole body. She giggled and felt warm golden sparkles dancing around her.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks cuddling her clean bunny in bed, surrounded by bright yellow sunshine rays and golden sparkles representing joy",
+            "alt": "Emma happily cuddling her clean bunny with yellow sunshine and sparkles",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'All feelings are important,' Mama said, tucking Emma in. 'Mad, sad, happy - they all live in your heart. Tomorrow we'll have more feelings to explore together.'",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks being tucked into bed by mama, with a rainbow of gentle colors (red, blue, yellow) swirling peacefully around them representing all emotions in harmony",
+            "alt": "Emma being tucked in by her mother with rainbow colors representing balanced emotions",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotional intelligence",
+      "family support",
+      "self-regulation",
+      "feelings validation"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "emotion mapped colors, angry red swirls, sad blue rain, happy yellow sunshine, abstract emotion backgrounds, Inside Out inspired, feeling visualization, color psychology"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color were Emma's mad feelings?",
+        "choices": [
+          "Red swirls",
+          "Blue rain",
+          "Yellow sunshine"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emma's angry feelings looked like red swirls around her when her blocks fell down."
+      },
+      {
+        "id": "q2",
+        "question": "How did Mama help Emma with her mad feelings?",
+        "choices": [
+          "She gave her new toys",
+          "She helped her take deep breaths",
+          "She made her go to her room"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mama helped Emma feel better by taking three deep breaths together and counting to ten."
+      },
+      {
+        "id": "q3",
+        "question": "What made Emma feel sad?",
+        "choices": [
+          "Her bunny got dirty",
+          "She was hungry",
+          "It was raining outside"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emma felt sad when her favorite stuffed bunny got dirty, and it felt like blue raindrops around her heart."
+      },
+      {
+        "id": "q4",
+        "question": "What did Emma learn about feelings?",
+        "choices": [
+          "Only happy feelings are good",
+          "All feelings are important",
+          "Sad feelings should be hidden"
+        ],
+        "correctIndex": 1,
+        "explanation": "Emma learned that all feelings - mad, sad, and happy - are important and live in her heart."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "mad",
+            "distractors": [
+              "happy",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "red",
+            "distractors": [
+              "blue",
+              "green"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "sad",
+            "distractors": [
+              "mad",
+              "excited"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "blue",
+            "distractors": [
+              "red",
+              "yellow"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 5,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "happy",
+            "distractors": [
+              "angry",
+              "sad"
+            ]
+          },
+          {
+            "wordIndex": 9,
+            "correctWord": "yellow",
+            "distractors": [
+              "purple",
+              "orange"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

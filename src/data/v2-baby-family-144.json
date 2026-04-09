@@ -1,0 +1,131 @@
+{
+  "id": "v2-baby-family-144",
+  "title": "Oscar's Sunday Morning Sounds",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "family",
+    "sounds"
+  ],
+  "wordCount": 59,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Oscar discovers all the wonderful sounds of a cozy Sunday morning with his family, from sizzling pancakes to rustling newspapers.",
+  "coverImage": "covers/v2-baby-family-144.webp",
+  "chapters": [
+    {
+      "title": "Sunday Morning Sounds",
+      "pages": [
+        {
+          "text": "Oscar wakes up on Sunday morning. The house is full of happy sounds!",
+          "illustration": {
+            "description": "Oscar, a toddler with short brown wavy hair, fair skin, warm hazel eyes, stretching in his crib wearing soft blue pajamas. Sunlight streams through the window, casting golden light across his nursery. The room has a warm, cozy atmosphere with gentle morning light.",
+            "alt": "Oscar waking up in his crib on a sunny Sunday morning",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sizzle, sizzle! Mama makes pancakes in the kitchen. Pop, pop! Papa opens the newspaper.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes toddles into a sunlit kitchen where his mama flips golden pancakes at the stove while his papa sits at the table in pajamas reading a newspaper. Steam rises from the pancakes in the warm golden hour light.",
+            "alt": "Oscar's family making breakfast in the sunny kitchen",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Gurgle, gurgle! The coffee pot bubbles. Rustle, rustle! The newspaper pages turn.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes sits in his high chair watching the coffee pot on the counter bubble while papa turns newspaper pages. The kitchen is bathed in gentle Sunday morning light with a lazy, unhurried atmosphere.",
+            "alt": "Oscar observing morning sounds from his high chair",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Flip, flip! The pancakes dance in the pan. Oscar claps his hands - clap, clap! Sunday mornings sound so good!",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes claps his little hands joyfully while sitting at the breakfast table. His family gathers around in their cozy pajamas, with golden pancakes on plates and newspapers scattered on the table in the warm sunlit room.",
+            "alt": "Oscar clapping happily at the breakfast table with his family",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "morning routines",
+      "sound exploration",
+      "home comfort"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Sunday morning light, golden hour, family pajamas, newspapers pancakes, gentle unhurried, modern diverse family, lazy morning, sunlit rooms, warm domestic"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound do the pancakes make?",
+        "choices": [
+          "Sizzle, sizzle",
+          "Pop, pop"
+        ],
+        "correctIndex": 0,
+        "explanation": "The pancakes make a sizzling sound when they cook in the pan!"
+      },
+      {
+        "id": "q2",
+        "question": "What does Papa do with the newspaper?",
+        "choices": [
+          "Reads it",
+          "Throws it"
+        ],
+        "correctIndex": 0,
+        "explanation": "Papa reads the newspaper and the pages make a rustling sound!"
+      },
+      {
+        "id": "q3",
+        "question": "How does Oscar show he's happy?",
+        "choices": [
+          "He claps his hands",
+          "He cries"
+        ],
+        "correctIndex": 0,
+        "explanation": "Oscar claps his hands - clap, clap! - because he loves the Sunday morning sounds!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "sizzle",
+            "distractors": [
+              "bubble",
+              "rustle"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "clap",
+            "distractors": [
+              "flip",
+              "pop"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

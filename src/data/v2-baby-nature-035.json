@@ -1,0 +1,131 @@
+{
+  "id": "v2-baby-nature-035",
+  "title": "Zuri's Peek-a-Boo Seasons",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "nature",
+    "peek-a-boo"
+  ],
+  "wordCount": 34,
+  "readingLevel": "Pre-K",
+  "synopsis": "Baby Zuri discovers the magic of seasons through peek-a-boo games with nature, from spring flowers to winter snow.",
+  "coverImage": "covers/v2-baby-nature-035.webp",
+  "chapters": [
+    {
+      "title": "Zuri's Peek-a-Boo Seasons",
+      "pages": [
+        {
+          "text": "Peek-a-boo! Spring flowers say hello to Zuri!",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, playing peek-a-boo behind blooming pink cherry blossoms in a garden setting with soft spring pastels",
+            "alt": "Zuri hiding behind spring flowers playing peek-a-boo",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Where is Zuri? Behind the big green leaves! Peek-a-boo!",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, peeking out from behind large summer green leaves with bright summer colors and sunshine",
+            "alt": "Zuri hiding behind summer leaves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Autumn leaves are falling! Peek-a-boo, Zuri sees you!",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, playing in a pile of warm autumn colored leaves - orange, red, and gold",
+            "alt": "Zuri playing peek-a-boo in autumn leaves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Brrr! Winter snow covers everything. Where did Zuri go? Peek-a-boo!",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, bundled in winter clothes peeking out from behind a snow-covered tree with cool winter blues and whites",
+            "alt": "Zuri hiding behind snowy tree in winter",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "seasons",
+      "nature",
+      "peek-a-boo games",
+      "outdoor exploration"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "seasonal cycle, spring pastels, summer brights, autumn warmth, winter cool, same scene different seasons, time passing, nature calendar, cyclical beauty"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What season has pink flowers?",
+        "choices": [
+          "Spring",
+          "Winter"
+        ],
+        "correctIndex": 0,
+        "explanation": "Spring is when flowers bloom and everything turns green!"
+      },
+      {
+        "id": "q2",
+        "question": "What falls from trees in autumn?",
+        "choices": [
+          "Leaves",
+          "Snow"
+        ],
+        "correctIndex": 0,
+        "explanation": "In autumn, colorful leaves fall from the trees!"
+      },
+      {
+        "id": "q3",
+        "question": "What covers the ground in winter?",
+        "choices": [
+          "Snow",
+          "Flowers"
+        ],
+        "correctIndex": 0,
+        "explanation": "Winter brings cold weather and white snow!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "flowers",
+            "distractors": [
+              "snow",
+              "leaves"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "leaves",
+            "distractors": [
+              "snow",
+              "flowers"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

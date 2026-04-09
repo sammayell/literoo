@@ -1,0 +1,166 @@
+{
+  "id": "v2-toddler-animals-162",
+  "title": "Finn's Big Safari Adventure",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "animals",
+    "adventure"
+  ],
+  "wordCount": 125,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Finn goes on an exciting safari adventure where he meets friendly animals and learns about helping others in the savanna.",
+  "coverImage": "covers/v2-toddler-animals-162.webp",
+  "chapters": [
+    {
+      "title": "Finn Meets the Animals",
+      "pages": [
+        {
+          "text": "Finn walked into the big savanna. The grass was tall and golden. \"Wow!\" said Finn. \"This place is amazing!\"",
+          "illustration": {
+            "description": "Finn with messy sandy-blonde hair, pale skin with freckles, blue-green eyes stands in tall golden grass in the savanna, painted with thick gouache brushstrokes in warm orange and yellow tones",
+            "alt": "Finn standing in tall golden savanna grass",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A big elephant came over to Finn. \"Hello, little boy,\" said the elephant. \"I'm Ella. Do you want to be friends?\"",
+          "illustration": {
+            "description": "Finn with messy sandy-blonde hair, pale skin with freckles, blue-green eyes looking up at a friendly gray elephant with expressive eyes, painted in gouache with thick confident strokes and warm savanna colors",
+            "alt": "Finn meeting Ella the elephant",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Yes!\" said Finn. Then a tall giraffe walked up. \"Hi, I'm Gary,\" said the giraffe. \"Nice to meet you, Finn!\"",
+          "illustration": {
+            "description": "Finn with messy sandy-blonde hair, pale skin with freckles, blue-green eyes standing between Ella the elephant and Gary the tall giraffe against an orange sunset sky, painted with textured gouache brushstrokes",
+            "alt": "Finn with his new animal friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Helping Baby Lion",
+      "pages": [
+        {
+          "text": "Suddenly, they heard crying. A baby lion was stuck in some thick bushes. \"Help me!\" cried the little lion.",
+          "illustration": {
+            "description": "Finn with messy sandy-blonde hair, pale skin with freckles, blue-green eyes, Ella the elephant, and Gary the giraffe looking at a small golden lion cub caught in green bushes, painted in gouache with bold strokes and warm colors",
+            "alt": "Baby lion stuck in bushes while friends look on",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Don't worry,\" said Finn. Gary used his long neck to pull away the branches. Ella used her trunk to lift the baby lion out safely.",
+          "illustration": {
+            "description": "Finn with messy sandy-blonde hair, pale skin with freckles, blue-green eyes watches as Gary the giraffe and Ella the elephant work together to rescue the baby lion, painted with thick gouache brushstrokes in golden grass under orange sunset",
+            "alt": "The animals working together to rescue baby lion",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Thank you!\" said the baby lion. All the animals cheered. Finn smiled big. \"I love adventures with friends!\" he said happily.",
+          "illustration": {
+            "description": "Finn with messy sandy-blonde hair, pale skin with freckles, blue-green eyes celebrating with Ella the elephant, Gary the giraffe, and the freed baby lion in the golden savanna grass, painted with expressive gouache in warm sunset colors",
+            "alt": "All friends celebrating together in the savanna",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "helping others",
+      "adventure",
+      "teamwork"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color was the grass in the savanna?",
+        "choices": [
+          "golden",
+          "purple",
+          "blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "The grass was tall and golden in the savanna where Finn had his adventure."
+      },
+      {
+        "id": "q2",
+        "question": "What was the elephant's name?",
+        "choices": [
+          "Ella",
+          "Emma",
+          "Ellie"
+        ],
+        "correctIndex": 0,
+        "explanation": "The friendly elephant introduced herself as Ella to Finn."
+      },
+      {
+        "id": "q3",
+        "question": "Who was stuck in the bushes?",
+        "choices": [
+          "baby lion",
+          "baby zebra",
+          "baby monkey"
+        ],
+        "correctIndex": 0,
+        "explanation": "The baby lion got stuck in the thick bushes and called for help."
+      },
+      {
+        "id": "q4",
+        "question": "How did the friends help the baby lion?",
+        "choices": [
+          "worked together",
+          "ran away",
+          "called for help"
+        ],
+        "correctIndex": 0,
+        "explanation": "Gary used his long neck and Ella used her trunk to work together and rescue the baby lion."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "golden",
+            "distractors": [
+              "purple",
+              "silver"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "lion",
+            "distractors": [
+              "zebra",
+              "monkey"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

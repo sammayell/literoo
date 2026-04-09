@@ -1,0 +1,148 @@
+{
+  "id": "v2-baby-counting-150",
+  "title": "Jasper Counts Happy Things",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "counting",
+    "feelings"
+  ],
+  "wordCount": 52,
+  "readingLevel": "Pre-K",
+  "synopsis": "Join Jasper as he counts from one to five while discovering happy things around him, learning numbers and exploring joyful feelings.",
+  "coverImage": "covers/v2-baby-counting-150.webp",
+  "chapters": [
+    {
+      "title": "Counting Happy",
+      "pages": [
+        {
+          "text": "This is Jasper! He loves to count happy things.",
+          "illustration": {
+            "description": "A cheerful boy with wavy reddish-brown hair, fair freckled skin, green eyes standing in a bright room with colorful toys scattered around, smiling widely with arms outstretched",
+            "alt": "Happy Jasper with toys around him",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "One big smile! Jasper feels happy.",
+          "illustration": {
+            "description": "Close-up of Jasper with wavy reddish-brown hair, fair freckled skin, green eyes showing one enormous bright smile, with a large colorful number 1 prominently displayed beside his face",
+            "alt": "Jasper with one big smile and number 1",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Two warm hugs! Mama and Dada hug Jasper.",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes receiving hugs from two adults, with two distinct hug gestures clearly visible and a large number 2 decorated with hearts",
+            "alt": "Jasper getting two hugs with number 2",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Three bouncy balls! Red, blue, yellow. Jasper giggles.",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes playing with three distinct colorful balls (red, blue, yellow) arranged in a clear triangle pattern with a bold number 3",
+            "alt": "Jasper with three colorful balls and number 3",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Four silly faces! Jasper makes funny faces in the mirror.",
+          "illustration": {
+            "description": "Four mirrors showing Jasper with wavy reddish-brown hair, fair freckled skin, green eyes making four different silly expressions, each mirror clearly numbered, with a large decorative number 4",
+            "alt": "Four mirrors with Jasper's silly faces and number 4",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Five clapping hands! Clap, clap, clap! Jasper feels so happy counting.",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes with five hand prints around him showing clapping motion, each hand clearly visible and countable, with a rainbow number 5",
+            "alt": "Jasper surrounded by five clapping hands and number 5",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "counting",
+      "happiness",
+      "family love",
+      "play",
+      "self-expression"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "clear countable objects, fun patterns, numbers prominent, visual counting, each number unique scene, engaging practice, organized arrangement, mathematical beauty"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How many balls does Jasper play with?",
+        "choices": [
+          "Three balls",
+          "Two balls"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jasper plays with three bouncy balls - red, blue, and yellow!"
+      },
+      {
+        "id": "q2",
+        "question": "What makes Jasper feel happy?",
+        "choices": [
+          "Counting fun things",
+          "Being sad"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jasper feels happy when he counts fun things like smiles, hugs, and toys!"
+      },
+      {
+        "id": "q3",
+        "question": "How many hugs does Jasper get?",
+        "choices": [
+          "Two hugs",
+          "One hug"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jasper gets two warm hugs from Mama and Dada!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "smile",
+            "distractors": [
+              "frown",
+              "shoe"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "three",
+            "distractors": [
+              "one",
+              "six"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

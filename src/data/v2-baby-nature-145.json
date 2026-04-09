@@ -1,0 +1,155 @@
+{
+  "id": "v2-baby-nature-145",
+  "title": "Isla's Peek-a-Boo Seasons",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "nature",
+    "peek-a-boo"
+  ],
+  "wordCount": 46,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Isla discovers the magic of changing seasons as she plays peek-a-boo with nature throughout the year, watching her favorite tree transform from spring blossoms to summer leaves to autumn colors to winter snow.",
+  "coverImage": "covers/v2-baby-nature-145.webp",
+  "chapters": [
+    {
+      "title": "Isla's Peek-a-Boo Seasons",
+      "pages": [
+        {
+          "text": "Peek-a-boo! Isla sees spring flowers blooming on her tree.",
+          "illustration": {
+            "description": "A toddler girl with long wavy red hair, very fair freckled skin, bright green eyes stands next to a large oak tree covered in delicate pink spring blossoms. The scene is painted in soft spring pastels with light green grass and pale blue sky. Isla is reaching toward the flowering branches with wonder.",
+            "alt": "Isla discovering spring blossoms on her special tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Now Isla's tree has big green leaves in summer sun.",
+          "illustration": {
+            "description": "The same girl with long wavy red hair, very fair freckled skin, bright green eyes sits under the same oak tree now full of lush green summer leaves. The illustration uses bright summer colors with vivid green foliage, golden sunshine, and Isla playing in the cool shade below.",
+            "alt": "Isla playing under her tree's summer leaves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Isla's tree turns orange and red in autumn.",
+          "illustration": {
+            "description": "A toddler with long wavy red hair, very fair freckled skin, bright green eyes stands among fallen autumn leaves beneath the same oak tree now displaying warm autumn colors of orange, red, and gold. The scene glows with autumn warmth as Isla catches falling leaves.",
+            "alt": "Isla playing in colorful autumn leaves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Winter snow covers Isla's bare tree branches.",
+          "illustration": {
+            "description": "The same girl with long wavy red hair, very fair freckled skin, bright green eyes bundled in a warm coat stands by the same oak tree now bare with snow-covered branches. The illustration uses cool winter tones of white, pale blue, and silver as Isla makes a snowball.",
+            "alt": "Isla playing in winter snow by her bare tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Spring comes again! Isla's tree has new flowers.",
+          "illustration": {
+            "description": "A happy toddler with long wavy red hair, very fair freckled skin, bright green eyes claps her hands as the same oak tree shows tiny new spring buds and early blossoms. The scene returns to soft spring pastels, completing the seasonal cycle with Isla celebrating nature's return.",
+            "alt": "Isla celebrating spring's return to her tree",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "seasonal changes",
+      "nature cycles",
+      "growth and change",
+      "observation skills"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "seasonal cycle, spring pastels, summer brights, autumn warmth, winter cool, same scene different seasons, time passing, nature calendar, cyclical beauty"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Isla see on her tree in spring?",
+        "choices": [
+          "flowers",
+          "snow"
+        ],
+        "correctIndex": 0,
+        "explanation": "In spring, Isla sees beautiful pink flowers blooming on her tree!"
+      },
+      {
+        "id": "q2",
+        "question": "What color are the leaves in summer?",
+        "choices": [
+          "green",
+          "orange"
+        ],
+        "correctIndex": 0,
+        "explanation": "In summer, the tree has big green leaves that give Isla shade!"
+      },
+      {
+        "id": "q3",
+        "question": "What covers the tree in winter?",
+        "choices": [
+          "snow",
+          "flowers"
+        ],
+        "correctIndex": 0,
+        "explanation": "In winter, white snow covers the bare tree branches!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "spring",
+            "distractors": [
+              "winter",
+              "summer"
+            ]
+          },
+          {
+            "wordIndex": 4,
+            "correctWord": "flowers",
+            "distractors": [
+              "snow",
+              "leaves"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "green",
+            "distractors": [
+              "red",
+              "white"
+            ]
+          },
+          {
+            "wordIndex": 8,
+            "correctWord": "summer",
+            "distractors": [
+              "spring",
+              "winter"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

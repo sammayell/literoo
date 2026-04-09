@@ -1,0 +1,203 @@
+{
+  "id": "v2-toddler-feelings-161",
+  "title": "Emma's Colorful Feelings",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "feelings",
+    "family"
+  ],
+  "wordCount": 123,
+  "readingLevel": "Pre-K",
+  "synopsis": "Emma learns about different emotions with her family's help, discovering that all feelings are okay and normal.",
+  "coverImage": "covers/v2-toddler-feelings-161.webp",
+  "chapters": [
+    {
+      "title": "Emma's Big Feelings",
+      "pages": [
+        {
+          "text": "Emma woke up feeling grumpy. Her toy was broken and she felt mad inside. Red angry feelings swirled around her like a storm.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks sits on her bed surrounded by angry red swirls and jagged lightning patterns, holding a broken toy",
+            "alt": "Emma looking upset with red angry swirls around her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "At breakfast, Emma started to cry. The sad feelings felt like blue rain falling down. Mommy gave her a big warm hug.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks being hugged by her mother in the kitchen with sad blue raindrops falling gently around them",
+            "alt": "Emma crying with blue sad rain while getting a hug from mom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"All feelings are okay,\" Mommy said softly. \"Sometimes we feel mad, sometimes sad. That's normal for everyone.\"",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks sitting close to her mother, with swirling colors of red and blue mixing into softer purple clouds around them",
+            "alt": "Emma and mom talking with mixed emotion colors around them",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Happy Colors Come Back",
+      "pages": [
+        {
+          "text": "Daddy helped fix Emma's toy. Slowly, the angry red swirls started to fade away. Emma felt a little bit better.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks watching her father repair her toy, with red angry swirls slowly dissolving into lighter pink wisps",
+            "alt": "Emma and dad fixing toy with red anger fading away",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When her toy worked again, Emma smiled big! Happy yellow sunshine filled the room like warm golden light everywhere.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks jumping joyfully with her fixed toy, surrounded by bright yellow sunshine rays and golden sparkles filling the entire background",
+            "alt": "Emma jumping happily with yellow sunshine all around",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Emma hugged Mommy and Daddy tight. \"I love you,\" she said. All her feelings were important, and her family loved her always.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks in a family group hug with both parents, surrounded by a beautiful rainbow of soft colors blending together harmoniously",
+            "alt": "Emma in family hug with rainbow of gentle emotions around them",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotional regulation",
+      "family support",
+      "feelings validation",
+      "love and comfort"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "emotion mapped colors, angry red swirls, sad blue rain, happy yellow sunshine, abstract emotion backgrounds, Inside Out inspired, feeling visualization, color psychology"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color were Emma's angry feelings?",
+        "choices": [
+          "red",
+          "blue",
+          "yellow"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emma's angry feelings were red swirls, like a storm around her."
+      },
+      {
+        "id": "q2",
+        "question": "What did Mommy tell Emma about feelings?",
+        "choices": [
+          "all feelings are okay",
+          "don't be sad",
+          "only happy is good"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mommy said all feelings are okay and normal for everyone."
+      },
+      {
+        "id": "q3",
+        "question": "Who helped fix Emma's toy?",
+        "choices": [
+          "Daddy",
+          "Mommy",
+          "Emma herself"
+        ],
+        "correctIndex": 0,
+        "explanation": "Daddy helped fix Emma's broken toy, which made her feel better."
+      },
+      {
+        "id": "q4",
+        "question": "What color was Emma's happiness?",
+        "choices": [
+          "yellow",
+          "red",
+          "blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emma's happiness was like yellow sunshine filling the room with golden light."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "mad",
+            "distractors": [
+              "happy",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 11,
+            "correctWord": "red",
+            "distractors": [
+              "blue",
+              "green"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "fix",
+            "distractors": [
+              "break",
+              "hide"
+            ]
+          },
+          {
+            "wordIndex": 9,
+            "correctWord": "fade",
+            "distractors": [
+              "grow",
+              "spin"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 6,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "love",
+            "distractors": [
+              "see",
+              "know"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "always",
+            "distractors": [
+              "sometimes",
+              "never"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

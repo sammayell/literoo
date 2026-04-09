@@ -1,0 +1,183 @@
+{
+  "id": "v2-toddler-fantasy-140",
+  "title": "Sofia and the Glowing Mushroom Friend",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "fantasy",
+    "friendship"
+  ],
+  "wordCount": 159,
+  "readingLevel": "Pre-K",
+  "synopsis": "Sofia discovers a magical mushroom creature in an enchanted forest and learns about friendship through kindness and sharing.",
+  "coverImage": "covers/v2-toddler-fantasy-140.webp",
+  "chapters": [
+    {
+      "title": "A Magical Discovery",
+      "pages": [
+        {
+          "text": "Sofia loved exploring the enchanted forest near her home. The tall trees sparkled with fairy lights, and colorful flowers danced in the gentle breeze.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes walking through an enchanted forest with glowing mushrooms, fairy lights twinkling in the trees, rich greens and purples surrounding her, golden sparkles floating in the air, Studio Ghibli inspired magical atmosphere with detailed foliage",
+            "alt": "Sofia exploring a magical forest with glowing elements",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "One sunny morning, Sofia heard a tiny voice crying. \"Help me! Help me!\" She followed the sound to a cluster of glowing purple mushrooms.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes kneeling beside large glowing purple mushrooms in an enchanted forest setting, fairy lights creating a mystical atmosphere, rich greens and golden sparkles illuminating the scene, Studio Ghibli inspired detailed foliage around her",
+            "alt": "Sofia discovering crying sounds near magical mushrooms",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Behind the biggest mushroom, Sofia found a small creature with mushroom cap hair and sparkly wings. \"I'm Miko,\" sniffled the little being. \"I lost my way home.\"",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes gently approaching a small mushroom creature with sparkly wings, surrounded by glowing mushrooms and fairy lights, mystical creatures peeking from behind detailed foliage, rich greens and purples with golden sparkles creating a Studio Ghibli inspired magical atmosphere",
+            "alt": "Sofia meeting Miko the mushroom creature",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "A New Friendship",
+      "pages": [
+        {
+          "text": "\"Don't worry,\" Sofia said kindly. \"I'll help you find your home.\" She gently picked up Miko and placed him on her shoulder. Miko's wings began to glow brighter.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes smiling warmly with Miko the mushroom creature sitting on her shoulder, both surrounded by an enchanted forest with glowing mushrooms, fairy lights, and mystical creatures watching from detailed foliage, rich greens and purples with golden sparkles in a Studio Ghibli inspired magical atmosphere",
+            "alt": "Sofia helping Miko by carrying him on her shoulder",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Together they walked deeper into the forest. Miko's glow helped them see a beautiful grove filled with dancing mushroom families. \"Home!\" Miko cheered happily.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes standing in a magical grove with many glowing mushroom creatures dancing around, fairy lights creating patterns in the air, mystical creatures celebrating, rich greens and purples with golden sparkles everywhere, Studio Ghibli inspired magical atmosphere with detailed foliage framing the joyful scene",
+            "alt": "Sofia and Miko arriving at the mushroom grove home",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Thank you for being my friend,\" Miko said, giving Sofia a tiny mushroom that glowed softly. \"This will always remind you of our friendship.\" Sofia smiled and promised to visit again soon.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes holding a small glowing mushroom gift while Miko and other mushroom creatures wave goodbye, surrounded by an enchanted forest with fairy lights, glowing mushrooms creating a warm farewell scene, mystical creatures watching from detailed foliage, rich greens and purples with golden sparkles in a Studio Ghibli inspired magical atmosphere",
+            "alt": "Sofia receiving a friendship gift from Miko",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "kindness",
+      "helping others",
+      "magic",
+      "adventure"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What was Sofia doing in the forest?",
+        "choices": [
+          "exploring",
+          "sleeping",
+          "eating"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sofia loved exploring the enchanted forest near her home."
+      },
+      {
+        "id": "q2",
+        "question": "What was the mushroom creature's name?",
+        "choices": [
+          "Miko",
+          "Luna",
+          "Pip"
+        ],
+        "correctIndex": 0,
+        "explanation": "The little mushroom creature introduced himself as Miko."
+      },
+      {
+        "id": "q3",
+        "question": "How did Sofia help Miko?",
+        "choices": [
+          "carried him to find home",
+          "gave him food",
+          "sang a song"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sofia carried Miko on her shoulder to help him find his way home."
+      },
+      {
+        "id": "q4",
+        "question": "What gift did Miko give Sofia?",
+        "choices": [
+          "a glowing mushroom",
+          "a flower",
+          "a rock"
+        ],
+        "correctIndex": 0,
+        "explanation": "Miko gave Sofia a tiny mushroom that glowed softly as a friendship gift."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "exploring",
+            "distractors": [
+              "running",
+              "hiding"
+            ]
+          },
+          {
+            "wordIndex": 8,
+            "correctWord": "sparkled",
+            "distractors": [
+              "fell",
+              "broke"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "creature",
+            "distractors": [
+              "flower",
+              "stone"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "home",
+            "distractors": [
+              "food",
+              "toy"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

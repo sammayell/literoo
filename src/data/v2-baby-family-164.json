@@ -1,0 +1,131 @@
+{
+  "id": "v2-baby-family-164",
+  "title": "Oscar's Morning Symphony",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "family",
+    "sounds"
+  ],
+  "wordCount": 52,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Oscar discovers the beautiful sounds of a cozy Sunday morning with his family, from gentle alarm clocks to sizzling pancakes and happy giggles.",
+  "coverImage": "covers/v2-baby-family-164.webp",
+  "chapters": [
+    {
+      "title": "Morning Sounds",
+      "pages": [
+        {
+          "text": "Beep beep! Oscar's eyes open wide. The alarm clock says good morning!",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes sits up in his toddler bed, sunlight streaming through windows, golden hour lighting, wearing cozy pajamas, alarm clock on nightstand",
+            "alt": "Oscar waking up in bed with sunlight coming through the window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Tap tap! Mama's feet make music on the floor. Papa's newspaper goes crinkle crinkle!",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes toddles down a sunlit hallway, parents in background wearing family pajamas, mama walking with gentle steps, papa reading newspaper, warm domestic morning scene",
+            "alt": "Oscar walking down the hallway with his parents in the background",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sizzle sizzle! Pancakes dance in the pan. Oscar claps his hands - clap clap!",
+          "illustration": {
+            "description": "Kitchen scene with Oscar with short brown wavy hair, fair skin, warm hazel eyes sitting in high chair clapping, diverse family cooking pancakes, golden morning light, steam rising from pan, lazy Sunday morning atmosphere",
+            "alt": "Oscar clapping while watching pancakes being cooked in the kitchen",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Giggle giggle! The whole family laughs together. Oscar loves his morning symphony!",
+          "illustration": {
+            "description": "Happy family breakfast scene with Oscar with short brown wavy hair, fair skin, warm hazel eyes laughing with family around table, sunlit room, pancakes and newspapers, everyone in pajamas, warm golden light, joyful moment",
+            "alt": "Oscar and his family laughing together at the breakfast table",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "morning routines",
+      "sound recognition",
+      "home comfort"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Sunday morning light, golden hour, family pajamas, newspapers pancakes, gentle unhurried, modern diverse family, lazy morning, sunlit rooms, warm domestic"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does the alarm clock make?",
+        "choices": [
+          "Beep beep!",
+          "Sizzle sizzle!"
+        ],
+        "correctIndex": 0,
+        "explanation": "The alarm clock goes 'Beep beep!' to wake Oscar up in the morning."
+      },
+      {
+        "id": "q2",
+        "question": "What makes the sizzle sound?",
+        "choices": [
+          "Newspaper",
+          "Pancakes"
+        ],
+        "correctIndex": 1,
+        "explanation": "The pancakes make a 'sizzle sizzle' sound when they cook in the pan."
+      },
+      {
+        "id": "q3",
+        "question": "How does Oscar make music with his hands?",
+        "choices": [
+          "Clap clap!",
+          "Tap tap!"
+        ],
+        "correctIndex": 0,
+        "explanation": "Oscar claps his hands to make a 'clap clap' sound while watching the pancakes."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "morning",
+            "distractors": [
+              "evening",
+              "night"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "claps",
+            "distractors": [
+              "waves",
+              "sleeps"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

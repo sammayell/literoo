@@ -1,0 +1,148 @@
+{
+  "id": "v2-baby-nature-065",
+  "title": "Isla's Peek-a-Boo Seasons",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "nature",
+    "peek-a-boo"
+  ],
+  "wordCount": 51,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Isla plays peek-a-boo with nature as she discovers how the seasons change her favorite oak tree throughout the year, from spring blossoms to winter snow.",
+  "coverImage": "covers/v2-baby-nature-065.webp",
+  "chapters": [
+    {
+      "title": "Peek-a-Boo Through the Seasons",
+      "pages": [
+        {
+          "text": "Spring is here! Peek-a-boo, little flowers! Isla sees pink petals on her tree.",
+          "illustration": {
+            "description": "A little girl with long wavy red hair, very fair freckled skin, bright green eyes standing under a large oak tree covered in delicate pink spring blossoms, surrounded by soft pastel green grass and small white daisies, with gentle spring sunlight filtering through the branches",
+            "alt": "Isla under a blooming spring tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Summer comes! Peek-a-boo, green leaves! The tree is full and shady now.",
+          "illustration": {
+            "description": "The same little girl with long wavy red hair, very fair freckled skin, bright green eyes playing under the same oak tree now lush with bright green summer leaves, vibrant yellow sunflowers nearby, brilliant blue sky, and warm golden sunlight creating dappled shadows on emerald grass",
+            "alt": "Isla under a leafy summer tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Fall arrives! Peek-a-boo, orange leaves! They dance down like butterflies.",
+          "illustration": {
+            "description": "The little girl with long wavy red hair, very fair freckled skin, bright green eyes reaching up to catch falling autumn leaves from the same oak tree, now displaying warm orange, red, and golden leaves, with scattered colorful leaves on the ground and cozy autumn warmth in the air",
+            "alt": "Isla catching falling autumn leaves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Winter sleeps! Peek-a-boo, white snow! The tree wears a snowy coat. Soon spring will peek-a-boo again!",
+          "illustration": {
+            "description": "The little girl with long wavy red hair, very fair freckled skin, bright green eyes bundled in a warm coat standing beside the same oak tree, now bare with snow-covered branches against a soft gray winter sky, white snow blanketing the ground, creating a peaceful winter scene with cool blue and white tones",
+            "alt": "Isla by a snowy winter tree",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "seasons",
+      "nature cycles",
+      "peek-a-boo games",
+      "tree changes",
+      "weather"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "seasonal cycle, spring pastels, summer brights, autumn warmth, winter cool, same scene different seasons, time passing, nature calendar, cyclical beauty"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color are the spring flowers on Isla's tree?",
+        "choices": [
+          "Pink",
+          "Blue",
+          "Yellow"
+        ],
+        "correctIndex": 0,
+        "explanation": "In spring, Isla's tree has pretty pink blossoms!"
+      },
+      {
+        "id": "q2",
+        "question": "What falls from the tree in autumn?",
+        "choices": [
+          "Leaves",
+          "Snow",
+          "Rain"
+        ],
+        "correctIndex": 0,
+        "explanation": "Orange and red leaves fall down like butterflies in autumn!"
+      },
+      {
+        "id": "q3",
+        "question": "What covers the tree in winter?",
+        "choices": [
+          "Snow",
+          "Flowers",
+          "Birds"
+        ],
+        "correctIndex": 0,
+        "explanation": "White snow covers the tree like a cozy winter coat!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "flowers",
+            "distractors": [
+              "leaves",
+              "snow"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "green",
+            "distractors": [
+              "pink",
+              "white"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "orange",
+            "distractors": [
+              "green",
+              "white"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

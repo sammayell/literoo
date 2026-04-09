@@ -1,0 +1,175 @@
+{
+  "id": "v2-toddler-school-189",
+  "title": "Chloe's First Day with Animal Friends",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "school",
+    "animals"
+  ],
+  "wordCount": 191,
+  "readingLevel": "Pre-K",
+  "synopsis": "Chloe starts her first day at a special school where she meets friendly animal classmates and learns that school can be fun and welcoming.",
+  "coverImage": "covers/v2-toddler-school-189.webp",
+  "chapters": [
+    {
+      "title": "Meeting New Friends",
+      "pages": [
+        {
+          "text": "Chloe walked into her new classroom with big, curious eyes. She felt a little nervous but excited too. The room was full of colorful toys and books everywhere!",
+          "illustration": {
+            "description": "A girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes standing at the entrance of a classroom drawn in chalkboard style on a dark green board with white and colored chalk, showing desks, toys, and books with dusty texture and hand-drawn artistic warmth",
+            "alt": "Chloe entering a classroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Soon, Chloe noticed something amazing. Her classmates weren't just other children - they were friendly animals! A fluffy bunny waved at her from the reading corner.",
+          "illustration": {
+            "description": "A girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes looking surprised and happy, with a cute bunny waving from a reading corner, drawn in chalkboard style with white and colored chalk on dark green board, warm dusty texture, equations doodles in background",
+            "alt": "Chloe meeting a bunny classmate",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Hi! I'm Benny Bunny,\" said the bunny with a big smile. \"Want to read a story together?\" Chloe nodded happily. Making friends felt easy here!",
+          "illustration": {
+            "description": "A girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes sitting next to a friendly bunny with a book between them, drawn in chalkboard style on dark green board with white and colored chalk, school themed with artistic warm dusty texture",
+            "alt": "Chloe and Benny reading together",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Next, Chloe met Penny Pig at the art table. Penny was painting beautiful flowers with bright colors. \"Would you like to paint with me?\" asked Penny sweetly.",
+          "illustration": {
+            "description": "A girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes standing next to a cheerful pig at an art table with paintbrushes and colorful flower paintings, drawn in chalkboard style with colored chalk on dark green board, hand-drawn artistic warm texture",
+            "alt": "Chloe meeting Penny Pig at art time",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Learning and Playing Together",
+      "pages": [
+        {
+          "text": "During circle time, Chloe sat between Oliver Owl and Lily Lamb. They sang the alphabet song together, and Oliver helped Chloe remember all the letters.",
+          "illustration": {
+            "description": "A girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes sitting in a circle with an owl and a lamb, singing together, drawn in chalkboard style on dark green board with white and colored chalk, equations doodles around, dusty hand-drawn texture",
+            "alt": "Chloe in circle time with animal friends",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "At snack time, Danny Duck shared his crackers with Chloe. \"Sharing makes everything taste better!\" he quacked happily. Chloe giggled and shared her apple slices too.",
+          "illustration": {
+            "description": "A girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes sitting at a table with a friendly duck, sharing snacks and smiling, drawn in chalkboard style with colored chalk on dark green board, school themed with warm artistic dusty texture",
+            "alt": "Chloe sharing snacks with Danny Duck",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When it was time to go home, Chloe felt so happy. She had made wonderful animal friends and learned new things. \"I can't wait to come back tomorrow!\" she told her teacher, Mrs. Fox.",
+          "illustration": {
+            "description": "A girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes waving goodbye to all her animal friends and a fox teacher, everyone smiling, drawn in chalkboard style on dark green board with white and colored chalk, hand-drawn with artistic warm dusty texture",
+            "alt": "Chloe saying goodbye to her animal friends and teacher",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "first day of school",
+      "acceptance",
+      "kindness",
+      "sharing"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What was special about Chloe's classmates?",
+        "choices": [
+          "They were animals",
+          "They were teachers",
+          "They were toys"
+        ],
+        "correctIndex": 0,
+        "explanation": "Chloe's classmates were friendly animals like Benny Bunny and Penny Pig!"
+      },
+      {
+        "id": "q2",
+        "question": "What did Benny Bunny want to do with Chloe?",
+        "choices": [
+          "Read a story",
+          "Play outside",
+          "Eat lunch"
+        ],
+        "correctIndex": 0,
+        "explanation": "Benny Bunny asked Chloe if she wanted to read a story together in the reading corner."
+      },
+      {
+        "id": "q3",
+        "question": "What was Penny Pig doing at the art table?",
+        "choices": [
+          "Painting flowers",
+          "Drawing animals",
+          "Making crafts"
+        ],
+        "correctIndex": 0,
+        "explanation": "Penny Pig was painting beautiful flowers with bright colors when Chloe met her."
+      },
+      {
+        "id": "q4",
+        "question": "How did Chloe feel about going back to school?",
+        "choices": [
+          "Excited",
+          "Scared",
+          "Tired"
+        ],
+        "correctIndex": 0,
+        "explanation": "Chloe was so happy that she said she couldn't wait to come back tomorrow!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "animals",
+            "distractors": [
+              "toys",
+              "books"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "sharing",
+            "distractors": [
+              "playing",
+              "running"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

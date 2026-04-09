@@ -1,0 +1,180 @@
+{
+  "id": "v2-toddler-school-079",
+  "title": "Hiro's First Day with Animal Friends",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "school",
+    "animals"
+  ],
+  "wordCount": 184,
+  "readingLevel": "Pre-K",
+  "synopsis": "Hiro is nervous about his first day of school, but discovers that learning about animals and making new friends makes school a wonderful adventure.",
+  "coverImage": "covers/v2-toddler-school-079.webp",
+  "chapters": [
+    {
+      "title": "Hiro's Big Day",
+      "pages": [
+        {
+          "text": "Today is Hiro's first day of school! He feels a little nervous as he walks into his new classroom. The room is bright and colorful, with pictures of animals everywhere.",
+          "illustration": {
+            "description": "A classroom scene drawn in chalkboard style on a dark green board with white and colored chalk. Hiro, a boy with short straight black hair, light skin, bright dark brown eyes, round face, stands at the doorway looking hesitant. Animal pictures and alphabet letters are chalked on the walls, with equations doodles in the corners. The scene has a dusty texture and warm artistic feel.",
+            "alt": "Hiro standing nervously at his classroom door",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Ms. Chen, his teacher, has a warm smile. 'Welcome, Hiro!' she says. 'Today we're going to learn about animals. Would you like to meet our classroom pets?' Hiro nods shyly.",
+          "illustration": {
+            "description": "Chalkboard style drawing on dark green board showing Ms. Chen, a kind teacher, greeting Hiro who has short straight black hair, light skin, bright dark brown eyes, round face. Behind them are chalk drawings of a fish tank and bird cage. White and colored chalk create warm, dusty textures with school-themed doodles around the edges.",
+            "alt": "Ms. Chen welcoming Hiro to the classroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "In the corner, there's a fluffy white rabbit named Snowball. Hiro's eyes light up! 'Can I pet him?' he asks. Ms. Chen shows him how to be gentle. Snowball's fur is so soft!",
+          "illustration": {
+            "description": "Hand-drawn chalk illustration on dark green board showing Hiro with short straight black hair, light skin, bright dark brown eyes, round face, carefully petting a white rabbit. The rabbit is drawn with white chalk, and there are equation doodles and school supplies scattered around. The dusty chalk texture gives it an artistic warm feeling.",
+            "alt": "Hiro gently petting Snowball the rabbit",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Animal Friends Everywhere",
+      "pages": [
+        {
+          "text": "Next, they visit the fish tank. Colorful fish swim back and forth. 'The orange one is Goldie,' says Ms. Chen. 'The striped one is Zippy.' Hiro watches them dance in the water.",
+          "illustration": {
+            "description": "Chalkboard style drawing on dark green board with Hiro, who has short straight black hair, light skin, bright dark brown eyes, round face, looking at a fish tank drawn with colored chalk. Orange and striped fish swim inside, with bubbles drawn in white chalk. School-themed equations and doodles frame the scene with dusty, warm textures.",
+            "alt": "Hiro watching colorful fish in the tank",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "During story time, they read about farm animals. Hiro makes cow sounds - 'Moo!' He tries sheep sounds - 'Baa!' All the children giggle and make animal noises together.",
+          "illustration": {
+            "description": "Chalk drawing on dark green board showing Hiro with short straight black hair, light skin, bright dark brown eyes, round face, sitting in a circle with other children making animal sounds. Farm animals are drawn in colored chalk around them - cows, sheep, and pigs. Equations doodle in corners with artistic dusty texture throughout.",
+            "alt": "Hiro and classmates making animal sounds during story time",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "At lunch, Hiro sits with his new friend Maya. They pretend their sandwiches are food for elephants. 'School is fun!' Hiro tells Maya. 'I can't wait to come back tomorrow!'",
+          "illustration": {
+            "description": "Hand-drawn chalkboard illustration on dark green board with white and colored chalk showing Hiro with short straight black hair, light skin, bright dark brown eyes, round face, eating lunch with Maya. They're smiling and there are chalk drawings of elephants on the board behind them. School supplies and math doodles create warm, dusty artistic borders.",
+            "alt": "Hiro eating lunch happily with his new friend Maya",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "first day of school",
+      "friendship",
+      "animals",
+      "overcoming nervousness",
+      "learning"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What is the name of the white rabbit in Hiro's classroom?",
+        "choices": [
+          "Snowball",
+          "Fluffy",
+          "Cotton"
+        ],
+        "correctIndex": 0,
+        "explanation": "The white rabbit's name is Snowball, and Hiro got to pet his soft fur!"
+      },
+      {
+        "id": "q2",
+        "question": "What sound does Hiro make like a cow?",
+        "choices": [
+          "Baa",
+          "Moo",
+          "Oink"
+        ],
+        "correctIndex": 1,
+        "explanation": "Hiro makes cow sounds by saying 'Moo!' during story time about farm animals."
+      },
+      {
+        "id": "q3",
+        "question": "Who is Hiro's new friend at school?",
+        "choices": [
+          "Maya",
+          "Sarah",
+          "Emma"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hiro sits with his new friend Maya at lunch and they have fun together."
+      },
+      {
+        "id": "q4",
+        "question": "How does Hiro feel about school at the end?",
+        "choices": [
+          "Happy",
+          "Scared",
+          "Tired"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hiro is happy and excited about school - he can't wait to come back tomorrow!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "nervous",
+            "distractors": [
+              "happy",
+              "sleepy"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "soft",
+            "distractors": [
+              "hard",
+              "cold"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 6,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "fun",
+            "distractors": [
+              "scary",
+              "boring"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

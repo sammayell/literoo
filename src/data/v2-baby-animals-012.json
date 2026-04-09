@@ -13,7 +13,7 @@
   "wordCount": 36,
   "readingLevel": "baby",
   "synopsis": "Baby Kofi discovers adorable baby animals in the warm savanna, learning about zebras, elephants, and lions through gentle exploration and simple sounds.",
-  "coverImage": "covers/v2-baby-animals-012.webp",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-animals-012/cover.png",
   "chapters": [
     {
       "title": "Baby Animals",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "Kofi with short cropped hair, rich dark brown skin, bright expressive eyes pointing excitedly at various baby animals in golden savanna grass, painted with thick gouache brushstrokes in warm sunset colors",
             "alt": "Happy toddler Kofi pointing at baby animals in savanna",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-animals-012/scene_1_1.png"
           }
         },
         {
@@ -31,7 +32,8 @@
           "illustration": {
             "description": "Kofi with short cropped hair, rich dark brown skin, bright expressive eyes sitting near a small zebra foal, rendered in thick gouache brushstrokes with warm orange sunset lighting and textured golden grass",
             "alt": "Kofi with baby zebra in golden grass",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-animals-012/scene_1_2.png"
           }
         },
         {
@@ -39,7 +41,8 @@
           "illustration": {
             "description": "Kofi with short cropped hair, rich dark brown skin, bright expressive eyes watching a baby elephant with oversized ears, painted in bold confident gouache strokes with warm savanna colors and orange sunset glow",
             "alt": "Kofi observing baby elephant with big ears",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-animals-012/scene_1_3.png"
           }
         },
         {
@@ -47,7 +50,8 @@
           "illustration": {
             "description": "Kofi with short cropped hair, rich dark brown skin, bright expressive eyes near a lion cub with tiny fluffy mane, rendered in textured painterly gouache with thick brushstrokes in golden grass under orange sunset",
             "alt": "Kofi with baby lion cub in savanna",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-animals-012/scene_1_4.png"
           }
         },
         {
@@ -55,7 +59,8 @@
           "illustration": {
             "description": "Kofi with short cropped hair, rich dark brown skin, bright expressive eyes surrounded by all the baby animals - zebra, elephant, and lion - painted in warm gouache with expressive brushstrokes and golden sunset colors",
             "alt": "Kofi happy with all baby animals together",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-animals-012/scene_1_5.png"
           }
         }
       ]

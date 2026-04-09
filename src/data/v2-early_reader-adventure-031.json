@@ -1,0 +1,255 @@
+{
+  "id": "v2-early_reader-adventure-031",
+  "title": "Zara and the Crystal Cave Treasure",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "adventure",
+    "fantasy"
+  ],
+  "wordCount": 443,
+  "readingLevel": "Early Reader",
+  "synopsis": "Young explorer Zara discovers a magical treasure map that leads her on an exciting adventure through enchanted forests and crystal caves to find a legendary treasure, learning about courage and friendship along the way.",
+  "coverImage": "covers/v2-early_reader-adventure-031.webp",
+  "chapters": [
+    {
+      "title": "The Magic Map",
+      "pages": [
+        {
+          "text": "Zara loved exploring her grandmother's attic. It was full of old books, dusty boxes, and mysterious things. One sunny morning, she climbed the creaky stairs to look for adventure.",
+          "illustration": {
+            "description": "A girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes climbing wooden stairs in a dusty attic filled with old trunks and boxes, drawn in treasure map style on aged parchment with sepia tones",
+            "alt": "Zara climbing attic stairs surrounded by old boxes and trunks",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Behind a stack of old books, Zara found something amazing. It was a rolled-up piece of paper tied with a golden ribbon. When she untied it, the paper began to glow with a soft, magical light.",
+          "illustration": {
+            "description": "A girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes holding a glowing scroll tied with golden ribbon, surrounded by old books in treasure map style with compass roses and jewel accents on aged parchment",
+            "alt": "Zara discovering a glowing magical scroll in the attic",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "It was a treasure map! The map showed a winding path through the Whispering Woods, past the Singing Stream, and into the Crystal Cave. At the end was a big red X marking the treasure spot.",
+          "illustration": {
+            "description": "A detailed treasure map showing a dotted trail through forests and caves, with a girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes studying it, drawn in adventure cartography style with compass roses and sepia tones",
+            "alt": "A magical treasure map showing the path to Crystal Cave treasure",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The map began to sparkle brighter. Suddenly, Zara felt herself being pulled into the map! She closed her eyes tight. When she opened them, she was standing at the edge of the Whispering Woods.",
+          "illustration": {
+            "description": "A girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes standing at the edge of a magical forest with glowing sparkles around her, drawn in treasure map style with sepia tones and jewel accents on aged parchment",
+            "alt": "Zara transported to the entrance of the Whispering Woods",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Through the Whispering Woods",
+      "pages": [
+        {
+          "text": "The trees in the Whispering Woods really did whisper! 'Follow the path,' they said in soft, gentle voices. 'Stay on the trail, brave explorer.' Zara smiled and thanked the friendly trees.",
+          "illustration": {
+            "description": "A girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes walking on a dotted trail through talking trees with faces, drawn in treasure map style with hand-drawn map elements and sepia tones",
+            "alt": "Zara walking through the magical talking trees",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "As she walked deeper into the woods, Zara met a small blue rabbit. 'Are you looking for the Crystal Cave treasure?' asked the rabbit. 'Many have tried to find it, but only the bravest succeed.'",
+          "illustration": {
+            "description": "A girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes talking to a small blue magical rabbit on a forest path, drawn in treasure map style with compass roses and jewel accents on aged parchment",
+            "alt": "Zara meeting a magical blue rabbit in the woods",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'I am brave!' said Zara. The rabbit smiled. 'Then I will help you. Follow me to the Singing Stream. But be careful - the water is magic. You must cross it with a pure heart.'",
+          "illustration": {
+            "description": "A girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes following a blue rabbit along a dotted trail toward a sparkling stream, drawn in adventure cartography style with sepia tones and jewel accents",
+            "alt": "Zara and the blue rabbit heading toward the magical stream",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "They reached the Singing Stream. The water sparkled like diamonds and made beautiful music as it flowed. There were stepping stones across it, but they glowed different colors - some safe, some not.",
+          "illustration": {
+            "description": "A girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes and a blue rabbit standing before a magical singing stream with colorful glowing stepping stones, drawn in treasure map style with jewel accents and compass roses",
+            "alt": "Zara and rabbit at the magical singing stream with glowing stepping stones",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Crystal Cave Treasure",
+      "pages": [
+        {
+          "text": "Zara listened to her heart and stepped only on the golden stones. Each step made a happy chime. Soon she was safely across. 'Well done!' said the rabbit. 'The Crystal Cave is just ahead.'",
+          "illustration": {
+            "description": "A girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes stepping on golden stepping stones across a musical stream with a blue rabbit watching, drawn in treasure map style with dotted trails and sepia tones",
+            "alt": "Zara successfully crossing the singing stream on golden stones",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The Crystal Cave was the most beautiful place Zara had ever seen. Thousands of crystals covered the walls, ceiling, and floor. They glowed in every color of the rainbow and tinkled like tiny bells.",
+          "illustration": {
+            "description": "A girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes entering a cave filled with glowing rainbow crystals, drawn in treasure map style with jewel accents and aged parchment background",
+            "alt": "Zara entering the magnificent Crystal Cave filled with glowing crystals",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "At the back of the cave, exactly where the map showed, was a treasure chest. But it wasn't gold or jewels inside. It was full of magical seeds that could grow into anything she could imagine!",
+          "illustration": {
+            "description": "A girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes opening a treasure chest filled with glowing magical seeds, drawn in adventure cartography style with compass roses and jewel accents on aged parchment",
+            "alt": "Zara discovering the treasure chest filled with magical seeds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The blue rabbit appeared beside her. 'The real treasure was your brave heart,' he said. 'These seeds will help you grow wonderful things. Use them wisely.' Zara hugged her new friend and promised she would.",
+          "illustration": {
+            "description": "A girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes hugging a blue rabbit in a crystal cave, holding magical seeds, drawn in treasure map style with sepia tones and jewel accents",
+            "alt": "Zara hugging the blue rabbit in the crystal cave while holding magical seeds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The map glowed again, and Zara found herself back in grandmother's attic. But the magical seeds were still in her hands, and she could still hear the rabbit's gentle words about being brave and kind.",
+          "illustration": {
+            "description": "A girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes back in the attic holding glowing magical seeds with a rolled treasure map nearby, drawn in treasure map style with hand-drawn elements and sepia tones",
+            "alt": "Zara back in the attic with the magical seeds and treasure map",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "courage",
+      "adventure",
+      "friendship",
+      "magic",
+      "believing in yourself"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "treasure map style, aged parchment, compass roses, dotted trails, sepia tones, jewel accents, bold explorers, adventure cartography, hand-drawn maps"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where did Zara find the magical treasure map?",
+        "choices": [
+          "In her grandmother's attic",
+          "In her backpack",
+          "Under her bed"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zara found the magical treasure map behind a stack of old books in her grandmother's attic."
+      },
+      {
+        "id": "q2",
+        "question": "What did the trees in the Whispering Woods do?",
+        "choices": [
+          "They whispered to help Zara",
+          "They blocked her path",
+          "They were silent"
+        ],
+        "correctIndex": 0,
+        "explanation": "The trees in the Whispering Woods whispered gentle advice to help Zara stay on the right path."
+      },
+      {
+        "id": "q3",
+        "question": "Who helped Zara on her adventure?",
+        "choices": [
+          "A small blue rabbit",
+          "A red bird",
+          "A green frog"
+        ],
+        "correctIndex": 0,
+        "explanation": "A small blue magical rabbit helped guide Zara through the woods and to the Crystal Cave."
+      },
+      {
+        "id": "q4",
+        "question": "How did Zara cross the Singing Stream safely?",
+        "choices": [
+          "By stepping only on golden stones",
+          "By swimming across",
+          "By jumping over it"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zara listened to her heart and stepped only on the golden stepping stones to cross the magical stream safely."
+      },
+      {
+        "id": "q5",
+        "question": "What treasure did Zara find in the Crystal Cave?",
+        "choices": [
+          "Magical seeds that could grow into anything",
+          "Gold coins",
+          "Pretty jewels"
+        ],
+        "correctIndex": 0,
+        "explanation": "The treasure chest contained magical seeds that could grow into anything Zara could imagine."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "attic",
+            "distractors": [
+              "basement",
+              "kitchen"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "magical",
+            "distractors": [
+              "regular",
+              "broken"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "whisper",
+            "distractors": [
+              "shout",
+              "cry"
+            ]
+          },
+          {
+            "wordIndex": 20,
+            "correctWord": "rabbit",
+            "distractors": [
+              "cat",
+              "dog"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

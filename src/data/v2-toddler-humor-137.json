@@ -1,0 +1,183 @@
+{
+  "id": "v2-toddler-humor-137",
+  "title": "Amara's Silly Soup Adventure",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "humor",
+    "fantasy"
+  ],
+  "wordCount": 200,
+  "readingLevel": "Pre-K",
+  "synopsis": "When Amara tries to make magical soup, her kitchen ingredients come alive and create hilarious chaos! A bouncy adventure filled with giggling vegetables and silly surprises.",
+  "coverImage": "covers/v2-toddler-humor-137.webp",
+  "chapters": [
+    {
+      "title": "The Magic Pot Goes BOING!",
+      "pages": [
+        {
+          "text": "Amara found a sparkly pot in Grandma's kitchen. \"I'll make magic soup!\" she said, clapping her hands. She dropped in a carrot. BOING! The carrot bounced out like a rubber ball!",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes stands in a bright yellow kitchen, eyes wide with surprise as an orange carrot with a silly face bounces high in the air from a glittering purple pot, stretched like a spring in exaggerated cartoon style",
+            "alt": "Amara watches in amazement as a bouncy carrot springs from a magical pot",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Wheee!\" giggled the carrot, doing backflips around the kitchen. Amara tried to catch it but slipped on a banana peel that wasn't there before! SPLAT! She landed in a pile of marshmallows that appeared out of nowhere.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes is mid-slip with arms windmilling wildly, about to land in a fluffy pink marshmallow pile while a grinning carrot does acrobatic flips overhead in rubber hose animation style",
+            "alt": "Amara slipping toward marshmallows while a cheerful carrot somersaults around her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "More vegetables joined the party! Broccoli trees started dancing, and cherry tomatoes rolled around like tiny red marbles. \"This is the silliest soup ever!\" laughed Amara, covered head to toe in fluffy marshmallow.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes sits giggling in marshmallows while anthropomorphic broccoli with stick arms dance the twist and round red tomatoes with googly eyes roll in circles around the chaotic candy-colored kitchen",
+            "alt": "Amara laughing as dancing vegetables create joyful mayhem in the kitchen",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Soup-er Silly Cleanup!",
+      "pages": [
+        {
+          "text": "\"Wait!\" called Amara. \"Come back to the pot!\" But the vegetables were having too much fun. The peas rolled under the table, making tiny \"plink plink\" sounds. The corn kernels popped like confetti!",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes reaches toward escaping vegetables with exaggerated stretchy arms while green peas with legs scurry under a table and yellow corn kernels with party hats explode like fireworks in slapstick cartoon style",
+            "alt": "Amara trying to catch playful vegetables that are escaping around the kitchen",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Suddenly, Amara had an idea. \"Magic pot, please help me!\" The pot started singing a happy song. All the silly vegetables danced right back in, creating a rainbow soup that tasted like giggles and sunshine.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes claps joyfully next to a singing purple pot with a wide smiling mouth as colorful vegetables with happy faces dance in a conga line back into the pot, with musical notes floating in bright swirling colors",
+            "alt": "Amara celebrating as vegetables dance back into the singing magical pot",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Best soup ever!\" Amara said, taking a big slurp. The soup made her hiccup bubbles that floated away like tiny rainbows. She couldn't wait to show Grandma her magical cooking adventure!",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes holds a oversized spoon with mouth stretched wide in surprise as iridescent rainbow bubbles float from her nose and mouth in exaggerated cartoon squash-and-stretch style against a sunny kitchen backdrop",
+            "alt": "Amara hiccupping colorful bubbles after tasting her magical soup",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "creativity",
+      "problem-solving",
+      "magic",
+      "cooking",
+      "friendship with food"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Amara find in Grandma's kitchen?",
+        "choices": [
+          "a sparkly pot",
+          "a purple hat",
+          "a big spoon"
+        ],
+        "correctIndex": 0,
+        "explanation": "Amara found a sparkly pot that turned out to be magical!"
+      },
+      {
+        "id": "q2",
+        "question": "What happened when Amara put the carrot in the pot?",
+        "choices": [
+          "it melted",
+          "it bounced out",
+          "it turned blue"
+        ],
+        "correctIndex": 1,
+        "explanation": "The carrot bounced out like a rubber ball and started doing backflips!"
+      },
+      {
+        "id": "q3",
+        "question": "What did Amara land in when she slipped?",
+        "choices": [
+          "water puddle",
+          "marshmallows",
+          "soap bubbles"
+        ],
+        "correctIndex": 1,
+        "explanation": "Amara landed in a pile of fluffy marshmallows that appeared magically!"
+      },
+      {
+        "id": "q4",
+        "question": "How did the vegetables get back in the pot?",
+        "choices": [
+          "the pot sang to them",
+          "Amara caught them",
+          "they got tired"
+        ],
+        "correctIndex": 0,
+        "explanation": "The magic pot sang a happy song that made all the vegetables dance back in!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "bounced",
+            "distractors": [
+              "melted",
+              "disappeared"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "giggled",
+            "distractors": [
+              "cried",
+              "slept"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "dancing",
+            "distractors": [
+              "sleeping",
+              "hiding"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "marshmallow",
+            "distractors": [
+              "chocolate",
+              "cookie"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

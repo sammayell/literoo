@@ -1,0 +1,132 @@
+{
+  "id": "v2-baby-bedtime-021",
+  "title": "Emma's Sleepy Stars",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "bedtime",
+    "family"
+  ],
+  "wordCount": 50,
+  "readingLevel": "baby",
+  "synopsis": "Little Emma discovers the magic of bedtime as she watches twinkling stars and snuggles with her loving family in this gentle bedtime story.",
+  "coverImage": "covers/v2-baby-bedtime-021.webp",
+  "chapters": [
+    {
+      "title": "Sleepy Time Stars",
+      "pages": [
+        {
+          "text": "Emma looks up at the night sky. Pretty stars twinkle and shine.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks standing by a window looking up at a starry night sky with soft watercolor, dreamy purple and blue gradients, glowing stars, gentle moonlight, ethereal atmosphere, pastel palette",
+            "alt": "Emma gazing at twinkling stars through a window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama comes close. 'Time for bed, little star,' she says softly.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks being gently hugged by her mother in a cozy room with soft watercolor, dreamy purple and blue gradients, floating clouds, round sleepy faces, gentle moonlight, ethereal atmosphere, pastel palette",
+            "alt": "Emma being hugged by her mother at bedtime",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Papa reads a story. Emma's eyes feel heavy and sleepy.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks sitting on papa's lap while he reads a book, surrounded by soft watercolor, dreamy purple and blue gradients, floating clouds, round sleepy faces, gentle moonlight, ethereal atmosphere, pastel palette",
+            "alt": "Emma listening to papa read a bedtime story",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "In her cozy bed, Emma closes her eyes. The stars watch over her. Good night, sweet Emma.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks sleeping peacefully in bed with glowing stars visible through the window, soft watercolor, dreamy purple and blue gradients, floating clouds, round sleepy faces, gentle moonlight, ethereal atmosphere, pastel palette",
+            "alt": "Emma sleeping peacefully under starlight",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "family love",
+      "comfort",
+      "stars",
+      "night"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Emma see in the sky?",
+        "choices": [
+          "stars",
+          "birds"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emma looks up and sees pretty stars twinkling in the night sky."
+      },
+      {
+        "id": "q2",
+        "question": "Who reads Emma a story?",
+        "choices": [
+          "Papa",
+          "Mama"
+        ],
+        "correctIndex": 0,
+        "explanation": "Papa reads a story to Emma before bedtime."
+      },
+      {
+        "id": "q3",
+        "question": "Where does Emma sleep?",
+        "choices": [
+          "bed",
+          "chair"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emma sleeps in her cozy bed while the stars watch over her."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "stars",
+            "distractors": [
+              "cars",
+              "dogs"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "reads",
+            "distractors": [
+              "eats",
+              "runs"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

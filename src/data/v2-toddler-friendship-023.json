@@ -1,0 +1,166 @@
+{
+  "id": "v2-toddler-friendship-023",
+  "title": "Lily's Garden Friends",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "nature"
+  ],
+  "wordCount": 122,
+  "readingLevel": "Pre-K",
+  "synopsis": "Lily discovers the joy of making friends with garden creatures while playing outside, learning that friendship can be found everywhere in nature.",
+  "coverImage": "covers/v2-toddler-friendship-023.webp",
+  "chapters": [
+    {
+      "title": "Lily Meets the Butterfly",
+      "pages": [
+        {
+          "text": "Lily loved playing in her backyard garden. The sun was shining bright, and flowers were blooming everywhere.",
+          "illustration": {
+            "description": "A girl with long curly auburn hair, fair skin with light freckles, green eyes stands in a colorful garden filled with bright flowers, butterflies, and green plants under a sunny sky",
+            "alt": "Lily in a sunny garden with colorful flowers",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A beautiful orange butterfly landed on a yellow sunflower. 'Hello, little butterfly!' said Lily softly.",
+          "illustration": {
+            "description": "A girl with long curly auburn hair, fair skin with light freckles, green eyes gently reaching toward an orange butterfly sitting on a bright yellow sunflower",
+            "alt": "Lily greeting a butterfly on a sunflower",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The butterfly fluttered its wings and danced around Lily's head. She giggled with joy. 'Will you be my friend?' she asked.",
+          "illustration": {
+            "description": "A girl with long curly auburn hair, fair skin with light freckles, green eyes laughing happily as an orange butterfly flies in circles around her in the bright garden",
+            "alt": "Lily playing with the butterfly",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "More Garden Friends",
+      "pages": [
+        {
+          "text": "Soon, a fuzzy brown bunny hopped out from behind the roses. A red ladybug crawled on a green leaf nearby.",
+          "illustration": {
+            "description": "A girl with long curly auburn hair, fair skin with light freckles, green eyes discovering a brown bunny by pink roses and a red ladybug on a green leaf in the sunny garden",
+            "alt": "Lily finding bunny and ladybug in the garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Hello, bunny! Hello, ladybug!' Lily whispered. The bunny wiggled its nose. The ladybug spread its tiny wings.",
+          "illustration": {
+            "description": "A girl with long curly auburn hair, fair skin with light freckles, green eyes sitting cross-legged in the garden, gently talking to a brown bunny and watching a red ladybug",
+            "alt": "Lily greeting her new animal friends",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Lily sat quietly in her garden, surrounded by all her new friends. 'I love making friends in nature,' she said happily. The butterfly, bunny, and ladybug seemed to smile back at her.",
+          "illustration": {
+            "description": "A girl with long curly auburn hair, fair skin with light freckles, green eyes sitting peacefully in the garden surrounded by the orange butterfly, brown bunny, and red ladybug among colorful flowers",
+            "alt": "Lily surrounded by all her garden friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "nature appreciation",
+      "gentleness with animals",
+      "outdoor play"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color was the butterfly that visited Lily?",
+        "choices": [
+          "Orange",
+          "Blue",
+          "Purple"
+        ],
+        "correctIndex": 0,
+        "explanation": "The butterfly was orange and landed on a yellow sunflower!"
+      },
+      {
+        "id": "q2",
+        "question": "Where did the bunny come from?",
+        "choices": [
+          "Behind the roses",
+          "Under a tree",
+          "From the pond"
+        ],
+        "correctIndex": 0,
+        "explanation": "The fuzzy brown bunny hopped out from behind the roses."
+      },
+      {
+        "id": "q3",
+        "question": "What did Lily love doing?",
+        "choices": [
+          "Making friends in nature",
+          "Watching TV",
+          "Eating cookies"
+        ],
+        "correctIndex": 0,
+        "explanation": "Lily said 'I love making friends in nature' when she was with all her garden friends."
+      },
+      {
+        "id": "q4",
+        "question": "How many different animals did Lily meet?",
+        "choices": [
+          "Three",
+          "Two",
+          "Four"
+        ],
+        "correctIndex": 0,
+        "explanation": "Lily met three animals: a butterfly, a bunny, and a ladybug."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "butterfly",
+            "distractors": [
+              "bird",
+              "bee"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "bunny",
+            "distractors": [
+              "cat",
+              "dog"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

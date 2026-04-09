@@ -1,0 +1,139 @@
+{
+  "id": "v2-baby-family-134",
+  "title": "Marcus Hears the Morning",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "family",
+    "sounds"
+  ],
+  "wordCount": 66,
+  "readingLevel": "Pre-K",
+  "synopsis": "Baby Marcus discovers all the wonderful sounds of a lazy Sunday morning with his family, from gentle footsteps to sizzling pancakes.",
+  "coverImage": "covers/v2-baby-family-134.webp",
+  "chapters": [
+    {
+      "title": "Sunday Morning Sounds",
+      "pages": [
+        {
+          "text": "Marcus wakes up. The sun is warm and golden. What does Marcus hear?",
+          "illustration": {
+            "description": "Marcus, a toddler with short curly hair with a fade, medium-dark brown skin, warm brown eyes, sitting up in his crib in cozy pajamas. Sunlight streams through the window creating a golden glow in his nursery.",
+            "alt": "Marcus sitting up in his crib in the morning sunlight",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Tap tap tap! Daddy's feet go down the stairs. Step step step!",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes, looking toward the door of his room. In the hallway, his father's feet are visible walking down wooden stairs in the gentle morning light.",
+            "alt": "Marcus listening to his father's footsteps on the stairs",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sizzle sizzle! Pancakes cook in the kitchen. Pop pop! The toaster makes breakfast.",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes, being carried by his mother into a sunlit kitchen. Pancakes are sizzling on the stove and steam rises from the toaster in the warm golden morning light.",
+            "alt": "Marcus and his mother in the kitchen making breakfast",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Flip flip! Pages of the newspaper turn. Giggle giggle! Sister laughs at the funny pictures.",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes, sitting in his high chair next to his older sister who is looking at newspaper comics. The family is gathered around a breakfast table in their pajamas in the gentle Sunday morning light.",
+            "alt": "Marcus at the breakfast table with his family reading the newspaper",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Yum yum! Marcus eats his pancakes. Sunday morning sounds are the best sounds!",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes, happily eating small pieces of pancake in his high chair. His whole family is gathered around the table in their pajamas, enjoying a leisurely breakfast in the warm, sunlit dining room.",
+            "alt": "Marcus enjoying pancakes with his family on Sunday morning",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "morning routines",
+      "sounds and senses",
+      "comfort and security"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Sunday morning light, golden hour, family pajamas, newspapers pancakes, gentle unhurried, modern diverse family, lazy morning, sunlit rooms, warm domestic"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound do Daddy's feet make?",
+        "choices": [
+          "tap tap tap",
+          "sizzle sizzle"
+        ],
+        "correctIndex": 0,
+        "explanation": "Daddy's feet go tap tap tap down the stairs!"
+      },
+      {
+        "id": "q2",
+        "question": "What makes the sizzle sound?",
+        "choices": [
+          "pancakes",
+          "newspaper"
+        ],
+        "correctIndex": 0,
+        "explanation": "The pancakes go sizzle sizzle in the kitchen!"
+      },
+      {
+        "id": "q3",
+        "question": "What does Sister do with the newspaper?",
+        "choices": [
+          "laughs at pictures",
+          "eats it"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sister giggles at the funny pictures in the newspaper!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "down",
+            "distractors": [
+              "up",
+              "around"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "Pancakes",
+            "distractors": [
+              "Cookies",
+              "Apples"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

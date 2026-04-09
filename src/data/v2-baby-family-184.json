@@ -1,0 +1,152 @@
+{
+  "id": "v2-baby-family-184",
+  "title": "Oscar's Morning Sounds",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "family",
+    "sounds"
+  ],
+  "wordCount": 64,
+  "readingLevel": "Pre-K",
+  "synopsis": "Baby Oscar wakes up to the gentle sounds of a Sunday morning with his family, discovering the cozy noises that fill their warm home.",
+  "coverImage": "covers/v2-baby-family-184.webp",
+  "chapters": [
+    {
+      "title": "Sunday Morning Sounds",
+      "pages": [
+        {
+          "text": "Oscar wakes up. Yawn! The sun peeks through his window. What sounds does Oscar hear?",
+          "illustration": {
+            "description": "A toddler boy with short brown wavy hair, fair skin, warm hazel eyes stretching and yawning in his crib, golden morning sunlight streaming through white curtains, cozy nursery with soft toys, Sunday morning light creating a warm glow",
+            "alt": "Oscar waking up and yawning in his sunny nursery",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Tick-tock, tick-tock goes the clock. Drip-drop, drip-drop goes the kitchen faucet.",
+          "illustration": {
+            "description": "A boy with short brown wavy hair, fair skin, warm hazel eyes sitting up in pajamas, listening carefully, with a visible wall clock and kitchen sounds illustrated with gentle sound waves, golden hour lighting, warm domestic Sunday morning atmosphere",
+            "alt": "Oscar listening to the clock and water sounds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sizzle-pop! Mama makes pancakes. Rustle-crinkle! Papa reads the newspaper.",
+          "illustration": {
+            "description": "A toddler with short brown wavy hair, fair skin, warm hazel eyes watching from his high chair as his diverse family cooks and reads, golden pancakes on griddle, newspapers spread on table, family pajamas, sunlit kitchen, lazy morning scene",
+            "alt": "Oscar watching his parents make breakfast and read",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Purr-purr goes kitty. Woof-woof goes puppy. Oscar claps his hands - clap, clap, clap!",
+          "illustration": {
+            "description": "A happy boy with short brown wavy hair, fair skin, warm hazel eyes clapping his hands while sitting with a purring cat and small dog nearby, gentle unhurried Sunday morning light, warm domestic scene with family pets",
+            "alt": "Oscar clapping while pets make their sounds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Kiss-kiss from Mama. Hug-squeeze from Papa. Oscar giggles - hee-hee-hee! What a happy, noisy morning!",
+          "illustration": {
+            "description": "A giggling toddler with short brown wavy hair, fair skin, warm hazel eyes being kissed and hugged by his diverse parents, all in cozy family pajamas, sunlit room with golden hour lighting, newspapers and pancakes visible, modern family moment",
+            "alt": "Oscar giggling while getting kisses and hugs from his parents",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "morning routines",
+      "sound recognition",
+      "sensory exploration"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Sunday morning light, golden hour, family pajamas, newspapers pancakes, gentle unhurried, modern diverse family, lazy morning, sunlit rooms, warm domestic"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does the clock make?",
+        "choices": [
+          "tick-tock",
+          "woof-woof"
+        ],
+        "correctIndex": 0,
+        "explanation": "The clock goes tick-tock, tick-tock!"
+      },
+      {
+        "id": "q2",
+        "question": "What is Mama making?",
+        "choices": [
+          "pancakes",
+          "cookies"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama is making pancakes that go sizzle-pop!"
+      },
+      {
+        "id": "q3",
+        "question": "How does Oscar show he's happy?",
+        "choices": [
+          "he claps and giggles",
+          "he sleeps"
+        ],
+        "correctIndex": 0,
+        "explanation": "Oscar claps his hands and giggles hee-hee-hee when he's happy!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 7,
+            "correctWord": "tick-tock",
+            "distractors": [
+              "woof-woof",
+              "sizzle-pop"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "pancakes",
+            "distractors": [
+              "cookies",
+              "bread"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "clap",
+            "distractors": [
+              "jump",
+              "dance"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

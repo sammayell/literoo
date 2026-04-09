@@ -1,0 +1,220 @@
+{
+  "id": "v2-early_reader-family-088",
+  "title": "Theo's Kitchen Adventure",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "family",
+    "adventure"
+  ],
+  "wordCount": 358,
+  "readingLevel": "Pre-K to Grade 1",
+  "synopsis": "Join Theo as he embarks on a delicious kitchen adventure with his family, learning to make pancakes, discovering the magic of cooking together, and creating sweet memories around the dinner table.",
+  "coverImage": "covers/v2-early_reader-family-088.webp",
+  "chapters": [
+    {
+      "title": "Morning Surprise",
+      "pages": [
+        {
+          "text": "Theo woke up to wonderful smells coming from the kitchen. He rubbed his sleepy eyes and jumped out of bed. What could Mom and Dad be making? Theo ran down the hallway in his pajamas, following the sweet smell of something yummy.",
+          "illustration": {
+            "description": "A boy with short curly blonde hair, light skin, round blue eyes wearing striped pajamas running down a hallway toward a warm, glowing kitchen filled with yellow light and steam",
+            "alt": "Theo running toward the kitchen in his pajamas",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "In the kitchen, Mom was stirring something in a big bowl. Dad was heating up the pan on the stove. Flour was everywhere! There were eggs on the counter and milk in a glass pitcher. 'Good morning, sleepyhead!' said Mom with a big smile.",
+          "illustration": {
+            "description": "A cozy kitchen scene with warm yellow and orange tones, showing parents cooking while a boy with short curly blonde hair, light skin, round blue eyes stands in the doorway, flour scattered on counters, steam rising from the stove",
+            "alt": "Theo's parents cooking in a messy, warm kitchen",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Learning to Cook",
+      "pages": [
+        {
+          "text": "'Can I help?' asked Theo excitedly. 'Of course!' said Dad. 'We're making pancakes for breakfast. Would you like to learn?' Theo nodded his head up and down so fast that his curly hair bounced. Mom handed him a small apron that was just his size.",
+          "illustration": {
+            "description": "A boy with short curly blonde hair, light skin, round blue eyes wearing a small yellow apron, standing between his parents in a warm kitchen with orange and yellow lighting, flour visible on surfaces",
+            "alt": "Theo putting on his cooking apron with his parents",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mom showed Theo how to crack an egg into the bowl. CRACK! The first one made a mess, but that was okay. 'Everyone makes messes when they're learning,' said Mom. Dad showed him how to stir the batter in big circles. Round and round went Theo's spoon!",
+          "illustration": {
+            "description": "A cozy kitchen scene showing a boy with short curly blonde hair, light skin, round blue eyes stirring a bowl while his mother helps him, broken eggshells on the counter, flour in the air, warm yellow lighting throughout",
+            "alt": "Theo learning to crack eggs and stir pancake batter",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Pancake Magic",
+      "pages": [
+        {
+          "text": "Now came the best part! Dad helped Theo pour the batter into the hot pan. SIZZLE! The pancake started to bubble and cook. 'When do we flip it?' asked Theo. 'When the bubbles pop and stay open,' said Dad. 'Just like magic!'",
+          "illustration": {
+            "description": "A warm kitchen scene with a boy with short curly blonde hair, light skin, round blue eyes standing on a step stool next to his father, both looking at a sizzling pan with steam rising, golden pancake cooking, cozy orange and yellow lighting",
+            "alt": "Theo and Dad cooking pancakes together at the stove",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Flip! The pancake flew up in the air and landed back in the pan, golden brown and perfect. 'I did it!' shouted Theo. 'You sure did!' said Mom, giving him a big hug. They made five more pancakes, each one better than the last. The kitchen smelled amazing!",
+          "illustration": {
+            "description": "A joyful kitchen scene showing a boy with short curly blonde hair, light skin, round blue eyes celebrating with raised arms while his parents smile, a stack of golden pancakes on a plate, steam rising, warm yellow and orange tones filling the cozy space",
+            "alt": "Theo celebrating his successful pancake flipping",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Family Breakfast",
+      "pages": [
+        {
+          "text": "The whole family sat down at the big dining table. There were the pancakes they made together, plus butter, syrup, and fresh strawberries. 'These are the best pancakes ever!' said Theo's big sister Emma. 'That's because Theo helped make them,' said Dad with a wink.",
+          "illustration": {
+            "description": "A warm dining room scene with a family gathered around a wooden table covered with pancakes, syrup, and strawberries, featuring a boy with short curly blonde hair, light skin, round blue eyes sitting proudly with his family, golden morning light streaming through windows",
+            "alt": "The family enjoying their homemade pancakes together",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "As they ate, Theo felt so proud and happy. He had learned something new and helped his family make a delicious breakfast. 'Can we cook together again tomorrow?' he asked. 'Every day if you want,' said Mom. 'Cooking together is the best adventure of all!'",
+          "illustration": {
+            "description": "A heartwarming scene of a boy with short curly blonde hair, light skin, round blue eyes smiling widely at the family dining table, surrounded by his loving family, empty plates showing they enjoyed the meal, soft warm lighting creating a cozy atmosphere",
+            "alt": "Theo smiling happily with his family after their cooking adventure",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "learning new skills",
+      "cooking together",
+      "helping others",
+      "pride in accomplishment"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What woke Theo up in the morning?",
+        "choices": [
+          "wonderful smells from the kitchen",
+          "his alarm clock",
+          "loud music"
+        ],
+        "correctIndex": 0,
+        "explanation": "Theo woke up to wonderful smells coming from the kitchen where his parents were cooking."
+      },
+      {
+        "id": "q2",
+        "question": "What did Theo's family make for breakfast?",
+        "choices": [
+          "pancakes",
+          "eggs",
+          "cereal"
+        ],
+        "correctIndex": 0,
+        "explanation": "Theo and his parents worked together to make pancakes for breakfast."
+      },
+      {
+        "id": "q3",
+        "question": "What did Mom give Theo to wear while cooking?",
+        "choices": [
+          "an apron",
+          "a hat",
+          "gloves"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mom handed Theo a small apron that was just his size to wear while cooking."
+      },
+      {
+        "id": "q4",
+        "question": "When did Dad say to flip the pancake?",
+        "choices": [
+          "when the bubbles pop and stay open",
+          "after five minutes",
+          "when it turns black"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dad told Theo to flip the pancake when the bubbles pop and stay open."
+      },
+      {
+        "id": "q5",
+        "question": "How did Theo feel at the end of the story?",
+        "choices": [
+          "proud and happy",
+          "tired and sad",
+          "angry and upset"
+        ],
+        "correctIndex": 0,
+        "explanation": "Theo felt proud and happy because he learned something new and helped his family make breakfast."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "kitchen",
+            "distractors": [
+              "bedroom",
+              "bathroom"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "pancakes",
+            "distractors": [
+              "cookies",
+              "sandwiches"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "apron",
+            "distractors": [
+              "shirt",
+              "shoes"
+            ]
+          },
+          {
+            "wordIndex": 25,
+            "correctWord": "stir",
+            "distractors": [
+              "throw",
+              "hide"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

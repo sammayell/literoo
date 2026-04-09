@@ -1,0 +1,132 @@
+{
+  "id": "v2-baby-nature-155",
+  "title": "Zuri's Peek-a-Boo Seasons",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "nature",
+    "peek-a-boo"
+  ],
+  "wordCount": 53,
+  "readingLevel": "Pre-K",
+  "synopsis": "Follow little Zuri as she plays peek-a-boo with nature through the changing seasons, discovering flowers in spring, sunshine in summer, leaves in autumn, and snow in winter.",
+  "coverImage": "covers/v2-baby-nature-155.webp",
+  "chapters": [
+    {
+      "title": "Peek-a-Boo Seasons",
+      "pages": [
+        {
+          "text": "Peek-a-boo! Where is Zuri? There she is behind the spring flowers!",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, hiding behind blooming pink and white cherry blossoms in a soft spring garden with pastel green grass and gentle morning light",
+            "alt": "Zuri playing peek-a-boo behind spring flowers",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Where is Zuri now? There she is under the bright summer sun!",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, sitting under a vibrant green tree with golden sunlight streaming through the leaves in the same garden location with bright summer colors",
+            "alt": "Zuri playing peek-a-boo under summer sun",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Where is Zuri hiding? There she is in the autumn leaves!",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, nestled among fallen orange, red, and golden autumn leaves in the same garden scene with warm amber lighting and trees with colorful fall foliage",
+            "alt": "Zuri playing peek-a-boo in autumn leaves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Where is Zuri? There she is playing in the winter snow! Peek-a-boo, seasons come and go!",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, building a small snowman in the same garden location now covered in white snow with bare tree branches and soft blue-white winter light",
+            "alt": "Zuri playing peek-a-boo in winter snow",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "seasons",
+      "nature cycles",
+      "peek-a-boo games",
+      "discovery",
+      "outdoor play"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "seasonal cycle, spring pastels, summer brights, autumn warmth, winter cool, same scene different seasons, time passing, nature calendar, cyclical beauty"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where does Zuri hide in spring?",
+        "choices": [
+          "Behind flowers",
+          "In snow"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zuri hides behind the pretty spring flowers!"
+      },
+      {
+        "id": "q2",
+        "question": "What does Zuri play in during winter?",
+        "choices": [
+          "Leaves",
+          "Snow"
+        ],
+        "correctIndex": 1,
+        "explanation": "Zuri plays in the white winter snow!"
+      },
+      {
+        "id": "q3",
+        "question": "What game does Zuri play?",
+        "choices": [
+          "Peek-a-boo",
+          "Hide and seek"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zuri plays peek-a-boo with the seasons!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 0,
+        "blanks": [
+          {
+            "wordIndex": 7,
+            "correctWord": "spring",
+            "distractors": [
+              "winter",
+              "summer"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "autumn",
+            "distractors": [
+              "spring",
+              "winter"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

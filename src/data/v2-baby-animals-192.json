@@ -1,0 +1,140 @@
+{
+  "id": "v2-baby-animals-192",
+  "title": "Kofi and the Happy Animals",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "animals",
+    "nature"
+  ],
+  "wordCount": 55,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Kofi explores the savanna and meets friendly animals who make different sounds and movements, learning about nature through joyful encounters.",
+  "coverImage": "covers/v2-baby-animals-192.webp",
+  "chapters": [
+    {
+      "title": "Animal Friends",
+      "pages": [
+        {
+          "text": "Kofi walks in the warm grass. The sun is bright and golden.",
+          "illustration": {
+            "description": "Kofi with short cropped hair, rich dark brown skin, bright expressive eyes walking through tall golden grass under a warm orange sunset sky, painted with thick gouache brushstrokes in warm savanna colors",
+            "alt": "Kofi walking through golden savanna grass",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A big elephant waves his trunk. Hello, elephant! Kofi waves back.",
+          "illustration": {
+            "description": "Kofi with short cropped hair, rich dark brown skin, bright expressive eyes waving at a friendly gray elephant with textured painterly skin, both surrounded by golden grass, painted in gouache with bold confident strokes",
+            "alt": "Kofi waving at a friendly elephant",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A tall giraffe bends down low. Hello, giraffe! Kofi smiles big.",
+          "illustration": {
+            "description": "Kofi with short cropped hair, rich dark brown skin, bright expressive eyes looking up at a spotted giraffe bending its long neck down, painted with thick brushstrokes in warm savanna colors with an orange sunset background",
+            "alt": "Kofi meeting a friendly giraffe",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A zebra runs and plays. Kofi claps his hands with joy.",
+          "illustration": {
+            "description": "Kofi with short cropped hair, rich dark brown skin, bright expressive eyes clapping while watching an expressive zebra with bold black and white stripes running through golden grass, painted in gouache with textured painterly style",
+            "alt": "Kofi watching a zebra run and play",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "All the animals are happy. Kofi loves his animal friends!",
+          "illustration": {
+            "description": "Kofi with short cropped hair, rich dark brown skin, bright expressive eyes standing with elephant, giraffe, and zebra all together in golden savanna grass under orange sunset, painted with thick gouache brushstrokes and warm colors",
+            "alt": "Kofi with all his animal friends together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "animals",
+      "nature",
+      "joy",
+      "exploration"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does the elephant do when Kofi sees him?",
+        "choices": [
+          "Waves his trunk",
+          "Runs away"
+        ],
+        "correctIndex": 0,
+        "explanation": "The elephant waves his trunk to say hello to Kofi!"
+      },
+      {
+        "id": "q2",
+        "question": "Which animal has a long neck?",
+        "choices": [
+          "Giraffe",
+          "Zebra"
+        ],
+        "correctIndex": 0,
+        "explanation": "The giraffe has a long neck and bends down to see Kofi!"
+      },
+      {
+        "id": "q3",
+        "question": "How does Kofi feel about the animals?",
+        "choices": [
+          "Happy",
+          "Scared"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kofi is happy and loves all his animal friends!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "elephant",
+            "distractors": [
+              "bird",
+              "fish"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "giraffe",
+            "distractors": [
+              "mouse",
+              "cat"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

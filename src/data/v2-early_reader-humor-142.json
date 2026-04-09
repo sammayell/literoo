@@ -1,0 +1,220 @@
+{
+  "id": "v2-early_reader-humor-142",
+  "title": "Finn's Super Silly Sandwich Day",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "humor",
+    "friendship"
+  ],
+  "wordCount": 250,
+  "readingLevel": "Kindergarten-1st Grade",
+  "synopsis": "Finn decides to make the world's tallest sandwich but everything goes hilariously wrong. With help from his best friend Maya, he learns that the best adventures happen when you laugh together and that sometimes the silliest mistakes make the most fun memories.",
+  "coverImage": "covers/v2-early_reader-humor-142.webp",
+  "chapters": [
+    {
+      "title": "The Big Idea",
+      "pages": [
+        {
+          "text": "Finn woke up with the BIGGEST idea ever! Today, he would make the world's tallest sandwich. He jumped out of bed and ran to the kitchen. \"This will be AMAZING!\" he shouted.",
+          "illustration": {
+            "description": "Finn with messy sandy-blonde hair, pale skin with freckles, blue-green eyes bouncing out of bed with arms stretched high, eyes comically wide with excitement, wearing striped pajamas, bedroom background with toys scattered around",
+            "alt": "Excited boy jumping out of bed with a big idea",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Finn opened the fridge. He grabbed everything he could find. Bread, cheese, pickles, apples, carrots, and even leftover spaghetti! \"The taller the better!\" he giggled.",
+          "illustration": {
+            "description": "Finn with messy sandy-blonde hair, pale skin with freckles, blue-green eyes with his head stuck deep in a bright yellow refrigerator, arms full of colorful food items flying everywhere, exaggerated surprised expression, kitchen background with candy-bright colors",
+            "alt": "Boy gathering lots of food from the refrigerator",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sandwich Trouble",
+      "pages": [
+        {
+          "text": "Finn started stacking. Bread, cheese, pickle, apple, carrot, spaghetti. The sandwich got taller and taller. It wobbled like a tower made of blocks. \"Almost done!\" Finn said proudly.",
+          "illustration": {
+            "description": "Finn with messy sandy-blonde hair, pale skin with freckles, blue-green eyes standing on his tiptoes reaching up high to add to an impossibly tall, wobbly sandwich tower, tongue sticking out in concentration, bright kitchen counter covered in food",
+            "alt": "Boy building a very tall, unstable sandwich",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "CRASH! The sandwich fell everywhere! Spaghetti landed on Finn's head. A pickle stuck to the wall. Cheese flew across the room. \"Oh no!\" Finn groaned. He was covered in food from head to toe.",
+          "illustration": {
+            "description": "Finn with messy sandy-blonde hair, pale skin with freckles, blue-green eyes completely covered in colorful food debris, spaghetti draped over his head like a wig, shocked expression with mouth wide open, kitchen chaos with food splattered on walls and floor in bright colors",
+            "alt": "Boy covered in food after sandwich disaster",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "A Friend Helps",
+      "pages": [
+        {
+          "text": "Just then, Finn's best friend Maya knocked on the door. She walked in and started laughing. \"Finn, you look like a walking salad!\" she giggled. \"What happened here?\"",
+          "illustration": {
+            "description": "Maya pointing and laughing at Finn with messy sandy-blonde hair, pale skin with freckles, blue-green eyes who stands sheepishly with lettuce on his head and sauce dripping down his face, both children have exaggerated expressions in candy-bright kitchen setting",
+            "alt": "Girl laughing at her messy friend in the kitchen",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Finn explained his sandwich plan. Maya's eyes lit up. \"That sounds fun! But maybe we should make it differently,\" she suggested. \"How about we make lots of tiny sandwiches instead?\"",
+          "illustration": {
+            "description": "Maya with bright idea expression gesturing excitedly while Finn with messy sandy-blonde hair, pale skin with freckles, blue-green eyes listens with interest, still covered in food bits, both children in animated conversation poses with exaggerated happy expressions",
+            "alt": "Two friends discussing a new plan together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Perfect Solution",
+      "pages": [
+        {
+          "text": "Finn and Maya worked together. They made twenty tiny sandwiches. Each one had different ingredients. \"This is even better than one tall sandwich!\" Finn laughed as he finally cleaned the spaghetti off his head.",
+          "illustration": {
+            "description": "Finn with messy sandy-blonde hair, pale skin with freckles, blue-green eyes and Maya working side by side making many colorful mini sandwiches on the counter, both smiling widely with tongues out in concentration, bright kitchen scene with organized ingredients",
+            "alt": "Two friends making many small sandwiches together",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "They sat down to eat their tiny sandwiches. Each bite was a surprise! \"Thanks for helping me, Maya,\" Finn said with his mouth full. \"The best ideas are even better with friends!\" They both laughed until their bellies hurt.",
+          "illustration": {
+            "description": "Finn with messy sandy-blonde hair, pale skin with freckles, blue-green eyes and Maya sitting at a bright table sharing the mini sandwiches, both with comically stuffed cheeks and huge grins, surrounded by empty plates and crumbs, warm friendship scene with candy-bright colors",
+            "alt": "Two friends happily eating sandwiches together at a table",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "problem-solving",
+      "creativity",
+      "teamwork",
+      "humor"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Finn want to make?",
+        "choices": [
+          "The world's tallest sandwich",
+          "A birthday cake",
+          "A pizza"
+        ],
+        "correctIndex": 0,
+        "explanation": "Finn woke up with the idea to make the world's tallest sandwich!"
+      },
+      {
+        "id": "q2",
+        "question": "What happened to Finn's sandwich?",
+        "choices": [
+          "It fell down and made a mess",
+          "He ate it all",
+          "He gave it away"
+        ],
+        "correctIndex": 0,
+        "explanation": "The tall sandwich crashed down and food went everywhere, covering Finn!"
+      },
+      {
+        "id": "q3",
+        "question": "Who came to help Finn?",
+        "choices": [
+          "His best friend Maya",
+          "His mom",
+          "His teacher"
+        ],
+        "correctIndex": 0,
+        "explanation": "Maya, Finn's best friend, knocked on the door and came to help."
+      },
+      {
+        "id": "q4",
+        "question": "What was Maya's idea?",
+        "choices": [
+          "Make lots of tiny sandwiches",
+          "Clean up the mess",
+          "Order pizza instead"
+        ],
+        "correctIndex": 0,
+        "explanation": "Maya suggested making many tiny sandwiches instead of one tall sandwich."
+      },
+      {
+        "id": "q5",
+        "question": "How did Finn feel at the end?",
+        "choices": [
+          "Happy he had a friend to help",
+          "Sad about the mess",
+          "Angry at the sandwich"
+        ],
+        "correctIndex": 0,
+        "explanation": "Finn thanked Maya and said the best ideas are even better with friends!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "tallest",
+            "distractors": [
+              "shortest",
+              "smallest"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "kitchen",
+            "distractors": [
+              "bedroom",
+              "bathroom"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "wobbled",
+            "distractors": [
+              "danced",
+              "jumped"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "proudly",
+            "distractors": [
+              "sadly",
+              "angrily"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

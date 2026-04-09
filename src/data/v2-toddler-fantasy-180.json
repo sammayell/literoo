@@ -1,0 +1,183 @@
+{
+  "id": "v2-toddler-fantasy-180",
+  "title": "Sofia and the Glowing Mushroom Friend",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "fantasy",
+    "friendship"
+  ],
+  "wordCount": 160,
+  "readingLevel": "Pre-K",
+  "synopsis": "Sofia discovers a magical forest where she befriends a tiny creature living in a glowing mushroom, learning about kindness and friendship through their enchanted adventure.",
+  "coverImage": "covers/v2-toddler-fantasy-180.webp",
+  "chapters": [
+    {
+      "title": "The Magic Forest",
+      "pages": [
+        {
+          "text": "Sofia loved to explore. One sunny morning, she found a path covered in sparkly golden dust. The path led deep into a magical forest.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes walking on a golden sparkly path surrounded by an enchanted forest with glowing mushrooms, fairy lights twinkling in the trees, rich greens and purples, mystical creatures peeking from behind detailed foliage, Studio Ghibli inspired magical atmosphere",
+            "alt": "Sofia walking on a magical golden path through an enchanted forest",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The trees whispered soft melodies. Tiny lights danced between the branches. Sofia saw the most beautiful sight - mushrooms that glowed like little moons!",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes standing in wonder among giant glowing mushrooms in rich purples and greens, fairy lights dancing around her, mystical creatures hiding in detailed foliage, golden sparkles floating in the air, enchanted forest atmosphere with Studio Ghibli inspired magical details",
+            "alt": "Sofia amazed by glowing mushrooms in a magical forest",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "From the biggest mushroom came a tiny voice. \"Hello! I'm Luna!\" A small, fuzzy creature with butterfly wings peeked out. Luna had been waiting for a friend.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes meeting Luna, a tiny fuzzy creature with butterfly wings emerging from a large glowing purple mushroom, enchanted forest background with fairy lights, mystical atmosphere, rich greens and detailed foliage, golden sparkles surrounding them, Studio Ghibli inspired magical scene",
+            "alt": "Sofia meeting Luna the tiny creature coming out of a glowing mushroom",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Best Friends Forever",
+      "pages": [
+        {
+          "text": "Sofia and Luna played hide-and-seek among the glowing mushrooms. They shared stories and laughed together. Luna showed Sofia how to make the fairy lights dance.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes playing with Luna among glowing mushrooms, fairy lights swirling around them both, enchanted forest setting with mystical creatures watching, rich greens and purples, golden sparkles creating magical patterns, detailed foliage, Studio Ghibli inspired joyful magical atmosphere",
+            "alt": "Sofia and Luna playing together with dancing fairy lights",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When it was time to go home, Sofia felt sad. \"Will I see you again?\" she asked. Luna smiled and gave Sofia a special glowing pebble. \"This will always bring you back to me!\"",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes holding a glowing pebble while Luna flies nearby with butterfly wings, enchanted forest background with glowing mushrooms, fairy lights creating a warm glow, mystical creatures gathered around, rich greens and purples, golden sparkles, detailed foliage, Studio Ghibli inspired emotional magical scene",
+            "alt": "Sofia receiving a magical glowing pebble from Luna",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sofia hugged her new friend gently. She promised to visit again soon. With the magic pebble in her pocket, Sofia knew their friendship would last forever.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes giving a gentle hug to tiny Luna in the enchanted forest, glowing mushrooms creating a magical farewell scene, fairy lights forming heart shapes in the air, mystical creatures celebrating their friendship, rich greens and purples, golden sparkles everywhere, detailed foliage, Studio Ghibli inspired heartwarming magical atmosphere",
+            "alt": "Sofia and Luna sharing a loving farewell hug in the magical forest",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "kindness",
+      "magic",
+      "adventure",
+      "loyalty"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Sofia find that led her into the forest?",
+        "choices": [
+          "A sparkly golden path",
+          "A big red door",
+          "A rainbow bridge"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sofia found a path covered in sparkly golden dust that led her into the magical forest."
+      },
+      {
+        "id": "q2",
+        "question": "What is the name of Sofia's new friend?",
+        "choices": [
+          "Star",
+          "Luna",
+          "Fairy"
+        ],
+        "correctIndex": 1,
+        "explanation": "The tiny creature with butterfly wings introduced herself as Luna."
+      },
+      {
+        "id": "q3",
+        "question": "What special gift did Luna give Sofia?",
+        "choices": [
+          "A glowing pebble",
+          "A flower crown",
+          "A magic wand"
+        ],
+        "correctIndex": 0,
+        "explanation": "Luna gave Sofia a special glowing pebble that would always bring her back to the magical forest."
+      },
+      {
+        "id": "q4",
+        "question": "Where did Luna live?",
+        "choices": [
+          "In a tree house",
+          "In a glowing mushroom",
+          "Under a rock"
+        ],
+        "correctIndex": 1,
+        "explanation": "Luna lived in the biggest glowing mushroom in the magical forest."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "sparkly",
+            "distractors": [
+              "muddy",
+              "smooth"
+            ]
+          },
+          {
+            "wordIndex": 14,
+            "correctWord": "magical",
+            "distractors": [
+              "scary",
+              "empty"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "Luna",
+            "distractors": [
+              "Star",
+              "Fairy"
+            ]
+          },
+          {
+            "wordIndex": 20,
+            "correctWord": "friend",
+            "distractors": [
+              "toy",
+              "book"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

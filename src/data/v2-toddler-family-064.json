@@ -1,0 +1,201 @@
+{
+  "id": "v2-toddler-family-064",
+  "title": "Oscar's Pancake Mix-Up",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "family",
+    "humor"
+  ],
+  "wordCount": 210,
+  "readingLevel": "Pre-K",
+  "synopsis": "Oscar tries to help make pancakes but creates a silly mess in the kitchen, leading to laughter and family bonding over breakfast.",
+  "coverImage": "covers/v2-toddler-family-064.webp",
+  "chapters": [
+    {
+      "title": "Pancake Helper",
+      "pages": [
+        {
+          "text": "Oscar woke up to yummy smells from the kitchen. Mama was making pancakes! \"Can I help?\" Oscar asked. \"Of course!\" said Mama. She gave Oscar a little apron with dancing bananas on it.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes stands in a cozy kitchen with warm yellow walls, wearing a banana-print apron, looking excited as his mother ties it around him. Steam rises from a pancake griddle on the stove, and flour containers sit on the counter.",
+            "alt": "Oscar getting ready to help make pancakes in the kitchen",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"First, we need flour,\" said Mama. Oscar reached for the big bag. WHOOSH! White flour flew everywhere! It covered Oscar's nose, the counter, and even the cat who was walking by. \"Oops!\" giggled Oscar.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes covered in white flour from head to toe, standing in a cloud of flour dust in the warm orange-lit kitchen. A surprised tabby cat nearby is also dusted with flour, and flour covers the wooden countertops.",
+            "alt": "Oscar accidentally spilling flour everywhere in the kitchen",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Big Mix",
+      "pages": [
+        {
+          "text": "\"Let's crack the eggs,\" said Mama. Oscar tapped an egg on the bowl. CRACK! But instead of landing in the bowl, the egg splashed on the floor. \"Slippery!\" laughed Oscar as he slid a little.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes looking surprised as a cracked egg splashes on the kitchen floor beside him. The cozy kitchen has warm yellow lighting, and mixing bowls sit on the counter with flour still dusting surfaces from earlier.",
+            "alt": "Oscar accidentally dropping an egg on the kitchen floor",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Now the milk,\" said Mama patiently. Oscar poured very carefully. Too carefully! He poured so slowly that only three tiny drops came out. \"More, more!\" he said, tipping the jug. SPLASH! Milk went everywhere but the bowl!",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes tipping a milk jug with milk splashing across the warm orange kitchen counter and onto the floor. His mother watches with an amused smile, and both wear aprons covered in cooking mishaps.",
+            "alt": "Oscar spilling milk while trying to pour it into the mixing bowl",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Perfect Pancakes",
+      "pages": [
+        {
+          "text": "The kitchen looked like a tornado hit it! Oscar looked worried. \"Did I mess up?\" But Mama hugged him tight. \"Cooking is messy sometimes. Let's clean up and try again together!\"",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes getting a warm hug from his mother in their messy but cozy kitchen. Flour, egg, and milk are scattered around, but the warm yellow and orange lighting makes it feel loving rather than chaotic. Both wear flour-dusted aprons.",
+            "alt": "Oscar getting a reassuring hug from his mother in the messy kitchen",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Working together, they made perfect pancakes! Oscar stirred while Mama poured. Soon they sat at their little dining table, eating fluffy pancakes with syrup. \"These taste extra good,\" said Oscar. \"That's because you helped make them with love,\" smiled Mama.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes sitting at a cozy dining table with his mother, both enjoying a stack of golden pancakes. The warm orange morning light streams through windows, steam rises from the pancakes, and their clean kitchen glows with warm yellows in the background.",
+            "alt": "Oscar and his mother enjoying pancakes together at the dining table",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "helping in kitchen",
+      "learning from mistakes",
+      "patience",
+      "love"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Oscar want to help make?",
+        "choices": [
+          "cookies",
+          "pancakes",
+          "cake"
+        ],
+        "correctIndex": 1,
+        "explanation": "Oscar wanted to help his mama make pancakes for breakfast!"
+      },
+      {
+        "id": "q2",
+        "question": "What happened when Oscar tried to use the flour?",
+        "choices": [
+          "it spilled everywhere",
+          "it stayed in the bag",
+          "he put it away"
+        ],
+        "correctIndex": 0,
+        "explanation": "The flour went whoosh and covered Oscar, the counter, and even the cat!"
+      },
+      {
+        "id": "q3",
+        "question": "How did Mama react when Oscar made messes?",
+        "choices": [
+          "she got angry",
+          "she was patient and kind",
+          "she left the kitchen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mama was patient and helped Oscar learn, showing that cooking can be messy sometimes."
+      },
+      {
+        "id": "q4",
+        "question": "Why did the pancakes taste extra good?",
+        "choices": [
+          "they had extra sugar",
+          "Oscar helped make them with love",
+          "they were from a restaurant"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mama said the pancakes tasted extra good because Oscar helped make them with love!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "pancakes",
+            "distractors": [
+              "cookies",
+              "bread"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "apron",
+            "distractors": [
+              "hat",
+              "shoes"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "milk",
+            "distractors": [
+              "water",
+              "juice"
+            ]
+          },
+          {
+            "wordIndex": 20,
+            "correctWord": "splash",
+            "distractors": [
+              "pour",
+              "drip"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 5,
+        "blanks": [
+          {
+            "wordIndex": 18,
+            "correctWord": "love",
+            "distractors": [
+              "sugar",
+              "butter"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "id": "v2-toddler-school-169",
+  "title": "Chloe's First Day with Animal Friends",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "school",
+    "animals"
+  ],
+  "wordCount": 324,
+  "readingLevel": "Pre-K",
+  "synopsis": "Chloe is nervous about her first day of school, but she discovers that her classroom is full of friendly animal friends who help her feel welcome and excited about learning.",
+  "coverImage": "covers/v2-toddler-school-169.webp",
+  "chapters": [
+    {
+      "title": "A Big New Day",
+      "pages": [
+        {
+          "text": "Chloe woke up early. Today was her very first day of school! She felt excited but also a little scared. Mommy helped her put on her favorite yellow dress and backpack. 'You're going to have so much fun,' Mommy said with a big smile. Chloe looked in the mirror and took a deep breath.",
+          "illustration": {
+            "description": "A girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes wearing a yellow dress and backpack, standing in front of a mirror. Drawn in chalkboard style with white and colored chalk on a dark green board, with dusty texture and hand-drawn elements.",
+            "alt": "Chloe getting ready for her first day of school",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When they arrived at school, Chloe held Mommy's hand tight. The big building looked so new and different. Other children were walking in with their parents too. Some looked happy, and some looked worried just like her. 'It's okay to feel nervous,' Mommy whispered. 'All the children feel that way on their first day.'",
+          "illustration": {
+            "description": "A girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes holding her mother's hand in front of a school building. Other children and parents are nearby. Drawn in chalkboard style with white and colored chalk on a dark green board, with equations doodles and school themed elements.",
+            "alt": "Chloe arriving at school with her mother",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Meeting Animal Friends",
+      "pages": [
+        {
+          "text": "Inside the classroom, Chloe's teacher Miss Brown smiled warmly. 'Welcome, Chloe!' she said. But what made Chloe's eyes grow wide were all the animals in the classroom! There was a fluffy rabbit in a corner cage, colorful fish swimming in a tank, and a small turtle in his own special home.",
+          "illustration": {
+            "description": "A girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes looking amazed at classroom animals including a rabbit, fish tank, and turtle. A teacher stands nearby smiling. Drawn in chalkboard style with white and colored chalk on a dark green board, with artistic warm dusty texture.",
+            "alt": "Chloe discovering the classroom animals",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The rabbit's name was Cocoa, and he had soft brown fur. The goldfish were named Bubbles and Splash - they swam in circles and made Chloe giggle. The turtle was called Slow Joe, and he poked his head out to look at her. 'They're our classroom helpers,' Miss Brown explained. 'They love meeting new friends like you!'",
+          "illustration": {
+            "description": "A girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes kneeling down to look at the animals up close. The rabbit, fish, and turtle are clearly visible with name labels. Drawn in chalkboard style with white and colored chalk on a dark green board, with hand-drawn school themed elements.",
+            "alt": "Chloe getting to know each classroom animal",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Fun and Learning Together",
+      "pages": [
+        {
+          "text": "During circle time, all the children sat on the colorful rug. They sang songs about animals and counted how many pets were in their classroom. Chloe raised her hand to answer questions and wasn't scared anymore. The other children were friendly, and they all loved the animals just like she did.",
+          "illustration": {
+            "description": "A girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes sitting in a circle with other children on a colorful rug, raising her hand. The teacher and animal cages are visible in the background. Drawn in chalkboard style with white and colored chalk on a dark green board, with equations doodles and warm dusty texture.",
+            "alt": "Chloe participating in circle time with classmates",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "At the end of the day, Chloe helped feed Cocoa some carrots and watched Bubbles and Splash eat their fish food. She even got to gently touch Slow Joe's shell. 'See you tomorrow!' she whispered to her new animal friends. When Mommy came to pick her up, Chloe was all smiles. 'I love school!' she said happily.",
+          "illustration": {
+            "description": "A girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes feeding the rabbit and watching the fish, with her mother in the doorway smiling. All the classroom animals are visible. Drawn in chalkboard style with white and colored chalk on a dark green board, with hand-drawn artistic elements and school themed doodles.",
+            "alt": "Chloe happily caring for the animals at the end of her first school day",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "first day of school",
+      "overcoming nervousness",
+      "making friends",
+      "caring for animals",
+      "classroom community"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Chloe feel on her first day of school?",
+        "choices": [
+          "excited but a little scared",
+          "very angry",
+          "sleepy"
+        ],
+        "correctIndex": 0,
+        "explanation": "Chloe felt excited but also a little scared about her first day of school, which is normal for children."
+      },
+      {
+        "id": "q2",
+        "question": "What was the name of the classroom rabbit?",
+        "choices": [
+          "Cocoa",
+          "Fluffy",
+          "Snowball"
+        ],
+        "correctIndex": 0,
+        "explanation": "The rabbit's name was Cocoa, and he had soft brown fur."
+      },
+      {
+        "id": "q3",
+        "question": "What did the children do during circle time?",
+        "choices": [
+          "sang songs about animals",
+          "took a nap",
+          "played outside"
+        ],
+        "correctIndex": 0,
+        "explanation": "During circle time, the children sang songs about animals and counted the classroom pets."
+      },
+      {
+        "id": "q4",
+        "question": "How did Chloe feel at the end of the school day?",
+        "choices": [
+          "happy and excited",
+          "sad and tired",
+          "angry and upset"
+        ],
+        "correctIndex": 0,
+        "explanation": "At the end of the day, Chloe was all smiles and told her mother 'I love school!'"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "school",
+            "distractors": [
+              "home",
+              "park"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "sleepy"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "rabbit",
+            "distractors": [
+              "dog",
+              "cat"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "fish",
+            "distractors": [
+              "birds",
+              "mice"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

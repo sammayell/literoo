@@ -1,0 +1,182 @@
+{
+  "id": "v2-toddler-bedtime-118",
+  "title": "Yuki's Sleepy Stars",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "bedtime",
+    "feelings"
+  ],
+  "wordCount": 118,
+  "readingLevel": "Pre-K",
+  "synopsis": "When little Yuki feels too excited to sleep, the gentle stars help her discover how to feel calm and cozy for bedtime.",
+  "coverImage": "covers/v2-toddler-bedtime-118.webp",
+  "chapters": [
+    {
+      "title": "Too Excited to Sleep",
+      "pages": [
+        {
+          "text": "Yuki bounced on her soft bed. She felt wiggly and giggly inside. \"I don't feel sleepy!\" she said to her teddy bear.",
+          "illustration": {
+            "description": "A little girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes bouncing on a cozy bed with purple blankets, holding a brown teddy bear, with soft watercolor style and dreamy purple and blue gradients",
+            "alt": "Yuki bouncing on her bed with her teddy bear",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama tucked Yuki in gently. \"Your body feels excited,\" Mama said. \"Let's help it feel calm and sleepy instead.\"",
+          "illustration": {
+            "description": "A mother tucking in a little girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes under soft purple blankets, gentle moonlight streaming through a window with glowing stars and ethereal atmosphere",
+            "alt": "Mama tucking Yuki into bed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Yuki looked out her window. Tiny stars twinkled like sleepy friends. \"The stars look so peaceful,\" she whispered.",
+          "illustration": {
+            "description": "A little girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes looking out a bedroom window at glowing stars in dreamy purple and blue gradients with floating clouds and soft watercolor style",
+            "alt": "Yuki looking at stars through her window",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Calm Like the Stars",
+      "pages": [
+        {
+          "text": "\"Let's breathe like the stars,\" Mama said softly. \"In... and out... slow and gentle.\" Yuki took big, sleepy breaths.",
+          "illustration": {
+            "description": "A mother and little girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes sitting together breathing calmly, surrounded by floating clouds and glowing stars with round sleepy faces in pastel palette",
+            "alt": "Yuki and Mama breathing together peacefully",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Yuki's wiggly feeling began to melt away. Her body felt warm and heavy, like a sleepy star floating in soft clouds.",
+          "illustration": {
+            "description": "A little girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes lying peacefully in bed surrounded by dreamy floating clouds, glowing stars with round sleepy faces, and gentle moonlight in ethereal atmosphere",
+            "alt": "Yuki feeling calm and sleepy in bed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I feel calm now,\" Yuki yawned. The stars seemed to smile as her eyes grew heavy. \"Goodnight, sleepy stars.\"",
+          "illustration": {
+            "description": "A little girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes peacefully sleeping in bed with glowing stars with round sleepy faces watching over her, soft watercolor style with dreamy purple and blue gradients",
+            "alt": "Yuki sleeping peacefully under the stars",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routines",
+      "managing emotions",
+      "calm breathing",
+      "family comfort"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Yuki feel at the beginning of the story?",
+        "choices": [
+          "excited and wiggly",
+          "sad and tired",
+          "angry and loud"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yuki felt excited and wiggly, which made it hard for her to fall asleep."
+      },
+      {
+        "id": "q2",
+        "question": "What did Mama teach Yuki to do?",
+        "choices": [
+          "breathe slowly like the stars",
+          "count sheep",
+          "sing a song"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama taught Yuki to breathe slowly and gently, like the peaceful stars."
+      },
+      {
+        "id": "q3",
+        "question": "What did the stars look like to Yuki?",
+        "choices": [
+          "sleepy friends",
+          "bright lights",
+          "scary monsters"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yuki thought the twinkling stars looked like peaceful, sleepy friends."
+      },
+      {
+        "id": "q4",
+        "question": "How did Yuki feel at the end?",
+        "choices": [
+          "calm and sleepy",
+          "excited and wiggly",
+          "worried and scared"
+        ],
+        "correctIndex": 0,
+        "explanation": "After breathing with Mama and watching the stars, Yuki felt calm and ready for sleep."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "bounced",
+            "distractors": [
+              "jumped",
+              "ran"
+            ]
+          },
+          {
+            "wordIndex": 8,
+            "correctWord": "sleepy",
+            "distractors": [
+              "happy",
+              "hungry"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "breathe",
+            "distractors": [
+              "dance",
+              "sing"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "gentle",
+            "distractors": [
+              "fast",
+              "loud"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

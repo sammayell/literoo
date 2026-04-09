@@ -1,0 +1,211 @@
+{
+  "id": "v2-toddler-humor-027",
+  "title": "Ivy's Wiggling Nose Disaster",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "humor",
+    "fantasy"
+  ],
+  "wordCount": 149,
+  "readingLevel": "Pre-K",
+  "synopsis": "When Ivy's nose starts wiggling on its own, magical chaos ensues as her sneezes turn into silly surprises that fill her house with giggles and wonder.",
+  "coverImage": "covers/v2-toddler-humor-027.webp",
+  "chapters": [
+    {
+      "title": "The Wiggling Begins",
+      "pages": [
+        {
+          "text": "Ivy woke up with a tickle in her nose. Wiggle, wiggle, wiggle! Her nose wouldn't stop moving!",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes sits up in bed with her nose comically wiggling back and forth, her eyes crossed as she stares at it in confusion, bright yellow pajamas, exaggerated surprised expression",
+            "alt": "Ivy looking confused at her wiggling nose in bed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Achoo!\" Ivy sneezed. POOF! Pink sparkles shot out and turned her teddy bear into a dancing banana!",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes sneezing dramatically with pink sparkles exploding from her nose, a teddy bear mid-transformation into a yellow banana with stick arms and legs doing a silly dance, rubber hose animation style with exaggerated motion lines",
+            "alt": "Ivy sneezing magical sparkles that turn her teddy into a dancing banana",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The banana teddy wiggled and jiggled around the room. \"This is silly!\" giggled Ivy.",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes laughing with oversized open mouth and squinty eyes, the banana-teddy bouncing around the colorful bedroom with exaggerated squash and stretch poses, candy bright colors everywhere",
+            "alt": "Ivy giggling as the banana teddy bounces around her room",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sneeze Surprise Kitchen",
+      "pages": [
+        {
+          "text": "In the kitchen, Ivy's nose wiggled again. \"Achoo!\" Blue sparkles made the pancakes grow legs and march around!",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes sneezing blue sparkles in a bright kitchen, stack of pancakes with tiny cartoon legs marching across the counter in a line, comedic slapstick energy with syrup bottles watching in shock",
+            "alt": "Ivy sneezing blue sparkles that give pancakes little legs",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The pancakes marched right into the orange juice! SPLASH! They became swimming pancakes doing the backstroke.",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes watching with mouth wide open in amazement as pancakes with tiny arms and legs swim and splash in a glass pitcher of orange juice, dynamic splashing motion with exaggerated cartoon physics",
+            "alt": "Swimming pancakes doing backstroke in orange juice while Ivy watches amazed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"My nose is magic!\" laughed Ivy, but then it started wiggling even more!",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes with an enormous delighted smile and her nose wiggling so fast it's blurred with motion lines, arms spread wide in excitement, bouncy dynamic pose in the chaotic magical kitchen",
+            "alt": "Ivy realizing her nose is magic with extreme excitement",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Biggest Sneeze Ever",
+      "pages": [
+        {
+          "text": "Ivy felt the biggest sneeze coming. Her nose wiggled like crazy! \"Ah... ah... ah...\"",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes building up to a massive sneeze, her face scrunched up with exaggerated expression, nose wiggling frantically, her whole body leaning back in preparation, rubber hose animation anticipation pose",
+            "alt": "Ivy building up to an enormous sneeze with exaggerated anticipation",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"ACHOO!\" Rainbow sparkles exploded everywhere! The whole house filled with floating bubbles that giggled when they popped!",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes in the center of a massive rainbow sparkle explosion, hundreds of colorful giggling bubbles with tiny smiling faces floating throughout the house, candy bright colors and slapstick energy everywhere",
+            "alt": "Ivy's giant sneeze creates rainbow sparkles and giggling bubbles everywhere",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Ivy's nose finally stopped wiggling. She hugged her banana teddy and laughed as the giggling bubbles tickled her ears. What a magical day!",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes hugging the dancing banana teddy with a content smile, surrounded by a few remaining giggling bubbles, peaceful and happy expression with oversized satisfied grin, warm candy bright colors",
+            "alt": "Happy Ivy hugging her banana teddy surrounded by a few giggling bubbles",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "magic",
+      "silliness",
+      "wonder",
+      "transformation"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What happened to Ivy's teddy bear?",
+        "choices": [
+          "It turned into a dancing banana",
+          "It grew wings",
+          "It became invisible"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ivy's magical sneeze turned her teddy bear into a dancing banana!"
+      },
+      {
+        "id": "q2",
+        "question": "What color were the sparkles that made the pancakes grow legs?",
+        "choices": [
+          "Blue",
+          "Pink",
+          "Rainbow"
+        ],
+        "correctIndex": 0,
+        "explanation": "The blue sparkles from Ivy's sneeze gave the pancakes little legs!"
+      },
+      {
+        "id": "q3",
+        "question": "Where did the pancakes go swimming?",
+        "choices": [
+          "In the orange juice",
+          "In the bathtub",
+          "In a pond"
+        ],
+        "correctIndex": 0,
+        "explanation": "The pancakes marched right into the orange juice and started swimming!"
+      },
+      {
+        "id": "q4",
+        "question": "What did the rainbow sparkles create?",
+        "choices": [
+          "Giggling bubbles",
+          "Flying cats",
+          "Dancing flowers"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ivy's biggest sneeze made rainbow sparkles that filled the house with giggling bubbles!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "wiggling",
+            "distractors": [
+              "jumping",
+              "spinning"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "sparkles",
+            "distractors": [
+              "bubbles",
+              "flowers"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "pancakes",
+            "distractors": [
+              "cookies",
+              "muffins"
+            ]
+          },
+          {
+            "wordIndex": 8,
+            "correctWord": "swimming",
+            "distractors": [
+              "flying",
+              "dancing"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

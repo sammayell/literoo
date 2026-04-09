@@ -1,0 +1,188 @@
+{
+  "id": "v2-toddler-bedtime-178",
+  "title": "Yuki's Sleepy Star Feelings",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "bedtime",
+    "feelings"
+  ],
+  "wordCount": 181,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Yuki feels different emotions as bedtime approaches, learning that all feelings are okay and how the gentle night sky helps her find peace and sleepiness.",
+  "coverImage": "covers/v2-toddler-bedtime-178.webp",
+  "chapters": [
+    {
+      "title": "Yuki's Big Feelings",
+      "pages": [
+        {
+          "text": "Yuki felt many big feelings today. Sometimes she felt happy when she played with her toys. Sometimes she felt sad when playtime ended. Sometimes she felt excited about tomorrow. All feelings are okay, Mama said.",
+          "illustration": {
+            "description": "A young girl named Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes sitting on her bedroom floor surrounded by colorful toys, with soft watercolor dreamy purple and blue gradients in the background, floating clouds, gentle moonlight streaming through a window",
+            "alt": "Yuki playing with toys in her dreamy bedroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "But now it was bedtime, and Yuki felt worried. What if she couldn't fall asleep? What if she had scary dreams? Her feelings felt too big for her little body.",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes sitting on the edge of her bed looking concerned, soft watercolor style with dreamy purple and blue gradients, glowing stars beginning to appear outside her window, ethereal atmosphere with pastel palette",
+            "alt": "Worried Yuki sitting on her bed at bedtime",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Gentle Night Sky",
+      "pages": [
+        {
+          "text": "Mama came and sat beside Yuki. Together they looked out the window at the gentle night sky. Soft purple clouds drifted by like floating pillows. Tiny stars twinkled hello.",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes sitting next to her mother by a large window, both gazing at a dreamy night sky with soft watercolor purple and blue gradients, glowing stars, floating clouds, gentle moonlight, round sleepy faces on both characters",
+            "alt": "Yuki and Mama looking at the starry night sky together",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"See how peaceful the stars look?\" Mama whispered. \"They're getting sleepy too. The moon is tucking them in with soft, glowing light. Your feelings can be peaceful like the stars.\"",
+          "illustration": {
+            "description": "A magical night sky scene with glowing stars that have round sleepy faces, gentle moonlight casting soft beams, Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes pointing at the stars, soft watercolor dreamy purple and blue gradients, floating clouds, ethereal atmosphere",
+            "alt": "Sleepy stars in the peaceful night sky with Yuki watching",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sweet Sleepy Dreams",
+      "pages": [
+        {
+          "text": "Yuki took a deep breath and felt her big feelings getting smaller and softer. Like the gentle stars, she felt peaceful now. Her worried feelings floated away like soft clouds.",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes lying peacefully in bed with a content expression, soft watercolor style with dreamy purple and blue gradients, floating clouds carrying away dark feelings, glowing stars watching over her, gentle moonlight, ethereal atmosphere",
+            "alt": "Peaceful Yuki in bed as her worries float away like clouds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Goodnight, sleepy stars,\" Yuki whispered. \"Goodnight, gentle moon. Goodnight, big feelings. Thank you for helping me learn.\" And with that, Yuki drifted off to sweet, dreamy sleep.",
+          "illustration": {
+            "description": "Sleeping Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes tucked cozily in bed with a peaceful smile, soft watercolor dreamy purple and blue gradients surrounding her, glowing stars twinkling goodnight, floating clouds, gentle moonlight streaming down, ethereal atmosphere with pastel palette",
+            "alt": "Yuki sleeping peacefully under the gentle starlight",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotional regulation",
+      "bedtime routine",
+      "self-soothing",
+      "feelings acceptance",
+      "peaceful sleep"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Yuki feel about bedtime at first?",
+        "choices": [
+          "worried",
+          "excited",
+          "hungry"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yuki felt worried about bedtime because she was afraid she couldn't fall asleep or might have scary dreams."
+      },
+      {
+        "id": "q2",
+        "question": "Who helped Yuki feel better?",
+        "choices": [
+          "Mama",
+          "a friend",
+          "her teddy bear"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama came and sat beside Yuki to help her look at the peaceful night sky and feel better."
+      },
+      {
+        "id": "q3",
+        "question": "What did the stars look like in the sky?",
+        "choices": [
+          "peaceful and sleepy",
+          "bright and loud",
+          "scary and big"
+        ],
+        "correctIndex": 0,
+        "explanation": "The stars looked peaceful and sleepy, with gentle moonlight tucking them in."
+      },
+      {
+        "id": "q4",
+        "question": "What happened to Yuki's big feelings?",
+        "choices": [
+          "they became smaller and softer",
+          "they got bigger",
+          "they stayed the same"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yuki's big feelings became smaller and softer, floating away like gentle clouds in the sky."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "feelings",
+            "distractors": [
+              "toys",
+              "cookies"
+            ]
+          },
+          {
+            "wordIndex": 8,
+            "correctWord": "happy",
+            "distractors": [
+              "angry",
+              "sleepy"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "stars",
+            "distractors": [
+              "cars",
+              "flowers"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "peaceful",
+            "distractors": [
+              "loud",
+              "fast"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

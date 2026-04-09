@@ -1,0 +1,154 @@
+{
+  "id": "v2-baby-colors-186",
+  "title": "Hugo's Rainbow Lunch",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "colors",
+    "food"
+  ],
+  "wordCount": 79,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Hugo discovers a world of colors through his favorite foods, from red apples to purple grapes, in this vibrant sensory adventure.",
+  "coverImage": "covers/v2-baby-colors-186.webp",
+  "chapters": [
+    {
+      "title": "Hugo's Colorful Kitchen",
+      "pages": [
+        {
+          "text": "Hugo is hungry! He runs to the kitchen with his mommy.",
+          "illustration": {
+            "description": "A joyful kitchen scene dominated by bright yellow paint splatters and drips, with Hugo who has straight light blonde hair, fair skin, light blue eyes running excitedly, rainbow colored finger paint aesthetic with splashy painterly strokes",
+            "alt": "Hugo running to a colorful kitchen",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Look! Red apples in a big bowl. Hugo loves red. Crunch, crunch!",
+          "illustration": {
+            "description": "Vibrant red paint dominates the scene with splatter drips, showing Hugo with straight light blonde hair, fair skin, light blue eyes holding a bright red apple, sensory visual with finger paint aesthetic and joyful pure red color exploration",
+            "alt": "Hugo eating a red apple",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Yellow bananas make Hugo smile. Peel and eat! So sweet!",
+          "illustration": {
+            "description": "Sunny yellow paint splatters fill the page with painterly drips, Hugo with straight light blonde hair, fair skin, light blue eyes peeling a bright yellow banana, splashy finger paint style with one dominant yellow color",
+            "alt": "Hugo with yellow bananas",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Green peas roll on his plate. Pop, pop, pop in his mouth!",
+          "illustration": {
+            "description": "Vibrant green paint dominates with splatter drips everywhere, Hugo with straight light blonde hair, fair skin, light blue eyes eating green peas, joyful pure green color exploration with sensory finger paint aesthetic",
+            "alt": "Hugo eating green peas",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Orange carrots are crunchy. Hugo dips them in ranch. Yum!",
+          "illustration": {
+            "description": "Bright orange paint splatters and drips dominate the scene, Hugo with straight light blonde hair, fair skin, light blue eyes holding orange carrots, splashy painterly style with sensory visual finger paint aesthetic",
+            "alt": "Hugo with orange carrots",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Purple grapes are tiny and sweet. Hugo picks them one by one.",
+          "illustration": {
+            "description": "Rich purple paint fills the page with splatter drips, Hugo with straight light blonde hair, fair skin, light blue eyes reaching for purple grapes, joyful pure purple color with finger paint aesthetic and painterly strokes",
+            "alt": "Hugo reaching for purple grapes",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Hugo's tummy is full and happy. So many colors, so much fun!",
+          "illustration": {
+            "description": "Rainbow colors splash across the page with paint drips everywhere, Hugo with straight light blonde hair, fair skin, light blue eyes sitting contentedly, all colors blending in joyful finger paint aesthetic with sensory visual appeal",
+            "alt": "Hugo surrounded by colorful foods",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "colors",
+      "healthy eating",
+      "sensory exploration"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "rainbow colors, splashy painterly, one color dominant per scene, paint splatter drips, sensory visual, joyful pure color, finger paint aesthetic, color exploration"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color are the apples Hugo eats?",
+        "choices": [
+          "red",
+          "blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hugo eats red apples that go 'crunch, crunch!'"
+      },
+      {
+        "id": "q2",
+        "question": "What does Hugo do with the bananas?",
+        "choices": [
+          "peel and eat",
+          "throw them"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hugo peels the yellow bananas and eats them because they're sweet!"
+      },
+      {
+        "id": "q3",
+        "question": "How does Hugo feel at the end?",
+        "choices": [
+          "happy",
+          "sad"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hugo's tummy is full and happy after eating all the colorful foods!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "red",
+            "distractors": [
+              "blue",
+              "green"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "yellow",
+            "distractors": [
+              "red",
+              "purple"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

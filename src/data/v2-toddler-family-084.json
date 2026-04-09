@@ -1,0 +1,167 @@
+{
+  "id": "v2-toddler-family-084",
+  "title": "Oscar's Big Kitchen Adventure",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "family",
+    "humor"
+  ],
+  "wordCount": 150,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Oscar wants to help make pancakes but creates a flour-covered mess in the kitchen, leading to giggles and a delicious breakfast with his family.",
+  "coverImage": "covers/v2-toddler-family-084.webp",
+  "chapters": [
+    {
+      "title": "Pancake Helper",
+      "pages": [
+        {
+          "text": "Oscar woke up hungry. \"Pancakes!\" he said. Mama was mixing batter in the big yellow bowl. \"Can I help?\" Oscar asked. \"Of course!\" said Mama. She tied a tiny apron around Oscar's waist.",
+          "illustration": {
+            "description": "A cozy kitchen with warm yellow walls and morning sunlight streaming through windows. Oscar, a boy with short brown wavy hair, fair skin, warm hazel eyes, stands on a wooden step stool wearing a small blue apron. His mama stands beside him at the counter with a large yellow mixing bowl, flour containers, and eggs nearby. Steam rises gently from a warming griddle.",
+            "alt": "Oscar in his little apron standing next to his mama in a sunny kitchen, ready to help make pancakes",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"First, we add flour,\" Mama said. Oscar grabbed the big flour bag. WHOOSH! White flour went everywhere - on Oscar, on the counter, even on the cat! \"Oops!\" giggled Oscar. His hair was white with flour.",
+          "illustration": {
+            "description": "A cloud of white flour fills the cozy kitchen air. Oscar, with short brown wavy hair now dusted white with flour, fair skin, warm hazel eyes wide with surprise, stands holding an overturned flour bag. Flour covers the orange-toned countertops, his blue apron, and a surprised tabby cat nearby. Warm morning light illuminates the flour particles floating in the air.",
+            "alt": "Oscar covered in flour after accidentally spilling the flour bag, with flour dust floating everywhere in the kitchen",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Best Breakfast",
+      "pages": [
+        {
+          "text": "Mama laughed. \"You look like a little ghost!\" Papa came in and started laughing too. \"What happened here?\" he asked. Oscar giggled. \"I helped with flour!\" They all laughed together as they cleaned up the mess.",
+          "illustration": {
+            "description": "The warm kitchen filled with laughter as the family stands together. Oscar with short brown wavy hair still dusted with flour, fair skin, warm hazel eyes sparkling with joy, giggles between his parents. Papa holds a kitchen towel while Mama wipes flour from the orange countertops. Flour handprints dot the cabinets and warm sunlight creates a cozy atmosphere of family togetherness.",
+            "alt": "Oscar and his parents laughing together while cleaning up the flour mess in their cozy kitchen",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Soon they made perfect pancakes together. Oscar helped flip them - very carefully this time! They sat at the dining table with a big stack of golden pancakes. \"These are the best pancakes ever,\" said Oscar, syrup on his chin. \"Because we made them together!\"",
+          "illustration": {
+            "description": "A cozy dining room with warm yellow walls where the family sits around a wooden table. Oscar, with short brown wavy hair now clean, fair skin, warm hazel eyes bright with happiness, sits with a fork in his small hand and syrup on his chin. A tall stack of golden pancakes sits in the center of the table, steam rising gently. Morning light streams through windows, creating a scene of pure family love and contentment.",
+            "alt": "Oscar and his family enjoying their homemade pancakes together at the breakfast table",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "helping in kitchen",
+      "learning from mistakes",
+      "laughter and joy",
+      "cooking together"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Oscar want to help make?",
+        "choices": [
+          "pancakes",
+          "cookies",
+          "soup"
+        ],
+        "correctIndex": 0,
+        "explanation": "Oscar woke up hungry and asked to help make pancakes with Mama."
+      },
+      {
+        "id": "q2",
+        "question": "What happened when Oscar tried to add flour?",
+        "choices": [
+          "it spilled everywhere",
+          "he measured it perfectly",
+          "he forgot to add it"
+        ],
+        "correctIndex": 0,
+        "explanation": "Oscar grabbed the big flour bag and flour went whoosh everywhere - on him, the counter, and even the cat!"
+      },
+      {
+        "id": "q3",
+        "question": "How did Oscar's family react to the flour mess?",
+        "choices": [
+          "they laughed together",
+          "they got angry",
+          "they cried"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama and Papa both laughed when they saw Oscar covered in flour, and they all laughed together while cleaning up."
+      },
+      {
+        "id": "q4",
+        "question": "Why were the pancakes the best ever?",
+        "choices": [
+          "because they made them together",
+          "because they were huge",
+          "because they had chocolate"
+        ],
+        "correctIndex": 0,
+        "explanation": "Oscar said the pancakes were the best ever because they made them together as a family."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "pancakes",
+            "distractors": [
+              "cookies",
+              "waffles"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "help",
+            "distractors": [
+              "eat",
+              "watch"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "flour",
+            "distractors": [
+              "sugar",
+              "salt"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "everywhere",
+            "distractors": [
+              "nowhere",
+              "somewhere"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

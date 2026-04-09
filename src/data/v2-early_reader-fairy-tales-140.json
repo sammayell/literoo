@@ -1,0 +1,189 @@
+{
+  "id": "v2-early_reader-fairy-tales-140",
+  "title": "Sofia and the Magic Garden",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "fairy-tales",
+    "animals"
+  ],
+  "wordCount": 479,
+  "readingLevel": "Grade 1-2",
+  "synopsis": "Sofia discovers a magical garden where she befriends talking animals and learns the power of kindness when she helps them save their home from a terrible drought.",
+  "coverImage": "covers/v2-early_reader-fairy-tales-140.webp",
+  "chapters": [
+    {
+      "title": "The Secret Door",
+      "pages": [
+        {
+          "text": "Sofia loved to explore. One sunny morning, she found a tiny door hidden behind the roses in her grandmother's garden. The door was painted bright blue with golden stars. Sofia had never seen it before. She knocked gently. The door creaked open by itself! Sofia peeked inside and saw a shimmering path made of flower petals. Her heart raced with excitement. What magical place could this lead to? Sofia took a deep breath and stepped through the tiny door. As soon as her foot touched the petal path, she felt herself shrinking smaller and smaller until she was just the right size to walk through comfortably.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes kneeling beside a tiny ornate blue door with golden stars hidden among blooming roses, golden afternoon light filtering through garden leaves, decorative border of intertwining vines and flowers",
+            "alt": "Sofia discovering a magical tiny door in her grandmother's garden",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Talking Animals",
+      "pages": [
+        {
+          "text": "The petal path led Sofia to the most beautiful garden she had ever seen. Flowers grew as tall as trees, and butterflies were as big as birds. But the most amazing thing was that all the animals could talk! A friendly rabbit with a golden collar hopped up to her. 'Welcome to the Magic Garden,' said the rabbit. 'I'm Ruby. We've been waiting for you!' A wise old owl perched on a mushroom smiled at Sofia. 'Hello, dear child. I'm Oliver. We need your help.' A cheerful squirrel scampered down from a giant sunflower. 'I'm Nutkin! We're so glad you found us!' Sofia couldn't believe her ears. She had always dreamed of talking to animals, and now her dream had come true!",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes standing in an enchanted garden with oversized flowers, talking to Ruby the rabbit wearing a golden collar, Oliver the wise owl perched on a spotted mushroom, and Nutkin the squirrel beside a giant sunflower, magical sparkles in the air, decorative border of whimsical forest creatures",
+            "alt": "Sofia meeting the talking animals in the magical garden",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Garden in Trouble",
+      "pages": [
+        {
+          "text": "Oliver the owl looked worried. 'Our magic garden is in danger,' he explained. 'The Magic Spring has dried up. Without its water, all our flowers are wilting and our home will disappear.' Sofia looked around and saw that some flowers were already turning brown. Ruby the rabbit's ears drooped sadly. 'We've tried everything, but nothing works. The spring only flows for someone with a truly kind heart.' Nutkin the squirrel added, 'Legend says that only a special person can make the Magic Spring flow again by showing three acts of kindness.' Sofia's eyes sparkled with determination. 'I want to help!' she declared. 'Tell me what I need to do!' The animals smiled hopefully. Maybe Sofia could save their magical home after all.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes listening intently to the worried animals, with wilting flowers and a dried-up stone spring in the background, Ruby the rabbit with drooping ears, Oliver the owl looking concerned, Nutkin the squirrel gesturing toward the empty spring, fading magical sparkles, decorative border of drooping vines and flowers",
+            "alt": "The animals explaining to Sofia how their magical garden is in danger",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Three Acts of Kindness",
+      "pages": [
+        {
+          "text": "Sofia began her quest to save the Magic Garden. First, she found a tiny mouse stuck under a heavy leaf. Sofia gently lifted the leaf and set the mouse free. 'Thank you!' squeaked the grateful mouse. Next, she saw a butterfly with a hurt wing. Sofia carefully made a soft bed of flower petals for the butterfly to rest. 'You're so kind!' said the butterfly. Finally, Sofia shared her lunch with a hungry family of field mice. 'We were so hungry,' they said. 'Thank you for sharing!' As soon as Sofia completed her third act of kindness, the Magic Spring began to bubble and flow with crystal-clear water! The flowers stood up tall and bright again. The Magic Garden was saved! All the animals cheered for Sofia, their hero.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes kneeling by the now-flowing Magic Spring, surrounded by vibrant restored flowers and celebrating animals including Ruby, Oliver, Nutkin, and other grateful creatures, magical water sparkling in the spring, rainbow mist rising from the water, decorative border of flourishing vines and blooming flowers with magical stars",
+            "alt": "Sofia successfully restoring the Magic Garden with her acts of kindness",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "kindness",
+      "friendship",
+      "helping others",
+      "magic",
+      "nature",
+      "courage"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Sofia find hidden behind the roses?",
+        "choices": [
+          "A tiny blue door",
+          "A golden key",
+          "A magic wand"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sofia found a tiny blue door with golden stars hidden behind the roses in her grandmother's garden."
+      },
+      {
+        "id": "q2",
+        "question": "What was the name of the rabbit Sofia met?",
+        "choices": [
+          "Rosie",
+          "Ruby",
+          "Rita"
+        ],
+        "correctIndex": 1,
+        "explanation": "The friendly rabbit with a golden collar was named Ruby."
+      },
+      {
+        "id": "q3",
+        "question": "What problem did the Magic Garden have?",
+        "choices": [
+          "Too many weeds",
+          "The Magic Spring dried up",
+          "No sunlight"
+        ],
+        "correctIndex": 1,
+        "explanation": "The Magic Spring had dried up, which made the flowers wilt and threatened the garden's existence."
+      },
+      {
+        "id": "q4",
+        "question": "How many acts of kindness did Sofia need to perform?",
+        "choices": [
+          "Two",
+          "Three",
+          "Four"
+        ],
+        "correctIndex": 1,
+        "explanation": "According to the legend, Sofia needed to show three acts of kindness to make the Magic Spring flow again."
+      },
+      {
+        "id": "q5",
+        "question": "What happened after Sofia completed her acts of kindness?",
+        "choices": [
+          "She grew bigger",
+          "The Magic Spring flowed again",
+          "She found treasure"
+        ],
+        "correctIndex": 1,
+        "explanation": "After Sofia's three acts of kindness, the Magic Spring began to bubble and flow with crystal-clear water, saving the garden."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "door",
+            "distractors": [
+              "window",
+              "gate"
+            ]
+          },
+          {
+            "wordIndex": 23,
+            "correctWord": "stars",
+            "distractors": [
+              "moons",
+              "hearts"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "animals",
+            "distractors": [
+              "flowers",
+              "trees"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "rabbit",
+            "distractors": [
+              "cat",
+              "dog"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "v2-baby-colors-096",
+  "title": "Malik's Colorful Snacks",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "colors",
+    "food"
+  ],
+  "wordCount": 70,
+  "readingLevel": "baby",
+  "synopsis": "Baby Malik discovers different colored foods at snack time, exploring red strawberries, yellow bananas, orange carrots, green peas, and purple grapes through joyful sensory play.",
+  "coverImage": "covers/v2-baby-colors-096.webp",
+  "chapters": [
+    {
+      "title": "Snack Time Colors",
+      "pages": [
+        {
+          "text": "Malik loves snack time! Look at all the pretty colors on his plate.",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, gentle expressive eyes sits in a high chair with a colorful plate of mixed fruits and vegetables, rainbow paint splatters frame the scene with joyful finger paint aesthetic",
+            "alt": "Malik sitting at snack time with colorful food",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Red strawberries! Malik picks up the red berry. So sweet and juicy!",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, gentle expressive eyes holds a bright red strawberry, dominant red paint splashes and drips surround him in splashy painterly style",
+            "alt": "Malik holding a red strawberry",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Yellow banana! Malik peels the yellow fruit. Yummy and soft!",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, gentle expressive eyes peeling a bright yellow banana, dominant yellow paint splatters and sensory visual drips create joyful pure color background",
+            "alt": "Malik peeling a yellow banana",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Orange carrots! Malik crunches the orange sticks. Crispy and fun!",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, gentle expressive eyes munching orange carrot sticks, dominant orange paint splatter drips in finger paint aesthetic with color exploration theme",
+            "alt": "Malik eating orange carrots",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Green peas! Malik pops the green balls in his mouth. Round and tasty!",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, gentle expressive eyes eating bright green peas, dominant green paint splatters drip around him in sensory visual joyful pure color style",
+            "alt": "Malik eating green peas",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Purple grapes! Malik squishes the purple fruit. Sweet and juicy! All done!",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, gentle expressive eyes with purple grape juice on his fingers and face, dominant purple paint splashes in splashy painterly finger paint aesthetic",
+            "alt": "Malik eating purple grapes with messy hands",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "color recognition",
+      "healthy eating",
+      "sensory exploration",
+      "meal time"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "rainbow colors, splashy painterly, one color dominant per scene, paint splatter drips, sensory visual, joyful pure color, finger paint aesthetic, color exploration"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color is the strawberry Malik eats?",
+        "choices": [
+          "red",
+          "blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "The strawberry is red! Red is a bright, pretty color."
+      },
+      {
+        "id": "q2",
+        "question": "What yellow fruit does Malik peel?",
+        "choices": [
+          "banana",
+          "apple"
+        ],
+        "correctIndex": 0,
+        "explanation": "Malik peels a yellow banana! Bananas are soft and yummy."
+      },
+      {
+        "id": "q3",
+        "question": "What color are the peas Malik eats?",
+        "choices": [
+          "green",
+          "orange"
+        ],
+        "correctIndex": 0,
+        "explanation": "The peas are green! Green peas are round and tasty."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Red",
+            "distractors": [
+              "Blue",
+              "Black"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Yellow",
+            "distractors": [
+              "Purple",
+              "White"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Green",
+            "distractors": [
+              "Pink",
+              "Gray"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

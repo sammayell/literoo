@@ -13,7 +13,7 @@
   "wordCount": 81,
   "readingLevel": "Pre-K",
   "synopsis": "Little Finn explores the African savanna and meets gentle animals like elephants, giraffes, and lions. Each animal teaches him something special about friendship and nature in this warm, colorful adventure perfect for toddlers.",
-  "coverImage": "covers/v2-baby-animals-002.webp",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-animals-002/cover.png",
   "chapters": [
     {
       "title": "Safari Adventure",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "A young boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes walking through tall golden savanna grass under an orange sunset sky, painted in gouache with thick brushstrokes and warm colors",
             "alt": "Finn walking through golden savanna grass",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-animals-002/scene_1_1.png"
           }
         },
         {
@@ -31,7 +32,8 @@
           "illustration": {
             "description": "A friendly gray elephant with expressive eyes waving her trunk at a boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes, painted in thick gouache brushstrokes with warm savanna colors",
             "alt": "Elephant greeting Finn with her trunk",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-animals-002/scene_1_2.png"
           }
         },
         {
@@ -39,7 +41,8 @@
           "illustration": {
             "description": "A spotted giraffe bending her long neck down to nuzzle a small boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes, painted with bold confident gouache strokes in warm orange and golden tones",
             "alt": "Giraffe giving Finn a gentle kiss",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-animals-002/scene_1_3.png"
           }
         },
         {
@@ -47,7 +50,8 @@
           "illustration": {
             "description": "A lion family lounging under an acacia tree while a boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes watches nearby, painted in textured gouache with warm savanna colors and an orange sunset backdrop",
             "alt": "Lion family resting under a tree with Finn watching",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-animals-002/scene_1_4.png"
           }
         },
         {
@@ -55,7 +59,8 @@
           "illustration": {
             "description": "A boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes waving goodbye to various safari animals silhouetted against a brilliant orange sunset, painted in bold gouache brushstrokes with warm glowing colors",
             "alt": "Finn waving goodbye to safari animals at sunset",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-animals-002/scene_1_5.png"
           }
         }
       ]

@@ -1,0 +1,190 @@
+{
+  "id": "v2-toddler-school-049",
+  "title": "Chloe's First Day at Animal School",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "school",
+    "animals"
+  ],
+  "wordCount": 198,
+  "readingLevel": "Pre-K",
+  "synopsis": "Chloe starts her first day at a special school where animal friends help her learn and play together.",
+  "coverImage": "covers/v2-toddler-school-049.webp",
+  "chapters": [
+    {
+      "title": "New School Day",
+      "pages": [
+        {
+          "text": "Chloe woke up excited! Today was her first day at the new Animal School. She put on her favorite yellow dress and grabbed her backpack. 'I wonder what animal friends I'll meet,' she thought happily.",
+          "illustration": {
+            "description": "Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes wearing a yellow dress, holding a small backpack, standing in front of a colorful school building shaped like a barn with animal decorations, drawn in chalkboard style on dark green board with white and colored chalk, equations doodles in corners",
+            "alt": "Chloe ready for her first day at Animal School",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "At school, Teacher Rabbit welcomed everyone. 'Good morning, children! Today we'll learn with our animal helpers.' Chloe saw a fuzzy yellow chick, a playful brown puppy, and a wise gray owl sitting on colorful mats.",
+          "illustration": {
+            "description": "Classroom scene with Chloe (short wavy strawberry-blonde hair, light skin, blue-gray eyes) sitting cross-legged next to a yellow chick, brown puppy, and gray owl, with a friendly rabbit teacher at a small chalkboard, drawn in chalkboard style on dark green board with white and colored chalk, simple math equations doodles around the border",
+            "alt": "Chloe meeting animal friends in the classroom",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Learning with Friends",
+      "pages": [
+        {
+          "text": "The chick taught Chloe to count. 'Peep, peep!' it said, showing one, two, three seeds. The puppy showed her shapes by fetching round balls and square blocks. 'Woof!' he barked happily.",
+          "illustration": {
+            "description": "Chloe (short wavy strawberry-blonde hair, light skin, blue-gray eyes) counting seeds with a yellow chick and playing with geometric shapes alongside a brown puppy, surrounded by numbers 1-2-3 and basic shapes drawn in chalkboard style on dark green board with white and colored chalk, dusty texture",
+            "alt": "Chloe learning numbers and shapes with animal friends",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The wise owl helped with letters. 'Hoo, hoo! A is for Apple, B is for Bird,' Owl said softly. Chloe traced the letters in the air. She was learning so much with her new animal teachers!",
+          "illustration": {
+            "description": "Chloe (short wavy strawberry-blonde hair, light skin, blue-gray eyes) sitting next to a gray owl, both looking at large letters A and B with drawings of an apple and bird, drawn in chalkboard style on dark green board with white and colored chalk, hand-drawn artistic feel with warm dusty texture",
+            "alt": "Chloe learning letters with the wise owl",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Playtime Together",
+      "pages": [
+        {
+          "text": "At recess, all the animals played together. The chick played peek-a-boo, the puppy played fetch, and the owl sang gentle songs. Chloe laughed and clapped her hands with joy.",
+          "illustration": {
+            "description": "Playground scene with Chloe (short wavy strawberry-blonde hair, light skin, blue-gray eyes) playing with the yellow chick hiding behind a small tree, brown puppy with a ball, and gray owl perched on playground equipment, all drawn in chalkboard style on dark green board with white and colored chalk, playful doodles around edges",
+            "alt": "Chloe playing with all her animal friends at recess",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When school ended, Chloe hugged each animal friend goodbye. 'Thank you for teaching me!' she said. 'See you tomorrow!' The animals waved as she walked home, excited to return to Animal School.",
+          "illustration": {
+            "description": "Chloe (short wavy strawberry-blonde hair, light skin, blue-gray eyes) giving gentle hugs to the yellow chick, brown puppy, and gray owl near the school entrance, with Teacher Rabbit waving goodbye, drawn in chalkboard style on dark green board with white and colored chalk, warm artistic feel with dusty texture",
+            "alt": "Chloe saying goodbye to her animal friends after school",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "first day of school",
+      "friendship",
+      "learning",
+      "animals as teachers",
+      "counting",
+      "shapes",
+      "letters"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color dress did Chloe wear on her first day?",
+        "choices": [
+          "yellow",
+          "blue",
+          "red"
+        ],
+        "correctIndex": 0,
+        "explanation": "Chloe put on her favorite yellow dress for her first day at Animal School."
+      },
+      {
+        "id": "q2",
+        "question": "Which animal taught Chloe to count?",
+        "choices": [
+          "chick",
+          "puppy",
+          "owl"
+        ],
+        "correctIndex": 0,
+        "explanation": "The fuzzy yellow chick taught Chloe to count by showing her seeds and saying 'Peep, peep!'"
+      },
+      {
+        "id": "q3",
+        "question": "What did the puppy help Chloe learn?",
+        "choices": [
+          "shapes",
+          "letters",
+          "colors"
+        ],
+        "correctIndex": 0,
+        "explanation": "The playful brown puppy helped Chloe learn shapes by fetching round balls and square blocks."
+      },
+      {
+        "id": "q4",
+        "question": "What did Chloe do before going home?",
+        "choices": [
+          "hugged her animal friends",
+          "ate lunch",
+          "drew pictures"
+        ],
+        "correctIndex": 0,
+        "explanation": "When school ended, Chloe hugged each animal friend goodbye and thanked them for teaching her."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "excited",
+            "distractors": [
+              "sleepy",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 23,
+            "correctWord": "yellow",
+            "distractors": [
+              "green",
+              "purple"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "count",
+            "distractors": [
+              "sing",
+              "dance"
+            ]
+          },
+          {
+            "wordIndex": 28,
+            "correctWord": "shapes",
+            "distractors": [
+              "songs",
+              "stories"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

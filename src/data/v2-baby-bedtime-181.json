@@ -1,0 +1,140 @@
+{
+  "id": "v2-baby-bedtime-181",
+  "title": "Emma's Sleepy Stars",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "bedtime",
+    "family"
+  ],
+  "wordCount": 45,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Emma discovers magical sleepy stars that help her drift off to dreamland with her loving family by her side.",
+  "coverImage": "covers/v2-baby-bedtime-181.webp",
+  "chapters": [
+    {
+      "title": "Sleepy Stars",
+      "pages": [
+        {
+          "text": "Emma looks up at the sky. Pretty stars twinkle twinkle.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks standing by a window looking up at glowing stars in a dreamy purple and blue gradient sky with soft watercolor style and gentle moonlight",
+            "alt": "Emma looking at twinkling stars through a window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama says, 'Stars help you sleep.' Emma smiles big.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks sitting with her mama on a bed surrounded by floating clouds and ethereal atmosphere in soft watercolor pastels with dreamy purple and blue gradients",
+            "alt": "Emma and mama sitting together on a bed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Papa tucks Emma in bed. Soft blankie. Warm hugs.",
+          "illustration": {
+            "description": "Papa tucking Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks into bed with glowing stars floating above in soft watercolor style with dreamy purple and blue gradients and gentle moonlight creating an ethereal atmosphere",
+            "alt": "Papa tucking Emma into bed with stars above",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Emma closes her eyes. The sleepy stars sing soft songs.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks peacefully sleeping with round sleepy face surrounded by glowing stars and floating clouds in soft watercolor with dreamy purple and blue gradients and ethereal pastel atmosphere",
+            "alt": "Emma sleeping peacefully with stars around her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sweet dreams, Emma. Night night, little star.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks dreaming peacefully in bed with glowing stars creating patterns above her in soft watercolor style with dreamy purple and blue gradients, gentle moonlight, and ethereal pastel atmosphere",
+            "alt": "Emma dreaming with magical star patterns above",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "family love",
+      "comfort",
+      "stars",
+      "sleep"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Emma look at in the sky?",
+        "choices": [
+          "stars",
+          "birds"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emma looks up at the pretty twinkling stars in the sky."
+      },
+      {
+        "id": "q2",
+        "question": "Who helps tuck Emma into bed?",
+        "choices": [
+          "Papa",
+          "doggy"
+        ],
+        "correctIndex": 0,
+        "explanation": "Papa tucks Emma in bed with her soft blankie and warm hugs."
+      },
+      {
+        "id": "q3",
+        "question": "What do the sleepy stars do?",
+        "choices": [
+          "sing songs",
+          "jump around"
+        ],
+        "correctIndex": 0,
+        "explanation": "The sleepy stars sing soft songs to help Emma fall asleep."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "stars",
+            "distractors": [
+              "moon",
+              "sun"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "eyes",
+            "distractors": [
+              "hands",
+              "mouth"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

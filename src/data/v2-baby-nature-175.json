@@ -1,0 +1,131 @@
+{
+  "id": "v2-baby-nature-175",
+  "title": "Zuri's Peek-a-Boo Seasons",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "nature",
+    "peek-a-boo"
+  ],
+  "wordCount": 54,
+  "readingLevel": "Pre-K",
+  "synopsis": "Follow baby Zuri as she plays peek-a-boo with nature through the changing seasons, discovering flowers in spring, butterflies in summer, leaves in autumn, and snowflakes in winter.",
+  "coverImage": "covers/v2-baby-nature-175.webp",
+  "chapters": [
+    {
+      "title": "Peek-a-Boo Seasons",
+      "pages": [
+        {
+          "text": "Peek-a-boo, spring flowers! Zuri sees pretty pink flowers hiding behind green leaves.",
+          "illustration": {
+            "description": "A toddler girl with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes playing peek-a-boo behind pink cherry blossom branches in a spring garden with soft pastel colors",
+            "alt": "Zuri hiding behind spring flowers",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo, summer sun! Zuri finds bright yellow butterflies dancing in the warm sunshine.",
+          "illustration": {
+            "description": "A toddler girl with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes reaching toward colorful butterflies in a bright summer meadow with vibrant yellows and blues",
+            "alt": "Zuri playing with summer butterflies",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo, autumn leaves! Zuri hides behind big orange and red leaves falling from trees.",
+          "illustration": {
+            "description": "A toddler girl with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes peeking through a pile of warm-toned autumn leaves in oranges, reds, and golds",
+            "alt": "Zuri hiding in autumn leaves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo, winter snow! Zuri catches soft white snowflakes on her mittens. All seasons are fun!",
+          "illustration": {
+            "description": "A toddler girl with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes wearing winter clothes catching snowflakes in a peaceful winter scene with cool blues and whites",
+            "alt": "Zuri catching winter snowflakes",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "seasons",
+      "nature",
+      "discovery",
+      "play"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "seasonal cycle, spring pastels, summer brights, autumn warmth, winter cool, same scene different seasons, time passing, nature calendar, cyclical beauty"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Zuri find in spring?",
+        "choices": [
+          "flowers",
+          "snow"
+        ],
+        "correctIndex": 0,
+        "explanation": "In spring, Zuri finds pretty pink flowers hiding behind green leaves!"
+      },
+      {
+        "id": "q2",
+        "question": "What flies around Zuri in summer?",
+        "choices": [
+          "butterflies",
+          "leaves"
+        ],
+        "correctIndex": 0,
+        "explanation": "Bright yellow butterflies dance around Zuri in the warm summer sunshine!"
+      },
+      {
+        "id": "q3",
+        "question": "What falls in winter?",
+        "choices": [
+          "snowflakes",
+          "flowers"
+        ],
+        "correctIndex": 0,
+        "explanation": "Soft white snowflakes fall in winter, and Zuri catches them on her mittens!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "flowers",
+            "distractors": [
+              "snow",
+              "leaves"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "butterflies",
+            "distractors": [
+              "flowers",
+              "snowflakes"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

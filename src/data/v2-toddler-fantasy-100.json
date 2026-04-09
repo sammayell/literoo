@@ -1,0 +1,188 @@
+{
+  "id": "v2-toddler-fantasy-100",
+  "title": "Sofia and the Magic Garden Friends",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "fantasy",
+    "friendship"
+  ],
+  "wordCount": 172,
+  "readingLevel": "Pre-K",
+  "synopsis": "Sofia discovers a magical garden where she meets friendly creatures who need her help to restore their home's sparkle. Through kindness and friendship, Sofia learns that helping others brings the greatest magic of all.",
+  "coverImage": "covers/v2-toddler-fantasy-100.webp",
+  "chapters": [
+    {
+      "title": "The Secret Garden",
+      "pages": [
+        {
+          "text": "Sofia loved exploring her backyard. One sunny morning, she found a tiny door hidden behind the rosebush. The door was painted bright blue with golden stars.",
+          "illustration": {
+            "description": "Sofia, a girl with long wavy dark brown hair, warm olive skin, big dark brown eyes, kneels beside a tiny blue door with golden stars hidden behind a rosebush. The scene shows an enchanted forest setting with glowing mushrooms nearby, fairy lights twinkling in the foliage, rich greens and purples surrounding the magical door, golden sparkles dancing in the air, Studio Ghibli inspired artwork with mystical atmosphere and detailed foliage.",
+            "alt": "Sofia discovering a magical tiny door behind a rosebush",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When Sofia touched the door, it opened with a soft chime. Behind it was the most beautiful garden she had ever seen, filled with glowing flowers and singing birds.",
+          "illustration": {
+            "description": "Sofia, a girl with long wavy dark brown hair, warm olive skin, big dark brown eyes, peers through the tiny door into a magnificent magical garden. The enchanted forest scene shows glowing mushrooms of various sizes, fairy lights strung between trees, mystical creatures like butterflies and birds, rich greens and purples dominating the color palette, golden sparkles floating throughout, Studio Ghibli inspired magical atmosphere with incredibly detailed foliage and flowers that seem to glow with inner light.",
+            "alt": "Sofia looking into a magical garden through the tiny door",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Meeting New Friends",
+      "pages": [
+        {
+          "text": "In the garden, Sofia met Luna, a friendly purple bunny with silver whiskers. 'Our garden is losing its magic,' Luna said sadly. 'The flowers are dimming.'",
+          "illustration": {
+            "description": "Sofia, a girl with long wavy dark brown hair, warm olive skin, big dark brown eyes, sits cross-legged talking to Luna, a purple bunny with silver whiskers. The enchanted forest scene shows glowing mushrooms that appear slightly dimmer, fairy lights that flicker gently, mystical creatures watching from the shadows, rich greens and purples throughout the scene, golden sparkles scattered around but less abundant, Studio Ghibli inspired magical atmosphere with detailed foliage showing signs of fading magic.",
+            "alt": "Sofia meeting Luna the purple bunny in the dimming magical garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Next, Sofia met Pip, a tiny dragon with emerald scales. 'We need someone with a kind heart to help us,' Pip squeaked. Sofia smiled. 'I want to help!'",
+          "illustration": {
+            "description": "Sofia, a girl with long wavy dark brown hair, warm olive skin, big dark brown eyes, extends her hand toward Pip, a small dragon with shimmering emerald scales perched on a glowing mushroom. The enchanted forest setting shows fairy lights beginning to brighten, mystical creatures gathering hopefully, rich greens and purples filling the scene, golden sparkles starting to increase around Sofia, Studio Ghibli inspired magical atmosphere with detailed foliage showing the first signs of renewed magic.",
+            "alt": "Sofia meeting Pip the tiny emerald dragon",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sharing Makes Magic",
+      "pages": [
+        {
+          "text": "Sofia shared her snacks with the hungry garden creatures. She sang lullabies to the sleepy flowers. She gave gentle hugs to anyone who needed one.",
+          "illustration": {
+            "description": "Sofia, a girl with long wavy dark brown hair, warm olive skin, big dark brown eyes, sits in a circle with various mystical creatures sharing crackers and fruit. The enchanted forest scene shows glowing mushrooms growing brighter, fairy lights twinkling more vibrantly, friendly mystical creatures including Luna the purple bunny and Pip the emerald dragon, rich greens and purples intensifying, golden sparkles increasing dramatically, Studio Ghibli inspired magical atmosphere with detailed foliage that appears more lush and vibrant.",
+            "alt": "Sofia sharing food and kindness with the magical garden creatures",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "As Sofia shared her kindness, the garden began to sparkle again! The flowers glowed brighter, and new rainbow butterflies appeared. 'Thank you, Sofia!' cheered her new friends. 'You brought back our magic!' Sofia promised to visit every day.",
+          "illustration": {
+            "description": "Sofia, a girl with long wavy dark brown hair, warm olive skin, big dark brown eyes, stands in the center of a fully restored magical garden with her arms outstretched in joy. The enchanted forest scene shows brilliantly glowing mushrooms, fairy lights sparkling like stars, mystical creatures including Luna and Pip celebrating around her, rainbow butterflies dancing in the air, rich greens and purples at their most vibrant, golden sparkles filling the entire scene like magical snow, Studio Ghibli inspired magical atmosphere with incredibly detailed foliage that pulses with renewed life and magic.",
+            "alt": "Sofia celebrating with her friends in the fully restored magical garden",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "kindness",
+      "helping others",
+      "friendship",
+      "magic through caring",
+      "sharing"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color was the tiny door Sofia found?",
+        "choices": [
+          "Blue with golden stars",
+          "Red with silver dots",
+          "Green with white flowers"
+        ],
+        "correctIndex": 0,
+        "explanation": "The tiny door was painted bright blue with golden stars!"
+      },
+      {
+        "id": "q2",
+        "question": "What was Luna?",
+        "choices": [
+          "A purple bunny",
+          "A yellow bird",
+          "A green frog"
+        ],
+        "correctIndex": 0,
+        "explanation": "Luna was a friendly purple bunny with silver whiskers."
+      },
+      {
+        "id": "q3",
+        "question": "How did Sofia help the garden?",
+        "choices": [
+          "By sharing and being kind",
+          "By watering the plants",
+          "By singing loud songs"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sofia helped by sharing her snacks, giving hugs, and showing kindness to everyone."
+      },
+      {
+        "id": "q4",
+        "question": "What happened when Sofia was kind?",
+        "choices": [
+          "The garden became magical again",
+          "It started to rain",
+          "The door closed"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sofia's kindness brought back the garden's magic and made the flowers glow bright again!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "door",
+            "distractors": [
+              "window",
+              "box"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "stars",
+            "distractors": [
+              "circles",
+              "hearts"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "purple",
+            "distractors": [
+              "orange",
+              "yellow"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "magic",
+            "distractors": [
+              "color",
+              "music"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

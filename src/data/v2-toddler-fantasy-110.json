@@ -1,0 +1,196 @@
+{
+  "id": "v2-toddler-fantasy-110",
+  "title": "Jasper and the Magic Forest Friends",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "fantasy",
+    "friendship"
+  ],
+  "wordCount": 189,
+  "readingLevel": "Pre-K",
+  "synopsis": "A young boy named Jasper discovers a magical forest where he befriends glowing creatures and learns about the power of kindness and friendship.",
+  "coverImage": "covers/v2-toddler-fantasy-110.webp",
+  "chapters": [
+    {
+      "title": "Into the Magic Forest",
+      "pages": [
+        {
+          "text": "Jasper loved to explore. One sunny day, he found a path covered in sparkly leaves. The path led to a magical forest filled with glowing mushrooms and twinkling lights.",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes standing at the entrance of an enchanted forest with glowing purple and blue mushrooms, fairy lights dancing between tall trees, golden sparkles floating in the air, rich green foliage surrounding a mystical pathway",
+            "alt": "Jasper discovering a magical forest entrance",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "As Jasper walked deeper into the forest, he heard soft giggles. Tiny fairy creatures with butterfly wings peeked out from behind the glowing mushrooms.",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes walking through the enchanted forest while small fairy creatures with iridescent wings hide behind large glowing mushrooms, magical golden sparkles swirling around, detailed foliage in rich greens and purples creating a mystical atmosphere",
+            "alt": "Jasper meeting fairy creatures in the magical forest",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Making New Friends",
+      "pages": [
+        {
+          "text": "\"Hello!\" said Jasper with a big smile. The fairy creatures came out to meet him. There was Luna with silver wings, and Pip with golden wings. They sparkled like stars!",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes smiling and waving to two fairy creatures - Luna with silver wings and Pip with golden wings - in an enchanted forest setting with glowing mushrooms, fairy lights twinkling overhead, and golden sparkles creating a magical atmosphere",
+            "alt": "Jasper greeting Luna and Pip the fairy creatures",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"We've been waiting for a friend like you!\" said Luna. \"Would you like to play with us?\" Jasper clapped his hands with joy. \"Yes, please!\"",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes clapping his hands excitedly while Luna and Pip the fairy creatures dance around him in circles, surrounded by an enchanted forest with rich green and purple foliage, glowing mushrooms, and magical golden sparkles floating through the air",
+            "alt": "Jasper agreeing to play with his new fairy friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "A Magical Adventure",
+      "pages": [
+        {
+          "text": "The fairy friends showed Jasper how to make flowers glow by being kind to them. They danced around mushroom circles and sang happy songs together.",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes gently touching glowing flowers while Luna and Pip flutter nearby, surrounded by a magical circle of luminous mushrooms in an enchanted forest with fairy lights, rich purple and green foliage, and golden sparkles creating a mystical Studio Ghibli inspired atmosphere",
+            "alt": "Jasper learning to make flowers glow with his fairy friends",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "As the sun began to set, Jasper knew it was time to go home. \"Will I see you again?\" he asked. \"Always!\" said his friends. \"True friends are forever.\"",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes waving goodbye to Luna and Pip at the forest entrance during sunset, with golden light filtering through the enchanted forest, glowing mushrooms creating a warm farewell scene, fairy lights twinkling like stars, and detailed magical foliage in the background",
+            "alt": "Jasper saying goodbye to his fairy friends at sunset",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Jasper walked home with a happy heart, knowing he had found the most wonderful friends in the magical forest. He couldn't wait to visit them again tomorrow!",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes walking happily away from the enchanted forest, looking back with a big smile, while the magical forest glows softly behind him with mushrooms, fairy lights, and golden sparkles visible through the rich green foliage, creating a heartwarming conclusion scene",
+            "alt": "Jasper walking home happily after his magical adventure",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "kindness",
+      "magic",
+      "adventure",
+      "acceptance"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Jasper find in the forest?",
+        "choices": [
+          "Glowing mushrooms",
+          "Big rocks",
+          "Tall buildings"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jasper found glowing mushrooms and fairy lights in the magical forest."
+      },
+      {
+        "id": "q2",
+        "question": "What are the names of Jasper's fairy friends?",
+        "choices": [
+          "Luna and Pip",
+          "Star and Moon",
+          "Sunny and Cloudy"
+        ],
+        "correctIndex": 0,
+        "explanation": "The two fairy creatures are named Luna, who has silver wings, and Pip, who has golden wings."
+      },
+      {
+        "id": "q3",
+        "question": "How did Jasper make the flowers glow?",
+        "choices": [
+          "By being kind to them",
+          "By singing loudly",
+          "By jumping up and down"
+        ],
+        "correctIndex": 0,
+        "explanation": "The fairy friends taught Jasper that being kind to the flowers made them glow."
+      },
+      {
+        "id": "q4",
+        "question": "What did the fairy friends say about friendship?",
+        "choices": [
+          "True friends are forever",
+          "Friends are scary",
+          "Friends are boring"
+        ],
+        "correctIndex": 0,
+        "explanation": "Luna and Pip told Jasper that true friends are forever when he asked if he would see them again."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "sparkly",
+            "distractors": [
+              "muddy",
+              "broken"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "magical",
+            "distractors": [
+              "scary",
+              "empty"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "smile",
+            "distractors": [
+              "frown",
+              "sneeze"
+            ]
+          },
+          {
+            "wordIndex": 20,
+            "correctWord": "stars",
+            "distractors": [
+              "rocks",
+              "clouds"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

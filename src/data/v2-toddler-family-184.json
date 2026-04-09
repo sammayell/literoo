@@ -1,0 +1,164 @@
+{
+  "id": "v2-toddler-family-184",
+  "title": "Oscar's Pancake Adventure",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "family",
+    "humor"
+  ],
+  "wordCount": 229,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Oscar tries to help make pancakes for breakfast but creates a delightfully messy kitchen adventure that brings the whole family together for cooking fun.",
+  "coverImage": "covers/v2-toddler-family-184.webp",
+  "chapters": [
+    {
+      "title": "Morning Hungry Tummy",
+      "pages": [
+        {
+          "text": "Oscar woke up with a grumbly, rumbly tummy. 'I want pancakes!' he said, jumping out of bed. He ran to the kitchen where Mama was making coffee. 'Pancakes, please!' Oscar said, tugging on Mama's pajamas. Mama smiled. 'Let's make them together, little chef!' She tied a big apron around Oscar's waist. It dragged on the floor like a silly dress. Oscar giggled and waddled like a penguin.",
+          "illustration": {
+            "description": "A cozy kitchen with warm yellow morning light streaming through windows. Oscar with short brown wavy hair, fair skin, warm hazel eyes stands beside his mama, wearing an oversized apron that pools around his feet. The kitchen has warm orange tones, wooden cabinets, and a coffee pot steaming on the counter.",
+            "alt": "Oscar in a big apron standing next to his mother in a sunny kitchen",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Great Flour Explosion",
+      "pages": [
+        {
+          "text": "Mama got out the big mixing bowl. 'First, we need flour,' she said. Oscar climbed on his step stool and grabbed the flour bag. But it was heavy! POOF! Flour went everywhere - on Oscar's nose, in his hair, all over the counter. 'I look like a ghost!' Oscar said, making spooky sounds. 'Whooooo wants pancakes?' Mama laughed so hard she snorted. Now they both looked like flour ghosts dancing in the kitchen.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes covered in white flour, standing on a step stool in the cozy kitchen. Flour clouds fill the air with warm orange and yellow lighting. His mother is also dusted with flour, both laughing. The kitchen counter is covered in flour with mixing bowls and ingredients scattered about.",
+            "alt": "Oscar and his mother covered in flour in a messy but cheerful kitchen",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Perfect Pancake Family",
+      "pages": [
+        {
+          "text": "Papa heard the giggles and came to help. Soon they were all mixing batter together. Oscar cracked eggs (mostly in the bowl!). Papa flipped pancakes high in the air. Mama made funny shapes - a heart, a star, and one that looked like their cat. They sat at the dining table with a big stack of golden pancakes. 'These are the best pancakes ever!' Oscar said with syrup on his chin. 'Because we made them together!' said Mama and Papa. The kitchen was messy, but their hearts were full.",
+          "illustration": {
+            "description": "The family gathered around their dining table in the warm kitchen with golden pancakes stacked high. Oscar with short brown wavy hair, fair skin, warm hazel eyes sits between his parents, syrup on his chin, all wearing aprons. The kitchen glows with warm yellows and oranges, steam rising from the pancakes, flour still dusting the counters, creating a scene of everyday love and togetherness.",
+            "alt": "Oscar and his family enjoying pancakes together at their kitchen table",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "cooking together",
+      "making memories",
+      "helping in the kitchen",
+      "laughter and joy"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Oscar want for breakfast?",
+        "choices": [
+          "pancakes",
+          "cereal",
+          "toast"
+        ],
+        "correctIndex": 0,
+        "explanation": "Oscar woke up with a grumbly tummy and asked for pancakes!"
+      },
+      {
+        "id": "q2",
+        "question": "What happened when Oscar grabbed the flour bag?",
+        "choices": [
+          "it spilled everywhere",
+          "he dropped it",
+          "nothing happened"
+        ],
+        "correctIndex": 0,
+        "explanation": "The flour bag was heavy and went POOF, covering Oscar and the kitchen in flour!"
+      },
+      {
+        "id": "q3",
+        "question": "Who came to help make pancakes?",
+        "choices": [
+          "Papa",
+          "the neighbor",
+          "grandma"
+        ],
+        "correctIndex": 0,
+        "explanation": "Papa heard the giggles and came to help the family make pancakes together!"
+      },
+      {
+        "id": "q4",
+        "question": "Why were the pancakes the best ever?",
+        "choices": [
+          "because they made them together",
+          "because they were big",
+          "because they were sweet"
+        ],
+        "correctIndex": 0,
+        "explanation": "The family agreed the pancakes were best because they made them together as a family!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "pancakes",
+            "distractors": [
+              "cookies",
+              "waffles"
+            ]
+          },
+          {
+            "wordIndex": 25,
+            "correctWord": "apron",
+            "distractors": [
+              "shirt",
+              "coat"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "flour",
+            "distractors": [
+              "sugar",
+              "salt"
+            ]
+          },
+          {
+            "wordIndex": 35,
+            "correctWord": "ghost",
+            "distractors": [
+              "snowman",
+              "cloud"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

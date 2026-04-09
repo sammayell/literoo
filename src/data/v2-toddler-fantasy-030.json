@@ -1,0 +1,183 @@
+{
+  "id": "v2-toddler-fantasy-030",
+  "title": "Jasper and the Glowing Grove",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "fantasy",
+    "friendship"
+  ],
+  "wordCount": 125,
+  "readingLevel": "Pre-K",
+  "synopsis": "Young Jasper discovers a magical forest grove where he befriends Luna, a gentle fairy who teaches him about the wonder of glowing mushrooms and the importance of friendship in magical places.",
+  "coverImage": "covers/v2-toddler-fantasy-030.webp",
+  "chapters": [
+    {
+      "title": "The Magic Grove",
+      "pages": [
+        {
+          "text": "Jasper loved to explore. One sunny day, he found a sparkly path behind his house. The path glowed with tiny lights!",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes standing at the entrance of an enchanted forest path lined with golden fairy lights and glowing mushrooms, rich greens and purples surrounding the magical pathway, Studio Ghibli inspired mystical atmosphere with detailed foliage",
+            "alt": "Jasper discovering a magical glowing forest path",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Jasper followed the glowing path deeper into the forest. Soon he saw the most beautiful sight - mushrooms that sparkled like stars!",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes walking through an enchanted forest grove filled with large glowing mushrooms in rich greens and purples, golden sparkles floating in the air, mystical creatures peeking from behind detailed foliage, magical atmosphere with fairy lights",
+            "alt": "Jasper walking through a grove of glowing mushrooms",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Hello!\" said a tiny voice. A little fairy flew down from a glowing mushroom. \"I'm Luna! Welcome to our magic grove!\"",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes meeting Luna, a small glowing fairy with delicate wings, surrounded by enchanted forest with glowing mushrooms, fairy lights, rich greens and purples, golden sparkles, Studio Ghibli inspired magical atmosphere with detailed foliage and mystical creatures",
+            "alt": "Jasper meeting Luna the fairy in the magical grove",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "New Friends",
+      "pages": [
+        {
+          "text": "Luna showed Jasper how the mushrooms made music when touched. \"Ting! Ting! Ting!\" they chimed together. Jasper giggled with joy.",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes and Luna the fairy touching glowing mushrooms that emit musical notes and golden sparkles, enchanted forest setting with rich greens and purples, fairy lights twinkling, mystical creatures watching, Studio Ghibli inspired magical atmosphere with detailed foliage",
+            "alt": "Jasper and Luna making music with magical mushrooms",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Will you be my friend?\" asked Jasper. \"Always!\" said Luna. \"The grove is more magical when friends are here together.\"",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes and Luna the fairy holding hands in the center of the enchanted forest grove, surrounded by glowing mushrooms, fairy lights, rich greens and purples, golden sparkles swirling around them, mystical creatures celebrating, Studio Ghibli inspired magical atmosphere with detailed foliage",
+            "alt": "Jasper and Luna becoming friends in the magical grove",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "From that day on, Jasper visited Luna every afternoon. They played music, danced with fireflies, and shared the magic of friendship.",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes dancing with Luna the fairy among glowing fireflies and mystical creatures in the enchanted forest grove, glowing mushrooms all around, fairy lights, rich greens and purples, golden sparkles, Studio Ghibli inspired magical atmosphere with detailed foliage",
+            "alt": "Jasper and Luna dancing together with fireflies in the magical grove",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "exploration",
+      "magic",
+      "wonder",
+      "nature"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Jasper find behind his house?",
+        "choices": [
+          "a sparkly path",
+          "a big rock",
+          "a red flower"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jasper found a sparkly path that glowed with tiny lights behind his house."
+      },
+      {
+        "id": "q2",
+        "question": "What is the fairy's name?",
+        "choices": [
+          "Luna",
+          "Star",
+          "Glow"
+        ],
+        "correctIndex": 0,
+        "explanation": "The little fairy introduced herself as Luna when she met Jasper."
+      },
+      {
+        "id": "q3",
+        "question": "What sound did the mushrooms make?",
+        "choices": [
+          "Ting! Ting! Ting!",
+          "Buzz! Buzz! Buzz!",
+          "Pop! Pop! Pop!"
+        ],
+        "correctIndex": 0,
+        "explanation": "The magical mushrooms made a 'Ting! Ting! Ting!' sound when touched."
+      },
+      {
+        "id": "q4",
+        "question": "When does Jasper visit Luna?",
+        "choices": [
+          "every afternoon",
+          "every morning",
+          "every night"
+        ],
+        "correctIndex": 0,
+        "explanation": "The story says Jasper visited Luna every afternoon to play and share magic together."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "sparkly",
+            "distractors": [
+              "muddy",
+              "scary"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "lights",
+            "distractors": [
+              "rocks",
+              "leaves"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "music",
+            "distractors": [
+              "noise",
+              "thunder"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "giggled",
+            "distractors": [
+              "cried",
+              "yelled"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

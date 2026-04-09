@@ -1,0 +1,152 @@
+{
+  "id": "v2-baby-bedtime-071",
+  "title": "Zara's Sleepy Stars",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "bedtime",
+    "family"
+  ],
+  "wordCount": 57,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Zara gets ready for bed with help from her loving family, discovering the magic of nighttime as stars twinkle and dreams begin to bloom in this gentle bedtime story.",
+  "coverImage": "covers/v2-baby-bedtime-071.webp",
+  "chapters": [
+    {
+      "title": "Time for Sleep",
+      "pages": [
+        {
+          "text": "Zara yawns. The sun goes away. Night time comes to play.",
+          "illustration": {
+            "description": "A sleepy toddler with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes, yawning as the sun sets behind fluffy clouds in soft watercolor style with dreamy purple and blue gradients",
+            "alt": "Zara yawning at sunset",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama helps Zara brush her teeth. Brush, brush, brush. All clean!",
+          "illustration": {
+            "description": "A loving mother helping a toddler with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes brush her teeth in a bathroom with gentle moonlight streaming through the window, soft watercolor with pastel palette",
+            "alt": "Mama helping Zara brush teeth",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Papa reads a story. Zara listens. The book has pretty pictures.",
+          "illustration": {
+            "description": "A father reading to a toddler with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes, both sitting on a cozy chair surrounded by floating clouds and glowing stars in soft watercolor with dreamy purple and blue gradients",
+            "alt": "Papa reading to Zara",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Look up! Stars twinkle in the sky. They say goodnight to Zara.",
+          "illustration": {
+            "description": "A toddler with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes looking up at a starry night sky through a window, with glowing stars and gentle moonlight creating an ethereal atmosphere in soft watercolor",
+            "alt": "Zara looking at twinkling stars",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Zara snuggles in bed. Blanket is warm. Eyes close. Dream sweet dreams.",
+          "illustration": {
+            "description": "A peaceful toddler with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes sleeping in bed with round sleepy face, surrounded by floating clouds and glowing stars in soft watercolor with dreamy purple and blue gradients and ethereal atmosphere",
+            "alt": "Zara sleeping peacefully",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "family love",
+      "nighttime comfort",
+      "stars and dreams"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Zara do with Mama?",
+        "choices": [
+          "brush teeth",
+          "eat dinner"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama helps Zara brush her teeth to get ready for bed."
+      },
+      {
+        "id": "q2",
+        "question": "What does Papa do with Zara?",
+        "choices": [
+          "reads a story",
+          "sings a song"
+        ],
+        "correctIndex": 0,
+        "explanation": "Papa reads Zara a bedtime story with pretty pictures."
+      },
+      {
+        "id": "q3",
+        "question": "What twinkles in the sky?",
+        "choices": [
+          "stars",
+          "clouds"
+        ],
+        "correctIndex": 0,
+        "explanation": "The stars twinkle in the sky and say goodnight to Zara."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "teeth",
+            "distractors": [
+              "hands",
+              "hair"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "story",
+            "distractors": [
+              "song",
+              "game"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "Stars",
+            "distractors": [
+              "Clouds",
+              "Birds"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

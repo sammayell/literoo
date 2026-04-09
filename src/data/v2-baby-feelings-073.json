@@ -1,0 +1,149 @@
+{
+  "id": "v2-baby-feelings-073",
+  "title": "Nia's Colorful Feelings",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "feelings",
+    "colors"
+  ],
+  "wordCount": 50,
+  "readingLevel": "pre-reader",
+  "synopsis": "Little Nia discovers how her feelings have different colors as she experiences happiness, sadness, and anger throughout her day.",
+  "coverImage": "covers/v2-baby-feelings-073.webp",
+  "chapters": [
+    {
+      "title": "Nia's Colorful Day",
+      "pages": [
+        {
+          "text": "This is Nia. She feels happy! Happy is bright yellow like sunshine.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes stands in bright yellow sunshine swirls, abstract happy emotion background with golden rays and cheerful yellow clouds",
+            "alt": "Happy girl surrounded by yellow sunshine colors",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Now Nia feels sad. Sad is blue like rain drops falling down.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes surrounded by sad blue rain drops and blue swirls, abstract melancholy emotion background with gentle blue tears",
+            "alt": "Sad girl with blue rain around her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Nia feels angry! Angry is red like fire swirling all around.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes surrounded by angry red swirls and flame-like patterns, abstract anger emotion background with red zigzags",
+            "alt": "Angry girl with red swirls around her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "All feelings are okay. Yellow happy, blue sad, red angry. Nia loves her colorful feelings!",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes standing peacefully among swirling yellow, blue, and red emotion colors blending harmoniously in abstract rainbow emotion background",
+            "alt": "Girl surrounded by all feeling colors together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotions",
+      "color recognition",
+      "self-awareness",
+      "emotional acceptance"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "emotion mapped colors, angry red swirls, sad blue rain, happy yellow sunshine, abstract emotion backgrounds, Inside Out inspired, feeling visualization, color psychology"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color is happy?",
+        "choices": [
+          "yellow",
+          "blue",
+          "red"
+        ],
+        "correctIndex": 0,
+        "explanation": "Happy feelings are bright yellow like sunshine!"
+      },
+      {
+        "id": "q2",
+        "question": "What color is sad?",
+        "choices": [
+          "red",
+          "blue",
+          "yellow"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sad feelings are blue like rain drops."
+      },
+      {
+        "id": "q3",
+        "question": "Are all feelings okay?",
+        "choices": [
+          "yes",
+          "no"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yes! All feelings are okay to have."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "happy",
+            "distractors": [
+              "sad",
+              "angry"
+            ]
+          },
+          {
+            "wordIndex": 6,
+            "correctWord": "yellow",
+            "distractors": [
+              "blue",
+              "red"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "sad",
+            "distractors": [
+              "happy",
+              "angry"
+            ]
+          },
+          {
+            "wordIndex": 6,
+            "correctWord": "blue",
+            "distractors": [
+              "yellow",
+              "red"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

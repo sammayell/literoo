@@ -1,0 +1,201 @@
+{
+  "id": "v2-early_reader-friendship-135",
+  "title": "Zuri's Playground Friends",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "friendship",
+    "family"
+  ],
+  "wordCount": 321,
+  "readingLevel": "Pre-K to Grade 1",
+  "synopsis": "Zuri feels nervous about making friends at the new playground, but with encouragement from her grandmother and help from kind children, she discovers that friendship can bloom when you're brave enough to say hello.",
+  "coverImage": "covers/v2-early_reader-friendship-135.webp",
+  "chapters": [
+    {
+      "title": "A New Playground",
+      "pages": [
+        {
+          "text": "Zuri held her grandmother's hand tight. They walked to the big playground near their new home. 'Look at all the swings and slides!' said Grandma. But Zuri only saw all the kids she didn't know. Her tummy felt funny. What if no one wanted to play with her?",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, holding hands with her grandmother as they approach a colorful playground with swings, slides, and diverse children playing in the background under bright sunshine",
+            "alt": "Zuri and her grandmother approaching a busy playground",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Watching from Far Away",
+      "pages": [
+        {
+          "text": "Zuri sat on a bench with Grandma. She watched three kids go down the big slide together. They laughed and ran back up. She watched two girls push each other on the swings. 'They look like they're having fun,' Zuri whispered. 'They do,' said Grandma. 'Would you like to join them?' Zuri shook her head. Not yet.",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, sitting on a park bench with her grandmother, watching diverse children playing happily on swings and slides in bright primary colors with lots of white space",
+            "alt": "Zuri and grandmother watching children play from a bench",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "A Small Step",
+      "pages": [
+        {
+          "text": "After a while, Zuri walked closer to the sandbox. A boy with curly red hair was building a castle. A girl with braids was making a road. They looked friendly. Zuri wanted to help, but her feet felt stuck. The boy looked up and smiled. 'Hi! Do you want to build with us?' Zuri's heart beat fast. She took a deep breath. 'Yes, please,' she said softly.",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, standing near a sandbox where a boy with curly red hair and a girl with braids are building sand structures, bright sunny playground setting with primary colors",
+            "alt": "Zuri meeting two children at the sandbox",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Building Together",
+      "pages": [
+        {
+          "text": "The boy was named Max. The girl was named Sofia. They showed Zuri how to pack the sand tight for strong walls. Zuri made a bridge between Max's castle and Sofia's road. 'Wow! That's perfect!' said Sofia. 'Now the cars can drive to the castle!' said Max. Zuri smiled big. Building together was even more fun than building alone.",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, happily building sand structures with Max and Sofia in the sandbox, all three children laughing and working together in the bright sunny playground with primary colors",
+            "alt": "Three children building sand structures together happily",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "New Friends",
+      "pages": [
+        {
+          "text": "Soon, Max, Sofia, and Zuri were running to the swings together. They took turns pushing each other high into the blue sky. Then they went down the slide in a train - Max first, then Sofia, then Zuri. When Grandma called that it was time to go, Zuri felt sad. 'Can we play again tomorrow?' asked Sofia. 'Yes!' said Zuri. 'We're friends now!' As they walked home, Grandma squeezed Zuri's hand. 'I'm proud of you for being brave,' she said. Zuri squeezed back. She couldn't wait to come back tomorrow.",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, playing joyfully on swings and slides with Max and Sofia, all three children laughing together in the bright sunny playground with primary colors, showing friendship activities and inclusive play",
+            "alt": "Three friends playing together on playground equipment",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "making new friends",
+      "overcoming shyness",
+      "family support",
+      "playground fun",
+      "kindness"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Zuri feel when she first saw the playground?",
+        "choices": [
+          "nervous and shy",
+          "excited and happy",
+          "angry and upset"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zuri felt nervous because she didn't know any of the children at the playground and wondered if they would want to play with her."
+      },
+      {
+        "id": "q2",
+        "question": "What were Max and Sofia doing when Zuri first saw them?",
+        "choices": [
+          "swinging on swings",
+          "building in the sandbox",
+          "going down the slide"
+        ],
+        "correctIndex": 1,
+        "explanation": "Max was building a castle and Sofia was making a road in the sandbox when Zuri first approached them."
+      },
+      {
+        "id": "q3",
+        "question": "What did Zuri build to connect Max's castle and Sofia's road?",
+        "choices": [
+          "a bridge",
+          "a tower",
+          "a tunnel"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zuri made a bridge between Max's castle and Sofia's road so the cars could drive to the castle."
+      },
+      {
+        "id": "q4",
+        "question": "Who went first when they made a train down the slide?",
+        "choices": [
+          "Max",
+          "Sofia",
+          "Zuri"
+        ],
+        "correctIndex": 0,
+        "explanation": "When they went down the slide in a train, Max went first, then Sofia, then Zuri."
+      },
+      {
+        "id": "q5",
+        "question": "What did Grandma tell Zuri she was proud of?",
+        "choices": [
+          "being brave",
+          "being fast",
+          "being tall"
+        ],
+        "correctIndex": 0,
+        "explanation": "Grandma told Zuri she was proud of her for being brave enough to make new friends at the playground."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "playground",
+            "distractors": [
+              "school",
+              "store"
+            ]
+          },
+          {
+            "wordIndex": 25,
+            "correctWord": "swings",
+            "distractors": [
+              "books",
+              "cars"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "sandbox",
+            "distractors": [
+              "kitchen",
+              "bedroom"
+            ]
+          },
+          {
+            "wordIndex": 32,
+            "correctWord": "smiled",
+            "distractors": [
+              "cried",
+              "ran"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

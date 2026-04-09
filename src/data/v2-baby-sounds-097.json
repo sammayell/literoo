@@ -1,0 +1,155 @@
+{
+  "id": "v2-baby-sounds-097",
+  "title": "Amara's Sound Counting",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "sounds",
+    "counting"
+  ],
+  "wordCount": 67,
+  "readingLevel": "Pre-K",
+  "synopsis": "Baby Amara discovers different sounds around her home while learning to count from one to five, experiencing each sound as beautiful visible patterns.",
+  "coverImage": "covers/v2-baby-sounds-097.webp",
+  "chapters": [
+    {
+      "title": "Amara's Sound Counting",
+      "pages": [
+        {
+          "text": "This is Amara. She loves sounds! Let's count sounds with Amara.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes sits on a colorful rug, surrounded by gentle swirling patterns of soft rainbow colors representing the sounds around her",
+            "alt": "Amara sitting with visible sound patterns around her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "ONE bell goes DING! Pretty sound, Amara!",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes reaches toward a golden bell, with a single bright yellow circular wave emanating from it, showing the ding sound as golden ripples",
+            "alt": "Amara with one bell showing golden sound waves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "TWO drums go BOOM BOOM! Loud sounds, Amara!",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes sits between two red drums, with thick orange and red wavy lines bouncing from each drum, showing the boom sounds as bold vibrating patterns",
+            "alt": "Amara with two drums showing orange and red sound vibrations",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "THREE birds go TWEET TWEET TWEET! Happy sounds, Amara!",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes looks up at three blue birds in a tree, with delicate light blue dots and small wavy lines floating down from each bird, showing tweet sounds as gentle blue sparkles",
+            "alt": "Amara with three birds showing blue dotted sound patterns",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "FOUR cars go BEEP BEEP BEEP BEEP! Busy sounds, Amara!",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes stands by a window watching four colorful cars, with sharp yellow zigzag lines coming from each car, showing beep sounds as jagged electric patterns",
+            "alt": "Amara with four cars showing yellow zigzag sound lines",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "FIVE friends go CLAP CLAP CLAP CLAP CLAP! Fun sounds, Amara!",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes claps with four other children, with bright white and silver starburst patterns around each pair of hands, showing clap sounds as sparkling bursts",
+            "alt": "Amara with four friends showing white starburst clapping sounds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Amara counted sounds! One, two, three, four, five! Good job, Amara!",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes smiles big with all the sound patterns around her - golden bell circles, red drum waves, blue bird dots, yellow car zigzags, and white clap starbursts creating a beautiful rainbow of visible sounds",
+            "alt": "Amara surrounded by all five different colorful sound patterns",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "counting",
+      "sounds",
+      "sensory exploration",
+      "music"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "sound made visible, wavy lines for music, jagged lines for crashes, dots for whispers, synesthesia inspired, seeing sound, color and shape for noise, vibration visual"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How many bells did Amara hear?",
+        "choices": [
+          "One",
+          "Two"
+        ],
+        "correctIndex": 0,
+        "explanation": "Amara heard ONE bell that went DING!"
+      },
+      {
+        "id": "q2",
+        "question": "What sound do the birds make?",
+        "choices": [
+          "TWEET",
+          "BOOM"
+        ],
+        "correctIndex": 0,
+        "explanation": "The birds go TWEET TWEET TWEET!"
+      },
+      {
+        "id": "q3",
+        "question": "How many friends clap with Amara?",
+        "choices": [
+          "Four",
+          "Three"
+        ],
+        "correctIndex": 0,
+        "explanation": "Four friends clap with Amara to make five clapping sounds total!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "DING",
+            "distractors": [
+              "BOOM",
+              "TWEET"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "TWEET",
+            "distractors": [
+              "BEEP",
+              "CLAP"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

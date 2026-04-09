@@ -1,0 +1,134 @@
+{
+  "id": "v2-baby-feelings-173",
+  "title": "Nia's Rainbow Feelings",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "feelings",
+    "colors"
+  ],
+  "wordCount": 65,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Nia discovers how different feelings come with different colors as she experiences happy yellow sunshine, sad blue rain, and angry red swirls throughout her day.",
+  "coverImage": "covers/v2-baby-feelings-173.webp",
+  "chapters": [
+    {
+      "title": "Nia's Colorful Day",
+      "pages": [
+        {
+          "text": "This is Nia. Nia has many feelings. When Nia is happy, she sees bright yellow sunshine everywhere!",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes, smiling widely surrounded by bright yellow sunshine rays and golden light swirls in an abstract background of joy",
+            "alt": "Happy Nia surrounded by bright yellow sunshine representing joy",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When Nia feels sad, everything looks blue. Blue like the rain that falls from cloudy skies.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes, looking downward with a gentle frown as soft blue raindrops fall around her against a melancholy blue abstract background",
+            "alt": "Sad Nia with blue rain representing sadness",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sometimes Nia gets angry. Then she sees red swirls spinning round and round like a storm.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes, with crossed arms and pursed lips surrounded by dramatic red swirls and angry abstract patterns in crimson and scarlet",
+            "alt": "Angry Nia with red swirls representing anger",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "All feelings are okay. Yellow happy, blue sad, red angry. Nia's feelings make a beautiful rainbow!",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes, standing peacefully with arms open wide as yellow sunshine, blue rain, and red swirls blend together forming a colorful rainbow behind her in an abstract emotion landscape",
+            "alt": "Nia embracing all her colorful feelings forming a rainbow",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotional awareness",
+      "color recognition",
+      "self-acceptance",
+      "feelings validation"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "emotion mapped colors, angry red swirls, sad blue rain, happy yellow sunshine, abstract emotion backgrounds, Inside Out inspired, feeling visualization, color psychology"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color does Nia see when she's happy?",
+        "choices": [
+          "Yellow",
+          "Blue",
+          "Red"
+        ],
+        "correctIndex": 0,
+        "explanation": "When Nia is happy, she sees bright yellow sunshine!"
+      },
+      {
+        "id": "q2",
+        "question": "What does Nia see when she feels sad?",
+        "choices": [
+          "Blue rain",
+          "Red swirls",
+          "Yellow sun"
+        ],
+        "correctIndex": 0,
+        "explanation": "When Nia feels sad, she sees blue rain falling from cloudy skies."
+      },
+      {
+        "id": "q3",
+        "question": "What do all of Nia's feelings make together?",
+        "choices": [
+          "A rainbow",
+          "A storm",
+          "A cloud"
+        ],
+        "correctIndex": 0,
+        "explanation": "All of Nia's colorful feelings come together to make a beautiful rainbow!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "yellow",
+            "distractors": [
+              "purple",
+              "green"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "blue",
+            "distractors": [
+              "orange",
+              "pink"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

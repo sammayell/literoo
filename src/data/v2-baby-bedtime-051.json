@@ -1,0 +1,147 @@
+{
+  "id": "v2-baby-bedtime-051",
+  "title": "Zara's Sleepy Stars",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "bedtime",
+    "family"
+  ],
+  "wordCount": 44,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Zara gets ready for bed with Mama's help, saying goodnight to the twinkling stars before drifting off to peaceful sleep.",
+  "coverImage": "covers/v2-baby-bedtime-051.webp",
+  "chapters": [
+    {
+      "title": "Time for Sleep",
+      "pages": [
+        {
+          "text": "Zara yawns big. Time for bed!",
+          "illustration": {
+            "description": "A sleepy toddler girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes yawning in soft watercolor style with dreamy purple and blue gradients, floating clouds, and gentle moonlight streaming through a window",
+            "alt": "Zara yawning sleepily in her bedroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama helps Zara put on soft pajamas.",
+          "illustration": {
+            "description": "A loving mother helping a little girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes put on purple pajamas, painted in soft watercolor with dreamy purple and blue gradients and ethereal atmosphere",
+            "alt": "Mama helping Zara get dressed for bed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Zara looks out the window. Pretty stars twinkle!",
+          "illustration": {
+            "description": "A small girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes looking out a window at glowing stars in soft watercolor style with dreamy purple and blue gradients, floating clouds, and gentle moonlight creating an ethereal atmosphere",
+            "alt": "Zara looking at twinkling stars through her window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Goodnight stars,\" whispers Zara. \"Goodnight moon.\"",
+          "illustration": {
+            "description": "A peaceful little girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes waving at the night sky through her window, rendered in soft watercolor with dreamy purple and blue gradients, glowing stars, and gentle moonlight",
+            "alt": "Zara saying goodnight to the stars and moon",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama tucks Zara in bed. Soft blanket. Warm hugs.",
+          "illustration": {
+            "description": "A mother tucking in a sleepy toddler with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes in a cozy bed, painted in soft watercolor with dreamy purple and blue gradients, round sleepy faces, and ethereal atmosphere",
+            "alt": "Mama tucking Zara into bed with a soft blanket",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Zara closes her eyes. Sweet dreams, little one!",
+          "illustration": {
+            "description": "A peaceful sleeping child with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes closed peacefully, surrounded by floating clouds and glowing stars in soft watercolor with dreamy purple and blue gradients and gentle moonlight",
+            "alt": "Zara sleeping peacefully in her bed",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "family love",
+      "peaceful sleep",
+      "nighttime comfort"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Zara see in the sky?",
+        "choices": [
+          "stars",
+          "birds"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zara sees pretty twinkling stars in the night sky!"
+      },
+      {
+        "id": "q2",
+        "question": "Who helps Zara get ready for bed?",
+        "choices": [
+          "Mama",
+          "dog"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama helps Zara put on her pajamas and tucks her into bed."
+      },
+      {
+        "id": "q3",
+        "question": "What does Zara do at the end?",
+        "choices": [
+          "sleep",
+          "play"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zara closes her eyes and goes to sleep with sweet dreams!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "bed",
+            "distractors": [
+              "toy",
+              "book"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "stars",
+            "distractors": [
+              "cats",
+              "cars"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

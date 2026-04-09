@@ -1,0 +1,201 @@
+{
+  "id": "v2-early_reader-fairy-tales-090",
+  "title": "Jasper and the Magical Forest Friends",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "fairy-tales",
+    "animals"
+  ],
+  "wordCount": 453,
+  "readingLevel": "Grade 1-2",
+  "synopsis": "Young Jasper discovers a magical forest where animals can talk and embarks on an adventure to help them solve a problem, learning about friendship and kindness along the way.",
+  "coverImage": "covers/v2-early_reader-fairy-tales-090.webp",
+  "chapters": [
+    {
+      "title": "Into the Magical Forest",
+      "pages": [
+        {
+          "text": "Jasper loved to explore. One sunny morning, he walked deeper into the woods than ever before. The trees grew taller and the flowers bloomed brighter. Suddenly, he heard a tiny voice say, 'Hello there, young boy!' Jasper looked around in wonder. A small rabbit with silver fur hopped out from behind a mushroom. 'Did you just talk to me?' Jasper asked with wide eyes. The rabbit giggled. 'Welcome to the Magical Forest, where all animals can speak! My name is Luna.'",
+          "illustration": {
+            "description": "A boy with wavy reddish-brown hair, fair freckled skin, green eyes stands amazed in an enchanted forest glade, facing a silver rabbit beside a large spotted mushroom. Tall ancient trees tower overhead with dappled sunlight filtering through leaves, colorful wildflowers scattered around, ornate decorative border with Celtic knots and forest motifs.",
+            "alt": "Jasper meeting Luna the talking rabbit in the magical forest",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Meeting New Friends",
+      "pages": [
+        {
+          "text": "Luna led Jasper down a winding path covered in soft moss. Soon they met Oliver the wise old owl perched on a low branch. 'Hoot! Welcome, young friend,' Oliver said kindly. Next, they encountered Rosie the red squirrel gathering acorns. 'Oh my, a human child in our forest!' she chirped excitedly. Finally, they came upon Bruno the gentle bear sitting by a babbling brook. 'It's wonderful to meet you, Jasper,' Bruno said in his deep, warm voice. Jasper couldn't believe he was talking to so many magical animals.",
+          "illustration": {
+            "description": "A boy with wavy reddish-brown hair, fair freckled skin, green eyes walks along a mossy forest path surrounded by a silver rabbit, wise owl on a branch, red squirrel holding acorns, and large friendly bear near a sparkling stream. Ancient trees create a cathedral-like canopy above, with decorative border featuring woodland creatures and vines.",
+            "alt": "Jasper meeting all his new animal friends in the forest",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "A Problem in Paradise",
+      "pages": [
+        {
+          "text": "As the friends gathered in a sunny clearing, Oliver the owl looked worried. 'I'm afraid we have a big problem,' he said solemnly. 'The Crystal Spring that gives our forest its magic is losing its sparkle. Without it, we may lose our ability to speak.' The animals all looked sad and frightened. Bruno sighed deeply. 'The spring is hidden deep in the Thorny Thicket. None of us can get through those sharp brambles.' Jasper felt his heart fill with determination. 'Maybe I can help!' he said bravely. 'Tell me what I need to do.'",
+          "illustration": {
+            "description": "A boy with wavy reddish-brown hair, fair freckled skin, green eyes stands confidently in a forest clearing with worried animal friends around him - a silver rabbit, wise owl, red squirrel, and large bear. In the background, a dark thicket of thorny brambles looms ominously, with decorative border showing intertwined thorns and magical sparkles.",
+            "alt": "Jasper offering to help his worried animal friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Brave Journey",
+      "pages": [
+        {
+          "text": "Luna gave Jasper a small crystal pendant. 'This will protect you from the thorns,' she explained. Rosie packed him nuts and berries for the journey. Oliver shared his wisdom: 'Look for the spring where the moon's light touches the ground, even in daytime.' Bruno offered the most important gift - a warm hug for courage. Jasper carefully made his way through the Thorny Thicket. The pendant glowed softly, and the sharp brambles moved aside to let him pass. Finally, he found a beautiful clearing where moonlight somehow shone through the trees onto a small, dim spring.",
+          "illustration": {
+            "description": "A boy with wavy reddish-brown hair, fair freckled skin, green eyes wearing a glowing crystal pendant walks through a path of thorny brambles that part before him. Mysterious moonbeams shine down into a clearing where a small spring sits, surrounded by smooth stones and wilted magical flowers, ornate border with crescent moons and crystal motifs.",
+            "alt": "Jasper journeying through the thorny thicket to find the Crystal Spring",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Magic Restored",
+      "pages": [
+        {
+          "text": "The Crystal Spring looked sick and cloudy. Jasper noticed something blocking the water - fallen leaves and twigs had created a dam. He carefully cleared away the debris with his hands. Suddenly, the spring bubbled to life! Crystal clear water sparkled like diamonds in the moonlight. The whole forest seemed to shimmer with renewed magic. Jasper hurried back to his friends, who cheered when they saw him. 'You saved our home!' Luna exclaimed. 'You'll always be welcome in the Magical Forest,' Oliver hooted gratefully. Jasper smiled, knowing he had found the best friends ever.",
+          "illustration": {
+            "description": "A boy with wavy reddish-brown hair, fair freckled skin, green eyes kneels beside a now-sparkling crystal spring in a moonlit clearing, while magical sparkles and light emanate from the restored water. His animal friends - silver rabbit, owl, red squirrel, and bear - celebrate joyfully around him. The entire scene glows with renewed magical energy, decorative border with stars and flowing water patterns.",
+            "alt": "Jasper successfully restoring the Crystal Spring with his happy animal friends celebrating",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "courage",
+      "helping others",
+      "magic",
+      "nature"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What was the name of the first animal Jasper met?",
+        "choices": [
+          "Luna the rabbit",
+          "Oliver the owl",
+          "Bruno the bear"
+        ],
+        "correctIndex": 0,
+        "explanation": "Luna the silver rabbit was the first animal who spoke to Jasper and welcomed him to the Magical Forest."
+      },
+      {
+        "id": "q2",
+        "question": "What was wrong with the Crystal Spring?",
+        "choices": [
+          "It was too hot",
+          "It was blocked with debris",
+          "It was frozen solid"
+        ],
+        "correctIndex": 1,
+        "explanation": "The Crystal Spring was blocked by fallen leaves and twigs that had created a dam, making the water cloudy and dim."
+      },
+      {
+        "id": "q3",
+        "question": "What did Luna give Jasper to help him?",
+        "choices": [
+          "A magic wand",
+          "A crystal pendant",
+          "A special map"
+        ],
+        "correctIndex": 1,
+        "explanation": "Luna gave Jasper a crystal pendant that glowed and protected him from the sharp thorns in the Thorny Thicket."
+      },
+      {
+        "id": "q4",
+        "question": "Which animal gave Jasper food for his journey?",
+        "choices": [
+          "Bruno the bear",
+          "Rosie the squirrel",
+          "Oliver the owl"
+        ],
+        "correctIndex": 1,
+        "explanation": "Rosie the red squirrel packed nuts and berries for Jasper to eat during his journey to find the Crystal Spring."
+      },
+      {
+        "id": "q5",
+        "question": "How did Jasper fix the Crystal Spring?",
+        "choices": [
+          "He used magic words",
+          "He cleared away debris",
+          "He poured new water in it"
+        ],
+        "correctIndex": 1,
+        "explanation": "Jasper carefully cleared away the fallen leaves and twigs that were blocking the spring, allowing the crystal clear water to flow freely again."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "rabbit",
+            "distractors": [
+              "mouse",
+              "cat"
+            ]
+          },
+          {
+            "wordIndex": 28,
+            "correctWord": "speak",
+            "distractors": [
+              "sing",
+              "dance"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "magic",
+            "distractors": [
+              "power",
+              "strength"
+            ]
+          },
+          {
+            "wordIndex": 35,
+            "correctWord": "help",
+            "distractors": [
+              "play",
+              "leave"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

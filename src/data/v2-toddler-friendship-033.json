@@ -1,0 +1,183 @@
+{
+  "id": "v2-toddler-friendship-033",
+  "title": "Nia's Garden Friends",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "nature"
+  ],
+  "wordCount": 275,
+  "readingLevel": "Pre-K",
+  "synopsis": "Nia discovers a magical garden where she meets friendly animals and learns about friendship through caring for plants and nature together.",
+  "coverImage": "covers/v2-toddler-friendship-033.webp",
+  "chapters": [
+    {
+      "title": "The Magic Garden",
+      "pages": [
+        {
+          "text": "Nia loved to explore. One sunny morning, she found a special gate covered with pretty flowers. The gate was painted bright blue with yellow stars. Nia pushed it open and gasped. Inside was the most beautiful garden she had ever seen!",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes stands before a magical blue gate with yellow stars, surrounded by colorful flowers in a bright sunny garden setting with primary colors and white space",
+            "alt": "Nia discovering a magical garden gate",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The garden was full of rainbow flowers, buzzing bees, and fluttering butterflies. Nia walked down the stone path and heard a tiny voice say, 'Hello!' She looked around but saw no one. 'Down here!' squeaked the voice. A little mouse poked his head out from behind a sunflower.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes walking on a stone path through a colorful garden with rainbow flowers, bees, butterflies, and a small mouse by a tall sunflower, bright sunny playground style with primary colors",
+            "alt": "Nia meeting a friendly mouse in the garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'I'm Max the mouse,' he said with a big smile. 'Welcome to our friendship garden! Would you like to meet my friends?' Nia clapped her hands with joy. 'Yes, please!' she said. Max scurried ahead, and Nia followed him deeper into the wonderful garden.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes clapping her hands happily while Max the mouse leads her through the garden path, bright sunny setting with joyful energetic colors and white space",
+            "alt": "Nia and Max the mouse becoming friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Helping Friends Grow",
+      "pages": [
+        {
+          "text": "Max led Nia to a patch where vegetables were growing. 'This is Ruby Rabbit and Sam Squirrel,' he said. Ruby was watering tiny carrot sprouts while Sam planted acorns. 'We take care of our garden together,' Ruby explained. 'Each friend helps in their own special way!'",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes watching Ruby Rabbit watering carrots and Sam Squirrel planting acorns in a vegetable garden, bright sunny playground style with primary colors and inclusive friendship activities",
+            "alt": "Garden friends working together to care for plants",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Nia wanted to help too. 'What can I do?' she asked. Sam showed her how to water the seedlings gently. Ruby taught her to pull weeds carefully. Max helped her plant new seeds in the soft soil. Working together made the job fun and easy!",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes watering plants with a small watering can while her animal friends help around her, bright sunny setting with primary colors and joyful energetic friendship activities",
+            "alt": "Nia learning to care for the garden with her new friends",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When they finished, all the friends sat under a big oak tree to rest. They shared fresh berries and cool water. 'Thank you for helping us, Nia,' said Ruby. 'Friends who work together make everything grow better - plants and friendships too!' Nia smiled. She had found the best friends ever!",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes sitting under a large oak tree with Max, Ruby, and Sam, sharing berries and laughing together, bright sunny playground atmosphere with primary colors and white space showing friendship and laughter",
+            "alt": "Nia and her garden friends resting and enjoying berries together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "nature",
+      "helping others",
+      "cooperation",
+      "discovery"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Nia find behind the blue gate?",
+        "choices": [
+          "a beautiful garden",
+          "a big house",
+          "a swimming pool"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nia found a magical garden full of flowers, bees, and butterflies behind the blue gate with yellow stars."
+      },
+      {
+        "id": "q2",
+        "question": "Who was the first friend Nia met in the garden?",
+        "choices": [
+          "Ruby Rabbit",
+          "Max the mouse",
+          "Sam Squirrel"
+        ],
+        "correctIndex": 1,
+        "explanation": "Max the mouse was hiding behind a sunflower and was the first to say hello to Nia."
+      },
+      {
+        "id": "q3",
+        "question": "What did the friends do together in the garden?",
+        "choices": [
+          "played games",
+          "took care of plants",
+          "built a house"
+        ],
+        "correctIndex": 1,
+        "explanation": "The friends worked together to water plants, pull weeds, and plant new seeds to take care of their garden."
+      },
+      {
+        "id": "q4",
+        "question": "Where did the friends rest after working in the garden?",
+        "choices": [
+          "under a big oak tree",
+          "by a pond",
+          "in a flower bed"
+        ],
+        "correctIndex": 0,
+        "explanation": "All the friends sat under a big oak tree to rest and share berries and water after their gardening work."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "flowers",
+            "distractors": [
+              "rocks",
+              "cars"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "garden",
+            "distractors": [
+              "store",
+              "school"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "water",
+            "distractors": [
+              "paint",
+              "juice"
+            ]
+          },
+          {
+            "wordIndex": 20,
+            "correctWord": "friends",
+            "distractors": [
+              "toys",
+              "books"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

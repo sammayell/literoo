@@ -1,0 +1,187 @@
+{
+  "id": "v2-toddler-humor-097",
+  "title": "Amara's Magic Sneeze",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "humor",
+    "fantasy"
+  ],
+  "wordCount": 139,
+  "readingLevel": "Pre-K",
+  "synopsis": "When Amara catches a magic cold, her sneezes create hilarious surprises around her house, leading to giggles and unexpected adventures.",
+  "coverImage": "covers/v2-toddler-humor-097.webp",
+  "chapters": [
+    {
+      "title": "The Tickly Nose",
+      "pages": [
+        {
+          "text": "Amara woke up with a tickly feeling in her nose. \"Achoo!\" she sneezed. Pink sparkles flew out and turned her pillow into a bouncy marshmallow!",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes sits up in bed with an enormous surprised expression, mouth wide open mid-sneeze with swirling pink sparkles and stars shooting out, her pillow transforming into a giant puffy marshmallow with exaggerated bounce lines",
+            "alt": "Amara sneezing magical pink sparkles that turn her pillow into a marshmallow",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"That's not normal!\" giggled Amara. She tried to stand up but bounced high into the air on her marshmallow pillow. Boing, boing, boing!",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes bouncing impossibly high in the air with arms stretched out wide, huge delighted grin, her body stretched like rubber with motion lines showing the bouncy movement on a giant marshmallow pillow",
+            "alt": "Amara bouncing high on her marshmallow pillow with stretched limbs",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Kitchen Chaos",
+      "pages": [
+        {
+          "text": "Amara bounced to the kitchen where Mom was making breakfast. \"Achoo!\" Purple sparkles shot out and turned all the pancakes into flying purple butterflies!",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes in mid-sneeze with cheeks puffed out comically, surrounded by swirling purple sparkles as pancakes with wings flutter around the kitchen in exaggerated loopy flight patterns, Mom's eyes bulging with shock",
+            "alt": "Amara sneezing purple sparkles that turn pancakes into flying butterflies",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The butterfly pancakes flew around Mom's head. Mom's hair stood straight up! \"Amara, what's happening?\" Mom laughed as a pancake-butterfly landed on her nose.",
+          "illustration": {
+            "description": "Mom with hair comically standing straight up like she's been electrified, cross-eyed looking at a purple butterfly pancake on her nose, while Amara with long box braids, rich brown skin, large sparkling dark eyes giggles with hands over mouth, both characters with extremely exaggerated cartoon expressions",
+            "alt": "Mom with wild hair and a butterfly pancake on her nose while Amara giggles",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Magic Fix",
+      "pages": [
+        {
+          "text": "\"I think you have a magic cold!\" said Mom. \"Try sneezing backwards!\" Amara scrunched up her nose and snorted. \"Oohca!\"",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes with nose scrunched up in extreme concentration, eyes squeezed shut, cheeks puffed in reverse with sparkles going backwards into her nose like a vacuum, Mom cheering with arms raised high",
+            "alt": "Amara doing a reverse sneeze with sparkles going back into her nose",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Golden sparkles swirled around! The butterflies turned back into pancakes and the marshmallow became a pillow again. \"Magic colds are silly!\" laughed Amara.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes laughing with mouth wide open and arms spread in joy, surrounded by swirling golden sparkles as butterflies transform back to pancakes with magical poof clouds and the marshmallow pillow returns to normal with sparkly transformation effects",
+            "alt": "Amara laughing as golden sparkles reverse all the magic transformations",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "magic",
+      "family",
+      "problem-solving",
+      "humor"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What happened when Amara first sneezed?",
+        "choices": [
+          "Her pillow turned into a marshmallow",
+          "She flew away",
+          "Nothing happened"
+        ],
+        "correctIndex": 0,
+        "explanation": "When Amara sneezed, pink sparkles came out and turned her pillow into a bouncy marshmallow!"
+      },
+      {
+        "id": "q2",
+        "question": "What did the pancakes turn into?",
+        "choices": [
+          "Birds",
+          "Purple butterflies",
+          "Flowers"
+        ],
+        "correctIndex": 1,
+        "explanation": "The purple sparkles from Amara's sneeze turned the pancakes into flying purple butterflies!"
+      },
+      {
+        "id": "q3",
+        "question": "How did Amara fix the magic?",
+        "choices": [
+          "She sneezed backwards",
+          "She went to sleep",
+          "She ate the butterflies"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mom told Amara to try sneezing backwards, and when she said 'Oohca!' it fixed everything!"
+      },
+      {
+        "id": "q4",
+        "question": "What kind of cold did Amara have?",
+        "choices": [
+          "A magic cold",
+          "A regular cold",
+          "No cold at all"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mom figured out that Amara had a magic cold that made her sneezes create magical surprises!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "sparkles",
+            "distractors": [
+              "bubbles",
+              "flowers"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "marshmallow",
+            "distractors": [
+              "cookie",
+              "banana"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "purple",
+            "distractors": [
+              "green",
+              "yellow"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "butterflies",
+            "distractors": [
+              "elephants",
+              "cars"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

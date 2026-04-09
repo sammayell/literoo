@@ -1,0 +1,148 @@
+{
+  "id": "v2-baby-bedtime-151",
+  "title": "Zara's Sleepy Star Journey",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "bedtime",
+    "family"
+  ],
+  "wordCount": 74,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Zara goes on a magical bedtime journey with twinkling stars and her loving family, discovering the gentle comfort of nighttime routines.",
+  "coverImage": "covers/v2-baby-bedtime-151.webp",
+  "chapters": [
+    {
+      "title": "Sleepy Time with Stars",
+      "pages": [
+        {
+          "text": "Zara yawns big. Time for bed! Mama helps Zara put on soft pajamas.",
+          "illustration": {
+            "description": "A cozy bedroom with soft watercolor, dreamy purple and blue gradients, glowing stars on the walls. Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes stands next to her mama putting on purple pajamas. Gentle moonlight streams through the window creating an ethereal atmosphere with pastel palette.",
+            "alt": "Zara getting ready for bed with her mama in a starry bedroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Daddy reads a story. Zara's eyes get sleepy. The stars twinkle outside.",
+          "illustration": {
+            "description": "Soft watercolor scene with dreamy purple and blue gradients showing daddy reading to Zara in a big chair. Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes sits on daddy's lap. Floating clouds and glowing stars surround them with gentle moonlight and ethereal atmosphere in pastel palette.",
+            "alt": "Daddy reading a bedtime story to sleepy Zara surrounded by twinkling stars",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Zara climbs in bed. Mama sings soft songs. The moon smiles down.",
+          "illustration": {
+            "description": "Dreamy bedroom scene with soft watercolor, purple and blue gradients. Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes lies in bed while mama sits beside her. Glowing stars dance overhead, floating clouds drift by, and gentle moonlight creates round sleepy faces in an ethereal atmosphere with pastel palette.",
+            "alt": "Zara in bed with mama singing as stars and moon watch over them",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Stars dance and play. They whisper, 'Sweet dreams, Zara.' Night night!",
+          "illustration": {
+            "description": "Magical soft watercolor scene with dreamy purple and blue gradients showing glowing stars floating around sleeping Zara. Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes sleeps peacefully. Round sleepy faces appear in floating clouds, gentle moonlight bathes everything in an ethereal atmosphere with pastel palette.",
+            "alt": "Zara sleeping peacefully as magical stars dance around her bed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Zara dreams of star friends. She floats with them in the sky. So cozy!",
+          "illustration": {
+            "description": "Dream sequence in soft watercolor with dreamy purple and blue gradients. Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes floats among glowing stars and floating clouds. Round sleepy faces of star friends surround her in gentle moonlight creating an ethereal atmosphere with pastel palette.",
+            "alt": "Zara dreaming and floating with friendly stars in the night sky",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Morning comes. Zara wakes up happy. She hugs Mama and Daddy tight!",
+          "illustration": {
+            "description": "Gentle morning scene with soft watercolor, dreamy purple and blue gradients fading to warm pastels. Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes hugs her parents in bed. Glowing stars fade away, floating clouds drift peacefully, gentle moonlight gives way to soft sunrise in ethereal atmosphere with pastel palette.",
+            "alt": "Happy Zara hugging her parents good morning after a peaceful night",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "family love",
+      "comfort",
+      "dreams",
+      "stars"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Zara put on before bed?",
+        "choices": [
+          "pajamas",
+          "shoes"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zara puts on soft pajamas to get ready for bed, just like you do!"
+      },
+      {
+        "id": "q2",
+        "question": "Who reads Zara a story?",
+        "choices": [
+          "Daddy",
+          "the stars"
+        ],
+        "correctIndex": 0,
+        "explanation": "Daddy reads Zara a bedtime story while she sits on his lap."
+      },
+      {
+        "id": "q3",
+        "question": "What do the stars say to Zara?",
+        "choices": [
+          "Sweet dreams",
+          "Wake up"
+        ],
+        "correctIndex": 0,
+        "explanation": "The stars whisper 'Sweet dreams, Zara' to help her sleep peacefully."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "bed",
+            "distractors": [
+              "car",
+              "tree"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "story",
+            "distractors": [
+              "song",
+              "game"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

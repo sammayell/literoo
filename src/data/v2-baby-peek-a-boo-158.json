@@ -1,0 +1,139 @@
+{
+  "id": "v2-baby-peek-a-boo-158",
+  "title": "Yuki's Sleepy Peek-a-Boo",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "peek-a-boo",
+    "bedtime"
+  ],
+  "wordCount": 62,
+  "readingLevel": "baby",
+  "synopsis": "Little Yuki plays peek-a-boo with sleepy animal friends hiding around her bedroom as she gets ready for bed.",
+  "coverImage": "covers/v2-baby-peek-a-boo-158.webp",
+  "chapters": [
+    {
+      "title": "Sleepy Time Peek-a-Boo",
+      "pages": [
+        {
+          "text": "Yuki is ready for bed! But where are her sleepy friends hiding?",
+          "illustration": {
+            "description": "A little girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes standing in a cozy bedroom with a flap-style curtain partially hiding something behind it",
+            "alt": "Yuki in her bedroom with hidden elements",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! A sleepy bunny hides behind the curtain. 'Time for bed, bunny!'",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes pulling back a curtain to reveal a drowsy white bunny, peek-a-boo composition with surprise element",
+            "alt": "Yuki finding a sleepy bunny behind the curtain",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Where is teddy bear? Peek-a-boo! Under the blanket! 'Sleepy time, teddy!'",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes lifting a blanket flap to discover a yawning brown teddy bear, interactive feel with playful concealment",
+            "alt": "Yuki discovering teddy bear under blanket",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "One more friend! Peek-a-boo! Little owl sleeps behind the pillow. All friends found!",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes peeking behind a pillow to find a small sleeping owl, behind the curtain style with hiding and revealing elements",
+            "alt": "Yuki finding owl behind pillow",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Now Yuki snuggles with all her sleepy friends. Peek-a-boo games are done. Good night!",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes tucked in bed with bunny, teddy bear, and owl, peaceful bedroom scene with soft lighting and partially hidden moon through window",
+            "alt": "Yuki sleeping peacefully with all her animal friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "peek-a-boo games",
+      "friendship",
+      "comfort"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "lift the flap inspired, partially hidden objects, peek-a-boo composition, hiding and revealing, interactive feel, surprise element, behind the curtain, playful concealment"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where was the bunny hiding?",
+        "choices": [
+          "behind the curtain",
+          "under the bed"
+        ],
+        "correctIndex": 0,
+        "explanation": "The sleepy bunny was hiding behind the curtain when Yuki found it!"
+      },
+      {
+        "id": "q2",
+        "question": "What animal was under the blanket?",
+        "choices": [
+          "teddy bear",
+          "owl"
+        ],
+        "correctIndex": 0,
+        "explanation": "The yawning teddy bear was hiding under the blanket!"
+      },
+      {
+        "id": "q3",
+        "question": "Where did Yuki find the owl?",
+        "choices": [
+          "behind the pillow",
+          "in the closet"
+        ],
+        "correctIndex": 0,
+        "explanation": "The little owl was sleeping behind the pillow when Yuki peeked!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "bunny",
+            "distractors": [
+              "kitty",
+              "puppy"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "teddy",
+            "distractors": [
+              "dolly",
+              "horsy"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

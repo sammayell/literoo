@@ -1,0 +1,196 @@
+{
+  "id": "v2-toddler-animals-062",
+  "title": "Finn and the Lost Baby Elephant",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "animals",
+    "adventure"
+  ],
+  "wordCount": 293,
+  "readingLevel": "Pre-K",
+  "synopsis": "Young Finn discovers a lost baby elephant in the savanna and helps reunite her with her family through kindness and courage.",
+  "coverImage": "covers/v2-toddler-animals-062.webp",
+  "chapters": [
+    {
+      "title": "A Crying Sound",
+      "pages": [
+        {
+          "text": "Finn was playing in the tall golden grass when he heard a sad sound. \"Waaah! Waaah!\" Something was crying nearby. Finn looked around with his bright eyes. What could be making that noise?",
+          "illustration": {
+            "description": "A young boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes standing in tall golden savanna grass, looking curious and alert, painted in gouache with thick brushstrokes and warm orange sunset colors",
+            "alt": "Finn listening carefully in the savanna grass",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Behind a big acacia tree, Finn found a tiny gray elephant! She was all alone and tears rolled down her wrinkled cheeks. \"Don't cry, little elephant,\" Finn said gently. \"I'm Finn. What's your name?\"",
+          "illustration": {
+            "description": "A boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes kneeling beside a small crying baby elephant under an acacia tree, painted in gouache with expressive brushstrokes and warm savanna tones",
+            "alt": "Finn comforting a sad baby elephant",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I'm Kesi,\" sniffled the baby elephant. \"I was following a pretty butterfly and got lost! I can't find my mama anywhere.\" Finn's kind heart felt sorry for Kesi. He wanted to help his new friend.",
+          "illustration": {
+            "description": "A boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes sitting cross-legged next to a small elephant, with a colorful butterfly in the background, painted in textured gouache with bold confident strokes",
+            "alt": "Finn and Kesi talking about the butterfly",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Searching Together",
+      "pages": [
+        {
+          "text": "\"Let's find your mama together!\" Finn said bravely. They walked through the savanna, calling \"Mama elephant! Mama elephant!\" A tall giraffe poked his head down from the treetops.",
+          "illustration": {
+            "description": "A boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes walking alongside a baby elephant while a friendly giraffe's long neck stretches down from above, painted in gouache with warm golden grass and orange sunset colors",
+            "alt": "Finn, Kesi, and a helpful giraffe in the savanna",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I saw a herd of elephants by the watering hole,\" said the giraffe kindly. \"Follow the path through those rocks.\" Finn and Kesi thanked the giraffe and hurried along the rocky path together.",
+          "illustration": {
+            "description": "A boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes and a baby elephant walking on a path between large rocks, painted with thick brushstrokes and textured painterly technique in warm savanna colors",
+            "alt": "Finn and Kesi following the rocky path",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "At the watering hole, they saw hippos splashing and zebras drinking. But no elephants! \"Where could they be?\" wondered Kesi sadly. Just then, they heard a loud trumpet sound: \"PFFFRRRR!\"",
+          "illustration": {
+            "description": "A boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes and a baby elephant at a watering hole with hippos and zebras, painted in expressive gouache with bold confident strokes and orange sunset lighting",
+            "alt": "The watering hole with various animals but no elephants",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Family Found",
+      "pages": [
+        {
+          "text": "\"That's my mama!\" cried Kesi excitedly. They ran toward the trumpeting sound and found a whole herd of elephants! Mama elephant was calling for her lost baby with her trunk raised high.",
+          "illustration": {
+            "description": "A boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes running with a baby elephant toward a herd of large elephants, with the mother elephant's trunk raised, painted in gouache with thick brushstrokes and warm golden grass",
+            "alt": "Finn and Kesi running toward the elephant herd",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Mama! Mama!\" Kesi trumpeted happily and ran into her mother's loving trunk hug. \"Thank you, Finn!\" she called. \"You're the best friend ever!\" Mama elephant smiled warmly at the kind little boy.",
+          "illustration": {
+            "description": "A boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes watching as a baby elephant hugs her mother with their trunks, painted in textured gouache with expressive animals and warm savanna colors",
+            "alt": "Happy reunion between Kesi and her mother",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Finn waved goodbye as the elephant family walked away together. He felt happy and proud. He had helped a friend in need! As the orange sunset painted the sky, Finn headed home with a big smile.",
+          "illustration": {
+            "description": "A boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes waving goodbye to elephants walking away in silhouette against an orange sunset sky, painted with bold confident strokes and warm savanna colors",
+            "alt": "Finn waving goodbye at sunset",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "helping others",
+      "kindness",
+      "courage",
+      "family"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound did Finn hear in the grass?",
+        "choices": [
+          "crying",
+          "laughing",
+          "singing"
+        ],
+        "correctIndex": 0,
+        "explanation": "Finn heard crying - it was baby elephant Kesi who was lost and sad."
+      },
+      {
+        "id": "q2",
+        "question": "What is the baby elephant's name?",
+        "choices": [
+          "Kesi",
+          "Kira",
+          "Kala"
+        ],
+        "correctIndex": 0,
+        "explanation": "The baby elephant told Finn her name was Kesi."
+      },
+      {
+        "id": "q3",
+        "question": "Who helped Finn and Kesi find the elephant herd?",
+        "choices": [
+          "a giraffe",
+          "a zebra",
+          "a hippo"
+        ],
+        "correctIndex": 0,
+        "explanation": "The tall giraffe told them where to find the elephants at the watering hole."
+      },
+      {
+        "id": "q4",
+        "question": "How did Finn feel at the end of the story?",
+        "choices": [
+          "happy and proud",
+          "tired and sad",
+          "scared and worried"
+        ],
+        "correctIndex": 0,
+        "explanation": "Finn felt happy and proud because he helped his new friend Kesi find her family."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "crying",
+            "distractors": [
+              "running",
+              "jumping"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "butterfly",
+            "distractors": [
+              "bird",
+              "bee"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

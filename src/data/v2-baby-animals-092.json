@@ -1,0 +1,131 @@
+{
+  "id": "v2-baby-animals-092",
+  "title": "Kofi and the Savanna Friends",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "animals",
+    "nature"
+  ],
+  "wordCount": 48,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Kofi explores the golden savanna and meets gentle animal friends who welcome him with warm greetings and playful interactions.",
+  "coverImage": "covers/v2-baby-animals-092.webp",
+  "chapters": [
+    {
+      "title": "Friends in the Golden Grass",
+      "pages": [
+        {
+          "text": "Kofi walks in the warm grass. The sun is bright and golden.",
+          "illustration": {
+            "description": "A young boy with short cropped hair, rich dark brown skin, bright expressive eyes walking through tall golden savanna grass. Gouache painting with thick brushstrokes, warm savanna colors, textured painterly style with golden grass swaying in the breeze under an orange sunset sky.",
+            "alt": "Kofi walking through golden savanna grass",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A big elephant says hello. 'Hello, Kofi!' trumpets the elephant.",
+          "illustration": {
+            "description": "A large friendly elephant with its trunk raised greeting a small boy with short cropped hair, rich dark brown skin, bright expressive eyes. Gouache painting with thick brushstrokes, warm savanna colors, expressive animals, textured painterly style with golden grass and orange sunset background.",
+            "alt": "Elephant greeting Kofi in the savanna",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A tall giraffe bends down. 'Hello, little friend!' says the giraffe.",
+          "illustration": {
+            "description": "A spotted giraffe bending its long neck down to meet a young boy with short cropped hair, rich dark brown skin, bright expressive eyes. Gouache painting with thick brushstrokes, warm savanna colors, expressive animals, textured painterly style with bold confident strokes and golden grass.",
+            "alt": "Giraffe bending down to greet Kofi",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Kofi waves at all his animal friends. They are happy together in the warm savanna.",
+          "illustration": {
+            "description": "A joyful scene showing a boy with short cropped hair, rich dark brown skin, bright expressive eyes waving at an elephant and giraffe in the golden savanna. Gouache painting with thick brushstrokes, warm savanna colors, expressive animals, textured painterly style with orange sunset and bold confident strokes.",
+            "alt": "Kofi waving goodbye to his savanna animal friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "animals",
+      "nature exploration",
+      "greetings"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color is the grass where Kofi walks?",
+        "choices": [
+          "golden",
+          "blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "The grass in the savanna is golden, just like in the warm sunshine!"
+      },
+      {
+        "id": "q2",
+        "question": "Which animal has a long trunk?",
+        "choices": [
+          "elephant",
+          "giraffe"
+        ],
+        "correctIndex": 0,
+        "explanation": "The elephant has a long trunk that it uses to say hello to Kofi!"
+      },
+      {
+        "id": "q3",
+        "question": "What does Kofi do to say goodbye to his friends?",
+        "choices": [
+          "waves",
+          "runs"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kofi waves at all his animal friends to say goodbye!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 7,
+            "correctWord": "elephant",
+            "distractors": [
+              "lion",
+              "zebra"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "giraffe",
+            "distractors": [
+              "monkey",
+              "bird"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

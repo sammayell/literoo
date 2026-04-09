@@ -1,0 +1,201 @@
+{
+  "id": "v2-early_reader-science-149",
+  "title": "Chloe's Silly Science Lab",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "science",
+    "humor"
+  ],
+  "wordCount": 455,
+  "readingLevel": "Grade 1-2",
+  "synopsis": "Young scientist Chloe discovers the joy of experimenting in her backyard lab, creating colorful reactions, observing tiny creatures under her microscope, and learning that science is full of wonderful surprises. Through bubbling potions, dancing raisins, and microscopic adventures, Chloe shows that science is the most magical fun of all.",
+  "coverImage": "covers/v2-early_reader-science-149.webp",
+  "chapters": [
+    {
+      "title": "Chloe's Magic Lab",
+      "pages": [
+        {
+          "text": "Meet Chloe! She loves science more than anything. In her backyard, she has a special science lab. It has bottles and tubes and beakers everywhere. Chloe wears her favorite purple goggles. She feels like a real scientist! 'Today I will make something amazing!' she says. Chloe looks at all her science tools. What should she try first? She sees red liquid and blue liquid. 'I wonder what happens when I mix these together?' she thinks. Chloe is ready for her first experiment!",
+          "illustration": {
+            "description": "A young girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes wearing purple safety goggles stands in a colorful backyard science lab filled with beakers, test tubes, and bottles of colored liquids, with her arms spread wide in excitement",
+            "alt": "Chloe in her backyard science lab wearing purple goggles",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Bubbling Surprise",
+      "pages": [
+        {
+          "text": "Chloe pours the red liquid into a big beaker. Then she adds the blue liquid very carefully. FIZZ! POP! BUBBLE! The mixture starts to foam and bubble! 'Wow!' Chloe giggles. The liquid turns bright purple! It bubbles higher and higher. Purple foam spills over the sides. Chloe jumps back and laughs. 'This is the best experiment ever!' she shouts. The bubbles tickle her nose. Some bubbles float away like tiny purple balloons. Chloe tries to catch them, but they pop in her hands. Science is so much fun!",
+          "illustration": {
+            "description": "A girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes laughing with delight as purple foam bubbles overflow from a large beaker on her lab table, with purple bubbles floating in the air around her",
+            "alt": "Chloe watching her experiment create purple bubbling foam",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Dancing Raisins",
+      "pages": [
+        {
+          "text": "Next, Chloe wants to try something else. She fills a tall glass with clear, fizzy water. Then she drops in some raisins. At first, the raisins sink to the bottom. 'Come on, little raisins,' Chloe whispers. 'Do something fun!' Suddenly, the raisins start to move! They float up to the top, then sink back down. Up and down, up and down! 'They're dancing!' Chloe claps her hands. The raisins look like tiny dancers in the fizzy water. Chloe counts them as they dance. 'One, two, three dancing raisins!' She wiggles like the raisins.",
+          "illustration": {
+            "description": "A girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes clapping her hands in amazement while watching raisins floating up and down in a tall glass of fizzy water on her lab table",
+            "alt": "Chloe watching raisins dance up and down in fizzy water",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Tiny World Discovery",
+      "pages": [
+        {
+          "text": "Chloe has a special microscope in her lab. She wants to look at tiny things that are too small to see. First, she puts a drop of pond water on a glass slide. She looks through the microscope and adjusts the focus. 'Oh my goodness!' Chloe gasps. She sees tiny creatures swimming around! There are little round ones and squiggly ones. They zoom back and forth like tiny race cars. 'Hello, little creatures!' Chloe says to them. She draws pictures of what she sees. Each creature looks different and special. 'I discovered a whole tiny world!' she says proudly.",
+          "illustration": {
+            "description": "A girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes peering through a microscope with her mouth open in wonder, with a circular magnified view showing colorful microscopic creatures swimming around",
+            "alt": "Chloe looking through a microscope and seeing tiny pond creatures",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Science is Magic",
+      "pages": [
+        {
+          "text": "As the sun sets, Chloe looks at all her experiments. The purple foam has dried into sparkly crystals. The raisins are still dancing slowly. Her microscope drawings show amazing tiny creatures. 'Science is like magic!' Chloe says happily. 'But it's real magic that I can understand!' She cleans up her lab carefully. Every good scientist cleans up their workspace. Tomorrow she will try new experiments. Maybe she will grow crystals or make a volcano! Chloe takes off her purple goggles and smiles. Being a scientist is the best job in the whole world!",
+          "illustration": {
+            "description": "A girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes holding her purple goggles with a big smile, standing in her lab at sunset with sparkly purple crystals, dancing raisins in a glass, and drawings of microscopic creatures spread across her table",
+            "alt": "Chloe smiling in her lab surrounded by all her successful experiments",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "scientific curiosity",
+      "experimentation",
+      "discovery",
+      "wonder",
+      "learning through play"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "scientific wonder, wide-eyed discovery, colorful experiments, microscope views, science as magic, eureka moments, bubbling reactions, amazing revelations, young scientist"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color did Chloe's mixture turn when she mixed red and blue liquids?",
+        "choices": [
+          "purple",
+          "green",
+          "yellow"
+        ],
+        "correctIndex": 0,
+        "explanation": "When Chloe mixed the red and blue liquids together, they created a purple mixture that bubbled and foamed!"
+      },
+      {
+        "id": "q2",
+        "question": "What did the raisins do in the fizzy water?",
+        "choices": [
+          "danced up and down",
+          "turned purple",
+          "disappeared"
+        ],
+        "correctIndex": 0,
+        "explanation": "The raisins floated up to the top and sank back down like they were dancing in the fizzy water!"
+      },
+      {
+        "id": "q3",
+        "question": "What tool did Chloe use to see tiny creatures?",
+        "choices": [
+          "microscope",
+          "telescope",
+          "magnifying glass"
+        ],
+        "correctIndex": 0,
+        "explanation": "Chloe used a microscope to look at pond water and discover tiny swimming creatures that were too small to see with just her eyes."
+      },
+      {
+        "id": "q4",
+        "question": "What color are Chloe's safety goggles?",
+        "choices": [
+          "purple",
+          "red",
+          "blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "Chloe wears her favorite purple goggles when doing experiments in her science lab to keep her eyes safe."
+      },
+      {
+        "id": "q5",
+        "question": "Where is Chloe's science lab located?",
+        "choices": [
+          "in her backyard",
+          "in her bedroom",
+          "at school"
+        ],
+        "correctIndex": 0,
+        "explanation": "Chloe has set up her special science lab in her backyard where she can do all her fun experiments safely."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "bubbles",
+            "distractors": [
+              "crystals",
+              "flowers"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "purple",
+            "distractors": [
+              "orange",
+              "silver"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "microscope",
+            "distractors": [
+              "telescope",
+              "periscope"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "creatures",
+            "distractors": [
+              "bubbles",
+              "crystals"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

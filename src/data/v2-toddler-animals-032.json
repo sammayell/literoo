@@ -1,0 +1,217 @@
+{
+  "id": "v2-toddler-animals-032",
+  "title": "Kofi and the Lost Baby Elephant",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "animals",
+    "adventure"
+  ],
+  "wordCount": 224,
+  "readingLevel": "Pre-K",
+  "synopsis": "Young Kofi discovers a lost baby elephant in the savanna and embarks on an adventure to reunite the little one with its family, making new animal friends along the way.",
+  "coverImage": "covers/v2-toddler-animals-032.webp",
+  "chapters": [
+    {
+      "title": "A New Friend",
+      "pages": [
+        {
+          "text": "Kofi loved exploring the golden savanna near his home. The tall grass swayed in the warm breeze, and colorful birds sang in the acacia trees.",
+          "illustration": {
+            "description": "A gouache painting with thick brushstrokes showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes walking through golden grass in warm savanna colors, acacia trees in background, textured painterly style with bold confident strokes",
+            "alt": "Kofi walking through tall golden savanna grass with acacia trees",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Suddenly, Kofi heard a sad trumpeting sound. Behind a large rock, he found a tiny baby elephant with tears in its eyes. 'Where is your mama?' Kofi asked gently.",
+          "illustration": {
+            "description": "A gouache painting with thick brushstrokes showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes kneeling next to a small crying baby elephant behind rocks, warm savanna colors, textured painterly style with expressive animals and bold confident strokes",
+            "alt": "Kofi comforting a sad baby elephant behind rocks",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The baby elephant pointed its tiny trunk toward the distant hills. 'Don't worry, little one,' said Kofi. 'I'll help you find your family!'",
+          "illustration": {
+            "description": "A gouache painting with thick brushstrokes showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes standing with the baby elephant pointing toward rolling hills, golden grass, orange sunset colors, textured painterly style with bold confident strokes",
+            "alt": "Kofi and baby elephant looking toward distant hills",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Friends Along the Way",
+      "pages": [
+        {
+          "text": "As they walked, a friendly giraffe stretched down its long neck. 'I saw a herd of elephants by the big baobab tree,' she said kindly.",
+          "illustration": {
+            "description": "A gouache painting with thick brushstrokes showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes and the baby elephant looking up at a tall giraffe, warm savanna colors, expressive animals, textured painterly style with bold confident strokes",
+            "alt": "A giraffe talking to Kofi and the baby elephant",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Next, they met a wise old zebra. 'Follow the river,' he suggested, his stripes shining in the golden sunlight. 'The elephants go there to drink water.'",
+          "illustration": {
+            "description": "A gouache painting with thick brushstrokes showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes with the baby elephant meeting a zebra near a winding river, golden grass, warm savanna colors, textured painterly style with expressive animals and bold confident strokes",
+            "alt": "Kofi, baby elephant, and zebra by a river",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A family of meerkats popped up from their burrow. 'We know where they are!' they chattered excitedly, pointing with their tiny paws toward a grove of trees.",
+          "illustration": {
+            "description": "A gouache painting with thick brushstrokes showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes and the baby elephant surrounded by several meerkats emerging from holes in the ground, warm savanna colors, textured painterly style with expressive animals and bold confident strokes",
+            "alt": "Meerkats helping Kofi and the baby elephant",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Home at Last",
+      "pages": [
+        {
+          "text": "As the orange sunset painted the sky, they heard familiar trumpeting sounds. The baby elephant's ears perked up with joy!",
+          "illustration": {
+            "description": "A gouache painting with thick brushstrokes showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes walking with an excited baby elephant toward distant sounds, orange sunset sky, golden grass, textured painterly style with bold confident strokes",
+            "alt": "Kofi and happy baby elephant walking toward trumpeting sounds at sunset",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "There by the big baobab tree stood the elephant family! Mama elephant wrapped her trunk around her baby, and the whole herd celebrated.",
+          "illustration": {
+            "description": "A gouache painting with thick brushstrokes showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes watching a joyful reunion of elephants near a massive baobab tree, warm savanna colors, expressive animals embracing, textured painterly style with bold confident strokes",
+            "alt": "Happy elephant family reunion near a baobab tree with Kofi watching",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The mama elephant gently touched Kofi's shoulder with her trunk as a thank you. Kofi smiled, knowing he had made wonderful new friends in the savanna.",
+          "illustration": {
+            "description": "A gouache painting with thick brushstrokes showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes being gently touched by mama elephant's trunk, surrounded by the elephant family and other savanna animals, warm colors, orange sunset, textured painterly style with expressive animals and bold confident strokes",
+            "alt": "Mama elephant thanking Kofi while surrounded by animal friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "helping others",
+      "adventure",
+      "family",
+      "kindness"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Who did Kofi find behind the rock?",
+        "choices": [
+          "A baby elephant",
+          "A baby giraffe",
+          "A baby zebra"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kofi found a sad baby elephant behind the rock who was lost and looking for its family."
+      },
+      {
+        "id": "q2",
+        "question": "Which animal told Kofi about the big baobab tree?",
+        "choices": [
+          "The giraffe",
+          "The zebra",
+          "The meerkats"
+        ],
+        "correctIndex": 0,
+        "explanation": "The friendly giraffe stretched down and told Kofi she saw elephants by the big baobab tree."
+      },
+      {
+        "id": "q3",
+        "question": "What did the zebra suggest they follow?",
+        "choices": [
+          "The river",
+          "The road",
+          "The birds"
+        ],
+        "correctIndex": 0,
+        "explanation": "The wise old zebra suggested following the river because elephants go there to drink water."
+      },
+      {
+        "id": "q4",
+        "question": "How did mama elephant thank Kofi?",
+        "choices": [
+          "She touched his shoulder with her trunk",
+          "She gave him a hug",
+          "She trumpeted loudly"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama elephant gently touched Kofi's shoulder with her trunk as a way to say thank you for helping her baby."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "elephant",
+            "distractors": [
+              "giraffe",
+              "zebra"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "family",
+            "distractors": [
+              "food",
+              "water"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "giraffe",
+            "distractors": [
+              "elephant",
+              "meerkat"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 8,
+        "blanks": [
+          {
+            "wordIndex": 7,
+            "correctWord": "trunk",
+            "distractors": [
+              "paw",
+              "wing"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

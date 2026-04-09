@@ -1,0 +1,183 @@
+{
+  "id": "v2-toddler-animals-182",
+  "title": "Finn and the Lost Baby Elephant",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "animals",
+    "adventure"
+  ],
+  "wordCount": 167,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Finn helps a lost baby elephant find its way back to mama in the warm African savanna, making new friends along the way.",
+  "coverImage": "covers/v2-toddler-animals-182.webp",
+  "chapters": [
+    {
+      "title": "A Little Friend Needs Help",
+      "pages": [
+        {
+          "text": "Finn was exploring the sunny savanna when he heard a sad sound. \"Waaah! Waaah!\" It was a tiny baby elephant, all alone behind a big baobab tree.",
+          "illustration": {
+            "description": "A boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes wearing khaki shorts and a white t-shirt, standing near a massive baobab tree. A small gray baby elephant with big sad eyes sits crying in the golden grass. Gouache painting with thick brushstrokes, warm savanna colors, textured painterly style with orange sunset light filtering through.",
+            "alt": "Finn discovers a crying baby elephant by a large tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Don't cry, little one,\" said Finn gently. \"Are you lost?\" The baby elephant nodded and made another sad trumpet sound. \"Mama! Mama!\" it seemed to say.",
+          "illustration": {
+            "description": "A close-up of a boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes kneeling down next to the baby elephant, reaching out his hand kindly. The baby elephant looks up at him with teary eyes. Gouache painting with thick brushstrokes, warm golden grass surroundings, expressive animal features, bold confident strokes.",
+            "alt": "Finn comforts the crying baby elephant",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I'll help you find your mama,\" Finn promised. He took the baby elephant's trunk gently in his hand. Together they started walking through the tall golden grass.",
+          "illustration": {
+            "description": "A boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes walking hand-in-trunk with a small gray baby elephant through tall golden savanna grass. The scene shows them from behind as they venture forward. Gouache painting with thick brushstrokes, warm savanna colors, textured painterly style with golden grass swaying in the breeze.",
+            "alt": "Finn and baby elephant walking together through tall grass",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Finding Mama Elephant",
+      "pages": [
+        {
+          "text": "They walked and walked. A friendly zebra galloped up to them. \"Have you seen a mama elephant?\" asked Finn. \"Yes!\" neighed the zebra. \"Follow me!\"",
+          "illustration": {
+            "description": "A boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes standing with the baby elephant while a cheerful black and white striped zebra approaches them. The zebra has expressive eyes and is painted with bold confident strokes. Gouache painting with thick brushstrokes, warm savanna colors, orange sunset lighting.",
+            "alt": "A helpful zebra joins Finn and baby elephant",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The zebra led them to a watering hole. There stood the biggest, kindest mama elephant Finn had ever seen! \"MAMA!\" trumpeted the baby elephant happily.",
+          "illustration": {
+            "description": "A large gray mama elephant with kind eyes stands by a blue watering hole, while a boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes watches as the baby elephant runs toward her. The zebra stands nearby smiling. Gouache painting with thick brushstrokes, warm savanna colors, textured painterly style with reflections in the water.",
+            "alt": "Baby elephant reunites with mama at the watering hole",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama elephant wrapped her trunk around her baby and lifted Finn up high! \"Thank you for helping my little one,\" she rumbled. Finn giggled as he got the best elephant hug ever. All the savanna animals cheered!",
+          "illustration": {
+            "description": "A joyful scene with a boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes being gently lifted by mama elephant's trunk while baby elephant snuggles close. The zebra, some colorful birds, and other savanna animals celebrate around them. Gouache painting with thick brushstrokes, warm golden sunset colors, expressive animals, bold confident strokes.",
+            "alt": "Finn gets thanked with an elephant hug while animals celebrate",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "helping others",
+      "friendship",
+      "kindness",
+      "animals",
+      "adventure"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound did the baby elephant make when it was sad?",
+        "choices": [
+          "Waaah! Waaah!",
+          "Roar! Roar!",
+          "Moo! Moo!"
+        ],
+        "correctIndex": 0,
+        "explanation": "The baby elephant made a crying sound 'Waaah! Waaah!' when it was lost and looking for its mama."
+      },
+      {
+        "id": "q2",
+        "question": "Which animal helped Finn find the mama elephant?",
+        "choices": [
+          "A zebra",
+          "A lion",
+          "A giraffe"
+        ],
+        "correctIndex": 0,
+        "explanation": "The friendly zebra galloped up and offered to help Finn find the mama elephant by leading them to the watering hole."
+      },
+      {
+        "id": "q3",
+        "question": "Where did they find the mama elephant?",
+        "choices": [
+          "At the watering hole",
+          "In a tree",
+          "In a cave"
+        ],
+        "correctIndex": 0,
+        "explanation": "The zebra led Finn and baby elephant to the watering hole, where mama elephant was waiting."
+      },
+      {
+        "id": "q4",
+        "question": "How did mama elephant thank Finn?",
+        "choices": [
+          "She gave him a hug with her trunk",
+          "She gave him food",
+          "She sang a song"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama elephant lifted Finn up high with her trunk and gave him the best elephant hug ever to thank him for helping her baby."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "sad",
+            "distractors": [
+              "happy",
+              "loud"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "elephant",
+            "distractors": [
+              "zebra",
+              "lion"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 5,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "zebra",
+            "distractors": [
+              "giraffe",
+              "monkey"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "mama",
+            "distractors": [
+              "papa",
+              "baby"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

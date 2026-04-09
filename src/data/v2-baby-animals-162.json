@@ -1,0 +1,142 @@
+{
+  "id": "v2-baby-animals-162",
+  "title": "Finn Meets the Savanna Friends",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "animals",
+    "nature"
+  ],
+  "wordCount": 50,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Finn explores the warm savanna and meets friendly animals who teach him their sounds and movements in this gentle introduction to African wildlife.",
+  "coverImage": "covers/v2-baby-animals-162.webp",
+  "chapters": [
+    {
+      "title": "Safari Adventure",
+      "pages": [
+        {
+          "text": "Finn walks in the warm grass. The sun is big and orange.",
+          "illustration": {
+            "description": "A gouache painting with thick brushstrokes showing a small boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes walking through golden savanna grass under an orange sunset sky, painted in warm colors with bold confident strokes",
+            "alt": "Finn walking through golden savanna grass",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Look! A big elephant says hello. Trumpet! Trumpet!",
+          "illustration": {
+            "description": "A textured painterly gouache scene with thick brushstrokes showing an expressive elephant trumpeting next to a small boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes, painted in warm savanna colors with golden grass and orange sunset tones",
+            "alt": "Finn meeting a trumpeting elephant",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A tall giraffe bends down. Finn reaches up high!",
+          "illustration": {
+            "description": "A gouache painting with bold confident strokes depicting a spotted giraffe bending its long neck down toward a small boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes reaching upward, set against warm savanna colors and golden grass",
+            "alt": "Finn reaching up to touch a giraffe",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Roar! A friendly lion family plays in the sun.",
+          "illustration": {
+            "description": "An expressive gouache painting with thick brushstrokes showing a lion family playing together while a small boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes watches nearby, painted in textured painterly style with warm savanna colors and orange sunset light",
+            "alt": "Finn watching a lion family play",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Finn waves goodbye to all his new friends. What a fun day!",
+          "illustration": {
+            "description": "A gouache painting with bold confident strokes showing a small boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes waving goodbye to elephant, giraffe, and lions in the distance, painted with thick brushstrokes in warm savanna colors with golden grass under an orange sunset",
+            "alt": "Finn waving goodbye to savanna animals",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "exploration",
+      "animal sounds",
+      "nature appreciation"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does the elephant make?",
+        "choices": [
+          "Trumpet!",
+          "Roar!",
+          "Moo!"
+        ],
+        "correctIndex": 0,
+        "explanation": "Elephants make a trumpeting sound with their trunks!"
+      },
+      {
+        "id": "q2",
+        "question": "Which animal is very tall?",
+        "choices": [
+          "Giraffe",
+          "Lion",
+          "Elephant"
+        ],
+        "correctIndex": 0,
+        "explanation": "Giraffes are the tallest animals in the world!"
+      },
+      {
+        "id": "q3",
+        "question": "What color is the sun in the story?",
+        "choices": [
+          "Orange",
+          "Blue",
+          "Green"
+        ],
+        "correctIndex": 0,
+        "explanation": "The sun is big and orange in the savanna sky!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "orange",
+            "distractors": [
+              "purple",
+              "green"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "elephant",
+            "distractors": [
+              "monkey",
+              "zebra"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

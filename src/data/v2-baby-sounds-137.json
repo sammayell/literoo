@@ -1,0 +1,142 @@
+{
+  "id": "v2-baby-sounds-137",
+  "title": "Amara's Sound Safari",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "sounds",
+    "counting"
+  ],
+  "wordCount": 93,
+  "readingLevel": "Pre-K",
+  "synopsis": "Join Amara as she discovers different sounds in her world, counting from one to five while exploring the magical way sounds look and feel around her.",
+  "coverImage": "covers/v2-baby-sounds-137.webp",
+  "chapters": [
+    {
+      "title": "Amara's Sound Safari",
+      "pages": [
+        {
+          "text": "Amara loves sounds! She sees them everywhere. One bird goes TWEET! The sound looks like tiny blue bubbles floating up.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes pointing up at a bird. Small blue bubble-like shapes float upward from the bird, representing the tweet sound visually.",
+            "alt": "Amara looking up at a bird with blue bubble sounds floating in the air",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Two dogs go WOOF WOOF! Their barks look like orange zigzag lightning bolts bouncing in the air.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes watching two dogs. Bright orange jagged zigzag lines shoot from the dogs' mouths, visualizing their barking sounds.",
+            "alt": "Amara watching two dogs with orange zigzag bark sounds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Three cats say MEOW MEOW MEOW! Their sounds are wiggly pink ribbons that dance and curl.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes sitting near three cats. Pink curvy ribbon-like shapes flow and swirl from each cat, representing their meowing sounds as visible wavy forms.",
+            "alt": "Amara with three cats and pink ribbon-like meow sounds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Four bees buzz BUZZ BUZZ BUZZ BUZZ! Yellow dotted circles spin around like tiny suns.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes in a garden with four bees. Yellow circular dotted patterns swirl around each bee, making the buzzing sounds visible as spinning golden rings.",
+            "alt": "Amara in a garden with four bees and yellow buzzing sound circles",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Five frogs go RIBBIT RIBBIT RIBBIT RIBBIT RIBBIT! Green bouncy springs hop up and down. Amara claps for all the wonderful sounds she can see!",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes clapping her hands near a pond with five frogs. Green spring-like coil shapes bounce up and down from each frog, and rainbow-colored sound waves emanate from her clapping hands.",
+            "alt": "Amara clapping by a pond with five frogs and green bouncing sound springs",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "sound exploration",
+      "counting",
+      "sensory experience",
+      "nature sounds"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "sound made visible, wavy lines for music, jagged lines for crashes, dots for whispers, synesthesia inspired, seeing sound, color and shape for noise, vibration visual"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How many dogs did Amara see?",
+        "choices": [
+          "One",
+          "Two",
+          "Three"
+        ],
+        "correctIndex": 1,
+        "explanation": "Amara saw two dogs that went WOOF WOOF!"
+      },
+      {
+        "id": "q2",
+        "question": "What color were the cat sounds?",
+        "choices": [
+          "Pink",
+          "Blue",
+          "Yellow"
+        ],
+        "correctIndex": 0,
+        "explanation": "The cat meows looked like wiggly pink ribbons!"
+      },
+      {
+        "id": "q3",
+        "question": "How many frogs were by the pond?",
+        "choices": [
+          "Three",
+          "Four",
+          "Five"
+        ],
+        "correctIndex": 2,
+        "explanation": "Five frogs went RIBBIT with green bouncy springs!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "WOOF",
+            "distractors": [
+              "MEOW",
+              "BUZZ"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "Three",
+            "distractors": [
+              "Two",
+              "Four"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "id": "v2-early_reader-family-068",
+  "title": "Theo's Big Kitchen Adventure",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "family",
+    "adventure"
+  ],
+  "wordCount": 505,
+  "readingLevel": "Pre-K to Grade 1",
+  "synopsis": "When Theo's family prepares for Grandma's surprise birthday party, he embarks on a kitchen adventure helping with cooking, shopping, and baking. Through mishaps and triumphs, Theo learns that the best ingredient in any recipe is love shared with family.",
+  "coverImage": "covers/v2-early_reader-family-068.webp",
+  "chapters": [
+    {
+      "title": "The Big Surprise",
+      "pages": [
+        {
+          "text": "Theo woke up to wonderful smells coming from the kitchen. His mom was making pancakes, and his dad was stirring something that smelled like cinnamon. 'What's happening?' asked Theo, rubbing his sleepy eyes.",
+          "illustration": {
+            "description": "A cozy kitchen scene with warm yellow morning light streaming through windows. Theo with short curly blonde hair, light skin, round blue eyes stands in pajamas at the kitchen doorway. His parents are cooking at the stove with steam rising from pans, flour dusting the counters, and everyone wearing colorful aprons.",
+            "alt": "Theo entering a busy kitchen where his parents are cooking breakfast",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Today is Grandma's birthday!' said Mom with a big smile. 'We're going to make her favorite dinner and bake a special cake. It's going to be a surprise party!' Theo's round blue eyes grew wide with excitement. 'Can I help?' he asked, bouncing on his toes.",
+          "illustration": {
+            "description": "The family gathered around the dining table with warm orange light. Theo with short curly blonde hair, light skin, round blue eyes sits excitedly while Mom and Dad show him a recipe book. Flour, measuring cups, and baking ingredients are spread across the table in a cozy kitchen setting.",
+            "alt": "Family planning Grandma's surprise party around the kitchen table",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Of course you can help!' said Dad. 'We need to go shopping for ingredients, cook Grandma's favorite soup, and bake her chocolate cake. It's going to be a big adventure!' Theo clapped his hands together. This was going to be the best day ever!",
+          "illustration": {
+            "description": "Theo with short curly blonde hair, light skin, round blue eyes jumping with joy in the warm yellow kitchen. His parents are smiling and putting on aprons. Steam rises from breakfast cooking on the stove, and there's a cozy feeling of family togetherness with flour still dusting the counters.",
+            "alt": "Theo celebrating with his parents in their cozy kitchen",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Shopping Adventure",
+      "pages": [
+        {
+          "text": "At the grocery store, Theo had an important job. He held the shopping list while Mom and Dad pushed the cart. 'We need carrots, onions, and chicken for the soup,' read Mom. Theo carefully looked for each item like a detective on a mission.",
+          "illustration": {
+            "description": "Inside a bright grocery store with warm lighting. Theo with short curly blonde hair, light skin, round blue eyes holds a shopping list seriously, standing next to a cart full of vegetables. His parents are nearby selecting fresh ingredients, creating a cozy family shopping moment.",
+            "alt": "Theo helping his family shop for ingredients at the grocery store",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "In the baking aisle, something exciting happened. Theo spotted the chocolate chips on a high shelf. 'I can reach those!' he said, stretching up tall. But when he grabbed the bag, three more bags tumbled down! 'Oops!' laughed Theo as chocolate chips scattered everywhere.",
+          "illustration": {
+            "description": "A grocery aisle scene with Theo with short curly blonde hair, light skin, round blue eyes surrounded by scattered chocolate chip bags on the floor. Warm yellow store lighting creates a cozy atmosphere as his parents laugh good-naturedly, helping clean up the mess with other shoppers smiling nearby.",
+            "alt": "Theo accidentally spilling chocolate chips in the grocery store aisle",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Don't worry,' said a kind store worker. 'Accidents happen!' She helped them clean up while Theo's cheeks turned pink. 'Next time, I'll ask for help,' promised Theo. Mom gave him a hug. 'That's what makes you such a good helper,' she said.",
+          "illustration": {
+            "description": "The cozy grocery store scene with warm orange lighting as everyone works together. Theo with short curly blonde hair, light skin, round blue eyes gets a warm hug from Mom while the friendly store worker and Dad help clean up. It's a moment of family love and community kindness.",
+            "alt": "Family and store worker cleaning up together while Mom hugs Theo",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Cooking Together",
+      "pages": [
+        {
+          "text": "Back home, the real adventure began! Dad tied a special apron around Theo that was just his size. 'First, we wash the vegetables,' said Dad. Theo scrubbed each carrot until it shined. The kitchen filled with the sound of running water and happy humming.",
+          "illustration": {
+            "description": "A cozy kitchen with warm yellow light where Theo with short curly blonde hair, light skin, round blue eyes wears a small apron at the sink. Steam rises from warm water as he washes vegetables. Dad stands beside him in matching apron, and the counters show signs of loving food preparation.",
+            "alt": "Theo washing vegetables at the kitchen sink with Dad",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mom showed Theo how to stir the soup very carefully. 'Slow circles,' she said, guiding his small hands. The soup bubbled and steamed, filling the kitchen with the most amazing smell. 'It smells just like when Grandma cooks!' said Theo proudly.",
+          "illustration": {
+            "description": "The cozy kitchen filled with warm orange light and aromatic steam rising from a large pot on the stove. Theo with short curly blonde hair, light skin, round blue eyes stands on a step stool wearing his apron, stirring soup with Mom's help. Flour dusts the counters and the scene radiates homemade love.",
+            "alt": "Theo stirring soup on the stove with Mom's guidance",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "While the soup simmered, it was time for the best part - making the cake! Theo cracked eggs into a big bowl. One piece of shell fell in, but Dad showed him how to fish it out with a spoon. 'Even grown-ups make mistakes,' Dad winked.",
+          "illustration": {
+            "description": "A flour-dusted kitchen counter scene with warm yellow lighting. Theo with short curly blonde hair, light skin, round blue eyes concentrates on cracking eggs into a mixing bowl. Dad watches supportively nearby. Baking ingredients, measuring cups, and an open recipe book create a cozy baking atmosphere.",
+            "alt": "Theo cracking eggs for cake batter with Dad watching",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Perfect Party",
+      "pages": [
+        {
+          "text": "When Grandma arrived, Theo could barely contain his excitement. 'Surprise!' shouted the whole family. Grandma's eyes sparkled when she saw the beautiful dinner table set with her favorite flowers and the delicious soup steaming in bowls.",
+          "illustration": {
+            "description": "A warm dining room with cozy orange lighting where the family gathers around a beautifully set table. Theo with short curly blonde hair, light skin, round blue eyes stands excitedly next to Grandma. Steam rises from bowls of homemade soup, and the scene captures a perfect family gathering moment.",
+            "alt": "Family surprising Grandma at the beautifully set dinner table",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Did you help make this wonderful soup?' asked Grandma, taking Theo's hands in hers. 'I washed every carrot and stirred very carefully!' Theo beamed. 'And wait until you see the cake!' The whole family laughed at Theo's excitement.",
+          "illustration": {
+            "description": "An intimate dining table scene with warm yellow light. Theo with short curly blonde hair, light skin, round blue eyes sits close to Grandma, holding her hands. The family shares the meal around the cozy table with steam rising from the homemade soup, creating a moment of pure family love.",
+            "alt": "Theo telling Grandma about helping cook while holding her hands",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When they brought out the chocolate cake, Grandma clapped her hands with joy. 'This is the most beautiful cake I've ever seen!' she declared. As they all sang 'Happy Birthday,' Theo realized that the best ingredient in everything they made was love shared together as a family.",
+          "illustration": {
+            "description": "The cozy dining room glowing with warm orange candlelight from the birthday cake. Theo with short curly blonde hair, light skin, round blue eyes stands proudly next to the chocolate cake while the family sings. Steam still rises from empty soup bowls, and the scene captures the perfect end to their cooking adventure.",
+            "alt": "Family singing happy birthday around the chocolate cake with candles",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "helping others",
+      "cooking together",
+      "making mistakes and learning",
+      "showing love through actions"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What special day is the family celebrating?",
+        "choices": [
+          "Grandma's birthday",
+          "Theo's birthday",
+          "Mom's birthday"
+        ],
+        "correctIndex": 0,
+        "explanation": "The family is preparing a surprise party for Grandma's birthday with her favorite soup and chocolate cake."
+      },
+      {
+        "id": "q2",
+        "question": "What happened to Theo at the grocery store?",
+        "choices": [
+          "He got lost",
+          "He spilled chocolate chips",
+          "He broke something"
+        ],
+        "correctIndex": 1,
+        "explanation": "When Theo tried to reach chocolate chips on a high shelf, several bags fell down and scattered on the floor."
+      },
+      {
+        "id": "q3",
+        "question": "What did Theo learn to do carefully in the kitchen?",
+        "choices": [
+          "Crack eggs",
+          "Stir the soup",
+          "Both cracking eggs and stirring soup"
+        ],
+        "correctIndex": 2,
+        "explanation": "Theo learned to both stir the soup in slow circles and crack eggs, even though he made small mistakes along the way."
+      },
+      {
+        "id": "q4",
+        "question": "What did Theo think was the best ingredient in their cooking?",
+        "choices": [
+          "Chocolate chips",
+          "Love shared together",
+          "Carrots"
+        ],
+        "correctIndex": 1,
+        "explanation": "At the end of the story, Theo realized that love shared together as a family was the best ingredient in everything they made."
+      },
+      {
+        "id": "q5",
+        "question": "How did the family help Theo when he made mistakes?",
+        "choices": [
+          "They got angry",
+          "They were kind and supportive",
+          "They made him stop helping"
+        ],
+        "correctIndex": 1,
+        "explanation": "When Theo spilled chocolate chips or got eggshell in the batter, his family was understanding and helped him learn from his mistakes."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "kitchen",
+            "distractors": [
+              "bedroom",
+              "garage"
+            ]
+          },
+          {
+            "wordIndex": 25,
+            "correctWord": "birthday",
+            "distractors": [
+              "vacation",
+              "wedding"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "chocolate",
+            "distractors": [
+              "vanilla",
+              "strawberry"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "help",
+            "distractors": [
+              "run",
+              "sleep"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "soup",
+            "distractors": [
+              "pizza",
+              "sandwich"
+            ]
+          },
+          {
+            "wordIndex": 22,
+            "correctWord": "love",
+            "distractors": [
+              "sugar",
+              "salt"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

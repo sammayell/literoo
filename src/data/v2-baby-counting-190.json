@@ -1,0 +1,139 @@
+{
+  "id": "v2-baby-counting-190",
+  "title": "Jasper's Happy Numbers",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "counting",
+    "feelings"
+  ],
+  "wordCount": 17,
+  "readingLevel": "Pre-K",
+  "synopsis": "Join Jasper as he discovers numbers 1 through 5 while experiencing different emotions. From one happy smile to five sleepy yawns, this counting adventure helps little ones learn numbers and feelings together.",
+  "coverImage": "covers/v2-baby-counting-190.webp",
+  "chapters": [
+    {
+      "title": "Counting My Feelings",
+      "pages": [
+        {
+          "text": "One happy smile!",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes showing one big smile, with a large number '1' displayed prominently above him against a sunny yellow background with cheerful patterns",
+            "alt": "Boy with one happy smile and number 1",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Two excited claps!",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes clapping his hands twice, with two large handprints and the number '2' arranged in a fun pattern on an orange background",
+            "alt": "Boy clapping with number 2 and handprints",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Three worried frowns.",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes showing concern, surrounded by three cloud shapes representing worries and the number '3' in soft blue tones with gentle patterns",
+            "alt": "Boy with worried expression and number 3",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Four angry stomps!",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes stamping his feet, with four footprint shapes and the number '4' arranged in a bold red background with zigzag patterns",
+            "alt": "Boy stomping with four footprints and number 4",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Five sleepy yawns. Good night!",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes yawning tiredly, with five star shapes and the number '5' floating around him on a peaceful purple nighttime background with moon patterns",
+            "alt": "Sleepy boy yawning with five stars and number 5",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "counting",
+      "emotions",
+      "self-expression",
+      "number recognition"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "clear countable objects, fun patterns, numbers prominent, visual counting, each number unique scene, engaging practice, organized arrangement, mathematical beauty"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How many times did Jasper clap?",
+        "choices": [
+          "Two",
+          "Three"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jasper clapped two times when he was excited!"
+      },
+      {
+        "id": "q2",
+        "question": "What did Jasper do five times?",
+        "choices": [
+          "Yawn",
+          "Clap"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jasper yawned five times because he was sleepy!"
+      },
+      {
+        "id": "q3",
+        "question": "How many smiles did happy Jasper have?",
+        "choices": [
+          "One",
+          "Four"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jasper had one big happy smile!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 0,
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "happy",
+            "distractors": [
+              "sad",
+              "mad"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "excited",
+            "distractors": [
+              "tired",
+              "angry"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

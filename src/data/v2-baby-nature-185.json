@@ -1,0 +1,131 @@
+{
+  "id": "v2-baby-nature-185",
+  "title": "Isla's Peek-a-Boo Seasons",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "nature",
+    "peek-a-boo"
+  ],
+  "wordCount": 37,
+  "readingLevel": "Pre-K",
+  "synopsis": "Baby Isla discovers the changing seasons through peek-a-boo games with nature, from spring flowers to winter snowflakes.",
+  "coverImage": "covers/v2-baby-nature-185.webp",
+  "chapters": [
+    {
+      "title": "Peek-a-Boo Through the Year",
+      "pages": [
+        {
+          "text": "Peek-a-boo, spring! Where is Isla? Behind the pink flowers!",
+          "illustration": {
+            "description": "A toddler girl with long wavy red hair, very fair freckled skin, bright green eyes hiding behind blooming cherry blossoms in a garden with soft spring pastels of pink, light green, and pale yellow",
+            "alt": "Isla playing peek-a-boo behind spring flowers",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo, summer! Where is Isla? Under the big green tree!",
+          "illustration": {
+            "description": "A toddler girl with long wavy red hair, very fair freckled skin, bright green eyes sitting under a large oak tree with vibrant summer colors of bright green leaves, golden sunshine, and blue sky",
+            "alt": "Isla hiding under a summer tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo, autumn! Where is Isla? In the orange leaves!",
+          "illustration": {
+            "description": "A toddler girl with long wavy red hair, very fair freckled skin, bright green eyes playing in a pile of fallen autumn leaves with warm colors of orange, red, golden yellow, and brown",
+            "alt": "Isla hiding in autumn leaves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo, winter! Where is Isla? Behind the white snowman!",
+          "illustration": {
+            "description": "A toddler girl with long wavy red hair, very fair freckled skin, bright green eyes peeking from behind a snowman with cool winter colors of white snow, pale blue sky, and silver tree branches",
+            "alt": "Isla hiding behind a winter snowman",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "seasons",
+      "nature",
+      "peek-a-boo games",
+      "outdoor play"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "seasonal cycle, spring pastels, summer brights, autumn warmth, winter cool, same scene different seasons, time passing, nature calendar, cyclical beauty"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color are the spring flowers?",
+        "choices": [
+          "pink",
+          "blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "The spring flowers are pink, like cherry blossoms!"
+      },
+      {
+        "id": "q2",
+        "question": "Where does Isla hide in summer?",
+        "choices": [
+          "under a tree",
+          "in water"
+        ],
+        "correctIndex": 0,
+        "explanation": "Isla hides under the big green tree in summer!"
+      },
+      {
+        "id": "q3",
+        "question": "What does Isla hide behind in winter?",
+        "choices": [
+          "a snowman",
+          "a rock"
+        ],
+        "correctIndex": 0,
+        "explanation": "Isla hides behind the white snowman in winter!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "spring",
+            "distractors": [
+              "winter",
+              "fall"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "tree",
+            "distractors": [
+              "house",
+              "car"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

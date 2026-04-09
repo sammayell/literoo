@@ -1,0 +1,139 @@
+{
+  "id": "v2-baby-feelings-103",
+  "title": "Lily's Colorful Feelings",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "feelings",
+    "colors"
+  ],
+  "wordCount": 71,
+  "readingLevel": "Pre-K",
+  "synopsis": "Join baby Lily as she discovers her different emotions through beautiful colors - from happy yellow sunshine to sad blue rain to angry red swirls.",
+  "coverImage": "covers/v2-baby-feelings-103.webp",
+  "chapters": [
+    {
+      "title": "Lily's Colorful Day",
+      "pages": [
+        {
+          "text": "This is Lily. Lily has many feelings. Today, Lily feels happy!",
+          "illustration": {
+            "description": "A joyful toddler girl with long curly auburn hair, fair skin with light freckles, green eyes dancing in a bright yellow sunshine background with golden swirls and warm light rays emanating around her",
+            "alt": "Happy Lily surrounded by bright yellow sunshine colors",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When Lily is happy, she sees bright yellow. Yellow like sunshine. Yellow makes Lily smile big!",
+          "illustration": {
+            "description": "A smiling toddler girl with long curly auburn hair, fair skin with light freckles, green eyes reaching up toward floating yellow orbs and sunshine beams in an abstract happy yellow landscape",
+            "alt": "Lily reaching for yellow happiness colors",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Sometimes Lily feels sad. When Lily is sad, she sees blue. Blue like rain drops.",
+          "illustration": {
+            "description": "A melancholy toddler girl with long curly auburn hair, fair skin with light freckles, green eyes sitting quietly as gentle blue raindrops fall around her in a soft blue misty background",
+            "alt": "Sad Lily with blue rain emotion colors",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When Lily gets angry, she sees red. Red swirls everywhere! Red like fire.",
+          "illustration": {
+            "description": "An upset toddler girl with long curly auburn hair, fair skin with light freckles, green eyes with clenched fists surrounded by intense red swirling patterns and flame-like abstract shapes",
+            "alt": "Angry Lily surrounded by red swirling emotions",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "All feelings are okay. Yellow happy, blue sad, red angry. Lily loves all her colorful feelings!",
+          "illustration": {
+            "description": "A peaceful toddler girl with long curly auburn hair, fair skin with light freckles, green eyes standing calmly in the center while yellow sunshine, blue raindrops, and red swirls blend harmoniously in the background",
+            "alt": "Lily embracing all her colorful emotions together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotional awareness",
+      "color association",
+      "feelings validation",
+      "self-acceptance"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "emotion mapped colors, angry red swirls, sad blue rain, happy yellow sunshine, abstract emotion backgrounds, Inside Out inspired, feeling visualization, color psychology"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color does Lily see when she's happy?",
+        "choices": [
+          "Yellow",
+          "Blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "Lily sees bright yellow like sunshine when she feels happy!"
+      },
+      {
+        "id": "q2",
+        "question": "What color are Lily's sad feelings?",
+        "choices": [
+          "Red",
+          "Blue"
+        ],
+        "correctIndex": 1,
+        "explanation": "When Lily feels sad, she sees blue like raindrops."
+      },
+      {
+        "id": "q3",
+        "question": "Are all of Lily's feelings okay?",
+        "choices": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yes! All feelings are okay - happy yellow, sad blue, and angry red."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "yellow",
+            "distractors": [
+              "red",
+              "blue"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 9,
+            "correctWord": "blue",
+            "distractors": [
+              "yellow",
+              "green"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

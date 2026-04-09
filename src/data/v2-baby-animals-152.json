@@ -1,0 +1,151 @@
+{
+  "id": "v2-baby-animals-152",
+  "title": "Kofi Meets the Baby Animals",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "animals",
+    "nature"
+  ],
+  "wordCount": 73,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Kofi explores the savanna and discovers adorable baby animals, learning their sounds and movements through gentle interactions.",
+  "coverImage": "covers/v2-baby-animals-152.webp",
+  "chapters": [
+    {
+      "title": "Baby Animals Everywhere",
+      "pages": [
+        {
+          "text": "Kofi walks in the warm grass. The sun shines bright.",
+          "illustration": {
+            "description": "A gouache painting with thick brushstrokes showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes walking through golden savanna grass under an orange sunset sky, painted with bold confident strokes in warm colors",
+            "alt": "Kofi walking through golden grass",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Look! A baby elephant! The baby elephant says TRUMPET! TRUMPET!",
+          "illustration": {
+            "description": "Textured painterly gouache showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes standing next to a small gray elephant calf with expressive eyes, painted with thick brushstrokes in warm savanna colors",
+            "alt": "Kofi with a baby elephant",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A baby zebra runs fast! Kofi claps his hands. The zebra says NEIGH!",
+          "illustration": {
+            "description": "Bold confident strokes in gouache showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes clapping while watching a small zebra with black and white stripes running through golden grass",
+            "alt": "Kofi clapping at a running baby zebra",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A tiny monkey swings down. CHATTER! CHATTER! Kofi laughs and waves.",
+          "illustration": {
+            "description": "Warm savanna colors in thick brushstroke gouache painting showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes waving at a small brown monkey hanging from a tree branch with expressive features",
+            "alt": "Kofi waving at a baby monkey",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The baby lion says ROAR! But it sounds like a tiny meow. Kofi giggles.",
+          "illustration": {
+            "description": "Textured painterly gouache with bold confident strokes showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes sitting near a fluffy lion cub with a small mane under the orange sunset sky",
+            "alt": "Kofi with a baby lion",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "All the baby animals play together. Kofi loves his animal friends! Time to go home.",
+          "illustration": {
+            "description": "Warm savanna colors gouache painting with thick brushstrokes showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes surrounded by all the baby animals - elephant, zebra, monkey, and lion - in golden grass with an orange sunset background",
+            "alt": "Kofi with all his baby animal friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "animals",
+      "nature",
+      "exploration",
+      "sounds"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does the baby elephant make?",
+        "choices": [
+          "TRUMPET!",
+          "ROAR!",
+          "NEIGH!"
+        ],
+        "correctIndex": 0,
+        "explanation": "The baby elephant says TRUMPET! TRUMPET!"
+      },
+      {
+        "id": "q2",
+        "question": "Which animal runs fast?",
+        "choices": [
+          "baby zebra",
+          "baby monkey",
+          "baby lion"
+        ],
+        "correctIndex": 0,
+        "explanation": "The baby zebra runs fast and Kofi claps his hands."
+      },
+      {
+        "id": "q3",
+        "question": "What does Kofi do when he sees the animals?",
+        "choices": [
+          "claps and waves",
+          "runs away",
+          "sleeps"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kofi claps his hands, waves, laughs, and giggles with the baby animals."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "TRUMPET",
+            "distractors": [
+              "ROAR",
+              "NEIGH"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "zebra",
+            "distractors": [
+              "elephant",
+              "monkey"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

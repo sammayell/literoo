@@ -1,0 +1,171 @@
+{
+  "id": "v2-baby-colors-066",
+  "title": "Hugo's Colorful Snacks",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "colors",
+    "food"
+  ],
+  "wordCount": 47,
+  "readingLevel": "Pre-K",
+  "synopsis": "Hugo explores different colored foods at snack time, learning colors through delicious treats like red apples, yellow bananas, and orange carrots.",
+  "coverImage": "covers/v2-baby-colors-066.webp",
+  "chapters": [
+    {
+      "title": "Hugo's Colorful Snacks",
+      "pages": [
+        {
+          "text": "Hugo is hungry! Time for snacks!",
+          "illustration": {
+            "description": "Hugo with straight light blonde hair, fair skin, light blue eyes sits at a small table with rainbow paint splatters around him, dominant blue background with finger paint aesthetic and joyful pure colors dripping down",
+            "alt": "Hugo sitting at a colorful table ready for snack time",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Red apple! Crunch, crunch, crunch!",
+          "illustration": {
+            "description": "Hugo with straight light blonde hair, fair skin, light blue eyes holding a bright red apple, dominant red background with splashy painterly style and paint splatter drips, sensory visual of red paint finger strokes",
+            "alt": "Hugo eating a red apple with red paint splatters",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Yellow banana! Yum, yum, yum!",
+          "illustration": {
+            "description": "Hugo with straight light blonde hair, fair skin, light blue eyes peeling a yellow banana, dominant yellow background with joyful pure color and finger paint aesthetic, yellow paint drips everywhere",
+            "alt": "Hugo enjoying a yellow banana with yellow paint effects",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Orange carrots! Munch, munch, munch!",
+          "illustration": {
+            "description": "Hugo with straight light blonde hair, fair skin, light blue eyes crunching orange carrot sticks, dominant orange background with splashy painterly style and paint splatter drips creating sensory visual experience",
+            "alt": "Hugo eating orange carrots with orange paint splatters",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Green grapes! Pop, pop, pop!",
+          "illustration": {
+            "description": "Hugo with straight light blonde hair, fair skin, light blue eyes eating green grapes one by one, dominant green background with rainbow colors and finger paint aesthetic, green paint drips and splatters",
+            "alt": "Hugo popping green grapes in his mouth with green paint effects",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Purple plums! So sweet and juicy!",
+          "illustration": {
+            "description": "Hugo with straight light blonde hair, fair skin, light blue eyes biting into a purple plum, dominant purple background with joyful pure color and splashy painterly style, purple paint splatter drips around him",
+            "alt": "Hugo enjoying a purple plum with purple paint splatters",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Hugo loves colorful snacks! Red, yellow, orange, green, purple - so many colors to eat!",
+          "illustration": {
+            "description": "Hugo with straight light blonde hair, fair skin, light blue eyes surrounded by all the colorful foods, rainbow colors dominant with splashy painterly finger paint aesthetic, paint splatter drips of all colors creating sensory visual joy",
+            "alt": "Hugo surrounded by all his colorful snacks with rainbow paint effects",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "colors",
+      "healthy eating",
+      "sensory exploration",
+      "food recognition"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "rainbow colors, splashy painterly, one color dominant per scene, paint splatter drips, sensory visual, joyful pure color, finger paint aesthetic, color exploration"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color is Hugo's apple?",
+        "choices": [
+          "red",
+          "blue",
+          "green"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hugo eats a red apple that goes crunch, crunch, crunch!"
+      },
+      {
+        "id": "q2",
+        "question": "What yellow food does Hugo eat?",
+        "choices": [
+          "banana",
+          "carrot",
+          "grape"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hugo peels and eats a yellow banana that tastes yum, yum, yum!"
+      },
+      {
+        "id": "q3",
+        "question": "What sound do the grapes make?",
+        "choices": [
+          "pop",
+          "crunch",
+          "munch"
+        ],
+        "correctIndex": 0,
+        "explanation": "The green grapes go pop, pop, pop when Hugo eats them!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Red",
+            "distractors": [
+              "Blue",
+              "Green"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Yellow",
+            "distractors": [
+              "Purple",
+              "Orange"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Orange",
+            "distractors": [
+              "Red",
+              "Yellow"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

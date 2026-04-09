@@ -1,0 +1,182 @@
+{
+  "id": "v2-toddler-humor-077",
+  "title": "Amara's Silly Magic Sneeze",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "humor",
+    "fantasy"
+  ],
+  "wordCount": 186,
+  "readingLevel": "Pre-K",
+  "synopsis": "When little Amara catches a magical cold, her sneezes create hilariously unexpected magical surprises that turn her ordinary day into a wonderfully wacky adventure.",
+  "coverImage": "covers/v2-toddler-humor-077.webp",
+  "chapters": [
+    {
+      "title": "The Magic Sneeze Begins",
+      "pages": [
+        {
+          "text": "Amara woke up with a tickle in her nose. \"Ah... ah... ACHOO!\" she sneezed. POOF! Pink sparkles flew everywhere, and suddenly her teddy bear was dancing around the room!",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes sits up in bed with an exaggerated surprised expression, mouth wide open in a perfect O shape. Pink magical sparkles swirl everywhere while her teddy bear bounces wildly with rubber arms and legs stretched in impossible poses. The room is painted in candy bright colors with bouncy, dynamic energy.",
+            "alt": "Amara looking surprised as pink sparkles fill her colorful bedroom while her teddy bear dances",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Oh my!\" giggled Amara. She tried to catch her dancing teddy, but then... \"ACHOO!\" Another sneeze! This time, all her toys started singing silly songs and marching in a parade around her room.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes reaches out with exaggerated stretchy arms trying to catch her teddy bear. Her toys form a wacky parade - blocks with faces singing with mouths wide open, toy cars with googly eyes, and stuffed animals in comedic marching poses. Everything bounces with slapstick energy in bright candy colors.",
+            "alt": "Amara reaching for her teddy while her toys march and sing in a colorful parade",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Amara's mom peeked in and saw the magical mess. \"Looks like you have a magic sneeze, sweetie!\" she laughed. The toys were still dancing and making funny faces at each other.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes sits cross-legged with an enormous grin, while her mom peeks through the doorway with exaggerated wide eyes and raised eyebrows. The toys continue their silly antics with squash and stretch movements, making goofy faces with oversized expressions in the candy bright colored room.",
+            "alt": "Amara grinning widely as her mom peeks in at the dancing toys making funny faces",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sneeze Magic Everywhere",
+      "pages": [
+        {
+          "text": "At breakfast, Amara felt another tickle. \"Ah... ah...\" Her pancakes started giggling! \"ACHOO!\" The syrup turned into golden bouncy balls that hopped all over the table like tiny trampolines.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes sits at a bright table with her face scrunched up mid-sneeze. Her pancakes have silly cartoon faces with oversized smiles, while golden syrup balls bounce everywhere with exaggerated squash and stretch motion. The kitchen explodes with candy bright colors and slapstick energy.",
+            "alt": "Amara sneezing at breakfast while her pancakes giggle and syrup bounces like balls",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Outside, Amara sneezed again. \"ACHOO!\" The flowers started doing the wiggle dance, and the butterflies flew in funny zigzag patterns, spelling out silly words in the sky like \"BOING\" and \"WHEEE!\"",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes stands in a garden with her arms outstretched, mid-sneeze with magical sparkles erupting from her nose. Flowers with cartoon faces wiggle with rubber hose animation, while butterflies create loopy, bouncy flight paths spelling words in the sky. Everything pulses with comedic poses and bright candy colors.",
+            "alt": "Amara sneezing in a garden as flowers dance and butterflies spell silly words in the sky",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "By bedtime, Amara's magic sneezes were getting quieter. \"Achoo!\" she whispered, and just one tiny star appeared above her pillow. \"That was the silliest day ever!\" she giggled, hugging her still-dancing teddy bear.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes lies in bed with an enormous happy smile, cuddling her teddy bear who still has a goofy dancing pose. A single tiny star twinkles above with exaggerated sparkle effects. The bedroom glows with soft candy bright colors, and everything has a gentle, bouncy feel as the magical day winds down.",
+            "alt": "Amara smiling in bed with her dancing teddy bear as a single star twinkles above",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "magic",
+      "imagination",
+      "everyday adventures",
+      "cause and effect"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What happened when Amara first sneezed?",
+        "choices": [
+          "Her teddy bear started dancing",
+          "Her bed disappeared",
+          "She turned purple"
+        ],
+        "correctIndex": 0,
+        "explanation": "When Amara sneezed the first time, pink sparkles flew everywhere and her teddy bear started dancing around the room!"
+      },
+      {
+        "id": "q2",
+        "question": "What did the syrup turn into at breakfast?",
+        "choices": [
+          "Golden bouncy balls",
+          "Purple butterflies",
+          "Singing spoons"
+        ],
+        "correctIndex": 0,
+        "explanation": "The syrup turned into golden bouncy balls that hopped all over the table like tiny trampolines."
+      },
+      {
+        "id": "q3",
+        "question": "What silly words did the butterflies spell in the sky?",
+        "choices": [
+          "BOING and WHEEE",
+          "HELLO and GOODBYE",
+          "UP and DOWN"
+        ],
+        "correctIndex": 0,
+        "explanation": "The butterflies flew in zigzag patterns and spelled silly words like 'BOING' and 'WHEEE' in the sky."
+      },
+      {
+        "id": "q4",
+        "question": "What appeared above Amara's pillow at bedtime?",
+        "choices": [
+          "One tiny star",
+          "A big moon",
+          "Colorful clouds"
+        ],
+        "correctIndex": 0,
+        "explanation": "When Amara sneezed quietly at bedtime, just one tiny star appeared above her pillow."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "sneezed",
+            "distractors": [
+              "jumped",
+              "sang"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "dancing",
+            "distractors": [
+              "sleeping",
+              "hiding"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "pancakes",
+            "distractors": [
+              "cookies",
+              "apples"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "bouncy",
+            "distractors": [
+              "sleepy",
+              "angry"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

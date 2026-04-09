@@ -1,0 +1,188 @@
+{
+  "id": "v2-toddler-bedtime-068",
+  "title": "Theo's Sleepy Night",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "bedtime",
+    "feelings"
+  ],
+  "wordCount": 184,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Theo feels scared at bedtime, but with gentle breathing and cozy comfort, he discovers that nighttime can be peaceful and safe.",
+  "coverImage": "covers/v2-toddler-bedtime-068.webp",
+  "chapters": [
+    {
+      "title": "Theo Feels Scared",
+      "pages": [
+        {
+          "text": "Theo was ready for bed. His pajamas were on and his teeth were clean. But when Mommy turned off the light, Theo felt scared. The room looked big and dark.",
+          "illustration": {
+            "description": "A young boy with short curly blonde hair, light skin, round blue eyes wearing soft blue pajamas, standing in a dimly lit bedroom with soft watercolor, dreamy purple and blue gradients, gentle moonlight streaming through the window, ethereal atmosphere, pastel palette",
+            "alt": "Theo in his pajamas looking worried in his darkened bedroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I don't like the dark,\" Theo whispered. His heart felt fluttery like a little bird. Mommy sat on his bed and gave him a gentle hug. \"It's okay to feel scared,\" she said softly.",
+          "illustration": {
+            "description": "A mother hugging a young boy with short curly blonde hair, light skin, round blue eyes on a cozy bed, soft watercolor, dreamy purple and blue gradients, floating clouds around them, glowing stars beginning to appear, round sleepy faces, gentle moonlight, ethereal atmosphere, pastel palette",
+            "alt": "Theo getting a comforting hug from his mother on his bed",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Learning to Feel Calm",
+      "pages": [
+        {
+          "text": "\"Let's try something special,\" Mommy said. \"Take a deep breath in like you're smelling flowers.\" Theo breathed in slowly. \"Now breathe out like you're blowing bubbles.\" Theo felt a little better.",
+          "illustration": {
+            "description": "A young boy with short curly blonde hair, light skin, round blue eyes sitting peacefully with his mother, surrounded by imaginary floating flowers and bubbles, soft watercolor, dreamy purple and blue gradients, glowing stars, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette",
+            "alt": "Theo practicing deep breathing with his mother surrounded by flowers and bubbles",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mommy showed Theo how the stars were like tiny night lights. \"They watch over you while you sleep,\" she explained. Theo looked up and saw them twinkling softly through his window.",
+          "illustration": {
+            "description": "A young boy with short curly blonde hair, light skin, round blue eyes looking up at a starry sky through a window, soft watercolor, dreamy purple and blue gradients, glowing stars scattered across the sky, round sleepy faces in the clouds, gentle moonlight, ethereal atmosphere, pastel palette",
+            "alt": "Theo gazing at the twinkling stars through his bedroom window",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sweet Dreams",
+      "pages": [
+        {
+          "text": "Theo snuggled under his soft blanket. The scary feelings were getting smaller and smaller. \"The night is peaceful,\" Mommy whispered. \"You are safe and loved.\"",
+          "illustration": {
+            "description": "A young boy with short curly blonde hair, light skin, round blue eyes tucked cozily under a soft blanket with his mother beside him, soft watercolor, dreamy purple and blue gradients, glowing stars above, floating clouds, round sleepy faces, gentle moonlight filling the room, ethereal atmosphere, pastel palette",
+            "alt": "Theo tucked safely in bed with his mother nearby and stars glowing above",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Theo closed his eyes and took another flower breath. The stars kept twinkling, and soon he felt sleepy and calm. \"Goodnight, stars,\" he whispered. \"Goodnight, Mommy.\" And Theo drifted off to sweet dreams.",
+          "illustration": {
+            "description": "A young boy with short curly blonde hair, light skin, round blue eyes sleeping peacefully with a gentle smile, soft watercolor, dreamy purple and blue gradients, glowing stars creating a magical canopy above, floating clouds, round sleepy faces, gentle moonlight, ethereal atmosphere, pastel palette",
+            "alt": "Theo sleeping peacefully under a canopy of twinkling stars",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "overcoming fear",
+      "bedtime routine",
+      "emotional regulation",
+      "parent-child bonding",
+      "feeling safe"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Theo feel when the lights went out?",
+        "choices": [
+          "scared",
+          "happy",
+          "hungry"
+        ],
+        "correctIndex": 0,
+        "explanation": "Theo felt scared when Mommy turned off the light because the room looked big and dark."
+      },
+      {
+        "id": "q2",
+        "question": "What did Mommy teach Theo to help him feel better?",
+        "choices": [
+          "deep breathing",
+          "jumping",
+          "singing"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mommy taught Theo to breathe in like smelling flowers and breathe out like blowing bubbles."
+      },
+      {
+        "id": "q3",
+        "question": "What did Mommy say the stars were like?",
+        "choices": [
+          "tiny night lights",
+          "big rocks",
+          "loud sounds"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mommy told Theo that the stars were like tiny night lights that watch over him while he sleeps."
+      },
+      {
+        "id": "q4",
+        "question": "How did Theo feel at the end of the story?",
+        "choices": [
+          "sleepy and calm",
+          "scared and worried",
+          "angry and loud"
+        ],
+        "correctIndex": 0,
+        "explanation": "After learning to breathe deeply and seeing the stars, Theo felt sleepy and calm and drifted off to sweet dreams."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "silly"
+            ]
+          },
+          {
+            "wordIndex": 20,
+            "correctWord": "dark",
+            "distractors": [
+              "bright",
+              "small"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "flowers",
+            "distractors": [
+              "cookies",
+              "trucks"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "bubbles",
+            "distractors": [
+              "rocks",
+              "books"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

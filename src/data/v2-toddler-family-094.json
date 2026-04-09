@@ -1,0 +1,212 @@
+{
+  "id": "v2-toddler-family-094",
+  "title": "Marcus Makes Pancakes",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "family",
+    "humor"
+  ],
+  "wordCount": 211,
+  "readingLevel": "Pre-K",
+  "synopsis": "Marcus tries to help make pancakes for breakfast but creates a floury mess in the kitchen. With his family's help and lots of laughter, they turn the chaos into a fun cooking adventure that brings everyone together.",
+  "coverImage": "covers/v2-toddler-family-094.webp",
+  "chapters": [
+    {
+      "title": "The Big Helper",
+      "pages": [
+        {
+          "text": "Marcus woke up hungry. His tummy made grumbly sounds. \"Pancakes!\" he said. \"I want pancakes!\"",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes stretching and yawning in his pajamas in a cozy bedroom with warm morning sunlight streaming through the window",
+            "alt": "Marcus waking up in bed looking hungry",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Marcus ran to the kitchen. Mommy was making coffee. \"Can we make pancakes?\" Marcus asked. \"Please, please, please?\"",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes tugging on his mother's robe in a cozy kitchen with warm yellow morning light, coffee steaming from a mug on the counter",
+            "alt": "Marcus asking his mom for pancakes in the kitchen",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Of course!\" Mommy smiled. \"But first, we need flour.\" Marcus climbed on his step stool. He reached for the big flour bag on the counter.",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes standing on a colorful step stool reaching for a large flour bag, his mother watching nearby in the cozy kitchen with warm orange morning light",
+            "alt": "Marcus reaching for flour while standing on a step stool",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "WHOOSH! The flour bag tipped over. White flour went everywhere! On Marcus, on the counter, on the floor. Even on the cat!",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes covered in white flour dust, flour clouds everywhere in the cozy kitchen, a surprised cat also dusted with flour, warm lighting creating a humorous scene",
+            "alt": "Marcus and the kitchen covered in flour after an accident",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Oops!\" Marcus giggled. He looked like a little ghost! Mommy started laughing too. \"Well, we definitely have enough flour now!\"",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes covered in flour looking like a little ghost, giggling while his mother laughs in the flour-dusted cozy kitchen with warm yellow light",
+            "alt": "Marcus and his mom laughing about the flour mess",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Pancake Party",
+      "pages": [
+        {
+          "text": "Daddy came running. \"What happened here?\" He saw Marcus covered in flour and started laughing. \"It looks like it snowed in our kitchen!\"",
+          "illustration": {
+            "description": "Daddy discovering Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes covered in flour, the whole family laughing together in the flour-covered cozy kitchen with warm orange morning light",
+            "alt": "Dad finding the flour mess and laughing with the family",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Let's clean up together,\" said Mommy. They swept and wiped. Marcus helped with a little broom. Soon the kitchen was clean again.",
+          "illustration": {
+            "description": "The family cleaning together, Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes using a small broom while his parents clean around him in the cozy kitchen with warm yellow light and steam from cleaning",
+            "alt": "The family working together to clean up the flour mess",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Now they could make pancakes! Marcus cracked eggs. Some shell fell in the bowl. \"That's okay,\" said Daddy. \"We'll fish it out.\"",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes carefully cracking eggs into a mixing bowl while wearing a small apron, his father helping nearby in the cozy kitchen with warm lighting",
+            "alt": "Marcus cracking eggs with his dad's help",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Marcus stirred the batter. Around and around and around. Splish splash! Some batter flew out of the bowl. \"Whoops!\" Marcus said.",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes enthusiastically stirring pancake batter with drops splashing around the bowl in the cozy kitchen with warm orange light and flour dust still settling",
+            "alt": "Marcus energetically stirring pancake batter with splashes",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Finally, the pancakes were ready! Golden and fluffy and warm. The whole family sat together. \"These are the best pancakes ever!\" said Marcus.",
+          "illustration": {
+            "description": "The family sitting around a dining table with a stack of golden pancakes, Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes smiling happily while eating, steam rising from the homemade pancakes in the cozy kitchen with warm yellow morning light",
+            "alt": "The family enjoying their homemade pancakes together at the table",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "cooking together",
+      "learning from mistakes",
+      "helping at home",
+      "everyday adventures"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Marcus want for breakfast?",
+        "choices": [
+          "Pancakes",
+          "Cereal",
+          "Toast"
+        ],
+        "correctIndex": 0,
+        "explanation": "Marcus woke up hungry and asked for pancakes!"
+      },
+      {
+        "id": "q2",
+        "question": "What happened when Marcus reached for the flour?",
+        "choices": [
+          "It spilled everywhere",
+          "He made perfect pancakes",
+          "He put it away"
+        ],
+        "correctIndex": 0,
+        "explanation": "The flour bag tipped over and went all over Marcus, the counter, and even the cat!"
+      },
+      {
+        "id": "q3",
+        "question": "How did Marcus's family react to the mess?",
+        "choices": [
+          "They laughed and helped clean",
+          "They got angry",
+          "They left the kitchen"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mommy and Daddy both started laughing, and then they all cleaned up together."
+      },
+      {
+        "id": "q4",
+        "question": "What did Marcus help with when making pancakes?",
+        "choices": [
+          "Cracking eggs and stirring",
+          "Just watching",
+          "Setting the table"
+        ],
+        "correctIndex": 0,
+        "explanation": "Marcus cracked eggs and stirred the batter, even though he made some little mistakes!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "pancakes",
+            "distractors": [
+              "cookies",
+              "waffles"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "flour",
+            "distractors": [
+              "sugar",
+              "salt"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 9,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "family",
+            "distractors": [
+              "friends",
+              "neighbors"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

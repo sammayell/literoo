@@ -1,0 +1,217 @@
+{
+  "id": "v2-toddler-nature-176",
+  "title": "Malik's Four Seasons Garden",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "nature",
+    "school"
+  ],
+  "wordCount": 224,
+  "readingLevel": "Pre-K",
+  "synopsis": "Follow young Malik through his first year at preschool as he discovers how the school garden changes through spring, summer, fall, and winter. A gentle introduction to the seasons and nature's cycles.",
+  "coverImage": "covers/v2-toddler-nature-176.webp",
+  "chapters": [
+    {
+      "title": "Spring Seeds",
+      "pages": [
+        {
+          "text": "Malik loves his new preschool! Today, Teacher Maya shows the children a special place. \"This is our garden,\" she says. \"We can plant seeds here.\"",
+          "illustration": {
+            "description": "A boy with short twists, dark brown skin, gentle expressive eyes stands with other preschoolers around a small rectangular garden plot beside a cheerful school building. The scene shows early spring with soft pastel colors, tiny green buds on nearby trees, and patches of melting snow. Teacher Maya holds a packet of seeds.",
+            "alt": "Malik and classmates discover the school garden in early spring",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Malik digs little holes in the soft brown dirt. He drops in tiny bean seeds. \"Will they really grow?\" he wonders. Teacher Maya waters the soil gently.",
+          "illustration": {
+            "description": "A close-up view of a boy with short twists, dark brown skin, gentle expressive eyes kneeling beside the garden bed, carefully placing small brown seeds into holes in the dark soil. Spring light filters through pale green leaves overhead, and small daffodils bloom nearby in soft yellow pastels.",
+            "alt": "Malik plants bean seeds in the spring garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Every day, Malik checks his seeds. Soon, tiny green shoots peek up through the soil. \"Look!\" Malik claps his hands. \"They're growing!\"",
+          "illustration": {
+            "description": "A boy with short twists, dark brown skin, gentle expressive eyes crouches excitedly next to the garden where small green sprouts emerge from the earth. The scene shows late spring with cherry blossoms in soft pink pastels on trees in the background and butterflies fluttering around.",
+            "alt": "Malik discovers his bean seedlings sprouting from the ground",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Summer Growth",
+      "pages": [
+        {
+          "text": "Summer is here! The sun shines bright and warm. Malik's bean plants are now tall with big green leaves. Yellow flowers bloom on the vines.",
+          "illustration": {
+            "description": "A boy with short twists, dark brown skin, gentle expressive eyes stands proudly next to tall bean plants that now reach his waist, with bright yellow flowers blooming. The summer scene bursts with vibrant colors - deep green foliage, bright blue sky, and colorful summer flowers like sunflowers and marigolds around the garden edges.",
+            "alt": "Malik admires his tall bean plants with yellow flowers in summer",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"The flowers will become beans,\" Teacher Maya explains. Malik waters his plants every morning. He sees bees buzzing from flower to flower.",
+          "illustration": {
+            "description": "A boy with short twists, dark brown skin, gentle expressive eyes holds a small watering can, sprinkling water on lush bean plants. Summer brightness fills the scene with golden sunlight, and several bees with fuzzy bodies visit the yellow bean flowers. Bright red tomatoes and orange marigolds add vibrant summer colors to the garden.",
+            "alt": "Malik waters his flowering bean plants while bees visit the blooms",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "By the end of summer, long green bean pods hang from Malik's plants. \"We can pick them soon,\" says Teacher Maya. Malik can hardly wait!",
+          "illustration": {
+            "description": "A boy with short twists, dark brown skin, gentle expressive eyes reaches toward long green bean pods hanging from tall, leafy plants. The late summer garden shows the same plot now lush and productive, with bright green beans ready for harvest and warm golden afternoon light filtering through the abundant foliage.",
+            "alt": "Malik reaches for ripe green bean pods ready to harvest",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Fall Harvest and Winter Rest",
+      "pages": [
+        {
+          "text": "Fall arrives with cool air and colorful leaves. Malik picks his beans with both hands. \"So many!\" he laughs. The class will cook them for snack time.",
+          "illustration": {
+            "description": "A boy with short twists, dark brown skin, gentle expressive eyes holds a small basket filled with fresh green beans. The autumn garden shows the same scene now transformed with warm oranges, deep reds, and golden yellows in the falling leaves around the garden plot. The bean plants show signs of the season's end.",
+            "alt": "Malik harvests his beans in the colorful autumn garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Winter comes quietly with soft white snow. The garden sleeps under a snowy blanket. \"Is it sad and empty?\" Malik asks Teacher Maya.",
+          "illustration": {
+            "description": "A boy with short twists, dark brown skin, gentle expressive eyes stands beside the same garden plot, now covered in pristine white snow. Cool winter blues and grays dominate the peaceful scene, with bare tree branches creating delicate patterns against the pale sky. The school building shows warm yellow light in its windows.",
+            "alt": "Malik looks at the snow-covered garden in winter",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"No,\" Teacher Maya smiles. \"The garden is resting. In spring, we'll plant new seeds. The seasons go round and round, just like our garden grows again and again.\"",
+          "illustration": {
+            "description": "A boy with short twists, dark brown skin, gentle expressive eyes stands with Teacher Maya looking at the winter garden, but in the corner of the illustration, a small circular inset shows the same garden through all four seasons - spring planting, summer growth, fall harvest, and winter rest - depicting the eternal cycle of the seasons.",
+            "alt": "Malik learns about the seasonal cycle with a view of all four seasons",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "seasonal changes",
+      "plant growth",
+      "patience",
+      "school community",
+      "nature cycles"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "seasonal cycle, spring pastels, summer brights, autumn warmth, winter cool, same scene different seasons, time passing, nature calendar, cyclical beauty"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Malik plant in the spring garden?",
+        "choices": [
+          "bean seeds",
+          "flower seeds",
+          "tree seeds"
+        ],
+        "correctIndex": 0,
+        "explanation": "Malik planted bean seeds in the spring, which grew into tall plants with pods he could harvest."
+      },
+      {
+        "id": "q2",
+        "question": "What color were the flowers on Malik's bean plants?",
+        "choices": [
+          "yellow",
+          "red",
+          "purple"
+        ],
+        "correctIndex": 0,
+        "explanation": "The bean plants had yellow flowers that bloomed in summer before turning into bean pods."
+      },
+      {
+        "id": "q3",
+        "question": "When did Malik harvest his beans?",
+        "choices": [
+          "fall",
+          "winter",
+          "spring"
+        ],
+        "correctIndex": 0,
+        "explanation": "Malik picked his beans in the fall when the pods were ready and the leaves were changing colors."
+      },
+      {
+        "id": "q4",
+        "question": "What covered the garden in winter?",
+        "choices": [
+          "snow",
+          "leaves",
+          "flowers"
+        ],
+        "correctIndex": 0,
+        "explanation": "In winter, soft white snow covered the garden like a blanket while it rested."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "garden",
+            "distractors": [
+              "playground",
+              "classroom"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "seeds",
+            "distractors": [
+              "toys",
+              "books"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 5,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "flowers",
+            "distractors": [
+              "leaves",
+              "roots"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 7,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "beans",
+            "distractors": [
+              "apples",
+              "carrots"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

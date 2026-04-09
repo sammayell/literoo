@@ -1,0 +1,151 @@
+{
+  "id": "v2-baby-counting-180",
+  "title": "Sofia Counts Happy Things",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "counting",
+    "feelings"
+  ],
+  "wordCount": 39,
+  "readingLevel": "Pre-K",
+  "synopsis": "Join Sofia as she counts from one to five while discovering happy things that make her smile, from sunshine to flowers to butterflies.",
+  "coverImage": "covers/v2-baby-counting-180.webp",
+  "chapters": [
+    {
+      "title": "Counting Happy Things",
+      "pages": [
+        {
+          "text": "One bright sun makes Sofia happy!",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes stands in a sunny garden, pointing up at one large yellow sun with a smiling face. The number 1 is prominently displayed in bright yellow.",
+            "alt": "Sofia pointing at one smiling sun",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Two red flowers make Sofia smile!",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes kneels beside two large red flowers arranged side by side. She has a big smile on her face. The number 2 is prominently displayed in red.",
+            "alt": "Sofia smiling at two red flowers",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Three blue birds make Sofia giggle!",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes sits on grass with her hands up in delight as three bright blue birds fly in a line above her. The number 3 is prominently displayed in blue.",
+            "alt": "Sofia giggling at three blue birds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Four yellow butterflies make Sofia dance!",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes dances with arms outstretched as four yellow butterflies flutter around her in an organized square pattern. The number 4 is prominently displayed in yellow.",
+            "alt": "Sofia dancing with four yellow butterflies",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Five green balloons make Sofia jump with joy!",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes jumps up high holding five green balloons arranged in a neat row on strings. Her expression shows pure joy. The number 5 is prominently displayed in green.",
+            "alt": "Sofia jumping with five green balloons",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Counting happy things makes Sofia feel wonderful!",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes sits surrounded by all the happy things: one sun, two flowers, three birds, four butterflies, and five balloons, all arranged in a beautiful organized pattern with numbers 1-5 displayed prominently.",
+            "alt": "Sofia surrounded by all the counted happy things",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "counting",
+      "happiness",
+      "nature",
+      "joy",
+      "numbers"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "clear countable objects, fun patterns, numbers prominent, visual counting, each number unique scene, engaging practice, organized arrangement, mathematical beauty"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How many suns make Sofia happy?",
+        "choices": [
+          "one",
+          "two",
+          "three"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sofia is happy with one bright sun!"
+      },
+      {
+        "id": "q2",
+        "question": "What color are the flowers?",
+        "choices": [
+          "red",
+          "blue",
+          "yellow"
+        ],
+        "correctIndex": 0,
+        "explanation": "The two flowers that make Sofia smile are red!"
+      },
+      {
+        "id": "q3",
+        "question": "How many balloons does Sofia have?",
+        "choices": [
+          "three",
+          "four",
+          "five"
+        ],
+        "correctIndex": 2,
+        "explanation": "Sofia jumps with joy holding five green balloons!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "bright",
+            "distractors": [
+              "dark",
+              "small"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "blue",
+            "distractors": [
+              "red",
+              "green"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

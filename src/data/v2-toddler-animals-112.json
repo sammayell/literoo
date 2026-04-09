@@ -1,0 +1,196 @@
+{
+  "id": "v2-toddler-animals-112",
+  "title": "Kofi and the Lost Baby Elephant",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "animals",
+    "adventure"
+  ],
+  "wordCount": 197,
+  "readingLevel": "Pre-K",
+  "synopsis": "Young Kofi discovers a lost baby elephant in the savanna and helps reunite her with her family through kindness and determination.",
+  "coverImage": "covers/v2-toddler-animals-112.webp",
+  "chapters": [
+    {
+      "title": "A Crying Sound",
+      "pages": [
+        {
+          "text": "Kofi loved walking in the golden savanna. The tall grass swayed in the warm wind. Birds chirped happy songs in the big baobab trees.",
+          "illustration": {
+            "description": "A gouache painting with thick brushstrokes showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes walking through golden grass in warm savanna colors, with baobab trees and colorful birds painted in bold confident strokes",
+            "alt": "Kofi walking through golden savanna grassland with birds in trees",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Suddenly, Kofi heard a sad sound. \"Waaaah! Waaaah!\" It was coming from behind the rocks. What could it be?",
+          "illustration": {
+            "description": "A textured painterly gouache scene showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes listening carefully near orange-colored rocks, with thick brushstrokes creating an atmosphere of curiosity in warm savanna colors",
+            "alt": "Kofi listening to crying sounds near large rocks",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Kofi walked closer. Behind the rocks was a tiny baby elephant! She was all alone and crying. Her trunk wiggled as she made sad noises.",
+          "illustration": {
+            "description": "An expressive gouache painting with bold confident strokes showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes discovering a small baby elephant with textured painterly details, painted in warm savanna colors with golden grass around them",
+            "alt": "Kofi finding a crying baby elephant behind rocks",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Don't cry, little elephant,\" said Kofi softly. \"I will help you find your family.\" The baby elephant looked up with big, hopeful eyes.",
+          "illustration": {
+            "description": "A warm gouache painting with thick brushstrokes showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes kneeling next to the baby elephant in golden grass, both painted with expressive details in warm savanna colors during an orange sunset",
+            "alt": "Kofi comforting the baby elephant",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Finding Family",
+      "pages": [
+        {
+          "text": "Kofi and the baby elephant walked together. They looked behind trees and near the watering hole. No elephant family anywhere!",
+          "illustration": {
+            "description": "A textured painterly gouache scene with bold confident strokes showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes walking alongside the baby elephant past baobab trees and a blue watering hole, painted in warm savanna colors",
+            "alt": "Kofi and baby elephant searching near trees and water",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Then Kofi had an idea. \"Let's climb that tall hill,\" he said. \"We can see far from up there!\" The baby elephant nodded her head.",
+          "illustration": {
+            "description": "An expressive gouache painting with thick brushstrokes showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes pointing up at a hill while the baby elephant looks up too, painted in warm savanna colors with golden grass and orange sunset light",
+            "alt": "Kofi pointing toward a tall hill with the baby elephant",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "From the top of the hill, they could see everything! Far away, near the big river, was a herd of elephants! \"There's your family!\" Kofi shouted happily.",
+          "illustration": {
+            "description": "A panoramic gouache painting with bold confident strokes showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes and the baby elephant on a hilltop, looking down at a herd of elephants by a river, painted with textured painterly techniques in warm savanna colors",
+            "alt": "View from hilltop showing elephant herd by the river",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "They ran down the hill together. The baby elephant trumpeted with joy when she saw her mama. The whole elephant family surrounded Kofi with gentle trunk hugs. \"Thank you, Kofi!\" they seemed to say.",
+          "illustration": {
+            "description": "A joyful gouache painting with thick brushstrokes and expressive details showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes being gently surrounded by a family of elephants with their trunks raised, painted in warm savanna colors with golden grass and orange sunset light using bold confident strokes",
+            "alt": "Kofi being thanked by the grateful elephant family",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "helping others",
+      "kindness",
+      "friendship",
+      "family",
+      "problem-solving"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound did Kofi hear in the savanna?",
+        "choices": [
+          "crying",
+          "singing",
+          "laughing"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kofi heard a sad crying sound that led him to find the lost baby elephant."
+      },
+      {
+        "id": "q2",
+        "question": "Who was making the sad sound?",
+        "choices": [
+          "a baby elephant",
+          "a bird",
+          "a lion"
+        ],
+        "correctIndex": 0,
+        "explanation": "Behind the rocks, Kofi found a baby elephant who was crying because she was lost."
+      },
+      {
+        "id": "q3",
+        "question": "Where did Kofi go to look for the elephant family?",
+        "choices": [
+          "up a tall hill",
+          "in a cave",
+          "under a tree"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kofi climbed a tall hill so he could see far and spot the elephant herd by the river."
+      },
+      {
+        "id": "q4",
+        "question": "How did the elephant family thank Kofi?",
+        "choices": [
+          "gentle trunk hugs",
+          "loud roaring",
+          "running away"
+        ],
+        "correctIndex": 0,
+        "explanation": "The elephant family surrounded Kofi with gentle trunk hugs to show their gratitude for helping the baby."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "crying",
+            "distractors": [
+              "singing",
+              "dancing"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "elephant",
+            "distractors": [
+              "giraffe",
+              "zebra"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 6,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "hill",
+            "distractors": [
+              "tree",
+              "rock"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

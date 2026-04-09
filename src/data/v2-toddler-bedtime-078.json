@@ -1,0 +1,182 @@
+{
+  "id": "v2-toddler-bedtime-078",
+  "title": "Yuki's Sleepy Stars",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "bedtime",
+    "feelings"
+  ],
+  "wordCount": 160,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Yuki feels worried about bedtime until she discovers the magic of counting sleepy stars that help her feel calm and ready for sweet dreams.",
+  "coverImage": "covers/v2-toddler-bedtime-078.webp",
+  "chapters": [
+    {
+      "title": "Yuki's Bedtime Worries",
+      "pages": [
+        {
+          "text": "Yuki sits on her bed with her favorite bunny. She feels worried because bedtime feels big and scary tonight.",
+          "illustration": {
+            "description": "A little girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes sitting on a bed holding a soft bunny. Soft watercolor, dreamy purple and blue gradients, floating clouds, gentle moonlight streaming through a window, ethereal atmosphere, pastel palette.",
+            "alt": "Yuki sitting on her bed with a bunny, moonlight coming through window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama comes and sits beside Yuki. 'What's making you feel worried, little star?' she asks with a gentle voice.",
+          "illustration": {
+            "description": "A mother sitting next to a little girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes on a bed. Soft watercolor, dreamy purple and blue gradients, glowing stars beginning to appear, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
+            "alt": "Mama sitting with Yuki on the bed talking gently",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'The dark feels too big,' Yuki whispers. 'And I don't know if I can sleep all by myself tonight.'",
+          "illustration": {
+            "description": "Close-up of a little girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes looking worried while hugging her bunny. Soft watercolor, dreamy purple and blue gradients, gentle shadows, round sleepy faces, ethereal atmosphere, pastel palette.",
+            "alt": "Yuki looking worried while hugging her bunny close",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama points to the window where tiny stars are starting to twinkle. 'Look, Yuki. The sleepy stars are coming to help you.'",
+          "illustration": {
+            "description": "A mother and little girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes looking out a window at twinkling stars. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces on the stars, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
+            "alt": "Mama and Yuki looking at stars through the window",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Counting Sleepy Stars",
+      "pages": [
+        {
+          "text": "'Let's count the sleepy stars together,' Mama says. 'One sleepy star says goodnight to all the bunnies.'",
+          "illustration": {
+            "description": "A glowing star with a sleepy face floating above a little girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes and her mother. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
+            "alt": "One glowing sleepy star floating above Yuki and Mama",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Two sleepy stars sing a quiet lullaby.' Yuki starts to feel calmer as she watches the gentle stars dance.",
+          "illustration": {
+            "description": "Two glowing stars with round sleepy faces floating and dancing above a little girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes who looks more relaxed. Soft watercolor, dreamy purple and blue gradients, glowing stars, musical notes floating in air, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
+            "alt": "Two sleepy stars dancing while Yuki watches, looking calmer",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Three sleepy stars sprinkle dream dust to make everything cozy and safe.' Yuki yawns and snuggles deeper into her blankets.",
+          "illustration": {
+            "description": "Three glowing stars with round sleepy faces sprinkling sparkly dust over a little girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes who is yawning in bed. Soft watercolor, dreamy purple and blue gradients, glowing stars, sparkling dream dust, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
+            "alt": "Three stars sprinkling dream dust while Yuki yawns in bed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Now Yuki feels sleepy and peaceful. 'Thank you, sleepy stars,' she whispers. 'I'm ready for sweet dreams now.' She closes her eyes with a smile.",
+          "illustration": {
+            "description": "A peaceful little girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes sleeping with a gentle smile, surrounded by many glowing stars with round sleepy faces. Soft watercolor, dreamy purple and blue gradients, glowing stars, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
+            "alt": "Yuki sleeping peacefully with a smile, surrounded by glowing sleepy stars",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "managing bedtime anxiety",
+      "finding comfort",
+      "counting",
+      "feeling safe"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How does Yuki feel at bedtime?",
+        "choices": [
+          "worried",
+          "hungry",
+          "excited"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yuki feels worried because bedtime feels big and scary to her."
+      },
+      {
+        "id": "q2",
+        "question": "What does Mama show Yuki to help her feel better?",
+        "choices": [
+          "sleepy stars",
+          "toy cars",
+          "picture books"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama shows Yuki the sleepy stars twinkling outside her window."
+      },
+      {
+        "id": "q3",
+        "question": "How many sleepy stars do Yuki and Mama count?",
+        "choices": [
+          "three",
+          "five",
+          "ten"
+        ],
+        "correctIndex": 0,
+        "explanation": "They count three sleepy stars that each do something special to help Yuki feel ready for sleep."
+      },
+      {
+        "id": "q4",
+        "question": "How does Yuki feel at the end of the story?",
+        "choices": [
+          "peaceful and sleepy",
+          "scared and worried",
+          "wide awake"
+        ],
+        "correctIndex": 0,
+        "explanation": "By the end, Yuki feels peaceful and sleepy, ready for sweet dreams."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "worried",
+            "distractors": [
+              "happy",
+              "silly"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "stars",
+            "distractors": [
+              "dogs",
+              "cars"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

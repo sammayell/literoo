@@ -1,0 +1,209 @@
+{
+  "id": "v2-toddler-adventure-195",
+  "title": "Zuri's Treasure Island Dream",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "adventure",
+    "bedtime"
+  ],
+  "wordCount": 233,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Zuri discovers a magical treasure map under her pillow and embarks on a dreamy adventure to find hidden treasure on a mysterious island, meeting friendly sea creatures along the way.",
+  "coverImage": "covers/v2-toddler-adventure-195.webp",
+  "chapters": [
+    {
+      "title": "The Magic Map",
+      "pages": [
+        {
+          "text": "Zuri was getting ready for bed when she found something crinkly under her pillow. It was an old treasure map! The paper felt rough and smelled like the ocean. 'X marks the spot!' she whispered excitedly.",
+          "illustration": {
+            "description": "A young girl with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes sits on her bed holding an aged parchment treasure map with dotted trails and compass roses, sepia tones creating a warm bedtime atmosphere",
+            "alt": "Zuri discovering a treasure map in her bedroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The map showed a beautiful island surrounded by blue water. There were palm trees, mountains, and a big red X near a cave. Zuri traced the dotted path with her finger. 'I wonder what treasure is there,' she yawned sleepily.",
+          "illustration": {
+            "description": "Close-up of the treasure map showing an island with palm trees and mountains, while a young girl with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes points to the red X, jewel accents sparkling on the aged parchment",
+            "alt": "Zuri examining the details of the treasure map",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sailing to Treasure Island",
+      "pages": [
+        {
+          "text": "When Zuri closed her eyes, she found herself on a little boat! The map was in her hands, and gentle waves rocked her toward the island. 'Ahoy there!' called a friendly dolphin swimming beside her boat.",
+          "illustration": {
+            "description": "A young girl with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes sits in a small wooden boat on sepia-toned waters, holding a treasure map, with a smiling dolphin jumping nearby and compass roses decorating the scene",
+            "alt": "Zuri sailing toward the island in a small boat",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Follow the dotted line,' sang a colorful parrot flying overhead. Zuri steered her boat carefully around rocks and coral. Soon she could see the sandy beach and swaying palm trees of Treasure Island getting closer and closer.",
+          "illustration": {
+            "description": "Adventure cartography style view showing a young girl with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes approaching a tropical island, with a bright parrot flying above and dotted trails leading to the shore on aged parchment background",
+            "alt": "Zuri approaching Treasure Island with a parrot guide",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Finding the Treasure",
+      "pages": [
+        {
+          "text": "Zuri followed the map's dotted path through tall grass and around big rocks. At the cave marked with the X, she found a wooden chest! Inside were the most beautiful shells, smooth stones, and sparkling jewels she had ever seen.",
+          "illustration": {
+            "description": "A young girl with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes kneels before an open treasure chest filled with shells and jewels, inside a cave entrance marked with a large X, jewel accents gleaming against sepia tones",
+            "alt": "Zuri discovering the treasure chest in the cave",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'The real treasure was the adventure,' Zuri smiled, holding a beautiful pearl. As the sun set, she felt sleepy again. When she opened her eyes, she was back in her cozy bed, but the pearl was still in her hand! Sweet dreams, little explorer.",
+          "illustration": {
+            "description": "A young girl with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes lies peacefully in her bed holding a glowing pearl, with the treasure map on her nightstand and compass roses floating dreamily in the background, hand-drawn maps style with warm sepia tones",
+            "alt": "Zuri back in bed with her magical pearl",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "adventure",
+      "imagination",
+      "dreams",
+      "exploration",
+      "bedtime"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "treasure map style, aged parchment, compass roses, dotted trails, sepia tones, jewel accents, bold explorers, adventure cartography, hand-drawn maps"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where did Zuri find the treasure map?",
+        "choices": [
+          "under her pillow",
+          "in her closet",
+          "on her desk"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zuri found the crinkly treasure map under her pillow when she was getting ready for bed."
+      },
+      {
+        "id": "q2",
+        "question": "What animal helped guide Zuri to the island?",
+        "choices": [
+          "a dolphin and parrot",
+          "a whale",
+          "a turtle"
+        ],
+        "correctIndex": 0,
+        "explanation": "A friendly dolphin swam beside her boat and a colorful parrot flew overhead to help guide her."
+      },
+      {
+        "id": "q3",
+        "question": "What marked the spot where the treasure was hidden?",
+        "choices": [
+          "a big red X",
+          "a circle",
+          "a star"
+        ],
+        "correctIndex": 0,
+        "explanation": "The treasure was hidden at a cave marked with a big red X on the map."
+      },
+      {
+        "id": "q4",
+        "question": "What did Zuri find in the treasure chest?",
+        "choices": [
+          "shells, stones, and jewels",
+          "gold coins",
+          "candy"
+        ],
+        "correctIndex": 0,
+        "explanation": "The treasure chest was filled with beautiful shells, smooth stones, and sparkling jewels."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "map",
+            "distractors": [
+              "book",
+              "toy"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "ocean",
+            "distractors": [
+              "forest",
+              "mountain"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "dolphin",
+            "distractors": [
+              "shark",
+              "whale"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "boat",
+            "distractors": [
+              "plane",
+              "car"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 5,
+        "blanks": [
+          {
+            "wordIndex": 10,
+            "correctWord": "treasure",
+            "distractors": [
+              "food",
+              "clothes"
+            ]
+          },
+          {
+            "wordIndex": 20,
+            "correctWord": "jewels",
+            "distractors": [
+              "rocks",
+              "leaves"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

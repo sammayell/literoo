@@ -1,0 +1,201 @@
+{
+  "id": "v2-early_reader-mystery-086",
+  "title": "Hugo and the Missing Microscope",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "mystery",
+    "science"
+  ],
+  "wordCount": 439,
+  "readingLevel": "Grade 1",
+  "synopsis": "Hugo must solve the mystery of his missing toy microscope by searching through cluttered rooms and following visual clues in his house.",
+  "coverImage": "covers/v2-early_reader-mystery-086.webp",
+  "chapters": [
+    {
+      "title": "The Missing Microscope",
+      "pages": [
+        {
+          "text": "Hugo loved looking at tiny things. His toy microscope was his favorite thing in the whole world. Every day after school, he would look at leaves, bugs, and rocks. But today, something was wrong. Hugo looked on his desk. He looked in his toy box. His microscope was gone! 'Mom!' Hugo called. 'Have you seen my microscope?' Mom shook her head. 'Maybe you left it somewhere else,' she said. Hugo frowned. He had to find it. This was a mystery to solve!",
+          "illustration": {
+            "description": "A cluttered child's bedroom with toys scattered everywhere, showing Hugo (straight light blonde hair, fair skin, light blue eyes) searching through a messy desk covered with science books, magnifying glasses, rock collections, bug containers, and various small objects, with an empty spot where the microscope should be",
+            "alt": "Hugo searching his messy bedroom for his missing microscope",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Clues in the Kitchen",
+      "pages": [
+        {
+          "text": "Hugo decided to be a detective. He would search every room in the house. First, he went to the kitchen. The kitchen was busy and full of things. Hugo looked carefully at everything. He saw pots and pans. He saw spoons and forks. He saw his lunch box from yesterday. Wait! There was something strange. Hugo saw tiny crumbs near the sink. They looked like the crackers he ate while using his microscope yesterday. 'This is a clue!' Hugo said to himself.",
+          "illustration": {
+            "description": "A busy kitchen scene with Hugo (straight light blonde hair, fair skin, light blue eyes) examining the counter area, showing detailed kitchen items including dishes, utensils, appliances, spice jars, fruit bowls, and magnified view of tiny cracker crumbs near the sink among many small kitchen objects",
+            "alt": "Hugo investigating clues in a cluttered kitchen",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Living Room Hunt",
+      "pages": [
+        {
+          "text": "Hugo followed the clue trail to the living room. The living room was full of stuff too. There were books on the coffee table. There were pillows on the couch. There were his dad's newspapers everywhere. Hugo looked under the couch cushions. He looked behind the TV. Then he saw something interesting. On the coffee table, there was a leaf. It was the same kind of leaf he looked at with his microscope two days ago! 'Another clue!' Hugo said excitedly.",
+          "illustration": {
+            "description": "A cluttered living room with Hugo (straight light blonde hair, fair skin, light blue eyes) searching among sofas, coffee tables covered with magazines, remote controls, scattered newspapers, books, throw pillows, house plants, and a magnified view highlighting a specific leaf among many small objects",
+            "alt": "Hugo searching for clues in a busy living room",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Dad's Workshop Discovery",
+      "pages": [
+        {
+          "text": "Hugo remembered something. Yesterday, Dad was working on a project in his workshop. Maybe Hugo had taken his microscope there to help Dad look at something small. Hugo went to the garage where Dad's workshop was. The workshop was the most cluttered place in the house! There were tools everywhere. There were screws and nails in little boxes. There were pieces of wood and metal. Hugo looked carefully at Dad's workbench. Then he saw it! A tiny piece of glass that looked like it came from his microscope lens!",
+          "illustration": {
+            "description": "A very busy garage workshop with Hugo (straight light blonde hair, fair skin, light blue eyes) investigating a workbench covered with tools, screws, nails, hammers, screwdrivers, wood pieces, paint cans, toolboxes, and a magnified view showing a tiny glass fragment among hundreds of small workshop items",
+            "alt": "Hugo discovering clues in Dad's cluttered workshop",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Mystery Solved!",
+      "pages": [
+        {
+          "text": "Hugo was getting close to solving the mystery! He looked around the workshop more carefully. Behind a big toolbox, Hugo saw something that made him smile. There was his microscope! But how did it get there? Just then, Dad came into the workshop. 'Hugo! I was looking for you. I borrowed your microscope yesterday to look at this tiny screw. I forgot to put it back. I'm sorry!' Dad said. Hugo was happy. The mystery was solved! 'That's okay, Dad,' Hugo said. 'Being a detective was fun!' Hugo took his microscope back to his room. Tomorrow, he would look for more tiny mysteries to solve.",
+          "illustration": {
+            "description": "The workshop scene with Hugo (straight light blonde hair, fair skin, light blue eyes) and his father discovering the microscope behind a large toolbox, surrounded by organized chaos of workshop tools, screws, bolts, measuring instruments, safety equipment, and many detailed small objects with the microscope prominently visible",
+            "alt": "Hugo and Dad finding the microscope in the workshop",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "problem-solving",
+      "observation skills",
+      "family relationships",
+      "scientific curiosity",
+      "detective work"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "detailed hidden objects, visual clues, busy organized composition, search and find, detailed environment, many small objects, magnifying glass perspective, cluttered room or scene"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What was Hugo's favorite thing?",
+        "choices": [
+          "His toy car",
+          "His microscope",
+          "His books"
+        ],
+        "correctIndex": 1,
+        "explanation": "Hugo's toy microscope was his favorite thing in the whole world that he used to look at tiny things every day."
+      },
+      {
+        "id": "q2",
+        "question": "What clue did Hugo find in the kitchen?",
+        "choices": [
+          "Cracker crumbs",
+          "A broken plate",
+          "Spilled milk"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hugo found tiny cracker crumbs near the sink, which were from crackers he ate while using his microscope."
+      },
+      {
+        "id": "q3",
+        "question": "Where did Hugo find his microscope?",
+        "choices": [
+          "Under his bed",
+          "In Dad's workshop",
+          "In the kitchen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Hugo found his microscope in Dad's workshop behind a big toolbox."
+      },
+      {
+        "id": "q4",
+        "question": "Why did Dad have the microscope?",
+        "choices": [
+          "To look at a tiny screw",
+          "To clean it",
+          "To fix it"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dad borrowed Hugo's microscope to look at a tiny screw for his project and forgot to put it back."
+      },
+      {
+        "id": "q5",
+        "question": "What did Hugo decide to be to solve the mystery?",
+        "choices": [
+          "A scientist",
+          "A detective",
+          "A teacher"
+        ],
+        "correctIndex": 1,
+        "explanation": "Hugo decided to be a detective to search every room and find clues about his missing microscope."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "microscope",
+            "distractors": [
+              "telescope",
+              "binoculars"
+            ]
+          },
+          {
+            "wordIndex": 25,
+            "correctWord": "mystery",
+            "distractors": [
+              "story",
+              "game"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "clues",
+            "distractors": [
+              "toys",
+              "books"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "leaf",
+            "distractors": [
+              "rock",
+              "bug"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

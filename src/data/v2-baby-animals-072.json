@@ -1,0 +1,148 @@
+{
+  "id": "v2-baby-animals-072",
+  "title": "Kofi and the Happy Animals",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "animals",
+    "nature"
+  ],
+  "wordCount": 88,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Kofi explores the savanna and meets friendly animals who each make their own special sounds, learning about the wonderful creatures that share his world.",
+  "coverImage": "covers/v2-baby-animals-072.webp",
+  "chapters": [
+    {
+      "title": "Meet the Animals",
+      "pages": [
+        {
+          "text": "Kofi walks in the warm grass. The sun is bright and golden.",
+          "illustration": {
+            "description": "A little boy with short cropped hair, rich dark brown skin, bright expressive eyes walks through tall golden grass in gouache painting style with thick brushstrokes and warm savanna colors under an orange sunset",
+            "alt": "Kofi walking through golden savanna grass",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A big elephant waves hello. 'Hello, elephant!' says Kofi. The elephant goes TRUMPET!",
+          "illustration": {
+            "description": "A boy with short cropped hair, rich dark brown skin, bright expressive eyes stands next to a large gray elephant with expressive eyes, painted in gouache with thick brushstrokes and warm savanna colors",
+            "alt": "Kofi greeting a friendly elephant",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A tall giraffe bends down. 'Hello, giraffe!' says Kofi. The giraffe is so tall!",
+          "illustration": {
+            "description": "A child with short cropped hair, rich dark brown skin, bright expressive eyes looks up at a spotted giraffe bending its long neck down, painted in textured painterly gouache style with bold confident strokes",
+            "alt": "Kofi looking up at a tall giraffe",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A striped zebra runs by. 'Hello, zebra!' says Kofi. The zebra goes NEIGH!",
+          "illustration": {
+            "description": "A boy with short cropped hair, rich dark brown skin, bright expressive eyes watches a black and white striped zebra running through golden grass, painted in gouache with warm savanna colors and orange sunset light",
+            "alt": "Kofi watching a zebra run",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A lion sits in the shade. 'Hello, lion!' says Kofi. The lion goes ROAR! But it's a friendly roar.",
+          "illustration": {
+            "description": "A little boy with short cropped hair, rich dark brown skin, bright expressive eyes sits near a golden lion with a friendly face under a tree, painted in thick brushstrokes with warm savanna colors",
+            "alt": "Kofi sitting near a friendly lion",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Kofi waves goodbye to all his animal friends. 'See you tomorrow!' he says. The animals are happy.",
+          "illustration": {
+            "description": "A child with short cropped hair, rich dark brown skin, bright expressive eyes waves to an elephant, giraffe, zebra, and lion in the distance, painted in gouache with textured painterly style and golden grass under orange sunset",
+            "alt": "Kofi waving goodbye to all the savanna animals",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "animals",
+      "nature",
+      "exploration",
+      "sounds"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does the elephant make?",
+        "choices": [
+          "TRUMPET!",
+          "ROAR!"
+        ],
+        "correctIndex": 0,
+        "explanation": "The elephant makes a TRUMPET sound with its trunk!"
+      },
+      {
+        "id": "q2",
+        "question": "Which animal is very tall?",
+        "choices": [
+          "giraffe",
+          "lion"
+        ],
+        "correctIndex": 0,
+        "explanation": "The giraffe is the tallest animal with its long neck!"
+      },
+      {
+        "id": "q3",
+        "question": "What does Kofi say when he leaves?",
+        "choices": [
+          "See you tomorrow!",
+          "Goodbye forever!"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kofi says 'See you tomorrow!' because he wants to visit his animal friends again!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "elephant",
+            "distractors": [
+              "zebra",
+              "lion"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "tall",
+            "distractors": [
+              "short",
+              "small"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

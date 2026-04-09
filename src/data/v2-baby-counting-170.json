@@ -1,0 +1,148 @@
+{
+  "id": "v2-baby-counting-170",
+  "title": "Jasper Counts Happy Things",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "counting",
+    "feelings"
+  ],
+  "wordCount": 35,
+  "readingLevel": "Pre-K",
+  "synopsis": "Join Jasper as he counts from one to five while discovering things that make him feel happy, from his favorite teddy bear to colorful balloons.",
+  "coverImage": "covers/v2-baby-counting-170.webp",
+  "chapters": [
+    {
+      "title": "Counting Happy Things",
+      "pages": [
+        {
+          "text": "One teddy bear makes Jasper happy!",
+          "illustration": {
+            "description": "Jasper, a toddler with wavy reddish-brown hair, fair freckled skin, green eyes, hugging a brown teddy bear with a big smile. Large number '1' prominently displayed. Soft pastel background with heart patterns.",
+            "alt": "Jasper hugging one teddy bear with number 1",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Two cookies make Jasper giggle!",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes, sitting at a small table with two round chocolate chip cookies. Large number '2' clearly visible. Cheerful kitchen background with polka dot patterns.",
+            "alt": "Jasper with two cookies and number 2",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Three flowers make Jasper smile!",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes, holding three bright yellow sunflowers. Large number '3' prominently shown. Garden background with rainbow stripes pattern.",
+            "alt": "Jasper holding three flowers with number 3",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Four blocks make Jasper excited!",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes, playing with four colorful stacking blocks arranged in a tower. Large number '4' displayed prominently. Playroom background with star patterns.",
+            "alt": "Jasper with four blocks and number 4",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Five balloons make Jasper laugh with joy!",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes, holding five colorful balloons (red, blue, yellow, green, purple) with both hands raised high. Large number '5' prominently featured. Sky background with cloud patterns.",
+            "alt": "Jasper with five balloons and number 5",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Counting happy things makes Jasper feel wonderful!",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes, surrounded by all his happy things: teddy bear, cookies, flowers, blocks, and balloons. Numbers 1-5 arranged in a circle around him. Bright rainbow background.",
+            "alt": "Jasper with all his happy things and numbers 1-5",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "counting",
+      "happiness",
+      "joy",
+      "emotions",
+      "numbers"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "clear countable objects, fun patterns, numbers prominent, visual counting, each number unique scene, engaging practice, organized arrangement, mathematical beauty"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How many teddy bears does Jasper have?",
+        "choices": [
+          "One",
+          "Two"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jasper has one teddy bear that makes him happy!"
+      },
+      {
+        "id": "q2",
+        "question": "What makes Jasper giggle?",
+        "choices": [
+          "Cookies",
+          "Flowers"
+        ],
+        "correctIndex": 0,
+        "explanation": "Two cookies make Jasper giggle!"
+      },
+      {
+        "id": "q3",
+        "question": "How many balloons does Jasper have?",
+        "choices": [
+          "Four",
+          "Five"
+        ],
+        "correctIndex": 1,
+        "explanation": "Jasper has five colorful balloons that make him laugh with joy!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "One",
+            "distractors": [
+              "Two",
+              "Three"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Two",
+            "distractors": [
+              "One",
+              "Four"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

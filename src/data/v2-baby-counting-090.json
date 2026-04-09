@@ -1,0 +1,156 @@
+{
+  "id": "v2-baby-counting-090",
+  "title": "Jasper's Happy Numbers",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "counting",
+    "feelings"
+  ],
+  "wordCount": 109,
+  "readingLevel": "Pre-K",
+  "synopsis": "Join Jasper as he discovers numbers 1 through 5 while exploring different emotions through counting colorful objects that make him feel happy, excited, and joyful.",
+  "coverImage": "covers/v2-baby-counting-090.webp",
+  "chapters": [
+    {
+      "title": "Counting Makes Me Happy",
+      "pages": [
+        {
+          "text": "Hi! I'm Jasper. I love to count! Counting makes me feel so happy inside.",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes smiling widely with arms spread open, surrounded by colorful number shapes floating around him in a cheerful pattern",
+            "alt": "Happy boy named Jasper with colorful numbers around him",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "ONE red ball! I feel excited when I bounce it up and down. Bounce, bounce, bounce!",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes holding one large red ball above his head with a big excited smile, the number 1 prominently displayed in bright colors",
+            "alt": "Jasper holding one red ball with the number 1",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "TWO yellow flowers! They smell so sweet. Sniffing flowers makes me feel calm and peaceful.",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes gently holding two bright yellow flowers close to his nose with closed eyes and a serene expression, the number 2 decorated with flower patterns",
+            "alt": "Jasper smelling two yellow flowers with the number 2",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "THREE blue blocks! I can stack them high. Building makes me feel proud and strong.",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes sitting cross-legged with three blue building blocks stacked in front of him, clapping his hands with joy, the number 3 made of block patterns",
+            "alt": "Jasper with three stacked blue blocks and the number 3",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "FOUR green apples! Crunch, crunch! Eating healthy food makes me feel good and energetic.",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes sitting at a small table with four bright green apples arranged in a row, taking a big bite of one apple with a delighted expression, the number 4 decorated with apple shapes",
+            "alt": "Jasper eating one of four green apples with the number 4",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "FIVE purple stars! They sparkle and shine. Looking at pretty things makes me feel wonder and joy.",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes looking up at five purple stars arranged in a circle above him with wide eyes full of wonder, the number 5 sparkling with star decorations",
+            "alt": "Jasper looking at five purple stars with the number 5",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Counting from one to five makes me feel so happy! Numbers are everywhere and they're fun to find!",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes dancing joyfully surrounded by all his counting objects - the red ball, yellow flowers, blue blocks, green apples, and purple stars, with numbers 1-5 arranged in a colorful rainbow pattern",
+            "alt": "Jasper celebrating with all counted objects and numbers 1 through 5",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "counting",
+      "emotions",
+      "joy",
+      "discovery",
+      "colors"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "clear countable objects, fun patterns, numbers prominent, visual counting, each number unique scene, engaging practice, organized arrangement, mathematical beauty"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How many red balls does Jasper have?",
+        "choices": [
+          "One",
+          "Two"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jasper has ONE red ball that he bounces up and down!"
+      },
+      {
+        "id": "q2",
+        "question": "What color are the flowers Jasper smells?",
+        "choices": [
+          "Yellow",
+          "Blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "The two flowers are yellow and smell very sweet!"
+      },
+      {
+        "id": "q3",
+        "question": "How does counting make Jasper feel?",
+        "choices": [
+          "Happy",
+          "Sad"
+        ],
+        "correctIndex": 0,
+        "explanation": "Counting makes Jasper feel happy and joyful!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "ONE",
+            "distractors": [
+              "TWO",
+              "THREE"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "TWO",
+            "distractors": [
+              "FOUR",
+              "FIVE"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

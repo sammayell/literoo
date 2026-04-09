@@ -1,0 +1,254 @@
+{
+  "id": "v2-early_reader-fantasy-154",
+  "title": "Marcus and the Magic School Forest",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "fantasy",
+    "school"
+  ],
+  "wordCount": 287,
+  "readingLevel": "Grade 1",
+  "synopsis": "Marcus discovers that his new school is built inside an enchanted forest where magical creatures help children learn. With the help of glowing mushrooms, fairy lights, and friendly forest spirits, Marcus overcomes his first-day nerves and finds wonder in learning.",
+  "coverImage": "covers/v2-early_reader-fantasy-154.webp",
+  "chapters": [
+    {
+      "title": "A New School",
+      "pages": [
+        {
+          "text": "Marcus walked slowly toward his new school. His tummy felt funny with butterflies. The building looked different from other schools. Tall trees grew all around it, and soft golden light sparkled between the leaves.",
+          "illustration": {
+            "description": "A boy with short curly hair with a fade, medium-dark brown skin, warm brown eyes walking nervously toward a magical school building surrounded by an enchanted forest with glowing mushrooms, fairy lights twinkling in tall trees, rich greens and purples filling the scene, golden sparkles dancing through the air, Studio Ghibli inspired magical atmosphere with detailed foliage",
+            "alt": "Marcus approaching a magical school in an enchanted forest",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "As Marcus got closer, he saw something amazing. Tiny lights danced in the air like fireflies. Purple mushrooms glowed softly along the path. Was this really a school? It looked more like a fairy tale!",
+          "illustration": {
+            "description": "A close-up view of a boy with short curly hair with a fade, medium-dark brown skin, warm brown eyes looking amazed at glowing purple mushrooms lining a forest path, fairy lights floating magically around him, mystical creatures peeking from behind trees, rich greens and purples dominating the scene, golden sparkles everywhere, Studio Ghibli inspired magical atmosphere with detailed foliage",
+            "alt": "Marcus discovering the magical elements of the forest path",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Classroom Tree",
+      "pages": [
+        {
+          "text": "Inside the school, Marcus found his classroom. It was inside a giant tree! The walls were made of living bark, and glowing mushrooms gave warm light. Other children sat on soft moss cushions, smiling and reading books.",
+          "illustration": {
+            "description": "A boy with short curly hair with a fade, medium-dark brown skin, warm brown eyes standing amazed inside a magical classroom built within a giant tree, glowing mushrooms providing warm light, other children sitting on moss cushions, mystical creatures helping with lessons, rich greens and purples throughout, golden sparkles floating in the air, Studio Ghibli inspired magical atmosphere with detailed foliage",
+            "alt": "Marcus discovering his magical tree classroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Welcome, Marcus!\" said Mrs. Willow, his teacher. She had flowers in her hair and a kind smile. \"The forest friends are excited to meet you. They love to help children learn new things.\"",
+          "illustration": {
+            "description": "A boy with short curly hair with a fade, medium-dark brown skin, warm brown eyes meeting his magical teacher Mrs. Willow who has flowers in her hair, surrounded by friendly mystical creatures including tiny forest spirits, glowing mushrooms creating a warm atmosphere, fairy lights twinkling overhead, rich greens and purples filling the scene, golden sparkles dancing around them, Studio Ghibli inspired magical atmosphere with detailed foliage",
+            "alt": "Marcus meeting his magical teacher and forest friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Learning with Magic",
+      "pages": [
+        {
+          "text": "During math time, the glowing mushrooms helped Marcus count. They would light up one by one: one, two, three, four, five! For reading, tiny forest sprites whispered the sounds of letters in his ear. Learning felt like playing!",
+          "illustration": {
+            "description": "A boy with short curly hair with a fade, medium-dark brown skin, warm brown eyes sitting cross-legged as glowing purple mushrooms light up in sequence around him for counting, tiny mystical creatures and forest sprites floating nearby whispering in his ear, fairy lights creating magical patterns, rich greens and purples surrounding the scene, golden sparkles highlighting each glowing mushroom, Studio Ghibli inspired magical atmosphere with detailed foliage",
+            "alt": "Marcus learning math and reading with magical forest helpers",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "At lunch, Marcus sat under a singing tree. The leaves hummed soft melodies while he ate. A friendly squirrel with sparkling fur shared an acorn cookie with him. Maybe this new school wasn't so scary after all.",
+          "illustration": {
+            "description": "A boy with short curly hair with a fade, medium-dark brown skin, warm brown eyes sitting peacefully under a magical singing tree with musical notes floating from its leaves, sharing a meal with a sparkling-furred squirrel, glowing mushrooms scattered around, fairy lights hanging from branches, mystical creatures gathering nearby, rich greens and purples filling the forest scene, golden sparkles creating a warm atmosphere, Studio Ghibli inspired magical atmosphere with detailed foliage",
+            "alt": "Marcus having lunch under a singing tree with a magical squirrel friend",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "A Magical Friend",
+      "pages": [
+        {
+          "text": "After school, Marcus didn't want to leave. A small dragon with rainbow wings landed on his shoulder. \"I'm Shimmer,\" she said in a tiny voice. \"I'll be your special school friend. I'll help you learn every day!\"",
+          "illustration": {
+            "description": "A boy with short curly hair with a fade, medium-dark brown skin, warm brown eyes with a delighted expression as a tiny dragon with iridescent rainbow wings perches on his shoulder, surrounded by the enchanted forest with glowing mushrooms, fairy lights creating magical trails through the trees, mystical creatures watching approvingly, rich greens and purples throughout the scene, golden sparkles highlighting the dragon's magical presence, Studio Ghibli inspired magical atmosphere with detailed foliage",
+            "alt": "Marcus meeting Shimmer, his magical dragon friend",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Marcus walked home with Shimmer hiding in his backpack. His butterflies were all gone now. Tomorrow, he would return to his magical school in the forest. He couldn't wait to learn more with his new friends!",
+          "illustration": {
+            "description": "A boy with short curly hair with a fade, medium-dark brown skin, warm brown eyes walking happily away from the magical school with his backpack, tiny dragon wings peeking out from the backpack, the enchanted forest glowing softly behind him with fairy lights twinkling in the twilight, glowing mushrooms creating a pathway, mystical creatures waving goodbye, rich greens and purples in the background, golden sparkles creating a trail of magic following him, Studio Ghibli inspired magical atmosphere with detailed foliage",
+            "alt": "Marcus walking home happily with his magical friend hidden in his backpack",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "overcoming fears",
+      "friendship",
+      "magic in learning",
+      "new experiences",
+      "school anxiety"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Marcus feel when he first saw his new school?",
+        "choices": [
+          "nervous and amazed",
+          "angry and sad",
+          "sleepy and bored"
+        ],
+        "correctIndex": 0,
+        "explanation": "Marcus felt nervous butterflies in his tummy but was also amazed by the magical forest around the school."
+      },
+      {
+        "id": "q2",
+        "question": "What was special about Marcus's classroom?",
+        "choices": [
+          "it had computers",
+          "it was inside a giant tree",
+          "it was very small"
+        ],
+        "correctIndex": 1,
+        "explanation": "Marcus's classroom was built inside a giant tree with bark walls and glowing mushrooms for light."
+      },
+      {
+        "id": "q3",
+        "question": "How did the glowing mushrooms help Marcus learn?",
+        "choices": [
+          "they helped him count",
+          "they sang songs",
+          "they told jokes"
+        ],
+        "correctIndex": 0,
+        "explanation": "The glowing mushrooms lit up one by one to help Marcus count during math time."
+      },
+      {
+        "id": "q4",
+        "question": "What was the name of Marcus's dragon friend?",
+        "choices": [
+          "Sparkle",
+          "Shimmer",
+          "Rainbow"
+        ],
+        "correctIndex": 1,
+        "explanation": "The small dragon with rainbow wings introduced herself as Shimmer."
+      },
+      {
+        "id": "q5",
+        "question": "How did Marcus feel about school at the end of the story?",
+        "choices": [
+          "excited to go back",
+          "scared to return",
+          "wanted a different school"
+        ],
+        "correctIndex": 0,
+        "explanation": "Marcus's butterflies were gone and he couldn't wait to return to learn more with his new magical friends."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "text": "Marcus walked slowly toward his new _____. His tummy felt funny with _____. The building looked different from other schools. Tall _____ grew all around it, and soft golden light sparkled between the _____.",
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "school",
+            "distractors": [
+              "house",
+              "park"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "butterflies",
+            "distractors": [
+              "cookies",
+              "toys"
+            ]
+          },
+          {
+            "wordIndex": 20,
+            "correctWord": "trees",
+            "distractors": [
+              "cars",
+              "rocks"
+            ]
+          },
+          {
+            "wordIndex": 29,
+            "correctWord": "leaves",
+            "distractors": [
+              "windows",
+              "doors"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "text": "Inside the school, Marcus found his _____. It was inside a giant _____! The walls were made of living bark, and glowing _____ gave warm light. Other children sat on soft moss _____, smiling and reading books.",
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "classroom",
+            "distractors": [
+              "kitchen",
+              "bedroom"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "tree",
+            "distractors": [
+              "car",
+              "box"
+            ]
+          },
+          {
+            "wordIndex": 22,
+            "correctWord": "mushrooms",
+            "distractors": [
+              "candles",
+              "lamps"
+            ]
+          },
+          {
+            "wordIndex": 30,
+            "correctWord": "cushions",
+            "distractors": [
+              "chairs",
+              "tables"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

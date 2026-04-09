@@ -1,0 +1,222 @@
+{
+  "id": "v2-early_reader-fantasy-104",
+  "title": "Oscar and the Magic School Tree",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "fantasy",
+    "school"
+  ],
+  "wordCount": 289,
+  "readingLevel": "Pre-K to Grade 1",
+  "synopsis": "Oscar discovers his new school is inside a magical tree where fairy teachers, mushroom desks, and glowing creatures make learning an enchanted adventure.",
+  "coverImage": "covers/v2-early_reader-fantasy-104.webp",
+  "chapters": [
+    {
+      "title": "A Very Different School",
+      "pages": [
+        {
+          "text": "Oscar walked to his new school with his backpack bouncing. But when he arrived, he gasped! Instead of a regular building, there was a giant tree with a door in its trunk. The tree sparkled with tiny lights like stars. 'This must be the wrong place,' Oscar thought. But the sign clearly said 'Willowmere Elementary School.'",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes standing before an enormous magical tree with a wooden door built into its trunk, surrounded by glowing fairy lights and sparkling golden dust, lush green forest background with purple-tinted shadows, Studio Ghibli inspired enchanted atmosphere",
+            "alt": "Oscar looking amazed at a giant magical school tree",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Inside the Magic Tree",
+      "pages": [
+        {
+          "text": "Oscar pushed open the wooden door. Inside, the tree was hollow and huge! Glowing mushrooms grew from the walls like lamps. Tiny fairy lights danced in the air. Roots twisted into stairs that spiraled up and up. Other children were climbing the root-stairs, chatting and laughing. Oscar had never seen anything so magical in his whole life!",
+          "illustration": {
+            "description": "Interior view of the magical tree school showing Oscar with short brown wavy hair, fair skin, warm hazel eyes looking up in wonder at spiral root staircases, glowing purple and blue mushrooms on wooden walls, golden fairy lights floating through the air, other children climbing the mystical root stairs, rich greens and purples throughout",
+            "alt": "Oscar inside the magical tree school with glowing mushrooms and fairy lights",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Fairy Teacher",
+      "pages": [
+        {
+          "text": "Oscar climbed to his classroom. His teacher was a kind fairy with shimmering wings! 'Welcome, Oscar,' she said with a tinkling voice. 'I'm Ms. Dewdrop.' The desks were made from colorful toadstools. Books floated gently in the air. A friendly squirrel wrote on the chalkboard with its tail. Oscar pinched himself to make sure he wasn't dreaming.",
+          "illustration": {
+            "description": "Classroom scene with Oscar with short brown wavy hair, fair skin, warm hazel eyes sitting at a red toadstool desk, fairy teacher Ms. Dewdrop with gossamer wings hovering nearby, floating books with golden sparkles, magical squirrel writing on bark chalkboard, glowing mushroom lamps, rich forest greens and mystical purples, Studio Ghibli magical atmosphere",
+            "alt": "Oscar in his magical classroom with fairy teacher and floating books",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Magical Lessons",
+      "pages": [
+        {
+          "text": "Math was fun when the numbers danced around the room! For reading, the letters grew like flowers from the pages. During art class, Oscar painted with liquid starlight that sparkled on his paper. At lunch, acorns turned into sandwiches and dewdrops became juice. 'This is the best school ever!' Oscar told his new friend, a talking caterpillar named Wiggles.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes painting with glowing starlight paint while sitting at a mushroom easel, dancing numbers floating nearby, flower-letters blooming from open books, friendly green caterpillar wearing tiny glasses watching, magical forest classroom with golden sparkles and fairy lights, enchanted atmosphere with rich greens and purples",
+            "alt": "Oscar doing magical art class with dancing numbers and flower letters",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Coming Home Happy",
+      "pages": [
+        {
+          "text": "When school ended, Oscar walked down the root-stairs with his new friends. Ms. Dewdrop gave each student a glowing acorn to take home. 'See you tomorrow, Oscar!' she called. Outside the tree, Oscar looked back and smiled. He couldn't wait to tell his mom about his magical day. Tomorrow would bring even more wonderful adventures at his amazing tree school!",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes walking away from the magical tree school, holding a glowing golden acorn, other magical creature children waving goodbye, Ms. Dewdrop fairy visible in the tree doorway, evening forest setting with purple twilight shadows, golden fairy lights twinkling in the tree branches, Studio Ghibli inspired magical farewell scene",
+            "alt": "Oscar leaving school happily with a glowing acorn and magical friends waving goodbye",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "starting school",
+      "friendship",
+      "magic",
+      "wonder",
+      "acceptance of differences"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Oscar find instead of a regular school building?",
+        "choices": [
+          "A giant magical tree",
+          "A regular brick building",
+          "A small house"
+        ],
+        "correctIndex": 0,
+        "explanation": "Oscar discovered his school was inside a giant tree with a door in its trunk and sparkling fairy lights."
+      },
+      {
+        "id": "q2",
+        "question": "What was Oscar's teacher?",
+        "choices": [
+          "A kind fairy",
+          "A regular person",
+          "A talking animal"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ms. Dewdrop was a kind fairy with shimmering wings who welcomed Oscar to the magical classroom."
+      },
+      {
+        "id": "q3",
+        "question": "What were the desks made from?",
+        "choices": [
+          "Colorful toadstools",
+          "Regular wood",
+          "Stone blocks"
+        ],
+        "correctIndex": 0,
+        "explanation": "The desks in the magical classroom were made from colorful toadstools instead of regular furniture."
+      },
+      {
+        "id": "q4",
+        "question": "Who was Oscar's new friend?",
+        "choices": [
+          "A talking caterpillar named Wiggles",
+          "Another human child",
+          "A fairy student"
+        ],
+        "correctIndex": 0,
+        "explanation": "Oscar made friends with Wiggles, a talking caterpillar who joined him during the magical school day."
+      },
+      {
+        "id": "q5",
+        "question": "What did Ms. Dewdrop give students to take home?",
+        "choices": [
+          "A glowing acorn",
+          "Regular homework",
+          "A magic wand"
+        ],
+        "correctIndex": 0,
+        "explanation": "At the end of the school day, Ms. Dewdrop gave each student a glowing acorn to take home as a special memento."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "tree",
+            "distractors": [
+              "house",
+              "car"
+            ]
+          },
+          {
+            "wordIndex": 25,
+            "correctWord": "door",
+            "distractors": [
+              "window",
+              "roof"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "mushrooms",
+            "distractors": [
+              "flowers",
+              "rocks"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "fairy",
+            "distractors": [
+              "bird",
+              "bug"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "wings",
+            "distractors": [
+              "arms",
+              "legs"
+            ]
+          },
+          {
+            "wordIndex": 22,
+            "correctWord": "toadstools",
+            "distractors": [
+              "chairs",
+              "tables"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

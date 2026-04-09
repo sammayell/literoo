@@ -1,0 +1,148 @@
+{
+  "id": "v2-baby-nature-095",
+  "title": "Peek-a-Boo Seasons with Zuri",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "nature",
+    "peek-a-boo"
+  ],
+  "wordCount": 72,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Zuri plays peek-a-boo with nature as the seasons change around her favorite tree, discovering spring flowers, summer butterflies, autumn leaves, and winter snow.",
+  "coverImage": "covers/v2-baby-nature-095.webp",
+  "chapters": [
+    {
+      "title": "Peek-a-Boo Seasons",
+      "pages": [
+        {
+          "text": "Peek-a-boo! Where is Zuri? Here she is by the big oak tree!",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes standing beside a large oak tree in spring with soft pink cherry blossoms, pale green grass, and delicate white flowers scattered around in spring pastels",
+            "alt": "Zuri standing next to a blooming oak tree in springtime",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Spring is here! Pink flowers bloom. Peek-a-boo behind the blossoms!",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes peeking from behind pink spring blossoms on the same oak tree, surrounded by soft pastel colors and new green leaves",
+            "alt": "Zuri hiding behind spring blossoms on the oak tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Summer comes! Bright green leaves dance. Where did Zuri go? Peek-a-boo!",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes hiding behind the full, vibrant green summer foliage of the same oak tree, with bright yellow sun and colorful butterflies in summer brights",
+            "alt": "Zuri playing peek-a-boo behind lush summer leaves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Fall arrives! Orange and red leaves fall down. Peek-a-boo in the leaf pile!",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes emerging from a pile of orange, red, and golden autumn leaves beneath the same oak tree, with warm autumn colors all around",
+            "alt": "Zuri playing in a pile of colorful autumn leaves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Winter is here! White snow covers everything. Peek-a-boo, little snowflake friend!",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes standing by the same oak tree now covered in white snow, with cool winter blues and whites, snowflakes gently falling around her",
+            "alt": "Zuri in a winter wonderland with the snow-covered oak tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The seasons change, but Zuri and her tree stay together. Peek-a-boo through all the seasons!",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes hugging the oak tree trunk, with the tree showing all four seasons in quarters - spring pastels, summer brights, autumn warmth, and winter cool in a magical cyclical display",
+            "alt": "Zuri hugging her oak tree showing all four seasons at once",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "seasons",
+      "nature",
+      "friendship",
+      "growth",
+      "cycles"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "seasonal cycle, spring pastels, summer brights, autumn warmth, winter cool, same scene different seasons, time passing, nature calendar, cyclical beauty"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color are the spring flowers in Zuri's tree?",
+        "choices": [
+          "Pink",
+          "Blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "The spring flowers are pink, just like cherry blossoms!"
+      },
+      {
+        "id": "q2",
+        "question": "What falls from the tree in autumn?",
+        "choices": [
+          "Leaves",
+          "Snow"
+        ],
+        "correctIndex": 0,
+        "explanation": "Orange and red leaves fall from the tree in autumn."
+      },
+      {
+        "id": "q3",
+        "question": "What covers everything in winter?",
+        "choices": [
+          "Snow",
+          "Flowers"
+        ],
+        "correctIndex": 0,
+        "explanation": "White snow covers everything in winter, making it look magical!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "flowers",
+            "distractors": [
+              "leaves",
+              "snow"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "leaves",
+            "distractors": [
+              "flowers",
+              "snow"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "id": "v2-early_reader-family-128",
+  "title": "Theo's Big Baking Adventure",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "family",
+    "adventure"
+  ],
+  "wordCount": 317,
+  "readingLevel": "Grade 1",
+  "synopsis": "Join Theo as he embarks on a delicious adventure in the kitchen with his family, learning to bake cookies and discovering that the best ingredient of all is love.",
+  "coverImage": "covers/v2-early_reader-family-128.webp",
+  "chapters": [
+    {
+      "title": "The Big Idea",
+      "pages": [
+        {
+          "text": "Theo loved his grandmother's cookies. They were sweet and soft and made the whole house smell like happiness. One sunny morning, Theo had a big idea. 'I want to make cookies too!' he said to his mom. His mom smiled. 'That sounds wonderful, Theo. Let's ask Grandma to teach us!' Theo jumped up and down with excitement. Today was going to be the best day ever!",
+          "illustration": {
+            "description": "A cozy kitchen scene with Theo, a boy with short curly blonde hair, light skin, round blue eyes, talking excitedly to his mother near a kitchen counter filled with warm yellow sunlight streaming through windows, cookie jars visible on shelves",
+            "alt": "Theo talking to his mom in a bright kitchen",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Getting Ready",
+      "pages": [
+        {
+          "text": "Grandma was so happy when she heard about Theo's plan. 'First, we need to get ready,' she said. She tied a big apron around Theo's waist. It was almost as big as he was! Mom put on her apron too. Then Grandma gathered all the ingredients on the kitchen table. There was flour, sugar, butter, and eggs. 'These are our magic ingredients,' Grandma winked. Theo felt like a real chef!",
+          "illustration": {
+            "description": "Theo with short curly blonde hair, light skin, round blue eyes wearing a large apron that's too big for him, standing between his mom and grandmother at a kitchen table covered with baking ingredients, warm orange lighting, flour dusting the air",
+            "alt": "Theo wearing an oversized apron with his family around baking ingredients",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Adventure Begins",
+      "pages": [
+        {
+          "text": "Mixing the cookie dough was like going on an adventure! Theo helped pour the flour into a big bowl. POOF! Some flour flew into the air like a tiny cloud. Everyone giggled. Next, Theo cracked an egg. Well, he tried to! Grandma helped him when the shell got a bit mixed up. Mom measured the sugar while Theo stirred and stirred. The kitchen was getting messy, but it was the most fun kind of mess. Soon, the dough was ready to shape into cookies!",
+          "illustration": {
+            "description": "A delightfully messy kitchen scene with Theo, short curly blonde hair, light skin, round blue eyes, stirring cookie dough in a large bowl while flour clouds float around, his mom and grandmother laughing nearby, warm yellow kitchen lighting, ingredients scattered on counters",
+            "alt": "Theo stirring cookie dough in a flour-dusted kitchen with his family",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sweet Success",
+      "pages": [
+        {
+          "text": "The best part was making the cookie shapes! Theo rolled little balls of dough and placed them carefully on the baking sheet. Into the oven they went! While they waited, the family cleaned up together. Soon, the most amazing smell filled the kitchen. DING! The cookies were done! They were golden brown and perfect. As they sat around the dining table eating warm cookies and drinking milk, Theo felt so proud. 'I'm a real baker now!' he said. Grandma hugged him tight. 'The secret ingredient was love, Theo. And you put lots of love into these cookies!'",
+          "illustration": {
+            "description": "A heartwarming family scene at a dining table with Theo, short curly blonde hair, light skin, round blue eyes, sitting between his mom and grandmother, all enjoying warm cookies with glasses of milk, steam rising from the cookies, warm orange lighting creating a cozy atmosphere",
+            "alt": "Theo and his family enjoying fresh-baked cookies together at the dining table",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "learning new skills",
+      "cooking together",
+      "generational wisdom",
+      "pride in accomplishment"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Theo want to learn how to make?",
+        "choices": [
+          "cookies",
+          "cake",
+          "bread"
+        ],
+        "correctIndex": 0,
+        "explanation": "Theo loved his grandmother's cookies and wanted to learn how to make them too."
+      },
+      {
+        "id": "q2",
+        "question": "Who taught Theo how to bake?",
+        "choices": [
+          "his teacher",
+          "his grandmother",
+          "his friend"
+        ],
+        "correctIndex": 1,
+        "explanation": "Theo's grandmother taught him how to make cookies with help from his mom."
+      },
+      {
+        "id": "q3",
+        "question": "What happened when Theo poured the flour?",
+        "choices": [
+          "it made a cloud",
+          "it spilled everywhere",
+          "nothing happened"
+        ],
+        "correctIndex": 0,
+        "explanation": "Some flour flew into the air like a tiny cloud when Theo poured it, making everyone giggle."
+      },
+      {
+        "id": "q4",
+        "question": "What did Grandma say was the secret ingredient?",
+        "choices": [
+          "sugar",
+          "love",
+          "butter"
+        ],
+        "correctIndex": 1,
+        "explanation": "Grandma told Theo that the secret ingredient was love, and he put lots of love into the cookies."
+      },
+      {
+        "id": "q5",
+        "question": "How did Theo feel at the end of the story?",
+        "choices": [
+          "proud",
+          "sad",
+          "tired"
+        ],
+        "correctIndex": 0,
+        "explanation": "Theo felt proud because he had learned to bake cookies and felt like a real baker."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "cookies",
+            "distractors": [
+              "cakes",
+              "pies"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "happy",
+            "distractors": [
+              "sad",
+              "angry"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "apron",
+            "distractors": [
+              "hat",
+              "shoes"
+            ]
+          },
+          {
+            "wordIndex": 25,
+            "correctWord": "ingredients",
+            "distractors": [
+              "toys",
+              "books"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 18,
+            "correctWord": "flour",
+            "distractors": [
+              "water",
+              "sand"
+            ]
+          },
+          {
+            "wordIndex": 35,
+            "correctWord": "stirred",
+            "distractors": [
+              "jumped",
+              "ran"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "id": "v2-toddler-school-069",
+  "title": "Chloe's Animal School Day",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "school",
+    "animals"
+  ],
+  "wordCount": 181,
+  "readingLevel": "Pre-K",
+  "synopsis": "Chloe meets friendly animal classmates on her first day at a special school where children and animals learn together.",
+  "coverImage": "covers/v2-toddler-school-069.webp",
+  "chapters": [
+    {
+      "title": "Meeting New Friends",
+      "pages": [
+        {
+          "text": "Chloe walked into her new classroom. She felt a little nervous but excited too. The teacher smiled and said, 'Welcome to our special school, Chloe! Here, children learn with animal friends.'",
+          "illustration": {
+            "description": "A girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes standing at a classroom door holding a backpack, with a friendly teacher gesturing welcome. Drawn in chalkboard style with white and colored chalk on dark green board, school themed with dusty texture.",
+            "alt": "Chloe entering classroom with teacher welcoming her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "At the first desk sat a fluffy bunny with a pencil. Next to him was a wise owl wearing tiny glasses. 'Hi Chloe!' squeaked a little mouse from the reading corner. 'We're so happy you're here!'",
+          "illustration": {
+            "description": "A girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes looking at animal classmates - a bunny holding a pencil, an owl with glasses, and a mouse with books. Drawn in chalkboard style with white and colored chalk on dark green board, dusty texture.",
+            "alt": "Chloe meeting her animal classmates in the classroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Chloe giggled and felt much better. She sat down next to the bunny. 'What are we learning today?' she asked. The owl hooted softly, 'We're learning about shapes and colors together!'",
+          "illustration": {
+            "description": "A girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes sitting at a desk next to a bunny, with an owl and mouse nearby. Shapes and colors drawn on the chalkboard background in white and colored chalk, school themed with dusty texture.",
+            "alt": "Chloe sitting with bunny friend ready to learn",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Learning Together",
+      "pages": [
+        {
+          "text": "The bunny showed Chloe how to draw circles. The mouse helped her count to ten. The owl taught her about different colors. Learning was so much fun with her new animal friends!",
+          "illustration": {
+            "description": "A girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes drawing circles with a bunny, while a mouse points to numbers and an owl shows colors. Drawn in chalkboard style with white and colored chalk on dark green board, equations doodles, dusty texture.",
+            "alt": "Chloe learning shapes, numbers, and colors with animal friends",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "At snack time, they all shared crackers and juice. The bunny liked carrots best. The mouse nibbled cheese. Chloe shared her apple slices with everyone.",
+          "illustration": {
+            "description": "A girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes sitting at a table with bunny, owl, and mouse sharing different snacks. Drawn in chalkboard style with white and colored chalk on dark green board, warm artistic style with dusty texture.",
+            "alt": "Chloe and animal friends having snack time together",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When school ended, Chloe hugged her new friends goodbye. 'See you tomorrow!' she called happily. She couldn't wait to learn more with her special animal classmates.",
+          "illustration": {
+            "description": "A girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes waving goodbye to bunny, owl, and mouse at the classroom door with backpack on. Drawn in chalkboard style with white and colored chalk on dark green board, school themed with dusty texture.",
+            "alt": "Chloe saying goodbye to her animal friends after school",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "school readiness",
+      "acceptance",
+      "learning together"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What kind of special school did Chloe go to?",
+        "choices": [
+          "A school where children learn with animals",
+          "A cooking school",
+          "A music school"
+        ],
+        "correctIndex": 0,
+        "explanation": "Chloe went to a special school where children learn together with animal friends."
+      },
+      {
+        "id": "q2",
+        "question": "Which animal wore tiny glasses?",
+        "choices": [
+          "The bunny",
+          "The owl",
+          "The mouse"
+        ],
+        "correctIndex": 1,
+        "explanation": "The wise owl wore tiny glasses in Chloe's classroom."
+      },
+      {
+        "id": "q3",
+        "question": "What did the bunny like to eat best?",
+        "choices": [
+          "Carrots",
+          "Cheese",
+          "Apples"
+        ],
+        "correctIndex": 0,
+        "explanation": "During snack time, the bunny liked carrots best."
+      },
+      {
+        "id": "q4",
+        "question": "How did Chloe feel at the end of the school day?",
+        "choices": [
+          "Happy and excited to return",
+          "Sad",
+          "Tired"
+        ],
+        "correctIndex": 0,
+        "explanation": "Chloe was happy and couldn't wait to learn more with her animal friends tomorrow."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "classroom",
+            "distractors": [
+              "kitchen",
+              "playground"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "shapes",
+            "distractors": [
+              "animals",
+              "books"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

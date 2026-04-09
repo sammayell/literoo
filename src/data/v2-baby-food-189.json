@@ -1,0 +1,148 @@
+{
+  "id": "v2-baby-food-189",
+  "title": "Chloe's Animal Snack Time",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "food",
+    "animals"
+  ],
+  "wordCount": 62,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Chloe discovers different animals and the yummy foods they love to eat in this colorful adventure perfect for toddlers learning about food and friendship.",
+  "coverImage": "covers/v2-baby-food-189.webp",
+  "chapters": [
+    {
+      "title": "Yummy Friends",
+      "pages": [
+        {
+          "text": "Chloe loves snack time! She sees a bunny hop hop hopping.",
+          "illustration": {
+            "description": "A cheerful girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes sits on a picnic blanket. A fluffy white bunny hops nearby. Colorful snacks with sparkles and steam surround them in a magical garden setting.",
+            "alt": "Chloe sitting with a white bunny during snack time",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The bunny munches crunchy orange carrots. Crunch, crunch, crunch!",
+          "illustration": {
+            "description": "The white bunny eating exaggerated bright orange carrots with sparkles and steam rising. Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes watches with delight as carrot pieces glisten magically.",
+            "alt": "Bunny eating sparkling carrots while Chloe watches",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A monkey swings down. He loves sweet yellow bananas!",
+          "illustration": {
+            "description": "A playful brown monkey hangs from a tree branch holding oversized golden bananas with magical sparkles. Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes claps her hands with joy below.",
+            "alt": "Monkey with bananas swinging near happy Chloe",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A kitty purrs. She drinks creamy white milk. Lap, lap, lap!",
+          "illustration": {
+            "description": "An orange tabby cat drinking from a bowl of sparkling white milk with magical drips and steam. Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes giggles as milk droplets shimmer in the air.",
+            "alt": "Orange cat drinking milk while Chloe giggles",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A puppy wags his tail. He chomps his bone. Chomp, chomp!",
+          "illustration": {
+            "description": "A golden retriever puppy happily chewing an exaggerated bone with sparkles flying around. Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes pets the puppy lovingly in a feast celebration scene.",
+            "alt": "Golden puppy with bone being petted by Chloe",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Chloe shares her apple slices. All the animals are happy! Yummy!",
+          "illustration": {
+            "description": "Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes surrounded by all the animals - bunny, monkey, cat, and puppy - sharing magical sparkling red apple slices with steam and joy sparkles in a festive celebration scene.",
+            "alt": "Chloe sharing apples with all her animal friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "sharing",
+      "animals",
+      "healthy eating",
+      "kindness"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "delicious appetizing food, exaggerated proportions, steam drips sparkles, magical food, diverse cuisines, feast celebration, cooking scenes, yummy visual, food joy"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does the bunny like to eat?",
+        "choices": [
+          "carrots",
+          "bananas"
+        ],
+        "correctIndex": 0,
+        "explanation": "The bunny loves to munch on crunchy orange carrots!"
+      },
+      {
+        "id": "q2",
+        "question": "What does the kitty drink?",
+        "choices": [
+          "water",
+          "milk"
+        ],
+        "correctIndex": 1,
+        "explanation": "The kitty purrs and drinks creamy white milk!"
+      },
+      {
+        "id": "q3",
+        "question": "What does Chloe share with her friends?",
+        "choices": [
+          "apple slices",
+          "cookies"
+        ],
+        "correctIndex": 0,
+        "explanation": "Chloe shares her yummy apple slices with all the animals!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "carrots",
+            "distractors": [
+              "cookies",
+              "apples"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "milk",
+            "distractors": [
+              "juice",
+              "water"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

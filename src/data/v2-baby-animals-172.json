@@ -1,0 +1,139 @@
+{
+  "id": "v2-baby-animals-172",
+  "title": "Kofi and the Safari Friends",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "animals",
+    "nature"
+  ],
+  "wordCount": 43,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Kofi explores the savanna and meets friendly animals who make different sounds and movements, learning about nature through simple interactions.",
+  "coverImage": "covers/v2-baby-animals-172.webp",
+  "chapters": [
+    {
+      "title": "Safari Friends",
+      "pages": [
+        {
+          "text": "Kofi walks in the grass. Big yellow grass everywhere!",
+          "illustration": {
+            "description": "A gouache painting with thick brushstrokes showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes walking through golden savanna grass under warm orange sunset sky, painted with bold confident strokes and warm colors",
+            "alt": "Kofi walking through golden savanna grass",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Look! A tall giraffe says hello. Giraffe has spots!",
+          "illustration": {
+            "description": "A textured painterly gouache scene showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes looking up at a friendly spotted giraffe, painted with thick brushstrokes in warm savanna colors with golden grass background",
+            "alt": "Kofi meeting a spotted giraffe",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Elephant flaps big ears. Whoosh, whoosh! So big!",
+          "illustration": {
+            "description": "An expressive gouache painting with bold confident strokes showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes standing near a large gray elephant flapping its ears, set against warm orange sunset and golden grass with thick brushstrokes",
+            "alt": "Kofi watching an elephant flap its ears",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Lion goes ROAR! Kofi claps hands. Happy sounds!",
+          "illustration": {
+            "description": "A vibrant gouache painting showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes clapping his hands while a friendly lion roars nearby, painted with textured painterly strokes in warm savanna colors under golden grass",
+            "alt": "Kofi clapping as a lion roars",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Time to go home. Wave bye-bye to animal friends!",
+          "illustration": {
+            "description": "A warm gouache painting with thick brushstrokes showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes waving goodbye to giraffe, elephant, and lion in the distance, painted with bold confident strokes against orange sunset and golden grass",
+            "alt": "Kofi waving goodbye to safari animals",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "animals",
+      "nature exploration",
+      "sounds and movement"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color is the grass where Kofi walks?",
+        "choices": [
+          "Yellow",
+          "Blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kofi walks in big yellow grass in the savanna!"
+      },
+      {
+        "id": "q2",
+        "question": "What sound does the lion make?",
+        "choices": [
+          "Roar",
+          "Moo"
+        ],
+        "correctIndex": 0,
+        "explanation": "The lion goes ROAR and Kofi claps his hands!"
+      },
+      {
+        "id": "q3",
+        "question": "What does the elephant do with its ears?",
+        "choices": [
+          "Flaps them",
+          "Hides them"
+        ],
+        "correctIndex": 0,
+        "explanation": "The elephant flaps its big ears and makes whoosh sounds!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "giraffe",
+            "distractors": [
+              "monkey",
+              "bird"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "Elephant",
+            "distractors": [
+              "Zebra",
+              "Hippo"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

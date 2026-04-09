@@ -1,0 +1,131 @@
+{
+  "id": "v2-baby-peek-a-boo-138",
+  "title": "Where Is Sleepy Yuki?",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "peek-a-boo",
+    "bedtime"
+  ],
+  "wordCount": 74,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Yuki plays peek-a-boo while getting ready for bedtime, hiding behind curtains, under blankets, and in cozy places before finally settling down to sleep.",
+  "coverImage": "covers/v2-baby-peek-a-boo-138.webp",
+  "chapters": [
+    {
+      "title": "Peek-a-Boo Bedtime",
+      "pages": [
+        {
+          "text": "Where is Yuki? It's time for bed! Is she behind the big blue curtain? Peek-a-boo! There she is!",
+          "illustration": {
+            "description": "A little girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes peeking out from behind a partially open blue curtain in a cozy bedroom, her face showing with a playful smile",
+            "alt": "Yuki hiding behind curtain",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Now where did Yuki go? Is she under the soft yellow blanket on her bed? Peek-a-boo! Found you!",
+          "illustration": {
+            "description": "A girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes hiding under a yellow blanket with just her eyes and hair visible, creating a peek-a-boo moment on a small bed",
+            "alt": "Yuki under blanket",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Yuki loves to hide! Is she behind the teddy bear? Peek-a-boo! There's her giggling face!",
+          "illustration": {
+            "description": "A child with straight black hair with a red headband, light skin, almond-shaped dark brown eyes crouched behind a large brown teddy bear, with part of her face and hair showing around the bear's side",
+            "alt": "Yuki behind teddy bear",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Time to sleep now, little Yuki. She snuggles in her bed, pulls up her blanket, and closes her eyes. Goodnight, Yuki! Sweet dreams!",
+          "illustration": {
+            "description": "A peaceful girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes lying in bed with eyes closed, tucked under a cozy blanket with stars on it, moonlight streaming through window",
+            "alt": "Yuki sleeping peacefully",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "peek-a-boo",
+      "bedtime routine",
+      "hiding and seeking",
+      "going to sleep"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "lift the flap inspired, partially hidden objects, peek-a-boo composition, hiding and revealing, interactive feel, surprise element, behind the curtain, playful concealment"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where did Yuki hide first?",
+        "choices": [
+          "behind the curtain",
+          "under the blanket"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yuki first hid behind the big blue curtain!"
+      },
+      {
+        "id": "q2",
+        "question": "What color was Yuki's blanket?",
+        "choices": [
+          "yellow",
+          "blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "The blanket was soft and yellow!"
+      },
+      {
+        "id": "q3",
+        "question": "What did Yuki hide behind last?",
+        "choices": [
+          "teddy bear",
+          "curtain"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yuki hid behind the brown teddy bear and giggled!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "curtain",
+            "distractors": [
+              "pillow",
+              "chair"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 10,
+            "correctWord": "blanket",
+            "distractors": [
+              "pillow",
+              "sheet"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

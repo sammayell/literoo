@@ -1,0 +1,139 @@
+{
+  "id": "v2-baby-bedtime-171",
+  "title": "Zara's Sleepy Stars",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "bedtime",
+    "family"
+  ],
+  "wordCount": 50,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Zara gets ready for bedtime with Mama's help, counting sleepy stars and snuggling up for sweet dreams.",
+  "coverImage": "covers/v2-baby-bedtime-171.webp",
+  "chapters": [
+    {
+      "title": "Sleepy Time with Mama",
+      "pages": [
+        {
+          "text": "Night time, Zara. The stars are sleepy too.",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes stands by a window looking at twinkling stars in soft watercolor style with dreamy purple and blue gradients, glowing stars, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette",
+            "alt": "Zara looking at sleepy stars through a window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama helps Zara put on soft pajamas. So cozy and warm.",
+          "illustration": {
+            "description": "Mama helping Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes put on purple pajamas in soft watercolor style with dreamy purple and blue gradients, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette",
+            "alt": "Mama helping Zara get ready for bed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "One star, two stars, three sleepy stars. Count with Zara!",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes pointing at three glowing stars floating above her bed in soft watercolor style with dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette",
+            "alt": "Zara counting three glowing stars above her bed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama sings softly. Zara yawns big. Time for bed, little one.",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes yawning while Mama sits beside her bed singing in soft watercolor style with dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette",
+            "alt": "Mama singing to sleepy Zara at bedtime",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Snuggle, cuddle, close your eyes. Sweet dreams, Zara. Good night!",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes sleeping peacefully in bed with glowing stars floating around her in soft watercolor style with dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette",
+            "alt": "Zara sleeping peacefully with stars floating around",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "family love",
+      "counting",
+      "comfort"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Mama help Zara put on?",
+        "choices": [
+          "pajamas",
+          "shoes"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama helps Zara put on soft, cozy pajamas for bedtime!"
+      },
+      {
+        "id": "q2",
+        "question": "How many stars does Zara count?",
+        "choices": [
+          "three",
+          "five"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zara counts one, two, three sleepy stars!"
+      },
+      {
+        "id": "q3",
+        "question": "What does Mama do to help Zara sleep?",
+        "choices": [
+          "sings softly",
+          "plays loudly"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama sings softly to help Zara feel sleepy and ready for bed!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "pajamas",
+            "distractors": [
+              "socks",
+              "hat"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "stars",
+            "distractors": [
+              "clouds",
+              "moon"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

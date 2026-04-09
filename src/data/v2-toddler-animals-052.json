@@ -1,0 +1,185 @@
+{
+  "id": "v2-toddler-animals-052",
+  "title": "Kofi and the Lost Baby Elephant",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "animals",
+    "adventure"
+  ],
+  "wordCount": 155,
+  "readingLevel": "Pre-K",
+  "synopsis": "Young Kofi discovers a crying baby elephant alone in the savanna and embarks on an adventure to help reunite the little one with its family.",
+  "coverImage": "covers/v2-toddler-animals-052.webp",
+  "chapters": [
+    {
+      "title": "A Sad Little Sound",
+      "pages": [
+        {
+          "text": "Kofi was playing near the big baobab tree when he heard a sad sound. \"Waaaah! Waaaah!\" Something was crying in the tall golden grass.",
+          "illustration": {
+            "description": "Kofi with short cropped hair, rich dark brown skin, bright expressive eyes stands next to a massive baobab tree painted in gouache with thick brushstrokes. The warm savanna stretches behind him with golden grass swaying in the breeze. Bold confident strokes create textured painterly effects.",
+            "alt": "Kofi standing by a baobab tree in the golden savanna",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Kofi walked closer and found a tiny baby elephant! The little elephant was all alone and tears rolled down his wrinkled face. \"Don't cry,\" said Kofi gently.",
+          "illustration": {
+            "description": "Kofi with short cropped hair, rich dark brown skin, bright expressive eyes kneels beside a small baby elephant in the golden grass. The baby elephant has tears on its face. Painted in gouache with warm savanna colors, thick brushstrokes create expressive animals with textured painterly technique.",
+            "alt": "Kofi comforting a crying baby elephant in the grass",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Looking for Mama",
+      "pages": [
+        {
+          "text": "\"Where is your mama?\" asked Kofi. The baby elephant pointed his tiny trunk toward the hills. Together, they started walking across the savanna.",
+          "illustration": {
+            "description": "Kofi with short cropped hair, rich dark brown skin, bright expressive eyes walks alongside the baby elephant across the golden savanna. Rolling hills are visible in the distance. Gouache painting with bold confident strokes shows warm savanna colors and textured painterly golden grass.",
+            "alt": "Kofi and baby elephant walking toward distant hills",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "They walked and walked. A colorful bird flew overhead. \"Tweet tweet!\" it sang. \"Follow the river!\" The wise bird knew where elephant families liked to drink water.",
+          "illustration": {
+            "description": "Kofi with short cropped hair, rich dark brown skin, bright expressive eyes looks up at a bright bird flying in the orange sunset sky. The baby elephant stands beside him. Thick brushstrokes create expressive animals and textured painterly effects in warm savanna colors with gouache painting technique.",
+            "alt": "Kofi and baby elephant looking up at a helpful bird",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Family Found",
+      "pages": [
+        {
+          "text": "At the river, they heard happy trumpeting sounds! \"PAWOO! PAWOO!\" A big mama elephant was calling. The baby elephant ran fast toward his family.",
+          "illustration": {
+            "description": "Kofi with short cropped hair, rich dark brown skin, bright expressive eyes stands by a river as the baby elephant runs toward a large mama elephant. The scene is painted in gouache with thick brushstrokes, warm savanna colors, and an orange sunset sky. Bold confident strokes create textured painterly effects.",
+            "alt": "Baby elephant running to its mother by the river",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama elephant wrapped her trunk around her baby. \"Thank you, Kofi!\" she seemed to say with her kind eyes. Kofi smiled big. He had helped bring a family back together!",
+          "illustration": {
+            "description": "Kofi with short cropped hair, rich dark brown skin, bright expressive eyes smiles widely as mama elephant embraces her baby with her trunk. The golden grass sways around them in the warm savanna setting. Gouache painting with expressive animals, thick brushstrokes, and textured painterly technique captures the joyful reunion.",
+            "alt": "Happy family reunion with Kofi smiling as elephants embrace",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "helping others",
+      "family",
+      "kindness",
+      "friendship",
+      "adventure"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound did Kofi hear in the grass?",
+        "choices": [
+          "crying",
+          "laughing",
+          "singing"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kofi heard a sad crying sound that led him to find the baby elephant."
+      },
+      {
+        "id": "q2",
+        "question": "Who was crying in the tall grass?",
+        "choices": [
+          "baby elephant",
+          "baby lion",
+          "baby bird"
+        ],
+        "correctIndex": 0,
+        "explanation": "A tiny baby elephant was crying because it was lost and couldn't find its mama."
+      },
+      {
+        "id": "q3",
+        "question": "Which animal helped Kofi and the baby elephant?",
+        "choices": [
+          "bird",
+          "monkey",
+          "zebra"
+        ],
+        "correctIndex": 0,
+        "explanation": "A colorful bird told them to follow the river to find the elephant family."
+      },
+      {
+        "id": "q4",
+        "question": "Where did they find the mama elephant?",
+        "choices": [
+          "at the river",
+          "in the tree",
+          "on the hill"
+        ],
+        "correctIndex": 0,
+        "explanation": "They found mama elephant at the river where elephant families like to drink water."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "crying",
+            "distractors": [
+              "sleeping",
+              "dancing"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "river",
+            "distractors": [
+              "mountain",
+              "tree"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 5,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "family",
+            "distractors": [
+              "friends",
+              "food"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

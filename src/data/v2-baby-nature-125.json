@@ -1,0 +1,139 @@
+{
+  "id": "v2-baby-nature-125",
+  "title": "Isla's Peek-a-Boo Seasons",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "nature",
+    "peek-a-boo"
+  ],
+  "wordCount": 91,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Isla discovers the magic of seasons through peek-a-boo games with nature, watching as spring flowers, summer butterflies, autumn leaves, and winter snow hide and reveal themselves throughout the year.",
+  "coverImage": "covers/v2-baby-nature-125.webp",
+  "chapters": [
+    {
+      "title": "Peek-a-Boo Through the Seasons",
+      "pages": [
+        {
+          "text": "Peek-a-boo! Where are the flowers? Spring is here! Little buds peek out from the ground. Hello, daisies!",
+          "illustration": {
+            "description": "Isla with long wavy red hair, very fair freckled skin, bright green eyes kneels in a meadow surrounded by emerging spring flowers in soft pastel colors - pink tulips, yellow daffodils, and white daisies peeking through fresh green grass",
+            "alt": "Little girl with red hair discovering spring flowers in a pastel meadow",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Where are the butterflies? Summer is here! Orange wings flutter behind the tall grass. Hello, butterflies!",
+          "illustration": {
+            "description": "Isla with long wavy red hair, very fair freckled skin, bright green eyes stands in the same meadow now lush with bright summer colors - vibrant orange butterflies hiding behind tall emerald grass and blooming sunflowers",
+            "alt": "Little girl with red hair playing peek-a-boo with summer butterflies",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Where are the leaves? Autumn is here! Red and gold leaves dance and hide behind the trees. Hello, leaves!",
+          "illustration": {
+            "description": "Isla with long wavy red hair, very fair freckled skin, bright green eyes laughs as autumn leaves in warm reds, oranges, and golds swirl around the same meadow, now with trees showing fall foliage",
+            "alt": "Little girl with red hair playing with falling autumn leaves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Where are the snowflakes? Winter is here! White flakes hide behind the clouds, then fall gently down. Hello, snow!",
+          "illustration": {
+            "description": "Isla with long wavy red hair, very fair freckled skin, bright green eyes bundled in a warm coat catches snowflakes in the same meadow, now covered in pristine white snow with bare trees and cool blue-white winter light",
+            "alt": "Little girl with red hair catching snowflakes in winter meadow",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! The seasons come and go. Spring, summer, autumn, winter - each one hides, then says hello!",
+          "illustration": {
+            "description": "Isla with long wavy red hair, very fair freckled skin, bright green eyes stands in the center of the meadow divided into four sections showing all seasons at once - spring flowers, summer butterflies, autumn leaves, and winter snow",
+            "alt": "Little girl with red hair surrounded by all four seasons in one magical scene",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "seasonal changes",
+      "nature discovery",
+      "peek-a-boo games",
+      "cyclical time"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "seasonal cycle, spring pastels, summer brights, autumn warmth, winter cool, same scene different seasons, time passing, nature calendar, cyclical beauty"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What comes out in spring?",
+        "choices": [
+          "flowers",
+          "snow"
+        ],
+        "correctIndex": 0,
+        "explanation": "In spring, flowers like daisies and tulips peek out from the ground!"
+      },
+      {
+        "id": "q2",
+        "question": "What flies in summer?",
+        "choices": [
+          "butterflies",
+          "leaves"
+        ],
+        "correctIndex": 0,
+        "explanation": "Beautiful butterflies with orange wings flutter around in summer!"
+      },
+      {
+        "id": "q3",
+        "question": "What falls in winter?",
+        "choices": [
+          "snow",
+          "flowers"
+        ],
+        "correctIndex": 0,
+        "explanation": "White snowflakes fall gently from the clouds in winter!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 7,
+            "correctWord": "flowers",
+            "distractors": [
+              "snow",
+              "leaves"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "butterflies",
+            "distractors": [
+              "flowers",
+              "snow"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

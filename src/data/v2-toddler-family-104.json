@@ -1,0 +1,196 @@
+{
+  "id": "v2-toddler-family-104",
+  "title": "Oscar's Pancake Adventure",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "family",
+    "humor"
+  ],
+  "wordCount": 221,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Oscar wants to help make pancakes but creates a flour-filled mess in the kitchen. With his family's help, he learns that cooking together can be both messy and wonderful.",
+  "coverImage": "covers/v2-toddler-family-104.webp",
+  "chapters": [
+    {
+      "title": "The Big Mess",
+      "pages": [
+        {
+          "text": "Oscar woke up hungry. His tummy rumbled like a little bear. 'Pancakes!' he said, jumping out of bed. He ran to the kitchen where Mama was making breakfast.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes running into a cozy kitchen with warm yellow walls, his mama at the stove with steam rising from a pan, morning sunlight streaming through windows",
+            "alt": "Oscar entering the sunny kitchen where his mother is cooking",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Can I help? Can I help?' Oscar asked, bouncing on his toes. Mama smiled and gave him a little apron. 'You can measure the flour,' she said, handing him a big cup.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes wearing a small apron, standing on a step stool at the kitchen counter with flour containers and measuring cups in warm orange kitchen lighting",
+            "alt": "Oscar wearing an apron and ready to help measure flour",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Oscar scooped the flour. One cup. Two cups. Three cups! But on the fourth cup, WHOOSH! The flour bag tipped over. White flour flew everywhere like snow!",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes covered in white flour, flour clouds filling the cozy kitchen with warm yellow walls, flour all over the counter and floor",
+            "alt": "Oscar covered in flour with flour clouds everywhere in the kitchen",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Oh my!' laughed Mama. Oscar looked like a little ghost! Flour was in his hair, on his nose, and all over his apron. Even the cat had flour on her whiskers!",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes completely dusted in white flour, his mama laughing nearby, a cat with flour on its whiskers, all in the cozy kitchen with orange warm lighting",
+            "alt": "A flour-covered Oscar with his laughing mother and a flour-dusted cat",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Cooking Together",
+      "pages": [
+        {
+          "text": "Papa came into the kitchen and started giggling. 'What happened here? Did it snow inside?' he asked. Oscar giggled too. 'I made a flour storm!'",
+          "illustration": {
+            "description": "Papa entering the flour-covered kitchen where Oscar with short brown wavy hair, fair skin, warm hazel eyes stands covered in flour, mama wiping her hands on her apron, warm yellow kitchen with flour everywhere",
+            "alt": "Papa discovering the flour-covered kitchen with Oscar and Mama",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Let's clean up together,' said Mama. They swept and wiped. Papa helped Oscar wash his hands. 'Now,' said Mama, 'let's make pancakes the right way!'",
+          "illustration": {
+            "description": "The family cleaning together in the cozy kitchen, Oscar with short brown wavy hair, fair skin, warm hazel eyes at the sink with Papa helping him wash his hands, warm orange lighting, mama sweeping flour",
+            "alt": "The family working together to clean up the flour mess",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "This time, Mama held the cup with Oscar. They measured carefully. Papa mixed the batter. Oscar poured it into the hot pan. Sizzle, sizzle, pop!",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes carefully pouring pancake batter into a pan with steam rising, mama and papa helping nearby in the warm yellow kitchen, pancakes sizzling",
+            "alt": "Oscar successfully making pancakes with his parents' help",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Soon they sat at the table eating warm, fluffy pancakes. 'These are the best pancakes ever!' said Oscar. 'Even better than the flour storm!' Everyone laughed and agreed.",
+          "illustration": {
+            "description": "The family sitting around a dining table eating golden pancakes, Oscar with short brown wavy hair, fair skin, warm hazel eyes smiling happily, cozy kitchen with warm orange lighting, steam rising from the pancakes",
+            "alt": "The happy family enjoying their homemade pancakes together at the table",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "learning from mistakes",
+      "cooking together",
+      "helping others",
+      "patience"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Oscar want to make for breakfast?",
+        "choices": [
+          "pancakes",
+          "cookies",
+          "toast"
+        ],
+        "correctIndex": 0,
+        "explanation": "Oscar woke up hungry and said 'Pancakes!' when he jumped out of bed."
+      },
+      {
+        "id": "q2",
+        "question": "What happened when Oscar measured the flour?",
+        "choices": [
+          "it spilled everywhere",
+          "he ate it",
+          "he put it away"
+        ],
+        "correctIndex": 0,
+        "explanation": "The flour bag tipped over and white flour flew everywhere like snow!"
+      },
+      {
+        "id": "q3",
+        "question": "Who helped Oscar clean up the mess?",
+        "choices": [
+          "Mama and Papa",
+          "just Mama",
+          "the cat"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama and Papa both helped clean up - they swept, wiped, and Papa helped Oscar wash his hands."
+      },
+      {
+        "id": "q4",
+        "question": "How did the pancakes turn out in the end?",
+        "choices": [
+          "delicious and fluffy",
+          "burnt",
+          "too salty"
+        ],
+        "correctIndex": 0,
+        "explanation": "Oscar said 'These are the best pancakes ever!' and they were warm and fluffy."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "hungry",
+            "distractors": [
+              "sleepy",
+              "cold"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "flour",
+            "distractors": [
+              "water",
+              "sugar"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 8,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "pancakes",
+            "distractors": [
+              "cookies",
+              "cake"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

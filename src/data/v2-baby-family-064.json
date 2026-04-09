@@ -1,0 +1,139 @@
+{
+  "id": "v2-baby-family-064",
+  "title": "Oscar's Morning Sounds",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "family",
+    "sounds"
+  ],
+  "wordCount": 78,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Oscar wakes up to the gentle sounds of a cozy Sunday morning with his family, discovering all the warm noises that make home special.",
+  "coverImage": "covers/v2-baby-family-064.webp",
+  "chapters": [
+    {
+      "title": "Sunday Morning Sounds",
+      "pages": [
+        {
+          "text": "Oscar wakes up. Yawn! The sun is bright and golden through his window.",
+          "illustration": {
+            "description": "A toddler boy with short brown wavy hair, fair skin, warm hazel eyes stretching and yawning in his cozy bed, golden sunlight streaming through the window, wearing soft pajamas",
+            "alt": "Oscar yawning and stretching in bed with morning sunlight",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Listen! Mama is in the kitchen. Sizzle, sizzle go the pancakes. Pop, pop goes the toaster.",
+          "illustration": {
+            "description": "A diverse family kitchen scene with Oscar, who has short brown wavy hair, fair skin, warm hazel eyes, standing nearby as his mother cooks pancakes, golden morning light filling the room, everyone in comfortable pajamas",
+            "alt": "Oscar listening to cooking sounds in the sunny kitchen",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Papa reads the newspaper. Rustle, rustle. He turns the pages slowly on this lazy morning.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes sitting next to his father who is reading a newspaper, both in pajamas, warm sunlit living room with a gentle, unhurried atmosphere",
+            "alt": "Oscar and Papa with the rustling newspaper",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Oscar claps his hands. Clap, clap! He stomps his feet. Stomp, stomp! Making happy sounds too.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes clapping and stomping joyfully in the sunlit room, his family smiling warmly nearby, everyone still in cozy morning pajamas",
+            "alt": "Oscar making happy clapping and stomping sounds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The family sits together. Munch, munch go the pancakes. Slurp goes the milk. What a wonderful, noisy morning!",
+          "illustration": {
+            "description": "The whole diverse family eating breakfast together, with Oscar who has short brown wavy hair, fair skin, warm hazel eyes enjoying pancakes, golden hour light streaming through windows, newspapers scattered on the table, everyone in pajamas looking content",
+            "alt": "Oscar and family enjoying a noisy breakfast together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "morning routines",
+      "sound awareness",
+      "cozy home life"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Sunday morning light, golden hour, family pajamas, newspapers pancakes, gentle unhurried, modern diverse family, lazy morning, sunlit rooms, warm domestic"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound do the pancakes make?",
+        "choices": [
+          "sizzle",
+          "pop"
+        ],
+        "correctIndex": 0,
+        "explanation": "The pancakes go 'sizzle, sizzle' when Mama cooks them in the kitchen."
+      },
+      {
+        "id": "q2",
+        "question": "What does Papa do with the newspaper?",
+        "choices": [
+          "reads it",
+          "throws it"
+        ],
+        "correctIndex": 0,
+        "explanation": "Papa reads the newspaper and it makes a 'rustle, rustle' sound when he turns the pages."
+      },
+      {
+        "id": "q3",
+        "question": "What sounds does Oscar make?",
+        "choices": [
+          "clap and stomp",
+          "whistle and sing"
+        ],
+        "correctIndex": 0,
+        "explanation": "Oscar makes happy sounds by clapping his hands and stomping his feet."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "sizzle",
+            "distractors": [
+              "whistle",
+              "giggle"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "rustle",
+            "distractors": [
+              "bubble",
+              "jingle"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

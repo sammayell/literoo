@@ -1,0 +1,184 @@
+{
+  "id": "v2-toddler-bedtime-158",
+  "title": "Yuki's Sleepy Stars",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "bedtime",
+    "feelings"
+  ],
+  "wordCount": 126,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Yuki feels worried about going to sleep, but discovers that the gentle stars and moon can help her feel calm and peaceful at bedtime.",
+  "coverImage": "covers/v2-toddler-bedtime-158.webp",
+  "chapters": [
+    {
+      "title": "Yuki Feels Worried",
+      "pages": [
+        {
+          "text": "Yuki sits on her bed. She feels worried about going to sleep. The room seems too dark and too quiet.",
+          "illustration": {
+            "description": "A young girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes sitting on a bed in soft watercolor style with dreamy purple and blue gradients, gentle moonlight filtering through a window, ethereal atmosphere with pastel palette",
+            "alt": "Yuki sitting on her bed looking worried",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I don't want to sleep,\" Yuki whispers. Her heart beats fast. She pulls her blanket close and looks around her room.",
+          "illustration": {
+            "description": "A young girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes pulling a soft blanket close to her chest in soft watercolor style with dreamy purple and blue gradients, floating clouds in the background, round sleepy face showing worry, pastel palette",
+            "alt": "Yuki holding her blanket close, looking worried",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Stars Come to Help",
+      "pages": [
+        {
+          "text": "Suddenly, tiny glowing stars peek through her window. They twinkle softly and dance in the air around Yuki.",
+          "illustration": {
+            "description": "A young girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes watching glowing stars float around her room in soft watercolor style with dreamy purple and blue gradients, twinkling stars creating gentle light, ethereal atmosphere with pastel palette",
+            "alt": "Yuki watching magical stars float around her room",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"We're here to keep you safe,\" the stars seem to whisper. Yuki feels a warm, cozy feeling in her tummy. The worry starts to float away.",
+          "illustration": {
+            "description": "A young girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes smiling gently as glowing stars surround her in soft watercolor style with dreamy purple and blue gradients, floating clouds, round sleepy face showing comfort, gentle moonlight, pastel palette",
+            "alt": "Yuki smiling as the stars comfort her",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sweet Dreams",
+      "pages": [
+        {
+          "text": "The moon smiles down at Yuki through her window. The stars make a soft blanket of light around her bed.",
+          "illustration": {
+            "description": "A young girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes lying peacefully in bed under a blanket of starlight in soft watercolor style with dreamy purple and blue gradients, smiling moon visible through window, floating clouds, ethereal atmosphere with pastel palette",
+            "alt": "Yuki in bed with starlight creating a gentle blanket around her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Now Yuki feels calm and sleepy. \"Thank you, stars,\" she yawns. Her eyes close softly as she drifts into sweet dreams.",
+          "illustration": {
+            "description": "A young girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes sleeping peacefully with a content smile in soft watercolor style with dreamy purple and blue gradients, glowing stars watching over her, gentle moonlight, round sleepy face, floating clouds, pastel palette",
+            "alt": "Yuki sleeping peacefully with stars watching over her",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "overcoming bedtime anxiety",
+      "finding comfort",
+      "magical helpers",
+      "peaceful sleep"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How does Yuki feel at the beginning of the story?",
+        "choices": [
+          "worried",
+          "happy",
+          "hungry"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yuki feels worried about going to sleep in her dark, quiet room."
+      },
+      {
+        "id": "q2",
+        "question": "What comes to help Yuki feel better?",
+        "choices": [
+          "glowing stars",
+          "her teddy bear",
+          "her mommy"
+        ],
+        "correctIndex": 0,
+        "explanation": "Tiny glowing stars peek through her window and dance around her to help her feel safe."
+      },
+      {
+        "id": "q3",
+        "question": "How does Yuki feel when the stars visit her?",
+        "choices": [
+          "calm and cozy",
+          "scared",
+          "silly"
+        ],
+        "correctIndex": 0,
+        "explanation": "The stars make Yuki feel warm, cozy, and calm, and her worry starts to float away."
+      },
+      {
+        "id": "q4",
+        "question": "What does Yuki say to the stars before falling asleep?",
+        "choices": [
+          "Thank you, stars",
+          "Go away, stars",
+          "Hello, stars"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yuki says 'Thank you, stars' because they helped her feel calm and ready for sleep."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "worried",
+            "distractors": [
+              "happy",
+              "excited"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "stars",
+            "distractors": [
+              "birds",
+              "toys"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 6,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "calm",
+            "distractors": [
+              "sad",
+              "loud"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

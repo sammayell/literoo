@@ -1,0 +1,182 @@
+{
+  "id": "v2-toddler-bedtime-188",
+  "title": "Theo's Sleepy Stars",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "bedtime",
+    "feelings"
+  ],
+  "wordCount": 226,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Theo feels worried about going to sleep, but with help from the gentle stars above, he learns that nighttime can be peaceful and safe. A soothing bedtime story about overcoming bedtime fears.",
+  "coverImage": "covers/v2-toddler-bedtime-188.webp",
+  "chapters": [
+    {
+      "title": "Theo Feels Worried",
+      "pages": [
+        {
+          "text": "Theo sat on his bed with his favorite stuffed bunny. The sun was going down, and soon it would be time to sleep. But Theo felt worried. His tummy felt funny, and he didn't want to close his eyes.",
+          "illustration": {
+            "description": "A little boy with short curly blonde hair, light skin, round blue eyes sitting on a cozy bed holding a soft white bunny. The room is filled with soft watercolor, dreamy purple and blue gradients, with gentle moonlight streaming through the window. The atmosphere is ethereal with a pastel palette.",
+            "alt": "Theo sitting on his bed with his stuffed bunny as evening approaches",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I don't like the dark,\" Theo whispered to his bunny. \"What if scary things come out?\" The room was getting darker, and Theo pulled his blanket up to his chin. He wished the sun would come back.",
+          "illustration": {
+            "description": "Theo with short curly blonde hair, light skin, round blue eyes tucked under a soft blanket, whispering to his bunny. The room shows soft watercolor techniques with dreamy purple and blue gradients, floating clouds of worry around him, and the gentle beginnings of moonlight creating an ethereal atmosphere with pastel palette.",
+            "alt": "Theo whispering his worries to his stuffed bunny under his blanket",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama came in and sat on the bed. \"What's wrong, little one?\" she asked gently. Theo told her about feeling scared of the dark. Mama smiled and pointed to the window. \"Look up at the sky, Theo.\"",
+          "illustration": {
+            "description": "Theo with short curly blonde hair, light skin, round blue eyes sitting next to his mother on the bed, both looking toward a window. The scene uses soft watercolor with dreamy purple and blue gradients, glowing stars beginning to appear outside, gentle moonlight, and an ethereal atmosphere with round sleepy faces and pastel palette.",
+            "alt": "Theo and his mama sitting together looking toward the starry window",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Stars Help Theo Sleep",
+      "pages": [
+        {
+          "text": "Outside the window, little stars were twinkling in the purple sky. They sparkled like tiny night-lights, making everything look magical and safe. \"The stars watch over you while you sleep,\" Mama said softly.",
+          "illustration": {
+            "description": "View through the window showing glowing stars twinkling in the night sky, with Theo's profile visible (short curly blonde hair, light skin, round blue eyes) looking out in wonder. The illustration features soft watercolor, dreamy purple and blue gradients, floating clouds, gentle moonlight, and an ethereal atmosphere with pastel palette.",
+            "alt": "Theo looking out at the twinkling stars in the purple night sky",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Theo looked at the gentle stars and felt better. His worried feeling started to go away. \"The stars are like friends,\" he said. Mama nodded and gave him a warm hug. \"They'll keep you safe all night long.\"",
+          "illustration": {
+            "description": "Theo with short curly blonde hair, light skin, round blue eyes getting a gentle hug from his mother, both with round sleepy faces. The room is filled with soft watercolor, dreamy purple and blue gradients, glowing stars visible through the window, floating clouds, gentle moonlight creating an ethereal atmosphere with pastel palette.",
+            "alt": "Theo receiving a comforting hug from his mama with stars glowing outside",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Theo lay down with his bunny and pulled up his cozy blanket. The stars twinkled at him through the window like they were saying goodnight. His eyes felt heavy and sleepy. \"Thank you, stars,\" he whispered, and drifted off to peaceful dreams.",
+          "illustration": {
+            "description": "Theo with short curly blonde hair, light skin, round blue eyes peacefully sleeping in bed with his bunny, surrounded by soft watercolor, dreamy purple and blue gradients. Glowing stars shine through the window, floating clouds drift overhead, gentle moonlight bathes the scene, creating an ethereal atmosphere with round sleepy faces and pastel palette.",
+            "alt": "Theo sleeping peacefully with his bunny as stars twinkle outside his window",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "overcoming fears",
+      "bedtime comfort",
+      "family support",
+      "finding peace"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Theo feel about going to sleep at first?",
+        "choices": [
+          "worried",
+          "excited",
+          "hungry"
+        ],
+        "correctIndex": 0,
+        "explanation": "Theo felt worried about going to sleep because he was scared of the dark."
+      },
+      {
+        "id": "q2",
+        "question": "What did Theo hold to feel better?",
+        "choices": [
+          "his stuffed bunny",
+          "a toy car",
+          "a book"
+        ],
+        "correctIndex": 0,
+        "explanation": "Theo held his favorite stuffed bunny for comfort when he felt scared."
+      },
+      {
+        "id": "q3",
+        "question": "What helped Theo feel less scared?",
+        "choices": [
+          "the twinkling stars",
+          "loud music",
+          "bright lights"
+        ],
+        "correctIndex": 0,
+        "explanation": "The twinkling stars in the sky helped Theo feel safe and less scared of the dark."
+      },
+      {
+        "id": "q4",
+        "question": "Who helped Theo feel better about bedtime?",
+        "choices": [
+          "his mama",
+          "his teacher",
+          "his friend"
+        ],
+        "correctIndex": 0,
+        "explanation": "Theo's mama helped him feel better by showing him the stars and giving him comfort."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "worried",
+            "distractors": [
+              "happy",
+              "silly"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "bunny",
+            "distractors": [
+              "truck",
+              "ball"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "stars",
+            "distractors": [
+              "cars",
+              "toys"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "safe",
+            "distractors": [
+              "loud",
+              "cold"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

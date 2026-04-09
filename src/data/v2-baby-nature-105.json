@@ -1,0 +1,147 @@
+{
+  "id": "v2-baby-nature-105",
+  "title": "Isla's Peek-a-Boo Seasons",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "nature",
+    "peek-a-boo"
+  ],
+  "wordCount": 81,
+  "readingLevel": "Pre-reader",
+  "synopsis": "Little Isla plays peek-a-boo with nature through the changing seasons, discovering flowers in spring, butterflies in summer, leaves in autumn, and snowflakes in winter.",
+  "coverImage": "covers/v2-baby-nature-105.webp",
+  "chapters": [
+    {
+      "title": "Peek-a-Boo Seasons",
+      "pages": [
+        {
+          "text": "Peek-a-boo! Where is Isla? Here she is! Isla loves to play peek-a-boo outside.",
+          "illustration": {
+            "description": "A little girl with long wavy red hair, very fair freckled skin, bright green eyes peeking out from behind a big oak tree in a meadow with soft spring pastels all around",
+            "alt": "Isla peeking from behind a tree in spring",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Spring is here! Peek-a-boo, little flowers! Pink and yellow flowers pop up everywhere.",
+          "illustration": {
+            "description": "Isla with long wavy red hair, very fair freckled skin, bright green eyes crouching down to peek at colorful spring flowers blooming in the meadow with soft pastel colors",
+            "alt": "Isla discovering spring flowers",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Summer comes! Peek-a-boo, butterfly! A bright orange butterfly flutters by Isla's nose.",
+          "illustration": {
+            "description": "The same meadow now in bright summer colors with Isla, who has long wavy red hair, very fair freckled skin, bright green eyes, reaching toward a vibrant orange butterfly among blooming summer flowers",
+            "alt": "Isla chasing a butterfly in summer",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Autumn arrives! Peek-a-boo, falling leaves! Red and gold leaves dance down from the oak tree.",
+          "illustration": {
+            "description": "The meadow scene now shows autumn with warm colors as Isla with long wavy red hair, very fair freckled skin, bright green eyes catches falling red and gold leaves from the oak tree",
+            "alt": "Isla catching autumn leaves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Winter is here! Peek-a-boo, snowflakes! Soft white snowflakes fall on Isla's mittens.",
+          "illustration": {
+            "description": "The same meadow and oak tree now covered in snow with cool winter colors, showing Isla with long wavy red hair, very fair freckled skin, bright green eyes wearing a warm coat and mittens as snowflakes fall gently around her",
+            "alt": "Isla catching snowflakes in winter",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo, seasons! Spring, summer, autumn, winter - they all come back again! Isla loves every season.",
+          "illustration": {
+            "description": "A magical view showing the meadow divided into four sections representing each season, with Isla having long wavy red hair, very fair freckled skin, bright green eyes standing in the center where all seasons meet",
+            "alt": "Isla surrounded by all four seasons",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "seasons",
+      "nature exploration",
+      "peek-a-boo games",
+      "cyclical time"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "seasonal cycle, spring pastels, summer brights, autumn warmth, winter cool, same scene different seasons, time passing, nature calendar, cyclical beauty"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Isla find in spring?",
+        "choices": [
+          "flowers",
+          "snowflakes"
+        ],
+        "correctIndex": 0,
+        "explanation": "In spring, Isla finds pretty pink and yellow flowers popping up everywhere!"
+      },
+      {
+        "id": "q2",
+        "question": "What color is the butterfly in summer?",
+        "choices": [
+          "orange",
+          "blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "The butterfly that flutters by Isla's nose is bright orange!"
+      },
+      {
+        "id": "q3",
+        "question": "What falls from the tree in winter?",
+        "choices": [
+          "snowflakes",
+          "leaves"
+        ],
+        "correctIndex": 0,
+        "explanation": "In winter, soft white snowflakes fall on Isla's mittens!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "flowers",
+            "distractors": [
+              "rocks",
+              "clouds"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "butterfly",
+            "distractors": [
+              "bird",
+              "bee"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

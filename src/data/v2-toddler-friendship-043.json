@@ -1,0 +1,188 @@
+{
+  "id": "v2-toddler-friendship-043",
+  "title": "Lily's Garden Friends",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "nature"
+  ],
+  "wordCount": 147,
+  "readingLevel": "Pre-K",
+  "synopsis": "Lily discovers the joy of making friends with both children and nature in her neighborhood garden, learning that friendship can bloom in the most wonderful ways.",
+  "coverImage": "covers/v2-toddler-friendship-043.webp",
+  "chapters": [
+    {
+      "title": "Lily Finds a Garden",
+      "pages": [
+        {
+          "text": "Lily loves to explore. Today she finds a beautiful garden with colorful flowers and buzzing bees. The sun shines bright on the pretty plants.",
+          "illustration": {
+            "description": "A little girl with long curly auburn hair, fair skin with light freckles, green eyes stands at the entrance of a sunny community garden filled with bright flowers, butterflies, and bees, with diverse children visible in the background playing near garden beds",
+            "alt": "Lily discovering a colorful community garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"What a wonderful place!\" says Lily. She sees red roses, yellow sunflowers, and purple violets. A friendly butterfly lands on her hand.",
+          "illustration": {
+            "description": "Close-up of a girl with long curly auburn hair, fair skin with light freckles, green eyes gently holding her hand out with a colorful butterfly perched on it, surrounded by vibrant flowers in primary colors with white space around the edges",
+            "alt": "Lily with a butterfly on her hand among flowers",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Making New Friends",
+      "pages": [
+        {
+          "text": "In the garden, Lily meets Sam and Maya. They are planting seeds together. \"Can I help?\" asks Lily with a big smile.",
+          "illustration": {
+            "description": "A girl with long curly auburn hair, fair skin with light freckles, green eyes kneeling beside two diverse children in a bright sunny garden, all holding small shovels and seed packets, with playground equipment visible in the background",
+            "alt": "Lily meeting Sam and Maya while gardening",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Yes!\" say her new friends. They dig little holes and plant tiny seeds. Lily waters them gently. The friends laugh and work together happily.",
+          "illustration": {
+            "description": "Three children including a girl with long curly auburn hair, fair skin with light freckles, green eyes working together in a garden, using bright colored watering cans and tools, with joyful expressions and white space creating an energetic, inclusive scene",
+            "alt": "The three friends planting seeds together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Friends Everywhere",
+      "pages": [
+        {
+          "text": "Lily learns that friends are everywhere in the garden. The bees help flowers grow. The worms help the soil. Even the ladybugs are helpful friends!",
+          "illustration": {
+            "description": "A girl with long curly auburn hair, fair skin with light freckles, green eyes sitting cross-legged in a bright garden surrounded by friendly insects including bees, ladybugs, and butterflies, with diverse children playing on swings and slides in the background",
+            "alt": "Lily surrounded by helpful garden creatures",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I love this garden,\" says Lily. \"I made friends with Sam, Maya, and all the garden creatures too!\" She hugs her new friends goodbye and promises to come back tomorrow.",
+          "illustration": {
+            "description": "A group hug scene with a girl with long curly auburn hair, fair skin with light freckles, green eyes embracing two diverse children in a sunny garden setting with primary colored flowers, white space, and playground equipment creating a joyful, energetic friendship scene",
+            "alt": "Lily hugging her new friends in the garden",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "making friends",
+      "nature appreciation",
+      "helping others",
+      "community",
+      "outdoor exploration"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Lily find at the beginning of the story?",
+        "choices": [
+          "a garden",
+          "a playground",
+          "a library"
+        ],
+        "correctIndex": 0,
+        "explanation": "Lily discovers a beautiful garden with colorful flowers and buzzing bees."
+      },
+      {
+        "id": "q2",
+        "question": "Who are Lily's new friends?",
+        "choices": [
+          "Sam and Maya",
+          "Ben and Lucy",
+          "Tom and Anna"
+        ],
+        "correctIndex": 0,
+        "explanation": "Lily meets Sam and Maya in the garden, and they become friends while planting seeds together."
+      },
+      {
+        "id": "q3",
+        "question": "What lands on Lily's hand?",
+        "choices": [
+          "a butterfly",
+          "a bird",
+          "a leaf"
+        ],
+        "correctIndex": 0,
+        "explanation": "A friendly butterfly lands on Lily's hand when she's exploring the flowers."
+      },
+      {
+        "id": "q4",
+        "question": "What do the children do together in the garden?",
+        "choices": [
+          "plant seeds",
+          "pick flowers",
+          "chase bugs"
+        ],
+        "correctIndex": 0,
+        "explanation": "Lily, Sam, and Maya work together planting seeds and watering them in the garden."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "flowers",
+            "distractors": [
+              "trees",
+              "rocks"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "bright",
+            "distractors": [
+              "dark",
+              "cold"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "friends",
+            "distractors": [
+              "toys",
+              "books"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "seeds",
+            "distractors": [
+              "stones",
+              "sticks"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

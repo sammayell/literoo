@@ -1,0 +1,163 @@
+{
+  "id": "v2-toddler-friendship-083",
+  "title": "Lily's Garden Friends",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "nature"
+  ],
+  "wordCount": 199,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Lily discovers the joy of making friends with butterflies and sharing nature's beauty with others in her backyard garden adventure.",
+  "coverImage": "covers/v2-toddler-friendship-083.webp",
+  "chapters": [
+    {
+      "title": "Lily's Special Garden",
+      "pages": [
+        {
+          "text": "Lily loved her backyard garden. She had long curly auburn hair that bounced when she walked. Every morning, she would run outside to see what was growing. The flowers were so pretty! Red roses, yellow sunflowers, and purple violets filled her garden. Lily liked to smell each flower. She would giggle when bees buzzed by her ears.",
+          "illustration": {
+            "description": "A little girl with long curly auburn hair, fair skin with light freckles, green eyes standing in a colorful garden with red roses, yellow sunflowers, and purple violets, bright sunny playground style with primary colors and white space",
+            "alt": "Lily in her beautiful garden with colorful flowers",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Meeting the Butterflies",
+      "pages": [
+        {
+          "text": "One sunny day, Lily saw something magical. Beautiful butterflies were dancing around her flowers! There was a big orange one, a tiny blue one, and a yellow one with black spots. Lily sat very still and watched them flutter from flower to flower. The orange butterfly landed right on her hand! Lily was so happy. She whispered, 'Hello, little friend!' The butterfly seemed to wave its wings at her.",
+          "illustration": {
+            "description": "A girl with long curly auburn hair, fair skin with light freckles, green eyes sitting quietly in the garden with colorful butterflies landing on her outstretched hand, bright joyful energetic style with primary colors",
+            "alt": "Lily making friends with butterflies in the garden",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sharing with Friends",
+      "pages": [
+        {
+          "text": "Lily wanted to share her butterfly friends with everyone. She called to her mom and dad, 'Come see! Come see!' They came outside and smiled at the beautiful butterflies. Then Lily's neighbor friend came over too. Together, they all sat in the garden and watched the butterflies dance. Lily learned that sharing nature with friends made everything even more wonderful. The butterflies seemed happy too, flying in circles around all the new friends.",
+          "illustration": {
+            "description": "A girl with long curly auburn hair, fair skin with light freckles, green eyes sitting with diverse friends and family in the garden, all watching butterflies together, bright sunny playground style with inclusive friendship activities and laughter",
+            "alt": "Lily sharing her garden and butterfly friends with others",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "nature appreciation",
+      "sharing",
+      "outdoor exploration"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color flowers were in Lily's garden?",
+        "choices": [
+          "Red, yellow, and purple",
+          "Blue, green, and orange",
+          "Pink, white, and black"
+        ],
+        "correctIndex": 0,
+        "explanation": "Lily's garden had red roses, yellow sunflowers, and purple violets!"
+      },
+      {
+        "id": "q2",
+        "question": "What landed on Lily's hand?",
+        "choices": [
+          "An orange butterfly",
+          "A yellow bee",
+          "A blue bird"
+        ],
+        "correctIndex": 0,
+        "explanation": "The big orange butterfly landed right on Lily's hand when she sat very still!"
+      },
+      {
+        "id": "q3",
+        "question": "Who did Lily share her garden with?",
+        "choices": [
+          "Her mom, dad, and neighbor friend",
+          "Just her mom",
+          "Only the butterflies"
+        ],
+        "correctIndex": 0,
+        "explanation": "Lily called her mom and dad, and her neighbor friend came over too!"
+      },
+      {
+        "id": "q4",
+        "question": "How did sharing make Lily feel?",
+        "choices": [
+          "Even more wonderful",
+          "Sad and lonely",
+          "Scared and worried"
+        ],
+        "correctIndex": 0,
+        "explanation": "Lily learned that sharing nature with friends made everything even more wonderful!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "flowers",
+            "distractors": [
+              "trees",
+              "rocks"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "garden",
+            "distractors": [
+              "house",
+              "car"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "butterflies",
+            "distractors": [
+              "elephants",
+              "trains"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "orange",
+            "distractors": [
+              "purple",
+              "silver"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

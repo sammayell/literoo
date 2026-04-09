@@ -1,0 +1,281 @@
+{
+  "id": "v2-early_reader-fantasy-144",
+  "title": "Oscar's Enchanted School",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "fantasy",
+    "school"
+  ],
+  "wordCount": 599,
+  "readingLevel": "Kindergarten-1st Grade",
+  "synopsis": "Oscar discovers his new school is hidden in an enchanted forest where magical creatures are his classmates and lessons involve fairy dust and singing mushrooms.",
+  "coverImage": "covers/v2-early_reader-fantasy-144.webp",
+  "chapters": [
+    {
+      "title": "The Hidden Path",
+      "pages": [
+        {
+          "text": "Oscar walked to his new school with his backpack bouncing on his shoulders. He felt nervous butterflies in his tummy. The path through the woods looked different from yesterday. Golden sparkles danced in the morning light between the tall green trees.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes walking on a forest path with his blue backpack, surrounded by towering trees with golden sparkles floating in beams of sunlight, enchanted forest atmosphere with rich greens and mystical lighting",
+            "alt": "Oscar walking through an enchanted forest path with golden sparkles in the air",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "As Oscar walked deeper into the woods, he noticed something amazing. Glowing purple mushrooms lined the path like tiny street lamps. Their soft light made the forest feel magical and warm. Oscar's nervousness began to fade away.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes standing amazed among large glowing purple mushrooms that line a winding forest path, fairy lights twinkling overhead, rich purples and greens creating a magical atmosphere with golden sparkles",
+            "alt": "Oscar discovering glowing purple mushrooms lighting his path through the enchanted forest",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Just ahead, Oscar saw the most wonderful sight. His school building was made of living trees! Their branches formed walls and windows. Tiny fairy lights twinkled like stars all around the magical school. This was going to be the best day ever!",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes looking up in wonder at a school building made of intertwined living trees with windows formed by branches, fairy lights twinkling throughout, Studio Ghibli inspired architecture with detailed foliage and mystical atmosphere",
+            "alt": "Oscar gazing at his magical tree school with fairy lights twinkling in the branches",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Meeting New Friends",
+      "pages": [
+        {
+          "text": "Inside the tree school, Oscar met his teacher, Mrs. Willowbark. She had leaves in her hair and a smile as bright as sunshine. 'Welcome to Enchanted Elementary!' she said. 'Let me introduce you to your new classmates.'",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes standing inside a classroom made of living tree trunk walls with Mrs. Willowbark who has leaves in her hair, surrounded by magical classroom elements, golden sparkles in the air, rich greens and warm lighting",
+            "alt": "Oscar meeting his teacher Mrs. Willowbark in the magical tree classroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Oscar's eyes grew wide with wonder. His classmates were not ordinary children. There was Luna, a gentle deer who wore a pink bow. Pip was a cheerful squirrel with a tiny hat. And Sage was a wise little owl with golden feathers.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes sitting at a wooden desk surrounded by his magical classmates: Luna the deer with a pink bow, Pip the squirrel with a tiny hat, and Sage the owl with golden feathers, mystical creatures in a Studio Ghibli inspired classroom with fairy lights overhead",
+            "alt": "Oscar sitting with his magical animal classmates in the enchanted classroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Don't worry,' whispered Luna kindly. 'Everyone feels nervous on their first day. We're all friends here in the enchanted forest school.' Pip chittered happily and Sage hooted in agreement. Oscar smiled and felt much better.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes smiling warmly while Luna the deer nuzzles his shoulder gently, Pip the squirrel sits on his desk, and Sage the owl perches nearby, all in a cozy magical classroom setting with glowing mushrooms and fairy lights, golden sparkles creating a friendly atmosphere",
+            "alt": "Oscar's new animal friends comforting him on his first day of school",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Magical Lessons",
+      "pages": [
+        {
+          "text": "The first lesson was reading, but not like any reading Oscar knew. Mrs. Willowbark opened a book and the words floated up into the air like golden butterflies. The story came alive all around them with dancing characters and singing flowers.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes watching in amazement as golden butterfly-shaped words float from an open book, with story characters materializing in the air and flowers singing around the classroom, magical atmosphere with rich greens and golden sparkles, detailed foliage on the walls",
+            "alt": "Oscar watching words transform into golden butterflies during magical reading time",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Next came math class. Instead of pencils and paper, they used acorns and flower petals to count. The numbers glowed purple when they got the answers right. Oscar added three acorns and two petals and watched the number five shimmer with magical light.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes sitting at his desk counting glowing acorns and flower petals, with the purple glowing number five floating above his work, surrounded by mystical creatures classmates, magical classroom atmosphere with fairy lights and golden sparkles",
+            "alt": "Oscar doing magical math with glowing acorns and flower petals",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "For art class, they painted with fairy dust! Oscar dipped his brush in sparkly purple dust and painted a picture of his family. The painting shimmered and moved like a tiny movie. His parents in the picture waved at him and smiled.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes holding a paintbrush dipped in glittery purple fairy dust, painting on paper that shows his family waving and moving, surrounded by jars of colorful fairy dust, magical art supplies, and glowing mushrooms, Studio Ghibli inspired detailed foliage in background",
+            "alt": "Oscar painting with magical fairy dust that brings his artwork to life",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Lunch in the Garden",
+      "pages": [
+        {
+          "text": "At lunch time, they ate in the enchanted garden behind the school. The lunch tables were giant mushrooms with soft, squishy tops. Oscar sat with his new friends and unpacked his sandwich. Everything tasted extra delicious in the magical air.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes sitting on a giant purple mushroom table eating lunch with Luna, Pip, and Sage in an enchanted garden full of oversized colorful flowers, glowing mushrooms, and fairy lights hanging from tree branches, rich greens and purples with golden sparkles",
+            "alt": "Oscar having lunch with his friends on giant mushroom tables in the enchanted garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "After eating, they played hide-and-seek among the singing flowers. The flowers would giggle when someone hid behind them. Oscar found the perfect hiding spot behind a tall sunflower that tickled his nose and made him laugh quietly.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes hiding behind a giant smiling sunflower that towers over him, with other magical flowers around him that have happy faces, fairy lights twinkling overhead, mystical garden atmosphere with detailed foliage and golden sparkles",
+            "alt": "Oscar hiding behind a giggling sunflower during magical hide-and-seek",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When the lunch bell chimed (it sounded like tiny silver bells), Oscar felt happy and excited. He wasn't nervous anymore. This enchanted school was the most wonderful place he had ever been. He couldn't wait for the afternoon adventures.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes walking back toward the tree school building with his animal friends, silver musical notes floating in the air from the magical bell, surrounded by the enchanted garden with glowing mushrooms and fairy lights, Studio Ghibli inspired magical atmosphere",
+            "alt": "Oscar and friends heading back to school as magical silver bells chime",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Best Day Ever",
+      "pages": [
+        {
+          "text": "The afternoon brought science class in the magical greenhouse. They learned about plants that glowed in the dark and flowers that changed colors. Oscar planted a seed that immediately sprouted into a tiny rainbow tree. Magic was everywhere!",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes kneeling in a magical greenhouse planting a glowing seed that's sprouting into a small rainbow-colored tree, surrounded by plants that glow in various colors, mystical creatures watching, fairy lights overhead, rich greens and magical atmosphere with golden sparkles",
+            "alt": "Oscar planting a magical seed that grows into a rainbow tree in the enchanted greenhouse",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "As the school day ended, Mrs. Willowbark gave each student a small glowing acorn to take home. 'This will help you find your way back tomorrow,' she explained. Oscar held his acorn tight and felt its warm, comforting glow.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes holding a softly glowing golden acorn in his cupped hands, standing with Mrs. Willowbark and his magical animal friends near the tree school entrance, fairy lights twinkling in the background, detailed foliage and mystical atmosphere",
+            "alt": "Oscar receiving his magical glowing acorn from Mrs. Willowbark",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Walking home on the glowing mushroom path, Oscar's heart was full of joy. He had made wonderful friends, learned amazing things, and discovered that school could be truly magical. Tomorrow couldn't come soon enough! The enchanted forest had given him the most perfect first day ever.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes walking happily along the mushroom-lit forest path toward home, holding his glowing acorn, with the magical tree school visible behind him through the trees, fairy lights twinkling overhead, rich greens and purples with golden sparkles creating a warm, magical farewell scene",
+            "alt": "Oscar walking home happily along the enchanted forest path, holding his magical acorn",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "overcoming nervousness",
+      "magic in learning",
+      "acceptance of differences",
+      "wonder and discovery"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What kind of creatures were Oscar's classmates?",
+        "choices": [
+          "regular children",
+          "magical animals",
+          "robots"
+        ],
+        "correctIndex": 1,
+        "explanation": "Oscar's classmates were magical animals: Luna the deer, Pip the squirrel, and Sage the owl."
+      },
+      {
+        "id": "q2",
+        "question": "What did Oscar paint with in art class?",
+        "choices": [
+          "regular paint",
+          "fairy dust",
+          "water"
+        ],
+        "correctIndex": 1,
+        "explanation": "Oscar painted with sparkly purple fairy dust that made his painting come alive and move."
+      },
+      {
+        "id": "q3",
+        "question": "What did the lunch tables look like?",
+        "choices": [
+          "wooden desks",
+          "giant mushrooms",
+          "stone blocks"
+        ],
+        "correctIndex": 1,
+        "explanation": "The lunch tables were giant mushrooms with soft, squishy tops in the enchanted garden."
+      },
+      {
+        "id": "q4",
+        "question": "What did Mrs. Willowbark give Oscar to take home?",
+        "choices": [
+          "a glowing acorn",
+          "a magic book",
+          "a flower"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mrs. Willowbark gave Oscar a small glowing acorn to help him find his way back to school."
+      },
+      {
+        "id": "q5",
+        "question": "How did Oscar feel at the end of his first day?",
+        "choices": [
+          "sad and worried",
+          "happy and excited",
+          "tired and bored"
+        ],
+        "correctIndex": 1,
+        "explanation": "Oscar felt happy and excited about his magical school experience and couldn't wait to return tomorrow."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "magical",
+            "distractors": [
+              "ordinary",
+              "scary"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "mushrooms",
+            "distractors": [
+              "rocks",
+              "flowers"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "friends",
+            "distractors": [
+              "enemies",
+              "teachers"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "enchanted",
+            "distractors": [
+              "regular",
+              "boring"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

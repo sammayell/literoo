@@ -1,0 +1,162 @@
+{
+  "id": "v2-baby-feelings-133",
+  "title": "Nia's Colorful Feelings",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "feelings",
+    "colors"
+  ],
+  "wordCount": 87,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Nia explores different emotions through vibrant colors, learning that all feelings are okay and natural.",
+  "coverImage": "covers/v2-baby-feelings-133.webp",
+  "chapters": [
+    {
+      "title": "Nia's Colorful Day",
+      "pages": [
+        {
+          "text": "This is Nia. Nia has many feelings every day.",
+          "illustration": {
+            "description": "A young girl with long braids with colorful beads, dark brown skin, warm kind eyes standing in the center surrounded by swirling abstract colors representing different emotions",
+            "alt": "Nia surrounded by colorful emotion swirls",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When Nia is happy, she feels bright yellow like sunshine. Yellow makes her smile big!",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes dancing joyfully against a bright yellow sunshine background with radiating golden rays",
+            "alt": "Happy Nia dancing in yellow sunshine",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When Nia is sad, she feels blue like gentle rain. Blue tears are okay.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes sitting quietly with soft blue rain drops falling around her in an abstract blue watercolor background",
+            "alt": "Sad Nia with blue rain around her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When Nia is mad, she feels red like hot fire. Red feelings are big and strong.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes with crossed arms surrounded by swirling red abstract patterns and fiery red background",
+            "alt": "Angry Nia with red swirls around her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When Nia is calm, she feels green like soft grass. Green is peaceful and quiet.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes sitting peacefully in meditation pose against a serene green background with flowing grass-like patterns",
+            "alt": "Calm Nia in peaceful green setting",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "All of Nia's feelings are good. Red, blue, yellow, green - every color, every feeling belongs to her.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes with arms outstretched, surrounded by a beautiful rainbow of all emotion colors swirling harmoniously together",
+            "alt": "Nia embracing all colorful emotions together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotional awareness",
+      "color recognition",
+      "self-acceptance",
+      "feelings validation"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "emotion mapped colors, angry red swirls, sad blue rain, happy yellow sunshine, abstract emotion backgrounds, Inside Out inspired, feeling visualization, color psychology"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color does Nia feel when she is happy?",
+        "choices": [
+          "Yellow",
+          "Blue",
+          "Red"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nia feels bright yellow like sunshine when she is happy!"
+      },
+      {
+        "id": "q2",
+        "question": "What color does Nia feel when she is sad?",
+        "choices": [
+          "Red",
+          "Blue",
+          "Green"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nia feels blue like gentle rain when she is sad."
+      },
+      {
+        "id": "q3",
+        "question": "Are all of Nia's feelings good?",
+        "choices": [
+          "Yes",
+          "No"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yes! All of Nia's feelings are good and belong to her."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "yellow",
+            "distractors": [
+              "purple",
+              "orange"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "blue",
+            "distractors": [
+              "pink",
+              "black"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "red",
+            "distractors": [
+              "white",
+              "gray"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

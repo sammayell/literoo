@@ -1,0 +1,191 @@
+{
+  "id": "v2-toddler-school-149",
+  "title": "Chloe's First Day with Animal Friends",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "school",
+    "animals"
+  ],
+  "wordCount": 226,
+  "readingLevel": "Pre-K",
+  "synopsis": "Chloe starts her first day of school feeling nervous, but discovers friendly animal classmates who help her feel welcome and excited about learning together.",
+  "coverImage": "covers/v2-toddler-school-149.webp",
+  "chapters": [
+    {
+      "title": "Meeting New Friends",
+      "pages": [
+        {
+          "text": "Chloe walked into her new classroom with her backpack. She felt a little scared. Everything looked so big and new! But then she saw something wonderful. There were animal friends everywhere!",
+          "illustration": {
+            "description": "Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes standing in a classroom doorway holding a small backpack, looking around nervously at desks and chairs drawn in white chalk on a dark green chalkboard, with simple animal drawings visible in the background",
+            "alt": "Chloe entering her new classroom for the first time",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A friendly bunny hopped over to her. 'Hi! I'm Benny Bunny. Want to sit next to me?' he asked. Chloe smiled for the first time that day. 'Yes, please!' she said.",
+          "illustration": {
+            "description": "Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes smiling and talking to a cute white bunny drawn in chalk, both standing near small school desks, with alphabet letters and simple math equations doodled around the chalkboard border",
+            "alt": "Chloe meeting Benny Bunny in the classroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "At the art table, Chloe met Penny Pig and Oliver Owl. They were painting with bright colors. 'Come paint with us!' said Penny. 'We're making rainbow pictures!' Chloe picked up a brush and joined them.",
+          "illustration": {
+            "description": "Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes sitting at a table with a pink pig and brown owl, all holding paintbrushes, with colorful paint splotches and art supplies drawn in colored chalk on the dark green chalkboard",
+            "alt": "Chloe painting with her new animal friends",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "During snack time, a bear named Bruno shared his crackers. 'School is more fun with friends,' he said. Chloe nodded and shared her apple slices. She was starting to love school already!",
+          "illustration": {
+            "description": "Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes sitting in a circle with a brown teddy bear and other animal friends, sharing food, with simple addition problems and school supplies doodled in the corners of the dark green chalkboard",
+            "alt": "Chloe sharing snacks with Bruno Bear and friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Learning Together",
+      "pages": [
+        {
+          "text": "After snack, Teacher Cat called everyone to the reading circle. 'Let's read a story together!' she said. Chloe sat between Benny Bunny and Oliver Owl. She loved story time!",
+          "illustration": {
+            "description": "Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes sitting cross-legged in a circle with various animal friends around a teacher cat holding a book, with ABC letters and simple words written in white chalk around the dark green chalkboard",
+            "alt": "Story time in the classroom circle",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Then it was time to learn about shapes. Chloe helped Penny Pig find all the circles. Bruno Bear counted squares. Oliver Owl pointed to triangles with his wing. Learning was like playing games!",
+          "illustration": {
+            "description": "Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes pointing to geometric shapes drawn in colored chalk on the dark green chalkboard, standing next to animal friends, with circles, squares, and triangles scattered around and simple math equations in the corners",
+            "alt": "Chloe and friends learning about shapes",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When it was time to go home, Chloe felt sad to leave. 'Don't worry,' said Benny Bunny. 'We'll play again tomorrow!' All her new friends waved goodbye. Chloe couldn't wait to come back to school!",
+          "illustration": {
+            "description": "Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes waving goodbye to her animal friends who are gathered near the classroom door, with a clock showing 3 o'clock and school items like books and pencils drawn in chalk around the dark green chalkboard",
+            "alt": "Chloe saying goodbye to her animal friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "first day of school",
+      "overcoming fears",
+      "making friends",
+      "learning is fun"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Who was the first animal friend Chloe met?",
+        "choices": [
+          "Benny Bunny",
+          "Penny Pig",
+          "Oliver Owl"
+        ],
+        "correctIndex": 0,
+        "explanation": "Benny Bunny was the first to hop over and introduce himself to Chloe when she entered the classroom."
+      },
+      {
+        "id": "q2",
+        "question": "What did Chloe and her friends do at the art table?",
+        "choices": [
+          "Drew pictures",
+          "Made rainbow paintings",
+          "Cut paper"
+        ],
+        "correctIndex": 1,
+        "explanation": "Penny Pig said they were making rainbow pictures when she invited Chloe to paint with them."
+      },
+      {
+        "id": "q3",
+        "question": "What shapes did the friends learn about?",
+        "choices": [
+          "Circles, squares, and triangles",
+          "Only circles",
+          "Stars and hearts"
+        ],
+        "correctIndex": 0,
+        "explanation": "Chloe found circles, Bruno Bear counted squares, and Oliver Owl pointed to triangles during their shape lesson."
+      },
+      {
+        "id": "q4",
+        "question": "How did Chloe feel at the end of the school day?",
+        "choices": [
+          "Excited to come back tomorrow",
+          "Scared",
+          "Tired"
+        ],
+        "correctIndex": 0,
+        "explanation": "Even though Chloe felt sad to leave, she couldn't wait to come back to school the next day to see her new friends."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "scared",
+            "distractors": [
+              "happy",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "animal",
+            "distractors": [
+              "toy",
+              "robot"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "crackers",
+            "distractors": [
+              "cookies",
+              "candy"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "friends",
+            "distractors": [
+              "books",
+              "games"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

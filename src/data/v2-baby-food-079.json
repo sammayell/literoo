@@ -1,0 +1,134 @@
+{
+  "id": "v2-baby-food-079",
+  "title": "Hiro's Animal Cookie Friends",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "food",
+    "animals"
+  ],
+  "wordCount": 61,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Hiro discovers magical animal cookies that come to life during snack time, leading to a delightful adventure of sharing yummy treats with his new cookie friends.",
+  "coverImage": "covers/v2-baby-food-079.webp",
+  "chapters": [
+    {
+      "title": "Cookie Animal Friends",
+      "pages": [
+        {
+          "text": "Hiro sees yummy cookies on his plate. Look! A bunny cookie! Look! A cat cookie!",
+          "illustration": {
+            "description": "A delighted toddler boy with short straight black hair, light skin, bright dark brown eyes, round face sits at a colorful table with a plate of magical animal-shaped cookies. The cookies sparkle with golden crumbs and steam gently rises from them. A bunny cookie and cat cookie glow warmly on the plate.",
+            "alt": "Hiro looking at animal cookies on his plate",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The bunny cookie hops! Hop, hop, hop! The cat cookie says meow! Meow, meow!",
+          "illustration": {
+            "description": "The boy with short straight black hair, light skin, bright dark brown eyes, round face watches in wonder as his animal cookies come to life. The bunny cookie bounces with sparkles trailing behind it while the cat cookie stretches with magical golden crumbs falling around them.",
+            "alt": "Hiro's cookies coming to life and moving",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "More cookie friends come! A duck cookie! Quack! A dog cookie! Woof! They all want to play!",
+          "illustration": {
+            "description": "The happy toddler with short straight black hair, light skin, bright dark brown eyes, round face is surrounded by magical living cookies. A duck cookie waddles with steam puffs, a dog cookie wags its tail leaving sparkly crumbs, all on a festive table covered with delicious treats.",
+            "alt": "More animal cookies joining Hiro for playtime",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Hiro shares his milk. The cookie friends are happy! Yum, yum! Time for snacks together!",
+          "illustration": {
+            "description": "The joyful boy with short straight black hair, light skin, bright dark brown eyes, round face sits with all his cookie animal friends around a glass of milk. The magical cookies sparkle as they dip into the creamy milk, creating beautiful swirls of steam and golden sparkles in a celebration of snack time.",
+            "alt": "Hiro sharing milk with his cookie friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "sharing",
+      "imagination",
+      "snack time"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "delicious appetizing food, exaggerated proportions, steam drips sparkles, magical food, diverse cuisines, feast celebration, cooking scenes, yummy visual, food joy"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What shape are Hiro's special cookies?",
+        "choices": [
+          "Animals",
+          "Cars",
+          "Stars"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hiro's cookies are shaped like animals - bunny, cat, duck, and dog!"
+      },
+      {
+        "id": "q2",
+        "question": "What sound does the cat cookie make?",
+        "choices": [
+          "Meow",
+          "Woof",
+          "Quack"
+        ],
+        "correctIndex": 0,
+        "explanation": "The cat cookie says 'meow' just like a real cat!"
+      },
+      {
+        "id": "q3",
+        "question": "What does Hiro share with his cookie friends?",
+        "choices": [
+          "Milk",
+          "Water",
+          "Juice"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hiro shares his milk with all his cookie animal friends!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "yummy",
+            "distractors": [
+              "big",
+              "red"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "hops",
+            "distractors": [
+              "runs",
+              "flies"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

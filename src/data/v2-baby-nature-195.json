@@ -1,0 +1,140 @@
+{
+  "id": "v2-baby-nature-195",
+  "title": "Peek-a-Boo Seasons with Zuri",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "nature",
+    "peek-a-boo"
+  ],
+  "wordCount": 53,
+  "readingLevel": "Pre-K",
+  "synopsis": "Join Zuri as she plays peek-a-boo with nature through the changing seasons, discovering flowers in spring, butterflies in summer, leaves in autumn, and snowflakes in winter.",
+  "coverImage": "covers/v2-baby-nature-195.webp",
+  "chapters": [
+    {
+      "title": "Peek-a-Boo Seasons",
+      "pages": [
+        {
+          "text": "Peek-a-boo! Where is Zuri? Here she is behind the spring flowers!",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes peeks out from behind pink cherry blossoms and yellow daffodils in a spring garden with soft pastel colors",
+            "alt": "Zuri hiding behind colorful spring flowers",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Where is Zuri? There she is under the summer leaves!",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes sits under a large green oak tree with bright summer sunshine and vibrant green grass all around",
+            "alt": "Zuri sitting under a big green summer tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Where is Zuri? She's playing in the autumn leaves!",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes tosses orange, red, and golden autumn leaves in the air with warm autumn colors surrounding the same tree scene",
+            "alt": "Zuri playing in colorful fall leaves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Where is Zuri? Here she is making snow angels in winter!",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes lies in white snow making snow angels under the same tree now bare with cool winter blues and whites",
+            "alt": "Zuri making snow angels in winter",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Every season Zuri finds new ways to play!",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes stands in the center with four seasonal scenes around her showing the same location in spring, summer, autumn, and winter",
+            "alt": "Zuri surrounded by all four seasons",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "seasons",
+      "nature",
+      "play",
+      "peek-a-boo games",
+      "seasonal changes"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "seasonal cycle, spring pastels, summer brights, autumn warmth, winter cool, same scene different seasons, time passing, nature calendar, cyclical beauty"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What was Zuri hiding behind in spring?",
+        "choices": [
+          "flowers",
+          "leaves"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zuri was hiding behind beautiful spring flowers in the garden!"
+      },
+      {
+        "id": "q2",
+        "question": "What was Zuri making in the snow?",
+        "choices": [
+          "snow angels",
+          "snowballs"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zuri was making snow angels by lying in the white winter snow!"
+      },
+      {
+        "id": "q3",
+        "question": "What colors are autumn leaves?",
+        "choices": [
+          "orange and red",
+          "blue and green"
+        ],
+        "correctIndex": 0,
+        "explanation": "Autumn leaves turn beautiful warm colors like orange, red, and golden yellow!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "spring",
+            "distractors": [
+              "winter",
+              "summer"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 7,
+            "correctWord": "autumn",
+            "distractors": [
+              "spring",
+              "winter"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

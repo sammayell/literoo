@@ -1,0 +1,183 @@
+{
+  "id": "v2-toddler-adventure-075",
+  "title": "Zuri's Sleepy Treasure Hunt",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "adventure",
+    "bedtime"
+  ],
+  "wordCount": 216,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little explorer Zuri follows a magical treasure map through her cozy bedroom on a gentle adventure to find the greatest treasure of all - sweet dreams. This soothing bedtime story combines adventure with comfort as Zuri discovers that the best treasures are right at home.",
+  "coverImage": "covers/v2-toddler-adventure-075.webp",
+  "chapters": [
+    {
+      "title": "The Magic Map Appears",
+      "pages": [
+        {
+          "text": "Zuri was getting ready for bed when something sparkly caught her eye. Under her pillow was an old, crinkly treasure map! The map glowed softly in the moonlight streaming through her window.",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes sits on her bed holding a glowing treasure map. The illustration is in treasure map style with aged parchment background, compass roses in corners, sepia tones with golden jewel accents highlighting the magical map.",
+            "alt": "Zuri discovering a glowing treasure map in her bedroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The map showed her bedroom, but with dotted trails leading to different spots. There was a big X marked near her toy chest, and another by her bookshelf. 'What an adventure!' whispered Zuri excitedly.",
+          "illustration": {
+            "description": "Close-up view of the treasure map showing Zuri's bedroom layout with dotted trails, compass roses, and X marks. Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes peers at the map with wonder. The style features aged parchment texture, sepia tones, and jewel accents marking the treasure spots.",
+            "alt": "Zuri examining the detailed treasure map of her bedroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Following the first dotted trail, Zuri tiptoed to her toy chest. She lifted the lid carefully and found a small golden key tucked between her stuffed animals. The key sparkled like a real treasure!",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes kneels by an open toy chest, holding up a sparkling golden key. The scene is drawn in treasure map style with aged parchment background, dotted trail leading to the chest, compass rose elements, and sepia tones with golden jewel accents highlighting the key.",
+            "alt": "Zuri finding a golden key in her toy chest",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Greatest Treasure",
+      "pages": [
+        {
+          "text": "The second trail led to her bookshelf. Using the golden key, Zuri opened a small music box hidden behind her favorite books. Soft, sleepy music began to play, filling the room with gentle melodies.",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes stands by her bookshelf, using the golden key to open a music box. Musical notes float in the air around her. The illustration uses treasure map style with aged parchment, dotted trails, compass roses, sepia tones, and jewel accents highlighting the music box.",
+            "alt": "Zuri opening a musical treasure box with the golden key",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The final X on the map was right on her bed! Zuri climbed under her cozy blankets and found the greatest treasure of all - her favorite teddy bear was wearing a tiny crown, ready to share sweet dreams with her.",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes snuggled in bed with her teddy bear wearing a small crown. The scene is drawn in treasure map style with aged parchment borders, compass roses, sepia tones, and jewel accents on the crown. Soft moonlight creates a peaceful bedtime atmosphere.",
+            "alt": "Zuri in bed with her crowned teddy bear, having found the greatest treasure",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "As the music box played its gentle song, Zuri hugged her teddy bear tight. She had found the most wonderful treasures - adventure, music, and comfort. With a happy smile, she drifted off to sleep, dreaming of more magical adventures tomorrow.",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes peacefully sleeping in her bed, hugging her crowned teddy bear. The treasure map glows softly beside her pillow. The illustration features treasure map style with aged parchment background, compass roses, sepia tones, and golden jewel accents creating a warm, dreamy bedtime scene.",
+            "alt": "Zuri sleeping peacefully with her teddy bear and the glowing treasure map",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "adventure",
+      "bedtime routine",
+      "imagination",
+      "comfort",
+      "discovery"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "treasure map style, aged parchment, compass roses, dotted trails, sepia tones, jewel accents, bold explorers, adventure cartography, hand-drawn maps"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where did Zuri find the treasure map?",
+        "choices": [
+          "Under her pillow",
+          "In her toy chest",
+          "On her bookshelf"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zuri found the magical treasure map under her pillow when she was getting ready for bed."
+      },
+      {
+        "id": "q2",
+        "question": "What did Zuri find in her toy chest?",
+        "choices": [
+          "A golden key",
+          "A music box",
+          "Her teddy bear"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zuri found a sparkling golden key tucked between her stuffed animals in the toy chest."
+      },
+      {
+        "id": "q3",
+        "question": "What happened when Zuri opened the music box?",
+        "choices": [
+          "It played loud music",
+          "It played soft, sleepy music",
+          "Nothing happened"
+        ],
+        "correctIndex": 1,
+        "explanation": "The music box played soft, sleepy music that filled the room with gentle melodies."
+      },
+      {
+        "id": "q4",
+        "question": "What was the greatest treasure Zuri found?",
+        "choices": [
+          "Her teddy bear with a crown",
+          "The golden key",
+          "The music box"
+        ],
+        "correctIndex": 0,
+        "explanation": "The greatest treasure was her favorite teddy bear wearing a tiny crown, ready to share sweet dreams with her."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "sparkly",
+            "distractors": [
+              "dark",
+              "heavy"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "treasure",
+            "distractors": [
+              "picture",
+              "letter"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "golden",
+            "distractors": [
+              "silver",
+              "wooden"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "sparkled",
+            "distractors": [
+              "melted",
+              "broke"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

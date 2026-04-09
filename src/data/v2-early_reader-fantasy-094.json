@@ -1,0 +1,244 @@
+{
+  "id": "v2-early_reader-fantasy-094",
+  "title": "Marcus and the Magic Forest School",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "fantasy",
+    "school"
+  ],
+  "wordCount": 352,
+  "readingLevel": "Grade 1",
+  "synopsis": "Marcus discovers a magical school hidden in an enchanted forest where friendly creatures teach him about nature's wonders and the power of kindness.",
+  "coverImage": "covers/v2-early_reader-fantasy-094.webp",
+  "chapters": [
+    {
+      "title": "The Hidden Path",
+      "pages": [
+        {
+          "text": "Marcus was walking home from school when he saw something strange. A tiny blue light danced between the trees. It sparkled like a star! Marcus had short curly hair with a fade, medium-dark brown skin, and warm brown eyes that grew wide with wonder.",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes standing at the edge of an enchanted forest, watching a glowing blue fairy light dance among ancient trees with golden sparkles floating in the air",
+            "alt": "Marcus watching a magical blue light in the forest",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The light seemed to call to him. 'Follow me!' it whispered in a voice like tiny bells. Marcus looked around. No one else was there. Should he follow the magical light? His heart beat fast with excitement.",
+          "illustration": {
+            "description": "The glowing blue fairy light hovering near Marcus who has short curly hair with a fade, medium-dark brown skin, warm brown eyes, surrounded by mystical purple and green foliage with fairy lights twinkling overhead",
+            "alt": "A fairy light speaking to Marcus in the magical forest",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Marcus took a step into the forest. Then another. The trees seemed to part just for him! Glowing mushrooms lit up the path ahead. Everything sparkled with magic. 'This is amazing!' Marcus whispered to himself.",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes walking down a magical forest path lined with glowing purple and blue mushrooms, golden sparkles floating around him through rich green foliage",
+            "alt": "Marcus walking on a path of glowing mushrooms",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Forest School",
+      "pages": [
+        {
+          "text": "The path led to a clearing where Marcus couldn't believe his eyes! A school made of living trees stood before him. The walls were thick tree trunks, and the roof was made of leafy branches. Fairy lights twinkled all around like tiny stars.",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes standing before a magical school building made from enormous living trees, with fairy lights strung throughout the branches and glowing mushrooms at the base",
+            "alt": "Marcus discovering the magical tree school",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A wise old owl flew down from the branches. 'Welcome to Forest School, Marcus!' she hooted kindly. 'I'm Ms. Oakwing. We've been waiting for you!' Marcus smiled. How did she know his name? Magic was everywhere here!",
+          "illustration": {
+            "description": "A large, friendly owl with golden feathers perched on a branch speaking to Marcus who has short curly hair with a fade, medium-dark brown skin, warm brown eyes, surrounded by an enchanted forest atmosphere with golden sparkles and mystical creatures watching from the shadows",
+            "alt": "Ms. Oakwing the owl greeting Marcus at the forest school",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Inside the school, Marcus met the other teachers. Mr. Rabbit taught counting with acorns. Mrs. Squirrel showed how flowers grow. A family of mice taught the alphabet using flower petals. Every lesson was full of wonder and magic!",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes sitting in a magical classroom surrounded by animal teachers - a rabbit, squirrel, and mice - with glowing mushrooms providing light and fairy lights overhead creating a warm, mystical learning environment",
+            "alt": "Marcus learning with magical animal teachers",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "A Special Gift",
+      "pages": [
+        {
+          "text": "After his lessons, Ms. Oakwing gave Marcus a special gift. It was a small acorn that glowed with soft golden light. 'This will always remind you that magic is everywhere,' she said. 'Even in your regular school!'",
+          "illustration": {
+            "description": "Ms. Oakwing the owl presenting a glowing golden acorn to Marcus who has short curly hair with a fade, medium-dark brown skin, warm brown eyes, with magical golden sparkles swirling around them in the enchanted forest setting with rich purple and green foliage",
+            "alt": "Marcus receiving a magical glowing acorn from Ms. Oakwing",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Marcus put the acorn in his pocket. It felt warm and special. 'Will I see you again?' he asked. Ms. Oakwing winked. 'Magic finds those who believe in it. Remember to be kind and curious, and wonder will always find you!'",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes carefully placing the glowing acorn in his pocket while Ms. Oakwing and other forest creatures watch approvingly, surrounded by the mystical forest atmosphere with fairy lights twinkling above",
+            "alt": "Marcus treasuring his magical acorn gift",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The blue light led Marcus back to the regular path. When he turned around, the forest looked normal again. But in his pocket, the acorn still glowed softly. Marcus smiled. He would never forget his magical day at Forest School!",
+          "illustration": {
+            "description": "Marcus with short curly hair with a fade, medium-dark brown skin, warm brown eyes walking on a normal forest path, but with a subtle golden glow emanating from his pocket where the magical acorn rests, with just a hint of magical sparkles fading in the background trees",
+            "alt": "Marcus heading home with his magical memory and glowing acorn",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "magic and wonder",
+      "education and learning",
+      "kindness and curiosity",
+      "believing in yourself",
+      "nature appreciation"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Marcus first see that led him to the forest school?",
+        "choices": [
+          "a tiny blue light",
+          "a talking rabbit",
+          "a magic door"
+        ],
+        "correctIndex": 0,
+        "explanation": "Marcus saw a tiny blue light dancing between the trees that sparkled like a star and led him to the magical forest school."
+      },
+      {
+        "id": "q2",
+        "question": "Who was the owl teacher at Forest School?",
+        "choices": [
+          "Mrs. Squirrel",
+          "Ms. Oakwing",
+          "Mr. Rabbit"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ms. Oakwing was the wise old owl who welcomed Marcus to Forest School and later gave him the magical acorn."
+      },
+      {
+        "id": "q3",
+        "question": "What was the school building made of?",
+        "choices": [
+          "stone blocks",
+          "living trees",
+          "magic crystals"
+        ],
+        "correctIndex": 1,
+        "explanation": "The Forest School was made of living trees, with thick tree trunks as walls and leafy branches forming the roof."
+      },
+      {
+        "id": "q4",
+        "question": "What special gift did Marcus receive?",
+        "choices": [
+          "a glowing acorn",
+          "a magic wand",
+          "a fairy light"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ms. Oakwing gave Marcus a special acorn that glowed with soft golden light to remind him that magic is everywhere."
+      },
+      {
+        "id": "q5",
+        "question": "What did Ms. Oakwing say Marcus should remember?",
+        "choices": [
+          "to study harder",
+          "to be kind and curious",
+          "to tell everyone about the school"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ms. Oakwing told Marcus to remember to be kind and curious, and that wonder would always find him if he believed in magic."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "sparkled",
+            "distractors": [
+              "jumped",
+              "ran"
+            ]
+          },
+          {
+            "wordIndex": 25,
+            "correctWord": "wonder",
+            "distractors": [
+              "fear",
+              "sadness"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 5,
+        "blanks": [
+          {
+            "wordIndex": 18,
+            "correctWord": "magical",
+            "distractors": [
+              "scary",
+              "boring"
+            ]
+          },
+          {
+            "wordIndex": 31,
+            "correctWord": "teachers",
+            "distractors": [
+              "monsters",
+              "rocks"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 8,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "glowed",
+            "distractors": [
+              "broke",
+              "fell"
+            ]
+          },
+          {
+            "wordIndex": 29,
+            "correctWord": "believe",
+            "distractors": [
+              "forget",
+              "ignore"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

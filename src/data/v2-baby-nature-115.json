@@ -1,0 +1,164 @@
+{
+  "id": "v2-baby-nature-115",
+  "title": "Zuri's Peek-a-Boo Seasons",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "nature",
+    "peek-a-boo"
+  ],
+  "wordCount": 79,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Zuri plays peek-a-boo with nature through the changing seasons, discovering flowers, butterflies, leaves, and snow in her magical garden.",
+  "coverImage": "covers/v2-baby-nature-115.webp",
+  "chapters": [
+    {
+      "title": "Peek-a-Boo Seasons",
+      "pages": [
+        {
+          "text": "Peek-a-boo! Spring is here! Where are the flowers hiding?",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, crouching behind a large tree in a spring garden with pastel pink and yellow flowers blooming, her hands covering her eyes in a peek-a-boo gesture",
+            "alt": "Zuri playing peek-a-boo behind a tree in spring",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "There they are! Pretty pink and yellow flowers dancing in the breeze.",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, standing with arms outstretched among blooming spring flowers in soft pastels, smiling with delight",
+            "alt": "Zuri surrounded by spring flowers",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Summer sun! Where are the butterflies hiding?",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, peeking from behind bright summer sunflowers in vibrant yellows and oranges, hands positioned over her eyes",
+            "alt": "Zuri hiding behind sunflowers in summer",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "There they are! Orange and blue butterflies flying all around!",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, reaching up toward colorful butterflies in a bright summer garden filled with vivid flowers and green leaves",
+            "alt": "Zuri reaching for butterflies in summer",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Fall is here! Where are the leaves hiding?",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, hiding behind an autumn tree with warm orange and red leaves, playing peek-a-boo in the golden fall light",
+            "alt": "Zuri playing peek-a-boo in autumn",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "There they are! Red and orange leaves falling down like magic!",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, dancing among falling autumn leaves in warm reds, oranges, and golds swirling around her",
+            "alt": "Zuri dancing in falling autumn leaves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Winter snow! Where are the snowflakes hiding?",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, peeking around a snow-covered tree in a winter scene with cool blues and whites, snowflakes gently falling",
+            "alt": "Zuri hiding behind snowy tree in winter",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "There they are! White snowflakes dancing down from the sky! Peek-a-boo, seasons!",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, bright eyes, spinning in the falling snow with arms wide open, surrounded by gentle white snowflakes in a peaceful winter garden",
+            "alt": "Zuri spinning in falling snow",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "seasons",
+      "nature",
+      "discovery",
+      "peek-a-boo games",
+      "weather changes"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "seasonal cycle, spring pastels, summer brights, autumn warmth, winter cool, same scene different seasons, time passing, nature calendar, cyclical beauty"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Zuri find in spring?",
+        "choices": [
+          "flowers",
+          "snow"
+        ],
+        "correctIndex": 0,
+        "explanation": "In spring, Zuri finds pretty pink and yellow flowers!"
+      },
+      {
+        "id": "q2",
+        "question": "What flies around in summer?",
+        "choices": [
+          "leaves",
+          "butterflies"
+        ],
+        "correctIndex": 1,
+        "explanation": "Orange and blue butterflies fly around in summer!"
+      },
+      {
+        "id": "q3",
+        "question": "What falls down in winter?",
+        "choices": [
+          "snowflakes",
+          "flowers"
+        ],
+        "correctIndex": 0,
+        "explanation": "White snowflakes fall down from the sky in winter!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 7,
+            "correctWord": "flowers",
+            "distractors": [
+              "leaves",
+              "snow"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "butterflies",
+            "distractors": [
+              "flowers",
+              "snowflakes"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

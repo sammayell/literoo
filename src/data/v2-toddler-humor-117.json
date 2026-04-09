@@ -1,0 +1,212 @@
+{
+  "id": "v2-toddler-humor-117",
+  "title": "Amara and the Giggling Clouds",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "humor",
+    "fantasy"
+  ],
+  "wordCount": 247,
+  "readingLevel": "Pre-K",
+  "synopsis": "Amara discovers that clouds love to giggle and play silly games, leading to a bouncy adventure filled with tickles, wiggles, and lots of laughter in the sky.",
+  "coverImage": "covers/v2-toddler-humor-117.webp",
+  "chapters": [
+    {
+      "title": "The Tickly Cloud",
+      "pages": [
+        {
+          "text": "Amara was playing in her backyard when something fluffy tickled her nose. \"Giggle! Giggle!\" came a voice from above. A bouncy white cloud had floated down to say hello!",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes stands in a bright green yard, her nose scrunched up in an exaggerated comedic expression as a puffy white cloud with a silly grinning face hovers right above her, with wiggly motion lines showing it bouncing",
+            "alt": "Amara looking surprised as a giggling cloud tickles her nose",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I'm a Giggle Cloud!\" it said with a wiggly bounce. \"Want to play?\" Before Amara could answer, the cloud scooped her up with its soft, fluffy arms. \"Wheeeee!\"",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes is being lifted high in the air by a stretchy, cartoon cloud with rubber hose-style noodle arms, her expression showing pure joy with an enormous smile and eyes wide with excitement, surrounded by candy bright blue sky",
+            "alt": "Amara being playfully lifted by the cloud's stretchy arms",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Up, up, up they went! The Giggle Cloud spun and twirled, making Amara laugh so hard her belly hurt. \"This is the best day ever!\" she giggled.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes spinning through bright candy-colored sky, her body stretched in slapstick cartoon style with her braids flying wildly, mouth open in an enormous laugh, while the cloud does loop-de-loops with exaggerated squash and stretch movements",
+            "alt": "Amara spinning and laughing with the cloud in the colorful sky",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Cloud Tag Time",
+      "pages": [
+        {
+          "text": "\"Let's play tag with my friends!\" said the Giggle Cloud. Suddenly, the sky filled with bouncy clouds in every color - pink, purple, yellow, and green!",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes floating among a parade of oversized cartoon clouds in candy bright colors, each cloud having exaggerated happy faces with different silly expressions, all bouncing with dynamic energy and motion lines",
+            "alt": "Amara surrounded by colorful giggling clouds of different sizes",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Tag! You're it!\" A purple cloud poked Amara's tummy and zoomed away. Amara reached out to tag a yellow cloud, but it stretched like taffy to escape! \"Hee hee hee!\"",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes reaching toward a yellow cloud that's stretching like rubber in an impossible squash-and-stretch pose, while a purple cloud zips away with comedic speed lines, Amara's expression showing playful determination with oversized surprised eyes",
+            "alt": "Amara trying to tag a stretchy yellow cloud during their game",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The clouds played hide and seek next! They squeezed themselves tiny, then POOF! They'd pop back to huge sizes. Amara clapped and cheered at their silly tricks.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes clapping with exaggerated joy, surrounded by clouds in various cartoon transformation states - some squished tiny like buttons, others expanding with big POOF effects and starburst motion lines, showing classic slapstick energy",
+            "alt": "Amara watching clouds transform sizes in their hide and seek game",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Home Sweet Home",
+      "pages": [
+        {
+          "text": "As the sun began to set, the Giggle Cloud knew it was time to take Amara home. \"Will you come back tomorrow?\" it asked hopefully.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes sitting on her friendly cloud against a candy bright orange and pink sunset sky, both looking slightly sad with exaggerated pouty expressions, the cloud's face drooping in a comedic way",
+            "alt": "Amara and her cloud friend watching the sunset together",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Of course!\" Amara said, giving the cloud the biggest hug. The cloud gently floated her down to her backyard, tickling her one more time. \"Giggle! Giggle!\"",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes giving an enormous cartoon hug to the puffy white cloud, both with oversized happy expressions, surrounded by little heart shapes and sparkles, as they float down toward a bright green yard below",
+            "alt": "Amara hugging her cloud friend goodbye",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Every day after that, Amara would look up at the sky and wave. And every day, she could hear the soft giggles floating down from her fluffy friends above!",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes standing in her yard waving enthusiastically with both arms stretched high, her expression full of joy with an enormous smile, while multiple colorful clouds with happy faces wave back from a bright blue sky with bouncy motion lines",
+            "alt": "Amara waving up at her cloud friends in the sky",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "imagination",
+      "play",
+      "joy",
+      "adventure"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did the cloud do to Amara's nose?",
+        "choices": [
+          "tickled it",
+          "squeezed it",
+          "painted it"
+        ],
+        "correctIndex": 0,
+        "explanation": "The Giggle Cloud tickled Amara's nose when they first met in the backyard!"
+      },
+      {
+        "id": "q2",
+        "question": "What colors were the cloud friends?",
+        "choices": [
+          "pink, purple, yellow, and green",
+          "red, blue, and white",
+          "orange and brown"
+        ],
+        "correctIndex": 0,
+        "explanation": "The Giggle Cloud's friends came in pink, purple, yellow, and green colors to play tag!"
+      },
+      {
+        "id": "q3",
+        "question": "What games did they play in the sky?",
+        "choices": [
+          "tag and hide and seek",
+          "hopscotch",
+          "jump rope"
+        ],
+        "correctIndex": 0,
+        "explanation": "Amara and the clouds played tag and hide and seek together in the sky!"
+      },
+      {
+        "id": "q4",
+        "question": "How does Amara say hello to the clouds now?",
+        "choices": [
+          "she waves at the sky",
+          "she calls their names",
+          "she jumps up and down"
+        ],
+        "correctIndex": 0,
+        "explanation": "Every day, Amara looks up at the sky and waves to her cloud friends!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "fluffy",
+            "distractors": [
+              "bumpy",
+              "sharp"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "giggle",
+            "distractors": [
+              "whisper",
+              "shout"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "bouncy",
+            "distractors": [
+              "sleepy",
+              "angry"
+            ]
+          },
+          {
+            "wordIndex": 22,
+            "correctWord": "play",
+            "distractors": [
+              "sleep",
+              "eat"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

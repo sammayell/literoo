@@ -1,0 +1,169 @@
+{
+  "id": "v2-baby-counting-110",
+  "title": "Jasper's Happy Numbers",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "counting",
+    "feelings"
+  ],
+  "wordCount": 101,
+  "readingLevel": "Pre-K",
+  "synopsis": "Join Jasper as he discovers numbers from 1 to 5 while exploring different feelings and emotions. Each number brings a new adventure filled with joy, excitement, and wonder as Jasper counts his way through happy moments.",
+  "coverImage": "covers/v2-baby-counting-110.webp",
+  "chapters": [
+    {
+      "title": "Counting Happy Things",
+      "pages": [
+        {
+          "text": "This is Jasper! He loves to count. Jasper feels very happy today. Let's count happy things with him!",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes stands smiling widely with arms outstretched, surrounded by colorful counting blocks and toys arranged in a bright, cheerful room",
+            "alt": "Happy Jasper ready to count",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "ONE big smile! Jasper's smile makes him feel wonderful. He is so happy!",
+          "illustration": {
+            "description": "Close-up of Jasper with wavy reddish-brown hair, fair freckled skin, green eyes showing one enormous, joyful smile. The number 1 appears prominently in bright yellow with sparkles around it",
+            "alt": "Jasper showing one big smile",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "TWO clapping hands! Clap, clap! Jasper feels excited when he claps his hands together.",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes clapping his two hands together with joy. The number 2 is displayed in bold red letters with musical notes floating around",
+            "alt": "Jasper clapping two hands",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "THREE colorful balloons! Red, blue, yellow! The balloons make Jasper feel giggly and light.",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes holding three distinct balloons (red, blue, yellow) with a big grin. The number 3 appears in purple with balloon patterns around it",
+            "alt": "Jasper with three colorful balloons",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "FOUR bouncing balls! Bounce, bounce, bounce, bounce! Jasper feels playful watching them bounce.",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes surrounded by four different colored balls mid-bounce. The number 4 is shown in green with bouncing motion lines",
+            "alt": "Four bouncing balls around Jasper",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "FIVE golden stars! Twinkle, twinkle! The pretty stars make Jasper feel amazed and wonder-filled.",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes pointing up at five golden stars arranged in a pattern above him. The number 5 glows in gold with twinkling effects",
+            "alt": "Jasper looking at five golden stars",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Counting makes Jasper feel so happy! One, two, three, four, five! What a wonderful day!",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, green eyes dancing joyfully surrounded by all the counted items: one smile, two hands, three balloons, four balls, and five stars. Numbers 1-5 form a rainbow arc above him",
+            "alt": "Jasper celebrating with all his counted happy things",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "counting",
+      "happiness",
+      "emotions",
+      "numbers",
+      "joy"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "clear countable objects, fun patterns, numbers prominent, visual counting, each number unique scene, engaging practice, organized arrangement, mathematical beauty"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How many balloons did Jasper have?",
+        "choices": [
+          "Three",
+          "Two"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jasper had three colorful balloons - red, blue, and yellow!"
+      },
+      {
+        "id": "q2",
+        "question": "What made Jasper feel happy?",
+        "choices": [
+          "Counting",
+          "Sleeping"
+        ],
+        "correctIndex": 0,
+        "explanation": "Counting all the wonderful things made Jasper feel very happy!"
+      },
+      {
+        "id": "q3",
+        "question": "How many stars were twinkling?",
+        "choices": [
+          "Five",
+          "Four"
+        ],
+        "correctIndex": 0,
+        "explanation": "There were five beautiful golden stars twinkling above Jasper!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "ONE",
+            "distractors": [
+              "TWO",
+              "THREE"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "TWO",
+            "distractors": [
+              "ONE",
+              "FOUR"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "FOUR",
+            "distractors": [
+              "THREE",
+              "FIVE"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "id": "v2-toddler-nature-046",
+  "title": "Hugo's Seasons at School",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "nature",
+    "school"
+  ],
+  "wordCount": 96,
+  "readingLevel": "Pre-K",
+  "synopsis": "Hugo experiences the changing seasons through his preschool's garden, discovering how nature transforms throughout the year while learning with his classmates.",
+  "coverImage": "covers/v2-toddler-nature-046.webp",
+  "chapters": [
+    {
+      "title": "Spring and Summer Learning",
+      "pages": [
+        {
+          "text": "Hugo loves his preschool garden! In spring, tiny green shoots peek through the dark soil. Hugo plants seeds with his teacher.",
+          "illustration": {
+            "description": "Hugo with straight light blonde hair, fair skin, light blue eyes kneeling in a school garden in spring, planting seeds in soft brown soil with small green sprouts emerging, surrounded by pale pink cherry blossoms and light green leaves in soft pastel colors",
+            "alt": "Hugo planting seeds in spring garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The warm summer sun helps everything grow big and tall! Hugo waters the bright yellow sunflowers and picks red tomatoes for snack time.",
+          "illustration": {
+            "description": "Hugo with straight light blonde hair, fair skin, light blue eyes standing among tall bright yellow sunflowers and green tomato plants heavy with red fruit, holding a small watering can under brilliant blue summer sky with vibrant colors",
+            "alt": "Hugo watering summer garden",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Autumn and Winter Changes",
+      "pages": [
+        {
+          "text": "In autumn, the leaves turn orange, red, and gold. Hugo rakes the crunchy leaves into big piles with his friends. The pumpkins are ready to pick!",
+          "illustration": {
+            "description": "Hugo with straight light blonde hair, fair skin, light blue eyes raking colorful autumn leaves in warm oranges, deep reds, and golden yellows, with large orange pumpkins scattered around the garden and trees with changing foliage",
+            "alt": "Hugo raking autumn leaves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Winter brings snow to cover the sleeping garden. Hugo builds a snowman where the sunflowers grew. Soon spring will come again, and new plants will grow!",
+          "illustration": {
+            "description": "Hugo with straight light blonde hair, fair skin, light blue eyes building a snowman in the same garden location now covered in white snow, with bare tree branches and cool blue and white winter tones, showing the cyclical nature of seasons",
+            "alt": "Hugo building snowman in winter garden",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "seasonal changes",
+      "gardening",
+      "preschool learning",
+      "nature cycles",
+      "outdoor education"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "seasonal cycle, spring pastels, summer brights, autumn warmth, winter cool, same scene different seasons, time passing, nature calendar, cyclical beauty"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Hugo plant in spring?",
+        "choices": [
+          "seeds",
+          "rocks",
+          "toys"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hugo plants seeds in the spring garden, which grow into plants during the warmer months."
+      },
+      {
+        "id": "q2",
+        "question": "What color are the sunflowers Hugo waters?",
+        "choices": [
+          "yellow",
+          "blue",
+          "purple"
+        ],
+        "correctIndex": 0,
+        "explanation": "The sunflowers in Hugo's garden are bright yellow, just like real sunflowers."
+      },
+      {
+        "id": "q3",
+        "question": "What does Hugo pick in autumn?",
+        "choices": [
+          "pumpkins",
+          "snow",
+          "flowers"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hugo picks pumpkins in autumn when they are ripe and ready to harvest."
+      },
+      {
+        "id": "q4",
+        "question": "What covers the garden in winter?",
+        "choices": [
+          "snow",
+          "leaves",
+          "flowers"
+        ],
+        "correctIndex": 0,
+        "explanation": "Snow covers the garden in winter, making it look white and peaceful while the plants sleep."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "spring",
+            "distractors": [
+              "winter",
+              "night"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "seeds",
+            "distractors": [
+              "stones",
+              "books"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "sunflowers",
+            "distractors": [
+              "snowballs",
+              "cookies"
+            ]
+          },
+          {
+            "wordIndex": 14,
+            "correctWord": "tomatoes",
+            "distractors": [
+              "mittens",
+              "pencils"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

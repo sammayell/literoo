@@ -1,0 +1,211 @@
+{
+  "id": "v2-toddler-feelings-111",
+  "title": "Zara's Big Feelings",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "feelings",
+    "family"
+  ],
+  "wordCount": 194,
+  "readingLevel": "Pre-K",
+  "synopsis": "Join Zara as she experiences big feelings throughout her day and learns how her family helps her understand and manage emotions like anger, sadness, and happiness.",
+  "coverImage": "covers/v2-toddler-feelings-111.webp",
+  "chapters": [
+    {
+      "title": "When Feelings Get Big",
+      "pages": [
+        {
+          "text": "This is Zara. She has big feelings, just like you! Sometimes her feelings feel very, very big inside her heart.",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes stands in the center with swirling colors of red, blue, and yellow emotions surrounding her like a colorful storm",
+            "alt": "Zara surrounded by colorful emotion swirls",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Today, Zara's tower of blocks fell down. CRASH! She felt angry. Her whole body felt hot and mad.",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes sits on the floor with fallen blocks around her, angry red swirls and jagged lines fill the background like a stormy sky",
+            "alt": "Angry Zara with fallen blocks and red swirls",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama came over and sat down next to Zara. 'I see you're feeling angry,' Mama said gently. 'It's okay to feel mad when things don't go the way we want.'",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes sits next to her mama on the floor, the angry red swirls begin to soften into calmer orange and pink colors in the background",
+            "alt": "Zara and her mama sitting together with softening emotion colors",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sad Clouds and Gentle Hugs",
+      "pages": [
+        {
+          "text": "Later, Zara's favorite stuffed bunny got dirty. She felt very sad. Tears rolled down her cheeks like little rivers.",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes holds her dirty stuffed bunny with tears on her cheeks, sad blue rain drops and dark blue clouds fill the abstract background",
+            "alt": "Sad Zara with her bunny surrounded by blue rain drops",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Daddy saw Zara's sad face. 'Would you like a hug?' he asked. Zara nodded and snuggled into Daddy's warm arms.",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes hugs her daddy tightly, the sad blue rain in the background begins to lighten and mix with gentle purple and lavender comfort colors",
+            "alt": "Zara hugging her daddy with comforting colors around them",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'We can wash bunny together,' Daddy said. 'Sometimes sad feelings need time and love to feel better.' Zara smiled a tiny smile.",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes and her daddy at a sink washing the bunny, the background shows blue sadness mixing with warm green hope colors",
+            "alt": "Zara and daddy washing the bunny with hopeful colors",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Happy Sunshine Inside",
+      "pages": [
+        {
+          "text": "At dinner, Grandma came to visit! Zara felt so happy. Joy bubbled up inside her like fizzy bubbles.",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes runs toward her grandma with arms wide open, bright happy yellow sunshine rays and golden sparkles fill the background like warm light",
+            "alt": "Happy Zara running to grandma with yellow sunshine background",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Look at that beautiful smile!' Grandma said, giving Zara the biggest hug. 'Happy feelings make everything brighter, don't they?'",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes hugs her grandma tightly, happy yellow sunshine bursts with orange joy swirls and golden stars dancing all around them",
+            "alt": "Zara and grandma hugging with bright happy colors",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "That night, Mama tucked Zara into bed. 'All feelings are okay,' Mama whispered. 'Our family will always help you with your big feelings.' Zara felt safe and loved.",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes lies in bed while her mama tucks her in, the background shows all emotion colors - red, blue, yellow - blending peacefully together in gentle, harmonious swirls",
+            "alt": "Zara being tucked into bed with peaceful emotion colors",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotional regulation",
+      "family support",
+      "expressing feelings",
+      "comfort and love"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "emotion mapped colors, angry red swirls, sad blue rain, happy yellow sunshine, abstract emotion backgrounds, Inside Out inspired, feeling visualization, color psychology"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What happened to make Zara feel angry?",
+        "choices": [
+          "Her blocks fell down",
+          "She lost her bunny",
+          "Grandma went home"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zara felt angry when her tower of blocks fell down and crashed."
+      },
+      {
+        "id": "q2",
+        "question": "Who helped Zara when she felt sad?",
+        "choices": [
+          "Daddy",
+          "Grandma",
+          "Her bunny"
+        ],
+        "correctIndex": 0,
+        "explanation": "Daddy helped Zara when she was sad by giving her a hug and helping wash her bunny."
+      },
+      {
+        "id": "q3",
+        "question": "What made Zara feel very happy?",
+        "choices": [
+          "Playing with blocks",
+          "Washing her bunny",
+          "Grandma's visit"
+        ],
+        "correctIndex": 2,
+        "explanation": "Zara felt very happy when Grandma came to visit for dinner."
+      },
+      {
+        "id": "q4",
+        "question": "What did Mama tell Zara about feelings?",
+        "choices": [
+          "All feelings are okay",
+          "Only happy feelings are good",
+          "Feelings should be hidden"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama told Zara that all feelings are okay and that family will always help with big feelings."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "angry",
+            "distractors": [
+              "happy",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "hot",
+            "distractors": [
+              "cold",
+              "wet"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "sad",
+            "distractors": [
+              "mad",
+              "glad"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "tears",
+            "distractors": [
+              "smiles",
+              "words"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "id": "v2-baby-food-129",
+  "title": "Chloe's Animal Food Friends",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "food",
+    "animals"
+  ],
+  "wordCount": 30,
+  "readingLevel": "Pre-K",
+  "synopsis": "Baby Chloe discovers magical animal friends who love to share delicious foods together in a colorful, appetizing adventure.",
+  "coverImage": "covers/v2-baby-food-129.webp",
+  "chapters": [
+    {
+      "title": "Yummy Friends",
+      "pages": [
+        {
+          "text": "Chloe sees a bunny. The bunny has carrots!",
+          "illustration": {
+            "description": "A cheerful little girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes sits next to a fluffy white bunny holding bright orange carrots with sparkles and steam rising from them in magical swirls",
+            "alt": "Chloe with a bunny and magical carrots",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A bear brings honey. Sweet honey drips down!",
+          "illustration": {
+            "description": "A friendly brown bear holds a golden honey pot with thick honey dripping down in sparkly streams while Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes claps her hands in delight",
+            "alt": "Bear with honey and happy Chloe",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Fish swim with apples. Red apples float!",
+          "illustration": {
+            "description": "Colorful fish swim around bright red apples floating in sparkling water with steam and magical sparkles while Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes watches with wonder",
+            "alt": "Fish swimming with floating apples and Chloe",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Chloe eats with friends. Yum yum yum!",
+          "illustration": {
+            "description": "Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes sits at a magical feast table with the bunny, bear, and fish, surrounded by steaming carrots, dripping honey, and sparkling apples in a joyful celebration",
+            "alt": "Chloe enjoying a feast with animal friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "sharing",
+      "animals",
+      "food",
+      "joy"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "delicious appetizing food, exaggerated proportions, steam drips sparkles, magical food, diverse cuisines, feast celebration, cooking scenes, yummy visual, food joy"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does the bunny have?",
+        "choices": [
+          "carrots",
+          "honey"
+        ],
+        "correctIndex": 0,
+        "explanation": "The bunny has orange carrots!"
+      },
+      {
+        "id": "q2",
+        "question": "What does the bear bring?",
+        "choices": [
+          "apples",
+          "honey"
+        ],
+        "correctIndex": 1,
+        "explanation": "The bear brings sweet honey that drips down!"
+      },
+      {
+        "id": "q3",
+        "question": "What do the fish swim with?",
+        "choices": [
+          "apples",
+          "carrots"
+        ],
+        "correctIndex": 0,
+        "explanation": "The fish swim with red apples that float!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "carrots",
+            "distractors": [
+              "cookies",
+              "cheese"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "honey",
+            "distractors": [
+              "milk",
+              "juice"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

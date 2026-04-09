@@ -1,0 +1,163 @@
+{
+  "id": "v2-toddler-nature-186",
+  "title": "Hugo's Seasons at School",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "nature",
+    "school"
+  ],
+  "wordCount": 140,
+  "readingLevel": "Pre-K",
+  "synopsis": "Hugo discovers how his school playground changes through the four seasons, learning about nature's beautiful cycle from spring flowers to winter snow.",
+  "coverImage": "covers/v2-toddler-nature-186.webp",
+  "chapters": [
+    {
+      "title": "Spring and Summer at School",
+      "pages": [
+        {
+          "text": "Hugo loves going to school! In spring, he runs outside to play. The trees have new green leaves. Pretty flowers bloom everywhere. Hugo picks up smooth stones and watches butterflies dance.",
+          "illustration": {
+            "description": "Hugo with straight light blonde hair, fair skin, light blue eyes playing in a spring school playground with blooming cherry trees, daffodils, and butterflies in soft pastel colors",
+            "alt": "Hugo playing in spring playground with flowers and butterflies",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When summer comes, Hugo plays under big shady trees. The flowers are bright and colorful now. He feels warm sunshine on his face. Hugo and his friends run and laugh together in the green grass.",
+          "illustration": {
+            "description": "Hugo with straight light blonde hair, fair skin, light blue eyes playing with friends under large leafy trees in the same school playground, now with vibrant summer flowers and bright sunny colors",
+            "alt": "Hugo playing with friends in sunny summer playground",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Fall and Winter Changes",
+      "pages": [
+        {
+          "text": "In fall, Hugo sees the leaves change colors! Red, orange, and yellow leaves fall down like rain. He kicks through piles of crunchy leaves. The air smells fresh and cool. Hugo collects pretty leaves for his teacher.",
+          "illustration": {
+            "description": "Hugo with straight light blonde hair, fair skin, light blue eyes collecting colorful autumn leaves in the same school playground, now with orange and red trees and warm autumn colors everywhere",
+            "alt": "Hugo collecting autumn leaves in fall playground",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Winter brings snow to Hugo's school! Everything looks white and sparkly. Hugo makes snow angels and catches snowflakes on his tongue. The trees look different now, but they're still beautiful. Hugo knows spring will come again soon!",
+          "illustration": {
+            "description": "Hugo with straight light blonde hair, fair skin, light blue eyes making snow angels in the same school playground covered in white snow, with bare winter trees and cool blue and white winter colors",
+            "alt": "Hugo making snow angels in winter playground",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "seasonal changes",
+      "nature appreciation",
+      "school environment",
+      "cyclical time"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "seasonal cycle, spring pastels, summer brights, autumn warmth, winter cool, same scene different seasons, time passing, nature calendar, cyclical beauty"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Hugo do with the leaves in fall?",
+        "choices": [
+          "Collects them for his teacher",
+          "Throws them away",
+          "Eats them"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hugo collects the pretty colorful leaves to share with his teacher."
+      },
+      {
+        "id": "q2",
+        "question": "What grows on the trees in spring?",
+        "choices": [
+          "New green leaves",
+          "Snow",
+          "Rocks"
+        ],
+        "correctIndex": 0,
+        "explanation": "In spring, the trees grow beautiful new green leaves."
+      },
+      {
+        "id": "q3",
+        "question": "What does Hugo make in the snow?",
+        "choices": [
+          "Snow angels",
+          "Mud pies",
+          "Leaf piles"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hugo has fun making snow angels in the white winter snow."
+      },
+      {
+        "id": "q4",
+        "question": "Where does Hugo play during all the seasons?",
+        "choices": [
+          "At school",
+          "At the store",
+          "In a car"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hugo plays at his school playground through all four seasons."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "flowers",
+            "distractors": [
+              "rocks",
+              "cars"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "sunshine",
+            "distractors": [
+              "snow",
+              "rain"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "leaves",
+            "distractors": [
+              "stones",
+              "toys"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

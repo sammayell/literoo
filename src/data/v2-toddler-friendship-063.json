@@ -1,0 +1,197 @@
+{
+  "id": "v2-toddler-friendship-063",
+  "title": "Lily's Garden Friends",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "nature"
+  ],
+  "wordCount": 222,
+  "readingLevel": "Pre-K",
+  "synopsis": "Lily discovers that making friends in the garden is as easy as sharing, caring, and exploring nature together with her new butterfly and bunny companions.",
+  "coverImage": "covers/v2-toddler-friendship-063.webp",
+  "chapters": [
+    {
+      "title": "Meeting Bella Butterfly",
+      "pages": [
+        {
+          "text": "Lily loved playing in her backyard garden. The flowers were bright yellow, red, and purple. The grass was soft and green under her bare feet.",
+          "illustration": {
+            "description": "A young girl with long curly auburn hair, fair skin with light freckles, green eyes stands in a colorful garden with bright yellow, red, and purple flowers, soft green grass, using bright sunny playground illustration style with primary colors and white space",
+            "alt": "Lily standing in a beautiful garden with colorful flowers",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "One sunny morning, a beautiful orange butterfly landed on Lily's nose. 'Hello!' said the butterfly. 'I'm Bella. Want to be friends?'",
+          "illustration": {
+            "description": "A girl with long curly auburn hair, fair skin with light freckles, green eyes has a bright orange butterfly perched on her nose, both smiling happily in a sunny garden setting with joyful energetic colors and white space",
+            "alt": "Lily with Bella the butterfly on her nose",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Yes!' giggled Lily. 'I would love a butterfly friend!' Bella fluttered around Lily's head, making her laugh and spin in circles.",
+          "illustration": {
+            "description": "A joyful girl with long curly auburn hair, fair skin with light freckles, green eyes spinning in circles while an orange butterfly flies around her head in a bright sunny garden with primary colors and inclusive, energetic playground style",
+            "alt": "Lily spinning with Bella flying around her",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Benny Bunny Joins In",
+      "pages": [
+        {
+          "text": "While Lily and Bella played, a small brown bunny hopped out from behind a big sunflower. He looked shy and a little sad.",
+          "illustration": {
+            "description": "A girl with long curly auburn hair, fair skin with light freckles, green eyes and an orange butterfly watch as a small brown bunny peeks shyly from behind a tall sunflower in a bright garden with primary colors and white space",
+            "alt": "Shy bunny hiding behind a sunflower while Lily and Bella watch",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Hi there, little bunny!' called Lily. 'Do you want to play with us?' The bunny's ears perked up. 'I'm Benny,' he said softly. 'But I don't know how to fly like Bella.'",
+          "illustration": {
+            "description": "A kind girl with long curly auburn hair, fair skin with light freckles, green eyes kneeling down to talk to a small brown bunny while an orange butterfly hovers nearby, all in a sunny garden with joyful energetic colors and friendship activities theme",
+            "alt": "Lily talking to Benny the bunny with Bella nearby",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'That's okay!' said Lily. 'Friends don't have to be the same. You can hop, and that's special too!' Benny smiled and did a happy little hop.",
+          "illustration": {
+            "description": "A smiling girl with long curly auburn hair, fair skin with light freckles, green eyes clapping as a brown bunny hops joyfully while an orange butterfly dances in the air, all in a bright sunny garden with primary colors and inclusive playground style",
+            "alt": "Lily clapping as Benny hops happily with Bella flying",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Playing Together",
+      "pages": [
+        {
+          "text": "The three friends played hide-and-seek among the flower beds. Bella hid on flower petals, Benny hid behind leaves, and Lily hid behind trees.",
+          "illustration": {
+            "description": "A girl with long curly auburn hair, fair skin with light freckles, green eyes peeking from behind a tree while an orange butterfly sits on flower petals and a brown bunny hides behind large leaves in a colorful garden with bright sunny playground colors and white space",
+            "alt": "All three friends playing hide-and-seek in the garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "They shared a picnic lunch under the apple tree. Lily brought sandwiches, Bella found sweet nectar, and Benny shared his favorite clover.",
+          "illustration": {
+            "description": "A happy girl with long curly auburn hair, fair skin with light freckles, green eyes sitting under an apple tree with sandwiches, while an orange butterfly sips nectar and a brown bunny munches clover, all sharing a picnic with joyful energetic friendship activities and primary colors",
+            "alt": "Three friends sharing a picnic under an apple tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "As the sun set, the friends hugged goodbye. 'See you tomorrow!' said Lily. 'Friends forever!' chirped Bella and Benny together. Lily smiled, happy to have such wonderful garden friends.",
+          "illustration": {
+            "description": "A content girl with long curly auburn hair, fair skin with light freckles, green eyes waving goodbye as an orange butterfly and brown bunny wave back in a garden at sunset with warm primary colors, white space, and inclusive friendship theme",
+            "alt": "Lily waving goodbye to her garden friends at sunset",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "nature",
+      "acceptance",
+      "diversity",
+      "kindness",
+      "outdoor play"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color is Bella the butterfly?",
+        "choices": [
+          "orange",
+          "yellow",
+          "purple"
+        ],
+        "correctIndex": 0,
+        "explanation": "Bella is a beautiful orange butterfly who became Lily's first garden friend."
+      },
+      {
+        "id": "q2",
+        "question": "What is the bunny's name?",
+        "choices": [
+          "Benny",
+          "Bobby",
+          "Billy"
+        ],
+        "correctIndex": 0,
+        "explanation": "The shy bunny's name is Benny, and he can hop very well."
+      },
+      {
+        "id": "q3",
+        "question": "Where do the friends have their picnic?",
+        "choices": [
+          "under the apple tree",
+          "by the flowers",
+          "near the fence"
+        ],
+        "correctIndex": 0,
+        "explanation": "The three friends shared their picnic lunch under the apple tree in the garden."
+      },
+      {
+        "id": "q4",
+        "question": "What does Lily learn about friendship?",
+        "choices": [
+          "friends don't have to be the same",
+          "friends must look alike",
+          "friends only play inside"
+        ],
+        "correctIndex": 0,
+        "explanation": "Lily learns that friends don't have to be the same - they can all have different special abilities."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "butterfly",
+            "distractors": [
+              "bird",
+              "bee"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "bunny",
+            "distractors": [
+              "puppy",
+              "kitty"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

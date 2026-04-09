@@ -1,0 +1,148 @@
+{
+  "id": "v2-baby-food-159",
+  "title": "Hiro's Animal Friends Feast",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "food",
+    "animals"
+  ],
+  "wordCount": 59,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Hiro discovers magical foods with his animal friends in a delightful feast adventure filled with yummy treats and friendship.",
+  "coverImage": "covers/v2-baby-food-159.webp",
+  "chapters": [
+    {
+      "title": "Hiro's Yummy Friends",
+      "pages": [
+        {
+          "text": "Hiro loves to eat! He sees a big bunny with carrots.",
+          "illustration": {
+            "description": "A toddler boy with short straight black hair, light skin, bright dark brown eyes, round face sitting at a colorful table with a fluffy white bunny holding giant orange carrots with sparkles and steam rising from them",
+            "alt": "Hiro sitting with a bunny and magical carrots",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The bunny gives Hiro orange carrots. Crunch, crunch! Yummy!",
+          "illustration": {
+            "description": "The same boy with short straight black hair, light skin, bright dark brown eyes, round face happily eating glowing orange carrots with the bunny, magical sparkles and steam swirling around the delicious food",
+            "alt": "Hiro eating carrots with bunny friend",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A brown bear brings honey! Sweet, golden honey drips down.",
+          "illustration": {
+            "description": "A friendly brown bear offering a jar of golden honey to the toddler with short straight black hair, light skin, bright dark brown eyes, round face, with honey dripping like liquid gold and magical sparkles everywhere",
+            "alt": "Bear sharing honey with Hiro",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Hiro tastes the honey. So sweet! The bear smiles big.",
+          "illustration": {
+            "description": "The boy with short straight black hair, light skin, bright dark brown eyes, round face licking honey from his finger while the smiling bear watches, surrounded by golden honey drops and magical steam",
+            "alt": "Hiro tasting sweet honey",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A little mouse brings cheese. Yellow cheese with holes!",
+          "illustration": {
+            "description": "A tiny gray mouse presenting a large piece of swiss cheese with holes to the toddler with short straight black hair, light skin, bright dark brown eyes, round face, cheese glowing with appetizing steam and sparkles",
+            "alt": "Mouse sharing cheese with Hiro",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "All friends eat together. Happy feast time! Yum, yum, yum!",
+          "illustration": {
+            "description": "The boy with short straight black hair, light skin, bright dark brown eyes, round face sitting at a magical feast table with bunny, bear, and mouse, surrounded by colorful foods with steam, sparkles, and celebration decorations",
+            "alt": "Hiro and animal friends having a feast",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "sharing",
+      "trying new foods",
+      "animals",
+      "celebration"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "delicious appetizing food, exaggerated proportions, steam drips sparkles, magical food, diverse cuisines, feast celebration, cooking scenes, yummy visual, food joy"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did the bunny give Hiro?",
+        "choices": [
+          "carrots",
+          "apples"
+        ],
+        "correctIndex": 0,
+        "explanation": "The bunny gave Hiro orange carrots to eat!"
+      },
+      {
+        "id": "q2",
+        "question": "What did the bear bring?",
+        "choices": [
+          "honey",
+          "fish"
+        ],
+        "correctIndex": 0,
+        "explanation": "The brown bear brought sweet, golden honey for Hiro to taste!"
+      },
+      {
+        "id": "q3",
+        "question": "How did the friends feel eating together?",
+        "choices": [
+          "happy",
+          "sad"
+        ],
+        "correctIndex": 0,
+        "explanation": "All the friends were happy eating together at their feast!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "carrots",
+            "distractors": [
+              "cookies",
+              "apples"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "honey",
+            "distractors": [
+              "water",
+              "milk"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

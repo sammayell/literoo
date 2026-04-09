@@ -1,0 +1,139 @@
+{
+  "id": "v2-baby-animals-062",
+  "title": "Finn Meets the Savanna Friends",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "animals",
+    "nature"
+  ],
+  "wordCount": 62,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Finn explores the warm savanna and meets friendly animals including a gentle elephant, a tall giraffe, and a striped zebra, learning simple animal sounds and movements.",
+  "coverImage": "covers/v2-baby-animals-062.webp",
+  "chapters": [
+    {
+      "title": "Savanna Adventure",
+      "pages": [
+        {
+          "text": "Finn walks in the warm savanna. The grass is tall and golden.",
+          "illustration": {
+            "description": "A toddler boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes walking through tall golden grass in an African savanna painted with thick gouache brushstrokes, warm orange and yellow colors, textured painterly style with bold confident strokes",
+            "alt": "Finn walking through golden savanna grass",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Look! A big gray elephant says 'TRUMPET!' Finn waves hello.",
+          "illustration": {
+            "description": "A large gray elephant with expressive eyes painted in gouache with thick brushstrokes, standing near a toddler boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes, warm savanna colors with orange sunset in background, textured painterly style",
+            "alt": "Finn meeting a friendly elephant",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A tall giraffe stretches his long neck. 'Hello up there!' says Finn.",
+          "illustration": {
+            "description": "A very tall giraffe with brown spots bending down toward a small toddler boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes, painted with thick gouache brushstrokes in warm savanna colors, golden grass and orange sunset, bold confident strokes",
+            "alt": "Finn looking up at a tall giraffe",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Zebra has black and white stripes. Zebra says 'NEIGH!' Finn laughs and claps.",
+          "illustration": {
+            "description": "A zebra with bold black and white stripes painted in expressive gouache style with thick brushstrokes, next to a happy toddler boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes clapping his hands, warm savanna colors with textured painterly background",
+            "alt": "Finn clapping at a striped zebra",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The sun is orange and warm. Finn waves goodbye to all his new animal friends.",
+          "illustration": {
+            "description": "A toddler boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes waving goodbye with elephant, giraffe, and zebra in background, painted with thick gouache brushstrokes, warm orange sunset, golden grass, textured painterly style with bold confident strokes",
+            "alt": "Finn waving goodbye to savanna animals at sunset",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "animals",
+      "nature exploration",
+      "sounds"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does the elephant make?",
+        "choices": [
+          "TRUMPET!",
+          "NEIGH!"
+        ],
+        "correctIndex": 0,
+        "explanation": "The elephant says 'TRUMPET!' in the story."
+      },
+      {
+        "id": "q2",
+        "question": "Which animal has black and white stripes?",
+        "choices": [
+          "Zebra",
+          "Giraffe"
+        ],
+        "correctIndex": 0,
+        "explanation": "The zebra has black and white stripes."
+      },
+      {
+        "id": "q3",
+        "question": "What color is the grass in the savanna?",
+        "choices": [
+          "Golden",
+          "Green"
+        ],
+        "correctIndex": 0,
+        "explanation": "The grass is described as tall and golden."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "elephant",
+            "distractors": [
+              "lion",
+              "monkey"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "giraffe",
+            "distractors": [
+              "hippo",
+              "rhino"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

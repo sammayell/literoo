@@ -1,0 +1,139 @@
+{
+  "id": "v2-baby-peek-a-boo-128",
+  "title": "Where Is Theo Hiding?",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "peek-a-boo",
+    "bedtime"
+  ],
+  "wordCount": 40,
+  "readingLevel": "Pre-K",
+  "synopsis": "A playful peek-a-boo bedtime story where little Theo hides behind curtains, under blankets, and in cozy spots around his bedroom, creating gentle surprises and interactive fun perfect for sleepy time.",
+  "coverImage": "covers/v2-baby-peek-a-boo-128.webp",
+  "chapters": [
+    {
+      "title": "Peek-A-Boo Bedtime",
+      "pages": [
+        {
+          "text": "Where is Theo? Is he behind the big blue curtain?",
+          "illustration": {
+            "description": "A nursery room with a large blue curtain partially concealing a small boy with short curly blonde hair, light skin, round blue eyes peeking out from behind it, peek-a-boo composition with surprise element",
+            "alt": "Theo hiding behind blue curtain",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! There's Theo! Now where did he go?",
+          "illustration": {
+            "description": "A boy with short curly blonde hair, light skin, round blue eyes smiling and waving from behind the now-open curtain, lift the flap inspired style with playful concealment",
+            "alt": "Theo revealed behind curtain waving",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Is Theo under the soft yellow blanket on his bed?",
+          "illustration": {
+            "description": "A cozy bedroom with a yellow blanket on a small bed, partially hidden objects showing tiny feet of a boy with short curly blonde hair, light skin, round blue eyes underneath, interactive feel",
+            "alt": "Theo's feet peeking from under blanket",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! Here's sleepy Theo! Time for bed!",
+          "illustration": {
+            "description": "A drowsy boy with short curly blonde hair, light skin, round blue eyes sitting up in bed with the yellow blanket, rubbing his eyes, behind the curtain style with gentle hiding and revealing composition",
+            "alt": "Sleepy Theo in bed ready for sleep",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Good night, Theo. Sweet dreams!",
+          "illustration": {
+            "description": "A peaceful bedroom scene with a boy with short curly blonde hair, light skin, round blue eyes sleeping peacefully under covers, moonlight creating partially hidden objects effect through window, bedtime atmosphere",
+            "alt": "Theo sleeping peacefully in bed",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "hide and seek",
+      "peek-a-boo games",
+      "sleep preparation"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "lift the flap inspired, partially hidden objects, peek-a-boo composition, hiding and revealing, interactive feel, surprise element, behind the curtain, playful concealment"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where was Theo hiding first?",
+        "choices": [
+          "Behind the blue curtain",
+          "Under the blanket"
+        ],
+        "correctIndex": 0,
+        "explanation": "Theo was first hiding behind the big blue curtain in his room!"
+      },
+      {
+        "id": "q2",
+        "question": "What color was Theo's blanket?",
+        "choices": [
+          "Yellow",
+          "Blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "Theo's blanket was soft and yellow on his cozy bed!"
+      },
+      {
+        "id": "q3",
+        "question": "What did Theo do at the end?",
+        "choices": [
+          "Went to sleep",
+          "Kept playing"
+        ],
+        "correctIndex": 0,
+        "explanation": "At the end, sleepy Theo went to bed for sweet dreams!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "curtain",
+            "distractors": [
+              "chair",
+              "table"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "blanket",
+            "distractors": [
+              "pillow",
+              "toy"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

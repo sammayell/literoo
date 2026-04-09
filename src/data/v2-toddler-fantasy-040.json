@@ -1,0 +1,164 @@
+{
+  "id": "v2-toddler-fantasy-040",
+  "title": "Sofia and the Glowing Mushroom Friends",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "fantasy",
+    "friendship"
+  ],
+  "wordCount": 180,
+  "readingLevel": "Pre-K",
+  "synopsis": "Sofia discovers magical glowing mushrooms in an enchanted forest and learns about friendship when she helps them solve a problem together.",
+  "coverImage": "covers/v2-toddler-fantasy-040.webp",
+  "chapters": [
+    {
+      "title": "The Magic Forest",
+      "pages": [
+        {
+          "text": "Sofia loved to explore. One sunny day, she walked into a special forest. The trees sparkled with tiny lights! Purple and green leaves danced in the breeze. 'Wow!' said Sofia. 'This place is magical!' She saw something glowing behind a big tree. What could it be?",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes standing at the entrance of an enchanted forest with glowing fairy lights in the trees, rich green and purple foliage, golden sparkles floating in the air, Studio Ghibli inspired magical atmosphere",
+            "alt": "Sofia entering a magical forest with sparkling lights",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "New Mushroom Friends",
+      "pages": [
+        {
+          "text": "Behind the tree, Sofia found three glowing mushrooms! They had cute little faces and were crying. 'Hello,' said Sofia gently. 'I'm Rosie,' sniffled a red mushroom. 'I'm Blu,' said a blue one. 'And I'm Goldie,' whispered a yellow mushroom. 'We lost our glow,' they said sadly. 'Our forest friends can't find us in the dark!' Sofia wanted to help her new friends.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes kneeling beside three sad mushroom creatures (red, blue, and yellow) with little faces, surrounded by detailed mystical foliage, glowing fairy lights, and golden sparkles in an enchanted forest setting",
+            "alt": "Sofia meeting three crying mushroom friends in the magical forest",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Friendship Magic",
+      "pages": [
+        {
+          "text": "Sofia thought hard. 'Maybe we need to work together!' she said. Sofia held hands with her mushroom friends. 'Let's think happy thoughts about friendship!' They closed their eyes and smiled. Suddenly, the mushrooms began to glow again! Pink, blue, and golden light filled the forest. 'You helped us remember that friendship is the strongest magic!' said Rosie. Sofia hugged her glowing friends. She had learned that helping others makes the best adventures!",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes holding hands with three brightly glowing mushroom friends in a circle, surrounded by an enchanted forest with rich greens and purples, fairy lights, golden sparkles, and mystical creatures peeking from behind trees, Studio Ghibli inspired magical atmosphere",
+            "alt": "Sofia and the mushroom friends glowing together in a magical circle of friendship",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "helping others",
+      "magic",
+      "adventure",
+      "cooperation"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Sofia find behind the big tree?",
+        "choices": [
+          "Three glowing mushrooms",
+          "A rainbow",
+          "A butterfly"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sofia found three glowing mushrooms with cute little faces behind the tree."
+      },
+      {
+        "id": "q2",
+        "question": "Why were the mushrooms sad?",
+        "choices": [
+          "They lost their glow",
+          "They were hungry",
+          "They were cold"
+        ],
+        "correctIndex": 0,
+        "explanation": "The mushrooms were sad because they lost their glow and their forest friends couldn't find them."
+      },
+      {
+        "id": "q3",
+        "question": "What are the names of the three mushrooms?",
+        "choices": [
+          "Rosie, Blu, and Goldie",
+          "Red, Blue, and Yellow",
+          "Magic, Sparkle, and Shine"
+        ],
+        "correctIndex": 0,
+        "explanation": "The three mushrooms introduced themselves as Rosie, Blu, and Goldie."
+      },
+      {
+        "id": "q4",
+        "question": "How did Sofia help the mushrooms glow again?",
+        "choices": [
+          "By holding hands and thinking happy thoughts about friendship",
+          "By singing a song",
+          "By dancing around them"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sofia helped by holding hands with the mushrooms and thinking happy thoughts about friendship together."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "special",
+            "distractors": [
+              "scary",
+              "dark"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "magical",
+            "distractors": [
+              "big",
+              "small"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "friends",
+            "distractors": [
+              "trees",
+              "flowers"
+            ]
+          },
+          {
+            "wordIndex": 25,
+            "correctWord": "help",
+            "distractors": [
+              "run",
+              "hide"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

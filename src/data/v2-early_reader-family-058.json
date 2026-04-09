@@ -1,0 +1,223 @@
+{
+  "id": "v2-early_reader-family-058",
+  "title": "Yuki's Big Kitchen Adventure",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "family",
+    "adventure"
+  ],
+  "wordCount": 477,
+  "readingLevel": "Grade 1",
+  "synopsis": "When Yuki discovers her family is preparing for Grandma's special visit, she embarks on a kitchen adventure to help make the perfect welcome feast, learning about cooking, family traditions, and the joy of working together.",
+  "coverImage": "covers/v2-early_reader-family-058.webp",
+  "chapters": [
+    {
+      "title": "A Special Surprise",
+      "pages": [
+        {
+          "text": "Yuki woke up to wonderful smells coming from the kitchen. She could hear her mom and dad talking quietly. They sounded excited about something special. Yuki jumped out of bed and ran to see what was happening. The kitchen was full of steam and delicious smells. Flour was everywhere! 'What's going on?' asked Yuki. Her mom smiled big. 'Grandma is coming to visit today! We want to make her favorite foods.' Yuki's eyes grew wide with excitement. She loved Grandma so much.",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes standing in a warm kitchen doorway, watching her parents cook with steam rising from pots and flour dusted on counters in cozy yellow and orange lighting",
+            "alt": "Yuki watching her parents cook in a steamy, flour-dusted kitchen",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Kitchen Team",
+      "pages": [
+        {
+          "text": "Dad was stirring a big pot of soup. Mom was rolling dough on the counter. 'Can I help?' asked Yuki. 'Of course!' said Mom. 'We need all the help we can get.' Dad tied a small apron around Yuki's waist. It had little flowers on it. 'You're now part of our cooking team,' he said with a laugh. Yuki felt so proud to wear the apron. She was ready for her big kitchen adventure! 'What should I do first?' she asked. Mom pointed to a bowl of vegetables. 'Can you help wash these carrots?'",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes wearing a floral apron, standing between her parents in the warm kitchen with orange and yellow tones, steam rising from cooking pots",
+            "alt": "Yuki wearing an apron between her parents in the busy kitchen",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Learning New Things",
+      "pages": [
+        {
+          "text": "Yuki carefully washed each carrot. The water was nice and warm. Then Mom showed her how to peel them with a special tool. 'Be very careful,' said Mom. 'Always peel away from your fingers.' Yuki concentrated hard. Peel, peel, peel. The orange skin curled off in long strips. Next, Dad taught her how to cut the carrots into small pieces. He put his big hands over her little hands to help guide the knife. 'Perfect!' he said. 'You're becoming a great cook!' Yuki beamed with pride at her neat pile of orange carrots.",
+          "illustration": {
+            "description": "Close-up of Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes carefully peeling carrots at the kitchen counter with warm yellow lighting and steam visible in the background",
+            "alt": "Yuki carefully peeling carrots with her father's guidance",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Best Part",
+      "pages": [
+        {
+          "text": "While the soup cooked, Mom and Yuki made Grandma's favorite cookies. They mixed flour, butter, and sugar in a big bowl. Yuki got to crack the eggs all by herself. Only a tiny bit of shell fell in! Mom showed her how to roll the dough and use cookie cutters. Yuki made star shapes and heart shapes. 'These will tell Grandma how much we love her,' said Yuki. The best part was licking the spoon when they were done mixing. The raw cookie dough tasted sweet and wonderful. Soon the whole kitchen smelled like warm cookies baking in the oven.",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes rolling cookie dough with her mother, flour dusting the counter, warm orange kitchen lighting with steam and the cozy feeling of home baking",
+            "alt": "Yuki and her mother making cookies together with flour everywhere",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Grandma's Surprise",
+      "pages": [
+        {
+          "text": "Just as they finished cooking, the doorbell rang. 'Grandma's here!' shouted Yuki. She ran to open the door, still wearing her flour-covered apron. Grandma gave her the biggest hug ever. 'Something smells absolutely delicious,' said Grandma with a twinkle in her eye. The family sat around the dining table together. There was warm soup, fresh bread, and the star and heart cookies Yuki had made. 'This is the most beautiful meal ever,' said Grandma. 'And I can tell Yuki helped make it with lots of love.' Yuki smiled proudly. Her kitchen adventure had been the best day ever, and now Grandma was here to share it with them.",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes sitting at a warm dining table with her family and grandmother, the table set with homemade food, warm yellow and orange lighting creating a cozy family gathering atmosphere",
+            "alt": "Yuki and her family sharing the special meal with Grandma at the dining table",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "helping others",
+      "learning new skills",
+      "traditions",
+      "cooking together",
+      "intergenerational love"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Why were Yuki's parents cooking in the kitchen?",
+        "choices": [
+          "Grandma was coming to visit",
+          "It was Yuki's birthday",
+          "They were having a party"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yuki's mom told her that Grandma was coming to visit, so they wanted to make her favorite foods."
+      },
+      {
+        "id": "q2",
+        "question": "What did Yuki wear to help in the kitchen?",
+        "choices": [
+          "A chef's hat",
+          "An apron with flowers",
+          "Special cooking gloves"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dad tied a small apron with little flowers around Yuki's waist when she joined the cooking team."
+      },
+      {
+        "id": "q3",
+        "question": "What vegetables did Yuki help prepare?",
+        "choices": [
+          "Carrots",
+          "Potatoes",
+          "Onions"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mom pointed to a bowl of vegetables and asked Yuki to help wash the carrots."
+      },
+      {
+        "id": "q4",
+        "question": "What shapes did Yuki make with the cookie cutters?",
+        "choices": [
+          "Stars and hearts",
+          "Circles and squares",
+          "Animals and flowers"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yuki made star shapes and heart shapes with the cookie cutters to show Grandma how much they love her."
+      },
+      {
+        "id": "q5",
+        "question": "How did Grandma feel about the meal?",
+        "choices": [
+          "She thought it was beautiful and made with love",
+          "She wanted something different",
+          "She was too tired to eat"
+        ],
+        "correctIndex": 0,
+        "explanation": "Grandma said it was the most beautiful meal ever and that she could tell Yuki helped make it with lots of love."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "kitchen",
+            "distractors": [
+              "bedroom",
+              "garage"
+            ]
+          },
+          {
+            "wordIndex": 25,
+            "correctWord": "excited",
+            "distractors": [
+              "tired",
+              "angry"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "apron",
+            "distractors": [
+              "hat",
+              "shoes"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "team",
+            "distractors": [
+              "game",
+              "race"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "carrots",
+            "distractors": [
+              "apples",
+              "cookies"
+            ]
+          },
+          {
+            "wordIndex": 35,
+            "correctWord": "proud",
+            "distractors": [
+              "sleepy",
+              "hungry"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

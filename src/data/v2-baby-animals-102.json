@@ -1,0 +1,147 @@
+{
+  "id": "v2-baby-animals-102",
+  "title": "Finn's Safari Friends",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "animals",
+    "nature"
+  ],
+  "wordCount": 80,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Finn explores the savanna and meets friendly animals who each make their special sounds, learning about elephants, lions, zebras, and giraffes in a gentle adventure.",
+  "coverImage": "covers/v2-baby-animals-102.webp",
+  "chapters": [
+    {
+      "title": "Safari Friends",
+      "pages": [
+        {
+          "text": "Little Finn walks in the golden grass. The sun is warm and bright.",
+          "illustration": {
+            "description": "A small boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes walking through tall golden savanna grass under a warm orange sunset sky, painted with thick gouache brushstrokes in warm colors",
+            "alt": "Finn walking through golden grass",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Look! A big elephant waves her trunk. 'Hello!' trumpets the elephant.",
+          "illustration": {
+            "description": "A friendly gray elephant with an expressive face waving her trunk at a small boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes, painted in gouache with thick brushstrokes against golden grass and orange sunset",
+            "alt": "Elephant greeting Finn",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A lion stretches and yawns. 'Roar!' says the sleepy lion softly.",
+          "illustration": {
+            "description": "A golden lion with a fluffy mane stretching and yawning near a small boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes, painted in textured gouache with warm savanna colors and bold confident strokes",
+            "alt": "Lion yawning near Finn",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Three zebras run and play. Their stripes are black and white. 'Neigh!' call the zebras.",
+          "illustration": {
+            "description": "Three playful zebras with bold black and white stripes running past a small boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes, painted in thick gouache brushstrokes with golden grass and warm orange sunset colors",
+            "alt": "Zebras running near Finn",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A tall giraffe bends down. Her spots are pretty. She says nothing, but smiles.",
+          "illustration": {
+            "description": "A gentle spotted giraffe bending her long neck down to look at a small boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes, painted with expressive gouache techniques in warm savanna colors with textured painterly strokes",
+            "alt": "Giraffe bending down to Finn",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Finn waves goodbye to all his new friends. The animals wave back. What a happy day!",
+          "illustration": {
+            "description": "A small boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes waving goodbye to an elephant, lion, zebras, and giraffe all gathered together, painted in gouache with thick brushstrokes, golden grass, and a beautiful orange sunset sky",
+            "alt": "Finn waving goodbye to all the animals",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "animals",
+      "exploration",
+      "nature sounds"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound does the elephant make?",
+        "choices": [
+          "Trumpet",
+          "Roar"
+        ],
+        "correctIndex": 0,
+        "explanation": "The elephant trumpets 'Hello!' when she waves her trunk at Finn."
+      },
+      {
+        "id": "q2",
+        "question": "What colors are the zebra's stripes?",
+        "choices": [
+          "Black and white",
+          "Brown and yellow"
+        ],
+        "correctIndex": 0,
+        "explanation": "The zebras have black and white stripes as they run and play."
+      },
+      {
+        "id": "q3",
+        "question": "Which animal is the tallest?",
+        "choices": [
+          "Giraffe",
+          "Lion"
+        ],
+        "correctIndex": 0,
+        "explanation": "The giraffe is described as tall and bends her long neck down to see Finn."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "elephant",
+            "distractors": [
+              "zebra",
+              "lion"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "roar",
+            "distractors": [
+              "trumpet",
+              "neigh"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

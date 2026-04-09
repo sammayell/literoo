@@ -1,0 +1,164 @@
+{
+  "id": "v2-toddler-family-024",
+  "title": "Oscar's Pancake Adventure",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "family",
+    "humor"
+  ],
+  "wordCount": 190,
+  "readingLevel": "Pre-K",
+  "synopsis": "Oscar helps make pancakes with his family but creates a flour-filled mess that turns into a fun cooking adventure filled with laughter and love.",
+  "coverImage": "covers/v2-toddler-family-024.webp",
+  "chapters": [
+    {
+      "title": "Flour Everywhere!",
+      "pages": [
+        {
+          "text": "Oscar wanted to help make pancakes. Mom gave him a big wooden spoon. Dad showed him the flour. Oscar stirred and stirred... POOF! White flour flew everywhere! It covered his nose, his shirt, and even the counter. Oscar giggled. 'Oops!' he said. Mom and Dad started laughing too. The kitchen looked like it had snowed inside!",
+          "illustration": {
+            "description": "A cozy kitchen with warm yellow walls where a young boy Oscar with short brown wavy hair, fair skin, warm hazel eyes stands at a wooden counter covered in white flour, holding a big wooden spoon, flour dusting his clothes and face, with his parents laughing nearby, warm orange light streaming through windows",
+            "alt": "Oscar making a mess with flour while cooking with his parents",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Mixing Magic",
+      "pages": [
+        {
+          "text": "Mom brought more flour. This time, Dad held the bowl steady. Oscar poured in milk - splash! Some went in the bowl, some on the table. Next came the eggs. Crack, crack, crack! Oscar mixed everything together. The batter looked lumpy and bumpy. 'Perfect!' said Mom with a wink. Oscar felt so proud. He was a real pancake chef!",
+          "illustration": {
+            "description": "In the warm kitchen with orange and yellow tones, Oscar with short brown wavy hair, fair skin, warm hazel eyes carefully pours milk from a pitcher into a mixing bowl while his father steadies it, with cracked eggshells on the wooden counter and steam rising from the pancake batter, all three wearing matching aprons",
+            "alt": "Oscar pouring ingredients while his dad helps steady the mixing bowl",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Pancake Party",
+      "pages": [
+        {
+          "text": "Dad heated up the pan. Oscar watched the first pancake bubble and pop. Flip! It flew high in the air and landed perfectly. Soon the table was full of golden pancakes. Oscar's family sat together at their cozy dining table. Everyone took big bites of the fluffy pancakes. 'These are the best pancakes ever!' said Oscar. 'Because we made them together!' said Mom. Oscar smiled big. Cooking with family was the most fun of all.",
+          "illustration": {
+            "description": "A warm dining room with golden yellow light where Oscar with short brown wavy hair, fair skin, warm hazel eyes sits at a wooden table with his family, enjoying a stack of golden pancakes with steam rising from them, syrup dripping down, everyone smiling and sharing this cozy family moment together",
+            "alt": "Oscar and his family enjoying homemade pancakes together at the dining table",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "helping in the kitchen",
+      "learning through mistakes",
+      "cooking together",
+      "sharing meals"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What happened when Oscar first stirred the flour?",
+        "choices": [
+          "It flew everywhere",
+          "It turned blue",
+          "It disappeared"
+        ],
+        "correctIndex": 0,
+        "explanation": "Oscar stirred so enthusiastically that flour went poof and covered everything!"
+      },
+      {
+        "id": "q2",
+        "question": "Who helped Oscar hold the bowl steady?",
+        "choices": [
+          "Dad",
+          "Mom",
+          "His sister"
+        ],
+        "correctIndex": 0,
+        "explanation": "Dad held the bowl steady so Oscar could pour the milk safely."
+      },
+      {
+        "id": "q3",
+        "question": "What did the family do with the pancakes?",
+        "choices": [
+          "Ate them together",
+          "Threw them away",
+          "Fed them to birds"
+        ],
+        "correctIndex": 0,
+        "explanation": "The whole family sat at the table and enjoyed the delicious pancakes together."
+      },
+      {
+        "id": "q4",
+        "question": "How did Oscar feel about cooking with his family?",
+        "choices": [
+          "It was the most fun of all",
+          "It was boring",
+          "It was too hard"
+        ],
+        "correctIndex": 0,
+        "explanation": "Oscar learned that cooking together with family was the most fun thing to do!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "spoon",
+            "distractors": [
+              "fork",
+              "knife"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "flour",
+            "distractors": [
+              "sugar",
+              "salt"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "milk",
+            "distractors": [
+              "water",
+              "juice"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "eggs",
+            "distractors": [
+              "apples",
+              "cookies"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
