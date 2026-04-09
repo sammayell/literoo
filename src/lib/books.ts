@@ -50,6 +50,9 @@ const FREE_BOOK_IDS = new Set([
   'reader-secret-treehouse-001',
   'mg-last-level-001',
   'ya-signal-noise-001',
+  'test-baby-001',
+  'test-toddler-001',
+  'test-early-reader-001',
 ]);
 
 export function getFreeBookIds(): string[] {
