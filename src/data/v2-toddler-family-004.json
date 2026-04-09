@@ -1,0 +1,148 @@
+{
+  "id": "v2-toddler-family-004",
+  "title": "Oscar's Pancake Surprise",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "family",
+    "humor"
+  ],
+  "wordCount": 181,
+  "readingLevel": "Pre-K",
+  "synopsis": "Oscar tries to help make breakfast for his family but creates a delightfully messy kitchen adventure that leads to giggles and pancakes for everyone.",
+  "coverImage": "covers/v2-toddler-family-004.webp",
+  "chapters": [
+    {
+      "title": "The Big Helper",
+      "pages": [
+        {
+          "text": "Oscar wanted to surprise Mommy and Daddy with breakfast. He put on his favorite red apron and climbed up to the counter. \"I can make pancakes!\" he said proudly. Oscar reached for the flour bag, but it was very heavy. WHOOSH! White flour flew everywhere - on his nose, on the floor, even on the cat!",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes wearing a red apron in a cozy yellow kitchen, flour exploding around him in white clouds, covering his face and the counter, with warm morning sunlight streaming through windows",
+            "alt": "Oscar covered in flour in a messy but warm kitchen",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Mixing Mess",
+      "pages": [
+        {
+          "text": "Next, Oscar cracked the eggs. CRACK! SPLAT! The shells went into the bowl with the eggs. \"Oops!\" he giggled. Then he poured the milk - glug, glug, glug - but forgot to stop! Milk splashed onto the floor. Oscar stirred and stirred with the big wooden spoon. Mix, mix, splash! Pancake batter went flying like polka dots on the walls.",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes stirring a large mixing bowl with pancake batter splashing everywhere, eggshells visible in the bowl, milk puddle on the kitchen floor, warm orange morning light filling the cozy kitchen",
+            "alt": "Oscar making a cheerful mess while mixing pancake batter",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Family Pancakes",
+      "pages": [
+        {
+          "text": "\"What's all this noise?\" asked Daddy, walking into the kitchen. Mommy gasped, then started laughing. \"Oh, Oscar! What a wonderful mess!\" They helped Oscar clean up and make new pancake batter together. Soon, golden pancakes were sizzling in the pan. The whole family sat around the dining table, eating warm, fluffy pancakes. \"These are the best pancakes ever!\" said Oscar. \"Because we made them together!\"",
+          "illustration": {
+            "description": "Oscar with short brown wavy hair, fair skin, warm hazel eyes sitting at a cozy dining table with his parents, everyone wearing aprons, eating golden pancakes with steam rising from plates, warm yellow and orange kitchen lighting, family smiling together around homemade breakfast",
+            "alt": "Oscar and his family enjoying pancakes together at the breakfast table",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "helping at home",
+      "learning from mistakes",
+      "cooking together",
+      "making memories"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Oscar want to make for breakfast?",
+        "choices": [
+          "pancakes",
+          "cookies",
+          "toast"
+        ],
+        "correctIndex": 0,
+        "explanation": "Oscar wanted to surprise his family by making pancakes for breakfast!"
+      },
+      {
+        "id": "q2",
+        "question": "What happened when Oscar opened the flour bag?",
+        "choices": [
+          "it spilled everywhere",
+          "it stayed neat",
+          "it disappeared"
+        ],
+        "correctIndex": 0,
+        "explanation": "The flour bag was too heavy for Oscar and flour went flying all over the kitchen!"
+      },
+      {
+        "id": "q3",
+        "question": "Who helped Oscar make the pancakes?",
+        "choices": [
+          "Mommy and Daddy",
+          "his friends",
+          "the cat"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mommy and Daddy came to help Oscar clean up and make new pancake batter together."
+      },
+      {
+        "id": "q4",
+        "question": "How did the family feel about eating together?",
+        "choices": [
+          "happy",
+          "angry",
+          "sleepy"
+        ],
+        "correctIndex": 0,
+        "explanation": "The whole family was happy eating the pancakes they made together!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "pancakes",
+            "distractors": [
+              "cookies",
+              "muffins"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "flour",
+            "distractors": [
+              "sugar",
+              "salt"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

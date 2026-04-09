@@ -1,0 +1,167 @@
+{
+  "id": "v2-toddler-fantasy-020",
+  "title": "Sofia and the Glowing Garden",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "fantasy",
+    "friendship"
+  ],
+  "wordCount": 167,
+  "readingLevel": "Pre-K",
+  "synopsis": "Sofia discovers a magical garden where she befriends a lonely glowing bunny and learns about the joy of sharing friendship.",
+  "coverImage": "covers/v2-toddler-fantasy-020.webp",
+  "chapters": [
+    {
+      "title": "The Secret Garden",
+      "pages": [
+        {
+          "text": "Sofia loved exploring her grandmother's big backyard. One sunny morning, she noticed something sparkly behind the old oak tree.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes stands in a lush garden with an enormous oak tree, golden sparkles dancing in the air, enchanted forest atmosphere with rich greens and fairy lights twinkling in the branches",
+            "alt": "Sofia discovering sparkles near a magical oak tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "She pushed through some leaves and gasped! There was a secret garden with glowing purple mushrooms and tiny fairy lights everywhere.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes peers through leafy branches into a magical garden filled with glowing mushrooms in rich purples, fairy lights strung between mystical plants, Studio Ghibli inspired detailed foliage creating an enchanted atmosphere",
+            "alt": "Sofia discovering a magical garden with glowing mushrooms and fairy lights",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "In the middle of the garden sat a small white bunny. But this bunny was special - it glowed with soft golden light! The bunny looked very sad and lonely.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes approaches a glowing white bunny surrounded by mystical creatures, golden sparkles emanating from the bunny, rich greens and purples in the magical atmosphere with detailed foliage all around",
+            "alt": "Sofia meeting a sad, glowing bunny in the magical garden",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "A New Friend",
+      "pages": [
+        {
+          "text": "Sofia sat down slowly and spoke softly. 'Hello, little bunny. I'm Sofia. Why are you so sad?' The bunny's glow grew brighter when it heard her kind voice.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes sits cross-legged next to the glowing bunny, fairy lights creating a warm atmosphere, enchanted forest setting with glowing mushrooms and rich greens, golden sparkles floating between them",
+            "alt": "Sofia sitting and talking gently to the glowing bunny",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'I'm Luna,' whispered the bunny. 'I've been alone in this garden for so long. No one has ever talked to me before.' Sofia smiled warmly. 'Well, now you have a friend!'",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes reaches out her hand toward Luna the bunny, mystical creatures watching from behind purple glowing mushrooms, Studio Ghibli inspired magical atmosphere with detailed foliage and golden sparkles creating a friendship moment",
+            "alt": "Sofia offering friendship to Luna the bunny",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "From that day on, Sofia visited Luna every morning. They played hide-and-seek among the glowing mushrooms and shared stories under the fairy lights. Luna was never lonely again, and Sofia had found the most magical friend of all.",
+          "illustration": {
+            "description": "Sofia with long wavy dark brown hair, warm olive skin, big dark brown eyes plays joyfully with Luna the glowing bunny among enchanted forest scenery, fairy lights twinkling above, rich greens and purples surrounding them, golden sparkles dancing in the air, mystical creatures peeking out from detailed foliage in a magical atmosphere",
+            "alt": "Sofia and Luna playing happily together in the magical garden",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "kindness",
+      "magic",
+      "discovery",
+      "empathy"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Sofia find behind the oak tree?",
+        "choices": [
+          "A secret garden",
+          "A toy box",
+          "A cookie"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sofia discovered a magical secret garden with glowing mushrooms and fairy lights!"
+      },
+      {
+        "id": "q2",
+        "question": "What was special about the bunny?",
+        "choices": [
+          "It could glow",
+          "It could fly",
+          "It was purple"
+        ],
+        "correctIndex": 0,
+        "explanation": "Luna the bunny was special because she glowed with soft golden light!"
+      },
+      {
+        "id": "q3",
+        "question": "Why was Luna sad?",
+        "choices": [
+          "She was lonely",
+          "She was hungry",
+          "She was cold"
+        ],
+        "correctIndex": 0,
+        "explanation": "Luna was sad because she had been alone in the garden for a long time with no friends."
+      },
+      {
+        "id": "q4",
+        "question": "How did Sofia help Luna feel better?",
+        "choices": [
+          "By being her friend",
+          "By giving her food",
+          "By singing a song"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sofia helped Luna by offering to be her friend and visiting her every day to play together!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "sparkly",
+            "distractors": [
+              "muddy",
+              "scary"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "glowing",
+            "distractors": [
+              "jumping",
+              "sleeping"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

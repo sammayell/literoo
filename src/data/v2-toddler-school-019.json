@@ -1,0 +1,148 @@
+{
+  "id": "v2-toddler-school-019",
+  "title": "Hiro's Animal School Day",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "school",
+    "animals"
+  ],
+  "wordCount": 118,
+  "readingLevel": "Pre-K",
+  "synopsis": "Hiro discovers his new classroom is full of friendly animal classmates who teach him that being different makes school more fun.",
+  "coverImage": "covers/v2-toddler-school-019.webp",
+  "chapters": [
+    {
+      "title": "New School Day",
+      "pages": [
+        {
+          "text": "Hiro walked into his new classroom. He saw his teacher, Mrs. Bear, writing on the board. \"Welcome to our animal school!\" she said with a warm smile.",
+          "illustration": {
+            "description": "Chalkboard style drawing showing Hiro with short straight black hair, light skin, bright dark brown eyes, round face standing at classroom door, looking at a friendly brown bear teacher writing on a dark green chalkboard with white chalk, math equations doodled in corners, dusty texture, hand-drawn on board",
+            "alt": "Hiro enters classroom with bear teacher at chalkboard",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Meeting Animal Friends",
+      "pages": [
+        {
+          "text": "Hiro looked around. A bunny waved from the reading corner. A fox was painting at the art table. A little owl sat quietly doing puzzles. \"These are your new friends,\" said Mrs. Bear. \"They're all animals, but you belong here too.\"",
+          "illustration": {
+            "description": "Chalkboard style drawing of classroom scene with Hiro (short straight black hair, light skin, bright dark brown eyes, round face) meeting animal classmates - white bunny with book, orange fox with paintbrush, brown owl with puzzle pieces, colored chalk details on dark green board background, school supplies doodled around edges, warm dusty texture, hand-drawn on board",
+            "alt": "Hiro meeting animal classmates in classroom activities",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Playing Together",
+      "pages": [
+        {
+          "text": "At recess, the animals invited Hiro to play. The bunny taught him to hop. The fox showed him how to paint flowers. The owl helped him build with blocks. Hiro laughed and played. \"I love my animal school!\" he said. Mrs. Bear smiled. \"And we love having you here, Hiro.\"",
+          "illustration": {
+            "description": "Chalkboard style drawing showing Hiro (short straight black hair, light skin, bright dark brown eyes, round face) playing happily with animal friends in playground scene, bunny hopping, fox holding colorful flowers, owl with building blocks, all drawn in white and colored chalk on dark green board, dusty artistic texture, simple math doodles in background, hand-drawn on board",
+            "alt": "Hiro playing happily with animal friends at recess",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "acceptance",
+      "diversity",
+      "school life",
+      "belonging"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What kind of teacher does Hiro have?",
+        "choices": [
+          "A bear",
+          "A cat",
+          "A dog"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mrs. Bear is Hiro's teacher at the animal school."
+      },
+      {
+        "id": "q2",
+        "question": "Which animal was reading in the corner?",
+        "choices": [
+          "The bunny",
+          "The fox",
+          "The owl"
+        ],
+        "correctIndex": 0,
+        "explanation": "The bunny was waving from the reading corner when Hiro first entered."
+      },
+      {
+        "id": "q3",
+        "question": "What did the fox teach Hiro?",
+        "choices": [
+          "How to paint flowers",
+          "How to hop",
+          "How to build blocks"
+        ],
+        "correctIndex": 0,
+        "explanation": "The fox showed Hiro how to paint flowers during playtime."
+      },
+      {
+        "id": "q4",
+        "question": "How does Hiro feel about his new school?",
+        "choices": [
+          "He loves it",
+          "He's scared",
+          "He's sad"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hiro says 'I love my animal school!' after playing with his new friends."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "Bear",
+            "distractors": [
+              "Cat",
+              "Dog"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "friends",
+            "distractors": [
+              "toys",
+              "books"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

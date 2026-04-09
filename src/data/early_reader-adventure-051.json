@@ -1,0 +1,300 @@
+{
+  "id": "early_reader-adventure-051",
+  "title": "Emma and the Magic Garden Door",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "adventure",
+    "fantasy"
+  ],
+  "wordCount": 542,
+  "readingLevel": "1.2",
+  "synopsis": "Emma discovers a tiny glowing door in her grandmother's garden that leads to a magical world where she befriends talking flowers and helps them solve a silly problem with their mixed-up colors.",
+  "coverImage": "covers/early_reader-adventure-051.webp",
+  "chapters": [
+    {
+      "title": "The Tiny Door",
+      "pages": [
+        {
+          "text": "Emma loved visiting Grandma Rosa's garden. The flowers were always so pretty! Today, Emma wore her favorite yellow dress with polka dots. She skipped between the tall sunflowers. \"What's that?\" Emma said. She saw something sparkly by the big oak tree.",
+          "illustration": {
+            "description": "A cheerful girl with curly brown hair in a bright yellow polka dot dress skipping through a lush garden. Tall sunflowers tower above her, and there's a sparkly glow near an old oak tree. The garden is full of colorful flowers in rich, saturated colors.",
+            "alt": "Emma in yellow dress discovering something sparkly in her grandmother's garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Emma bent down to look closer. It was a tiny wooden door! The door was no bigger than her hand. It had a little brass knocker and hinges that gleamed like gold. \"How funny!\" Emma giggled. The door was glowing with soft purple light.",
+          "illustration": {
+            "description": "Close-up view of Emma crouching down examining a miniature wooden door at the base of an oak tree. The door glows with magical purple light and has tiny brass details. Emma's eyes are wide with wonder and curiosity. Warm sunlight filters through the tree leaves.",
+            "alt": "Emma discovering a tiny glowing magical door at the base of a tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Should she knock? Emma looked around. Grandma Rosa was watering plants far away. Emma raised her finger. Tap, tap, tap! She knocked three times on the tiny door. The door swung open with a soft chime. Inside was a swirling rainbow tunnel!",
+          "illustration": {
+            "description": "Emma's finger tapping on the small door which is now open, revealing a magical swirling rainbow tunnel inside. Bright colorful lights spiral into the distance. Emma's expression shows excitement mixed with surprise. The garden background shows Grandma Rosa watering plants in the distance.",
+            "alt": "The tiny door opens to reveal a magical rainbow tunnel inside",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Through the Rainbow",
+      "pages": [
+        {
+          "text": "\"Whoooosh!\" Emma felt herself getting smaller and smaller. She tumbled through the rainbow tunnel. Colors swirled all around her. Red, blue, green, yellow! It felt like sliding down the world's most colorful slide. Then... THUMP! Emma landed on soft grass.",
+          "illustration": {
+            "description": "Emma tumbling through a magical rainbow tunnel, her body getting smaller as she spins through swirling bands of bright colors. Her polka dot dress and curly hair flow around her as she slides through the magical portal. The colors are vibrant and dreamlike.",
+            "alt": "Emma shrinking and tumbling through a colorful magical tunnel",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Emma stood up and brushed off her dress. She was in a magical garden! But something was wrong. A daisy with a friendly face was crying. \"Oh no!\" said the daisy. \"I'm supposed to be white and yellow. But look at me!\" The poor daisy was bright purple and orange!",
+          "illustration": {
+            "description": "Emma standing in a whimsical magical garden filled with talking flowers that have expressive faces and big eyes. A sad daisy with purple and orange petals is crying tiny crystal tears. The garden has an enchanted quality with glowing plants and soft, magical lighting.",
+            "alt": "Emma meeting a crying daisy with wrong-colored purple and orange petals in a magical garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "More flowers gathered around Emma. A rose was bright blue instead of red. A sunflower was pink instead of yellow. \"The Color Mixer is broken!\" cried a tulip who was green and purple instead of red. \"Can you help us, Emma?\" All the flowers looked at her with hopeful faces.",
+          "illustration": {
+            "description": "A circle of talking flowers with incorrect colors surrounding Emma - a blue rose, pink sunflower, and green-purple tulip, all with big expressive eyes and worried expressions. Emma stands in the center looking determined. The magical garden setting has an otherworldly glow with mushrooms and sparkles.",
+            "alt": "Wrongly-colored talking flowers asking Emma for help in the magical garden",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Color Mixer",
+      "pages": [
+        {
+          "text": "The flowers led Emma to a big machine. It looked like a giant blender made of crystal and silver. \"This is our Color Mixer,\" said the daisy. \"It gives us our colors every morning. But today it got all mixed up!\" Emma saw buttons and dials everywhere.",
+          "illustration": {
+            "description": "Emma and the talking flowers standing before an enormous, fantastical machine that looks like a crystal blender with silver pipes, colorful buttons, and glowing dials. Rainbow-colored liquid swirls chaotically inside. The machine sparkles and has steam coming from various pipes in bright colors.",
+            "alt": "Emma and flowers looking at a large, magical Color Mixer machine",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I think I know what's wrong!\" Emma said. She pointed to a big red button that was flashing. \"This says 'SILLY MODE.' Someone must have pushed it by mistake!\" Emma reached up and pressed the button. It stopped flashing and turned green.",
+          "illustration": {
+            "description": "Emma reaching up to press a large red flashing button labeled 'SILLY MODE' on the Color Mixer machine. Her face shows concentration and determination. The flowers watch eagerly with hopeful expressions. Magical sparkles surround the button as Emma's finger touches it.",
+            "alt": "Emma pressing the 'SILLY MODE' button on the Color Mixer machine",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The Color Mixer hummed and whirred. Pretty colors swirled inside like a rainbow soup. Then... DING! The machine made a happy sound. \"It worked!\" shouted all the flowers. Sparkly color dust floated out and covered each flower. They began to change back to their right colors!",
+          "illustration": {
+            "description": "The Color Mixer working properly with beautiful rainbow colors swirling inside, releasing glittery color dust that floats through the air toward the excited flowers. The flowers are beginning to change back to their correct colors. Emma claps her hands in joy as magical sparkles fill the air.",
+            "alt": "The Color Mixer working and releasing magical color dust to fix the flowers",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Home Again",
+      "pages": [
+        {
+          "text": "\"Thank you, Emma!\" said the daisy, now white and yellow again. \"You saved the day!\" The other flowers cheered. The rose was red, the sunflower was yellow, and the tulip was bright red. \"We have a gift for you!\" They gave Emma a magical flower crown.",
+          "illustration": {
+            "description": "All the flowers now in their correct colors celebrating around Emma, who wears a beautiful magical flower crown that glows softly. The flowers have joyful expressions with big smiling eyes. The garden is more vibrant and beautiful than ever, with golden sunlight streaming down.",
+            "alt": "Happy flowers in correct colors celebrating with Emma wearing a magical flower crown",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I have to go home now,\" Emma said. \"But I'll come back to visit!\" The flowers waved goodbye as Emma walked back to the rainbow tunnel. She grew bigger and bigger as she traveled through. Soon she was back by the oak tree in Grandma's garden.",
+          "illustration": {
+            "description": "Emma waving goodbye to her flower friends as she approaches the rainbow tunnel, growing larger as she enters it. The flowers wave back with happy faces. The magical garden is beautiful and colorful in the background, with the tiny door visible at the base of the oak tree.",
+            "alt": "Emma saying goodbye to the flower friends as she returns through the magical tunnel",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Emma! There you are!\" called Grandma Rosa. \"I've been looking for you.\" Emma still wore her magical flower crown. \"What a beautiful crown! Where did you find it?\" Emma smiled. \"It's a secret from the garden!\" She hugged her grandma tight. Some secrets were the very best kind.",
+          "illustration": {
+            "description": "Emma hugging her Grandma Rosa, a kind older woman with silver hair and warm brown skin, in the garden. Emma still wears her glowing flower crown. Grandma Rosa has a gentle, loving expression. The garden around them is lush and beautiful with normal-colored flowers, and the tiny door is barely visible by the oak tree.",
+            "alt": "Emma hugging Grandma Rosa while wearing her magical flower crown in the garden",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "problem-solving",
+      "magic",
+      "helping others",
+      "family"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Playful storybook illustration style. Rich saturated colors. Expressive characters with big eyes. Whimsical, like Pixar concept art."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color was Emma's dress?",
+        "choices": [
+          "Red with stripes",
+          "Yellow with polka dots",
+          "Blue with flowers"
+        ],
+        "correctIndex": 1,
+        "explanation": "Emma wore her favorite yellow dress with polka dots when she visited Grandma Rosa's garden."
+      },
+      {
+        "id": "q2",
+        "question": "What was wrong with the flowers in the magical garden?",
+        "choices": [
+          "They were too small",
+          "They had the wrong colors",
+          "They couldn't talk"
+        ],
+        "correctIndex": 1,
+        "explanation": "The flowers had the wrong colors because the Color Mixer machine was broken - the daisy was purple and orange instead of white and yellow."
+      },
+      {
+        "id": "q3",
+        "question": "How did Emma fix the Color Mixer?",
+        "choices": [
+          "She pressed the SILLY MODE button",
+          "She added more water",
+          "She sang a song"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emma noticed the red SILLY MODE button was flashing and pressed it to turn off silly mode and fix the machine."
+      },
+      {
+        "id": "q4",
+        "question": "What gift did the flowers give Emma?",
+        "choices": [
+          "A magic wand",
+          "A flower crown",
+          "A pretty necklace"
+        ],
+        "correctIndex": 1,
+        "explanation": "The grateful flowers gave Emma a magical flower crown as a thank you gift for helping them."
+      },
+      {
+        "id": "q5",
+        "question": "How did Emma get back to the regular garden?",
+        "choices": [
+          "She flew on a bird",
+          "She walked through a gate",
+          "She went through the rainbow tunnel"
+        ],
+        "correctIndex": 2,
+        "explanation": "Emma returned home by going back through the rainbow tunnel, growing bigger as she traveled through it."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Complete the Story",
+        "instructions": "Fill in the missing words to complete the sentences from Emma's adventure!",
+        "sentences": [
+          {
+            "text": "Emma found a tiny _____ in Grandma's garden.",
+            "blanks": [
+              {
+                "wordIndex": 4,
+                "correctWord": "door",
+                "distractors": [
+                  "window",
+                  "flower"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "The flowers had the wrong _____ because the machine was broken.",
+            "blanks": [
+              {
+                "wordIndex": 5,
+                "correctWord": "colors",
+                "distractors": [
+                  "sizes",
+                  "voices"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Emma pressed the _____ MODE button to fix the Color Mixer.",
+            "blanks": [
+              {
+                "wordIndex": 3,
+                "correctWord": "SILLY",
+                "distractors": [
+                  "HAPPY",
+                  "MAGIC"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "What Happened Next?",
+        "instructions": "Put these events in the right order by filling in the missing words!",
+        "sentences": [
+          {
+            "text": "First, Emma knocked on the tiny _____ three times.",
+            "blanks": [
+              {
+                "wordIndex": 7,
+                "correctWord": "door",
+                "distractors": [
+                  "tree",
+                  "rock"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Then, she traveled through the _____ tunnel.",
+            "blanks": [
+              {
+                "wordIndex": 5,
+                "correctWord": "rainbow",
+                "distractors": [
+                  "dark",
+                  "long"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Finally, the flowers gave Emma a magical _____ crown.",
+            "blanks": [
+              {
+                "wordIndex": 7,
+                "correctWord": "flower",
+                "distractors": [
+                  "golden",
+                  "silver"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

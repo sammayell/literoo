@@ -1,0 +1,196 @@
+{
+  "id": "v2-toddler-humor-017",
+  "title": "Amara's Silly Sock Adventure",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "humor",
+    "fantasy"
+  ],
+  "wordCount": 180,
+  "readingLevel": "Pre-K",
+  "synopsis": "Amara discovers her magical socks that transport her to silly places, leading to funny mishaps and magical adventures before she learns to control their power.",
+  "coverImage": "covers/v2-toddler-humor-017.webp",
+  "chapters": [
+    {
+      "title": "The Magic Socks",
+      "pages": [
+        {
+          "text": "Amara found two sparkly socks in her drawer. They were purple with golden stars! When she put them on, something amazing happened.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes sits on her bed holding up two glittery purple socks with golden stars, her eyes comically wide with wonder and her mouth forming a perfect 'O' of surprise",
+            "alt": "Amara discovering magical purple socks with golden stars",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "POOF! The socks started to glow and spin! Amara felt herself floating up, up, up into the air! 'Wheeee!' she giggled.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes spinning in mid-air with her arms stretched wide, her braids flying wildly around her head, wearing glowing purple socks that leave sparkly trails",
+            "alt": "Amara spinning and floating in the air with magical glowing socks",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Where Will They Take Me?",
+      "pages": [
+        {
+          "text": "WHOOSH! Amara landed in a land made entirely of marshmallows! Everything was soft and bouncy. But when she tried to walk, she kept sinking!",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes sinking waist-deep into a puffy pink marshmallow ground, her arms flailing comically above her head while her face shows exaggerated surprise",
+            "alt": "Amara sinking into marshmallow ground with surprised expression",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Help!' she laughed as she bounced from marshmallow to marshmallow. BOING! BOING! BOING! Her magic socks glowed again.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes bouncing high in the air between giant pastel marshmallows, her body stretched like rubber with an enormous happy grin, her magical socks leaving glittery trails",
+            "alt": "Amara bouncing happily between giant marshmallows",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "POOF! Now Amara was in a jungle where all the trees were giant broccoli! 'Yuck!' she said, holding her nose. The broccoli trees smelled funny!",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes pinching her nose with one hand and waving the other, surrounded by towering bright green broccoli trees, her face scrunched up in exaggerated disgust",
+            "alt": "Amara making a disgusted face in a broccoli tree jungle",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Home Sweet Home",
+      "pages": [
+        {
+          "text": "Amara wiggled her toes in the magic socks. 'I want to go home!' she wished very hard. The socks began to sparkle and spin again.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes sitting cross-legged with her eyes squeezed shut in concentration, her magical purple socks glowing brightly with swirling golden sparkles all around",
+            "alt": "Amara concentrating hard while her magic socks glow",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "WHOOSH! She landed safely in her bedroom. 'Wow!' said Amara. 'These socks are the best toy ever!' She carefully put them back in her drawer.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes back in her cozy bedroom, gently placing the purple magical socks in her dresser drawer with a huge satisfied smile and twinkling eyes full of joy",
+            "alt": "Amara happily putting her magic socks away in her bedroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Tomorrow,' she yawned, 'I'll go somewhere new!' And she fell asleep dreaming of more silly adventures with her magical socks.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes sleeping peacefully in her bed with a contented smile, dream bubbles above her head showing tiny versions of herself having adventures",
+            "alt": "Amara sleeping and dreaming of magical adventures",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "imagination",
+      "adventure",
+      "magic",
+      "home",
+      "discovery"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color were Amara's magic socks?",
+        "choices": [
+          "Purple with golden stars",
+          "Red with silver dots",
+          "Blue with white stripes"
+        ],
+        "correctIndex": 0,
+        "explanation": "Amara's magic socks were purple with golden stars that sparkled and glowed!"
+      },
+      {
+        "id": "q2",
+        "question": "What happened when Amara first put on the socks?",
+        "choices": [
+          "She floated up in the air",
+          "She turned invisible",
+          "She grew very tall"
+        ],
+        "correctIndex": 0,
+        "explanation": "The magic socks made Amara float up, up, up into the air!"
+      },
+      {
+        "id": "q3",
+        "question": "What was the first magical place made of?",
+        "choices": [
+          "Marshmallows",
+          "Ice cream",
+          "Cookies"
+        ],
+        "correctIndex": 0,
+        "explanation": "The first place was made entirely of soft, bouncy marshmallows!"
+      },
+      {
+        "id": "q4",
+        "question": "How did Amara get back home?",
+        "choices": [
+          "She wished very hard",
+          "She clapped her hands",
+          "She said magic words"
+        ],
+        "correctIndex": 0,
+        "explanation": "Amara wiggled her toes and wished very hard to go home, and the magic socks brought her back!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "sparkly",
+            "distractors": [
+              "heavy",
+              "dirty"
+            ]
+          },
+          {
+            "wordIndex": 8,
+            "correctWord": "purple",
+            "distractors": [
+              "orange",
+              "black"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 7,
+            "correctWord": "marshmallows",
+            "distractors": [
+              "rocks",
+              "water"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

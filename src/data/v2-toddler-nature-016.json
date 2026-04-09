@@ -1,0 +1,184 @@
+{
+  "id": "v2-toddler-nature-016",
+  "title": "Malik's Four Season Garden",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "nature",
+    "school"
+  ],
+  "wordCount": 165,
+  "readingLevel": "Pre-K",
+  "synopsis": "Malik discovers how his school garden changes through the four seasons, learning about nature's beautiful cycle.",
+  "coverImage": "covers/v2-toddler-nature-016.webp",
+  "chapters": [
+    {
+      "title": "Spring and Summer in Our Garden",
+      "pages": [
+        {
+          "text": "Malik loves his school garden! In spring, he plants tiny seeds in the soft brown dirt. The sun is warm and gentle.",
+          "illustration": {
+            "description": "A boy with short twists, dark brown skin, gentle expressive eyes kneeling in a school garden during spring, planting seeds in soil with soft pastel colors, small green buds on trees, and morning sunshine",
+            "alt": "Malik planting seeds in the spring garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Green shoots peek up from the ground! Malik waters them carefully with his little watering can. The plants grow taller every day.",
+          "illustration": {
+            "description": "The same boy with short twists, dark brown skin, gentle expressive eyes watering small green sprouts in the garden with a blue watering can, spring pastels showing new growth and flowers blooming",
+            "alt": "Malik watering the growing plants in spring",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Summer comes with bright sunshine! The plants are big now. Malik picks red tomatoes and orange carrots from his garden.",
+          "illustration": {
+            "description": "A boy with short twists, dark brown skin, gentle expressive eyes harvesting vegetables in a lush summer garden with bright colors, tall plants, red tomatoes, and orange carrots under brilliant blue sky",
+            "alt": "Malik harvesting vegetables in the summer garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "He shares the yummy vegetables with his friends at snack time. Everyone says they taste so good! Summer gardens are the best.",
+          "illustration": {
+            "description": "The same boy with short twists, dark brown skin, gentle expressive eyes sitting with diverse classmates at a picnic table, sharing colorful vegetables in bright summer sunlight with the garden in the background",
+            "alt": "Malik sharing garden vegetables with friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Fall and Winter Changes",
+      "pages": [
+        {
+          "text": "Fall arrives with cool air. The leaves turn yellow, orange, and red. Malik rakes the pretty leaves into big piles.",
+          "illustration": {
+            "description": "A boy with short twists, dark brown skin, gentle expressive eyes raking colorful autumn leaves in the same garden setting, with warm orange and gold tones, fallen leaves covering the ground",
+            "alt": "Malik raking autumn leaves in the garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The garden plants get sleepy in fall. Some flowers say goodbye until next year. Malik says thank you to his garden.",
+          "illustration": {
+            "description": "The same boy with short twists, dark brown skin, gentle expressive eyes standing in the autumn garden with warm brown and orange colors, withering plants, bare branches, and a peaceful evening light",
+            "alt": "Malik saying goodbye to the autumn garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Winter brings snow and cold. The garden sleeps under a white blanket. But Malik knows spring will come again soon!",
+          "illustration": {
+            "description": "A boy with short twists, dark brown skin, gentle expressive eyes looking out at the same garden scene now covered in white snow, with cool blue and white winter tones, bare trees, and peaceful snowfall",
+            "alt": "Malik viewing the winter garden covered in snow",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Every season brings something special to the garden. Malik can't wait to plant new seeds when spring returns!",
+          "illustration": {
+            "description": "The same boy with short twists, dark brown skin, gentle expressive eyes holding seed packets while looking at the garden through all four seasons shown in one image - spring pastels, summer brights, autumn warmth, and winter cool blending together",
+            "alt": "Malik with seeds, seeing all four seasons in the garden",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "seasonal changes",
+      "gardening",
+      "nature cycles",
+      "school activities",
+      "patience",
+      "sharing"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "seasonal cycle, spring pastels, summer brights, autumn warmth, winter cool, same scene different seasons, time passing, nature calendar, cyclical beauty"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Malik plant in the spring?",
+        "choices": [
+          "seeds",
+          "flowers",
+          "rocks"
+        ],
+        "correctIndex": 0,
+        "explanation": "Malik planted tiny seeds in the soft brown dirt during spring."
+      },
+      {
+        "id": "q2",
+        "question": "What vegetables did Malik pick in summer?",
+        "choices": [
+          "apples and pears",
+          "tomatoes and carrots",
+          "grass and leaves"
+        ],
+        "correctIndex": 1,
+        "explanation": "Malik picked red tomatoes and orange carrots from his summer garden."
+      },
+      {
+        "id": "q3",
+        "question": "What colors did the leaves turn in fall?",
+        "choices": [
+          "yellow, orange, and red",
+          "blue and purple",
+          "black and white"
+        ],
+        "correctIndex": 0,
+        "explanation": "In fall, the leaves turned yellow, orange, and red colors."
+      },
+      {
+        "id": "q4",
+        "question": "What covered the garden in winter?",
+        "choices": [
+          "flowers",
+          "snow",
+          "dirt"
+        ],
+        "correctIndex": 1,
+        "explanation": "Winter brought snow that covered the garden like a white blanket."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "seeds",
+            "distractors": [
+              "rocks",
+              "toys"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "tomatoes",
+            "distractors": [
+              "apples",
+              "flowers"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,6 +1,26 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { Header } from "@/components/shared/Header";
 import { GuaranteeBadge } from "@/components/shared/GuaranteeBadge";
+import { HomeStreak } from "@/components/shared/HomeStreak";
+
+export const metadata: Metadata = {
+  title: "Literoo — Where Young Readers Grow | 1,000+ Illustrated Stories",
+  description: "AI-powered reading platform for ages 1-18. Illustrated stories, comprehension quizzes, vocabulary puzzles, AI read-aloud, and a parent dashboard to track progress. Start reading free.",
+  openGraph: {
+    title: "Literoo — Where Young Readers Grow",
+    description: "1,000+ illustrated stories from baby to young adult. Built-in quizzes, puzzles, AI read-aloud, and reading coach features.",
+    url: "https://literoo.com",
+    siteName: "Literoo",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Literoo — Where Young Readers Grow",
+    description: "AI-powered reading platform for ages 1-18. Start reading free.",
+  },
+  keywords: ["children's books", "reading app", "kids reading", "illustrated stories", "reading level", "comprehension", "vocabulary", "read aloud", "parent dashboard", "Epic alternative"],
+};
 
 const FEATURES = [
   { icon: "📚", title: "1,000+ Illustrated Stories", desc: "From peek-a-boo board books to young adult novels. Every age, every interest." },
@@ -65,6 +85,8 @@ export default function HomePage() {
           <p className="text-xs text-stone-400 mt-4">
             6 free books included. No credit card required.
           </p>
+
+          <HomeStreak />
         </div>
       </section>
 

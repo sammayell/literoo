@@ -1,0 +1,276 @@
+{
+  "id": "v2-early_reader-animals-013",
+  "title": "The Case of the Missing Honey",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "animals",
+    "mystery"
+  ],
+  "wordCount": 401,
+  "readingLevel": "Beginning Reader",
+  "synopsis": "Young detective Nia helps solve the mystery of who stole honey from the beehive in the savanna, discovering clues and making new friends along the way.",
+  "coverImage": "covers/v2-early_reader-animals-013.webp",
+  "chapters": [
+    {
+      "title": "The Buzzing Problem",
+      "pages": [
+        {
+          "text": "Nia loved exploring the golden savanna near her home. She knew all the animals who lived there. The zebras, the elephants, and even the tiny meerkats were her friends.",
+          "illustration": {
+            "description": "A girl with long braids with colorful beads, dark brown skin, warm kind eyes walks through golden savanna grass with zebras and elephants in the background, painted in gouache with thick brushstrokes and warm sunset colors",
+            "alt": "Nia walking through the savanna with various animals",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "One sunny morning, Nia heard loud buzzing sounds. She followed the noise and found Bella the bee crying near a big baobab tree. 'What's wrong, Bella?' asked Nia.",
+          "illustration": {
+            "description": "A girl with long braids with colorful beads, dark brown skin, warm kind eyes kneeling next to a large sad bee near a baobab tree, gouache painting with textured painterly brushstrokes in warm savanna colors",
+            "alt": "Nia talking to a sad bee by a baobab tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Someone stole our honey!' buzzed Bella sadly. 'We worked so hard to make it. Now our hive is almost empty!' Nia looked at the beehive hanging from the tree branch.",
+          "illustration": {
+            "description": "A girl with long braids with colorful beads, dark brown skin, warm kind eyes looking up at a beehive in a tree with several bees flying around, painted with bold confident strokes in orange sunset colors",
+            "alt": "Nia examining the beehive in the tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Don't worry, Bella,' said Nia. 'I'll help you find out who took your honey. I'm a good detective!' Nia loved solving puzzles and mysteries.",
+          "illustration": {
+            "description": "A determined girl with long braids with colorful beads, dark brown skin, warm kind eyes pointing confidently while talking to a bee, gouache painting with thick brushstrokes in golden grass colors",
+            "alt": "Nia promising to help solve the mystery",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Following the Clues",
+      "pages": [
+        {
+          "text": "Nia looked around the tree for clues. She found sticky paw prints in the dirt. 'These prints are too small for an elephant,' she said. 'And too big for a meerkat.'",
+          "illustration": {
+            "description": "A girl with long braids with colorful beads, dark brown skin, warm kind eyes crouching down examining paw prints in the dirt, painted in gouache with expressive animal tracks and textured painterly style",
+            "alt": "Nia examining paw prints on the ground",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The paw prints led to a water hole. Nia saw Gerald the giraffe drinking water. 'Gerald, did you see anyone near the beehive this morning?' she asked politely.",
+          "illustration": {
+            "description": "A girl with long braids with colorful beads, dark brown skin, warm kind eyes talking to a tall giraffe at a watering hole, gouache painting with warm savanna colors and bold confident strokes",
+            "alt": "Nia questioning a giraffe at the water hole",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'I saw Benny the bear walking that way early this morning,' said Gerald. 'He looked very sneaky and kept licking his lips.' Nia thanked Gerald and followed the trail.",
+          "illustration": {
+            "description": "A thoughtful girl with long braids with colorful beads, dark brown skin, warm kind eyes listening to a giraffe who is pointing with his long neck toward some trees, painted with thick brushstrokes in orange sunset colors",
+            "alt": "Gerald the giraffe giving Nia information",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The paw prints led to a cave in the rocks. Nia could hear munching sounds coming from inside. She also smelled something sweet. 'I think I found our honey thief!' she whispered.",
+          "illustration": {
+            "description": "A girl with long braids with colorful beads, dark brown skin, warm kind eyes standing outside a cave entrance with golden grass around the rocks, gouache painting with textured painterly brushstrokes",
+            "alt": "Nia discovering a cave with sounds coming from inside",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Solving the Mystery",
+      "pages": [
+        {
+          "text": "'Benny!' called Nia into the cave. 'I know you're in there!' She heard a surprised grunt. Slowly, Benny the bear came out of the cave. His paws and face were covered in sticky honey.",
+          "illustration": {
+            "description": "A girl with long braids with colorful beads, dark brown skin, warm kind eyes facing a sheepish-looking bear covered in honey emerging from a cave, painted in gouache with expressive animals and warm savanna colors",
+            "alt": "Nia confronting the honey-covered bear",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'I'm sorry, Nia,' said Benny sadly. 'I was so hungry, and the honey smelled so good. I didn't mean to take so much.' Nia could see that Benny felt very bad about what he had done.",
+          "illustration": {
+            "description": "A compassionate girl with long braids with colorful beads, dark brown skin, warm kind eyes listening to a sad, guilty-looking bear, gouache painting with thick brushstrokes and golden grass background",
+            "alt": "Benny the bear apologizing to Nia",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Taking honey without asking isn't right, Benny,' said Nia kindly. 'But I have an idea. Why don't you help the bees make more honey? Then you can share it with them.' Benny's eyes lit up.",
+          "illustration": {
+            "description": "A wise girl with long braids with colorful beads, dark brown skin, warm kind eyes talking to a hopeful-looking bear while bees fly around them, painted with bold confident strokes in orange sunset colors",
+            "alt": "Nia suggesting a solution to the problem",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Benny agreed to help. He found the best flowers for the bees and protected their hive from other animals. Soon, there was more honey than ever! The bees shared it with Benny, and everyone was happy.",
+          "illustration": {
+            "description": "A smiling girl with long braids with colorful beads, dark brown skin, warm kind eyes watching a bear carefully tending to flowers while bees fly happily around, gouache painting with textured painterly style and warm colors",
+            "alt": "Benny helping the bees make honey while Nia watches",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Thank you for solving our mystery, Nia!' buzzed Bella happily. 'You're the best detective in the savanna!' Nia smiled. She had made everyone friends again, and that felt wonderful.",
+          "illustration": {
+            "description": "A proud girl with long braids with colorful beads, dark brown skin, warm kind eyes surrounded by happy bees, a grateful bear, and other savanna animals in golden grass, painted with thick brushstrokes and warm sunset colors",
+            "alt": "Nia celebrating with all her animal friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "problem-solving",
+      "friendship",
+      "forgiveness",
+      "helping others",
+      "making amends"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What was stolen from the bees?",
+        "choices": [
+          "honey",
+          "flowers",
+          "water"
+        ],
+        "correctIndex": 0,
+        "explanation": "The bees were upset because someone had stolen their honey from the hive."
+      },
+      {
+        "id": "q2",
+        "question": "What clue did Nia find near the tree?",
+        "choices": [
+          "feathers",
+          "paw prints",
+          "leaves"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nia found sticky paw prints in the dirt that led her to the honey thief."
+      },
+      {
+        "id": "q3",
+        "question": "Who told Nia about seeing Benny?",
+        "choices": [
+          "Gerald the giraffe",
+          "Bella the bee",
+          "a meerkat"
+        ],
+        "correctIndex": 0,
+        "explanation": "Gerald the giraffe saw Benny walking toward the beehive early in the morning."
+      },
+      {
+        "id": "q4",
+        "question": "Where was Benny hiding?",
+        "choices": [
+          "in a tree",
+          "in a cave",
+          "by the water"
+        ],
+        "correctIndex": 1,
+        "explanation": "Benny was hiding in a cave in the rocks where Nia heard munching sounds."
+      },
+      {
+        "id": "q5",
+        "question": "How did Nia solve the problem?",
+        "choices": [
+          "she scolded Benny",
+          "she suggested Benny help the bees",
+          "she told Benny to go away"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nia suggested that Benny help the bees make more honey so they could share it together."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "buzzing",
+            "distractors": [
+              "singing",
+              "crying"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "bee",
+            "distractors": [
+              "bird",
+              "butterfly"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "prints",
+            "distractors": [
+              "marks",
+              "spots"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "giraffe",
+            "distractors": [
+              "elephant",
+              "zebra"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "cave",
+            "distractors": [
+              "tree",
+              "hole"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "honey",
+            "distractors": [
+              "food",
+              "fruit"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

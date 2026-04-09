@@ -13,7 +13,7 @@
   "wordCount": 185,
   "readingLevel": "Pre-K",
   "synopsis": "Zara feels shy at the playground but learns that making friends can be fun and rewarding when she opens up to new experiences.",
-  "coverImage": "covers/test-toddler-001.webp",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-toddler-001/cover.png",
   "chapters": [
     {
       "title": "Feeling Shy",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes stands close to her mother at the playground entrance. Colorful playground equipment fills the bright, sunny background with children playing in the distance.",
             "alt": "Zara holding her mother's hand at the playground entrance",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-toddler-001/scene_1_1.png"
           }
         },
         {
@@ -31,7 +32,8 @@
           "illustration": {
             "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes sits on a bench watching other diverse children play on bright red and blue playground equipment. The scene is filled with primary colors and joyful energy.",
             "alt": "Zara sitting and watching other children play",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-toddler-001/scene_1_2.png"
           }
         }
       ]
@@ -44,7 +46,8 @@
           "illustration": {
             "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes stands near a bright yellow sandbox where a girl with pigtails waves cheerfully. Sand toys are scattered around in the sunny playground setting.",
             "alt": "A girl inviting Zara to play in the sandbox",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-toddler-001/scene_2_1.png"
           }
         },
         {
@@ -52,7 +55,8 @@
           "illustration": {
             "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes kneels in the bright sandbox next to Emma, both girls smiling as they start building with colorful sand toys. The scene radiates warmth and friendship.",
             "alt": "Zara and Emma beginning to build a sand castle together",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-toddler-001/scene_2_2.png"
           }
         },
         {
@@ -60,7 +64,8 @@
           "illustration": {
             "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes laughs joyfully with three diverse children around an elaborate sand castle. Bright primary colors fill the sunny playground scene with generous white space.",
             "alt": "Zara playing happily with three new friends around their sand castle",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-toddler-001/scene_2_3.png"
           }
         }
       ]
@@ -73,7 +78,8 @@
           "illustration": {
             "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes swings high on bright blue swings while her new diverse friends push and cheer nearby. The playground scene bursts with primary colors and joyful energy.",
             "alt": "Zara swinging happily with her new friends cheering",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-toddler-001/scene_3_1.png"
           }
         },
         {
@@ -81,7 +87,8 @@
           "illustration": {
             "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes gives warm hugs to her diverse group of friends near the playground exit. The sunny scene shows generous white space with bright, cheerful colors reflecting the joy of new friendship.",
             "alt": "Zara hugging her friends goodbye at the playground",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-toddler-001/scene_3_2.png"
           }
         }
       ]

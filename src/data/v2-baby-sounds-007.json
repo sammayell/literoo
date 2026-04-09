@@ -1,0 +1,163 @@
+{
+  "id": "v2-baby-sounds-007",
+  "title": "Ivy's Sound Counting",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "sounds",
+    "counting"
+  ],
+  "wordCount": 56,
+  "readingLevel": "Pre-K",
+  "synopsis": "Baby Ivy discovers sounds all around her house while learning to count from one to five, experiencing each sound as colorful shapes and patterns.",
+  "coverImage": "covers/v2-baby-sounds-007.webp",
+  "chapters": [
+    {
+      "title": "Ivy's Sound Adventure",
+      "pages": [
+        {
+          "text": "Ivy hears ONE clock tick-tock. Tick-tock, tick-tock!",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes stands near a grandfather clock. Blue circular waves pulse rhythmically from the clock, creating perfect round ripples in the air around her.",
+            "alt": "Ivy listening to a clock with blue sound waves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Ivy hears TWO dogs bark. Woof! Woof!",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes looks out a window at two dogs. Orange jagged zigzag lines burst from each dog's mouth, creating spiky sound shapes in bright colors.",
+            "alt": "Ivy watching two dogs bark with orange zigzag sound lines",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Ivy hears THREE birds chirp. Tweet, tweet, tweet!",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes points up at three birds in a tree. Yellow star-shaped bursts float down from each bird, twinkling like musical notes in the air.",
+            "alt": "Ivy looking at three birds with yellow star-shaped sound bursts",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Ivy hears FOUR car horns beep. Beep, beep, beep, beep!",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes stands by a busy street. Red rectangular blocks shoot out from four different cars, creating geometric sound patterns stacking in the air.",
+            "alt": "Ivy near cars with red rectangular sound blocks",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Ivy hears FIVE raindrops fall. Pitter, patter, pitter, patter, pitter!",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes holds out her hand in the rain. Five streams of tiny silver dots cascade down, creating delicate dotted trails like visible whispers from each raindrop.",
+            "alt": "Ivy in rain with silver dotted sound streams",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Ivy claps her hands. One, two, three, four, five! What sounds do you hear?",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, big brown eyes claps happily. Purple spiral waves burst from her hands, mixing with all the previous sound shapes - blue circles, orange zigzags, yellow stars, red rectangles, and silver dots swirling around her.",
+            "alt": "Ivy clapping with purple spiral waves and mixed colorful sound shapes",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "counting",
+      "sounds",
+      "exploration",
+      "sensory experience"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "sound made visible, wavy lines for music, jagged lines for crashes, dots for whispers, synesthesia inspired, seeing sound, color and shape for noise, vibration visual"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How many dogs did Ivy hear barking?",
+        "choices": [
+          "One",
+          "Two",
+          "Three"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ivy heard TWO dogs bark - Woof! Woof!"
+      },
+      {
+        "id": "q2",
+        "question": "What sound did the clock make?",
+        "choices": [
+          "Tick-tock",
+          "Beep",
+          "Tweet"
+        ],
+        "correctIndex": 0,
+        "explanation": "The clock went tick-tock, tick-tock!"
+      },
+      {
+        "id": "q3",
+        "question": "How many raindrops did Ivy count?",
+        "choices": [
+          "Three",
+          "Four",
+          "Five"
+        ],
+        "correctIndex": 2,
+        "explanation": "Ivy heard FIVE raindrops - Pitter, patter, pitter, patter, pitter!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "ONE",
+            "distractors": [
+              "TWO",
+              "THREE"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "TWO",
+            "distractors": [
+              "ONE",
+              "FOUR"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "FOUR",
+            "distractors": [
+              "THREE",
+              "FIVE"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

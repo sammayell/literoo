@@ -1,0 +1,333 @@
+{
+  "id": "early_reader-humor-012",
+  "title": "Diego's Disappearing Lunch",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "humor",
+    "friendship"
+  ],
+  "wordCount": 580,
+  "readingLevel": "1.2",
+  "synopsis": "When Diego's delicious sandwich keeps mysteriously disappearing from his lunchbox, he teams up with his friends to solve the case. Their investigation leads to hilarious discoveries and an unexpected friendship with the hungriest culprit in school.",
+  "coverImage": "covers/early_reader-humor-012.webp",
+  "chapters": [
+    {
+      "title": "The Mystery Begins",
+      "pages": [
+        {
+          "text": "Diego loved his lunch. Every day, his mom made him the best sandwich in the world. It had peanut butter, jelly, and banana slices. \"Yum!\" Diego would say. \"This is the best sandwich ever!\"",
+          "illustration": {
+            "description": "Diego, a cheerful Latino boy with dark curly hair and bright brown eyes, sits at a colorful kitchen table holding up a thick sandwich with visible banana slices. His mom, a warm woman with long black hair, smiles in the background. Bright morning sunlight streams through yellow curtains.",
+            "alt": "Diego holding his favorite sandwich at the breakfast table with his mom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "But today was different. Diego opened his lunchbox at school. His sandwich was gone! \"That's weird,\" said Diego. \"I know Mom put it in here.\" He looked under his apple. He looked under his crackers. No sandwich anywhere!",
+          "illustration": {
+            "description": "Diego sits at a school cafeteria table with a confused expression, looking into an empty lunchbox. Around him are diverse children eating lunch - a girl with red pigtails, an Asian boy with glasses, and a Black girl with natural hair in colorful beads. The cafeteria is bright with orange and blue walls.",
+            "alt": "Diego looking confused at his empty lunchbox in the school cafeteria",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Maybe it fell out,\" said his friend Zara. She had curly red hair and freckles. \"Maybe it grew legs and walked away!\" said his friend Jin. He giggled at his own joke. Diego laughed too, but he was still hungry. Where could his sandwich be?",
+          "illustration": {
+            "description": "Three friends sitting together at lunch - Diego looking puzzled, Zara with bright red curly hair and freckles pointing thoughtfully, and Jin, an Asian boy with black hair and glasses, laughing with his hands up like he's telling a joke. Their expressions are animated and friendly in the colorful cafeteria setting.",
+            "alt": "Diego with his friends Zara and Jin discussing the missing sandwich",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Case Gets Stranger",
+      "pages": [
+        {
+          "text": "The next day, Diego watched his lunchbox like a hawk. He put his sandwich inside. He zipped it up tight. \"Nobody will take my sandwich today,\" he said. But when lunchtime came, the sandwich was gone again!",
+          "illustration": {
+            "description": "Diego sits in his classroom with intense concentration, both hands protectively around his lunchbox. His eyes are wide and determined. Other students in the background are working at colorful desks. The classroom has bright educational posters and a cheerful teacher with braided hair at the whiteboard.",
+            "alt": "Diego guarding his lunchbox protectively in the classroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"This is a mystery!\" said Zara. \"We need to be detectives!\" \"Yes!\" said Jin. \"Detective Diego, Detective Zara, and Detective Jin!\" They put on serious faces. \"We will find the sandwich thief!\" said Diego.",
+          "illustration": {
+            "description": "The three friends strike detective poses in the cafeteria. Diego has his hand on his chin looking thoughtful, Zara points dramatically with a determined expression, and Jin holds up a magnifying glass (a plastic toy) with excitement. They wear imaginary detective badges drawn on paper and taped to their shirts. The scene is playful and colorful.",
+            "alt": "Diego, Zara, and Jin playing detective to solve the sandwich mystery",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "They looked everywhere. Under tables. In the lost and found box. Behind the big plant in the hallway. \"Maybe the sandwich ghost took it,\" whispered Jin. \"There's no such thing as sandwich ghosts,\" said Zara. But she looked around nervously anyway.",
+          "illustration": {
+            "description": "The three children are on hands and knees looking under cafeteria tables. Jin looks slightly spooked, glancing over his shoulder. Zara rolls her eyes but still appears alert. Diego is focused on searching. In the background, other diverse students eat lunch normally, unaware of the investigation happening below.",
+            "alt": "The three friends searching under tables for clues",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "A Big Clue",
+      "pages": [
+        {
+          "text": "On the third day, something amazing happened. Diego saw crumbs! Little tiny crumbs leading from his desk to the window. \"Look!\" he whispered to his friends. \"The crumb trail!\" \"Just like Hansel and Gretel!\" said Zara.",
+          "illustration": {
+            "description": "Diego points excitedly at a trail of small crumbs on the classroom floor. The crumbs lead from his desk toward a sunny window. Zara and Jin crouch down examining the evidence with wide, curious eyes. Sunbeams highlight the crumb trail, making it look magical and important.",
+            "alt": "Diego pointing out a trail of crumbs leading to the window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "They followed the crumbs very quietly. Step by step. Tip-toe, tip-toe. The trail led right to the window. \"What's that sound?\" asked Jin. They heard a tiny munching noise. Munch, munch, munch.",
+          "illustration": {
+            "description": "The three friends tiptoe in a line following the crumb trail, their faces full of concentration and excitement. They're almost at the classroom window where bright sunlight creates dramatic shadows. Their expressions show they're trying to be very quiet, with fingers to their lips and exaggerated sneaky poses.",
+            "alt": "The friends tiptoeing and following the crumb trail to the window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Diego peeked over the windowsill. There, sitting on a tree branch, was the cutest little squirrel. It had Diego's sandwich in its tiny paws! \"That's the sandwich thief!\" Diego said. But he wasn't angry. The squirrel looked so happy eating.",
+          "illustration": {
+            "description": "A fluffy gray squirrel with bright black eyes sits on a green tree branch just outside the window, holding Diego's distinctive peanut butter and banana sandwich in its small paws. The squirrel looks content and innocent. Diego's face appears at the bottom of the frame, eyes wide with surprise and delight rather than anger.",
+            "alt": "A cute squirrel eating Diego's sandwich on a tree branch outside the window",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Making a New Friend",
+      "pages": [
+        {
+          "text": "\"How does it get inside?\" asked Zara. They watched the squirrel. It finished the sandwich and ran down the tree. Then it squeezed through a tiny hole in the wall! \"It's like a secret door!\" said Jin. \"A squirrel-sized secret door!\"",
+          "illustration": {
+            "description": "The three children peer around the corner of the building, watching in amazement as a small gray squirrel squeezes through a tiny gap between two bricks near the ground. The hole is just big enough for the squirrel. The children's faces show wonder and delight at discovering the secret entrance.",
+            "alt": "The squirrel squeezing through a small hole in the school wall",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I have an idea,\" said Diego. \"What if we help the squirrel?\" \"Help it steal sandwiches?\" asked Zara. \"No,\" laughed Diego. \"Help it get food the right way!\" The next day, Diego brought two sandwiches. One for him, and one for his new friend.",
+          "illustration": {
+            "description": "Diego sits at the cafeteria table with a big smile, holding up two identical sandwiches - one in each hand. Zara and Jin watch with approving grins. The lunchbox is open showing it's packed extra full. The cafeteria background is warm and inviting with other children eating happily.",
+            "alt": "Diego showing his two sandwiches, one for him and one for the squirrel",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Diego left the extra sandwich on the windowsill outside. Soon, the squirrel appeared! It chittered happily and started eating. \"I think it's saying thank you!\" said Diego. From that day on, Diego always brought extra food for his furry friend.",
+          "illustration": {
+            "description": "Through the classroom window, the happy squirrel sits on the windowsill eating the sandwich Diego left for it. Inside, Diego, Zara, and Jin watch with big smiles and warm expressions. The squirrel's tail is bushy and its cheeks are full. Afternoon sunlight makes everything glow golden and peaceful.",
+            "alt": "The squirrel happily eating the sandwich Diego left on the windowsill",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Best Lunch Ever",
+      "pages": [
+        {
+          "text": "Word spread around school about Diego's squirrel friend. Soon, other kids brought extra food too. Apples, crackers, and nuts. The squirrel grew round and happy. \"It's like having a class pet!\" said their teacher, Ms. Chen.",
+          "illustration": {
+            "description": "A diverse group of children stands by the classroom window, each holding different foods - apples, crackers, nuts. The squirrel sits outside looking plump and content. Ms. Chen, an Asian woman with a kind smile and shoulder-length black hair, watches approvingly. Everyone looks joyful and excited about their shared project.",
+            "alt": "Many children bringing food for the squirrel with their teacher watching",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I'm glad my sandwich got stolen,\" Diego told his mom that night. \"Really?\" she asked, surprised. \"Yes! Because now I have the best furry friend ever. And I learned that sharing makes lunch taste even better!\" His mom smiled and hugged him tight.",
+          "illustration": {
+            "description": "Diego sits at his kitchen table with his mom, both smiling warmly. Diego gestures excitedly as he tells his story, while his mom listens with a loving expression. The kitchen is cozy with warm yellow light. Through the window, you can just see the squirrel in their backyard tree, as if it followed Diego home.",
+            "alt": "Diego telling his mom about his squirrel friend at the dinner table",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The next morning, Diego packed his lunch with extra care. One sandwich for him, one for his squirrel friend, and some nuts too. \"Ready for another great day?\" asked his mom. \"The best!\" said Diego. And it really was.",
+          "illustration": {
+            "description": "Diego carefully packs his lunchbox with multiple items while his mom watches proudly. The lunchbox is colorful and full of good food. Bright morning sunlight streams through the kitchen window where the squirrel can be seen waiting expectantly in the tree outside. Diego looks happy and excited for the school day ahead.",
+            "alt": "Diego packing his lunch with extra food for his squirrel friend",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "problem-solving",
+      "kindness",
+      "sharing",
+      "helping animals"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Playful storybook illustration style. Rich saturated colors. Expressive characters with big eyes. Whimsical, like Pixar concept art."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What kind of sandwich did Diego's mom make him?",
+        "choices": [
+          "Ham and cheese",
+          "Peanut butter, jelly, and banana",
+          "Tuna fish"
+        ],
+        "correctIndex": 1,
+        "explanation": "Diego loved his peanut butter, jelly, and banana sandwich that his mom made every day!"
+      },
+      {
+        "id": "q2",
+        "question": "Who were Diego's two best friends?",
+        "choices": [
+          "Zara and Jin",
+          "Sam and Alex",
+          "Maya and Ben"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zara, who had curly red hair, and Jin, who wore glasses, were Diego's detective partners!"
+      },
+      {
+        "id": "q3",
+        "question": "What led Diego to find the sandwich thief?",
+        "choices": [
+          "A video camera",
+          "A trail of crumbs",
+          "A witness"
+        ],
+        "correctIndex": 1,
+        "explanation": "Diego found tiny crumbs that made a trail from his desk to the window, just like in Hansel and Gretel!"
+      },
+      {
+        "id": "q4",
+        "question": "How did the squirrel get into the classroom?",
+        "choices": [
+          "Through an open door",
+          "Through a small hole in the wall",
+          "Through the air vents"
+        ],
+        "correctIndex": 1,
+        "explanation": "The squirrel had found a tiny hole in the wall that was like a secret squirrel-sized door!"
+      },
+      {
+        "id": "q5",
+        "question": "How did Diego solve the problem?",
+        "choices": [
+          "He chased the squirrel away",
+          "He brought extra food to share",
+          "He told the principal"
+        ],
+        "correctIndex": 1,
+        "explanation": "Diego was kind and decided to help the hungry squirrel by bringing extra sandwiches to share!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Complete Diego's Story",
+        "instructions": "Fill in the blanks to complete this part of Diego's adventure!",
+        "text": "Diego opened his _____ at school. His sandwich was _____! 'That's weird,' said Diego. He looked under his _____ and under his crackers. The next day, Diego and his friends became _____ to solve the mystery. They followed a trail of _____ to the window.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "lunchbox",
+            "distractors": [
+              "backpack",
+              "notebook"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "gone",
+            "distractors": [
+              "cold",
+              "wet"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "apple",
+            "distractors": [
+              "book",
+              "pencil"
+            ]
+          },
+          {
+            "wordIndex": 3,
+            "correctWord": "detectives",
+            "distractors": [
+              "teachers",
+              "pirates"
+            ]
+          },
+          {
+            "wordIndex": 4,
+            "correctWord": "crumbs",
+            "distractors": [
+              "footprints",
+              "leaves"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The Squirrel's Adventure",
+        "instructions": "Help tell the story from the squirrel's point of view!",
+        "text": "The little _____ was very hungry. It found a tiny _____ in the school wall. Inside, it discovered the most delicious _____ ever! The squirrel took the sandwich to eat in the _____. When Diego found out, he wasn't angry. Instead, he decided to _____ food with his new furry friend.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "squirrel",
+            "distractors": [
+              "rabbit",
+              "mouse"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "hole",
+            "distractors": [
+              "window",
+              "door"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "sandwich",
+            "distractors": [
+              "cookie",
+              "pizza"
+            ]
+          },
+          {
+            "wordIndex": 3,
+            "correctWord": "tree",
+            "distractors": [
+              "grass",
+              "roof"
+            ]
+          },
+          {
+            "wordIndex": 4,
+            "correctWord": "share",
+            "distractors": [
+              "hide",
+              "throw"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

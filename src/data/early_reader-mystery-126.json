@@ -1,0 +1,267 @@
+{
+  "id": "early_reader-mystery-126",
+  "title": "Enzo and the Case of the Glowing Garden",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "mystery",
+    "science"
+  ],
+  "wordCount": 400,
+  "readingLevel": "2.1",
+  "synopsis": "When Enzo discovers his neighbor's garden is glowing bright blue at night, he becomes a detective to solve this mysterious case. With help from his friend Zara, Enzo learns about bioluminescence while uncovering the truth behind the magical-looking plants.",
+  "coverImage": "covers/early_reader-mystery-126.webp",
+  "chapters": [
+    {
+      "title": "The Glowing Mystery",
+      "pages": [
+        {
+          "text": "Enzo loved looking out his bedroom window at night. He liked to count the stars and watch for fireflies. But tonight, something was very strange. Mrs. Chen's garden was glowing! The plants were bright blue, like magic.",
+          "illustration": {
+            "description": "A young boy with curly dark hair and big curious brown eyes peers through a bedroom window at night. Outside, a garden glows with mysterious bright blue light, illuminating various plants and flowers. The boy's face shows wonder and excitement.",
+            "alt": "Enzo looking through window at glowing blue garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Mom! Dad! Come quick!\" Enzo called. His parents hurried to his room. \"Look at Mrs. Chen's garden!\" But when they looked, the garden was dark. \"I don't see anything glowing, honey,\" said Mom. \"Maybe you were dreaming,\" said Dad.",
+          "illustration": {
+            "description": "A concerned-looking boy with curly hair points toward a dark garden while his parents look out the window with him. His mom has long black hair and his dad wears glasses. Their expressions are gentle but puzzled as they see only a normal dark garden.",
+            "alt": "Enzo with his parents looking at dark garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "But Enzo knew what he saw. The garden really was glowing! He decided to be a detective. Tomorrow, he would solve this mystery. He got his notebook and wrote: \"Case #1: The Glowing Garden.\" Then he drew a picture of the blue light.",
+          "illustration": {
+            "description": "A determined young boy sits at a small desk with a notebook open, writing with a crayon. He wears pajamas and has an excited, focused expression. Around him are detective props like a magnifying glass and flashlight. The room has warm yellow lighting.",
+            "alt": "Enzo writing in his detective notebook",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Detective Enzo Investigates",
+      "pages": [
+        {
+          "text": "The next morning, Enzo put on his detective hat. It was really just his baseball cap, but it made him feel official. He grabbed his magnifying glass and notebook. First, he needed to talk to Mrs. Chen. Maybe she knew about the glowing plants.",
+          "illustration": {
+            "description": "A young boy with curly dark hair wears a red baseball cap backwards and holds a large magnifying glass. He has a determined expression and carries a small notebook. He's standing in a sunny yard with green grass and colorful flowers around him.",
+            "alt": "Enzo dressed as detective with magnifying glass",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mrs. Chen was watering her flowers. She was a kind lady with gray hair and a big smile. \"Hello, Enzo!\" she said. \"I saw your garden glowing last night,\" Enzo said. \"It was bright blue!\" Mrs. Chen looked surprised. \"Glowing? That's very strange. I haven't seen any glowing.\"",
+          "illustration": {
+            "description": "An elderly Asian woman with short gray hair and a warm smile waters colorful flowers with a green watering can. She wears a sun hat and gardening apron. A curious young boy in a baseball cap stands nearby with his notebook, both surrounded by a lush garden.",
+            "alt": "Mrs. Chen watering flowers while talking to Enzo",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Enzo's friend Zara rode up on her bike. She had long braids and loved science. \"What are you doing, Enzo?\" she asked. \"I'm solving a mystery,\" he said. \"Mrs. Chen's garden glows blue at night!\" Zara's eyes got wide. \"Really? That sounds like bioluminescence!\" \"Bio-what?\" asked Enzo.",
+          "illustration": {
+            "description": "A girl with dark skin and long braided hair sits on a bright yellow bike, looking excited and curious. She wears a purple t-shirt and has big expressive eyes. Enzo stands next to her holding his notebook, both children appearing animated and interested in their conversation.",
+            "alt": "Zara on her bike talking to Enzo",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Science of Glowing",
+      "pages": [
+        {
+          "text": "\"Bioluminescence is when living things make their own light,\" Zara explained. \"Like fireflies! Maybe there are special bacteria on the plants.\" The three friends decided to wait until dark. They would solve this mystery together. Mrs. Chen brought them lemonade while they waited.",
+          "illustration": {
+            "description": "Three characters sit on a porch sharing glasses of yellow lemonade. Zara with braids gestures excitedly while explaining, Enzo listens with wide curious eyes, and Mrs. Chen smiles warmly. The setting sun creates golden light around them with the garden visible in the background.",
+            "alt": "Friends drinking lemonade and planning their investigation",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "As the sun went down, they watched the garden carefully. Suddenly, a soft blue glow appeared! \"There it is!\" whispered Enzo. Zara pointed her flashlight at the glowing spots. \"Look! It's not the plants. It's tiny mushrooms growing on them!\" The mushrooms glowed like little blue stars.",
+          "illustration": {
+            "description": "Three children crouch in a dark garden illuminated by mysterious blue glowing mushrooms scattered among the plants. Their faces show amazement and wonder as they observe the tiny glowing fungi. The blue bioluminescent light creates a magical, ethereal atmosphere in the nighttime garden.",
+            "alt": "Children discovering glowing mushrooms in the garden",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"These are bioluminescent mushrooms!\" said Zara. \"They make their own light with special chemicals.\" Mrs. Chen was amazed. \"I never knew I had magical mushrooms!\" \"They're not magic,\" laughed Enzo. \"They're science!\" Detective Enzo had solved his first case. The glowing garden wasn't magic at all - it was nature being amazing!",
+          "illustration": {
+            "description": "All three friends and Mrs. Chen smile and laugh together in the garden surrounded by the soft blue glow of the mushrooms. Enzo holds his detective notebook proudly while Zara points at the glowing fungi. Their expressions show joy, wonder, and satisfaction at solving the mystery together.",
+            "alt": "Happy group celebrating the solved mystery",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "curiosity",
+      "friendship",
+      "science discovery",
+      "problem-solving",
+      "nature"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Playful storybook illustration style. Rich saturated colors. Expressive characters with big eyes. Whimsical, like Pixar concept art."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Enzo see when he looked out his window at night?",
+        "choices": [
+          "Red flowers blooming",
+          "Mrs. Chen's garden glowing blue",
+          "A big rainbow"
+        ],
+        "correctIndex": 1,
+        "explanation": "Enzo saw Mrs. Chen's garden glowing bright blue, which started the mystery!"
+      },
+      {
+        "id": "q2",
+        "question": "What did Zara call the glowing effect?",
+        "choices": [
+          "Bioluminescence",
+          "Magic tricks",
+          "Electric lights"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zara knew about bioluminescence, which is when living things make their own light."
+      },
+      {
+        "id": "q3",
+        "question": "What was really making the garden glow?",
+        "choices": [
+          "The flowers",
+          "Tiny mushrooms",
+          "Hidden light bulbs"
+        ],
+        "correctIndex": 1,
+        "explanation": "The mystery was solved when they discovered tiny bioluminescent mushrooms on the plants."
+      },
+      {
+        "id": "q4",
+        "question": "Who helped Enzo solve the mystery?",
+        "choices": [
+          "His parents",
+          "Zara and Mrs. Chen",
+          "His teacher"
+        ],
+        "correctIndex": 1,
+        "explanation": "Zara provided the science knowledge and Mrs. Chen helped by letting them investigate her garden."
+      },
+      {
+        "id": "q5",
+        "question": "What did Enzo learn about the glowing?",
+        "choices": [
+          "It was magic",
+          "It was science",
+          "It was a dream"
+        ],
+        "correctIndex": 1,
+        "explanation": "Enzo discovered that what looked like magic was actually science - bioluminescent mushrooms!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Complete Detective Enzo's Case Notes",
+        "instructions": "Help Enzo fill in his detective notebook by choosing the right words!",
+        "text": "Case #1: The Glowing Garden\n\nWhat I saw: Mrs. Chen's __(1)__ was glowing __(2)__ at night.\n\nWho helped me: My friend __(3)__ who knows about science.\n\nWhat we found: Tiny __(4)__ that make their own light!\n\nThis is called: __(5)__",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "garden",
+            "distractors": [
+              "house",
+              "car"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "blue",
+            "distractors": [
+              "red",
+              "green"
+            ]
+          },
+          {
+            "wordIndex": 3,
+            "correctWord": "Zara",
+            "distractors": [
+              "Mom",
+              "Dad"
+            ]
+          },
+          {
+            "wordIndex": 4,
+            "correctWord": "mushrooms",
+            "distractors": [
+              "flowers",
+              "rocks"
+            ]
+          },
+          {
+            "wordIndex": 5,
+            "correctWord": "bioluminescence",
+            "distractors": [
+              "magic",
+              "electricity"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Science Facts Puzzle",
+        "instructions": "Fill in the blanks to learn more about glowing in nature!",
+        "text": "Living things that make their own __(1)__ are called bioluminescent.\n\n__(2)__ are insects that glow to talk to each other.\n\nSome __(3)__ and mushrooms can glow in the dark.\n\nThe glowing happens because of special __(4)__ inside the living thing.",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "light",
+            "distractors": [
+              "sound",
+              "heat"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "Fireflies",
+            "distractors": [
+              "Butterflies",
+              "Bees"
+            ]
+          },
+          {
+            "wordIndex": 3,
+            "correctWord": "fish",
+            "distractors": [
+              "birds",
+              "cats"
+            ]
+          },
+          {
+            "wordIndex": 4,
+            "correctWord": "chemicals",
+            "distractors": [
+              "batteries",
+              "wires"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

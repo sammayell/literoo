@@ -1,0 +1,155 @@
+{
+  "id": "v2-baby-feelings-013",
+  "title": "Nia's Rainbow Feelings",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "feelings",
+    "colors"
+  ],
+  "wordCount": 73,
+  "readingLevel": "Pre-K",
+  "synopsis": "Join Nia as she discovers her feelings through colors - from red anger to blue sadness to bright yellow happiness. A gentle introduction to emotions and colors for toddlers.",
+  "coverImage": "covers/v2-baby-feelings-013.webp",
+  "chapters": [
+    {
+      "title": "Nia's Colorful Day",
+      "pages": [
+        {
+          "text": "This is Nia. She feels many things every day. Her feelings have colors!",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes standing in a swirling rainbow of soft colors representing different emotions flowing around her",
+            "alt": "Nia surrounded by colorful emotion swirls",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When Nia is angry, she feels RED. Red like fire. Red everywhere!",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes with furrowed brow, surrounded by angry red swirls and jagged shapes filling the background",
+            "alt": "Angry Nia surrounded by red swirls",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When Nia is sad, she feels BLUE. Blue like rain clouds. Blue tears fall down.",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes looking downward sadly, with blue rain drops and storm clouds creating a melancholy blue background",
+            "alt": "Sad Nia with blue rain background",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When Nia is happy, she feels YELLOW! Yellow like sunshine. Yellow makes her smile big!",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes beaming with joy, surrounded by bright yellow sunshine rays and cheerful golden light filling the entire background",
+            "alt": "Happy Nia with yellow sunshine background",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "All feelings are okay. Red, blue, yellow - Nia feels them all. What colors do you feel today?",
+          "illustration": {
+            "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes with a gentle smile, standing peacefully as red, blue, and yellow colors blend harmoniously in abstract shapes around her",
+            "alt": "Nia surrounded by peaceful blend of emotion colors",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotional awareness",
+      "color recognition",
+      "self-expression",
+      "feelings acceptance"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "emotion mapped colors, angry red swirls, sad blue rain, happy yellow sunshine, abstract emotion backgrounds, Inside Out inspired, feeling visualization, color psychology"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color is Nia's angry feeling?",
+        "choices": [
+          "Red",
+          "Blue",
+          "Yellow"
+        ],
+        "correctIndex": 0,
+        "explanation": "When Nia feels angry, she feels red like fire!"
+      },
+      {
+        "id": "q2",
+        "question": "What color is like sunshine when Nia is happy?",
+        "choices": [
+          "Blue",
+          "Yellow",
+          "Red"
+        ],
+        "correctIndex": 1,
+        "explanation": "Yellow is like sunshine and makes Nia smile big when she's happy!"
+      },
+      {
+        "id": "q3",
+        "question": "What does the story say about having different feelings?",
+        "choices": [
+          "All feelings are okay",
+          "Only happy feelings are good",
+          "Sad feelings are bad"
+        ],
+        "correctIndex": 0,
+        "explanation": "The story teaches us that all feelings are okay - red, blue, and yellow!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 7,
+            "correctWord": "RED",
+            "distractors": [
+              "BLUE",
+              "GREEN"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 7,
+            "correctWord": "BLUE",
+            "distractors": [
+              "RED",
+              "PURPLE"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 7,
+            "correctWord": "YELLOW",
+            "distractors": [
+              "ORANGE",
+              "PINK"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

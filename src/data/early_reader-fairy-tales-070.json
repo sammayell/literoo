@@ -1,0 +1,300 @@
+{
+  "id": "early_reader-fairy-tales-070",
+  "title": "Ezra and the Magic Acorn",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "fairy-tales",
+    "animals"
+  ],
+  "wordCount": 535,
+  "readingLevel": "1.2",
+  "synopsis": "When young Ezra finds a glowing acorn in the forest, he discovers it belongs to a worried squirrel family. With help from diverse forest friends, Ezra learns that the magic acorn can grow into anything the forest needs - but first he must return it to its rightful home.",
+  "coverImage": "covers/early_reader-fairy-tales-070.webp",
+  "chapters": [
+    {
+      "title": "The Glowing Acorn",
+      "pages": [
+        {
+          "text": "Ezra loved to explore the forest behind his house. He had dark curly hair and bright brown eyes that sparkled when he found something new. Today felt special. The leaves crunched under his red sneakers as he walked deeper into the woods.",
+          "illustration": {
+            "description": "A cheerful young Black boy with curly hair and bright brown eyes walking through a colorful autumn forest. He wears a blue jacket and red sneakers, with golden sunlight filtering through orange and red leaves overhead. His expression is curious and excited.",
+            "alt": "Ezra exploring the forest",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Under a big oak tree, something caught his eye. A golden acorn was glowing like a tiny sun! Ezra picked it up carefully. It felt warm in his small hands. 'Wow!' he whispered. 'This must be magic!'",
+          "illustration": {
+            "description": "Close-up of Ezra's hands holding a glowing golden acorn that radiates soft yellow light. His face shows wonder and amazement, with big expressive eyes wide with excitement. The background shows the base of a large oak tree with rich brown bark.",
+            "alt": "Ezra holding the glowing magic acorn",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Just then, he heard crying. 'Boo-hoo! Where is it?' The sound came from high up in the tree. Ezra looked up and saw a small gray squirrel with tears in her eyes. 'What's wrong?' Ezra called up to her.",
+          "illustration": {
+            "description": "A small gray squirrel with big sad eyes sitting on an oak tree branch, looking distressed with tiny tears visible. Below, Ezra looks up with a concerned expression, still holding the glowing acorn. The scene has warm afternoon lighting with dappled shadows.",
+            "alt": "Crying squirrel in tree talking to Ezra below",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Luna's Lost Treasure",
+      "pages": [
+        {
+          "text": "'I'm Luna,' said the squirrel. 'I lost my family's magic acorn. Without it, we can't help the forest grow!' She wiped her eyes with her tiny paw. Ezra smiled and held up the glowing acorn. 'Is this it?' Luna's eyes grew huge. 'You found it!'",
+          "illustration": {
+            "description": "Luna the squirrel with big hopeful eyes looking down from a tree branch at Ezra, who is holding up the glowing acorn with a kind smile. Luna is a cute gray squirrel with expressive features. The magical acorn casts a warm golden glow between them.",
+            "alt": "Luna the squirrel excited to see her magic acorn",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Luna scampered down the tree trunk. 'But I dropped it so far from home,' she said sadly. 'My family lives on the other side of the forest. It's too far for me to carry alone.' Ezra thought for a moment. 'I can help you!' he said. 'We can take it together!'",
+          "illustration": {
+            "description": "Luna the squirrel sitting next to Ezra on a fallen log, gesturing with her paws as she explains. Ezra sits cross-legged with a determined, helpful expression. The forest stretches out behind them with tall trees creating a path deeper into the woods.",
+            "alt": "Ezra offering to help Luna return the acorn",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "As they started walking, they heard a loud THUMP behind them. A friendly brown rabbit hopped up. She had long ears and wore a purple flower crown. 'Hi! I'm Sage. I heard you need help!' Luna explained about the magic acorn. 'I know a shortcut!' Sage said with a grin.",
+          "illustration": {
+            "description": "Sage the rabbit with long brown ears wearing a crown of small purple flowers, hopping energetically toward Ezra and Luna. She has a bright, friendly smile and sparkling eyes. The forest background shows a winding path with colorful wildflowers scattered around.",
+            "alt": "Sage the rabbit joining Ezra and Luna on their journey",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Forest Friends Help",
+      "pages": [
+        {
+          "text": "The three friends walked along Sage's secret path. Soon they met Oliver, a wise old owl with speckled feathers. 'The magic acorn!' he hooted. 'It can grow anything the forest needs - fruit trees, flower gardens, even houses for animals!' Ezra's eyes sparkled with wonder.",
+          "illustration": {
+            "description": "Oliver the owl perched on a low branch, with beautiful speckled brown and white feathers and large golden eyes behind small round glasses. He gestures with one wing toward the glowing acorn while Ezra, Luna, and Sage listen intently below.",
+            "alt": "Oliver the wise owl explaining about the magic acorn",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "They walked further and met Maya, a red fox with a bushy tail. She had a backpack full of berries. 'Are you going to Luna's tree?' Maya asked. 'I live near there!' Then came Ben, a cheerful black bear cub. 'I love adventures!' he said, bouncing on his paws.",
+          "illustration": {
+            "description": "Maya the red fox with a bright smile wearing a small hiking backpack, standing next to Ben the small black bear cub who is bouncing excitedly. Both have big friendly eyes and expressive faces. Berry bushes and forest plants surround them in rich greens and reds.",
+            "alt": "Maya the fox and Ben the bear cub joining the group",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Now six friends walked together through the forest. They sang songs and told jokes. Ezra felt happy to have so many new friends. The magic acorn glowed brighter as they got closer to Luna's home. 'We're almost there!' Luna squeaked with joy.",
+          "illustration": {
+            "description": "All six friends walking together on a forest path - Ezra in the center carrying the bright glowing acorn, with Luna on his shoulder, Sage hopping alongside, Oliver flying overhead, Maya trotting beside them, and Ben rolling playfully. Everyone looks happy and excited.",
+            "alt": "The group of six friends walking together through the forest",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Magic Grows",
+      "pages": [
+        {
+          "text": "At Luna's tree, her whole family was waiting. Mama and Papa Squirrel hugged Luna tight. 'Thank you, Ezra!' said Mama Squirrel. 'How can we thank you?' Papa Squirrel took the magic acorn and buried it in the soft earth by their tree.",
+          "illustration": {
+            "description": "A heartwarming scene with Luna being hugged by her parents - Mama Squirrel wearing a small blue apron and Papa Squirrel with a tiny brown hat. Ezra watches with a warm smile as Papa Squirrel plants the glowing acorn in rich, dark soil near their tree home.",
+            "alt": "Luna's family reunion and planting the magic acorn",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Suddenly, the ground began to glow! A beautiful tree sprouted up, up, up! It grew golden apples, purple plums, and red cherries all at once. Flowers bloomed at its base in every color imaginable. 'It's the most beautiful tree ever!' Ezra gasped.",
+          "illustration": {
+            "description": "A magnificent magical tree growing rapidly with golden apples, purple plums, and red cherries on its branches. Colorful flowers bloom at its base in rainbow hues. Sparkles and golden light surround the tree as all the forest friends watch in amazement with expressions of wonder.",
+            "alt": "The magic acorn growing into a beautiful fruit tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "All the forest animals came to see the magic tree. Everyone shared the delicious fruit. Luna gave Ezra a special golden apple. 'This will help you remember us,' she said. Ezra smiled as he headed home. He had made the best friends ever! The forest felt like his second home now.",
+          "illustration": {
+            "description": "A joyful celebration scene with forest animals of all kinds gathered around the magic tree, sharing fruit and laughing. Ezra holds a special golden apple while surrounded by his new friends Luna, Sage, Oliver, Maya, and Ben. The scene is filled with warm golden sunset light and happiness.",
+            "alt": "Forest celebration with all the animal friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "helping others",
+      "magic",
+      "nature",
+      "teamwork"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Playful storybook illustration style. Rich saturated colors. Expressive characters with big eyes. Whimsical, like Pixar concept art."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Ezra find under the oak tree?",
+        "choices": [
+          "A golden acorn",
+          "A purple flower",
+          "A red apple"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ezra found a magical golden acorn that was glowing like a tiny sun!"
+      },
+      {
+        "id": "q2",
+        "question": "Who did the magic acorn belong to?",
+        "choices": [
+          "Sage the rabbit",
+          "Luna the squirrel",
+          "Oliver the owl"
+        ],
+        "correctIndex": 1,
+        "explanation": "The magic acorn belonged to Luna the squirrel and her family."
+      },
+      {
+        "id": "q3",
+        "question": "Which animal knew a shortcut through the forest?",
+        "choices": [
+          "Maya the fox",
+          "Sage the rabbit",
+          "Ben the bear"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sage the rabbit with the purple flower crown knew a secret shortcut!"
+      },
+      {
+        "id": "q4",
+        "question": "What grew from the magic acorn when it was planted?",
+        "choices": [
+          "Just flowers",
+          "A tree with many fruits",
+          "Only golden apples"
+        ],
+        "correctIndex": 1,
+        "explanation": "The magic acorn grew into a beautiful tree with golden apples, purple plums, and red cherries!"
+      },
+      {
+        "id": "q5",
+        "question": "What did Luna give Ezra to remember their friendship?",
+        "choices": [
+          "A purple plum",
+          "A golden apple",
+          "A red cherry"
+        ],
+        "correctIndex": 1,
+        "explanation": "Luna gave Ezra a special golden apple from the magic tree to help him remember their friendship."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Complete the Story",
+        "instructions": "Fill in the blanks to complete sentences from the story!",
+        "sentences": [
+          {
+            "text": "Ezra found a {0} acorn under the oak tree.",
+            "blanks": [
+              {
+                "wordIndex": 0,
+                "correctWord": "golden",
+                "distractors": [
+                  "silver",
+                  "purple"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Luna the {0} had lost her family's magic acorn.",
+            "blanks": [
+              {
+                "wordIndex": 0,
+                "correctWord": "squirrel",
+                "distractors": [
+                  "rabbit",
+                  "fox"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Sage wore a crown made of {0} flowers.",
+            "blanks": [
+              {
+                "wordIndex": 0,
+                "correctWord": "purple",
+                "distractors": [
+                  "red",
+                  "yellow"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Forest Friends Match",
+        "instructions": "Match each friend with what makes them special!",
+        "sentences": [
+          {
+            "text": "Oliver the owl wore small round {0}.",
+            "blanks": [
+              {
+                "wordIndex": 0,
+                "correctWord": "glasses",
+                "distractors": [
+                  "hats",
+                  "shoes"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Maya the fox carried a {0} full of berries.",
+            "blanks": [
+              {
+                "wordIndex": 0,
+                "correctWord": "backpack",
+                "distractors": [
+                  "basket",
+                  "box"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "The magic tree grew three kinds of {0}.",
+            "blanks": [
+              {
+                "wordIndex": 0,
+                "correctWord": "fruit",
+                "distractors": [
+                  "leaves",
+                  "nuts"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

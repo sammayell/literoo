@@ -1,0 +1,183 @@
+{
+  "id": "v2-toddler-bedtime-018",
+  "title": "Yuki's Sleepy Stars",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "bedtime",
+    "feelings"
+  ],
+  "wordCount": 153,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Yuki feels too excited to sleep, but with the help of magical sleepy stars, she learns to calm her busy feelings and drift peacefully into dreamland.",
+  "coverImage": "covers/v2-toddler-bedtime-018.webp",
+  "chapters": [
+    {
+      "title": "Too Excited to Sleep",
+      "pages": [
+        {
+          "text": "Yuki sat in her cozy bed, but her eyes were wide open. She felt too excited to sleep! Her heart was bouncing like a happy bunny.",
+          "illustration": {
+            "description": "A little girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes sitting up in a soft bed with purple blankets. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette surround her bedroom.",
+            "alt": "Yuki sitting wide awake in her bed with excited expression",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I'm too wiggly!\" Yuki said to her teddy bear. \"My feelings are dancing inside me. How can I make them sleepy?\"",
+          "illustration": {
+            "description": "A girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes talking to a soft teddy bear. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette fill the room with a magical glow.",
+            "alt": "Yuki talking to her teddy bear about her excited feelings",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Just then, tiny silver stars began to float down from the ceiling. They twinkled softly and whispered, \"We are sleepy stars, here to help.\"",
+          "illustration": {
+            "description": "A child with straight black hair with a red headband, light skin, almond-shaped dark brown eyes looking up in wonder as glowing silver stars float down. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette create a magical scene.",
+            "alt": "Magical silver stars floating down to visit Yuki",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Sleepy Star Magic",
+      "pages": [
+        {
+          "text": "\"Take slow, deep breaths,\" whispered the sleepy stars. \"Breathe in the calm, breathe out the wiggles.\" Yuki tried it and felt her excited feelings slow down.",
+          "illustration": {
+            "description": "A peaceful girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes taking deep breaths while surrounded by glowing stars. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette show the calming magic working.",
+            "alt": "Yuki breathing deeply with the help of magical stars",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The sleepy stars danced gently around Yuki's room, making everything soft and dreamy. \"Think of fluffy clouds,\" they hummed sweetly.",
+          "illustration": {
+            "description": "A drowsy child with straight black hair with a red headband, light skin, almond-shaped dark brown eyes watching stars dance around her room. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette transform the space into a dream world.",
+            "alt": "Sleepy stars dancing around Yuki's bedroom creating a dreamy atmosphere",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Yuki's eyelids grew heavy as the stars tucked her in with stardust. \"Thank you for helping my excited feelings become sleepy feelings,\" she yawned. Soon she was fast asleep, dreaming of floating on soft, purple clouds.",
+          "illustration": {
+            "description": "A sleeping girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes peacefully dreaming while stars sprinkle gentle stardust. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette show her drifting into sweet dreams.",
+            "alt": "Yuki sleeping peacefully surrounded by magical stardust and dream clouds",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "managing emotions",
+      "bedtime routine",
+      "self-soothing",
+      "imagination",
+      "feelings"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How did Yuki feel at the beginning of the story?",
+        "choices": [
+          "Too excited to sleep",
+          "Very sleepy",
+          "Scared of the dark"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yuki felt too excited to sleep and her feelings were dancing inside her like a happy bunny."
+      },
+      {
+        "id": "q2",
+        "question": "What came to help Yuki fall asleep?",
+        "choices": [
+          "Sleepy stars",
+          "A big moon",
+          "Her mommy"
+        ],
+        "correctIndex": 0,
+        "explanation": "Tiny silver sleepy stars floated down from the ceiling to help Yuki with her excited feelings."
+      },
+      {
+        "id": "q3",
+        "question": "What did the sleepy stars tell Yuki to do?",
+        "choices": [
+          "Take slow, deep breaths",
+          "Count to ten",
+          "Sing a song"
+        ],
+        "correctIndex": 0,
+        "explanation": "The sleepy stars whispered to Yuki to take slow, deep breaths - breathe in the calm and breathe out the wiggles."
+      },
+      {
+        "id": "q4",
+        "question": "What did Yuki dream about at the end?",
+        "choices": [
+          "Floating on soft purple clouds",
+          "Playing with toys",
+          "Eating ice cream"
+        ],
+        "correctIndex": 0,
+        "explanation": "Yuki fell asleep and dreamed of floating on soft, purple clouds after the sleepy stars helped her."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "excited",
+            "distractors": [
+              "sleepy",
+              "hungry"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "dancing",
+            "distractors": [
+              "sleeping",
+              "crying"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "breathe",
+            "distractors": [
+              "jump",
+              "run"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "calm",
+            "distractors": [
+              "noise",
+              "toys"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

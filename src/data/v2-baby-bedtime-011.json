@@ -1,0 +1,130 @@
+{
+  "id": "v2-baby-bedtime-011",
+  "title": "Zara's Sleepy Stars",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "bedtime",
+    "family"
+  ],
+  "wordCount": 36,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Zara discovers sleepy stars that help her drift off to dreamland with Mama's gentle bedtime routine.",
+  "coverImage": "covers/v2-baby-bedtime-011.webp",
+  "chapters": [
+    {
+      "title": "Sleepy Time Stars",
+      "pages": [
+        {
+          "text": "Night time, Zara. Stars come out to play.",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes stands at a window. Soft watercolor style with dreamy purple and blue gradients. Glowing stars twinkle outside in gentle moonlight with floating clouds in an ethereal atmosphere using a pastel palette.",
+            "alt": "Zara looking out window at night sky with glowing stars",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mama says, 'Look, baby. The stars are sleepy too.'",
+          "illustration": {
+            "description": "Mama pointing to the sky while holding Zara, who has natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes. Soft watercolor with dreamy purple and blue gradients, floating clouds, and glowing stars with round sleepy faces in gentle moonlight creating an ethereal atmosphere with pastel palette.",
+            "alt": "Mama and Zara looking at sleepy stars together",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The stars yawn big yawns. Zara yawns too.",
+          "illustration": {
+            "description": "Close-up of Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes yawning sleepily. Soft watercolor style with dreamy purple and blue gradients, glowing stars with round sleepy faces yawning in the background, floating clouds, gentle moonlight in ethereal atmosphere with pastel palette.",
+            "alt": "Zara yawning with sleepy yawning stars",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Time for bed, little star. Sweet dreams with the sleepy stars.",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes tucked in bed with Mama beside her. Soft watercolor with dreamy purple and blue gradients, glowing stars with round sleepy faces floating around the room like floating clouds in gentle moonlight, creating ethereal atmosphere with pastel palette.",
+            "alt": "Zara in bed with Mama as sleepy stars float around",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "family bonding",
+      "nighttime comfort"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What do the stars do when they are sleepy?",
+        "choices": [
+          "Yawn",
+          "Dance"
+        ],
+        "correctIndex": 0,
+        "explanation": "The sleepy stars yawn big yawns, just like Zara does when she's tired."
+      },
+      {
+        "id": "q2",
+        "question": "Who helps Zara get ready for bed?",
+        "choices": [
+          "Mama",
+          "The dog"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama helps Zara see the sleepy stars and tucks her into bed."
+      },
+      {
+        "id": "q3",
+        "question": "Where does Zara see the stars?",
+        "choices": [
+          "At the window",
+          "In the closet"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zara looks out the window to see the beautiful sleepy stars in the night sky."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "stars",
+            "distractors": [
+              "cars",
+              "toys"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "yawn",
+            "distractors": [
+              "sing",
+              "run"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

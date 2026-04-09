@@ -1,0 +1,196 @@
+{
+  "id": "v2-toddler-animals-012",
+  "title": "Kofi and the Lost Baby Elephant",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "animals",
+    "adventure"
+  ],
+  "wordCount": 161,
+  "readingLevel": "Pre-K",
+  "synopsis": "A kind-hearted boy named Kofi helps a lost baby elephant find its way back to its family in the African savanna, making new animal friends along the way.",
+  "coverImage": "covers/v2-toddler-animals-012.webp",
+  "chapters": [
+    {
+      "title": "A Little Elephant Alone",
+      "pages": [
+        {
+          "text": "Kofi loved exploring the golden grasslands near his home. The warm sun made everything glow like honey.",
+          "illustration": {
+            "description": "A gouache painting with thick brushstrokes showing a young boy with short cropped hair, rich dark brown skin, bright expressive eyes walking through tall golden grass in warm savanna colors with an orange sunset in the background, painted with bold confident strokes",
+            "alt": "Kofi walking through golden grasslands",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "One morning, Kofi heard a sad trumpeting sound. Behind a big acacia tree, he found a tiny baby elephant crying.",
+          "illustration": {
+            "description": "A textured painterly gouache scene showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes discovering a small elephant calf near an acacia tree, painted with thick brushstrokes in warm savanna colors",
+            "alt": "Kofi finding a crying baby elephant",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Don't worry, little one,\" Kofi said gently. \"I'll help you find your family.\"",
+          "illustration": {
+            "description": "An expressive gouache painting showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes kneeling beside the baby elephant, both rendered with bold confident strokes against golden grass and warm sunset colors",
+            "alt": "Kofi comforting the baby elephant",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Friends Along the Way",
+      "pages": [
+        {
+          "text": "Kofi and the baby elephant walked together. They met a tall giraffe who stretched his long neck high.",
+          "illustration": {
+            "description": "A gouache painting with thick brushstrokes showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes walking alongside a baby elephant while meeting an expressive giraffe painted in warm savanna colors with textured painterly technique",
+            "alt": "Kofi, baby elephant, and giraffe meeting",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Have you seen elephant families?\" asked Kofi. The giraffe pointed toward the watering hole with his head.",
+          "illustration": {
+            "description": "An expressive gouache scene with bold confident strokes showing the giraffe pointing while Kofi with short cropped hair, rich dark brown skin, bright expressive eyes listens, painted in warm savanna colors with golden grass all around",
+            "alt": "Giraffe pointing the way for Kofi",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Next, they met playful monkeys swinging in the trees. The monkeys chattered and pointed the same direction.",
+          "illustration": {
+            "description": "A textured painterly gouache painting showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes and the baby elephant looking up at expressive monkeys in trees, painted with thick brushstrokes in warm savanna colors and orange sunset hues",
+            "alt": "Monkeys helping Kofi and baby elephant",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Family Found",
+      "pages": [
+        {
+          "text": "At the watering hole, they heard happy trumpeting. A big elephant family was splashing and playing in the water.",
+          "illustration": {
+            "description": "A gouache painting with bold confident strokes showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes and the baby elephant approaching a watering hole where expressive adult elephants play, painted in warm savanna colors with golden grass",
+            "alt": "Elephant family at the watering hole",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The baby elephant ran to his mama with joy. She wrapped him in her trunk and trumpeted with happiness.",
+          "illustration": {
+            "description": "An expressive gouache scene with thick brushstrokes showing the baby elephant reuniting with its mother while Kofi with short cropped hair, rich dark brown skin, bright expressive eyes watches happily, painted in textured painterly style with warm savanna colors and orange sunset",
+            "alt": "Baby elephant reuniting with mother",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Kofi smiled as the elephant family thanked him. He waved goodbye and walked home as the golden sun set behind him.",
+          "illustration": {
+            "description": "A warm gouache painting with bold confident strokes showing Kofi with short cropped hair, rich dark brown skin, bright expressive eyes waving goodbye to the grateful elephant family, painted with thick brushstrokes in golden grass with a beautiful orange sunset backdrop",
+            "alt": "Kofi waving goodbye to elephant family at sunset",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "helping others",
+      "kindness",
+      "friendship",
+      "family",
+      "perseverance"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Kofi find behind the acacia tree?",
+        "choices": [
+          "A crying baby elephant",
+          "A sleeping lion",
+          "A nest of birds"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kofi found a sad baby elephant crying behind the big acacia tree."
+      },
+      {
+        "id": "q2",
+        "question": "Which animal pointed toward the watering hole?",
+        "choices": [
+          "The tall giraffe",
+          "The playful monkeys",
+          "A zebra"
+        ],
+        "correctIndex": 0,
+        "explanation": "The tall giraffe stretched his neck and pointed toward the watering hole with his head."
+      },
+      {
+        "id": "q3",
+        "question": "How did the mama elephant show she was happy?",
+        "choices": [
+          "She trumpeted with joy",
+          "She danced around",
+          "She splashed water"
+        ],
+        "correctIndex": 0,
+        "explanation": "The mama elephant wrapped her baby in her trunk and trumpeted with happiness when they were reunited."
+      },
+      {
+        "id": "q4",
+        "question": "What was Kofi doing at the end of the story?",
+        "choices": [
+          "Walking home at sunset",
+          "Playing with elephants",
+          "Climbing a tree"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kofi waved goodbye to the elephant family and walked home as the golden sun set behind him."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "elephant",
+            "distractors": [
+              "giraffe",
+              "monkey"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "giraffe",
+            "distractors": [
+              "elephant",
+              "zebra"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "id": "v2-baby-food-009",
+  "title": "Chloe's Animal Friends Love Food",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "food",
+    "animals"
+  ],
+  "wordCount": 70,
+  "readingLevel": "Pre-K",
+  "synopsis": "Join Chloe as she discovers what her animal friends love to eat in this delightful food adventure filled with colorful fruits, vegetables, and treats.",
+  "coverImage": "covers/v2-baby-food-009.webp",
+  "chapters": [
+    {
+      "title": "What Do Animals Eat?",
+      "pages": [
+        {
+          "text": "Chloe loves animals! She loves food too! What do her animal friends like to eat?",
+          "illustration": {
+            "description": "Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes stands in a magical kitchen surrounded by various friendly animals with sparkling, appetizing food floating around them with steam and sparkles",
+            "alt": "Chloe in a magical kitchen with animal friends and floating food",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Bunny loves orange carrots! Crunch, crunch, crunch!",
+          "illustration": {
+            "description": "A cute bunny eating giant orange carrots with magical sparkles and steam while Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes watches happily, the carrots are exaggerated in size and glowing",
+            "alt": "Bunny eating magical sparkling carrots with Chloe watching",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Monkey loves yellow bananas! Peel and eat!",
+          "illustration": {
+            "description": "A playful monkey peeling enormous yellow bananas that sparkle and steam while Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes claps her hands in delight",
+            "alt": "Monkey with giant magical bananas and happy Chloe",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Bear loves sweet honey! Drip, drip, yummy!",
+          "illustration": {
+            "description": "A friendly bear with a magical pot of golden honey dripping with sparkles and steam while Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes watches the honey flow",
+            "alt": "Bear with magical honey pot and Chloe observing",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Cat loves fresh fish! Meow, so tasty!",
+          "illustration": {
+            "description": "A cute cat with a plate of sparkling, steaming fish that glows with magical light while Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes pets the happy cat",
+            "alt": "Cat eating magical fish with Chloe petting it",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Dog loves crunchy bones! Woof, so good!",
+          "illustration": {
+            "description": "A happy dog chewing on magical sparkling bones with steam and glitter effects while Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes throws a ball nearby",
+            "alt": "Dog with magical bones and Chloe playing",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Chloe loves apples! Red, green, and yellow! Chomp, chomp!",
+          "illustration": {
+            "description": "Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes biting into a giant magical apple with sparkles and steam, surrounded by colorful apples of different colors floating with magical effects",
+            "alt": "Chloe eating a magical sparkling apple surrounded by floating colorful apples",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "All the animals and Chloe eat together! What a yummy feast!",
+          "illustration": {
+            "description": "A magical feast celebration with Chloe with short wavy strawberry-blonde hair, light skin, blue-gray eyes sitting at a large table with all her animal friends, surrounded by exaggerated proportions of sparkling, steaming food with magical effects and diverse cuisines",
+            "alt": "Chloe and all animal friends at a magical feast with sparkling food",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "healthy eating",
+      "animals",
+      "sharing",
+      "discovery"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "delicious appetizing food, exaggerated proportions, steam drips sparkles, magical food, diverse cuisines, feast celebration, cooking scenes, yummy visual, food joy"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does the bunny like to eat?",
+        "choices": [
+          "carrots",
+          "bananas"
+        ],
+        "correctIndex": 0,
+        "explanation": "The bunny loves orange carrots! Crunch, crunch, crunch!"
+      },
+      {
+        "id": "q2",
+        "question": "What does the monkey eat?",
+        "choices": [
+          "honey",
+          "bananas"
+        ],
+        "correctIndex": 1,
+        "explanation": "The monkey loves yellow bananas! Peel and eat!"
+      },
+      {
+        "id": "q3",
+        "question": "What does Chloe like to eat?",
+        "choices": [
+          "apples",
+          "fish"
+        ],
+        "correctIndex": 0,
+        "explanation": "Chloe loves apples! Red, green, and yellow!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "carrots",
+            "distractors": [
+              "bones",
+              "honey"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "bananas",
+            "distractors": [
+              "fish",
+              "carrots"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 6,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "apples",
+            "distractors": [
+              "bones",
+              "honey"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

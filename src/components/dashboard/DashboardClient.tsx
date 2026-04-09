@@ -12,6 +12,7 @@ import {
 } from "@/lib/storage";
 import type { AgeTier } from "@/lib/types";
 import { AGE_TIER_COLORS } from "@/lib/types";
+import { StreakCounter } from "@/components/shared/StreakCounter";
 
 interface BookMeta {
   id: string;
@@ -204,12 +205,17 @@ export default function DashboardClient({ books }: { books: BookMeta[] }) {
   return (
     <div className="min-h-screen bg-stone-50">
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-8 space-y-10">
-        {/* Dashboard title */}
-        <div>
-          <h1 className="text-2xl font-bold text-stone-900 font-[family-name:var(--font-lexend)]">
-            Reading Dashboard
-          </h1>
-          <p className="text-sm text-stone-500 mt-1">Track your child&apos;s reading journey</p>
+        {/* Dashboard title + streak */}
+        <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+          <div>
+            <h1 className="text-2xl font-bold text-stone-900 font-[family-name:var(--font-lexend)]">
+              Reading Dashboard
+            </h1>
+            <p className="text-sm text-stone-500 mt-1">Track your child&apos;s reading journey</p>
+          </div>
+          <div className="bg-white rounded-2xl px-5 py-3 shadow-sm border border-stone-100">
+            <StreakCounter size="md" />
+          </div>
         </div>
         {/* Stat Cards */}
         <section className="grid grid-cols-2 lg:grid-cols-4 gap-4">

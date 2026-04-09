@@ -1,0 +1,295 @@
+{
+  "id": "early_reader-animals-163",
+  "title": "Rosa and the Missing Treats",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "animals",
+    "mystery"
+  ],
+  "wordCount": 360,
+  "readingLevel": "1.2",
+  "synopsis": "When all the animal treats go missing from the park, young detective Rosa must follow the clues to solve the mystery and discover who the sneaky thief really is.",
+  "coverImage": "covers/early_reader-animals-163.webp",
+  "chapters": [
+    {
+      "title": "The Missing Treats",
+      "pages": [
+        {
+          "text": "Rosa loved going to Sunny Park with her mom. Every day, she brought treats for the animals. The squirrels got nuts. The ducks got bread crumbs. The rabbits got carrots.",
+          "illustration": {
+            "description": "A cheerful young Latina girl with curly dark hair and bright brown eyes walking through a colorful park carrying a small bag of treats. Various animals like squirrels, ducks, and rabbits are visible in the background among green trees and flowers.",
+            "alt": "Rosa walking through the park with animal treats",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "But today was different. Rosa reached into her bag. It was empty! 'Oh no!' she said. 'Where did all the treats go?' The animals looked hungry and sad.",
+          "illustration": {
+            "description": "Rosa looking shocked and worried as she holds an empty treat bag upside down. Disappointed animals gather around her including a sad squirrel, droopy-eared rabbit, and forlorn duck. The scene has muted colors to show the sad mood.",
+            "alt": "Rosa discovering her empty treat bag with sad animals around her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'This is a mystery!' Rosa said. She put on her thinking face. 'Someone took our treats. But who?' Rosa decided to look for clues like a real detective.",
+          "illustration": {
+            "description": "Rosa striking a determined detective pose with her finger to her chin in a thinking gesture. She has bright, determined eyes and a confident expression. Magnifying glass and detective hat float around her in a whimsical thought bubble style.",
+            "alt": "Rosa in detective mode, ready to solve the mystery",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Following the Clues",
+      "pages": [
+        {
+          "text": "Rosa looked around carefully. 'Look!' she said. There were tiny crumbs on the ground. The crumbs made a trail. 'The treats went this way!' Rosa followed the crumb trail.",
+          "illustration": {
+            "description": "Rosa crouched down examining a trail of colorful crumbs on a park path. She's pointing excitedly at the evidence. The crumbs sparkle slightly and form a clear path leading toward some bushes. Bright afternoon sunlight filters through the trees.",
+            "alt": "Rosa discovering and following the crumb trail",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The trail led to the big oak tree. Rosa heard strange sounds. 'Munch, munch, CRUNCH!' What could be making that noise? Rosa tiptoed closer to investigate.",
+          "illustration": {
+            "description": "Rosa sneaking quietly toward a massive oak tree with gnarled branches and lush green leaves. She's walking on her tiptoes with an excited but cautious expression. Sound effect words 'MUNCH' and 'CRUNCH' float in colorful letters near the tree.",
+            "alt": "Rosa tiptoeing toward the oak tree following mysterious sounds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Behind the tree, Rosa found more clues. There were nut shells everywhere! And carrot tops too. 'The thief was messy,' Rosa said. 'But where did they go next?'",
+          "illustration": {
+            "description": "Rosa examining scattered evidence behind the oak tree - colorful nut shells, orange carrot tops, and bread crumbs spread on the grass. She's kneeling down with a detective's focused expression, carefully studying each clue. Dappled sunlight creates interesting shadows.",
+            "alt": "Rosa investigating the messy clues behind the oak tree",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "More Clues Appear",
+      "pages": [
+        {
+          "text": "Rosa kept looking. She found tiny paw prints in the dirt. The prints were very small. 'Hmm,' Rosa said. 'These are not big animal prints. They are little animal prints!'",
+          "illustration": {
+            "description": "Rosa kneeling and pointing at tiny paw prints in brown dirt. The prints are clearly visible and small, leading away from the tree. Rosa has an 'aha!' expression with wide eyes and raised eyebrows. The prints seem to glow slightly to draw attention.",
+            "alt": "Rosa discovering small paw prints in the dirt",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The paw prints led to the pond. Rosa met her friend Jamal there. 'Hi Rosa!' said Jamal. 'Have you seen something funny? All the ducks are laughing!' Rosa listened carefully.",
+          "illustration": {
+            "description": "Rosa meeting her friend Jamal, a cheerful Black boy with short hair and a bright smile, by a sparkling blue pond. Several ducks are in the water with amused expressions, seeming to chuckle. The scene is sunny and cheerful with lily pads and reeds around the pond.",
+            "alt": "Rosa and Jamal by the pond with laughing ducks",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Quack, quack!' said Mama Duck. 'We saw a tiny bandit! It had a mask and a striped tail. It ran toward the playground with a bag full of goodies!' Now Rosa knew where to look!",
+          "illustration": {
+            "description": "A friendly mama duck with bright orange bill speaking animatedly to Rosa and Jamal. The duck has expressive eyes and is gesturing with her wing toward the playground visible in the distance. Speech bubbles show her excited quacking as she shares the important information.",
+            "alt": "Mama Duck telling Rosa and Jamal about the masked bandit",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Mystery is Solved",
+      "pages": [
+        {
+          "text": "Rosa and Jamal ran to the playground. There, under the slide, they found the treat thief! It was a little raccoon. The raccoon looked very full and very sleepy.",
+          "illustration": {
+            "description": "Rosa and Jamal peering under a colorful playground slide at a small, chubby raccoon surrounded by empty treat wrappers. The raccoon has the characteristic black mask markings and is lying on its back with a very round, satisfied belly, looking drowsy and content.",
+            "alt": "Rosa and Jamal finding the sleepy raccoon under the playground slide",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'You ate all our treats!' Rosa said. But she wasn't angry. The little raccoon looked sorry. 'Chirp, chirp,' it said sadly. Rosa had an idea. 'I know how to fix this!' she said.",
+          "illustration": {
+            "description": "Rosa kneeling down to speak gently to the apologetic raccoon, which has big, sorry-looking eyes and droopy posture. Rosa has a kind, understanding expression and is gesturing in a reassuring way. Jamal stands nearby with a curious smile. Warm, forgiving colors dominate the scene.",
+            "alt": "Rosa speaking kindly to the sorry raccoon",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The next day, Rosa brought extra treats. Some for the park animals, and some for her new friend Rascal the raccoon. Everyone was happy! Rosa solved her first mystery. 'Case closed!' she said proudly.",
+          "illustration": {
+            "description": "A joyful scene showing Rosa distributing treats to various happy animals including squirrels, ducks, rabbits, and Rascal the raccoon. All the animals are gathered around Rosa in a circle, looking content and grateful. The scene is bright and celebratory with warm golden sunlight and everyone smiling.",
+            "alt": "Rosa happily sharing treats with all the animals including Rascal",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "problem-solving",
+      "forgiveness",
+      "kindness"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Playful storybook illustration style. Rich saturated colors. Expressive characters with big eyes. Whimsical, like Pixar concept art."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Rosa bring to feed the animals?",
+        "choices": [
+          "Treats",
+          "Toys",
+          "Books"
+        ],
+        "correctIndex": 0,
+        "explanation": "Rosa brought treats for the animals - nuts for squirrels, bread crumbs for ducks, and carrots for rabbits."
+      },
+      {
+        "id": "q2",
+        "question": "What clues did Rosa find on the ground?",
+        "choices": [
+          "Flowers",
+          "Crumbs",
+          "Leaves"
+        ],
+        "correctIndex": 1,
+        "explanation": "Rosa found tiny crumbs on the ground that made a trail she could follow."
+      },
+      {
+        "id": "q3",
+        "question": "Who told Rosa about the masked bandit?",
+        "choices": [
+          "Mama Duck",
+          "A squirrel",
+          "Jamal"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama Duck saw the tiny bandit with a mask and striped tail running toward the playground."
+      },
+      {
+        "id": "q4",
+        "question": "Where did Rosa find the treat thief?",
+        "choices": [
+          "In a tree",
+          "Under the slide",
+          "By the pond"
+        ],
+        "correctIndex": 1,
+        "explanation": "Rosa and Jamal found the raccoon under the playground slide, looking very full and sleepy."
+      },
+      {
+        "id": "q5",
+        "question": "How did Rosa solve the problem?",
+        "choices": [
+          "She scolded the raccoon",
+          "She brought extra treats",
+          "She called the police"
+        ],
+        "correctIndex": 1,
+        "explanation": "Rosa brought extra treats the next day so all the animals, including Rascal the raccoon, could have some."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words",
+        "instructions": "Help Rosa tell her story by filling in the missing words!",
+        "text": "Rosa went to the park with her ___1___. She brought ___2___ for the animals. But her bag was ___3___! Rosa followed the ___4___ trail to solve the mystery. She found a little ___5___ who had eaten all the treats.",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "mom",
+            "distractors": [
+              "dad",
+              "cat"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "treats",
+            "distractors": [
+              "books",
+              "toys"
+            ]
+          },
+          {
+            "wordIndex": 3,
+            "correctWord": "empty",
+            "distractors": [
+              "full",
+              "heavy"
+            ]
+          },
+          {
+            "wordIndex": 4,
+            "correctWord": "crumb",
+            "distractors": [
+              "flower",
+              "stick"
+            ]
+          },
+          {
+            "wordIndex": 5,
+            "correctWord": "raccoon",
+            "distractors": [
+              "elephant",
+              "giraffe"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Mystery Detective Words",
+        "instructions": "Rosa used these words to solve her mystery. Pick the right ones!",
+        "text": "Detective Rosa looked for ___1___ to solve the case. She found tiny ___2___ prints in the dirt. The ___3___ told her about the masked bandit. Rosa was ___4___ when she found the answer!",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "clues",
+            "distractors": [
+              "shoes",
+              "food"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "paw",
+            "distractors": [
+              "hand",
+              "foot"
+            ]
+          },
+          {
+            "wordIndex": 3,
+            "correctWord": "ducks",
+            "distractors": [
+              "trees",
+              "rocks"
+            ]
+          },
+          {
+            "wordIndex": 4,
+            "correctWord": "happy",
+            "distractors": [
+              "angry",
+              "sleepy"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

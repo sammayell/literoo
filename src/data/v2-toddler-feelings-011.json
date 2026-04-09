@@ -1,0 +1,224 @@
+{
+  "id": "v2-toddler-feelings-011",
+  "title": "Zara's Big Feelings",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "feelings",
+    "family"
+  ],
+  "wordCount": 250,
+  "readingLevel": "Pre-K",
+  "synopsis": "Zara learns to understand and express her big feelings with help from her loving family, discovering that all emotions are okay and can be shared safely.",
+  "coverImage": "covers/v2-toddler-feelings-011.webp",
+  "chapters": [
+    {
+      "title": "Mad Like Thunder",
+      "pages": [
+        {
+          "text": "Zara was building a tall tower with her blocks. Red, blue, yellow blocks stacked up high! She was so proud of her tower.",
+          "illustration": {
+            "description": "A happy toddler girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes building a colorful block tower in a bright room with gentle yellow sunshine colors swirling in the background representing joy and contentment",
+            "alt": "Zara building blocks happily with yellow sunshine emotions around her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "CRASH! Her little brother knocked over the tower by accident. All the blocks fell down! Zara felt mad, really mad.",
+          "illustration": {
+            "description": "A toddler girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes looking upset with angry red swirls and jagged lightning patterns filling the background as scattered blocks lay on the floor",
+            "alt": "Zara feeling angry with red swirling emotions as her blocks are scattered",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The mad feeling was big and hot inside Zara. She wanted to yell and stomp! Mama came over and sat down next to her.",
+          "illustration": {
+            "description": "A caring mother sitting beside a upset toddler girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes, with intense red swirls gradually softening around the edges as mama's presence brings comfort",
+            "alt": "Mama comforting angry Zara as the red emotions begin to calm",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"It's okay to feel mad,\" Mama said softly. \"Let's take three deep breaths together.\" They breathed in and out, in and out, in and out.",
+          "illustration": {
+            "description": "Mother and daughter with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes breathing together, with the angry red swirls slowly transforming into calmer orange and pink colors in the abstract background",
+            "alt": "Zara and Mama breathing together as angry feelings start to calm",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sad Like Rain Clouds",
+      "pages": [
+        {
+          "text": "The next day, Zara's favorite stuffed bunny got lost. She looked everywhere - under her bed, in the toy box, behind the couch.",
+          "illustration": {
+            "description": "A worried toddler girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes searching around a room with gray and blue cloudy swirls beginning to form in the background representing growing sadness",
+            "alt": "Zara searching for her bunny with gray-blue emotions starting to appear",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Zara couldn't find Bunny anywhere. Tears rolled down her cheeks. She felt sad, very sad. The sad feeling made her tummy hurt.",
+          "illustration": {
+            "description": "A crying toddler girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes with tears on her face, surrounded by deep blue rain drops and storm clouds in the abstract emotional background",
+            "alt": "Zara crying with blue rain emotions falling around her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Daddy found Zara crying and gave her a big hug. \"Tell me about your sad feeling,\" he said. Zara told him about lost Bunny.",
+          "illustration": {
+            "description": "A loving father hugging a sad toddler girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes, with the blue rain emotions softening and mixing with warm purple colors as comfort arrives",
+            "alt": "Daddy hugging sad Zara as blue emotions begin to soften",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Let's look together,\" Daddy said. They found Bunny in the laundry basket! Zara hugged Bunny tight. The sad feeling floated away like clouds.",
+          "illustration": {
+            "description": "A relieved toddler girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes hugging her stuffed bunny while daddy smiles, with the blue rain clouds transforming into light, airy white and pale yellow colors",
+            "alt": "Happy Zara hugging her bunny as sad blue emotions clear away",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Happy Like Sunshine",
+      "pages": [
+        {
+          "text": "On Saturday, Grandma came to visit! Zara ran to the door when she heard the doorbell. Her heart felt light and bouncy.",
+          "illustration": {
+            "description": "An excited toddler girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes running toward a door with bright golden yellow sunshine rays and sparkles radiating throughout the background",
+            "alt": "Excited Zara running to the door with bright yellow happy emotions",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Grandma!\" Zara squealed with joy. She felt so happy, warm and giggly inside. Grandma picked her up and spun her around.",
+          "illustration": {
+            "description": "A joyful grandmother spinning around a delighted toddler girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes, surrounded by brilliant sunshine yellow colors with floating hearts and stars in the emotional background",
+            "alt": "Grandma spinning happy Zara with bright yellow joy all around",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "That night, Mama tucked Zara into bed. \"I learned about my feelings today,\" Zara said. \"Mad, sad, and happy - they're all okay!\"",
+          "illustration": {
+            "description": "A content toddler girl with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes lying in bed with her mother, surrounded by a gentle rainbow of colors - soft red, blue, and yellow swirls blending peacefully together",
+            "alt": "Zara in bed with Mama, surrounded by peaceful rainbow emotions",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotional awareness",
+      "family support",
+      "emotional regulation",
+      "feelings vocabulary"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "emotion mapped colors, angry red swirls, sad blue rain, happy yellow sunshine, abstract emotion backgrounds, Inside Out inspired, feeling visualization, color psychology"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What feeling did Zara have when her blocks fell down?",
+        "choices": [
+          "mad",
+          "happy",
+          "sleepy"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zara felt mad when her brother accidentally knocked over her tower. Mad feelings are normal when something we worked on gets broken."
+      },
+      {
+        "id": "q2",
+        "question": "What did Mama teach Zara to do when she felt mad?",
+        "choices": [
+          "take deep breaths",
+          "run away",
+          "throw toys"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama taught Zara to take three deep breaths together. Deep breathing helps calm down big mad feelings."
+      },
+      {
+        "id": "q3",
+        "question": "Why did Zara feel sad?",
+        "choices": [
+          "her bunny was lost",
+          "it was raining",
+          "she was hungry"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zara felt sad because she couldn't find her favorite stuffed bunny anywhere in the house."
+      },
+      {
+        "id": "q4",
+        "question": "What made Zara feel happy?",
+        "choices": [
+          "Grandma visiting",
+          "eating cookies",
+          "watching TV"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zara felt very happy when Grandma came to visit and gave her hugs and spun her around."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "mad",
+            "distractors": [
+              "happy",
+              "tired"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "sad",
+            "distractors": [
+              "mad",
+              "silly"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "happy",
+            "distractors": [
+              "sad",
+              "mad"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

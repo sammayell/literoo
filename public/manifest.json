@@ -1,0 +1,21 @@
+{
+  "name": "Literoo — Where Young Readers Grow",
+  "short_name": "Literoo",
+  "description": "1,000+ illustrated stories for ages 1-18 with built-in quizzes, puzzles, and AI read-aloud.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafaf9",
+  "theme_color": "#ee7a20",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

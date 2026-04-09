@@ -1,0 +1,191 @@
+{
+  "id": "v2-toddler-school-009",
+  "title": "Chloe and the Classroom Animals",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "school",
+    "animals"
+  ],
+  "wordCount": 208,
+  "readingLevel": "Pre-K",
+  "synopsis": "Join Chloe on her exciting first day of school as she discovers all the wonderful animal friends living in her classroom, from a fluffy rabbit to colorful fish, and learns how to care for them.",
+  "coverImage": "covers/v2-toddler-school-009.webp",
+  "chapters": [
+    {
+      "title": "Chloe's First Day",
+      "pages": [
+        {
+          "text": "Today is Chloe's first day of school! She puts on her favorite yellow dress and brushes her teeth. Mommy walks with her to the big red school building.",
+          "illustration": {
+            "description": "A chalkboard style drawing on a dark green board showing a little girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes wearing a yellow dress, holding her mother's hand as they walk toward a red brick school building, drawn in white and colored chalk with dusty texture and hand-drawn equations in the corners",
+            "alt": "Chloe walking to school with her mother",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "In the classroom, Chloe sees tables and chairs just her size. There are books and toys everywhere! But what makes her most excited are all the animal friends she discovers.",
+          "illustration": {
+            "description": "A chalkboard style drawing on a dark green board showing a classroom with small furniture, books, and toys, featuring a little girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes looking around excitedly, drawn in white and colored chalk with school-themed doodles and dusty texture",
+            "alt": "Chloe exploring her new classroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "First, she meets Snowball the white rabbit in his cozy cage. His nose twitches when Chloe says hello. Next to him is a big fish tank with orange and blue fish swimming in circles.",
+          "illustration": {
+            "description": "A chalkboard style drawing on a dark green board showing a little girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes looking at a white rabbit in a cage and colorful fish in a tank, drawn in white and colored chalk with warm artistic strokes and dusty hand-drawn texture",
+            "alt": "Chloe meeting the classroom rabbit and fish",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Teacher shows Chloe how to pet Snowball gently. His fur is so soft! The fish swim up to the glass when they see her. Chloe giggles with delight.",
+          "illustration": {
+            "description": "A chalkboard style drawing on a dark green board showing a teacher and a little girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes gently petting a white rabbit while fish swim nearby, drawn in white and colored chalk with school equations doodles and warm dusty texture",
+            "alt": "Chloe learning to pet the rabbit gently",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Taking Care of Friends",
+      "pages": [
+        {
+          "text": "Every morning, Chloe helps feed the animals. She gives Snowball fresh carrots and lettuce. She sprinkles special flakes into the fish tank and watches them swim up to eat.",
+          "illustration": {
+            "description": "A chalkboard style drawing on a dark green board showing a little girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes feeding carrots to a white rabbit and sprinkling fish food into a tank, drawn in white and colored chalk with school-themed doodles and artistic dusty texture",
+            "alt": "Chloe feeding the classroom animals",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Chloe learns that animals need water, food, and love every day. Just like people! She talks to Snowball and names each fish: Bubbles, Splash, and Goldie.",
+          "illustration": {
+            "description": "A chalkboard style drawing on a dark green board showing a little girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes sitting cross-legged talking to a rabbit while pointing at fish in their tank, drawn in white and colored chalk with warm hand-drawn equations and dusty texture",
+            "alt": "Chloe talking to and naming her animal friends",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "At the end of each school day, Chloe says goodbye to all her animal friends. She promises to see them tomorrow. School is the best place ever with so many friends to love!",
+          "illustration": {
+            "description": "A chalkboard style drawing on a dark green board showing a little girl with short wavy strawberry-blonde hair, light skin, blue-gray eyes waving goodbye to a rabbit and fish as she heads toward the classroom door, drawn in white and colored chalk with school-themed artistic doodles and warm dusty texture",
+            "alt": "Chloe saying goodbye to her classroom animal friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "responsibility",
+      "school readiness",
+      "animal care",
+      "kindness"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What is the name of the white rabbit in Chloe's classroom?",
+        "choices": [
+          "Snowball",
+          "Fluffy",
+          "Cotton"
+        ],
+        "correctIndex": 0,
+        "explanation": "The white rabbit's name is Snowball. Chloe meets him in his cozy cage on her first day."
+      },
+      {
+        "id": "q2",
+        "question": "What does Chloe feed to Snowball the rabbit?",
+        "choices": [
+          "Carrots and lettuce",
+          "Fish flakes",
+          "Cookies"
+        ],
+        "correctIndex": 0,
+        "explanation": "Chloe feeds Snowball fresh carrots and lettuce every morning because that's healthy food for rabbits."
+      },
+      {
+        "id": "q3",
+        "question": "How many fish does Chloe name in the story?",
+        "choices": [
+          "Three",
+          "Two",
+          "Four"
+        ],
+        "correctIndex": 0,
+        "explanation": "Chloe names three fish: Bubbles, Splash, and Goldie. She gives each fish a special name."
+      },
+      {
+        "id": "q4",
+        "question": "What does Chloe learn animals need every day?",
+        "choices": [
+          "Water, food, and love",
+          "Only food",
+          "Only water"
+        ],
+        "correctIndex": 0,
+        "explanation": "Chloe learns that animals need water, food, and love every day, just like people do."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "school",
+            "distractors": [
+              "park",
+              "store"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "yellow",
+            "distractors": [
+              "blue",
+              "red"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "rabbit",
+            "distractors": [
+              "cat",
+              "dog"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "fish",
+            "distractors": [
+              "birds",
+              "mice"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

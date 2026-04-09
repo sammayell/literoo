@@ -1,0 +1,148 @@
+{
+  "id": "v2-baby-food-019",
+  "title": "Hiro's Animal Snack Friends",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "food",
+    "animals"
+  ],
+  "wordCount": 78,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Hiro discovers different animals and the yummy snacks they love to eat, learning about foods through magical animal friends.",
+  "coverImage": "covers/v2-baby-food-019.webp",
+  "chapters": [
+    {
+      "title": "Snack Time Friends",
+      "pages": [
+        {
+          "text": "Hiro loves snack time! Today he meets animal friends who love food too.",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face sits at a colorful picnic table with steam rising from magical bowls of fruit, crackers, and milk with sparkles and drips",
+            "alt": "Hiro sitting at a magical snack table",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Bunny hops up. 'I love carrots!' says Bunny. Crunch, crunch, crunch!",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face watches a fluffy white bunny eating giant sparkly orange carrots with exaggerated proportions and magical steam",
+            "alt": "Hiro watching bunny eat carrots",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Bear waddles over. 'I love honey!' says Bear. The honey drips and sparkles.",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face sits next to a brown bear eating from a giant honey pot with golden drips and magical sparkles",
+            "alt": "Hiro and bear with honey",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Cat purrs softly. 'I love milk!' says Cat. The milk is creamy white.",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face pets an orange tabby cat drinking from a large bowl of milk with creamy swirls and sparkles",
+            "alt": "Hiro petting cat drinking milk",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Monkey swings down. 'I love bananas!' says Monkey. Yellow and sweet!",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face looks up at a brown monkey holding giant yellow bananas with magical sparkles and steam",
+            "alt": "Hiro watching monkey with bananas",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Hiro claps his hands. 'I love all the yummy foods!' All friends share and eat together happily.",
+          "illustration": {
+            "description": "Hiro with short straight black hair, light skin, bright dark brown eyes, round face sits at a feast table with bunny, bear, cat, and monkey, surrounded by carrots, honey, milk, bananas with magical sparkles and celebration",
+            "alt": "Hiro and animal friends sharing food feast",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "sharing",
+      "healthy eating",
+      "animal sounds",
+      "food exploration"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "delicious appetizing food, exaggerated proportions, steam drips sparkles, magical food, diverse cuisines, feast celebration, cooking scenes, yummy visual, food joy"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Bunny love to eat?",
+        "choices": [
+          "carrots",
+          "bananas"
+        ],
+        "correctIndex": 0,
+        "explanation": "Bunny says 'I love carrots!' and goes crunch, crunch, crunch!"
+      },
+      {
+        "id": "q2",
+        "question": "What does Bear love to eat?",
+        "choices": [
+          "milk",
+          "honey"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bear loves honey that drips and sparkles!"
+      },
+      {
+        "id": "q3",
+        "question": "What do all the friends do at the end?",
+        "choices": [
+          "share food together",
+          "run away"
+        ],
+        "correctIndex": 0,
+        "explanation": "All the animal friends share and eat together happily with Hiro!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "carrots",
+            "distractors": [
+              "cookies",
+              "pizza"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "honey",
+            "distractors": [
+              "water",
+              "soup"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

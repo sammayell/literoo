@@ -1,0 +1,142 @@
+{
+  "id": "v2-baby-sounds-017",
+  "title": "Amara's Sound Safari",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "sounds",
+    "counting"
+  ],
+  "wordCount": 50,
+  "readingLevel": "Pre-K",
+  "synopsis": "Join Amara as she discovers different sounds around her home, counting from one to five while exploring the magical world of noise through colors and shapes.",
+  "coverImage": "covers/v2-baby-sounds-017.webp",
+  "chapters": [
+    {
+      "title": "Counting Sounds",
+      "pages": [
+        {
+          "text": "One clock goes TICK TOCK! Amara hears the sound.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes stands next to a wall clock. Golden circular waves emanate from the clock in steady pulses, creating concentric rings of warm yellow and orange light.",
+            "alt": "Amara listening to a clock with visible golden sound waves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Two birds go TWEET TWEET! Up in the sky.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes looks up at two small birds. Bright blue and purple dots float down from the birds like musical confetti, creating a shower of tiny colorful circles.",
+            "alt": "Amara watching two birds with colorful sound dots falling",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Three pots go BANG BANG BANG! In the kitchen.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes stands in a kitchen with three pots. Sharp red and orange jagged lightning bolts burst from each pot, creating explosive star-shaped patterns in the air.",
+            "alt": "Amara in kitchen with pots making jagged sound shapes",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Four cats go MEOW softly. Amara counts them all.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes sits surrounded by four fluffy cats. Gentle pink and lavender curved lines flow from each cat's mouth like soft ribbons dancing in the breeze.",
+            "alt": "Amara counting four cats with soft curved sound ribbons",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Five instruments make music! DING DONG BOOM TAP SHAKE! What beautiful sounds Amara found!",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, large sparkling dark eyes dances among five musical instruments. A rainbow explosion of shapes fills the air - golden circles from bells, silver zigzags from drums, green spirals from shakers, creating a symphony of visible sound.",
+            "alt": "Amara dancing with five instruments creating rainbow sound shapes",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "counting",
+      "sounds",
+      "exploration",
+      "home environment"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "sound made visible, wavy lines for music, jagged lines for crashes, dots for whispers, synesthesia inspired, seeing sound, color and shape for noise, vibration visual"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How many birds did Amara hear?",
+        "choices": [
+          "One",
+          "Two",
+          "Three"
+        ],
+        "correctIndex": 1,
+        "explanation": "Amara heard two birds going TWEET TWEET in the sky!"
+      },
+      {
+        "id": "q2",
+        "question": "What sound did the clock make?",
+        "choices": [
+          "MEOW",
+          "TICK TOCK",
+          "BANG"
+        ],
+        "correctIndex": 1,
+        "explanation": "The clock went TICK TOCK!"
+      },
+      {
+        "id": "q3",
+        "question": "How many cats said MEOW?",
+        "choices": [
+          "Three",
+          "Four",
+          "Five"
+        ],
+        "correctIndex": 1,
+        "explanation": "Four cats said MEOW softly to Amara!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "TICK",
+            "distractors": [
+              "MEOW",
+              "BANG"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "Two",
+            "distractors": [
+              "One",
+              "Five"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

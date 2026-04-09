@@ -13,7 +13,7 @@
   "wordCount": 444,
   "readingLevel": "Grade 1-2",
   "synopsis": "When Yuki finds a mysterious treasure map in her grandmother's attic, she embarks on a hilarious backyard adventure filled with silly obstacles and surprising discoveries.",
-  "coverImage": "covers/test-early-reader-001.webp",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-early-reader-001/cover.png",
   "chapters": [
     {
       "title": "The Mystery Map",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes holds up an ancient-looking scroll in a dusty attic. The scroll has dotted lines and mysterious symbols drawn on aged parchment. Golden sunlight streams through a small attic window.",
             "alt": "Yuki holding a treasure map in grandmother's attic",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-early-reader-001/scene_1_1.png"
           }
         },
         {
@@ -31,7 +32,8 @@
           "illustration": {
             "description": "Close-up of the treasure map showing a winding dotted trail on aged parchment. Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes points to the red X with her finger. A compass rose decorates the corner of the map in sepia tones.",
             "alt": "Yuki examining the treasure map with dotted trail and red X",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-early-reader-001/scene_1_2.png"
           }
         },
         {
@@ -39,7 +41,8 @@
           "illustration": {
             "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes grins excitedly while rolling up the map. Grandma stands beside her smiling warmly in the golden attic light. Dust motes float in the air creating a magical atmosphere.",
             "alt": "Yuki and Grandma in the attic, Yuki rolling up the treasure map",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-early-reader-001/scene_1_3.png"
           }
         }
       ]
@@ -52,7 +55,8 @@
           "illustration": {
             "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes stands next to a massive oak tree, holding the map and looking around the backyard. The scene has warm sepia tones with green jewel accents from the leaves above.",
             "alt": "Yuki standing by the oak tree with her treasure map",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-early-reader-001/scene_2_1.png"
           }
         },
         {
@@ -60,7 +64,8 @@
           "illustration": {
             "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes tilts her head sideways looking at a large gray rock. A dotted trail appears to lead from her position toward the distance on the aged parchment-style background.",
             "alt": "Yuki examining a gray rock, wondering if it's the bear rock from the map",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-early-reader-001/scene_2_2.png"
           }
         },
         {
@@ -68,7 +73,8 @@
           "illustration": {
             "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes points excitedly at the rock while holding her map. The rock is now highlighted with a golden glow, and a compass rose appears in the corner showing her direction.",
             "alt": "Yuki pointing at the bear-shaped rock with her treasure map",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-early-reader-001/scene_2_3.png"
           }
         }
       ]
@@ -81,7 +87,8 @@
           "illustration": {
             "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes peers cautiously at a small wooden shed with the door slightly open. Golden light streams from the crack, making it look mysterious and cave-like on the parchment-toned background.",
             "alt": "Yuki approaching a mysterious shed that looks like a cave entrance",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-early-reader-001/scene_3_1.png"
           }
         },
         {
@@ -89,7 +96,8 @@
           "illustration": {
             "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes takes a surprised step backward from the shed door. Her eyes are wide with excitement and a little fear. Mystery swirls around the dark doorway in sepia tones.",
             "alt": "Yuki jumping back in surprise from mysterious sounds in the shed",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-early-reader-001/scene_3_2.png"
           }
         },
         {
@@ -97,7 +105,8 @@
           "illustration": {
             "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes bravely opens the shed door wider. Inside, garden tools and pots are visible, and a small wooden treasure chest sits on a shelf, highlighted with golden jewel tones.",
             "alt": "Yuki opening the shed door and discovering a wooden box inside",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-early-reader-001/scene_3_3.png"
           }
         }
       ]
@@ -110,7 +119,8 @@
           "illustration": {
             "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes holds the opened wooden box, her face glowing with wonder. Inside, old coins and colorful marbles sparkle with jewel tones against the aged parchment atmosphere.",
             "alt": "Yuki opening the treasure box and finding coins, marbles, and a note",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-early-reader-001/scene_4_1.png"
           }
         },
         {
@@ -118,7 +128,8 @@
           "illustration": {
             "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes reads the note with amazement. The note appears on aged parchment with elegant old-fashioned writing. Her expression shows surprise and delight at the discovery.",
             "alt": "Yuki reading the note from her great-grandfather about the hidden treasure",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-early-reader-001/scene_4_2.png"
           }
         },
         {
@@ -126,7 +137,8 @@
           "illustration": {
             "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes shows the treasure box to Grandma, both of them smiling with joy. The scene is warm with golden sepia tones and the compass rose from the original map appears faintly in the background, completing the adventure.",
             "alt": "Yuki and Grandma celebrating the successful treasure hunt together",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-early-reader-001/scene_4_3.png"
           }
         }
       ]

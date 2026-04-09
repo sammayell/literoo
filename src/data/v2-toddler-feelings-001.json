@@ -1,0 +1,203 @@
+{
+  "id": "v2-toddler-feelings-001",
+  "title": "Emma's Big Feelings",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "feelings",
+    "family"
+  ],
+  "wordCount": 241,
+  "readingLevel": "Pre-K",
+  "synopsis": "Emma learns to understand and express her big feelings with the help of her loving family, discovering that all emotions are okay to feel.",
+  "coverImage": "covers/v2-toddler-feelings-001.webp",
+  "chapters": [
+    {
+      "title": "Mad Like a Storm",
+      "pages": [
+        {
+          "text": "Emma was playing with her favorite blocks when her baby brother knocked them down. CRASH! All her hard work was gone. Emma felt something big and hot growing inside her chest.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks stands among scattered colorful blocks, surrounded by swirling angry red colors and jagged lightning-like patterns representing her frustration",
+            "alt": "Emma looking upset with red swirls around her after her blocks fell down",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Emma's face turned red. She stomped her feet and yelled, 'NO! NO! NO!' The angry feeling was like a storm inside her. Mama came over and sat down beside Emma on the floor.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks stomping with her mouth open in a yell, surrounded by dark red storm clouds and swirling angry patterns while Mama approaches with gentle yellow light around her",
+            "alt": "Emma having a tantrum with red storm colors while Mama comes to help",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'You're feeling mad,' Mama said softly. 'Mad is okay. Let's take deep breaths together.' Emma breathed in and out with Mama. Slowly, the red storm feelings began to calm down.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks sitting close to Mama, both taking deep breaths as the angry red swirls gradually fade to softer pink and orange colors",
+            "alt": "Emma and Mama breathing together as the angry red colors become calmer",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sad Like Rain",
+      "pages": [
+        {
+          "text": "Later, Emma's grandpa had to go home after visiting. Emma loved Grandpa so much. She didn't want him to leave. Her bottom lip started to wobble.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks looking sad at the doorway as Grandpa waves goodbye, surrounded by gentle blue rain drops and cloudy blue-gray colors",
+            "alt": "Emma looking sad with blue rain colors as Grandpa leaves",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Tears rolled down Emma's cheeks like little raindrops. The sad feeling was heavy and blue, like rain clouds in her heart. Daddy picked Emma up and gave her a big, warm hug.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks crying in Daddy's arms, surrounded by soft blue raindrops and gentle blue waves, with warm golden light from Daddy's embrace",
+            "alt": "Emma crying with blue rain colors while Daddy hugs her",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Sad is okay too,' Daddy whispered. 'We can miss people we love.' Emma snuggled closer and felt the blue rain slowly stop falling. Love felt warm and golden around her.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks cuddling peacefully with Daddy as the blue rain fades away and is replaced by warm golden sunshine colors",
+            "alt": "Emma feeling better with golden warm colors replacing the blue rain",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Happy Like Sunshine",
+      "pages": [
+        {
+          "text": "At dinner, the whole family was together. Emma told them about her big feelings day. 'I was mad like a storm, then sad like rain,' she said proudly.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks sitting at the dinner table with her family, surrounded by bright yellow sunshine colors and sparkles as she shares her feelings",
+            "alt": "Emma happily talking to her family at dinner with bright yellow sunshine colors",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'And now you're happy like sunshine!' Mama smiled. Emma giggled. The happy feeling was bright yellow and warm, like sunshine dancing in her belly. All feelings were okay in Emma's family.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks laughing joyfully with her whole family around the dinner table, surrounded by brilliant yellow sunshine rays, golden sparkles, and rainbow colors representing all emotions together",
+            "alt": "Emma and her family laughing together with bright yellow sunshine and rainbow colors",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotional awareness",
+      "family support",
+      "feelings validation",
+      "emotional regulation"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "emotion mapped colors, angry red swirls, sad blue rain, happy yellow sunshine, abstract emotion backgrounds, Inside Out inspired, feeling visualization, color psychology"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What made Emma feel mad like a storm?",
+        "choices": [
+          "Her baby brother knocked down her blocks",
+          "She was hungry",
+          "It was raining outside"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emma felt mad when her baby brother knocked down the blocks she was playing with."
+      },
+      {
+        "id": "q2",
+        "question": "What did Mama teach Emma to do when she felt mad?",
+        "choices": [
+          "Take deep breaths",
+          "Run away",
+          "Throw toys"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama taught Emma to take deep breaths together to help calm down the angry feelings."
+      },
+      {
+        "id": "q3",
+        "question": "Why did Emma feel sad like rain?",
+        "choices": [
+          "Grandpa had to go home",
+          "She lost her toy",
+          "She was tired"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emma felt sad because she loved Grandpa and didn't want him to leave after his visit."
+      },
+      {
+        "id": "q4",
+        "question": "How did Emma's family help her with big feelings?",
+        "choices": [
+          "They listened and gave hugs",
+          "They told her to stop crying",
+          "They went away"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emma's family helped by listening to her feelings, giving hugs, and showing her that all feelings are okay."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "mad",
+            "distractors": [
+              "happy",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "storm",
+            "distractors": [
+              "flower",
+              "cookie"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "sad",
+            "distractors": [
+              "mad",
+              "silly"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "rain",
+            "distractors": [
+              "snow",
+              "stars"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

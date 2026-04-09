@@ -1,0 +1,148 @@
+{
+  "id": "v2-baby-peek-a-boo-008",
+  "title": "Theo's Sleepy Peek-a-Boo",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "peek-a-boo",
+    "bedtime"
+  ],
+  "wordCount": 75,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Theo plays peek-a-boo with his bedtime friends, discovering who's hiding behind curtains, blankets, and doors as he gets ready for sleep.",
+  "coverImage": "covers/v2-baby-peek-a-boo-008.webp",
+  "chapters": [
+    {
+      "title": "Bedtime Hide and Seek",
+      "pages": [
+        {
+          "text": "Time for bed, little Theo! But wait... who's hiding behind the curtain?",
+          "illustration": {
+            "description": "Theo with short curly blonde hair, light skin, round blue eyes standing in a cozy bedroom with a partially drawn curtain hiding something mysterious behind it",
+            "alt": "Theo looking curiously at a curtain in his bedroom",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! It's Teddy Bear! He was hiding and waiting to say goodnight.",
+          "illustration": {
+            "description": "Theo with short curly blonde hair, light skin, round blue eyes pulling back the curtain to reveal a smiling brown teddy bear partially hidden behind the fabric",
+            "alt": "Theo discovering his teddy bear behind the curtain",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Now who's under the soft blanket on Theo's bed? Someone is hiding there!",
+          "illustration": {
+            "description": "Theo with short curly blonde hair, light skin, round blue eyes approaching his bed where a mysterious lump is partially concealed under a blue blanket",
+            "alt": "Theo looking at something hiding under his blanket",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! It's Bunny! She's keeping the bed warm and cozy for sleepy time.",
+          "illustration": {
+            "description": "Theo with short curly blonde hair, light skin, round blue eyes lifting the blanket to reveal a white stuffed bunny that was playfully concealed underneath",
+            "alt": "Theo finding his bunny under the blanket",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "One more friend is hiding! Can you see behind the bedroom door?",
+          "illustration": {
+            "description": "Theo with short curly blonde hair, light skin, round blue eyes peeking around a partially open bedroom door with something hiding in the shadowy space behind it",
+            "alt": "Theo looking behind his bedroom door",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Peek-a-boo! It's Mama! She's here for bedtime kisses and sweet dreams. Goodnight, Theo!",
+          "illustration": {
+            "description": "Theo with short curly blonde hair, light skin, round blue eyes being tucked into bed by his mama, with teddy bear and bunny partially visible under the covers in a warm, dimly lit room",
+            "alt": "Theo getting tucked in by mama with his stuffed animals",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "peek-a-boo games",
+      "comfort objects",
+      "family bonding",
+      "going to sleep"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "lift the flap inspired, partially hidden objects, peek-a-boo composition, hiding and revealing, interactive feel, surprise element, behind the curtain, playful concealment"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Who was hiding behind the curtain?",
+        "choices": [
+          "Teddy Bear",
+          "Bunny"
+        ],
+        "correctIndex": 0,
+        "explanation": "Teddy Bear was hiding behind the curtain waiting to say goodnight to Theo!"
+      },
+      {
+        "id": "q2",
+        "question": "Where was Bunny hiding?",
+        "choices": [
+          "Under the blanket",
+          "Behind the door"
+        ],
+        "correctIndex": 0,
+        "explanation": "Bunny was hiding under the blanket, keeping Theo's bed warm and cozy!"
+      },
+      {
+        "id": "q3",
+        "question": "Who came to tuck Theo into bed?",
+        "choices": [
+          "Mama",
+          "Papa"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mama came from behind the door to give Theo bedtime kisses and tuck him in!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "Teddy",
+            "distractors": [
+              "Bunny",
+              "Kitty"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "Bunny",
+            "distractors": [
+              "Teddy",
+              "Puppy"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

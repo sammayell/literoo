@@ -1,0 +1,171 @@
+{
+  "id": "v2-toddler-animals-002",
+  "title": "Finn's Safari Adventure",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "animals",
+    "adventure"
+  ],
+  "wordCount": 134,
+  "readingLevel": "Toddler",
+  "synopsis": "Little Finn goes on an exciting safari adventure where he meets friendly animals and learns about the savanna. A heartwarming journey of discovery and friendship.",
+  "coverImage": "covers/v2-toddler-animals-002.webp",
+  "chapters": [
+    {
+      "title": "Finn Goes on Safari",
+      "pages": [
+        {
+          "text": "Finn was very excited! Today he was going on his first safari adventure. He put on his big hat and grabbed his toy binoculars.",
+          "illustration": {
+            "description": "A young boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes wearing a safari hat and holding toy binoculars, standing next to a safari jeep painted in gouache with thick brushstrokes, warm savanna colors in the background with golden grass and orange sunset, bold confident strokes",
+            "alt": "Finn ready for safari adventure with hat and binoculars",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The safari jeep bumped and bounced across the golden grassland. Finn looked everywhere for animals. Where could they be hiding?",
+          "illustration": {
+            "description": "A safari jeep driving through tall golden grass with a boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes looking out eagerly, painted in gouache with thick brushstrokes, warm savanna colors, textured painterly style with orange sunset in background, bold confident strokes",
+            "alt": "Finn riding in safari jeep through grassland",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Meeting New Friends",
+      "pages": [
+        {
+          "text": "Suddenly, Finn saw a tall giraffe! The giraffe bent down its long neck to say hello. 'Hi there, little one!' said the friendly giraffe.",
+          "illustration": {
+            "description": "A tall expressive giraffe bending down to greet a small boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes, painted in gouache with thick brushstrokes, warm savanna colors, textured painterly style with golden grass around them, bold confident strokes",
+            "alt": "Finn meeting a friendly giraffe",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Next, Finn met a family of zebras. The baby zebra wanted to play! They ran and laughed together in the warm sunshine.",
+          "illustration": {
+            "description": "A boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes playing with a small zebra while adult zebras watch nearby, painted in gouache with thick brushstrokes, warm savanna colors, golden grass, orange sunset, expressive animals, textured painterly style, bold confident strokes",
+            "alt": "Finn playing with zebra family",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Best Day Ever",
+      "pages": [
+        {
+          "text": "As the sun began to set, Finn saw elephants splashing in a watering hole. They sprayed water everywhere! Finn giggled with joy.",
+          "illustration": {
+            "description": "Expressive elephants splashing in water while a boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes watches and laughs, painted in gouache with thick brushstrokes, warm savanna colors, orange sunset, textured painterly style, bold confident strokes",
+            "alt": "Finn watching elephants splash in water",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Finn waved goodbye to all his new animal friends. What an amazing safari adventure! He couldn't wait to come back again soon.",
+          "illustration": {
+            "description": "A boy with messy sandy-blonde hair, pale skin with freckles, blue-green eyes waving from a safari jeep while giraffe, zebras, and elephants wave back in the distance, painted in gouache with thick brushstrokes, warm savanna colors, golden grass, orange sunset, expressive animals, textured painterly style, bold confident strokes",
+            "alt": "Finn waving goodbye to all his animal friends",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "adventure",
+      "animals",
+      "nature exploration"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Finn wear on his safari adventure?",
+        "choices": [
+          "a big hat",
+          "a red shirt",
+          "sneakers"
+        ],
+        "correctIndex": 0,
+        "explanation": "Finn put on his big hat for his safari adventure to protect him from the sun."
+      },
+      {
+        "id": "q2",
+        "question": "Which animal did Finn meet first?",
+        "choices": [
+          "elephant",
+          "giraffe",
+          "zebra"
+        ],
+        "correctIndex": 1,
+        "explanation": "The giraffe was the first animal Finn met, and it bent down its long neck to say hello."
+      },
+      {
+        "id": "q3",
+        "question": "What were the elephants doing?",
+        "choices": [
+          "splashing in water",
+          "eating grass",
+          "sleeping"
+        ],
+        "correctIndex": 0,
+        "explanation": "The elephants were splashing in a watering hole and spraying water everywhere."
+      },
+      {
+        "id": "q4",
+        "question": "How did Finn feel about his safari?",
+        "choices": [
+          "scared",
+          "happy",
+          "tired"
+        ],
+        "correctIndex": 1,
+        "explanation": "Finn was very happy and excited about his amazing safari adventure with all the friendly animals."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "giraffe",
+            "distractors": [
+              "elephant",
+              "monkey"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "zebras",
+            "distractors": [
+              "lions",
+              "birds"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

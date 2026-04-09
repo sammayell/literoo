@@ -14,9 +14,19 @@ const literata = Literata({
 });
 
 export const metadata: Metadata = {
-  title: "Literoo — Stories That Grow With Your Child",
+  title: {
+    default: "Literoo — Stories That Grow With Your Child",
+    template: "%s | Literoo",
+  },
   description:
     "1,000+ illustrated stories for ages 1-18. AI-crafted, educator-reviewed. From bedtime board books to young adult thrillers.",
+  manifest: "/manifest.json",
+  metadataBase: new URL("https://literoo.com"),
+  openGraph: {
+    type: "website",
+    siteName: "Literoo",
+    locale: "en_US",
+  },
 };
 
 export default function RootLayout({

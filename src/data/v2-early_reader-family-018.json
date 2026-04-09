@@ -1,0 +1,290 @@
+{
+  "id": "v2-early_reader-family-018",
+  "title": "Yuki's Kitchen Adventure",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "family",
+    "adventure"
+  ],
+  "wordCount": 616,
+  "readingLevel": "K-1",
+  "synopsis": "When Yuki's family prepares for Grandma's birthday party, she embarks on a kitchen adventure helping to make special dumplings, learning about family traditions and discovering the magic of cooking together.",
+  "coverImage": "covers/v2-early_reader-family-018.webp",
+  "chapters": [
+    {
+      "title": "A Special Day",
+      "pages": [
+        {
+          "text": "Yuki woke up to the smell of something wonderful. She rubbed her eyes and stretched her arms. Today was Grandma's birthday! Yuki jumped out of bed and ran to the kitchen. Mom was already there, mixing flour in a big yellow bowl.",
+          "illustration": {
+            "description": "A girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes in pajamas running into a bright kitchen where her mother is mixing flour in a yellow bowl, warm morning sunlight streaming through windows, cozy kitchen atmosphere",
+            "alt": "Yuki running into the kitchen where Mom is cooking",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Good morning, Yuki!' said Mom with a smile. 'We have a big day ahead of us. We're making Grandma's favorite dumplings for her party tonight.' Yuki's eyes grew wide with excitement. She loved helping in the kitchen, even though she was still learning.",
+          "illustration": {
+            "description": "A girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes looking excited while her mother smiles at her in the kitchen, steam rising from pots on the stove, warm orange lighting, flour dusting the counter",
+            "alt": "Mom telling Yuki about making dumplings for Grandma's birthday",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Can I help? Can I help?' Yuki asked, bouncing on her toes. Mom laughed and nodded. 'Of course! But first, you need to get dressed and eat breakfast. Making dumplings is hard work, and you'll need lots of energy.' Yuki raced back to her room to get ready.",
+          "illustration": {
+            "description": "A girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes bouncing excitedly on her toes in the kitchen while her mother laughs, kitchen counter covered with flour and cooking supplies, warm yellow light filling the cozy space",
+            "alt": "Yuki excitedly asking to help her mother cook",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Learning to Mix",
+      "pages": [
+        {
+          "text": "After breakfast, Mom tied a colorful apron around Yuki's waist. It was too big and almost touched the floor! 'First,' said Mom, 'we need to make the dough for the dumpling wrappers. This takes strong arms and patience.' Yuki rolled up her sleeves.",
+          "illustration": {
+            "description": "A girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes wearing an oversized colorful apron that reaches almost to the floor, standing next to her mother in the kitchen, both wearing aprons and ready to cook",
+            "alt": "Yuki wearing a big apron, ready to help make dumplings",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mom showed Yuki how to mix the flour and water together. 'Stir slowly in circles,' Mom said, guiding Yuki's hands. The mixture was sticky at first, but as they stirred, it started to look like real dough. Yuki's arms got tired, but she didn't give up.",
+          "illustration": {
+            "description": "A girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes stirring dough in a large bowl with her mother's hands gently guiding hers, flour scattered on the counter, warm kitchen lighting creating a cozy cooking scene",
+            "alt": "Mom teaching Yuki how to mix dumpling dough",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Great job, Yuki!' said Mom. 'Now we need to knead the dough. That means we push it and fold it many times until it's smooth.' They took turns pushing and folding. The dough felt soft and stretchy in Yuki's small hands. She giggled as flour puffed up around them.",
+          "illustration": {
+            "description": "A girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes kneading dough with her hands while her mother watches proudly, flour puffing in the air around them, warm orange kitchen atmosphere with steam visible",
+            "alt": "Yuki kneading dough with flour puffing around her",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Filling Adventure",
+      "pages": [
+        {
+          "text": "While the dough rested, it was time to make the filling. Dad came into the kitchen carrying bags of fresh vegetables. 'I got everything from Grandma's favorite list,' he said. There were green cabbage, carrots, mushrooms, and green onions. Yuki had never seen so many vegetables!",
+          "illustration": {
+            "description": "A girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes looking amazed at colorful fresh vegetables spread across the kitchen counter while her father and mother organize them, warm yellow kitchen lighting, cozy family cooking scene",
+            "alt": "Dad bringing fresh vegetables for the dumpling filling",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mom gave Yuki a special job. 'You can wash the vegetables in this colander,' she said, showing Yuki the metal bowl with holes. Yuki carefully washed each vegetable under the cool water. She made sure to get all the dirt off the carrots and mushrooms. It was like giving them a bath!",
+          "illustration": {
+            "description": "A girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes washing vegetables in a metal colander at the kitchen sink, water splashing gently, warm cozy kitchen with steam and flour visible in the background",
+            "alt": "Yuki washing vegetables in a colander at the sink",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Next came the chopping. Mom and Dad used big knives to cut the vegetables into tiny pieces. Yuki watched carefully from her stool. 'When you're older, you can help with this part too,' said Mom. The kitchen smelled amazing as they mixed all the chopped vegetables together in a huge bowl.",
+          "illustration": {
+            "description": "A girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes standing on a stool watching her parents chop vegetables, kitchen counter covered with colorful diced vegetables, warm orange lighting, cozy family cooking atmosphere",
+            "alt": "Yuki watching her parents chop vegetables for the filling",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Making Magic Together",
+      "pages": [
+        {
+          "text": "Now came the best part - making the actual dumplings! Mom rolled the dough into long snakes, then cut them into small pieces. Each piece became a little circle when rolled flat. 'This is your job, Yuki,' said Mom. 'Put a spoonful of filling in the middle of each circle.'",
+          "illustration": {
+            "description": "A girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes carefully placing spoonfuls of colorful vegetable filling onto small round pieces of dough, kitchen table covered with dumpling-making supplies, warm cozy lighting",
+            "alt": "Yuki adding filling to dumpling wrappers",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Mom showed Yuki how to fold the dumplings. 'Wet your finger with water and brush it around the edge. Then fold it like this and pinch tight.' Yuki's first dumpling looked a little funny, but Mom said it was perfect. Soon, Yuki got better and better at making them.",
+          "illustration": {
+            "description": "A girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes concentrating on folding a dumpling while her mother demonstrates the technique, kitchen table scattered with flour and finished dumplings in neat rows",
+            "alt": "Mom teaching Yuki how to fold and seal dumplings",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The whole family worked together. Dad helped fold dumplings too. They lined them up on trays like little soldiers. 'Look how many we made!' said Yuki, counting on her fingers. There were more dumplings than she could count! The kitchen was messy but filled with love and laughter.",
+          "illustration": {
+            "description": "A girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes standing proudly next to trays full of handmade dumplings with her parents in a flour-dusted kitchen, warm yellow lighting, cozy family cooking scene with visible steam and homemade food",
+            "alt": "The family admiring all the dumplings they made together",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When Grandma arrived for dinner, she gasped with joy. 'Did you make all these beautiful dumplings?' she asked Yuki. 'I helped!' Yuki said proudly. As they all sat around the dining table eating the warm, delicious dumplings, Yuki felt happy inside. Cooking together was the best adventure of all.",
+          "illustration": {
+            "description": "A girl with straight black hair with a red headband, light skin, almond-shaped dark brown eyes sitting at a dining table with her family and grandma, steaming plates of dumplings in the center, warm orange lighting, cozy family gathering with everyone smiling and enjoying homemade food",
+            "alt": "The family enjoying the dumplings together at dinner with Grandma",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonding",
+      "cooking together",
+      "helping others",
+      "learning new skills",
+      "tradition",
+      "perseverance"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What special occasion were they cooking for?",
+        "choices": [
+          "Grandma's birthday",
+          "Yuki's birthday",
+          "Mom's birthday"
+        ],
+        "correctIndex": 0,
+        "explanation": "The family was making dumplings for Grandma's birthday party."
+      },
+      {
+        "id": "q2",
+        "question": "What did Yuki wear while cooking?",
+        "choices": [
+          "A hat",
+          "A colorful apron",
+          "New shoes"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mom tied a colorful apron around Yuki's waist that was almost too big for her."
+      },
+      {
+        "id": "q3",
+        "question": "What was Yuki's job when making the filling?",
+        "choices": [
+          "Chopping vegetables",
+          "Washing vegetables",
+          "Cooking vegetables"
+        ],
+        "correctIndex": 1,
+        "explanation": "Yuki's special job was to wash the vegetables in a colander at the sink."
+      },
+      {
+        "id": "q4",
+        "question": "How did they seal the dumplings?",
+        "choices": [
+          "With tape",
+          "By pinching the edges",
+          "With glue"
+        ],
+        "correctIndex": 1,
+        "explanation": "They wet the edges with water and then folded and pinched them tight to seal the dumplings."
+      },
+      {
+        "id": "q5",
+        "question": "How did Yuki feel at the end?",
+        "choices": [
+          "Tired and sad",
+          "Happy and proud",
+          "Angry and upset"
+        ],
+        "correctIndex": 1,
+        "explanation": "Yuki felt happy inside and proud that she helped make the dumplings for Grandma's birthday."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "smell",
+            "distractors": [
+              "sound",
+              "sight"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "birthday",
+            "distractors": [
+              "party",
+              "dinner"
+            ]
+          },
+          {
+            "wordIndex": 23,
+            "correctWord": "kitchen",
+            "distractors": [
+              "bedroom",
+              "bathroom"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "dumplings",
+            "distractors": [
+              "cookies",
+              "cake"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "helping",
+            "distractors": [
+              "eating",
+              "sleeping"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "apron",
+            "distractors": [
+              "hat",
+              "shirt"
+            ]
+          },
+          {
+            "wordIndex": 14,
+            "correctWord": "dough",
+            "distractors": [
+              "soup",
+              "juice"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

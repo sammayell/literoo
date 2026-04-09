@@ -1,0 +1,251 @@
+{
+  "id": "early_reader-adventure-001",
+  "title": "Emma's Magic Door",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "adventure",
+    "fantasy"
+  ],
+  "wordCount": 451,
+  "readingLevel": "1.2",
+  "synopsis": "Emma discovers a magical door in her grandmother's attic that leads to a whimsical world where she must help a lost dragon find his way home.",
+  "coverImage": "covers/early_reader-adventure-001.webp",
+  "chapters": [
+    {
+      "title": "The Magic Door",
+      "pages": [
+        {
+          "text": "Emma loved visiting Grandma Rosa's old house. It had creaky stairs and dusty rooms full of treasures. Today, Emma wanted to explore the attic. 'Can I go upstairs, Grandma?' Emma asked. 'Of course, mija,' said Grandma Rosa with a warm smile. 'But be careful up there.'",
+          "illustration": {
+            "description": "A cozy living room with Emma, a curious 6-year-old girl with curly brown hair and bright brown eyes, talking to her grandmother Rosa, an elderly Latina woman with silver hair in a bun wearing a colorful shawl. The room has warm golden lighting and family photos on the walls.",
+            "alt": "Emma talking to her grandmother in a cozy living room",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Emma climbed the wooden stairs. Each step made a funny sound. Creak! Squeak! Creak! She giggled. The attic was dark and full of old boxes and furniture. Emma turned on her flashlight. The beam danced across the room. Then she saw something amazing.",
+          "illustration": {
+            "description": "Emma climbing creaky wooden stairs with a small flashlight in her hand, looking excited and adventurous. The stairway is dimly lit with warm brown wood tones and golden light filtering from below. Her expression shows wonder and determination.",
+            "alt": "Emma climbing the creaky attic stairs with a flashlight",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Behind an old rocking chair was a small purple door. It sparkled like stars! Emma had never seen it before. The door had a golden handle shaped like a butterfly. 'That's weird,' Emma whispered. 'Grandma never told me about this door.' She reached out to touch the handle.",
+          "illustration": {
+            "description": "A magical purple door covered in sparkling stars and glitter, with an ornate golden butterfly-shaped handle. Emma stands in front of it in the dusty attic, her eyes wide with amazement. The door glows with a soft purple and gold light against the dark wooden attic background.",
+            "alt": "Emma discovering a magical sparkling purple door in the attic",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Through the Door",
+      "pages": [
+        {
+          "text": "Emma turned the butterfly handle. Click! The door opened with a whoosh of rainbow light. On the other side was a beautiful meadow with giant flowers and floating clouds. 'Whoa!' Emma gasped. A friendly voice called out, 'Hello there! I'm Kai!' A boy with bright red hair waved at her.",
+          "illustration": {
+            "description": "Emma stepping through the magical door into a vibrant fantasy meadow with enormous colorful flowers, floating cotton candy clouds, and rainbow light streaming everywhere. Kai, a cheerful boy with bright red hair and freckles wearing a green tunic, waves enthusiastically. The scene is bursting with magical colors - purples, pinks, blues, and golds.",
+            "alt": "Emma entering a magical meadow and meeting Kai",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Emma stepped through the door. The grass felt soft like marshmallows. Everything was bigger and brighter here. 'Where am I?' Emma asked. 'This is the Land of Wonders,' said Kai. 'But we have a problem. Spark the baby dragon is lost! Will you help us find him?' Emma nodded. 'Yes! I love adventures!'",
+          "illustration": {
+            "description": "Emma and Kai standing in the fantastical Land of Wonders with marshmallow-soft grass, oversized mushrooms, and crystal-clear streams. Emma looks excited and determined while Kai points toward a distant forest. The landscape is filled with vibrant greens, blues, and magical sparkles in the air.",
+            "alt": "Emma and Kai in the magical Land of Wonders planning their adventure",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "They heard a sad little roar. 'Roooooar!' It came from behind the giant sunflowers. Emma and Kai ran toward the sound. There, tangled in some friendly vines, was the cutest baby dragon ever! He was bright blue with tiny wings and big golden eyes. 'Help me!' squeaked Spark.",
+          "illustration": {
+            "description": "A adorable baby dragon named Spark with bright blue scales, tiny wings, and huge golden eyes looking sad and tangled in glowing green magical vines among enormous sunflowers. Emma and Kai are running toward him with concerned but determined expressions. The sunflowers tower above them in brilliant yellows and oranges.",
+            "alt": "Spark the baby dragon tangled in vines among giant sunflowers",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Helping Spark",
+      "pages": [
+        {
+          "text": "'Don't worry, Spark!' said Emma. 'We'll get you free!' The vines were ticklish and giggly. When Emma touched them, they laughed. 'Hee hee hee!' giggled the vines. Kai had an idea. 'Let's tell them a joke! They love to laugh!' Emma thought hard. What was a good joke?",
+          "illustration": {
+            "description": "Emma gently touching the magical giggling vines while they sparkle and wiggle with laughter around the baby dragon. The vines have cute faces and are glowing green. Kai is gesturing excitedly with his finger up in the 'idea' pose. Spark looks hopeful with his big golden eyes.",
+            "alt": "Emma touching the giggling magical vines while Kai has an idea",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Why don't dragons ever get cold?' Emma asked the vines. The vines wiggled with excitement. 'We don't know! Why?' they giggled. 'Because they have fire inside!' said Emma. The vines laughed so hard they let Spark go! 'HAHAHA! That's so funny!' The baby dragon was free!",
+          "illustration": {
+            "description": "The magical vines laughing hysterically and unwinding from Spark as he flies free with joy. Emma is grinning proudly while Kai claps his hands. Spark is doing a happy little loop in the air with his tiny wings, breathing small puffs of rainbow fire. The scene is filled with laughter bubbles and sparkles.",
+            "alt": "The vines laughing and freeing Spark as he flies happily",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Thank you, Emma!' said Spark, giving her a tiny dragon hug. 'You're the best!' Kai smiled. 'You saved the day!' Emma felt proud and happy. Soon it was time to go home. She waved goodbye to her new friends. 'I'll come back soon!' Back through the purple door, Emma found Grandma Rosa. 'Did you have fun in the attic?' 'The best fun ever!' Emma said with a big smile.",
+          "illustration": {
+            "description": "Emma receiving a cute hug from the tiny blue dragon while Kai cheers in the background. Then a second scene showing Emma waving goodbye at the purple door, and finally Emma hugging Grandma Rosa in the cozy living room, both smiling warmly. The illustration shows the magical adventure ending and returning to the loving real world.",
+            "alt": "Emma saying goodbye to her magical friends and reuniting with Grandma Rosa",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "problem-solving",
+      "courage",
+      "family",
+      "imagination"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Playful storybook illustration style. Rich saturated colors. Expressive characters with big eyes. Whimsical, like Pixar concept art."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where did Emma find the magic door?",
+        "choices": [
+          "In the basement",
+          "In Grandma's attic",
+          "In her bedroom"
+        ],
+        "correctIndex": 1,
+        "explanation": "Emma found the purple magic door behind an old rocking chair in Grandma Rosa's attic."
+      },
+      {
+        "id": "q2",
+        "question": "What color was Spark the baby dragon?",
+        "choices": [
+          "Red",
+          "Green",
+          "Blue"
+        ],
+        "correctIndex": 2,
+        "explanation": "Spark was a bright blue baby dragon with tiny wings and big golden eyes."
+      },
+      {
+        "id": "q3",
+        "question": "How did Emma free Spark from the vines?",
+        "choices": [
+          "She cut them with scissors",
+          "She told them a funny joke",
+          "She sang a song"
+        ],
+        "correctIndex": 1,
+        "explanation": "Emma told the giggling vines a joke about dragons, which made them laugh so hard they let Spark go."
+      },
+      {
+        "id": "q4",
+        "question": "Who was Emma's first friend in the Land of Wonders?",
+        "choices": [
+          "Spark",
+          "Kai",
+          "A talking flower"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kai, the boy with bright red hair, was the first person Emma met when she entered the magical world."
+      },
+      {
+        "id": "q5",
+        "question": "What shape was the door handle?",
+        "choices": [
+          "A butterfly",
+          "A star",
+          "A heart"
+        ],
+        "correctIndex": 0,
+        "explanation": "The magic door had a golden handle shaped like a butterfly."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Complete the Story",
+        "instruction": "Fill in the missing words from Emma's adventure:",
+        "text": "Emma found a magic [0] in Grandma's attic. The door was [1] and sparkled like stars. When she opened it, she met [2] and helped save Spark the baby [3].",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "door",
+            "distractors": [
+              "window",
+              "box"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "purple",
+            "distractors": [
+              "green",
+              "yellow"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "Kai",
+            "distractors": [
+              "Rosa",
+              "Spark"
+            ]
+          },
+          {
+            "wordIndex": 3,
+            "correctWord": "dragon",
+            "distractors": [
+              "cat",
+              "bird"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "What Happened Next?",
+        "instruction": "Choose the right words to complete the sentences:",
+        "text": "The [0] vines were tickling Spark. Emma told them a [1] joke about dragons. The vines [2] so hard they let Spark go free!",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "giggly",
+            "distractors": [
+              "angry",
+              "sleepy"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "funny",
+            "distractors": [
+              "scary",
+              "sad"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "laughed",
+            "distractors": [
+              "cried",
+              "slept"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

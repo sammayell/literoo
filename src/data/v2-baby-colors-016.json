@@ -1,0 +1,152 @@
+{
+  "id": "v2-baby-colors-016",
+  "title": "Malik's Colorful Snacks",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "colors",
+    "food"
+  ],
+  "wordCount": 45,
+  "readingLevel": "Pre-K",
+  "synopsis": "Baby Malik explores different colored foods through a joyful sensory journey, discovering red apples, yellow bananas, green peas, and blue berries while learning about colors through taste and touch.",
+  "coverImage": "covers/v2-baby-colors-016.webp",
+  "chapters": [
+    {
+      "title": "Yummy Colors",
+      "pages": [
+        {
+          "text": "Malik loves snack time! Look at all the colors on his plate.",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, gentle expressive eyes sits in a high chair with a rainbow-colored plate of various foods, dominant rainbow splashes across the scene with paint splatter drips, finger paint aesthetic",
+            "alt": "Malik sitting at a colorful plate of food",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Red apple! Crunch, crunch! So sweet and juicy.",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, gentle expressive eyes holding a bright red apple, dominant red paint splatters and drips covering the background, splashy painterly style with joyful pure red color exploration",
+            "alt": "Malik eating a red apple",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Yellow banana! Squish! Malik smiles and claps.",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, gentle expressive eyes mashing a yellow banana with his hands, dominant yellow paint splashes and finger paint smears, sensory visual with paint splatter drips",
+            "alt": "Malik playing with a yellow banana",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Green peas roll around. Pop, pop in his mouth!",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, gentle expressive eyes picking up green peas, dominant green painterly background with splashy drips and color exploration, joyful pure green finger paint aesthetic",
+            "alt": "Malik eating green peas",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Blue berries burst with flavor. Yum! Colors are delicious!",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, gentle expressive eyes with blue berry juice on his face, dominant blue paint splatters and drips everywhere, splashy painterly style with sensory visual elements",
+            "alt": "Malik enjoying blue berries",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "color recognition",
+      "healthy eating",
+      "sensory exploration",
+      "food discovery"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "rainbow colors, splashy painterly, one color dominant per scene, paint splatter drips, sensory visual, joyful pure color, finger paint aesthetic, color exploration"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What color is Malik's apple?",
+        "choices": [
+          "red",
+          "blue"
+        ],
+        "correctIndex": 0,
+        "explanation": "Malik's apple is red! Red apples are crunchy and sweet."
+      },
+      {
+        "id": "q2",
+        "question": "What does Malik do with the banana?",
+        "choices": [
+          "squish it",
+          "throw it"
+        ],
+        "correctIndex": 0,
+        "explanation": "Malik squishes the yellow banana with his hands and smiles!"
+      },
+      {
+        "id": "q3",
+        "question": "What color are the berries?",
+        "choices": [
+          "blue",
+          "green"
+        ],
+        "correctIndex": 0,
+        "explanation": "The berries are blue! Blue berries burst with yummy flavor."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Red",
+            "distractors": [
+              "Blue",
+              "Green"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Yellow",
+            "distractors": [
+              "Purple",
+              "Orange"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "Blue",
+            "distractors": [
+              "Red",
+              "Yellow"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "id": "early_reader-fairy-tales-190",
+  "title": "Tomas and the Magic Acorn",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "fairy-tales",
+    "animals"
+  ],
+  "wordCount": 403,
+  "readingLevel": "1.2",
+  "synopsis": "When young Tomas finds a glowing acorn in the forest, he discovers it belongs to the Squirrel Queen who needs it to save her kingdom. With help from his diverse group of animal friends, Tomas embarks on a magical adventure to return the acorn and help the forest creatures.",
+  "coverImage": "covers/early_reader-fairy-tales-190.webp",
+  "chapters": [
+    {
+      "title": "The Glowing Acorn",
+      "pages": [
+        {
+          "text": "Tomas loved to explore the forest near his house. He had curly brown hair and bright green eyes that sparkled with curiosity. Today felt special, like magic was in the air.",
+          "illustration": {
+            "description": "A young boy with curly brown hair and bright green eyes wearing a red t-shirt and blue jeans, standing at the edge of a lush green forest. Sunbeams filter through tall trees creating a magical atmosphere. His expression is excited and curious.",
+            "alt": "Tomas looking excitedly into a magical forest",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "As Tomas walked deeper into the woods, he saw something glowing under a big oak tree. It was a golden acorn that shimmered like a tiny star! 'Wow!' he whispered.",
+          "illustration": {
+            "description": "A magical golden acorn glowing with warm yellow light sitting on mossy ground beneath a massive oak tree. Forest animals peek out curiously from behind trees and bushes. The scene has a warm, enchanted feeling with rich greens and golds.",
+            "alt": "A glowing golden acorn under an oak tree",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When Tomas picked up the acorn, it felt warm in his hands. Suddenly, a small voice squeaked, 'That's mine!' A red squirrel with a tiny crown appeared on a branch above him.",
+          "illustration": {
+            "description": "Tomas holding a glowing acorn while looking up at a small red squirrel wearing a delicate golden crown sitting on a tree branch. The squirrel has large expressive eyes and looks worried. The lighting is magical with the acorn casting a golden glow.",
+            "alt": "Tomas meeting the Squirrel Queen",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Squirrel Queen's Problem",
+      "pages": [
+        {
+          "text": "'I'm Queen Hazel,' said the squirrel. 'That's my magic acorn! A strong wind blew it from my castle yesterday. Without it, all the nuts in my kingdom will disappear!'",
+          "illustration": {
+            "description": "Queen Hazel the squirrel gesturing dramatically with tiny paws while explaining her problem to Tomas. She has a beautiful golden crown and expressive worried eyes. The background shows glimpses of other forest animals listening from behind trees.",
+            "alt": "Queen Hazel explaining her problem",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'I'll help you!' said Tomas. 'But I don't know where your castle is.' Just then, a wise old owl named Professor Hoot flew down. He had big round glasses and feathers of many colors.",
+          "illustration": {
+            "description": "A colorful owl with large round spectacles and multicolored feathers perched on a low branch near Tomas and Queen Hazel. Professor Hoot has kind, intelligent eyes and an air of wisdom. The forest setting is warm and inviting with dappled sunlight.",
+            "alt": "Professor Hoot joining the conversation",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'I know the way,' hooted Professor Hoot. 'But we must hurry! The sun will set soon, and the magic only works in daylight.' A friendly rabbit named Luna hopped over to help too.",
+          "illustration": {
+            "description": "A group shot of all the characters: Tomas holding the glowing acorn, Queen Hazel on his shoulder, Professor Hoot with spread wings, and Luna the rabbit with soft gray fur and pink inner ears. They all look determined and ready for adventure.",
+            "alt": "The team ready for their adventure",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Journey to the Castle",
+      "pages": [
+        {
+          "text": "The friends hurried through the forest. They crossed a babbling brook where colorful fish swam. A family of deer with spotted coats watched them pass by and wished them luck.",
+          "illustration": {
+            "description": "The adventure group crossing a crystal-clear stream on stepping stones. Rainbow-colored fish swim below while a family of deer with beautiful spotted coats watches from the riverbank. The scene is vibrant with blues, greens, and golden sunlight filtering through trees.",
+            "alt": "Crossing the brook with forest animals watching",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Look!' chirped Queen Hazel. 'There's my castle!' High up in the tallest tree was a beautiful castle made of woven twigs and leaves. But something was wrong - it looked very dim and sad.",
+          "illustration": {
+            "description": "A magnificent treehouse castle built into the crown of an enormous tree, made of intricately woven branches, leaves, and natural materials. However, it appears faded and gloomy, lacking its usual magical glow. The team looks up at it with concern.",
+            "alt": "The Squirrel Queen's dim castle in the treetop",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'We need to get up there fast!' said Tomas. Professor Hoot had an idea. 'Everyone hold on tight!' The clever owl used his strong wings to fly them all up to the castle door.",
+          "illustration": {
+            "description": "Professor Hoot flying upward with his wings spread wide, carrying Tomas on his back while Queen Hazel sits on Tomas's shoulder and Luna the rabbit clings to Tomas's shirt. Everyone has excited expressions as they soar toward the castle. The perspective shows them rising through the tree branches.",
+            "alt": "Flying up to the castle together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Saving the Kingdom",
+      "pages": [
+        {
+          "text": "Inside the castle, dozens of squirrels were looking very worried. Their nut storehouse was almost empty! 'Hurry!' said Queen Hazel. 'Put the acorn in the special holder!'",
+          "illustration": {
+            "description": "Interior of the tree castle showing many diverse squirrels - some brown, some gray, some with different markings - looking worried around nearly empty acorn storage areas. The castle interior is beautifully crafted from natural materials but appears dim and fading.",
+            "alt": "Worried squirrels in the dim castle interior",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Tomas carefully placed the magic acorn in a special golden holder at the center of the castle. Immediately, the whole place began to glow with warm, golden light! 'Hooray!' cheered all the squirrels.",
+          "illustration": {
+            "description": "Tomas placing the glowing acorn into an ornate golden pedestal in the center of the castle throne room. Magical golden light radiates outward, illuminating the previously dim castle. All the squirrels are cheering with joy, their paws raised in celebration.",
+            "alt": "The magic acorn restoring light to the castle",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "As the magic spread, nuts and acorns appeared everywhere! The squirrels danced with joy. 'Thank you, Tomas!' said Queen Hazel. 'You saved our kingdom!' She gave him a special friendship acorn to keep forever. 'You're always welcome here!' From that day on, Tomas visited his forest friends often, and they had many more magical adventures together.",
+          "illustration": {
+            "description": "A joyful celebration scene with all the characters dancing together in the now-bright castle. Nuts and acorns magically appear floating in the air around them. Queen Hazel is presenting Tomas with a small glowing friendship acorn. Everyone looks happy and the entire scene radiates warmth and friendship.",
+            "alt": "Celebration with all friends dancing together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "helping others",
+      "adventure",
+      "magic",
+      "teamwork"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Playful storybook illustration style. Rich saturated colors. Expressive characters with big eyes. Whimsical, like Pixar concept art."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Tomas find under the oak tree?",
+        "choices": [
+          "A golden acorn",
+          "A silver coin",
+          "A magic wand"
+        ],
+        "correctIndex": 0,
+        "explanation": "Tomas found a glowing golden acorn under the big oak tree."
+      },
+      {
+        "id": "q2",
+        "question": "Who was the squirrel with the crown?",
+        "choices": [
+          "Princess Luna",
+          "Queen Hazel",
+          "Lady Nutkin"
+        ],
+        "correctIndex": 1,
+        "explanation": "The squirrel with the crown was Queen Hazel, who ruled the squirrel kingdom."
+      },
+      {
+        "id": "q3",
+        "question": "What would happen without the magic acorn?",
+        "choices": [
+          "The trees would fall down",
+          "All the nuts would disappear",
+          "The animals would get sick"
+        ],
+        "correctIndex": 1,
+        "explanation": "Queen Hazel explained that without the magic acorn, all the nuts in her kingdom would disappear."
+      },
+      {
+        "id": "q4",
+        "question": "Who helped them fly to the castle?",
+        "choices": [
+          "Luna the rabbit",
+          "Professor Hoot the owl",
+          "A magic carpet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Professor Hoot the wise owl used his strong wings to fly everyone up to the castle."
+      },
+      {
+        "id": "q5",
+        "question": "What gift did Queen Hazel give Tomas?",
+        "choices": [
+          "A friendship acorn",
+          "A golden crown",
+          "A magic book"
+        ],
+        "correctIndex": 0,
+        "explanation": "Queen Hazel gave Tomas a special friendship acorn to keep forever as a thank you for saving her kingdom."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Complete the Story",
+        "instructions": "Fill in the missing words from the story!",
+        "text": "Tomas found a magical _______ under the oak tree. It belonged to Queen _______, who needed it to save her _______. With help from Professor _______ and Luna the rabbit, they flew to the castle and restored the _______.",
+        "blanks": [
+          {
+            "wordIndex": 0,
+            "correctWord": "acorn",
+            "distractors": [
+              "apple",
+              "stone"
+            ]
+          },
+          {
+            "wordIndex": 1,
+            "correctWord": "Hazel",
+            "distractors": [
+              "Luna",
+              "Nutkin"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "kingdom",
+            "distractors": [
+              "castle",
+              "forest"
+            ]
+          },
+          {
+            "wordIndex": 3,
+            "correctWord": "Hoot",
+            "distractors": [
+              "Wise",
+              "Feathers"
+            ]
+          },
+          {
+            "wordIndex": 4,
+            "correctWord": "magic",
+            "distractors": [
+              "castle",
+              "light"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

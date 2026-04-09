@@ -1,0 +1,280 @@
+{
+  "id": "early_reader-mystery-166",
+  "title": "Luca and the Missing Rainbow Colors",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "mystery",
+    "science"
+  ],
+  "wordCount": 358,
+  "readingLevel": "2.1",
+  "synopsis": "When the rainbow outside Luca's window loses all its colors, he becomes a detective to solve the mystery. With help from his diverse group of friends, Luca discovers that raindrops and sunlight work together to make rainbows, and learns that sometimes nature just needs the right conditions to create magic.",
+  "coverImage": "covers/early_reader-mystery-166.webp",
+  "chapters": [
+    {
+      "title": "The Gray Rainbow",
+      "pages": [
+        {
+          "text": "Luca loved rainbows. He loved red and orange and yellow. He loved green and blue and purple too. Every morning, Luca looked out his bedroom window. He hoped to see a rainbow after the rain.",
+          "illustration": {
+            "description": "A young boy with curly dark hair and warm brown skin pressing his face against a bedroom window, looking outside with wonder. His room has colorful toys and books scattered around. Morning light streams through the window creating a cozy, hopeful atmosphere.",
+            "alt": "Luca looking out his bedroom window hopefully",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "One morning, something was very wrong. Luca saw a rainbow in the sky. But it was all gray! \"That's weird,\" said Luca. \"Where did all the colors go?\"",
+          "illustration": {
+            "description": "Through the window, a strange gray arc stretches across a cloudy sky where a rainbow should be colorful. Luca's expression shows confusion and curiosity, his big eyes wide with surprise. The scene has muted grays contrasting with the warm colors inside his room.",
+            "alt": "A gray rainbow in the sky outside Luca's window",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Luca put on his detective hat. It was blue with a yellow star. \"I will solve this mystery!\" he said. \"I will find the missing rainbow colors!\"",
+          "illustration": {
+            "description": "Luca wearing a bright blue detective hat with a yellow star, standing confidently with his hands on his hips. His expression is determined and excited. Around him are detective tools like a magnifying glass and notebook, rendered in a whimsical cartoon style with vibrant colors.",
+            "alt": "Luca wearing his detective hat, ready to solve the mystery",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Asking for Help",
+      "pages": [
+        {
+          "text": "Luca ran to find his friend Maya. She had long black hair and knew lots about science. \"Maya! Maya!\" called Luca. \"The rainbow lost its colors!\"",
+          "illustration": {
+            "description": "Luca running toward a girl with long straight black hair and East Asian features, wearing a lab coat over colorful clothes. She's holding a science book and has a friendly, curious expression. They're in a bright playground setting with other diverse children playing in the background.",
+            "alt": "Luca running to his friend Maya in the playground",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Maya looked up at the sky. \"That is strange,\" she said. \"Let's ask Sam. He loves weather.\" Sam had red hair and freckles. He was drawing clouds in his notebook.",
+          "illustration": {
+            "description": "Three children looking up at the gray sky together. Maya points upward analytically, Sam has curly red hair and freckles with his weather notebook, and Luca looks between his friends. The scene shows their different personalities through body language, with rich colors except for the gray sky above.",
+            "alt": "Maya, Luca, and Sam looking at the gray rainbow together",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I know about rainbows!\" said Sam. \"They need sun and rain drops. But look - the sun is hiding behind big clouds.\" The friends looked up. Sam was right! No sunshine at all.",
+          "illustration": {
+            "description": "The three friends standing together, with Sam pointing up at thick, dark clouds covering the sun. The lighting is dim and moody, with the children's faces lit softly from below. Their expressions show understanding and excitement as they make the connection.",
+            "alt": "The children realizing the sun is hidden by thick clouds",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Science of Rainbows",
+      "pages": [
+        {
+          "text": "Maya opened her science book. \"Look here,\" she said. \"Sunlight has all the colors mixed together. When light goes through water drops, the colors split apart.\" \"Like magic?\" asked Luca.",
+          "illustration": {
+            "description": "Maya holding an open science book showing a diagram of light passing through a water droplet and splitting into rainbow colors. The children are gathered around the book, their faces illuminated by the colorful illustration. The book's pages show simple, child-friendly diagrams with bright primary colors.",
+            "alt": "Maya showing the science book with rainbow diagrams",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"It's science!\" laughed Maya. \"But it looks like magic.\" Sam pointed to the clouds again. \"No sun means no rainbow colors. We need to wait for the sun to come out.\"",
+          "illustration": {
+            "description": "The three children in animated discussion, with Maya gesturing excitedly about science, Sam pointing up at the clouds, and Luca listening intently. Their expressions are bright and engaged, showing the joy of learning together in the outdoor setting.",
+            "alt": "The friends discussing the science of rainbows",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Just then, the wind began to blow. The big clouds started to move away. A tiny bit of sunshine peeked through. \"Look!\" shouted Luca. \"The sun is coming out!\"",
+          "illustration": {
+            "description": "A dramatic sky scene with clouds being blown away by wind, and the first rays of golden sunlight breaking through. The children are looking up with excited expressions, their hair and clothes moving in the breeze. The lighting shifts from gray to warm and hopeful.",
+            "alt": "Sunlight beginning to peek through the moving clouds",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Colors Return",
+      "pages": [
+        {
+          "text": "More and more sunshine came through the clouds. The rain was still falling in tiny drops. Suddenly, Luca saw something amazing. \"The colors are coming back!\" he yelled.",
+          "illustration": {
+            "description": "A beautiful scene showing the first hints of color appearing in the rainbow - faint reds and yellows beginning to glow against the lighter sky. The children are pointing up in excitement, their faces filled with wonder and joy. Gentle rain drops sparkle in the emerging sunlight.",
+            "alt": "The first colors starting to appear in the rainbow",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "First came red. Then orange and yellow. Green and blue followed. Finally, purple appeared too. The rainbow was beautiful and bright again! All the colors were back where they belonged.",
+          "illustration": {
+            "description": "A magnificent full rainbow stretching across the sky in brilliant, saturated colors. The three children are cheering with their arms raised in celebration. The scene is bright and joyful, with the contrast between the colorful rainbow and the clearing storm clouds creating a magical atmosphere.",
+            "alt": "The complete colorful rainbow restored in the sky",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Mystery solved!\" said Detective Luca. \"Rainbows need sunshine and raindrops to show their colors.\" \"Great detective work!\" said Maya and Sam. Luca smiled. He couldn't wait to see the next rainbow.",
+          "illustration": {
+            "description": "The three friends high-fiving in celebration under the bright rainbow. Luca is still wearing his detective hat, looking proud and accomplished. Maya holds her science book happily, and Sam has his weather notebook. Their expressions show friendship, achievement, and the joy of discovery.",
+            "alt": "Luca, Maya, and Sam celebrating their solved mystery",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "curiosity",
+      "science",
+      "problem-solving",
+      "nature"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Playful storybook illustration style. Rich saturated colors. Expressive characters with big eyes. Whimsical, like Pixar concept art."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What was wrong with the rainbow Luca saw?",
+        "choices": [
+          "It was upside down",
+          "It was all gray",
+          "It was too small"
+        ],
+        "correctIndex": 1,
+        "explanation": "The rainbow had lost all its colors and appeared gray instead of colorful."
+      },
+      {
+        "id": "q2",
+        "question": "What does Luca wear when he becomes a detective?",
+        "choices": [
+          "A red cape",
+          "A blue hat with a yellow star",
+          "Green glasses"
+        ],
+        "correctIndex": 1,
+        "explanation": "Luca puts on his blue detective hat with a yellow star to solve the mystery."
+      },
+      {
+        "id": "q3",
+        "question": "What two things do rainbows need to show their colors?",
+        "choices": [
+          "Wind and clouds",
+          "Sunshine and raindrops",
+          "Thunder and lightning"
+        ],
+        "correctIndex": 1,
+        "explanation": "Maya explains that rainbows need both sunshine and raindrops to split the light into colors."
+      },
+      {
+        "id": "q4",
+        "question": "Who knows a lot about science?",
+        "choices": [
+          "Maya",
+          "Sam",
+          "Luca"
+        ],
+        "correctIndex": 0,
+        "explanation": "Maya is the friend who knows lots about science and has the science book that explains rainbows."
+      },
+      {
+        "id": "q5",
+        "question": "Why couldn't the rainbow show colors at first?",
+        "choices": [
+          "There was no rain",
+          "The sun was hidden by clouds",
+          "It was nighttime"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sam noticed that the sun was hiding behind big clouds, so there was no sunlight to create the rainbow colors."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Rainbow Colors",
+        "instructions": "Help Luca remember the colors that returned to the rainbow!",
+        "text": "First came _____(1). Then orange and _____(2). Green and _____(3) followed. Finally, _____(4) appeared too.",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "red",
+            "distractors": [
+              "blue",
+              "yellow"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "yellow",
+            "distractors": [
+              "purple",
+              "green"
+            ]
+          },
+          {
+            "wordIndex": 3,
+            "correctWord": "blue",
+            "distractors": [
+              "orange",
+              "red"
+            ]
+          },
+          {
+            "wordIndex": 4,
+            "correctWord": "purple",
+            "distractors": [
+              "yellow",
+              "blue"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Rainbow Science",
+        "instructions": "Complete what Maya taught about rainbows!",
+        "text": "_____(1) has all the colors mixed together. When light goes through _____(2) drops, the colors split apart. Rainbows need _____(3) and raindrops to show their colors.",
+        "blanks": [
+          {
+            "wordIndex": 1,
+            "correctWord": "Sunlight",
+            "distractors": [
+              "Moonlight",
+              "Starlight"
+            ]
+          },
+          {
+            "wordIndex": 2,
+            "correctWord": "water",
+            "distractors": [
+              "juice",
+              "milk"
+            ]
+          },
+          {
+            "wordIndex": 3,
+            "correctWord": "sunshine",
+            "distractors": [
+              "darkness",
+              "snow"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

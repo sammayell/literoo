@@ -1,0 +1,271 @@
+{
+  "id": "early_reader-adventure-171",
+  "title": "Keiko and the Magic Paintbrush",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "adventure",
+    "fantasy"
+  ],
+  "wordCount": 341,
+  "readingLevel": "1.2",
+  "synopsis": "When Keiko finds a magical paintbrush in her grandmother's attic, she discovers that everything she paints comes to life! But when her painted dragon gets too big and starts causing trouble in town, Keiko must use her creativity to save the day.",
+  "coverImage": "covers/early_reader-adventure-171.webp",
+  "chapters": [
+    {
+      "title": "The Magic Paintbrush",
+      "pages": [
+        {
+          "text": "Keiko loved to paint. She painted flowers, trees, and funny animals. Today she was visiting Grandma Mei's house. \"Can I paint in the attic?\" Keiko asked. \"Of course, little artist,\" Grandma Mei smiled.",
+          "illustration": {
+            "description": "A cheerful Asian girl with short black hair and big brown eyes holds a paint palette. She stands next to her grandmother, an elderly Asian woman with silver hair in a bun and kind eyes. They're in a cozy living room with warm yellow walls and family photos.",
+            "alt": "Keiko talking to her grandmother in a warm, welcoming living room",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "In the dusty attic, Keiko found an old wooden box. Inside was the most beautiful paintbrush she had ever seen. It sparkled with rainbow colors. \"Wow!\" she whispered. The brush felt warm in her hand.",
+          "illustration": {
+            "description": "A magical attic scene with golden sunbeams streaming through a small window. Keiko kneels by an ornate wooden chest, holding a shimmering paintbrush that glows with rainbow colors. The attic is filled with interesting old objects and has a mystical, enchanted feeling.",
+            "alt": "Keiko discovering the magical rainbow paintbrush in the attic",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Keiko dipped the brush in her paint. She painted a small blue butterfly on the wall. Suddenly, the butterfly wiggled. Then it flew right off the wall! \"It's alive!\" Keiko gasped. The butterfly landed gently on her nose.",
+          "illustration": {
+            "description": "Keiko's eyes are wide with amazement as a beautiful blue butterfly with delicate wings sits on her nose. The attic wall behind her shows where the butterfly painting used to be, now just a blank space. Magical sparkles float in the air around them.",
+            "alt": "A live blue butterfly sitting on surprised Keiko's nose in the attic",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Growing Dragon",
+      "pages": [
+        {
+          "text": "\"This is amazing!\" Keiko said. She painted a tiny green dragon. Puff! The dragon came to life too. It was cute and friendly. \"Hello, little dragon,\" Keiko giggled. The dragon purred like a kitten.",
+          "illustration": {
+            "description": "A small, adorable green dragon with big purple eyes and tiny wings sits in Keiko's palm. The dragon has a friendly smile and sparkles around it. Keiko looks delighted, her face glowing with joy in the warm attic light.",
+            "alt": "Keiko holding a small, cute green dragon in her hands",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "But something strange happened. The dragon started growing! First it was as big as a cat. Then as big as a dog. \"Oh no!\" Keiko cried. The dragon was getting too big for the attic. It looked confused and scared.",
+          "illustration": {
+            "description": "The green dragon is now much larger, filling half the attic space. It looks worried and confused with big sad eyes. Keiko stands nearby looking concerned. The attic feels cramped with boxes pushed aside and the dragon's tail curled around furniture.",
+            "alt": "The dragon has grown much larger and looks confused in the crowded attic",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "CRASH! The dragon was now huge! It broke through the roof. People in the town square saw it and ran away. \"A dragon! A dragon!\" they shouted. Marcus, the baker, dropped his bread. Luna, the librarian, hid behind her books.",
+          "illustration": {
+            "description": "A massive green dragon sits on a house roof with a big hole beneath it. In the town square below, diverse townspeople are running in all directions. A Black man in a baker's apron drops loaves of bread while a Latina woman with glasses peeks out from behind a stack of books. The scene is chaotic but colorful.",
+            "alt": "The enormous dragon on the roof while townspeople run away in the square below",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Painting a Solution",
+      "pages": [
+        {
+          "text": "Keiko had to help! She looked at her magic paintbrush. \"I know what to do,\" she said. Quickly, she painted a big bowl of dragon food. The food came to life and smelled delicious. The dragon's nose twitched.",
+          "illustration": {
+            "description": "Keiko holds the magical paintbrush determinedly, painting in the air. A large wooden bowl filled with colorful, steaming dragon treats appears with magical sparkles. The dragon's large head is visible through the roof hole, sniffing curiously with a hopeful expression.",
+            "alt": "Keiko painting a bowl of dragon food while the dragon sniffs hopefully",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Next, Keiko painted a cozy dragon cave in the mountains. The cave appeared instantly! The dragon saw the food and the cave. It smiled a big toothy smile. \"Thank you!\" it rumbled in a deep, friendly voice.",
+          "illustration": {
+            "description": "A beautiful mountain landscape with a perfect dragon-sized cave opening. The cave has a warm golden glow from inside. The large green dragon looks happy and grateful, with a big smile showing friendly white teeth. Mountains are purple and pink in the background with a sunset sky.",
+            "alt": "A cozy dragon cave in the mountains with the smiling dragon",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The dragon flew to its new home with the delicious food. The townspeople cheered! \"Hooray for Keiko!\" they called. Grandma Mei hugged her tight. \"You used your creativity to help everyone,\" she said proudly. Keiko smiled. Magic was wonderful, but helping others was the best part.",
+          "illustration": {
+            "description": "A celebration scene in the town square with diverse, happy townspeople cheering and waving. Keiko stands with her grandmother, both smiling warmly. In the distance, the green dragon can be seen flying toward the mountains with the food bowl. The scene is joyful with bright, warm colors and confetti in the air.",
+            "alt": "Townspeople celebrating while Keiko hugs her grandmother as the dragon flies to its mountain home",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "creativity",
+      "problem-solving",
+      "helping others",
+      "consequences",
+      "magic"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Playful storybook illustration style. Rich saturated colors. Expressive characters with big eyes. Whimsical, like Pixar concept art."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where did Keiko find the magic paintbrush?",
+        "choices": [
+          "In her bedroom",
+          "In Grandma Mei's attic",
+          "At the art store"
+        ],
+        "correctIndex": 1,
+        "explanation": "Keiko found the magical paintbrush in an old wooden box in her grandmother's attic."
+      },
+      {
+        "id": "q2",
+        "question": "What was the first thing Keiko painted that came to life?",
+        "choices": [
+          "A green dragon",
+          "A blue butterfly",
+          "Dragon food"
+        ],
+        "correctIndex": 1,
+        "explanation": "The first thing Keiko painted with the magic brush was a small blue butterfly that flew off the wall."
+      },
+      {
+        "id": "q3",
+        "question": "What problem happened with the dragon?",
+        "choices": [
+          "It flew away immediately",
+          "It kept growing bigger",
+          "It wouldn't come to life"
+        ],
+        "correctIndex": 1,
+        "explanation": "The dragon started small but kept growing until it was huge and broke through the roof, scaring the townspeople."
+      },
+      {
+        "id": "q4",
+        "question": "How did Keiko solve the problem?",
+        "choices": [
+          "She painted dragon food and a cave",
+          "She erased the dragon",
+          "She called for help"
+        ],
+        "correctIndex": 0,
+        "explanation": "Keiko painted a bowl of delicious dragon food and a cozy cave in the mountains for the dragon to live in."
+      },
+      {
+        "id": "q5",
+        "question": "What did Grandma Mei say was the best part about what Keiko did?",
+        "choices": [
+          "She was brave",
+          "She used creativity to help others",
+          "She was careful"
+        ],
+        "correctIndex": 1,
+        "explanation": "Grandma Mei was proud that Keiko used her creativity to help everyone when the dragon caused problems."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Complete the Story",
+        "instructions": "Fill in the missing words to complete the sentences from the story.",
+        "sentences": [
+          {
+            "text": "Keiko found a magic _____ in Grandma Mei's attic.",
+            "blanks": [
+              {
+                "wordIndex": 4,
+                "correctWord": "paintbrush",
+                "distractors": [
+                  "pencil",
+                  "crayon"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "The first thing that came to life was a _____ butterfly.",
+            "blanks": [
+              {
+                "wordIndex": 8,
+                "correctWord": "blue",
+                "distractors": [
+                  "red",
+                  "yellow"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "The dragon kept growing until it was _____.",
+            "blanks": [
+              {
+                "wordIndex": 7,
+                "correctWord": "huge",
+                "distractors": [
+                  "tiny",
+                  "medium"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "What Came Next?",
+        "instructions": "Put these events in the right order by filling in what happened.",
+        "sentences": [
+          {
+            "text": "First, Keiko painted a _____ that came to life.",
+            "blanks": [
+              {
+                "wordIndex": 4,
+                "correctWord": "butterfly",
+                "distractors": [
+                  "dragon",
+                  "cave"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Then, she painted a small _____ that grew too big.",
+            "blanks": [
+              {
+                "wordIndex": 6,
+                "correctWord": "dragon",
+                "distractors": [
+                  "butterfly",
+                  "house"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Finally, she painted _____ and a cave to help the dragon.",
+            "blanks": [
+              {
+                "wordIndex": 3,
+                "correctWord": "food",
+                "distractors": [
+                  "toys",
+                  "water"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

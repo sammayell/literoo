@@ -1,0 +1,329 @@
+{
+  "id": "early_reader-adventure-121",
+  "title": "Keiko and the Magic Puddle",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "adventure",
+    "fantasy"
+  ],
+  "wordCount": 433,
+  "readingLevel": "1.2",
+  "synopsis": "When Keiko discovers a shimmering puddle in her backyard after a rainstorm, she finds it's actually a magical portal to a world where everything is backwards. With help from new friends, she must solve silly riddles to find her way home.",
+  "coverImage": "covers/early_reader-adventure-121.webp",
+  "chapters": [
+    {
+      "title": "The Shiny Puddle",
+      "pages": [
+        {
+          "text": "Keiko loved rainy days. After the storm stopped, she ran outside to jump in puddles. But one puddle was different. It sparkled like diamonds in the sun.",
+          "illustration": {
+            "description": "A young Japanese girl with short black hair and bright brown eyes wearing yellow rain boots and a purple raincoat, standing in a sunny backyard looking down at a shimmering, magical puddle that reflects rainbow colors. The yard has green grass, colorful flowers, and a wooden fence.",
+            "alt": "Keiko in rain boots looking at a magical sparkling puddle",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"That's strange,\" Keiko said. She bent down to touch the water. Her finger made tiny ripples. The puddle began to glow brighter and brighter.",
+          "illustration": {
+            "description": "Close-up of Keiko kneeling beside the magical puddle, her finger touching the water surface creating glowing ripples. Her expression shows wonder and curiosity. The puddle emits soft golden and blue light, illuminating her face with a warm magical glow.",
+            "alt": "Keiko touching the magical puddle with her finger, creating glowing ripples",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Suddenly, the puddle grew bigger and bigger! It was now as wide as a door. Keiko could see something moving inside the water. \"Should I jump in?\" she wondered.",
+          "illustration": {
+            "description": "Keiko standing beside a now door-sized magical puddle that shows swirling colors and mysterious shapes within. Her eyes are wide with excitement and a little nervousness. The puddle portal glows with purple, blue, and gold light against the green backyard setting.",
+            "alt": "Keiko standing next to a large magical puddle portal",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Through the Portal",
+      "pages": [
+        {
+          "text": "Keiko took a deep breath and jumped! She felt like she was flying through rainbow clouds. Then SPLASH! She landed in a world where everything was upside down.",
+          "illustration": {
+            "description": "Keiko falling through a swirling rainbow portal with her arms outstretched and a joyful expression on her face. She's surrounded by colorful clouds and sparkles as she travels between worlds. Her hair and clothes flow in the magical wind.",
+            "alt": "Keiko falling through a rainbow portal between worlds",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The trees had roots in the sky! Fish swam through the air! A purple cat with wings flew up to her. \"Hello!\" said the cat. \"I'm Luna. You're walking on your hands!\"",
+          "illustration": {
+            "description": "A fantastical upside-down world where Keiko stands on her hands while a purple winged cat flies nearby. Trees grow with roots reaching toward a colorful sky, and bright fish swim through the air. The scene is whimsical and dreamlike with vibrant purples, greens, and blues.",
+            "alt": "Keiko in an upside-down world meeting Luna the flying purple cat",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Keiko looked down. She WAS walking on her hands! \"This is so silly!\" she giggled. \"How do I get home?\" \"You need to find the Giggle Guardian,\" Luna said.",
+          "illustration": {
+            "description": "Keiko doing a handstand and laughing while Luna the purple winged cat hovers beside her with a helpful expression. Both characters have large, expressive eyes. The background shows the topsy-turvy world with floating elements and bright, saturated colors.",
+            "alt": "Keiko walking on her hands and laughing with Luna the cat",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Meeting New Friends",
+      "pages": [
+        {
+          "text": "Luna led Keiko to a clearing. There sat a big friendly dragon with polka dots. Next to him was a girl with curly red hair. \"Hi! I'm Emma,\" she said. \"I'm lost too!\"",
+          "illustration": {
+            "description": "A cheerful scene in a magical forest clearing with Keiko, Luna the purple cat, a large friendly dragon covered in colorful polka dots, and Emma, a girl with bright red curly hair and freckles. Everyone has warm, welcoming expressions and the setting has lush green trees and magical flowers.",
+            "alt": "Keiko meeting Emma and a polka-dotted dragon in a forest clearing",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I'm Diego,\" said the dragon in a gentle voice. \"I've been here for three days! The Giggle Guardian loves riddles. We need to make him laugh to open the portal home.\"",
+          "illustration": {
+            "description": "Diego the polka-dotted dragon speaking with a kind expression while Keiko, Emma, and Luna listen intently. The dragon has friendly eyes and colorful spots in blues, greens, and yellows. The group is gathered in a circle having their important conversation.",
+            "alt": "Diego the dragon explaining about the Giggle Guardian to the group",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Let's work together!\" Keiko said. The four friends set off to find the Giggle Guardian. They walked through a forest where flowers sang songs and rocks told jokes.",
+          "illustration": {
+            "description": "The four friends walking together through a magical forest - Keiko, Emma, Luna flying above, and Diego the dragon. Musical notes float from singing flowers, and smiling rocks with faces tell jokes. The path winds through vibrant trees with magical sparkles in the air.",
+            "alt": "The four friends walking through a magical forest with singing flowers and talking rocks",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Giggle Guardian",
+      "pages": [
+        {
+          "text": "At the top of a hill sat a huge, jolly giant with a beard made of cotton candy. \"I am the Giggle Guardian!\" he boomed. \"Tell me your silliest joke!\"",
+          "illustration": {
+            "description": "A enormous, friendly giant with a fluffy pink and blue cotton candy beard sitting on a hilltop. He has twinkling eyes and a big smile. The four small friends stand before him looking up with determination. The hill is covered in colorful grass and magical flowers.",
+            "alt": "The Giggle Guardian, a giant with a cotton candy beard, meeting the four friends",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Emma tried first. \"Why don't elephants use computers?\" \"I don't know,\" said the Guardian. \"Because they're afraid of the mouse!\" The giant smiled but didn't laugh.",
+          "illustration": {
+            "description": "Emma with her curly red hair gesturing animatedly as she tells her joke, with a confident smile on her face. The Giggle Guardian leans down to listen with an amused but not quite laughing expression. The other friends watch hopefully in the background.",
+            "alt": "Emma telling her elephant joke to the Giggle Guardian",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Diego told a riddle about backwards fish. Luna sang a funny song about upside-down trees. The Guardian smiled each time, but still no laugh. Then it was Keiko's turn.",
+          "illustration": {
+            "description": "A montage-style illustration showing Diego the polka-dot dragon gesturing with his claws, and Luna the purple cat with musical notes around her as she sings. The Giggle Guardian watches with growing amusement but hasn't laughed yet. Keiko prepares for her turn with a thoughtful expression.",
+            "alt": "Diego and Luna trying their jokes while Keiko prepares her turn",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Home Again",
+      "pages": [
+        {
+          "text": "Keiko thought hard. Then she grinned. \"What do you call a dragon who loves polka dots and walks on his hands?\" \"What?\" asked everyone. \"SILLY!\" Keiko shouted.",
+          "illustration": {
+            "description": "Keiko with a huge grin and her arms spread wide as she delivers her punchline. Her expression is pure joy and mischief. The other friends and the Giggle Guardian all have expressions of anticipation, waiting to hear if this joke will work.",
+            "alt": "Keiko delivering her joke with a big grin and outstretched arms",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The Giggle Guardian burst into the biggest laugh ever! \"Ho ho ho ho ho!\" His laugh was so loud it shook the ground. A new portal opened right beside them.",
+          "illustration": {
+            "description": "The Giggle Guardian laughing so hard his cotton candy beard shakes, with his head thrown back in pure joy. A new swirling portal appears nearby, glowing with warm golden light. All the friends are celebrating with big smiles as the ground sparkles with magical energy.",
+            "alt": "The Giggle Guardian laughing loudly as a new portal appears",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Thank you, Keiko!\" said Emma and Diego as they jumped through the portal. Keiko waved goodbye and jumped too. She landed back in her yard, right in the normal puddle.",
+          "illustration": {
+            "description": "Keiko back in her sunny backyard, standing beside the now-normal puddle. She has a huge smile and is waving goodbye. Her yellow rain boots splash in the regular water. The familiar wooden fence, green grass, and flowers surround her in the peaceful, everyday setting.",
+            "alt": "Keiko back home in her backyard, waving goodbye beside the normal puddle",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "problem-solving",
+      "imagination",
+      "humor",
+      "adventure"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Playful storybook illustration style. Rich saturated colors. Expressive characters with big eyes. Whimsical, like Pixar concept art."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What made the puddle in Keiko's backyard special?",
+        "choices": [
+          "It was very deep",
+          "It sparkled like diamonds",
+          "It was perfectly round"
+        ],
+        "correctIndex": 1,
+        "explanation": "The puddle sparkled like diamonds in the sun, which made Keiko notice it was different from other puddles."
+      },
+      {
+        "id": "q2",
+        "question": "What was unusual about the world Keiko found?",
+        "choices": [
+          "Everything was upside down",
+          "Everything was invisible",
+          "Everything was giant"
+        ],
+        "correctIndex": 0,
+        "explanation": "In the magical world, everything was upside down - trees had roots in the sky and people walked on their hands!"
+      },
+      {
+        "id": "q3",
+        "question": "Who was Luna?",
+        "choices": [
+          "A girl with red hair",
+          "A purple cat with wings",
+          "A polka-dotted dragon"
+        ],
+        "correctIndex": 1,
+        "explanation": "Luna was the purple cat with wings who first met Keiko in the upside-down world."
+      },
+      {
+        "id": "q4",
+        "question": "What did the Giggle Guardian have for a beard?",
+        "choices": [
+          "Regular hair",
+          "Cotton candy",
+          "Flower petals"
+        ],
+        "correctIndex": 1,
+        "explanation": "The Giggle Guardian had a beard made of cotton candy, which made him look very magical and silly."
+      },
+      {
+        "id": "q5",
+        "question": "What made the Giggle Guardian finally laugh?",
+        "choices": [
+          "Emma's elephant joke",
+          "Luna's song about trees",
+          "Keiko's joke about silly dragons"
+        ],
+        "correctIndex": 2,
+        "explanation": "Keiko's joke about what you call a dragon who loves polka dots and walks on his hands - 'SILLY!' - made the Giggle Guardian laugh so hard he opened the portal home."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "title": "Fill in the Missing Words",
+        "instructions": "Choose the best word to complete each sentence from the story.",
+        "sentences": [
+          {
+            "text": "Keiko loved _ days.",
+            "blanks": [
+              {
+                "wordIndex": 2,
+                "correctWord": "rainy",
+                "distractors": [
+                  "sunny",
+                  "snowy"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "The puddle _ like diamonds.",
+            "blanks": [
+              {
+                "wordIndex": 2,
+                "correctWord": "sparkled",
+                "distractors": [
+                  "splashed",
+                  "rippled"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Luna was a _ cat with wings.",
+            "blanks": [
+              {
+                "wordIndex": 3,
+                "correctWord": "purple",
+                "distractors": [
+                  "orange",
+                  "green"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "More Missing Words",
+        "instructions": "Complete these sentences about Keiko's adventure.",
+        "sentences": [
+          {
+            "text": "Diego was a friendly _ with polka dots.",
+            "blanks": [
+              {
+                "wordIndex": 4,
+                "correctWord": "dragon",
+                "distractors": [
+                  "elephant",
+                  "giraffe"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "The Giggle Guardian had a beard made of _.",
+            "blanks": [
+              {
+                "wordIndex": 8,
+                "correctWord": "cotton candy",
+                "distractors": [
+                  "ice cream",
+                  "rainbow"
+                ]
+              }
+            ]
+          },
+          {
+            "text": "Keiko's _ made everyone laugh.",
+            "blanks": [
+              {
+                "wordIndex": 1,
+                "correctWord": "joke",
+                "distractors": [
+                  "song",
+                  "dance"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

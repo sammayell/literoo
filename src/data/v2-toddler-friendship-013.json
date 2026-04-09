@@ -1,0 +1,187 @@
+{
+  "id": "v2-toddler-friendship-013",
+  "title": "Nia's Garden Friends",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "nature"
+  ],
+  "wordCount": 186,
+  "readingLevel": "Pre-K",
+  "synopsis": "Nia discovers the joy of making friends with garden creatures and learns that friendship can bloom anywhere, even in the smallest corners of nature.",
+  "coverImage": "covers/v2-toddler-friendship-013.webp",
+  "chapters": [
+    {
+      "title": "Nia Finds the Garden",
+      "pages": [
+        {
+          "text": "Nia loved playing outside. One sunny morning, she found a special corner of the playground with flowers and green plants. \"What a pretty garden!\" she said with a big smile.",
+          "illustration": {
+            "description": "A young girl with long braids with colorful beads, dark brown skin, warm kind eyes standing at the edge of a small garden area in a bright sunny playground with flowers and green plants, diverse kids playing in the background",
+            "alt": "Nia discovering a garden corner at the playground",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Nia knelt down to look closer at the flowers. She saw something move! A tiny ladybug crawled on a yellow flower. \"Hello, little friend,\" whispered Nia gently.",
+          "illustration": {
+            "description": "A young girl with long braids with colorful beads, dark brown skin, warm kind eyes kneeling beside bright yellow flowers with a red ladybug visible, surrounded by primary colors and white space in a joyful energetic playground setting",
+            "alt": "Nia greeting a ladybug on a yellow flower",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "More Garden Friends",
+      "pages": [
+        {
+          "text": "The ladybug seemed to wave with her tiny legs. Then Nia heard a soft chirp. A small brown bird sat on a branch above her. \"Hello, birdie!\" called Nia. The bird chirped back happily.",
+          "illustration": {
+            "description": "A young girl with long braids with colorful beads, dark brown skin, warm kind eyes looking up at a small brown bird on a tree branch, with the red ladybug still visible on flowers below, bright sunny playground atmosphere with inclusive diverse background",
+            "alt": "Nia talking to a bird while the ladybug stays nearby",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Soon, a fuzzy bumblebee buzzed over to visit the flowers too. \"Buzz, buzz!\" went the bee. Nia giggled. \"Now I have three garden friends!\" she said with joy.",
+          "illustration": {
+            "description": "A young girl with long braids with colorful beads, dark brown skin, warm kind eyes surrounded by a ladybug, bird, and bumblebee in a colorful garden with primary colors, park swings slides visible in background, white space framing the joyful scene",
+            "alt": "Nia surrounded by her three garden friends - ladybug, bird, and bee",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Friends Together",
+      "pages": [
+        {
+          "text": "Nia visited her garden friends every day. She would talk to them and watch them play. The ladybug climbed, the bird sang sweet songs, and the bee danced from flower to flower.",
+          "illustration": {
+            "description": "A young girl with long braids with colorful beads, dark brown skin, warm kind eyes sitting peacefully in the garden watching her animal friends, with laughter and friendship activities happening around diverse kids playing on swings and slides in the bright sunny playground",
+            "alt": "Nia spending time with her garden friends daily",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Friends come in all sizes,\" Nia told her mom. \"Some friends are big, some friends are small, but all friends are special!\" Nia learned that friendship can bloom anywhere, just like flowers in a garden.",
+          "illustration": {
+            "description": "A young girl with long braids with colorful beads, dark brown skin, warm kind eyes holding hands with her mom while looking at the garden, surrounded by the ladybug, bird, and bee, with inclusive diverse children playing joyfully in the energetic primary-colored playground background",
+            "alt": "Nia sharing her friendship lesson with her mom in the garden",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "nature appreciation",
+      "kindness to animals",
+      "outdoor play"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities"
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Nia find at the playground?",
+        "choices": [
+          "a garden",
+          "a toy",
+          "a book"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nia found a special garden corner with flowers and plants at the playground."
+      },
+      {
+        "id": "q2",
+        "question": "What was Nia's first garden friend?",
+        "choices": [
+          "a ladybug",
+          "a bird",
+          "a bee"
+        ],
+        "correctIndex": 0,
+        "explanation": "The ladybug on the yellow flower was the first garden friend Nia met."
+      },
+      {
+        "id": "q3",
+        "question": "How many garden friends did Nia make?",
+        "choices": [
+          "three",
+          "two",
+          "four"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nia made three garden friends: a ladybug, a bird, and a bumblebee."
+      },
+      {
+        "id": "q4",
+        "question": "What did Nia learn about friendship?",
+        "choices": [
+          "friends come in all sizes",
+          "friends are always big",
+          "friends are always small"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nia learned that friends come in all sizes and that all friends are special."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "garden",
+            "distractors": [
+              "house",
+              "car"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "flowers",
+            "distractors": [
+              "rocks",
+              "toys"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "bird",
+            "distractors": [
+              "cat",
+              "dog"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "chirped",
+            "distractors": [
+              "barked",
+              "meowed"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
