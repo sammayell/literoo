@@ -1,0 +1,163 @@
+{
+  "id": "test-baby-001",
+  "title": "Emma's Sleepy Animal Friends",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "bedtime",
+    "animals"
+  ],
+  "wordCount": 71,
+  "readingLevel": "baby",
+  "synopsis": "Emma meets sleepy animal friends who all say goodnight with special sounds before going to bed.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-baby-001/cover.png",
+  "chapters": [
+    {
+      "title": "Goodnight Sounds",
+      "pages": [
+        {
+          "text": "Emma is ready for bed. Time to say goodnight!",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks, wearing soft pink pajamas, standing in her cozy bedroom. Warm golden lamplight glows from a bedside lamp, casting a gentle light on plush toys scattered around the room.",
+            "alt": "Emma in pink pajamas in her cozy, warmly lit bedroom",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-baby-001/scene_1_1.png"
+          }
+        },
+        {
+          "text": "The bunny says 'hop hop' and yawns. Goodnight, bunny!",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks, sitting on her bed next to a fluffy white bunny toy. The bunny appears to be yawning under the warm golden glow of the bedside lamp, with soft knitted blankets visible.",
+            "alt": "Emma sitting with a yawning bunny toy on her bed",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-baby-001/scene_1_2.png"
+          }
+        },
+        {
+          "text": "The puppy says 'woof woof' and yawns. Goodnight, puppy!",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks, holding a brown plush puppy toy that appears to be yawning. The warm lamplight creates a cozy bedtime atmosphere with soft shadows on the walls.",
+            "alt": "Emma holding a yawning puppy toy in the golden lamplight",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-baby-001/scene_1_3.png"
+          }
+        },
+        {
+          "text": "The kitty says 'meow meow' and yawns. Goodnight, kitty!",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks, cuddling with an orange striped plush cat that appears sleepy. The golden lamplight bathes the scene in warmth, with a soft knitted blanket draped nearby.",
+            "alt": "Emma cuddling with a sleepy orange cat toy",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-baby-001/scene_1_4.png"
+          }
+        },
+        {
+          "text": "The owl says 'hoo hoo' and yawns. Goodnight, owl!",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks, looking at a brown owl plush toy on her nightstand. The owl appears drowsy under the soft golden glow, with the cozy bedroom bathed in warm lamplight.",
+            "alt": "Emma looking at a drowsy owl toy on her nightstand",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-baby-001/scene_1_5.png"
+          }
+        },
+        {
+          "text": "The bear says 'grr grr' and yawns. Goodnight, bear!",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks, snuggling with a large brown teddy bear that looks very sleepy. The warm golden lamplight creates soft shadows, and a plush knitted blanket surrounds them both.",
+            "alt": "Emma snuggling with a large sleepy teddy bear",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-baby-001/scene_1_6.png"
+          }
+        },
+        {
+          "text": "Emma yawns too. 'Goodnight, friends!' Time to sleep.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks, yawning as she lies in bed surrounded by all her animal friends. The golden lamplight is dimming, creating a peaceful bedtime scene with soft textures everywhere.",
+            "alt": "Emma yawning in bed surrounded by all her sleepy animal friends",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-baby-001/scene_1_7.png"
+          }
+        },
+        {
+          "text": "Shh... shh... All the animals sleep. Emma sleeps too.",
+          "illustration": {
+            "description": "Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks, sleeping peacefully under a soft knitted blanket with all her plush animal friends arranged around her. The lamp casts a very gentle golden glow over the quiet, cozy bedroom scene.",
+            "alt": "Emma sleeping peacefully with all her animal friends in the soft lamplight",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/test-baby-001/scene_1_8.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "bedtime routine",
+      "animal sounds",
+      "friendship",
+      "comfort"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Warm golden lamplight scenes. Soft textures like knitted blankets and plush toys. Characters in pajamas with rosy cheeks. Cozy bedside glow."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "question": "What sound does the bunny make?",
+        "choices": [
+          "hop hop",
+          "woof woof"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "What do all the animals do before sleeping?",
+        "choices": [
+          "dance",
+          "yawn"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Who sleeps with Emma at the end?",
+        "choices": [
+          "her animal friends",
+          "her mommy"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "type": "matching",
+        "title": "Match the Animal Sounds",
+        "description": "Draw lines to match each animal with their sound",
+        "items": [
+          {
+            "left": "bunny",
+            "right": "hop hop"
+          },
+          {
+            "left": "puppy",
+            "right": "woof woof"
+          },
+          {
+            "left": "kitty",
+            "right": "meow meow"
+          }
+        ]
+      },
+      {
+        "type": "coloring",
+        "title": "Color Emma's Bedroom",
+        "description": "Color this cozy bedtime scene with warm colors"
+      }
+    ]
+  }
+}

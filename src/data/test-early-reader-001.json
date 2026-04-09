@@ -1,0 +1,223 @@
+{
+  "id": "test-early-reader-001",
+  "title": "Yuki's Treasure Map Adventure",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "adventure",
+    "humor"
+  ],
+  "wordCount": 444,
+  "readingLevel": "Grade 1-2",
+  "synopsis": "When Yuki finds a mysterious treasure map in her grandmother's attic, she embarks on a hilarious backyard adventure filled with silly obstacles and surprising discoveries.",
+  "coverImage": "covers/test-early-reader-001.webp",
+  "chapters": [
+    {
+      "title": "The Mystery Map",
+      "pages": [
+        {
+          "text": "Yuki loved exploring Grandma's dusty attic. \"What's this?\" she asked, pulling out an old scroll. It was yellow and crinkly. Strange marks covered the paper. \"Oh my!\" said Grandma, adjusting her glasses. \"That looks like a treasure map!\"",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes holds up an ancient-looking scroll in a dusty attic. The scroll has dotted lines and mysterious symbols drawn on aged parchment. Golden sunlight streams through a small attic window.",
+            "alt": "Yuki holding a treasure map in grandmother's attic",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The map showed a dotted trail. It started at a big oak tree. Then it went past a rock that looked like a sleeping bear. At the end was a big red X. \"Where do you think it leads?\" Yuki wondered aloud.",
+          "illustration": {
+            "description": "Close-up of the treasure map showing a winding dotted trail on aged parchment. Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes points to the red X with her finger. A compass rose decorates the corner of the map in sepia tones.",
+            "alt": "Yuki examining the treasure map with dotted trail and red X",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"I know that oak tree!\" Yuki exclaimed. \"It's in our backyard!\" She rolled up the map carefully. \"I'm going on a treasure hunt!\" Grandma smiled. \"Be careful, brave explorer,\" she said with a wink.",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes grins excitedly while rolling up the map. Grandma stands beside her smiling warmly in the golden attic light. Dust motes float in the air creating a magical atmosphere.",
+            "alt": "Yuki and Grandma in the attic, Yuki rolling up the treasure map",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Following the Trail",
+      "pages": [
+        {
+          "text": "Yuki ran outside with the map. She found the big oak tree right away. \"This is it!\" she said. She looked at the map again. The next stop was the bear rock. But where was it?",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes stands next to a massive oak tree, holding the map and looking around the backyard. The scene has warm sepia tones with green jewel accents from the leaves above.",
+            "alt": "Yuki standing by the oak tree with her treasure map",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Yuki walked around the yard. She saw a gray rock by the garden. \"Hmm,\" she said, tilting her head. \"Does this look like a sleeping bear?\" She squinted at it. \"Maybe if I use my imagination!\"",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes tilts her head sideways looking at a large gray rock. A dotted trail appears to lead from her position toward the distance on the aged parchment-style background.",
+            "alt": "Yuki examining a gray rock, wondering if it's the bear rock from the map",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Yes! It has a round part like a head,\" Yuki decided. \"And bumps like a sleeping bear's body!\" She checked her map. The trail continued past a wooden fence. Then it went to something called 'The Cave of Wonders.'",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes points excitedly at the rock while holding her map. The rock is now highlighted with a golden glow, and a compass rose appears in the corner showing her direction.",
+            "alt": "Yuki pointing at the bear-shaped rock with her treasure map",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Cave of Wonders",
+      "pages": [
+        {
+          "text": "Yuki followed the wooden fence. At the end, she found a small shed. The door was open just a crack. \"This must be the Cave of Wonders!\" she whispered. But it looked like Dad's old tool shed.",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes peers cautiously at a small wooden shed with the door slightly open. Golden light streams from the crack, making it look mysterious and cave-like on the parchment-toned background.",
+            "alt": "Yuki approaching a mysterious shed that looks like a cave entrance",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Hello?\" Yuki called softly. \"Any treasure in there?\" Suddenly, something rustled inside! Yuki jumped back. \"What was that?\" she squeaked. Her heart beat fast. Was there a treasure guardian?",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes takes a surprised step backward from the shed door. Her eyes are wide with excitement and a little fear. Mystery swirls around the dark doorway in sepia tones.",
+            "alt": "Yuki jumping back in surprise from mysterious sounds in the shed",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Yuki took a deep breath. \"I'm a brave explorer!\" she told herself. She pushed the door open wider. Inside, she saw garden tools and flower pots. And there, sitting on a shelf, was a small wooden box!",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes bravely opens the shed door wider. Inside, garden tools and pots are visible, and a small wooden treasure chest sits on a shelf, highlighted with golden jewel tones.",
+            "alt": "Yuki opening the shed door and discovering a wooden box inside",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Treasure Found!",
+      "pages": [
+        {
+          "text": "Yuki carefully lifted the wooden box. It was heavier than she expected. \"This must be it!\" she said. She opened the lid slowly. Inside were old coins, pretty marbles, and a small note.",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes holds the opened wooden box, her face glowing with wonder. Inside, old coins and colorful marbles sparkle with jewel tones against the aged parchment atmosphere.",
+            "alt": "Yuki opening the treasure box and finding coins, marbles, and a note",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The note said: 'For my dear granddaughter Yuki. I hid this treasure when I was seven years old. Love, Daddy.' \"Daddy?\" Yuki thought. \"That means... Grandma's father!\" She had found her great-grandfather's treasure!",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes reads the note with amazement. The note appears on aged parchment with elegant old-fashioned writing. Her expression shows surprise and delight at the discovery.",
+            "alt": "Yuki reading the note from her great-grandfather about the hidden treasure",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Yuki ran back to the house with her treasure. \"Grandma! Grandma!\" she called. \"Look what I found!\" Grandma's eyes grew wide. \"Oh my goodness! That's my father's old treasure box! He hid it for you to find someday.\" Yuki hugged the box tight. It was the best treasure hunt ever!",
+          "illustration": {
+            "description": "Yuki with straight black hair with a red headband, light skin, almond-shaped dark brown eyes shows the treasure box to Grandma, both of them smiling with joy. The scene is warm with golden sepia tones and the compass rose from the original map appears faintly in the background, completing the adventure.",
+            "alt": "Yuki and Grandma celebrating the successful treasure hunt together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "adventure",
+      "family connections",
+      "imagination",
+      "problem-solving",
+      "courage"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Aged parchment and map-inspired style. Compass roses, dotted trails. Warm sepia tones with jewel-colored accents. Bold explorers."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "question": "Where did Yuki find the treasure map?",
+        "choices": [
+          "In the backyard",
+          "In Grandma's attic",
+          "In the shed"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "What did the rock look like on the treasure map?",
+        "choices": [
+          "A sleeping bear",
+          "A big tree",
+          "A mountain"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "What was the 'Cave of Wonders' really?",
+        "choices": [
+          "A real cave",
+          "Dad's tool shed",
+          "The basement"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Who originally hid the treasure?",
+        "choices": [
+          "Yuki's dad",
+          "Yuki's great-grandfather",
+          "Grandma"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "What was inside the treasure box?",
+        "choices": [
+          "Gold and jewels",
+          "Coins, marbles, and a note",
+          "Toys and candy"
+        ],
+        "correct": 1
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "type": "maze",
+        "title": "Help Yuki Follow the Treasure Map!",
+        "description": "Draw a line from the oak tree to the bear rock to the Cave of Wonders to find the treasure!"
+      },
+      {
+        "type": "word_search",
+        "title": "Find the Treasure Hunt Words!",
+        "words": [
+          "MAP",
+          "TREE",
+          "ROCK",
+          "CAVE",
+          "TREASURE",
+          "YUKI"
+        ],
+        "description": "Can you find all the words from Yuki's adventure hidden in the puzzle?"
+      },
+      {
+        "type": "drawing",
+        "title": "Draw Your Own Treasure Map!",
+        "description": "Create a treasure map of your house or backyard. Don't forget to mark the treasure with an X!"
+      }
+    ]
+  }
+}

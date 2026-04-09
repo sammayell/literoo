@@ -1,0 +1,161 @@
+{
+  "id": "test-toddler-001",
+  "title": "Zara Makes New Friends",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "feelings"
+  ],
+  "wordCount": 185,
+  "readingLevel": "Pre-K",
+  "synopsis": "Zara feels shy at the playground but learns that making friends can be fun and rewarding when she opens up to new experiences.",
+  "coverImage": "covers/test-toddler-001.webp",
+  "chapters": [
+    {
+      "title": "Feeling Shy",
+      "pages": [
+        {
+          "text": "Zara walked into the big playground with Mama. There were so many kids running and playing! Zara felt shy and held Mama's hand tight.",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes stands close to her mother at the playground entrance. Colorful playground equipment fills the bright, sunny background with children playing in the distance.",
+            "alt": "Zara holding her mother's hand at the playground entrance",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Zara watched the other children go down the slide and swing high. She wanted to play too, but she felt nervous about talking to new friends.",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes sits on a bench watching other diverse children play on bright red and blue playground equipment. The scene is filled with primary colors and joyful energy.",
+            "alt": "Zara sitting and watching other children play",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Taking a Chance",
+      "pages": [
+        {
+          "text": "A girl with pigtails waved at Zara from the sandbox. 'Hi! Do you want to build a castle with me?' she asked. Zara felt excited but still a little scared.",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes stands near a bright yellow sandbox where a girl with pigtails waves cheerfully. Sand toys are scattered around in the sunny playground setting.",
+            "alt": "A girl inviting Zara to play in the sandbox",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Zara took a deep breath and walked over. 'I'm Zara,' she said quietly. 'I'm Emma!' said the girl. 'Let's make the biggest sand castle ever!'",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes kneels in the bright sandbox next to Emma, both girls smiling as they start building with colorful sand toys. The scene radiates warmth and friendship.",
+            "alt": "Zara and Emma beginning to build a sand castle together",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Soon, two more children joined them. Zara felt happy and proud as they all worked together. Making friends wasn't so scary after all!",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes laughs joyfully with three diverse children around an elaborate sand castle. Bright primary colors fill the sunny playground scene with generous white space.",
+            "alt": "Zara playing happily with three new friends around their sand castle",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Happy Together",
+      "pages": [
+        {
+          "text": "After building their castle, all the friends ran to the swings. Zara felt brave now and called out, 'Push me higher!' Everyone giggled and had fun.",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes swings high on bright blue swings while her new diverse friends push and cheer nearby. The playground scene bursts with primary colors and joyful energy.",
+            "alt": "Zara swinging happily with her new friends cheering",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "When it was time to go home, Zara hugged her new friends. 'Can we play again tomorrow?' she asked. 'Yes!' they all shouted. Zara skipped to Mama, feeling proud and happy.",
+          "illustration": {
+            "description": "Zara with natural coily hair in two puffs, deep brown skin, sparkling dark brown eyes gives warm hugs to her diverse group of friends near the playground exit. The sunny scene shows generous white space with bright, cheerful colors reflecting the joy of new friendship.",
+            "alt": "Zara hugging her friends goodbye at the playground",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "overcoming shyness",
+      "making friends",
+      "playground fun",
+      "building confidence",
+      "social skills"
+    ],
+    "contentWarnings": [],
+    "generatedAt": "2026-04-09",
+    "illustrationStyle": "Bright sunny playground and park scenes. Diverse kids playing together. Primary colors with generous white space. Joyful and energetic."
+  },
+  "quiz": {
+    "questions": [
+      {
+        "question": "How did Zara feel at the beginning of the story?",
+        "options": [
+          "Happy",
+          "Shy",
+          "Angry"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "What did Emma ask Zara to build?",
+        "options": [
+          "A snowman",
+          "A castle",
+          "A tower"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Where did the children play together?",
+        "options": [
+          "At home",
+          "At school",
+          "At the playground"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "How did Zara feel at the end of the story?",
+        "options": [
+          "Sad",
+          "Happy and proud",
+          "Tired"
+        ],
+        "correct": 1
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "type": "coloring",
+        "title": "Color Zara and Friends",
+        "description": "Color this picture of Zara playing with her new friends at the playground!"
+      },
+      {
+        "type": "matching",
+        "title": "Match the Feelings",
+        "description": "Draw lines to match how Zara felt: Shy (beginning), Nervous (middle), Happy (end)"
+      },
+      {
+        "type": "simple-maze",
+        "title": "Help Zara Find Her Friends",
+        "description": "Draw a path to help Zara walk from the playground entrance to the sandbox where her friends are waiting!"
+      }
+    ]
+  }
+}
