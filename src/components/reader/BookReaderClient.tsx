@@ -173,11 +173,11 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
   const scrollRef = useRef<HTMLDivElement>(null);
   const readingTimerRef = useRef<number>(0);
 
-  // Paywall check
+  // Paywall check — DISABLED for free launch (all books free)
   useEffect(() => {
-    if (!isFree && !isSubscribed() && !isChallengeBook(book.id)) {
-      setShowPaywall(true);
-    }
+    // if (!isFree && !isSubscribed() && !isChallengeBook(book.id)) {
+    //   setShowPaywall(true);
+    // }
     setHasCheckedAccess(true);
   }, [isFree, book.id]);
 

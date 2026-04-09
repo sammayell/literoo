@@ -104,9 +104,7 @@ export default function LibraryClient({ books, freeBookIds: freeBookIdsArray }: 
             Your Library
           </h2>
           <p className="text-lg text-stone-600 mb-8 font-[family-name:var(--font-literata)]">
-            {books.length} stories and counting.{" "}
-            {books.filter((b) => freeBookIds.has(b.id)).length} books are free to
-            read right now.
+            {books.length} stories and counting. All free during launch.
           </p>
 
           {/* Search bar */}
@@ -281,25 +279,7 @@ function BookCard({ book, isFree }: { book: Book; isFree: boolean }) {
       href={`/book/${book.id}`}
       className="group bg-white rounded-2xl border border-stone-200 overflow-hidden hover:shadow-lg hover:border-brand-300 transition-all duration-200 relative"
     >
-      {/* Free / Lock badge */}
-      <div className="absolute top-3 right-3 z-10">
-        {isFree ? (
-          <span className="bg-green-500 text-white text-xs font-bold px-2.5 py-1 rounded-full shadow-sm">
-            Free
-          </span>
-        ) : (
-          <span className="bg-stone-800/60 text-white text-xs px-2 py-1 rounded-full backdrop-blur-sm flex items-center gap-1">
-            <svg className="w-3 h-3" fill="currentColor" viewBox="0 0 20 20">
-              <path
-                fillRule="evenodd"
-                d="M5 9V7a5 5 0 0110 0v2a2 2 0 012 2v5a2 2 0 01-2 2H5a2 2 0 01-2-2v-5a2 2 0 012-2zm8-2v2H7V7a3 3 0 016 0z"
-                clipRule="evenodd"
-              />
-            </svg>
-            Pro
-          </span>
-        )}
-      </div>
+      {/* Free launch — all books available */}
 
       {/* Cover placeholder */}
       <div

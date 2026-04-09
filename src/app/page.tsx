@@ -83,7 +83,7 @@ export default function HomePage() {
           </div>
 
           <p className="text-xs text-stone-400 mt-4">
-            6 free books included. No credit card required.
+            100% free during launch. No credit card required.
           </p>
 
           <HomeStreak />
@@ -224,24 +224,22 @@ export default function HomePage() {
         </div>
       </section>
 
-      {/* Pricing teaser */}
+      {/* Free launch banner */}
       <section className="py-16 px-4 bg-stone-50">
         <div className="max-w-lg mx-auto text-center">
           <h2 className="text-2xl sm:text-3xl font-bold text-stone-900 mb-3 font-[family-name:var(--font-lexend)]">
-            Full access for <span className="text-brand-500">$99/year</span>
+            <span className="text-brand-500">100% free</span> during launch
           </h2>
           <p className="text-stone-600 mb-6 font-[family-name:var(--font-literata)]">
-            That&apos;s just $8.25/month for the entire family. Cancel anytime.
+            Every book, every feature, completely free. No credit card. No catch.
+            We&apos;re building the best reading platform for kids and we want your feedback.
           </p>
           <Link
-            href="/pricing"
+            href="/auth/signup"
             className="inline-block bg-brand-500 hover:bg-brand-600 text-white font-bold py-3 px-8 rounded-xl text-lg transition-colors font-[family-name:var(--font-lexend)]"
           >
-            View Pricing
+            Create Free Account
           </Link>
-          <div className="mt-6">
-            <GuaranteeBadge size="sm" />
-          </div>
         </div>
       </section>
 
