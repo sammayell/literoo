@@ -13,7 +13,7 @@
   "wordCount": 54,
   "readingLevel": "baby",
   "synopsis": "Hugo discovers colorful foods and learns about colors through eating delicious snacks in a joyful, sensory exploration.",
-  "coverImage": "covers/v2-baby-colors-006.webp",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-colors-006/cover.png",
   "chapters": [
     {
       "title": "Hugo's Rainbow Snacks",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "Hugo with straight light blonde hair, fair skin, light blue eyes sits at a colorful table with rainbow paint splatters and drips around him, dominant yellow color scheme, finger paint aesthetic, joyful pure color exploration",
             "alt": "Hugo sitting at a bright yellow table looking at his plate",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-colors-006/scene_1_1.png"
           }
         },
         {
@@ -31,7 +32,8 @@
           "illustration": {
             "description": "Hugo with straight light blonde hair, fair skin, light blue eyes holding a bright red strawberry, dominant red color with paint splatter drips, splashy painterly style, sensory visual, joyful pure color exploration",
             "alt": "Hugo holding a red strawberry with red paint splatters around",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-colors-006/scene_1_2.png"
           }
         },
         {
@@ -39,7 +41,8 @@
           "illustration": {
             "description": "Hugo with straight light blonde hair, fair skin, light blue eyes eating orange carrots, dominant orange color scheme, paint splatter drips, finger paint aesthetic, splashy painterly, sensory visual exploration",
             "alt": "Hugo crunching orange carrots with orange paint effects",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-colors-006/scene_1_3.png"
           }
         },
         {
@@ -47,7 +50,8 @@
           "illustration": {
             "description": "Hugo with straight light blonde hair, fair skin, light blue eyes peeling a yellow banana, dominant yellow color with paint splatter drips, rainbow colors, splashy painterly, joyful pure color, finger paint aesthetic",
             "alt": "Hugo peeling a bright yellow banana",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-colors-006/scene_1_4.png"
           }
         },
         {
@@ -55,7 +59,8 @@
           "illustration": {
             "description": "Hugo with straight light blonde hair, fair skin, light blue eyes eating green grapes, dominant green color scheme, paint splatter drips, sensory visual, splashy painterly, color exploration, finger paint aesthetic",
             "alt": "Hugo eating green grapes with green paint splatters",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-colors-006/scene_1_5.png"
           }
         },
         {
@@ -63,7 +68,8 @@
           "illustration": {
             "description": "Hugo with straight light blonde hair, fair skin, light blue eyes with blue blueberries, dominant blue color with paint splatter drips, rainbow colors, joyful pure color, splashy painterly, finger paint aesthetic",
             "alt": "Hugo with blue blueberries and blue paint effects",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-colors-006/scene_1_6.png"
           }
         },
         {
@@ -71,7 +77,8 @@
           "illustration": {
             "description": "Hugo with straight light blonde hair, fair skin, light blue eyes biting a purple plum, dominant purple color scheme, paint splatter drips, sensory visual, splashy painterly, color exploration, finger paint aesthetic",
             "alt": "Hugo taking a bite of a purple plum",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-colors-006/scene_1_7.png"
           }
         },
         {
@@ -79,7 +86,8 @@
           "illustration": {
             "description": "Hugo with straight light blonde hair, fair skin, light blue eyes surrounded by all the colorful foods, rainbow colors dominant, paint splatter drips everywhere, splashy painterly, joyful pure color, finger paint aesthetic, sensory visual exploration",
             "alt": "Hugo surrounded by colorful foods with rainbow paint splatters",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-colors-006/scene_1_8.png"
           }
         }
       ]

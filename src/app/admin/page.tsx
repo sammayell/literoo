@@ -3,7 +3,10 @@
 import { useState, useEffect } from "react";
 import Link from "next/link";
 import { Header } from "@/components/shared/Header";
+import { useAuth } from "@/lib/auth-context";
 import { AGE_TIER_LABELS, AGE_TIER_COLORS, type AgeTier } from "@/lib/types";
+
+const ADMIN_EMAILS = ["sam@sammayell.com", "hello@chillplayvibe.com"];
 
 interface BookIllustration {
   id: string;
@@ -42,6 +45,9 @@ const STATUS_COLORS: Record<string, string> = {
 };
 
 export default function AdminPage() {
+  const { user, loading: authLoading } = useAuth();
+  const isAdmin = user && ADMIN_EMAILS.includes(user.email || "");
+
   const [books, setBooks] = useState<BookIllustration[]>([]);
   const [artStyles, setArtStyles] = useState<Record<string, ArtStyle[]>>({});
   const [loading, setLoading] = useState(true);
@@ -155,6 +161,21 @@ export default function AdminPage() {
   const filteredBooks = books;
   const stats = statsData;
 
+  // Auth gate — only admin emails
+  if (authLoading) {
+    return <div className="min-h-screen flex items-center justify-center"><div className="text-stone-400">Loading...</div></div>;
+  }
+  if (!isAdmin) {
+    return (
+      <div className="min-h-screen flex items-center justify-center">
+        <div className="text-center">
+          <p className="text-stone-500 mb-4">Admin access required.</p>
+          <a href="/auth/login" className="text-brand-500 hover:underline">Sign in</a>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div className="min-h-screen bg-stone-50">
       <Header />
@@ -169,6 +190,9 @@ export default function AdminPage() {
               Review and approve art styles and character references before generating illustrations
             </p>
           </div>
+          <Link href="/admin/status" className="text-sm bg-stone-200 text-stone-700 px-4 py-2 rounded-lg hover:bg-stone-300">
+            Pipeline Dashboard
+          </Link>
         </div>
 
         {needsSetup ? null : (

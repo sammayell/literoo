@@ -3,6 +3,9 @@
 import { useState, useEffect } from "react";
 import Link from "next/link";
 import { Header } from "@/components/shared/Header";
+import { useAuth } from "@/lib/auth-context";
+
+const ADMIN_EMAILS = ["sam@sammayell.com", "hello@chillplayvibe.com"];
 
 interface PipelineStatus {
   books: { total: number; byTier: Record<string, number> };
@@ -21,12 +24,15 @@ const TIER_LABELS: Record<string, string> = {
 };
 
 export default function AdminStatusPage() {
+  const { user, loading: authLoading } = useAuth();
+  const isAdmin = user && ADMIN_EMAILS.includes(user.email || "");
+
   const [status, setStatus] = useState<PipelineStatus | null>(null);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    loadStatus();
-  }, []);
+    if (isAdmin) loadStatus();
+  }, [isAdmin]);
 
   async function loadStatus() {
     setLoading(true);
@@ -36,6 +42,20 @@ export default function AdminStatusPage() {
       setStatus(data);
     } catch {}
     setLoading(false);
+  }
+
+  if (authLoading) {
+    return <div className="min-h-screen flex items-center justify-center"><div className="text-stone-400">Loading...</div></div>;
+  }
+  if (!isAdmin) {
+    return (
+      <div className="min-h-screen flex items-center justify-center">
+        <div className="text-center">
+          <p className="text-stone-500 mb-4">Admin access required.</p>
+          <a href="/auth/login" className="text-brand-500 hover:underline">Sign in</a>
+        </div>
+      </div>
+    );
   }
 
   return (

@@ -1,9 +1,23 @@
 import { NextResponse } from "next/server";
-import { createServiceRoleClient } from "@/lib/supabase/server";
+import { createServiceRoleClient, createServerSupabase } from "@/lib/supabase/server";
 import fs from "fs";
 import path from "path";
 
+// Admin emails that can access admin routes
+const ADMIN_EMAILS = ["sam@sammayell.com", "hello@chillplayvibe.com"];
+
 export async function GET() {
+  // Auth check — only admin emails can access
+  try {
+    const authSupabase = await createServerSupabase();
+    const { data: { user } } = await authSupabase.auth.getUser();
+    if (!user || !ADMIN_EMAILS.includes(user.email || "")) {
+      return NextResponse.json({ error: "Unauthorized" }, { status: 403 });
+    }
+  } catch {
+    return NextResponse.json({ error: "Unauthorized" }, { status: 403 });
+  }
+
   const supabase = createServiceRoleClient();
   const DATA_DIR = path.join(process.cwd(), "src", "data");
 
@@ -64,12 +78,22 @@ export async function GET() {
     anthropicStatus = "error";
   }
 
+  // Load cost data if available
+  let costs = null;
+  try {
+    const costLogPath = path.join(process.cwd(), "..", "content", "cost-log.json");
+    if (fs.existsSync(costLogPath)) {
+      costs = JSON.parse(fs.readFileSync(costLogPath, "utf-8"));
+    }
+  } catch {}
+
   return NextResponse.json({
     books: { total, byTier },
     illustrations,
     api: {
       anthropic: anthropicStatus,
-      gemini: "unknown", // Would need a test call to verify
+      gemini: "unknown",
     },
+    costs,
   });
 }

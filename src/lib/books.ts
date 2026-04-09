@@ -5,10 +5,27 @@ import path from 'path';
 const SAMPLES_DIR = path.join(process.cwd(), 'src', 'data');
 
 export function getAllBooks(): Book[] {
-  const files = fs.readdirSync(SAMPLES_DIR).filter(f => f.endsWith('.json'));
+  const files = fs.readdirSync(SAMPLES_DIR).filter(f => f.endsWith('.json') && f !== 'illustration-admin.json');
   return files.map(file => {
-    const content = fs.readFileSync(path.join(SAMPLES_DIR, file), 'utf-8');
-    return JSON.parse(content) as Book;
+    try {
+      const content = fs.readFileSync(path.join(SAMPLES_DIR, file), 'utf-8');
+      return JSON.parse(content) as Book;
+    } catch {
+      return null;
+    }
+  }).filter((book): book is Book => {
+    if (!book) return false;
+    // Only show books that are complete: have title, chapters with content, and a synopsis
+    if (!book.title || book.title.length < 3) return false;
+    if (!book.chapters || book.chapters.length === 0) return false;
+    if (!book.synopsis || book.synopsis.length < 10) return false;
+    // Check that chapters have actual content
+    const hasContent = book.chapters.some(ch =>
+      (ch.pages && ch.pages.length > 0 && ch.pages.some(p => p.text && p.text.length > 5)) ||
+      (ch.content && ch.content.length > 20)
+    );
+    if (!hasContent) return false;
+    return true;
   }).sort((a, b) => {
     const tierOrder = ['baby', 'toddler', 'early_reader', 'reader', 'middle_grade', 'young_adult'];
     return tierOrder.indexOf(a.ageTier) - tierOrder.indexOf(b.ageTier);
