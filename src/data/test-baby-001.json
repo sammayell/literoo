@@ -107,57 +107,38 @@
   "quiz": {
     "questions": [
       {
+        "id": "q1",
         "question": "What sound does the bunny make?",
         "choices": [
           "hop hop",
           "woof woof"
         ],
-        "correct": 0
+        "correctIndex": 0,
+        "explanation": ""
       },
       {
+        "id": "q2",
         "question": "What do all the animals do before sleeping?",
         "choices": [
           "dance",
           "yawn"
         ],
-        "correct": 1
+        "correctIndex": 1,
+        "explanation": ""
       },
       {
+        "id": "q3",
         "question": "Who sleeps with Emma at the end?",
         "choices": [
           "her animal friends",
           "her mommy"
         ],
-        "correct": 0
+        "correctIndex": 0,
+        "explanation": ""
       }
     ]
   },
   "puzzle": {
-    "pages": [
-      {
-        "type": "matching",
-        "title": "Match the Animal Sounds",
-        "description": "Draw lines to match each animal with their sound",
-        "items": [
-          {
-            "left": "bunny",
-            "right": "hop hop"
-          },
-          {
-            "left": "puppy",
-            "right": "woof woof"
-          },
-          {
-            "left": "kitty",
-            "right": "meow meow"
-          }
-        ]
-      },
-      {
-        "type": "coloring",
-        "title": "Color Emma's Bedroom",
-        "description": "Color this cozy bedtime scene with warm colors"
-      }
-    ]
+    "pages": []
   }
 }
