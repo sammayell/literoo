@@ -34,8 +34,9 @@ interface ArtStyle {
 
 const STATUS_COLORS: Record<string, string> = {
   pending: "bg-yellow-100 text-yellow-800",
+  review: "bg-blue-100 text-blue-800",
   approved: "bg-green-100 text-green-800",
-  generating: "bg-blue-100 text-blue-800",
+  generating: "bg-indigo-100 text-indigo-800",
   complete: "bg-purple-100 text-purple-800",
   rejected: "bg-red-100 text-red-800",
 };
@@ -206,7 +207,8 @@ export default function AdminPage() {
                 className="px-3 py-2 border border-stone-300 rounded-lg text-sm bg-white"
               >
                 <option value="all">All Statuses</option>
-                <option value="pending">Pending</option>
+                <option value="pending">Pending (no refs)</option>
+                <option value="review">Ready for Review</option>
                 <option value="approved">Approved</option>
                 <option value="generating">Generating</option>
                 <option value="complete">Complete</option>
@@ -260,17 +262,22 @@ export default function AdminPage() {
                       className="bg-white rounded-xl border border-stone-200 p-5 hover:border-stone-300 transition-colors"
                     >
                       <div className="flex items-start gap-4">
-                        {/* Style preview */}
-                        <div className="w-16 h-16 rounded-lg bg-stone-100 flex items-center justify-center flex-shrink-0">
-                          {book.style_ref_url ? (
-                            <img
-                              src={book.style_ref_url}
-                              alt="Style ref"
-                              className="w-full h-full object-cover rounded-lg"
-                            />
-                          ) : (
-                            <span className="text-2xl">🎨</span>
-                          )}
+                        {/* Reference images */}
+                        <div className="flex gap-2 flex-shrink-0">
+                          <div className="w-20 h-20 rounded-lg bg-stone-100 flex items-center justify-center overflow-hidden border border-stone-200">
+                            {book.style_ref_url ? (
+                              <img src={book.style_ref_url} alt="Style ref" className="w-full h-full object-cover" />
+                            ) : (
+                              <div className="text-center"><span className="text-xl">🎨</span><p className="text-[8px] text-stone-400">Style</p></div>
+                            )}
+                          </div>
+                          <div className="w-20 h-20 rounded-lg bg-stone-100 flex items-center justify-center overflow-hidden border border-stone-200">
+                            {book.character_ref_urls && book.character_ref_urls.length > 0 ? (
+                              <img src={book.character_ref_urls[0]} alt="Character ref" className="w-full h-full object-cover" />
+                            ) : (
+                              <div className="text-center"><span className="text-xl">👤</span><p className="text-[8px] text-stone-400">Character</p></div>
+                            )}
+                          </div>
                         </div>
 
                         {/* Book info */}
@@ -329,7 +336,7 @@ export default function AdminPage() {
 
                         {/* Actions */}
                         <div className="flex gap-2 flex-shrink-0">
-                          {book.approval_status === "pending" && (
+                          {(book.approval_status === "review" || book.approval_status === "pending") && (
                             <>
                               <button
                                 onClick={() => approveBook(book.book_id)}
@@ -337,15 +344,20 @@ export default function AdminPage() {
                               >
                                 Approve
                               </button>
+                              {book.style_ref_url && (
+                                <button
+                                  onClick={() => rejectBook(book.book_id)}
+                                  className="bg-orange-100 text-orange-700 text-xs px-3 py-1.5 rounded-lg hover:bg-orange-200 font-semibold"
+                                >
+                                  Re-run
+                                </button>
+                              )}
                             </>
                           )}
                           {book.approval_status === "approved" && (
-                            <button
-                              onClick={() => rejectBook(book.book_id)}
-                              className="bg-stone-200 text-stone-600 text-xs px-3 py-1.5 rounded-lg hover:bg-stone-300 font-semibold"
-                            >
-                              Re-generate
-                            </button>
+                            <span className="text-green-600 text-xs font-semibold px-3 py-1.5">
+                              ✓ Approved
+                            </span>
                           )}
                           <Link
                             href={`/book/${book.book_id}`}
