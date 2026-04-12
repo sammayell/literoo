@@ -4,6 +4,22 @@ import path from 'path';
 
 const SAMPLES_DIR = path.join(process.cwd(), 'src', 'data');
 
+// A book is "library-ready" iff it has valid text AND a cover image.
+// Books without illustrations stay hidden until the pipeline generates them.
+function isBookLibraryReady(book: Book): boolean {
+  if (!book.title || book.title.length < 3) return false;
+  if (!book.chapters || book.chapters.length === 0) return false;
+  if (!book.synopsis || book.synopsis.length < 10) return false;
+  // Must have a cover image (Supabase URL)
+  if (!book.coverImage || !book.coverImage.startsWith('http')) return false;
+  const hasText = book.chapters.some(
+    (ch) =>
+      (ch.pages && ch.pages.length > 0 && ch.pages.some((p) => p.text && p.text.length > 5)) ||
+      (ch.content && ch.content.length > 20),
+  );
+  return hasText;
+}
+
 export function getAllBooks(): Book[] {
   const files = fs.readdirSync(SAMPLES_DIR).filter(f => f.endsWith('.json') && f !== 'illustration-admin.json');
   return files.map(file => {
@@ -15,17 +31,7 @@ export function getAllBooks(): Book[] {
     }
   }).filter((book): book is Book => {
     if (!book) return false;
-    // Only show books that are complete: have title, chapters with content, and a synopsis
-    if (!book.title || book.title.length < 3) return false;
-    if (!book.chapters || book.chapters.length === 0) return false;
-    if (!book.synopsis || book.synopsis.length < 10) return false;
-    // Check that chapters have actual content
-    const hasContent = book.chapters.some(ch =>
-      (ch.pages && ch.pages.length > 0 && ch.pages.some(p => p.text && p.text.length > 5)) ||
-      (ch.content && ch.content.length > 20)
-    );
-    if (!hasContent) return false;
-    return true;
+    return isBookLibraryReady(book);
   }).sort((a, b) => {
     const tierOrder = ['baby', 'toddler', 'early_reader', 'reader', 'middle_grade', 'young_adult'];
     return tierOrder.indexOf(a.ageTier) - tierOrder.indexOf(b.ageTier);
