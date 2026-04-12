@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useMemo } from "react";
+import { useState, useMemo, useCallback } from "react";
 import Link from "next/link";
 import { Book } from "@/lib/types";
 import { AGE_TIER_LABELS, AGE_TIER_COLORS, AgeTier } from "@/lib/types";
@@ -276,35 +276,61 @@ export default function LibraryClient({ books, freeBookIds: freeBookIdsArray }: 
   );
 }
 
+const TIER_COVER_EMOJI: Record<AgeTier, string> = {
+  baby: "🌙",
+  toddler: "🌈",
+  early_reader: "📖",
+  reader: "🔍",
+  middle_grade: "🚀",
+  young_adult: "⚡",
+};
+
+const TIER_COVER_GRADIENT: Record<AgeTier, string> = {
+  baby: "from-pink-200 via-pink-100 to-rose-50",
+  toddler: "from-green-200 via-emerald-100 to-teal-50",
+  early_reader: "from-blue-200 via-sky-100 to-cyan-50",
+  reader: "from-orange-200 via-amber-100 to-yellow-50",
+  middle_grade: "from-purple-200 via-violet-100 to-fuchsia-50",
+  young_adult: "from-slate-300 via-slate-200 to-gray-100",
+};
+
 function BookCard({ book, isFree }: { book: Book; isFree: boolean }) {
   const colors = AGE_TIER_COLORS[book.ageTier];
+  const [imgFailed, setImgFailed] = useState(false);
+  const onImgError = useCallback(() => setImgFailed(true), []);
+
+  const showImage = book.coverImage && !imgFailed;
 
   return (
     <Link
       href={`/book/${book.id}`}
       className="card-playful group bg-white rounded-2xl border border-stone-200 overflow-hidden hover:border-brand-300 relative"
     >
-      {/* Free launch — all books available */}
-
       {/* Cover */}
       <div
-        className={`h-48 ${colors.bg} relative overflow-hidden`}
+        className={`h-48 relative overflow-hidden ${showImage ? colors.bg : `bg-gradient-to-br ${TIER_COVER_GRADIENT[book.ageTier]}`}`}
       >
-        {book.coverImage ? (
-          // Plain <img> (not next/image) so remote Supabase URLs render without remotePatterns config.
+        {showImage ? (
           // eslint-disable-next-line @next/next/no-img-element
           <img
             src={book.coverImage}
             alt={`Cover of ${book.title}`}
             loading="lazy"
+            onError={onImgError}
             className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
           />
         ) : (
-          <div
-            className={`absolute -bottom-8 -right-8 w-32 h-32 rounded-full opacity-20 ${
-              book.ageTier === "young_adult" ? "bg-teal-400" : "bg-stone-800"
-            }`}
-          />
+          /* Decorative fallback — large emoji + decorative circles */
+          <div className="absolute inset-0 flex items-center justify-center">
+            {/* Background circles */}
+            <div className="absolute top-4 right-4 w-20 h-20 rounded-full bg-white/20" />
+            <div className="absolute bottom-6 left-4 w-14 h-14 rounded-full bg-white/15" />
+            <div className="absolute top-10 left-10 w-8 h-8 rounded-full bg-white/25" />
+            {/* Central emoji */}
+            <span className="text-5xl opacity-60 group-hover:scale-110 transition-transform duration-300 select-none drop-shadow-sm">
+              {TIER_COVER_EMOJI[book.ageTier]}
+            </span>
+          </div>
         )}
         {/* Title overlay with gradient for legibility */}
         <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/70 via-black/30 to-transparent p-4 pt-8">
