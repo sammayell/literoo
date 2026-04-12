@@ -3,6 +3,16 @@ import fs from 'fs';
 import path from 'path';
 
 const SAMPLES_DIR = path.join(process.cwd(), 'src', 'data');
+const HIDDEN_FILE = path.join(SAMPLES_DIR, 'hidden-books.json');
+
+function getHiddenBookIds(): Set<string> {
+  try {
+    const ids = JSON.parse(fs.readFileSync(HIDDEN_FILE, 'utf-8'));
+    return new Set(ids);
+  } catch {
+    return new Set();
+  }
+}
 
 // A book is "library-ready" iff it has valid text AND a cover image.
 // Books without illustrations stay hidden until the pipeline generates them.
@@ -21,7 +31,8 @@ function isBookLibraryReady(book: Book): boolean {
 }
 
 export function getAllBooks(): Book[] {
-  const files = fs.readdirSync(SAMPLES_DIR).filter(f => f.endsWith('.json') && f !== 'illustration-admin.json');
+  const hidden = getHiddenBookIds();
+  const files = fs.readdirSync(SAMPLES_DIR).filter(f => f.endsWith('.json') && f !== 'illustration-admin.json' && f !== 'hidden-books.json');
   return files.map(file => {
     try {
       const content = fs.readFileSync(path.join(SAMPLES_DIR, file), 'utf-8');
@@ -31,6 +42,7 @@ export function getAllBooks(): Book[] {
     }
   }).filter((book): book is Book => {
     if (!book) return false;
+    if (hidden.has(book.id)) return false;
     return isBookLibraryReady(book);
   }).sort((a, b) => {
     const tierOrder = ['baby', 'toddler', 'early_reader', 'reader', 'middle_grade', 'young_adult'];

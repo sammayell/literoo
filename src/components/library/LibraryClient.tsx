@@ -1,9 +1,12 @@
 "use client";
 
-import { useState, useMemo, useCallback } from "react";
+import { useState, useMemo, useCallback, useEffect } from "react";
 import Link from "next/link";
 import { Book } from "@/lib/types";
 import { AGE_TIER_LABELS, AGE_TIER_COLORS, AgeTier } from "@/lib/types";
+import { useAuth } from "@/lib/auth-context";
+
+const ADMIN_EMAILS = ["sam@sammayell.com", "hello@chillplayvibe.com"];
 
 interface LibraryClientProps {
   books: Book[];
@@ -37,6 +40,33 @@ export default function LibraryClient({ books, freeBookIds: freeBookIdsArray }: 
   const [search, setSearch] = useState("");
   const [activeTiers, setActiveTiers] = useState<Set<AgeTier>>(new Set());
   const [activeGenres, setActiveGenres] = useState<Set<string>>(new Set());
+
+  // Admin: hide/unhide books
+  const { user } = useAuth();
+  const isAdmin = user && ADMIN_EMAILS.includes(user.email || "");
+  const [hiddenIds, setHiddenIds] = useState<Set<string>>(new Set());
+  const [showHidden, setShowHidden] = useState(false);
+
+  // Load hidden book IDs for admins
+  useEffect(() => {
+    if (!isAdmin) return;
+    fetch("/api/admin/hide-book")
+      .then((r) => r.json())
+      .then((d) => setHiddenIds(new Set(d.hidden || [])))
+      .catch(() => {});
+  }, [isAdmin]);
+
+  const toggleHideBook = useCallback(async (bookId: string, hide: boolean) => {
+    const res = await fetch("/api/admin/hide-book", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ bookId, action: hide ? "hide" : "unhide" }),
+    });
+    if (res.ok) {
+      const data = await res.json();
+      setHiddenIds(new Set(data.hidden));
+    }
+  }, []);
 
   // Compute top 10 genres from all books
   const topGenres = useMemo(() => {
@@ -237,6 +267,8 @@ export default function LibraryClient({ books, freeBookIds: freeBookIdsArray }: 
                 key={book.id}
                 book={book}
                 isFree={freeBookIds.has(book.id)}
+                isAdmin={!!isAdmin}
+                onHide={toggleHideBook}
               />
             ))}
           </div>
@@ -264,12 +296,54 @@ export default function LibraryClient({ books, freeBookIds: freeBookIdsArray }: 
                       key={book.id}
                       book={book}
                       isFree={freeBookIds.has(book.id)}
+                      isAdmin={!!isAdmin}
+                      onHide={toggleHideBook}
                     />
                   ))}
                 </div>
               </section>
             );
           })
+        )}
+
+        {/* Admin: Hidden Books Section */}
+        {isAdmin && hiddenIds.size > 0 && (
+          <section className="mt-16 border-t-2 border-dashed border-stone-300 pt-8">
+            <div className="flex items-center justify-between mb-6">
+              <div className="flex items-center gap-3">
+                <span className="text-sm font-bold text-stone-400 uppercase tracking-wider">
+                  Hidden Books ({hiddenIds.size})
+                </span>
+                <span className="text-xs bg-red-100 text-red-600 px-2 py-0.5 rounded-full font-medium">
+                  Admin Only
+                </span>
+              </div>
+              <button
+                onClick={() => setShowHidden(!showHidden)}
+                className="text-sm text-brand-500 hover:text-brand-700 font-medium"
+              >
+                {showHidden ? "Hide" : "Show"}
+              </button>
+            </div>
+            {showHidden && (
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                {Array.from(hiddenIds).map((id) => (
+                  <div
+                    key={id}
+                    className="flex items-center justify-between bg-stone-100 rounded-xl px-4 py-3 border border-stone-200"
+                  >
+                    <span className="text-sm text-stone-600 font-mono truncate mr-3">{id}</span>
+                    <button
+                      onClick={() => toggleHideBook(id, false)}
+                      className="text-xs bg-green-500 text-white px-3 py-1.5 rounded-lg font-semibold hover:bg-green-600 active:scale-95 transition-all whitespace-nowrap"
+                    >
+                      Unhide
+                    </button>
+                  </div>
+                ))}
+              </div>
+            )}
+          </section>
         )}
       </main>
     </>
@@ -294,7 +368,12 @@ const TIER_COVER_GRADIENT: Record<AgeTier, string> = {
   young_adult: "from-slate-300 via-slate-200 to-gray-100",
 };
 
-function BookCard({ book, isFree }: { book: Book; isFree: boolean }) {
+function BookCard({ book, isFree, isAdmin, onHide }: {
+  book: Book;
+  isFree: boolean;
+  isAdmin: boolean;
+  onHide: (bookId: string, hide: boolean) => void;
+}) {
   const colors = AGE_TIER_COLORS[book.ageTier];
   const [imgFailed, setImgFailed] = useState(false);
   const onImgError = useCallback(() => setImgFailed(true), []);
@@ -338,6 +417,21 @@ function BookCard({ book, isFree }: { book: Book; isFree: boolean }) {
             {book.title}
           </h3>
         </div>
+
+        {/* Admin: hide button */}
+        {isAdmin && (
+          <button
+            onClick={(e) => {
+              e.preventDefault();
+              e.stopPropagation();
+              onHide(book.id, true);
+            }}
+            className="absolute top-2 right-2 z-20 bg-red-500/80 hover:bg-red-600 text-white text-xs px-2 py-1 rounded-lg font-medium opacity-0 group-hover:opacity-100 transition-opacity backdrop-blur-sm"
+            title={`Hide ${book.id}`}
+          >
+            Hide
+          </button>
+        )}
       </div>
 
       {/* Card body */}
