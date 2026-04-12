@@ -1,0 +1,202 @@
+{
+  "id": "v2-toddler-humor-a101c33716",
+  "title": "Steam on Every Window",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "humor",
+    "fantasy"
+  ],
+  "wordCount": 240,
+  "readingLevel": "Beginner",
+  "synopsis": "When mysterious packages arrive in Malik's cozy kitchen throughout the year, he and his sister discover magical surprises that bring them closer together through the changing seasons.",
+  "coverImage": "",
+  "chapters": [
+    {
+      "title": "Spring Surprise",
+      "pages": [
+        {
+          "text": "A package tumbled through the mail slot with a thump and a whoosh! In the cozy kitchen where steam kissed every window, Malik watched droplets dance down the glass. 'Who could it be from?' he wondered with glee. 'A mystery gift, just for me!'",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, and gentle expressive eyes stands in a warm kitchen with steam on the windows, looking at a colorful package on the floor. His expression shows curious delight. Exaggerated cartoon style with oversized expressions, candy bright colors, and bouncy dynamic energy.",
+            "alt": "Malik discovering a mysterious package in his steamy kitchen",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Inside were seeds that sparkled like stars, with a note that said 'Plant near and far!' Malik's sister ran in to see, 'A mystery gift, now for we!' Together they planted each tiny seed, sharing every single deed.",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, and gentle expressive eyes and his sister planting glittering seeds in pots on the kitchen counter. Steam swirls around the windows as they work together with exaggerated happy expressions. Exaggerated cartoon style with slapstick energy and rubber hose animation feel.",
+            "alt": "Malik and his sister planting magical sparkling seeds together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Summer Magic",
+      "pages": [
+        {
+          "text": "When summer came with another surprise, a box appeared before their eyes! In the steamy kitchen warm and bright, they opened it with pure delight. 'A mystery gift!' they sang as one, 'Our sharing has just begun!'",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, and gentle expressive eyes and his sister opening a summer package together in their kitchen. The windows are extra steamy from summer heat, and their plants from spring are now growing. Comedic poses with bouncy dynamic energy and oversized expressions of excitement.",
+            "alt": "Malik and his sister opening their summer mystery gift",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Inside were paints that changed their hue, from red to green to gold to blue! They painted pictures side by side, with mystery magic as their guide. The kitchen walls began to glow, with colors dancing to and fro.",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, and gentle expressive eyes and his sister painting with magical color-changing paints. The kitchen walls are covered in glowing, swirling artwork. Steam continues on the windows. Exaggerated cartoon style with squash and stretch effects and candy bright colors everywhere.",
+            "alt": "Malik and his sister creating magical glowing artwork together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Winter Wonder",
+      "pages": [
+        {
+          "text": "When winter's chill made windows fog, in came a gift like morning's glow! The cozy kitchen, warm and dear, held one last mystery of the year. 'A mystery gift!' they cheered with glee, 'The best surprise for you and me!'",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, and gentle expressive eyes and his sister in their cozy winter kitchen with heavily steamed windows. They're discovering their final mysterious package together. Their summer artwork still glows on the walls, and spring plants have grown tall. Exaggerated cartoon style with comedic winter clothes and bouncy expressions.",
+            "alt": "Malik and his sister finding their winter mystery gift",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A telescope to see the stars, and a note that said 'From near and far, a friend who loves to watch you grow, through seasons fast and seasons slow.' Hand in hand they looked up high, at mysteries dancing in the sky.",
+          "illustration": {
+            "description": "Malik with short twists, dark brown skin, and gentle expressive eyes and his sister holding hands while looking through a magical telescope at a star-filled sky visible through their steamy kitchen window. Their year of magical gifts surrounds them - growing plants, glowing artwork. Exaggerated cartoon style with oversized telescope and candy bright stars, slapstick poses full of wonder.",
+            "alt": "Malik and his sister stargazing together with their magical telescope",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "sibling bonds",
+      "sharing",
+      "mystery",
+      "seasonal changes"
+    ],
+    "vocabulary": [
+      "mystery",
+      "seasons",
+      "sharing",
+      "together",
+      "magic"
+    ],
+    "teachingMoments": [
+      "cooperation",
+      "curiosity",
+      "gratitude",
+      "family bonds"
+    ],
+    "coverPrompt": {
+      "description": "A cozy kitchen with steam swirling on foggy windows, showing Malik with short twists, dark brown skin, and gentle expressive eyes, alongside his sister, both looking excitedly at a mysterious wrapped package on the kitchen table. Exaggerated cartoon style with candy bright colors, bouncy dynamic poses, and comedic expressions of wonder.",
+      "alt": "Malik and his sister in their steamy kitchen looking at a mysterious gift"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What came in the first mystery package?",
+        "choices": [
+          "Sparkling seeds",
+          "Magic paints",
+          "A telescope"
+        ],
+        "correctIndex": 0,
+        "explanation": "The first package in spring contained seeds that sparkled like stars!"
+      },
+      {
+        "id": "q2",
+        "question": "What did Malik and his sister do with the summer gift?",
+        "choices": [
+          "Planted them",
+          "Painted pictures",
+          "Looked at stars"
+        ],
+        "correctIndex": 1,
+        "explanation": "In summer, they received magic paints that changed colors and painted pictures together!"
+      },
+      {
+        "id": "q3",
+        "question": "How did the kitchen windows look?",
+        "choices": [
+          "Clean and clear",
+          "Covered with steam",
+          "Painted with colors"
+        ],
+        "correctIndex": 1,
+        "explanation": "The cozy kitchen always had steam on the windows!"
+      },
+      {
+        "id": "q4",
+        "question": "What did Malik and his sister learn to do?",
+        "choices": [
+          "Share together",
+          "Cook dinner",
+          "Clean windows"
+        ],
+        "correctIndex": 0,
+        "explanation": "Throughout the seasons, Malik and his sister learned to share their mystery gifts together!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "mystery",
+            "distractors": [
+              "happy",
+              "big"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "steam",
+            "distractors": [
+              "water",
+              "rain"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "together",
+            "distractors": [
+              "alone",
+              "quickly"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "sharing",
+            "distractors": [
+              "running",
+              "hiding"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "malik"
+}

@@ -1,0 +1,165 @@
+{
+  "id": "v2-toddler-family-6e07a2b827",
+  "title": "When Snow Falls Upward",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "family",
+    "adventure"
+  ],
+  "wordCount": 267,
+  "readingLevel": "Toddler (2-4 years)",
+  "synopsis": "Kettle, a magical teapot, discovers upside-down snow while working in her family bakery at dawn. She follows the impossible weather through the warm kitchen to the cold storage room, learning that sharing wonder with her baker siblings makes mysteries even more magical.",
+  "coverImage": "",
+  "chapters": [
+    {
+      "title": "The Warm Kitchen Discovery",
+      "pages": [
+        {
+          "text": "Whoosh-whoosh! The snow was falling UP! Kettle watched white flakes dance upward past the bakery window, twirling and swirling toward the dark sky. 'Bubble-pop!' went her excitement steam. The magical teapot had never seen anything so topsy-turvy wonderful! Around her, the warm bakery hummed with rising bread - puff, puff, PUFF - filling the air with yeasty sweetness. Her baker siblings kneaded and rolled, kneaded and rolled, but nobody noticed the impossible snow dancing backward through the morning darkness.",
+          "illustration": {
+            "description": "A magical living teapot with sky-blue porcelain, painted yellow flowers, a curling handle arm, and steam curling from the spout like hair stands by a bakery window watching snow fall upward. The cozy kitchen home scene shows warm yellows oranges, steam and flour in the air, baker siblings working at tables with aprons, everyday love moments of family cooking together.",
+            "alt": "Kettle watching upward snow through bakery window while bakers work",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'Look-look-LOOK!' Kettle bubbled to her sister Whisk. 'The snow goes UP-UP-UP!' But Whisk was busy-busy, folding croissant dough - fold, turn, fold. 'Pip-pip-hooray!' Kettle tried with brother Rolling Pin. But he was shaping baguettes - stretch, twist, stretch. The upward snow kept dancing, dancing, calling Kettle to follow its impossible path. Where did up-snow go? What made it climb instead of fall?",
+          "illustration": {
+            "description": "A magical living teapot with sky-blue porcelain, painted yellow flowers, a curling handle arm, and steam curling from the spout like hair excitedly steaming near baker siblings Whisk and Rolling Pin who are working with dough. The cozy kitchen scene shows family cooking together, warm yellows oranges, flour dusting, aprons, and upward-floating snowflakes visible through windows.",
+            "alt": "Kettle trying to show her busy baker siblings the upward snow",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Cold Room Adventure",
+      "pages": [
+        {
+          "text": "Tip-tap, tip-tap! Kettle followed the mystery snow. It drifted through the bakery door - whoosh! - into the cold storage room. BRRR! Her warm steam went 'puff-shiver-puff!' The upward flakes sparkled like tiny dancers, spinning up-up-UP toward the ceiling. But in the chilly air, something magical happened - the backward snow began to spell out sparkly letters: S-H-A-R-E!",
+          "illustration": {
+            "description": "A magical living teapot with sky-blue porcelain, painted yellow flowers, a curling handle arm, and steam curling from the spout like hair enters a cold storage room where upward-falling snow spells out 'SHARE' in sparkly letters. The scene contrasts the cold blue storage area with warm light from the bakery door, showing the cozy kitchen home atmosphere beyond.",
+            "alt": "Kettle in cold storage watching snow spell out SHARE in the air",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'WHISK! ROLLING PIN! Come-come-COME!' Kettle called with her biggest bubble-whistle. Her siblings rushed in - pitter-patter, pitter-patter! 'Ooh!' gasped Whisk. 'Ahh!' sighed Rolling Pin. Together they watched the snow-letters dance and swirl. 'Share the magic!' Kettle steamed happily. And suddenly - POP! - the snow remembered how to fall down, sprinkling them all with giggly sparkles. The impossible weather was even MORE wonderful when they watched it together!",
+          "illustration": {
+            "description": "A magical living teapot with sky-blue porcelain, painted yellow flowers, a curling handle arm, and steam curling from the spout like hair celebrates with baker siblings Whisk and Rolling Pin as magical snow falls normally around them in sparkles. The scene shows family gathering, everyday love moments, warm connection between siblings in the cozy kitchen home setting.",
+            "alt": "Kettle and her siblings celebrating together as the magical snow returns to normal",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonds",
+      "sharing wonder",
+      "curiosity",
+      "sibling love"
+    ],
+    "readingFeatures": [
+      "repetitive sounds",
+      "onomatopoeia",
+      "sensory details",
+      "simple adventure"
+    ],
+    "vocabularyFocus": [
+      "direction words",
+      "weather",
+      "baking terms",
+      "family"
+    ],
+    "illustrationStyle": "cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments",
+    "coverPrompt": {
+      "description": "A magical living teapot with sky-blue porcelain, painted yellow flowers, a curling handle arm, and steam curling from the spout like hair stands in a warm bakery kitchen surrounded by floating upward snow. The scene shows cozy kitchen home atmosphere with warm yellows and oranges, steam from fresh bread, and flour dusting surfaces in the pre-dawn light.",
+      "alt": "Kettle the magical teapot in a bakery with upward-falling snow"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Which way was the snow falling at the beginning?",
+        "choices": [
+          "Up toward the sky",
+          "Down to the ground",
+          "Sideways in circles"
+        ],
+        "correctIndex": 0,
+        "explanation": "The snow was falling UP, which was very unusual and magical!"
+      },
+      {
+        "id": "q2",
+        "question": "Where do Kettle and her siblings work?",
+        "choices": [
+          "A toy store",
+          "A bakery",
+          "A library"
+        ],
+        "correctIndex": 1,
+        "explanation": "They work in a warm bakery making bread and pastries in the early morning."
+      },
+      {
+        "id": "q3",
+        "question": "What did the magical snow spell out?",
+        "choices": [
+          "HELLO",
+          "SHARE",
+          "MAGIC"
+        ],
+        "correctIndex": 1,
+        "explanation": "The upward snow spelled out 'SHARE' in sparkly letters in the cold room."
+      },
+      {
+        "id": "q4",
+        "question": "How did Kettle feel when her siblings joined her?",
+        "choices": [
+          "Sad and lonely",
+          "Happy and excited",
+          "Scared and worried"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kettle was happy because the magic was even MORE wonderful when shared with her siblings!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "UP",
+            "distractors": [
+              "down",
+              "fast"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "SHARE",
+            "distractors": [
+              "PLAY",
+              "JUMP"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "kettle"
+}

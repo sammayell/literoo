@@ -1,0 +1,167 @@
+{
+  "id": "v2-toddler-feelings-97e5d5306f",
+  "title": "The Door Between Seasons",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "feelings",
+    "bedtime"
+  ],
+  "wordCount": 205,
+  "readingLevel": "Pre-K",
+  "synopsis": "When a mysterious door appears in the familiar kitchen throughout the year, Nia learns to navigate her feelings while sharing magical seasonal adventures with her little brother.",
+  "coverImage": "",
+  "chapters": [
+    {
+      "title": "Spring's Gentle Knock",
+      "pages": [
+        {
+          "text": "Steam wrote secret messages on the kitchen windows while Mama stirred soup that smelled like hugs. Nia noticed the door first—pale green and humming like new grass—right where the pantry should be. Her baby brother Marcus reached for it with sticky fingers, but Nia gently moved his hand away. 'Not yet,' she whispered, though she wasn't sure why.",
+          "illustration": {
+            "description": "Nia, a child with long braids with colorful beads, dark brown skin, and warm kind eyes, kneels beside her baby brother in a cozy kitchen with steam on the windows. A soft green door glows where the pantry should be, surrounded by gentle spring colors and new growth swirls in an abstract emotional background.",
+            "alt": "Nia protectively guiding her baby brother away from a mysterious green door",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Summer's Bright Challenge",
+      "pages": [
+        {
+          "text": "By summer, the door had turned golden yellow and warm to touch. Marcus could walk now and kept trying to turn the handle. Nia felt her chest get tight and red-angry when he wouldn't listen. 'Mine first!' she said, louder than the sizzling pan. But when Marcus's face crumpled like wilted lettuce, Nia's anger melted into something softer. Maybe sharing magic wouldn't make it disappear.",
+          "illustration": {
+            "description": "Nia, a child with long braids with colorful beads, dark brown skin, and warm kind eyes, stands with her toddler brother Marcus near a bright golden door. Red angry swirls transform into softer yellow understanding colors while steam dances on the kitchen windows and summer heat shimmers around them.",
+            "alt": "Nia's anger transforming into understanding as she looks at her upset brother",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Winter's Quiet Lesson",
+      "pages": [
+        {
+          "text": "The autumn door had been orange and rustling, but winter's door was silver-quiet like snow on rooftops. Marcus caught a cold and couldn't play. Nia opened the door alone and found nothing but peaceful white silence. It felt empty without someone to share the wonder with. When Marcus felt better, Nia took his hand. 'Together?' she asked. His giggle echoed like sleigh bells as they stepped through, and Nia understood—magic was always better when it was shared, patient as fresh snow falling.",
+          "illustration": {
+            "description": "Nia, a child with long braids with colorful beads, dark brown skin, and warm kind eyes, holds hands with Marcus as they approach a shimmering silver door. Peaceful blue and white colors swirl around them in the cozy kitchen with steam on the windows, while gentle snowflake patterns create a calm emotional background.",
+            "alt": "Nia and Marcus holding hands, ready to share the magic of the winter door together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "sibling relationships",
+      "sharing",
+      "emotional growth",
+      "patience"
+    ],
+    "readingTime": "3-5 minutes",
+    "illustrationCount": 3,
+    "coverPrompt": {
+      "description": "Nia, a child with long braids with colorful beads, dark brown skin, and warm kind eyes, stands beside a shimmering door in a cozy kitchen. Steam curls on the windows while swirls of orange autumn leaves, white winter snow, green spring buds, and golden summer sun dance around the magical doorway in abstract emotional colors.",
+      "alt": "Cover showing Nia next to a magical seasonal door in a steamy kitchen"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Nia notice first in the kitchen?",
+        "choices": [
+          "A green door",
+          "Steam on windows",
+          "Baby Marcus"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nia noticed the pale green door where the pantry should be."
+      },
+      {
+        "id": "q2",
+        "question": "How did Nia feel when Marcus tried to touch the summer door?",
+        "choices": [
+          "Happy",
+          "Angry",
+          "Sleepy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nia felt red-angry when Marcus wouldn't listen, but then her anger melted into something softer."
+      },
+      {
+        "id": "q3",
+        "question": "What color was the winter door?",
+        "choices": [
+          "Golden yellow",
+          "Silver-quiet",
+          "Orange"
+        ],
+        "correctIndex": 1,
+        "explanation": "The winter door was silver-quiet like snow on rooftops."
+      },
+      {
+        "id": "q4",
+        "question": "What did Nia learn about magic?",
+        "choices": [
+          "It's better alone",
+          "It's better shared",
+          "It's scary"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nia understood that magic was always better when it was shared with someone else."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "green",
+            "distractors": [
+              "red",
+              "blue"
+            ]
+          },
+          {
+            "wordIndex": 32,
+            "correctWord": "whispered",
+            "distractors": [
+              "shouted",
+              "sang"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "yellow",
+            "distractors": [
+              "purple",
+              "black"
+            ]
+          },
+          {
+            "wordIndex": 28,
+            "correctWord": "sharing",
+            "distractors": [
+              "hiding",
+              "breaking"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "nia"
+}

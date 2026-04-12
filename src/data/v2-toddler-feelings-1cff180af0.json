@@ -1,0 +1,201 @@
+{
+  "id": "v2-toddler-feelings-1cff180af0",
+  "title": "Colors Beneath the Waves",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "feelings",
+    "bedtime"
+  ],
+  "wordCount": 319,
+  "readingLevel": "Pre-K",
+  "synopsis": "A tiny field mouse named Pebble discovers a magical coral reef where she must learn to communicate with sea creatures through colors and feelings when words won't work.",
+  "coverImage": "",
+  "chapters": [
+    {
+      "title": "Day One: The Discovery",
+      "pages": [
+        {
+          "text": "Tiny bubbles tickled Pebble's whiskers as she floated down through the blue-green water. The bluebell cap on her head worked perfectly as a diving bell, just as her grandmother had promised. Below her stretched a bright coral reef, alive with orange branches and purple fans that swayed like they were dancing.",
+          "illustration": {
+            "description": "A tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, descending through swirling blue-green water toward a vibrant coral reef. The background shows emotion-mapped colors with peaceful blues and curious greens. Coral formations glow with warm orange and purple hues.",
+            "alt": "Pebble swimming down toward the colorful coral reef",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "A thousand small fish patrolled the reef in silver streams. They moved like one giant creature, turning left, then right, then spiraling up toward the surface. Pebble had never seen anything so beautiful. She swam closer, her tiny paws paddling through the warm water.",
+          "illustration": {
+            "description": "A tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, surrounded by streams of silver fish moving in coordinated patterns. The background shows warm yellows and oranges representing wonder and joy, with abstract swirls following the fish movements.",
+            "alt": "Pebble watching the coordinated movements of a thousand small fish",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Day Two: The Problem",
+      "pages": [
+        {
+          "text": "The next morning, Pebble returned to find the fish swimming in tight, worried circles. Their silver scales had turned gray, and they bumped into the coral like they couldn't see where they were going. Something was wrong, but when Pebble squeaked hello, they didn't understand her mouse words.",
+          "illustration": {
+            "description": "A tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, floating near confused gray fish swimming in chaotic circles. The background shows anxious red swirls and worried purple clouds, representing the emotional tension in the water.",
+            "alt": "Pebble trying to communicate with confused and worried fish",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Pebble tried squeaking louder, then softer. She tried mouse songs and even attempted to swim in fish patterns. Nothing worked. The fish kept bumping into things, growing more upset by the moment. Their gray color was spreading through the reef like a sad shadow.",
+          "illustration": {
+            "description": "A tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, attempting to mimic fish swimming patterns while surrounded by increasingly gray and distressed fish. The background shows frustrated orange streaks mixing with spreading gray shadows.",
+            "alt": "Pebble unsuccessfully trying different ways to communicate with the fish",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Day Three: The Choice",
+      "pages": [
+        {
+          "text": "On the third day, Pebble noticed something different. When she felt happy, tiny golden sparkles appeared around her whiskers. When she felt sad, blue drops floated from her eyes. The fish began to watch her curiously. Maybe feelings could be a language too.",
+          "illustration": {
+            "description": "A tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, with golden sparkles around her whiskers and blue drops near her eyes. Fish are gathering around her with renewed silver color. The background shows emotion-mapped colors transitioning from blue sadness to golden hope.",
+            "alt": "Pebble discovering she can communicate through visible emotions",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Pebble closed her eyes and felt deep calm, the kind she felt when her mother sang lullabies. Soft green light flowed from her fur, spreading through the water. The fish began to glow silver again, swimming in gentle, peaceful spirals. They understood her heart-language perfectly.",
+          "illustration": {
+            "description": "A tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, glowing with soft green light that spreads through the water. The thousand fish are restored to bright silver, swimming in beautiful peaceful spirals. The background shows calm green and blue hues with gentle golden streams.",
+            "alt": "Pebble successfully communicating peace to the fish through emotional colors",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "As twilight painted the water purple, Pebble floated up toward home. She had learned that sometimes the most important conversations happen without words at all. The reef glowed softly below her, and a thousand small fish wished her goodnight in streams of silver light.",
+          "illustration": {
+            "description": "A tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, ascending through purple twilight water. Below her, the coral reef glows warmly and silver streams of fish create farewell patterns. The background shows peaceful purple and deep blue colors with touches of warm golden reef-glow.",
+            "alt": "Pebble swimming home at twilight, with the fish bidding her farewell",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "communication",
+      "empathy",
+      "uniqueness",
+      "problem-solving"
+    ],
+    "vocabulary": [
+      "coral",
+      "reef",
+      "sparkles",
+      "spirals",
+      "twilight"
+    ],
+    "concepts": [
+      "different ways of communicating",
+      "helping others",
+      "feelings as language"
+    ],
+    "coverPrompt": {
+      "description": "A tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, floating gently through swirling coral formations painted in emotion-mapped colors - warm orange joy, deep blue calm, and gentle pink curiosity. The reef glows with magical light as colorful fish swim in patterns around her.",
+      "alt": "Pebble the mouse exploring a magical underwater coral reef"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Pebble use to breathe underwater?",
+        "choices": [
+          "A bluebell cap",
+          "Fish gills",
+          "A magic wand"
+        ],
+        "correctIndex": 0,
+        "explanation": "Pebble's bluebell cap worked like a diving bell to help her breathe underwater."
+      },
+      {
+        "id": "q2",
+        "question": "How did the fish look when they were worried?",
+        "choices": [
+          "Golden and bright",
+          "Gray and confused",
+          "Red and angry"
+        ],
+        "correctIndex": 1,
+        "explanation": "When the fish were worried, their silver scales turned gray and they swam in confused circles."
+      },
+      {
+        "id": "q3",
+        "question": "What appeared around Pebble's whiskers when she felt happy?",
+        "choices": [
+          "Golden sparkles",
+          "Blue drops",
+          "Silver streams"
+        ],
+        "correctIndex": 0,
+        "explanation": "When Pebble felt happy, tiny golden sparkles appeared around her whiskers."
+      },
+      {
+        "id": "q4",
+        "question": "How did Pebble finally help the fish?",
+        "choices": [
+          "By singing loudly",
+          "By sharing calm feelings",
+          "By swimming faster"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pebble helped the fish by sharing her calm feelings, which spread as soft green light through the water."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "bubbles",
+            "distractors": [
+              "flowers",
+              "leaves"
+            ]
+          },
+          {
+            "wordIndex": 8,
+            "correctWord": "whiskers",
+            "distractors": [
+              "ears",
+              "tail"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "sparkles",
+            "distractors": [
+              "bubbles",
+              "drops"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "pebble"
+}

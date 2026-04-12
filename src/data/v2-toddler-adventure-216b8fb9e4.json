@@ -1,0 +1,170 @@
+{
+  "id": "v2-toddler-adventure-216b8fb9e4",
+  "title": "Whiskers Watches the Wobbling World",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "adventure",
+    "animals"
+  ],
+  "wordCount": 476,
+  "readingLevel": "toddler",
+  "synopsis": "A curious cat watches as young Malik tries to understand his new neighbor's peculiar habits through four seasons of hilarious mishaps in the golden pumpkin patch.",
+  "coverImage": "",
+  "chapters": [
+    {
+      "title": "Spring Sprouting",
+      "pages": [
+        {
+          "text": "I am Whiskers the cat, and humans do the silliest things when they don't understand each other. Last spring, I watched Malik with his short twists, dark brown skin, and gentle expressive eyes try to peek over our fence at the new neighbor. The pumpkin patch glowed like honey in the golden hour light, and sweet earth smells filled my whiskers. Malik climbed on a wobbly bucket to see better - CRASH! Down he tumbled into the soft dirt, covered in mud from ear to toe.",
+          "illustration": {
+            "description": "Treasure map style illustration of Malik with short twists, dark brown skin, and gentle expressive eyes tumbling from an overturned bucket in a golden pumpkin patch, with tiny green sprouts poking through rich soil, sepia tones with jewel-green accents for the plants, dotted trail showing his fall",
+            "alt": "Malik falling off a bucket in the spring pumpkin patch",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The new neighbor, Mrs. Chen, was doing something very strange - she was talking to her vegetable seeds and singing lullabies to her tomato plants! Malik thought this was the most peculiar thing he'd ever seen. He tried to copy her by whispering to a dandelion, but he leaned too close and - ACHOO! - sneezed so hard he blew all the white puff seeds everywhere. They swirled around like tiny dancers in the golden light.",
+          "illustration": {
+            "description": "Treasure map style illustration showing Malik with short twists, dark brown skin, and gentle expressive eyes sneezing dandelion seeds everywhere while Mrs. Chen tends her garden in background, aged parchment with compass roses, white seeds floating like snow against sepia tones",
+            "alt": "Malik sneezing dandelion seeds in the garden",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Summer Silliness",
+      "pages": [
+        {
+          "text": "By summer, the pumpkin patch stretched wide and green, buzzing with fat bees and smelling like warm earth and growing things. Mrs. Chen had started doing morning yoga with her vegetables - downward dog next to the corn, warrior pose by the beans! Malik decided to try this too. He stretched his arms up high like Mrs. Chen, wobbled on one foot like a flamingo, then - THUMP! - toppled backward into a pile of soft pumpkin leaves.",
+          "illustration": {
+            "description": "Treasure map style illustration of Malik with short twists, dark brown skin, and gentle expressive eyes doing yoga poses and falling into pumpkin vines, treasure map borders with dotted paths showing his wobbling movements, golden summer light in sepia tones with green jewel accents",
+            "alt": "Malik attempting yoga and falling into pumpkin plants",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The funniest part was when Malik tried to copy Mrs. Chen's meditation. He sat very still, closed his eyes tight, and tried to be peaceful like her. But a curious butterfly landed right on his nose! His eyes went cross-eyed trying to look at it, he wiggled his nose, made the silliest face - and the butterfly tickled so much he giggled and snorted until he couldn't stop!",
+          "illustration": {
+            "description": "Treasure map style illustration showing Malik with short twists, dark brown skin, and gentle expressive eyes cross-eyed with a colorful butterfly on his nose, sitting among summer vegetables, hand-drawn map style with jewel-bright butterfly against aged parchment",
+            "alt": "Malik sitting cross-eyed with a butterfly on his nose",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Autumn Understanding",
+      "pages": [
+        {
+          "text": "Now it was autumn, the day before Halloween, and the pumpkin patch glowed orange and gold in the magical golden hour light. The air smelled like cinnamon and crispy leaves. Mrs. Chen was painting faces on her pumpkins and having tea parties with her scarecrow! Malik thought this looked wonderful and tried to join in. He carried his favorite pumpkin over to show her, but it was so big and round he couldn't see his feet - WHOOSH! - he rolled down the little hill like a bowling ball!",
+          "illustration": {
+            "description": "Treasure map style illustration of Malik with short twists, dark brown skin, and gentle expressive eyes rolling down a hill while hugging a large pumpkin, autumn leaves swirling around, treasure map style with dotted trail lines, sepia tones with orange and gold jewel accents",
+            "alt": "Malik rolling down a hill with a big pumpkin",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "But when Malik landed at the bottom - surprise! - Mrs. Chen was there with warm apple cider and the biggest smile. 'I was hoping you'd come say hello,' she laughed. 'Would you like to help me paint pumpkin faces?' And that's when Malik realized Mrs. Chen wasn't strange at all - she was just someone who loved her garden in her own special way, just like Malik loved to paint and create art in his own special way.",
+          "illustration": {
+            "description": "Treasure map style illustration showing Malik with short twists, dark brown skin, and gentle expressive eyes and Mrs. Chen sitting together painting jack-o'-lantern faces in the golden pumpkin patch at sunset, adventure cartography style with warm sepia tones and orange jewel accents, compass roses in corners",
+            "alt": "Malik and Mrs. Chen painting pumpkins together at golden hour",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "illustrationStyle": "treasure map style, aged parchment, compass roses, dotted trails, sepia tones, jewel accents, bold explorers, adventure cartography, hand-drawn maps",
+    "vocabularyLevel": "simple",
+    "educationalFocus": "understanding differences, friendship, seasons",
+    "coverPrompt": {
+      "description": "A treasure map style illustration showing Malik with short twists, dark brown skin, and gentle expressive eyes standing in a golden pumpkin patch at sunset, with a clever gray tabby cat perched on a fence post watching everything, aged parchment background with compass roses in corners",
+      "alt": "Cover showing Malik and a cat in a pumpkin patch"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Who tells this story?",
+        "choices": [
+          "Malik",
+          "Whiskers the cat",
+          "Mrs. Chen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Whiskers the cat is watching and telling us about everything that happens!"
+      },
+      {
+        "id": "q2",
+        "question": "What happened when Malik tried to look over the fence?",
+        "choices": [
+          "He climbed a tree",
+          "He fell off a bucket",
+          "He called Mrs. Chen"
+        ],
+        "correctIndex": 1,
+        "explanation": "Malik crashed down when the wobbly bucket tipped over!"
+      },
+      {
+        "id": "q3",
+        "question": "What made Malik sneeze in spring?",
+        "choices": [
+          "A dandelion",
+          "Pumpkin leaves",
+          "A butterfly"
+        ],
+        "correctIndex": 0,
+        "explanation": "He leaned too close to a dandelion and sneezed all the seeds away!"
+      },
+      {
+        "id": "q4",
+        "question": "How did Malik and Mrs. Chen become friends?",
+        "choices": [
+          "By painting pumpkins together",
+          "By doing yoga",
+          "By planting seeds"
+        ],
+        "correctIndex": 0,
+        "explanation": "After all his silly mishaps, they ended up painting jack-o'-lantern faces together!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "wobbled",
+            "distractors": [
+              "jumped",
+              "danced"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "butterfly",
+            "distractors": [
+              "bee",
+              "bird"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "malik"
+}

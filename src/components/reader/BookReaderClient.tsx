@@ -15,6 +15,7 @@ import { getTTS } from "@/lib/tts";
 import { isSubscribed } from "@/lib/subscription";
 import { isChallengeBook, getChallengeDayForBook, markDayComplete } from "@/lib/challenge";
 import { UpgradePrompt } from "@/components/paywall/UpgradePrompt";
+import { fireConfetti } from "@/lib/confetti";
 
 // Flatten book into pages for the reader
 interface ReaderPage {
@@ -77,6 +78,7 @@ function flattenBookToPages(book: Book): ReaderPage[] {
             illustrationDesc: page.illustration?.description,
             illustrationAlt: page.illustration?.alt,
             illustrationLayout: page.illustration?.layout,
+            illustrationSrc: page.illustration?.src,
           });
         });
       } else if (chapter.content) {
@@ -170,7 +172,16 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
   const [aiReadActive, setAiReadActive] = useState(false);
   const [highlightedWordIndex, setHighlightedWordIndex] = useState(-1);
   const [ttsSpeed, setTtsSpeed] = useState(1.0);
+  // Index of the first page that has a Supabase-hosted illustration. We show
+  // an indeterminate loading bar at the top of the reader until that image
+  // has loaded (or we hit a failsafe timeout) so the first paint isn't a
+  // blank text page waiting for a ~1MB PNG.
+  const firstImagePageIndex = pages.findIndex((p) => !!p.illustrationSrc);
+  const hasAnyImage = firstImagePageIndex >= 0;
+  const [firstImageLoaded, setFirstImageLoaded] = useState(!hasAnyImage);
   const scrollRef = useRef<HTMLDivElement>(null);
+  const wrapperRef = useRef<HTMLDivElement>(null);
+  const touchStartRef = useRef<{ x: number; y: number; t: number } | null>(null);
   const readingTimerRef = useRef<number>(0);
 
   // Paywall check — DISABLED for free launch (all books free)
@@ -180,6 +191,24 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
     // }
     setHasCheckedAccess(true);
   }, [isFree, book.id]);
+
+  // Fire confetti when reaching the completion page
+  const completionPageIndex = pages.findIndex((p) => p.type === "completion");
+  useEffect(() => {
+    if (currentPage === completionPageIndex && completionPageIndex >= 0) {
+      const t = setTimeout(() => fireConfetti(), 300);
+      return () => clearTimeout(t);
+    }
+  }, [currentPage, completionPageIndex]);
+
+  // Failsafe: hide the initial loading bar after 4s even if the first image
+  // never loads (network failure, CDN hiccup, etc.) — the text is still
+  // readable, the bar shouldn't stick around forever.
+  useEffect(() => {
+    if (firstImageLoaded) return;
+    const t = window.setTimeout(() => setFirstImageLoaded(true), 4000);
+    return () => window.clearTimeout(t);
+  }, [firstImageLoaded]);
 
   // NO early returns — hooks must always run. Paywall renders conditionally in JSX below.
 
@@ -302,6 +331,51 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
     return () => window.removeEventListener("keydown", handleKey);
   }, [nextPage, prevPage]);
 
+  // Touch swipe navigation — the .tap-zone overlays cover the scroll container
+  // so native scroll-snap swipes never reach it. Detect swipes manually and
+  // preventDefault on touchend to suppress the emulated click on tap zones.
+  useEffect(() => {
+    const el = wrapperRef.current;
+    if (!el) return;
+    const onTouchStart = (e: TouchEvent) => {
+      if (e.touches.length !== 1) {
+        touchStartRef.current = null;
+        return;
+      }
+      const t = e.touches[0];
+      touchStartRef.current = { x: t.clientX, y: t.clientY, t: Date.now() };
+    };
+    const onTouchEnd = (e: TouchEvent) => {
+      const start = touchStartRef.current;
+      touchStartRef.current = null;
+      if (!start) return;
+      const t = e.changedTouches[0];
+      if (!t) return;
+      const dx = t.clientX - start.x;
+      const dy = t.clientY - start.y;
+      const dt = Date.now() - start.t;
+      const absDx = Math.abs(dx);
+      const absDy = Math.abs(dy);
+      // Horizontal swipe: >=50px, clearly more horizontal than vertical, under 600ms
+      if (absDx >= 50 && absDx > absDy * 1.5 && dt < 600) {
+        e.preventDefault(); // suppresses the emulated click on the tap zone
+        if (dx < 0) nextPage();
+        else prevPage();
+      }
+    };
+    const onTouchCancel = () => {
+      touchStartRef.current = null;
+    };
+    el.addEventListener("touchstart", onTouchStart, { passive: true });
+    el.addEventListener("touchend", onTouchEnd, { passive: false });
+    el.addEventListener("touchcancel", onTouchCancel, { passive: true });
+    return () => {
+      el.removeEventListener("touchstart", onTouchStart);
+      el.removeEventListener("touchend", onTouchEnd);
+      el.removeEventListener("touchcancel", onTouchCancel);
+    };
+  }, [nextPage, prevPage]);
+
   // Scroll snap detection
   useEffect(() => {
     const container = scrollRef.current;
@@ -340,6 +414,7 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
 
   return (
     <div
+      ref={wrapperRef}
       data-reader-theme={applyTheme}
       className="relative w-screen h-screen overflow-hidden select-none"
       style={{
@@ -347,6 +422,13 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
         color: "var(--reader-text, #1a1a1a)",
       }}
     >
+      {/* Initial image loading bar — indeterminate sweep until the first
+          illustration loads (or the 4s failsafe fires). Sits above the top
+          bar so it's always visible at first paint. */}
+      {!firstImageLoaded && (
+        <div className="initial-load-bar" aria-hidden="true" />
+      )}
+
       {/* Top bar */}
       <div
         className={`fixed top-0 left-0 right-0 z-50 transition-transform duration-300 ${
@@ -677,27 +759,71 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
                 </h2>
               </div>
             ) : page.type === "completion" ? (
-              // Completion page with quiz/puzzle CTAs
-              // Completion page with quiz/puzzle CTAs + challenge tracking
-              <div className="text-center max-w-md mx-auto px-8">
-                <div className="text-5xl mb-6">
+              // Animated completion page with celebrations
+              <div className="text-center max-w-md mx-auto px-8 relative">
+                {/* Sparkle decorations */}
+                <div className="absolute inset-0 pointer-events-none overflow-hidden">
+                  <span className="animate-sparkle absolute top-4 left-8 text-2xl" style={{ animationDelay: "0s" }}>✨</span>
+                  <span className="animate-sparkle absolute top-12 right-6 text-xl" style={{ animationDelay: "0.5s" }}>⭐</span>
+                  <span className="animate-sparkle absolute top-2 right-20 text-lg" style={{ animationDelay: "1s" }}>✨</span>
+                  <span className="animate-sparkle absolute bottom-32 left-4 text-xl" style={{ animationDelay: "0.3s" }}>🌟</span>
+                  <span className="animate-sparkle absolute bottom-40 right-10 text-lg" style={{ animationDelay: "0.8s" }}>⭐</span>
+                </div>
+
+                {/* Main star */}
+                <div className="animate-celebrate-in text-6xl sm:text-7xl mb-6">
                   {book.ageTier === "baby" || book.ageTier === "toddler" ? "🌟" : "🎉"}
                 </div>
+
+                {/* Title */}
                 <h2
-                  className="text-3xl font-bold mb-3 font-[family-name:var(--font-literata)]"
-                  style={{ color: "var(--reader-text)" }}
+                  className="animate-stagger-fade-up text-3xl sm:text-4xl font-bold mb-3 font-[family-name:var(--font-literata)]"
+                  style={{ color: "var(--reader-text)", animationDelay: "0.15s", opacity: 0 }}
                 >
                   The End
                 </h2>
-                <p className="text-sm opacity-50 mb-8">
-                  Great job reading {book.title}!
+
+                {/* Age-appropriate encouragement */}
+                <p
+                  className="animate-stagger-fade-up text-base sm:text-lg mb-2 font-semibold"
+                  style={{ color: "var(--reader-accent)", animationDelay: "0.3s", opacity: 0 }}
+                >
+                  {(() => {
+                    const tier = book.ageTier;
+                    const msgs =
+                      tier === "baby" || tier === "toddler"
+                        ? ["You did it!", "Storytime superstar!", "What a great listener!", "Wonderful!"]
+                        : tier === "early_reader"
+                        ? ["Amazing reading!", "Your brain just grew!", "Way to go, reader!", "Awesome job!"]
+                        : ["Another one down!", "Great read!", "Keep it up!", "Nicely done!"];
+                    return msgs[Math.floor(Math.random() * msgs.length)];
+                  })()}
                 </p>
 
-                <div className="flex flex-col gap-3 max-w-xs mx-auto">
+                {/* Stats card */}
+                <div
+                  className="animate-stagger-fade-up inline-flex items-center gap-4 rounded-xl px-5 py-3 mb-8 text-sm"
+                  style={{
+                    backgroundColor: "color-mix(in srgb, var(--reader-text) 6%, transparent)",
+                    color: "var(--reader-text-secondary)",
+                    animationDelay: "0.45s",
+                    opacity: 0,
+                  }}
+                >
+                  <span>{book.chapters.length} chapter{book.chapters.length !== 1 ? "s" : ""}</span>
+                  <span className="w-1 h-1 rounded-full bg-current opacity-40" />
+                  <span>{book.wordCount.toLocaleString()} words</span>
+                </div>
+
+                {/* Action buttons */}
+                <div
+                  className="animate-stagger-fade-up flex flex-col gap-3 max-w-xs mx-auto"
+                  style={{ animationDelay: "0.6s", opacity: 0 }}
+                >
                   {book.quiz && (
                     <button
                       onClick={() => setReaderMode("quiz")}
-                      className="w-full py-3 px-6 bg-brand-500 text-white rounded-xl font-semibold text-sm hover:bg-brand-600 transition-colors flex items-center justify-center gap-2"
+                      className="w-full py-3 px-6 bg-brand-500 text-white rounded-xl font-semibold text-sm hover:bg-brand-600 active:scale-[0.97] transition-all flex items-center justify-center gap-2"
                     >
                       <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                         <circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><path d="M12 17h.01"/>
@@ -708,17 +834,16 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
                   {book.puzzle && (
                     <button
                       onClick={() => setReaderMode("puzzle")}
-                      className="w-full py-3 px-6 bg-purple-500 text-white rounded-xl font-semibold text-sm hover:bg-purple-600 transition-colors flex items-center justify-center gap-2"
+                      className="w-full py-3 px-6 bg-purple-500 text-white rounded-xl font-semibold text-sm hover:bg-purple-600 active:scale-[0.97] transition-all flex items-center justify-center gap-2"
                     >
                       Try the Word Puzzle!
                     </button>
                   )}
 
-                  {/* Challenge tracking */}
                   {isChallengeBook(book.id) && (
                     <Link
                       href="/challenge"
-                      className="w-full py-3 px-6 bg-green-500 text-white rounded-xl font-semibold text-sm hover:bg-green-600 transition-colors text-center"
+                      className="w-full py-3 px-6 bg-green-500 text-white rounded-xl font-semibold text-sm hover:bg-green-600 active:scale-[0.97] transition-all text-center"
                       onClick={() => {
                         const dayIdx = getChallengeDayForBook(book.id);
                         if (dayIdx >= 0) {
@@ -732,7 +857,7 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
 
                   <Link
                     href="/library"
-                    className="w-full py-3 px-6 bg-stone-200 text-stone-700 rounded-xl font-semibold text-sm hover:bg-stone-300 transition-colors text-center"
+                    className="w-full py-3 px-6 bg-stone-200 text-stone-700 rounded-xl font-semibold text-sm hover:bg-stone-300 active:scale-[0.97] transition-all text-center"
                   >
                     Back to Library
                   </Link>
@@ -744,60 +869,60 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
                   </Link>
                 </div>
               </div>
-            ) : (
-              // Content page
-              <div
-                className={`w-full h-full flex flex-col ${
-                  mode === "picture-book"
-                    ? "justify-center items-center px-6 py-12"
-                    : "justify-start items-center overflow-y-auto px-6 pt-20 pb-16"
-                }`}
-              >
-                {/* Illustration — real image if src exists, placeholder if not */}
-                {(page.illustrationSrc || page.illustrationDesc) && (
-                  <div
-                    className={`${
-                      mode === "picture-book"
-                        ? "w-full max-w-2xl mb-6"
-                        : "w-full max-w-xl mb-6"
-                    }`}
-                  >
-                    {page.illustrationSrc ? (
-                      <img
-                        src={page.illustrationSrc}
-                        alt={page.illustrationAlt || "Illustration"}
-                        className={`${
-                          mode === "picture-book"
-                            ? "rounded-2xl"
-                            : "rounded-xl"
-                        } w-full object-contain max-h-[60vh]`}
-                      />
-                    ) : (
-                      <div
-                        className={`${
-                          mode === "picture-book"
-                            ? "aspect-[4/3] rounded-2xl"
-                            : "aspect-[16/10] rounded-xl"
-                        } bg-gradient-to-br from-stone-200 to-stone-300 flex items-center justify-center p-6 text-center`}
-                      >
-                        <div>
-                          <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="mx-auto mb-3 text-stone-400">
-                            <rect width="18" height="18" x="3" y="3" rx="2" ry="2" />
-                            <circle cx="9" cy="9" r="2" />
-                            <path d="m21 15-3.086-3.086a2 2 0 0 0-2.828 0L6 21" />
-                          </svg>
-                          <p className="text-xs text-stone-400 italic max-w-sm">
-                            {page.illustrationAlt || "Illustration"}
-                          </p>
-                        </div>
-                      </div>
-                    )}
-                  </div>
-                )}
+            ) : (() => {
+              // Content page — build illustration + text blocks, then choose layout
+              const hasIll = !!(page.illustrationSrc || page.illustrationDesc);
 
-                {/* Text content — with optional word highlighting for AI Read */}
+              const illustrationBlock = hasIll ? (
                 <div
-                  className={`reader-tier-${typographyTier} w-full mx-auto`}
+                  className={`reader-split-image ${
+                    mode === "picture-book"
+                      ? "w-full max-w-2xl mb-6 lg:mb-0 lg:max-w-none px-6 py-8 lg:px-0 lg:py-0"
+                      : "w-full max-w-xl mb-6 lg:mb-0 lg:max-w-none px-6 pt-20 lg:px-0 lg:pt-0"
+                  }`}
+                >
+                  {page.illustrationSrc ? (
+                    // eslint-disable-next-line @next/next/no-img-element
+                    <img
+                      src={page.illustrationSrc}
+                      alt={page.illustrationAlt || "Illustration"}
+                      loading={i === firstImagePageIndex ? "eager" : "lazy"}
+                      fetchPriority={i === firstImagePageIndex ? "high" : "low"}
+                      decoding="async"
+                      onLoad={i === firstImagePageIndex ? () => setFirstImageLoaded(true) : undefined}
+                      onError={i === firstImagePageIndex ? () => setFirstImageLoaded(true) : undefined}
+                      className={`${
+                        mode === "picture-book" ? "rounded-2xl" : "rounded-xl"
+                      } w-full object-contain max-h-[60vh] lg:max-h-[85vh]`}
+                    />
+                  ) : (
+                    <div
+                      className={`${
+                        mode === "picture-book"
+                          ? "aspect-[4/3] rounded-2xl"
+                          : "aspect-[16/10] rounded-xl"
+                      } bg-gradient-to-br from-stone-200 to-stone-300 flex items-center justify-center p-6 text-center`}
+                    >
+                      <div>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" className="mx-auto mb-3 text-stone-400">
+                          <rect width="18" height="18" x="3" y="3" rx="2" ry="2" />
+                          <circle cx="9" cy="9" r="2" />
+                          <path d="m21 15-3.086-3.086a2 2 0 0 0-2.828 0L6 21" />
+                        </svg>
+                        <p className="text-xs text-stone-400 italic max-w-sm">
+                          {page.illustrationAlt || "Illustration"}
+                        </p>
+                      </div>
+                    </div>
+                  )}
+                </div>
+              ) : null;
+
+              const textBlock = (
+                <div
+                  className={`${hasIll ? "reader-split-text" : ""} reader-tier-${typographyTier} w-full mx-auto ${
+                    hasIll ? "px-6 pb-16 lg:px-0 lg:pb-0" : ""
+                  }`}
                   style={{
                     color: "var(--reader-text)",
                     fontSize: `calc(1em + ${fontSizeAdjust})`,
@@ -806,20 +931,16 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
                   {page.content.split("\n").map((line, li) => {
                     if (!line.trim()) return <div key={li} className="h-2" />;
 
-                    // When AI Read is active, wrap each word in a span for highlighting
                     if (aiReadActive && i === currentPage) {
                       let globalWordIndex = 0;
-                      // Calculate word offset for this line within the full page text
                       const linesAbove = page.content.split("\n").slice(0, li);
                       for (const prevLine of linesAbove) {
                         if (prevLine.trim()) {
                           globalWordIndex += prevLine.trim().split(/\s+/).length;
                         }
                       }
-
                       const words = line.split(/(\s+)/);
                       let wordIdx = globalWordIndex;
-
                       return (
                         <p key={li} className="mb-4">
                           {words.map((segment, si) => {
@@ -845,8 +966,31 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
                     );
                   })}
                 </div>
-              </div>
-            )}
+              );
+
+              // With illustration → side-by-side on desktop via reader-split-layout
+              if (hasIll) {
+                return (
+                  <div className="reader-split-layout">
+                    {illustrationBlock}
+                    {textBlock}
+                  </div>
+                );
+              }
+
+              // Text-only page — centered, same as before
+              return (
+                <div
+                  className={`w-full h-full flex flex-col ${
+                    mode === "picture-book"
+                      ? "justify-center items-center px-6 py-12"
+                      : "justify-start items-center px-6 pt-20 pb-16"
+                  }`}
+                >
+                  {textBlock}
+                </div>
+              );
+            })()}
           </div>
         ))}
       </div>

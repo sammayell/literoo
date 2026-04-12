@@ -19,6 +19,15 @@ const TIERS: AgeTier[] = [
   "young_adult",
 ];
 
+const TIER_EMOJI: Record<AgeTier, string> = {
+  baby: "🌙",
+  toddler: "🌈",
+  early_reader: "🐉",
+  reader: "🔍",
+  middle_grade: "🎮",
+  young_adult: "⚡",
+};
+
 function estimateReadTime(wordCount: number): number {
   return Math.max(1, Math.ceil(wordCount / 150));
 }
@@ -157,7 +166,7 @@ export default function LibraryClient({ books, freeBookIds: freeBookIdsArray }: 
                       : "hover:scale-105"
                   } ${colors.bg} ${colors.text}`}
                 >
-                  {AGE_TIER_LABELS[tier]} ({count})
+                  {TIER_EMOJI[tier]} {AGE_TIER_LABELS[tier]} ({count})
                 </button>
               );
             })}
@@ -204,25 +213,21 @@ export default function LibraryClient({ books, freeBookIds: freeBookIdsArray }: 
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         {filteredBooks.length === 0 ? (
           <div className="text-center py-20">
-            <svg
-              className="w-16 h-16 mx-auto text-stone-300 mb-4"
-              fill="none"
-              stroke="currentColor"
-              viewBox="0 0 24 24"
-            >
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                strokeWidth={1.5}
-                d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"
-              />
-            </svg>
+            <div className="text-6xl mb-4 animate-[tapPulse_2s_ease-in-out_infinite]">🔍</div>
             <h3 className="text-xl font-semibold text-stone-500 mb-2 font-[family-name:var(--font-lexend)]">
-              No books match your search
+              Hmm, we couldn&apos;t find that one...
             </h3>
-            <p className="text-stone-400 font-[family-name:var(--font-literata)]">
-              Try adjusting your filters or search terms.
+            <p className="text-stone-400 mb-6 font-[family-name:var(--font-literata)]">
+              Try a different search or clear your filters.
             </p>
+            {hasFilters && (
+              <button
+                onClick={clearAll}
+                className="inline-flex items-center gap-2 px-6 py-3 bg-brand-500 text-white rounded-xl font-semibold hover:bg-brand-600 active:scale-[0.97] transition-all"
+              >
+                Clear All Filters
+              </button>
+            )}
           </div>
         ) : isSearchActive ? (
           /* Flat grid when searching */
@@ -277,24 +282,36 @@ function BookCard({ book, isFree }: { book: Book; isFree: boolean }) {
   return (
     <Link
       href={`/book/${book.id}`}
-      className="group bg-white rounded-2xl border border-stone-200 overflow-hidden hover:shadow-lg hover:border-brand-300 transition-all duration-200 relative"
+      className="card-playful group bg-white rounded-2xl border border-stone-200 overflow-hidden hover:border-brand-300 relative"
     >
       {/* Free launch — all books available */}
 
-      {/* Cover placeholder */}
+      {/* Cover */}
       <div
-        className={`h-48 ${colors.bg} flex items-center justify-center relative overflow-hidden`}
+        className={`h-48 ${colors.bg} relative overflow-hidden`}
       >
-        <div className="text-center p-6">
-          <h3 className="text-xl font-bold text-stone-800 font-[family-name:var(--font-literata)] group-hover:text-brand-600 transition-colors">
+        {book.coverImage ? (
+          // Plain <img> (not next/image) so remote Supabase URLs render without remotePatterns config.
+          // eslint-disable-next-line @next/next/no-img-element
+          <img
+            src={book.coverImage}
+            alt={`Cover of ${book.title}`}
+            loading="lazy"
+            className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+          />
+        ) : (
+          <div
+            className={`absolute -bottom-8 -right-8 w-32 h-32 rounded-full opacity-20 ${
+              book.ageTier === "young_adult" ? "bg-teal-400" : "bg-stone-800"
+            }`}
+          />
+        )}
+        {/* Title overlay with gradient for legibility */}
+        <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/70 via-black/30 to-transparent p-4 pt-8">
+          <h3 className="text-lg font-bold text-white font-[family-name:var(--font-literata)] line-clamp-2 drop-shadow-md">
             {book.title}
           </h3>
         </div>
-        <div
-          className={`absolute -bottom-8 -right-8 w-32 h-32 rounded-full opacity-20 ${
-            book.ageTier === "young_adult" ? "bg-teal-400" : "bg-stone-800"
-          }`}
-        />
       </div>
 
       {/* Card body */}

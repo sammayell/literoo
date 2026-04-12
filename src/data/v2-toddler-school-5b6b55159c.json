@@ -1,0 +1,178 @@
+{
+  "id": "v2-toddler-school-5b6b55159c",
+  "title": "Seven Feathers on the Wind",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "school",
+    "animals"
+  ],
+  "wordCount": 299,
+  "readingLevel": "Pre-K",
+  "synopsis": "When a mysterious door appears in their snowbound mountain cabin, little owl Hoot discovers seven magical gifts arriving each day of the week, each one teaching him about sharing and family bonds in the most dreamlike way.",
+  "coverImage": "",
+  "chapters": [
+    {
+      "title": "Monday's Magic Door",
+      "pages": [
+        {
+          "text": "Snow whispers secrets against the cabin walls, while fire crackles stories only owls can hear.\n\nHoot blinks his enormous golden eyes. Where the old bookshelf once stood, a door now glows like captured moonbeams.\n\n'Seven gifts, seven days,' sings the wind through the chimney. 'Each one to share, each one to keep.'\n\nThe first gift tumbles through: a silver acorn that chimes like bells. Hoot's sister Pip swoops down from her perch.\n\n'Mine too?' she hoots softly.\n\nHoot nods, and together they roll the singing acorn across the warm wooden floor.",
+          "illustration": {
+            "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers sits beside a slightly larger owl sister near a glowing magical door in a cozy mountain cabin. A silver acorn glimmers between them while snow falls outside windows and fire crackles in the hearth. Drawn in chalkboard style with white and colored chalk on dark green board, with small mathematical doodles in corners.",
+            "alt": "Hoot and his sister Pip with a magical silver acorn by the mysterious door",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Gifts That Grow",
+      "pages": [
+        {
+          "text": "Tuesday brings a feather made of starlight. Wednesday whispers in a shell that holds ocean songs. Thursday's gift is honey that tastes like summer dreams.\n\n'Seven gifts, seven days,' Hoot hoots to Pip as Friday's present appears—a tiny snow globe with a dancing bear inside.\n\n'Each one to share, each one to keep,' Pip hoots back, her tufty ear feathers twitching with joy.\n\nBut Saturday's gift makes both little owls gasp: twin golden bells that ring in perfect harmony only when held together.\n\nHoot offers one to Pip. She offers hers to him. They laugh as the bells sing their shared song.",
+          "illustration": {
+            "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers holds one golden bell while his sister holds another, both bells glowing with warm light. Around them float the week's magical gifts: starlight feather, singing shell, dream honey jar, and dancing snow globe. The mysterious door glimmers in the background of the snowy cabin. Chalkboard style art with colored chalk on dark green board, equations scattered decoratively.",
+            "alt": "Hoot and Pip sharing magical golden bells with other enchanted gifts floating around them",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sunday's Secret",
+      "pages": [
+        {
+          "text": "Sunday's gift arrives as the fire burns low and dreams begin to stir.\n\nThrough the magic door floats something impossible: their own laughter, caught in a soap bubble that never pops.\n\n'Seven gifts, seven days,' the little owls hoot together, watching their joy shimmer in the firelight.\n\n'Each one to share, each one to keep,' they whisper as the mysterious door fades like morning mist.\n\nBut the gifts remain, scattered around their cozy nest. And when wind howls outside their mountain home, Hoot and Pip play with silver acorns and golden bells, sharing every magical thing.\n\nThe door may be gone, but the sharing never ends.",
+          "illustration": {
+            "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers cuddles with his sister owl next to a dying fire in their mountain cabin. A shimmering soap bubble containing their laughter floats above them, while all seven magical gifts are arranged in a circle around their cozy nest. Snow continues falling outside as the mysterious door fades to transparency. Chalkboard style with warm colored chalk on dark green board, small heart doodles in corners.",
+            "alt": "Hoot and Pip surrounded by all their magical gifts with a bubble of captured laughter floating above",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "sharing",
+      "sibling love",
+      "magic",
+      "family bonds"
+    ],
+    "vocabulary": [
+      "acorn",
+      "harmony",
+      "shimmer",
+      "crackles",
+      "whispers"
+    ],
+    "teachingMoments": [
+      "Taking turns",
+      "Sharing with siblings",
+      "Appreciating gifts",
+      "Family togetherness"
+    ],
+    "coverPrompt": {
+      "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers stands before a glowing wooden door that shimmers like starlight in a cozy mountain cabin. Snow swirls outside frosted windows while a crackling fire casts dancing shadows. The scene is rendered in chalkboard style with white and colored chalk on a dark green board, with small equations and doodles scattered in the corners.",
+      "alt": "Baby owl Hoot looking at a magical door in a snowy cabin"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where does Hoot find the magical door?",
+        "choices": [
+          "Where the bookshelf used to be",
+          "In the fireplace",
+          "Outside in the snow"
+        ],
+        "correctIndex": 0,
+        "explanation": "The magical door appeared where the old bookshelf once stood in the cabin."
+      },
+      {
+        "id": "q2",
+        "question": "How many gifts come through the door?",
+        "choices": [
+          "Five gifts",
+          "Seven gifts",
+          "Ten gifts"
+        ],
+        "correctIndex": 1,
+        "explanation": "Seven gifts arrive, one for each day of the week."
+      },
+      {
+        "id": "q3",
+        "question": "What makes the golden bells special?",
+        "choices": [
+          "They ring together in harmony",
+          "They are very heavy",
+          "They are invisible"
+        ],
+        "correctIndex": 0,
+        "explanation": "The twin golden bells ring in perfect harmony when Hoot and Pip hold them together."
+      },
+      {
+        "id": "q4",
+        "question": "Who does Hoot share the gifts with?",
+        "choices": [
+          "His teacher",
+          "His sister Pip",
+          "A bear"
+        ],
+        "correctIndex": 1,
+        "explanation": "Hoot shares all the magical gifts with his sister Pip throughout the story."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "door",
+            "distractors": [
+              "window",
+              "chair"
+            ]
+          },
+          {
+            "wordIndex": 27,
+            "correctWord": "gifts",
+            "distractors": [
+              "books",
+              "toys"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "bells",
+            "distractors": [
+              "drums",
+              "flutes"
+            ]
+          },
+          {
+            "wordIndex": 25,
+            "correctWord": "harmony",
+            "distractors": [
+              "loudly",
+              "quietly"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "hoot"
+}

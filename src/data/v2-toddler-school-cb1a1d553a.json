@@ -1,0 +1,163 @@
+{
+  "id": "v2-toddler-school-cb1a1d553a",
+  "title": "Raindrops on the Roof",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "school"
+  ],
+  "wordCount": 196,
+  "readingLevel": "Toddler",
+  "synopsis": "When a rainstorm keeps Jasper inside, he discovers his grandmother's attic holds mysterious helpers who've been caring for forgotten classroom pets. Following a special map, he explores three magical locations where animal friends need his help.",
+  "coverImage": "",
+  "chapters": [
+    {
+      "title": "The Dusty Map Corner",
+      "pages": [
+        {
+          "text": "Pitter-pat, pitter-pat goes the rain on the tin! Up in Grandma's attic, dusty and dim, Jasper finds a rolled-up map tucked tight in a bin. 'What's this? What's this?' he whispers with a grin. The map shows three spots where helpers have been! Squeak-squeak from the corner - who could it be? Someone's been leaving tiny bowls, one-two-three!",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, and green eyes unrolls an old map in a dusty attic corner. Sunbeams filter through rain-streaked windows, illuminating floating dust particles and small empty bowls on the floor. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
+            "alt": "Boy with freckles discovering a mysterious map in a dusty attic with small bowls nearby",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The School Trunk Territory",
+      "pages": [
+        {
+          "text": "Thump-thump-thump to the trunk so old! Inside are treasures, stories untold! Nibble-nibble sounds make Jasper bold - three little hamsters, fuzzy as gold! 'Hello, hello!' he calls out sweet. 'Who's been bringing you treats to eat?' Fresh lettuce leaves and sunflower seeds neat, piled up high, oh what a feat! The map shows more, let's follow along, someone's been helping all along!",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, and green eyes kneels beside an open school trunk where three golden hamsters munch on fresh vegetables. The attic is filled with dusty school supplies and cobwebs. Rain continues pattering outside. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
+            "alt": "Boy with green eyes discovering hamsters being fed in an old school trunk",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Window Ledge Station",
+      "pages": [
+        {
+          "text": "Tip-tap, tip-tap to the ledge by the pane! Through the glass, Jasper sees the sweet rain. Chirp-chirp-chirp in a cage so plain - a tiny bird with a beautiful refrain! 'Tweet-tweet! Tweet-tweet!' she sings her song. 'Who's helped you here all along?' Then rustle-bustle, what's that sound? Grandma appears, helper found! 'I've been caring while you're away, keeping your classroom pets at play! Surprise, surprise!' she says with cheer. 'Your school friends are always welcome here!'",
+          "illustration": {
+            "description": "Jasper with wavy reddish-brown hair, fair freckled skin, and green eyes stands with his grandmother by a rain-streaked window where a small bird chirps in a cage. The attic is warm and cozy despite the storm outside. Grandma has kind eyes and wears an apron with school pet supplies nearby. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
+            "alt": "Boy with freckles and his grandmother caring for a small bird by the window during a rainstorm",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "lessonTopic": "Pet responsibility and caring for classroom animals",
+    "keyVocabulary": [
+      "responsibility",
+      "caring",
+      "helping",
+      "pets",
+      "kindness"
+    ],
+    "culturalElements": [
+      "multi-generational support",
+      "school community"
+    ],
+    "educationalValue": "Understanding that caring for pets requires daily attention and help from others",
+    "coverPrompt": {
+      "description": "Jasper with wavy reddish-brown hair, fair freckled skin, and green eyes holds a rolled-up map in a cozy attic. Rain patters on windows while small animal silhouettes peek from behind dusty boxes. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
+      "alt": "A young boy with freckles in an attic holding a map with small animals hiding nearby"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Jasper find in the attic corner?",
+        "choices": [
+          "A toy car",
+          "A rolled-up map",
+          "A book"
+        ],
+        "correctIndex": 1,
+        "explanation": "Jasper finds a rolled-up map that shows three special places in the attic!"
+      },
+      {
+        "id": "q2",
+        "question": "What animals does Jasper discover in the school trunk?",
+        "choices": [
+          "Three hamsters",
+          "Two cats",
+          "One dog"
+        ],
+        "correctIndex": 0,
+        "explanation": "Three little golden hamsters are eating fresh treats in the trunk!"
+      },
+      {
+        "id": "q3",
+        "question": "Who has been secretly helping care for the pets?",
+        "choices": [
+          "His teacher",
+          "His grandmother",
+          "His friend"
+        ],
+        "correctIndex": 1,
+        "explanation": "Grandma has been the secret helper, caring for the classroom pets during the storm!"
+      },
+      {
+        "id": "q4",
+        "question": "What sound does the rain make on the roof?",
+        "choices": [
+          "Boom-boom",
+          "Pitter-pat",
+          "Ring-ring"
+        ],
+        "correctIndex": 1,
+        "explanation": "The rain goes 'pitter-pat, pitter-pat' on the tin roof throughout the story!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "map",
+            "distractors": [
+              "hat",
+              "cat"
+            ]
+          },
+          {
+            "wordIndex": 25,
+            "correctWord": "bowls",
+            "distractors": [
+              "balls",
+              "bells"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "hamsters",
+            "distractors": [
+              "monsters",
+              "hampers"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "jasper"
+}

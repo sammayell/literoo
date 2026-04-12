@@ -1,0 +1,249 @@
+{
+  "id": "v2-early_reader-science-60cdd35ab1",
+  "title": "The Candle Knows Everything",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "science",
+    "humor"
+  ],
+  "wordCount": 822,
+  "readingLevel": "Early Reader",
+  "synopsis": "When a young mermaid finds herself trapped in a vast library after hours with only a talking sea turtle for company, she discovers that making things with her hands might be the key to understanding both science and friendship. Told from the perspective of the single candle that lights their three-day adventure.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-60cdd35ab1/cover.png",
+  "chapters": [
+    {
+      "title": "Day One: The Splash That Started Everything",
+      "pages": [
+        {
+          "text": "I am a candle, and I saw the whole thing happen. The library was perfectly quiet at midnight when the tide came rushing through the basement windows, carrying Marina, a young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes, right up the stairs and into my circle of light.\n\n'Where am I?' Marina whispered, water dripping from her seashell accents onto my wax.\n\nThat's when Professor Shellsworth poked his ancient turtle head out from behind a stack of chemistry books. 'You, my dear, are in the most wonderful place in the world. A library that studies everything that bubbles, fizzes, and changes.'",
+          "illustration": {
+            "description": "Marina, a young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes, sits in a puddle of seawater surrounded by towering bookshelves that disappear into darkness above. A single candle on a wooden table casts warm light over scattered books. Professor Shellsworth, a very old sea turtle wearing thick spectacles, emerges from behind a stack of chemistry textbooks. Scientific diagrams and equations float ghostly in the shadows. Art style: scientific wonder, wide-eyed discovery, colorful experiments.",
+            "alt": "A mermaid discovers herself in a vast library with a turtle professor by candlelight",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-60cdd35ab1/scene_1_1.png"
+          }
+        },
+        {
+          "text": "Marina's sparkling aqua eyes grew wide as she looked around. Books about mixing and melting and measuring covered every surface. Beakers and test tubes lined the shelves like crystal flowers.\n\n'I don't want to be here,' Marina said firmly. 'I need to get back to the ocean.'\n\n'Ah,' said Professor Shellsworth, adjusting his spectacles with one wrinkled flipper. 'But the tide won't return for three days. Perhaps we could make something to pass the time?'\n\nI flickered with excitement. Making things was my favorite kind of science.",
+          "illustration": {
+            "description": "Marina, a young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes, reaches toward glowing beakers and test tubes on the library shelves. Professor Shellsworth points with his flipper at colorful liquids that seem to dance in the containers. The candle's flame illuminates floating molecules and chemical formulas that drift like magical dust through the air. Art style: science as magic, bubbling reactions, colorful experiments.",
+            "alt": "The mermaid examines magical scientific equipment with the turtle professor",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-60cdd35ab1/scene_1_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Day Two: When Everything Goes Wrong",
+      "pages": [
+        {
+          "text": "The next evening, Marina tried to make a potion that would bring the tide back early. She mixed moon-silver powder with seven drops of starfish tears, just like the ancient recipe book suggested.\n\nInstead of calling the ocean, her mixture turned bright purple and started growing like a balloon.\n\n'Oh no!' Marina cried as the purple blob bounced off my flame and began rolling around the library, knocking books off shelves.\n\nProfessor Shellsworth chuckled. 'Science often surprises us, my dear. The question is: what do we do when things don't go as planned?'",
+          "illustration": {
+            "description": "Marina, a young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes, stares in amazement at a giant purple blob bouncing through the library. Books are flying everywhere as Professor Shellsworth remains calmly seated, still wearing his spectacles. The candle's light creates dramatic shadows as the purple experiment bounces past. Art style: eureka moments, amazing revelations, wide-eyed discovery.",
+            "alt": "A purple blob bounces chaotically through the library as the mermaid and turtle watch",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-60cdd35ab1/scene_2_1.png"
+          }
+        },
+        {
+          "text": "'I'm terrible at this!' Marina wailed, her seafoam-green hair floating as she threw her hands up. 'Nothing works the way it's supposed to!'\n\nBut Professor Shellsworth was examining the purple blob, which had finally settled into a corner and was now glowing softly. 'Look closer,' he said.\n\nMarina swam closer and gasped. Inside the purple blob, tiny lights were swirling like a galaxy. 'It's beautiful,' she whispered.\n\n'You didn't make what you planned,' the old turtle said. 'But you made something completely new.'",
+          "illustration": {
+            "description": "Marina, a young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes, peers closely at the now-calm purple blob, which contains swirling lights like stars inside it. Professor Shellsworth nods approvingly as they both examine the unexpected creation. The candle illuminates their faces with wonder as tiny galaxies spin within the purple substance. Art style: microscope views, scientific wonder, amazing revelations.",
+            "alt": "The mermaid and turtle discover beautiful galaxies swirling inside the purple blob",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-60cdd35ab1/scene_2_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Day Three: The Choice That Changes Everything",
+      "pages": [
+        {
+          "text": "On the third day, Marina heard the ocean calling from far below. The tide was returning.\n\n'I can go home now,' she said quietly, but she was looking at all the experiments they'd created together. Crystals that sang in harmony. A mixture that made flowers bloom from drops of water. The purple galaxy-blob, still glowing in its corner.\n\nProfessor Shellsworth smiled. 'You can always go home,' he said. 'But you can also choose to stay and make more impossible things.'\n\nI held my breath, if candles can hold their breath.",
+          "illustration": {
+            "description": "Marina, a young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes, sits surrounded by all their amazing creations: singing crystals, blooming water-flowers, and the glowing purple blob. Professor Shellsworth watches kindly as she contemplates her choice. The candle's flame wavers with anticipation. Moonlight streams through a window, creating a pathway of silver light. Art style: young scientist, scientific wonder, eureka moments.",
+            "alt": "The mermaid contemplates her choice surrounded by magical scientific creations",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-60cdd35ab1/scene_3_1.png"
+          }
+        },
+        {
+          "text": "Marina looked at her hands, still stained with colors from three days of making and mixing and discovering. Then she looked at Professor Shellsworth, who had become much more than someone she was stuck with.\n\n'What if,' Marina said slowly, 'I came back every month when the super-tide rises? I could learn to make things properly.'\n\n'My dear,' said the old turtle, 'you already make things properly. You make them your own way.'\n\nAnd that's how I learned that the best inventions happen when you're exactly where you don't expect to be, with exactly who you don't expect to meet.",
+          "illustration": {
+            "description": "Marina, a young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes, shakes hands with Professor Shellsworth in a gesture of friendship and partnership. Around them, all their scientific creations glow and sparkle: the singing crystals, the blooming flowers, the galaxy blob. The candle burns bright and steady, illuminating their new understanding. Art style: making, building, and inventing, scientific wonder, colorful experiments.",
+            "alt": "The mermaid and turtle shake hands surrounded by their glowing scientific creations",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-60cdd35ab1/scene_3_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Tide Returns",
+      "pages": [
+        {
+          "text": "The ocean water rose through the library windows again, gentle this time, like it was coming to collect a friend rather than carry away a stranger.\n\nMarina gathered her favorite creation – a small vial of liquid starlight she'd made by accident while trying to create glow-in-the-dark seaweed. 'For my collection back home,' she explained.\n\nProfessor Shellsworth handed her a waterproof notebook. 'For recording your discoveries,' he said. 'Both the planned ones and the happy accidents.'\n\nAs Marina swam toward the window, she turned back one more time. 'Thank you for teaching me that making mistakes is just another way of making magic.'\n\nAnd I, just a simple candle, flickered with the warmth of knowing that the best lessons are learned by doing, not by reading about doing.",
+          "illustration": {
+            "description": "Marina, a young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes, swims toward a window filled with gentle ocean water, holding a vial of liquid starlight and a waterproof notebook. Professor Shellsworth waves goodbye from beside the table where the candle burns steadily. All their scientific creations remain glowing softly throughout the library, creating a magical laboratory. Art style: scientific wonder, bubbling reactions, young scientist, amazing revelations.",
+            "alt": "The mermaid swims away through the window while the turtle and candle bid her farewell",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-60cdd35ab1/scene_4_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "What the Candle Remembers",
+      "pages": [
+        {
+          "text": "Now, every month when the super-tide rises, I watch Marina return with new questions and old enthusiasm. She brings strange ingredients from the ocean depths – phosphorescent plankton, pressure-formed pearls, water that freezes into impossible shapes.\n\nProfessor Shellsworth always has new experiments waiting. Together, they build devices that measure the temperature of dreams and create compounds that turn sadness into useful energy.\n\nLast month, they invented a way to bottle homesickness so it could be studied later, when it wasn't needed anymore.\n\nI am just a candle, but I've learned that science isn't about knowing everything. It's about being curious enough to make everything you don't know yet.\n\nAnd sometimes, the most important discoveries happen when you're exactly where you don't want to be, with exactly who you need to meet.",
+          "illustration": {
+            "description": "Marina, a young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes, and Professor Shellsworth work side by side at a table covered with amazing inventions: dream-temperature devices, bottled emotions, and impossible ice sculptures. The candle burns in the center, its light illuminating their latest scientific creations. The library has become a workshop of wonders. Art style: making, building, and inventing, colorful experiments, scientific wonder, eureka moments.",
+            "alt": "The mermaid and turtle continue their scientific partnership surrounded by amazing inventions",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-60cdd35ab1/scene_5_1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "making, building, and inventing",
+      "friendship",
+      "scientific discovery",
+      "embracing mistakes"
+    ],
+    "scienceConcepts": [
+      "chemical reactions",
+      "experimentation",
+      "observation",
+      "creativity in science"
+    ],
+    "vocabulary": [
+      "experiment",
+      "discovery",
+      "mixture",
+      "reaction",
+      "invention",
+      "observation"
+    ],
+    "lessonFocus": "Science is about curiosity and creativity, not perfection",
+    "coverPrompt": {
+      "description": "A vast library stretching endlessly upward, lit by the warm glow of a single candle on a wooden table. Marina, a young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes, sits surrounded by open books, her hands covered in colorful substances as she experiments. A wise old sea turtle with thick spectacles peers over an enormous tome. The art style emphasizes scientific wonder with floating molecular diagrams and magical chemistry reactions glowing in the candlelight.",
+      "alt": "A mermaid and sea turtle conduct experiments by candlelight in a vast library"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Who is telling this story?",
+        "choices": [
+          "Marina the mermaid",
+          "Professor Shellsworth the turtle",
+          "The candle"
+        ],
+        "correctIndex": 2,
+        "explanation": "The candle is the narrator of the story, watching and telling us what happens in the library."
+      },
+      {
+        "id": "q2",
+        "question": "What happened when Marina tried to make a potion to bring back the tide?",
+        "choices": [
+          "It worked perfectly",
+          "It turned into a purple blob with galaxies inside",
+          "Nothing happened"
+        ],
+        "correctIndex": 1,
+        "explanation": "Marina's potion didn't work as planned, but it created something beautiful and unexpected - a purple blob with tiny lights swirling inside like galaxies."
+      },
+      {
+        "id": "q3",
+        "question": "How long was Marina stuck in the library?",
+        "choices": [
+          "One day",
+          "Three days",
+          "One week"
+        ],
+        "correctIndex": 1,
+        "explanation": "The story follows a three-day structure: discovery on day 1, problems on day 2, and choice on day 3."
+      },
+      {
+        "id": "q4",
+        "question": "What did Professor Shellsworth teach Marina about making mistakes?",
+        "choices": [
+          "Mistakes are bad and should be avoided",
+          "Mistakes can lead to new discoveries",
+          "Mistakes mean you should give up"
+        ],
+        "correctIndex": 1,
+        "explanation": "Professor Shellsworth showed Marina that when experiments don't go as planned, they can create something completely new and wonderful."
+      },
+      {
+        "id": "q5",
+        "question": "What does Marina do at the end of the story?",
+        "choices": [
+          "Never comes back to the library",
+          "Decides to live in the library forever",
+          "Returns every month to do more experiments"
+        ],
+        "correctIndex": 2,
+        "explanation": "Marina chooses to return every month when the super-tide rises to continue learning and experimenting with Professor Shellsworth."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "mermaid",
+            "distractors": [
+              "fish",
+              "sailor"
+            ]
+          },
+          {
+            "wordIndex": 25,
+            "correctWord": "candle",
+            "distractors": [
+              "lamp",
+              "torch"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "purple",
+            "distractors": [
+              "green",
+              "blue"
+            ]
+          },
+          {
+            "wordIndex": 19,
+            "correctWord": "bouncing",
+            "distractors": [
+              "rolling",
+              "flying"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "marina"
+}

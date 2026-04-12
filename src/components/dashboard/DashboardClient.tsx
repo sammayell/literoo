@@ -153,7 +153,8 @@ function ReadingChart({ data }: { data: { date: string; seconds: number }[] }) {
                 height={Math.max(barHeight, 1)}
                 rx={2}
                 fill={isToday ? "#ee7a20" : d.seconds > 0 ? "#d6d3d1" : "#f5f5f4"}
-                className="transition-all"
+                className="animate-grow-up"
+                style={{ animationDelay: `${i * 30}ms`, transformOrigin: `${x + barWidth/2}px ${chartHeight}px` }}
               />
               {/* Day label */}
               {showLabel && (
@@ -186,8 +187,17 @@ export default function DashboardClient({ books }: { books: BookMeta[] }) {
 
   if (!mounted) {
     return (
-      <div className="min-h-screen flex items-center justify-center">
-        <div className="animate-pulse text-stone-400">Loading dashboard...</div>
+      <div className="min-h-screen flex flex-col items-center justify-center gap-4">
+        <div className="flex gap-3">
+          {[0, 1, 2].map((i) => (
+            <div
+              key={i}
+              className="w-8 h-10 bg-brand-200 rounded"
+              style={{ animation: `bookFlip 1.2s ease-in-out ${i * 0.2}s infinite` }}
+            />
+          ))}
+        </div>
+        <p className="text-stone-400 text-sm">Loading your dashboard...</p>
       </div>
     );
   }
@@ -431,14 +441,18 @@ export default function DashboardClient({ books }: { books: BookMeta[] }) {
             </div>
           ) : (
             <div className="bg-white rounded-2xl p-8 text-center shadow-sm border border-stone-100">
-              <p className="text-stone-500 mb-4">
-                No books started yet. Head to the library to begin reading!
+              <div className="text-5xl mb-4">📚</div>
+              <p className="text-stone-600 font-semibold mb-2">
+                Your reading adventure starts here!
+              </p>
+              <p className="text-stone-400 text-sm mb-6">
+                Pick a book from the library and watch this dashboard come alive.
               </p>
               <Link
                 href="/library"
-                className="inline-flex items-center gap-2 bg-brand-500 text-white px-5 py-2.5 rounded-xl font-medium hover:bg-brand-600 transition-colors"
+                className="inline-flex items-center gap-2 bg-brand-500 text-white px-6 py-3 rounded-xl font-semibold hover:bg-brand-600 active:scale-[0.97] transition-all animate-glow-pulse"
               >
-                Browse Library
+                Browse Library →
               </Link>
             </div>
           )}
@@ -457,11 +471,11 @@ export default function DashboardClient({ books }: { books: BookMeta[] }) {
                   key={m.id}
                   className={`rounded-2xl p-4 text-center border transition-all ${
                     earned
-                      ? "bg-white border-brand-200 shadow-sm"
+                      ? "bg-white border-brand-200 shadow-sm animate-shimmer"
                       : "bg-stone-100 border-stone-100 opacity-60"
                   }`}
                 >
-                  <div className="text-3xl mb-2">
+                  <div className={`text-3xl mb-2 ${earned ? "animate-celebrate-in" : ""}`}>
                     {earned ? (
                       m.icon
                     ) : (

@@ -1,0 +1,172 @@
+{
+  "id": "v2-toddler-school-aa9b7b712b",
+  "title": "Whispers in the Crystal Cave",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "school",
+    "friendship"
+  ],
+  "wordCount": 289,
+  "readingLevel": "Pre-K",
+  "synopsis": "When a magical snow globe breaks in an ice cavern classroom, a wise arctic fox guides young Oscar through two mystical locations to discover that sometimes the most beautiful solutions come from sharing what seems broken.",
+  "coverImage": "",
+  "chapters": [
+    {
+      "title": "The Chamber of Floating Words",
+      "pages": [
+        {
+          "text": "Letters drift like snowflakes through the blue-lit air, and I, an arctic fox with silver whiskers, watch them settle on Oscar's shoulders. The boy with short brown wavy hair, fair skin, and warm hazel eyes sits very still in our ice cavern classroom, holding pieces of something precious. His snow globe—the one that showed tiny children playing—lies shattered in his palms, its magic water now frozen into crystal tears on the cave floor.",
+          "illustration": {
+            "description": "Chalkboard style drawing on dark green board with white and colored chalk showing an ice cavern with pale blue light from above, floating letters in the air like snowflakes, Oscar with short brown wavy hair, fair skin, and warm hazel eyes sitting and holding broken pieces, a small arctic fox nearby, frozen puddles on the cave floor, school equations doodles, dusty texture, hand-drawn on board",
+            "alt": "Oscar holding broken snow globe pieces while letters float in an ice cave",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "'The usual glue won't work on dream-glass,' I whisper to the cave walls, knowing Oscar feels my thoughts. He nods slowly, understanding that some things need different kinds of mending. The floating letters begin to spell words we've never seen before—words that taste like winter mornings and sound like distant laughter. Perhaps, I think, watching Oscar's hazel eyes brighten, this is how fixing really begins.",
+          "illustration": {
+            "description": "Chalkboard style drawing on dark green board with white and colored chalk showing floating letters forming mysterious words in the pale blue lit ice cavern, Oscar with short brown wavy hair, fair skin, and warm hazel eyes looking up with brightening expression, arctic fox sitting close, cave walls sparkling, school themed doodles, dusty texture, hand-drawn on board",
+            "alt": "Mysterious floating letters forming words as Oscar looks up hopefully",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Gallery of Shared Stories",
+      "pages": [
+        {
+          "text": "Deeper in our crystal map, we find the place where broken things become gifts. I pad silently beside Oscar as he discovers something wonderful—other children have left pieces of their own shattered treasures here, arranged like a museum of beautiful fragments. A torn drawing, half a favorite toy, pages from a water-damaged book. Oscar's quiet invention begins to hum: what if broken things, shared, become something entirely new?",
+          "illustration": {
+            "description": "Chalkboard style drawing on dark green board with white and colored chalk showing deeper ice cavern gallery with pale blue light, Oscar with short brown wavy hair, fair skin, and warm hazel eyes examining displayed broken objects on ice shelves, arctic fox beside him, torn drawings and toy pieces arranged artistically, equations and doodles, dusty texture, hand-drawn on board",
+            "alt": "Oscar discovering a gallery of broken treasures left by other children",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "With careful fingers, Oscar places his snow globe pieces among the collection, and I watch magic bend the rules of the world. The crystal fragments begin to sing—a soft, chiming melody that makes the ice walls glow warmer. Other children appear like gentle ghosts, adding their own pieces to Oscar's, and together they build something that was never meant to be fixed, only transformed. In the blue light, friendship looks like a constellation of shared fragments, each piece holding its own perfect story.",
+          "illustration": {
+            "description": "Chalkboard style drawing on dark green board with white and colored chalk showing Oscar with short brown wavy hair, fair skin, and warm hazel eyes placing crystal pieces while ghostly outlines of other children help, ice walls glowing warmly in pale blue light, crystal pieces forming constellation patterns, arctic fox watching peacefully, school doodles, dusty texture, hand-drawn on board",
+            "alt": "Children working together to transform broken pieces into something beautiful and new",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "illustrationCount": 4,
+    "themes": [
+      "helping others",
+      "small acts of kindness",
+      "transformation",
+      "friendship"
+    ],
+    "narrativeStyle": "animal narrator",
+    "setting": "ice cavern",
+    "mood": "dreamlike",
+    "coverPrompt": {
+      "description": "Chalkboard style drawing on dark green board with white and colored chalk showing an ice cavern with pale blue light streaming from above, Oscar with short brown wavy hair, fair skin, and warm hazel eyes standing next to a small arctic fox, scattered crystal pieces glowing on the ground, equations and doodles in the corners, dusty texture, hand-drawn on board",
+      "alt": "A magical ice cave with a boy and fox looking at broken crystals"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What was broken in the story?",
+        "choices": [
+          "A snow globe",
+          "A toy car",
+          "A book"
+        ],
+        "correctIndex": 0,
+        "explanation": "Oscar's special snow globe that showed tiny children playing was broken into crystal pieces."
+      },
+      {
+        "id": "q2",
+        "question": "Who tells the story?",
+        "choices": [
+          "An arctic fox",
+          "Oscar",
+          "A teacher"
+        ],
+        "correctIndex": 0,
+        "explanation": "The story is told by an arctic fox with silver whiskers who watches and understands Oscar."
+      },
+      {
+        "id": "q3",
+        "question": "Where does the story take place?",
+        "choices": [
+          "In a regular classroom",
+          "In an ice cavern",
+          "In a library"
+        ],
+        "correctIndex": 1,
+        "explanation": "The story happens in a magical ice cavern classroom with pale blue light coming from above."
+      },
+      {
+        "id": "q4",
+        "question": "What happens to the broken pieces at the end?",
+        "choices": [
+          "They get thrown away",
+          "They become something new with other children's help",
+          "They get glued back together"
+        ],
+        "correctIndex": 1,
+        "explanation": "Oscar and other children work together to transform all their broken pieces into something beautiful and new."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "shoulders",
+            "distractors": [
+              "pockets",
+              "backpack"
+            ]
+          },
+          {
+            "wordIndex": 22,
+            "correctWord": "hazel",
+            "distractors": [
+              "blue",
+              "green"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "children",
+            "distractors": [
+              "animals",
+              "teachers"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "invention",
+            "distractors": [
+              "imagination",
+              "creation"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "oscar"
+}

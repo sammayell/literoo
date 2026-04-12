@@ -1,0 +1,156 @@
+{
+  "id": "v2-toddler-friendship-c21c7f5228",
+  "title": "Bridges Between Branches",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "feelings"
+  ],
+  "wordCount": 182,
+  "readingLevel": "Early Reader",
+  "synopsis": "Finn discovers someone has been secretly caring for his pet bird while he sleeps, leading him through the treehouse village to uncover his mysterious helper.",
+  "coverImage": "",
+  "chapters": [
+    {
+      "title": "The Eastern Oak",
+      "pages": [
+        {
+          "text": "Fresh seeds scatter in Pippin's cage, though Finn never put them there.\n\nUp in the Eastern Oak where rope bridges creak,\nSomeone helps when I'm asleep,\nWho could it be? Who could it be?\nLeaving gifts for Pippin and me?\n\nFinn climbs down from his treehouse home. The wooden planks smell like morning rain. His blue-green eyes search the swaying bridges for clues.\n\n'Thank you!' he calls to the wind.\n\nBut wind just whistles back.\n\nPippin chirps and fluffs her feathers. She knows something Finn doesn't know.",
+          "illustration": {
+            "description": "Finn, a boy with messy sandy-blonde hair, pale skin with freckles, and blue-green eyes, peers into a birdcage hanging from his treehouse. His pet bird Pippin sits among scattered fresh seeds. Rope bridges stretch between giant oak trees in the background. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities",
+            "alt": "Finn looking at his bird's cage with fresh seeds scattered inside",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Western Willow",
+      "pages": [
+        {
+          "text": "Finn follows the longest bridge to the Western Willow, where branches bend like dancer's arms.\n\nUp in the Western Willow where rope bridges sway,\nSomeone helps when I'm away,\nWho could it be? Who could it be?\nLeaving gifts for Pippin and me?\n\nThere sits Maya, Finn's friend, with seeds in her pocket and a smile on her face.\n\n'I heard Pippin singing,' Maya says. 'Birds sing louder when they're happy. So I thought... maybe she'd like extra breakfast.'\n\nFinn hugs Maya tight. Now he knows.\n\nSometimes the best surprises come from the best friends.",
+          "illustration": {
+            "description": "Finn, a boy with messy sandy-blonde hair, pale skin with freckles, and blue-green eyes, hugs his friend Maya on a rope bridge platform in a willow tree. Maya holds bird seeds in her hands. Pippin the bird flies nearby. More treehouses and bridges are visible through the drooping willow branches. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities",
+            "alt": "Finn hugging Maya while she holds bird seeds, with their pet bird flying around them",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "kindness",
+      "mystery",
+      "pet care"
+    ],
+    "vocabulary": [
+      "bridges",
+      "treehouse",
+      "seeds",
+      "chirps",
+      "mystery"
+    ],
+    "morals": [
+      "Friends help each other",
+      "Taking care of pets",
+      "Gratitude"
+    ],
+    "coverPrompt": {
+      "description": "Finn, a boy with messy sandy-blonde hair, pale skin with freckles, and blue-green eyes, stands on a rope bridge between colorful treehouses. His pet bird perches on his shoulder. The village spreads below with more bridges connecting tree to tree. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities",
+      "alt": "A boy on a rope bridge between treehouses with his pet bird"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Finn find in Pippin's cage?",
+        "choices": [
+          "fresh seeds",
+          "toy mice",
+          "shiny rocks"
+        ],
+        "correctIndex": 0,
+        "explanation": "Finn discovers fresh seeds that someone left for his bird Pippin while he was sleeping."
+      },
+      {
+        "id": "q2",
+        "question": "Where does Finn live?",
+        "choices": [
+          "in a castle",
+          "in a treehouse",
+          "in a cave"
+        ],
+        "correctIndex": 1,
+        "explanation": "Finn lives in a treehouse in the Eastern Oak, connected to other treehouses by rope bridges."
+      },
+      {
+        "id": "q3",
+        "question": "Who was secretly helping Finn?",
+        "choices": [
+          "Maya",
+          "his mom",
+          "a squirrel"
+        ],
+        "correctIndex": 0,
+        "explanation": "Maya, Finn's friend, was the one leaving seeds for Pippin because she wanted the bird to be happy."
+      },
+      {
+        "id": "q4",
+        "question": "Why did Maya leave seeds for Pippin?",
+        "choices": [
+          "she was hungry",
+          "birds sing louder when happy",
+          "she was lost"
+        ],
+        "correctIndex": 1,
+        "explanation": "Maya noticed that birds sing louder when they're happy, so she left extra seeds to make Pippin happy."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "seeds",
+            "distractors": [
+              "leaves",
+              "water"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "bridges",
+            "distractors": [
+              "stairs",
+              "ladders"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "friend",
+            "distractors": [
+              "sister",
+              "teacher"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "finn"
+}

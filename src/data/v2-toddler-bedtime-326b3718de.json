@@ -1,0 +1,165 @@
+{
+  "id": "v2-toddler-bedtime-326b3718de",
+  "title": "Whispers in the Snow",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "bedtime",
+    "humor"
+  ],
+  "wordCount": 175,
+  "readingLevel": "Beginner",
+  "synopsis": "Otto the baby otter discovers mysterious acts of kindness happening around his snowy mountain cabin. Someone is secretly helping him, but who could it be? A hushed bedtime mystery about care and friendship.",
+  "coverImage": "",
+  "chapters": [
+    {
+      "title": "The Cabin Kitchen",
+      "pages": [
+        {
+          "text": "Something smells like warm fish soup. Otto, a chubby baby otter with soft chestnut-brown fur, sparkling dark eyes, tiny paws, and floppy whiskers, tippy-toes to the stove. Steam curls up. Up. Up. The pot bubbles softly. But Otto didn't make soup. The fire crackles. Snow taps the windows. Who made this?",
+          "illustration": {
+            "description": "Otto, a chubby baby otter with soft chestnut-brown fur, sparkling dark eyes, tiny paws, and floppy whiskers, stands on tiptoes reaching toward a steaming pot in a cozy cabin kitchen. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
+            "alt": "Otto the baby otter reaching toward a steaming pot in a cabin kitchen",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Otto slurps the soup. Warm. Perfect. Just right. His water bowl is full too. Fresh and cold. Someone filled it. Someone who knows otters need clean water. The little otter looks around. Empty cabin. Just him. Wind whispers secrets outside.",
+          "illustration": {
+            "description": "Otto, a chubby baby otter with soft chestnut-brown fur, sparkling dark eyes, tiny paws, and floppy whiskers, laps from a water bowl beside an empty soup pot. The cabin kitchen glows with firelight. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
+            "alt": "Otto drinking from his water bowl in the warm cabin kitchen",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Cozy Den",
+      "pages": [
+        {
+          "text": "Otto waddles to his sleeping corner. His blanket smells sun-dried. Folded neat. Someone washed it. Someone who cares. A pile of smooth river stones waits by his bed. Perfect for otter games. Who brought these treasures?",
+          "illustration": {
+            "description": "Otto, a chubby baby otter with soft chestnut-brown fur, sparkling dark eyes, tiny paws, and floppy whiskers, discovers a neat pile of smooth stones beside his folded blanket in a corner of the cabin. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
+            "alt": "Otto finding smooth stones next to his neatly folded blanket",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Footsteps crunch in snow outside. Quiet ones. Gentle ones. Otto peers through frosty glass. A shadow moves away. Too quick to see. The mystery helper disappears. But love stays. Warm soup. Clean water. Soft blankets. Someone watches over little otters. Otto yawns. Safe. Cared for. Time for dreams.",
+          "illustration": {
+            "description": "Otto, a chubby baby otter with soft chestnut-brown fur, sparkling dark eyes, tiny paws, and floppy whiskers, curled up sleepily in his blanket by the cabin window, with a mysterious shadow visible in the snowy landscape outside. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
+            "alt": "Otto sleeping peacefully while a mysterious shadow walks away in the snow outside",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "pet responsibility and animal care",
+      "kindness",
+      "mystery",
+      "gratitude"
+    ],
+    "vocabulary": [
+      "whispers",
+      "crackles",
+      "treasures",
+      "mystery",
+      "gentle"
+    ],
+    "languageFeatures": [
+      "very short sentences",
+      "sensory details",
+      "hushed tone",
+      "repetition"
+    ],
+    "coverPrompt": {
+      "description": "Otto, a chubby baby otter with soft chestnut-brown fur, sparkling dark eyes, tiny paws, and floppy whiskers, stands outside a cozy snow-covered mountain cabin with glowing windows. Soft watercolor, dreamy purple and blue gradients, glowing stars, gentle moonlight, ethereal atmosphere, pastel palette.",
+      "alt": "A baby otter stands in front of a snowy mountain cabin under starlight"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Otto find cooking on the stove?",
+        "choices": [
+          "Fish soup",
+          "Hot chocolate",
+          "Vegetable stew"
+        ],
+        "correctIndex": 0,
+        "explanation": "Otto discovered warm fish soup bubbling on the stove, perfect for a little otter!"
+      },
+      {
+        "id": "q2",
+        "question": "What did Otto's mystery helper leave by his bed?",
+        "choices": [
+          "Shiny coins",
+          "Smooth river stones",
+          "Colorful marbles"
+        ],
+        "correctIndex": 1,
+        "explanation": "The helper left a pile of smooth river stones, perfect for otter games."
+      },
+      {
+        "id": "q3",
+        "question": "How did Otto feel at the end of the story?",
+        "choices": [
+          "Worried and scared",
+          "Safe and cared for",
+          "Angry and upset"
+        ],
+        "correctIndex": 1,
+        "explanation": "Otto felt safe and cared for, knowing someone was watching over him."
+      },
+      {
+        "id": "q4",
+        "question": "What did Otto see through the frosty window?",
+        "choices": [
+          "A moving shadow",
+          "A bright rainbow",
+          "Flying birds"
+        ],
+        "correctIndex": 0,
+        "explanation": "Otto glimpsed a mysterious shadow moving away in the snow."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "bubbles",
+            "distractors": [
+              "jumps",
+              "sleeps"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "stones",
+            "distractors": [
+              "leaves",
+              "flowers"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "otto"
+}

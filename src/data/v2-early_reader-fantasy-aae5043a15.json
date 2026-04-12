@@ -1,0 +1,219 @@
+{
+  "id": "v2-early_reader-fantasy-aae5043a15",
+  "title": "Whispers from the Wheelhouse",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "fantasy",
+    "adventure"
+  ],
+  "wordCount": 939,
+  "readingLevel": "Kindergarten-1st Grade",
+  "synopsis": "When the magical paddlewheel of a river boat stops turning, a cheerful quokka must journey to four lily-pad islands to discover why the ancient machine has fallen silent, meeting different creatures who each hold a piece of the solution.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-aae5043a15/cover.png",
+  "chapters": [
+    {
+      "title": "The Silent Wheel",
+      "pages": [
+        {
+          "text": "I am the brass compass mounted on the wheelhouse wall, and I have watched the great paddlewheel turn for a thousand sunsets. But this morning, something changed. The ancient wheel that powers our river boat has stopped spinning, and we drift helplessly between the lily-pad islands.\n\nQuokka pressed his pink paws against my glass face, peering at the map etched into my surface. The round smiling quokka with soft sandy-brown fur, small round ears, and permanent cheerful grin had never looked worried before.\n\n'The wheel won't turn,' whispered Captain Heron from the deck. 'Without it, we cannot reach the villages that need our help.'\n\nQuokka's ears twitched as he studied my map more carefully. Four lily-pad islands surrounded us, each one glowing with a different colored light. I felt his warm breath fog my surface as he spoke.\n\n'Maybe the islands know what's wrong,' Quokka said. 'The map shows paths between them all.'\n\nThe boat rocked gently in the slow current, lily pads bumping against our hull with soft splashing sounds. Somewhere in the reeds, a frog sang a lonely song.",
+          "illustration": {
+            "description": "A round smiling quokka with soft sandy-brown fur, small round ears, pink paws, and a permanent cheerful grin examines a brass compass in a wooden wheelhouse. The compass shows a map with four glowing lily-pad islands. Through the wheelhouse windows, a massive silent paddlewheel can be seen, with lily pads floating in dark water. Enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage.",
+            "alt": "Quokka studying a compass map in the wheelhouse with the stopped paddlewheel visible outside",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-aae5043a15/scene_1_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Golden Island",
+      "pages": [
+        {
+          "text": "From my place on the wall, I watched Quokka paddle a small dinghy toward the first island, where golden light pulsed like a heartbeat. Giant lily pads formed stepping stones, their surfaces shimmering with dewdrops that caught the magical glow.\n\nOn the island, Quokka met Salamander, whose scales changed from gold to copper as she moved. She was tending to a garden of crystal flowers that chimed in the breeze.\n\n'The paddlewheel stopped because it's lonely,' Salamander explained, her voice like tinkling bells. 'It needs to feel the rhythm of all four islands working together.'\n\nShe handed Quokka a golden gear, no bigger than his pink paw. 'This holds the island's heartbeat. But you'll need the other three pieces to wake the wheel again.'\n\nQuokka tucked the gear safely in his fur. The golden light from the island seemed to follow him as he paddled back through the lily pads, their broad leaves creating a path across the dark water.\n\nI spun slightly on my mount, my needle pointing toward the next island where silver light danced like moonbeams.",
+          "illustration": {
+            "description": "A round smiling quokka with soft sandy-brown fur, small round ears, pink paws, and a permanent cheerful grin stands on a golden-glowing lily-pad island with a salamander whose scales shimmer gold to copper. Crystal flowers chime around them, and golden light radiates from everything. The quokka holds a small golden gear. Enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage.",
+            "alt": "Quokka receiving a golden gear from Salamander on a glowing lily-pad island",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-aae5043a15/scene_2_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Silver Island",
+      "pages": [
+        {
+          "text": "The silver island sparkled like starlight on water. I watched Quokka hop from lily pad to lily pad, each one ringing like a silver bell under his pink paws. The sound echoed across the quiet river.\n\nBadger emerged from a burrow lined with mirror-bright shells. His striped fur reflected the silver light, making him shimmer as he moved. Around his neck hung dozens of tiny silver bells.\n\n'I collect the sounds of the river,' Badger said, shaking his bells gently. 'But lately, the water has been too quiet. The paddlewheel's song is missing.'\n\nHe dug into his burrow and pulled out a silver gear that hummed with melody. 'This piece remembers the wheel's music. When all four pieces come together, they'll sing the wheel awake again.'\n\nQuokka carefully took the humming gear. Now he had two pieces, and I could feel both their energies—the golden heartbeat and the silver song—creating a gentle warmth in the wheelhouse.\n\nThe river current carried flower petals past our boat, and somewhere in the distance, night birds began their evening calls. Two more islands waited, glowing with green and blue light.",
+          "illustration": {
+            "description": "A round smiling quokka with soft sandy-brown fur, small round ears, pink paws, and a permanent cheerful grin meets a striped badger wearing silver bells on a lily-pad island that sparkles with silver light. Mirror-bright shells line a burrow, and the badger offers a humming silver gear. Everything reflects silver light like starlight on water. Enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage.",
+            "alt": "Quokka receiving a silver gear from Badger on a silver-glowing lily-pad island",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-aae5043a15/scene_3_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Green and Blue",
+      "pages": [
+        {
+          "text": "From my wheelhouse perch, I guided Quokka to the green island where Turtle waited among floating gardens. Her ancient shell was covered in moss that glowed like emeralds, and tiny flowers bloomed between her scales.\n\n'The wheel forgot its purpose,' Turtle said slowly, her voice deep as river stones. 'This green gear holds the memory of all the places we've traveled, all the creatures we've helped.'\n\nOn the blue island, Otter dove and splashed, sending ripples of sapphire light across the water. Her whiskers dripped with glowing droplets as she surfaced with the final gear.\n\n'And this blue piece,' Otter chattered excitedly, 'holds the joy of moving, the happiness of going places together!'\n\nQuokka held all four gears now—golden heartbeat, silver song, green memory, and blue joy. They warmed his pink paws and began to glow brighter as they touched each other.\n\nI watched him paddle back to our boat, where the great paddlewheel waited in darkness. Captain Heron stood ready at the helm, and even the lily pads seemed to lean closer, waiting for the magic to begin.\n\nTogether, the four new friends had found what the wheel needed: not just power, but connection.",
+          "illustration": {
+            "description": "A round smiling quokka with soft sandy-brown fur, small round ears, pink paws, and a permanent cheerful grin holds four glowing gears while standing on the boat deck with a heron captain. Behind them, the massive paddlewheel awaits. A moss-covered turtle glows green on one lily-pad island while an otter splashes in blue light on another. All four islands pulse with their respective colors. Enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage.",
+            "alt": "Quokka with all four glowing gears on the boat deck, surrounded by the magical lily-pad islands and their creature friends",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-aae5043a15/scene_4_1.png"
+          }
+        },
+        {
+          "text": "Quokka placed the four gears into the wheel's heart, and I felt the magic flow through every beam and bolt of our boat. Golden heartbeat, silver song, green memory, and blue joy swirled together like liquid starlight.\n\nThe great paddlewheel shuddered once, twice, then began to turn. Its song rose across the water—not the lonely grinding of before, but a melody that included the voices of all four islands.\n\nSalamander's crystals chimed from the golden island. Badger's bells rang from the silver shore. Turtle's deep hum echoed from the green gardens, and Otter's joyful splashing added rhythm from the blue waters.\n\nAs we began to move again, I realized something wonderful: the wheel had never been broken. It had simply been waiting for friends to help it remember what it was for.\n\nThe boat carried us forward through the lily-pad maze, toward the villages that needed our help. But now we weren't traveling alone—we carried the friendship of four islands and four creatures who had learned that some problems can only be solved together.\n\nFrom my place on the wheelhouse wall, I continue to watch and remember, spinning my needle toward new adventures that wait beyond the horizon.",
+          "illustration": {
+            "description": "A round smiling quokka with soft sandy-brown fur, small round ears, pink paws, and a permanent cheerful grin watches as the great paddlewheel turns again, sending streams of golden, silver, green, and blue light across the water. All four lily-pad islands glow in harmony, with Salamander, Badger, Turtle, and Otter visible celebrating on their respective islands. The river boat moves forward through a path of lily pads under a magical starlit sky. Enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage.",
+            "alt": "The paddlewheel turning again with magical light, all four island friends celebrating as the boat moves forward",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-aae5043a15/scene_4_2.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "cooperation",
+      "problem-solving",
+      "community"
+    ],
+    "vocabulary": [
+      "paddlewheel",
+      "wheelhouse",
+      "compass",
+      "dinghy",
+      "current"
+    ],
+    "lifeSkills": [
+      "asking for help",
+      "working together",
+      "perseverance"
+    ],
+    "culturalElements": [
+      "river communities",
+      "traditional boats",
+      "nature cooperation"
+    ],
+    "coverPrompt": {
+      "description": "A round smiling quokka with soft sandy-brown fur, small round ears, pink paws, and a permanent cheerful grin stands on the deck of an ornate river boat drifting between glowing lily-pad islands. The boat's brass paddlewheel gleams in magical twilight. Enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage.",
+      "alt": "Quokka on a magical river boat surrounded by lily-pad islands"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What was wrong with the paddlewheel?",
+        "choices": [
+          "It was broken",
+          "It was lonely",
+          "It was too old"
+        ],
+        "correctIndex": 1,
+        "explanation": "Salamander explained that the paddlewheel stopped because it was lonely and needed to feel connected to all four islands working together."
+      },
+      {
+        "id": "q2",
+        "question": "Who tells the story?",
+        "choices": [
+          "Quokka",
+          "The compass",
+          "Captain Heron"
+        ],
+        "correctIndex": 1,
+        "explanation": "The story is told by the brass compass mounted on the wheelhouse wall, who has been watching everything happen."
+      },
+      {
+        "id": "q3",
+        "question": "What did each gear represent?",
+        "choices": [
+          "Different colors",
+          "Different feelings and memories",
+          "Different sizes"
+        ],
+        "correctIndex": 1,
+        "explanation": "The golden gear held heartbeat, the silver held song, the green held memory, and the blue held joy - all different feelings the wheel needed."
+      },
+      {
+        "id": "q4",
+        "question": "How many islands did Quokka visit?",
+        "choices": [
+          "Three",
+          "Four",
+          "Five"
+        ],
+        "correctIndex": 1,
+        "explanation": "Quokka visited four lily-pad islands: the golden island with Salamander, silver with Badger, green with Turtle, and blue with Otter."
+      },
+      {
+        "id": "q5",
+        "question": "What happened when all four gears came together?",
+        "choices": [
+          "They broke",
+          "They created music together",
+          "They disappeared"
+        ],
+        "correctIndex": 1,
+        "explanation": "When placed in the wheel's heart, the four gears created a melody that included the voices of all four islands, making the wheel turn again."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "paddlewheel",
+            "distractors": [
+              "sailboat",
+              "motorboat"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "spinning",
+            "distractors": [
+              "flying",
+              "singing"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "golden",
+            "distractors": [
+              "purple",
+              "orange"
+            ]
+          },
+          {
+            "wordIndex": 24,
+            "correctWord": "gear",
+            "distractors": [
+              "flower",
+              "stone"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "quokka"
+}

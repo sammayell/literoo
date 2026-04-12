@@ -1,0 +1,159 @@
+{
+  "id": "v2-toddler-feelings-69ab4c4271",
+  "title": "When Doors Appear",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "feelings",
+    "animals"
+  ],
+  "wordCount": 292,
+  "readingLevel": "Grade K",
+  "synopsis": "A shy little ghost discovers a mysterious door in her familiar coral reef home and learns to be brave as she explores what lies beyond, making new friends through the changing seasons.",
+  "coverImage": "",
+  "chapters": [
+    {
+      "title": "Spring - The Door That Wasn't There Yesterday",
+      "pages": [
+        {
+          "text": "The angelfish always swam in perfect circles around the big purple coral, but today they were swimming in confused zigzags. A cheerful little ghost with a soft glowing-white wispy body, round rosy-pink cheeks, and big kind blue eyes floated closer to see what had changed. There, wedged between two familiar sea fans, stood a wooden door with a brass handle. It definitely hadn't been there yesterday. The thousand small fish that usually patrolled the bright coral reef seemed just as puzzled as she felt, their silver scales catching the filtered sunlight in nervous flickers.",
+          "illustration": {
+            "description": "A cheerful little ghost with a soft glowing-white wispy body, round rosy-pink cheeks, and big kind blue eyes floats in a bright coral reef with confused angelfish swimming in zigzag patterns around purple coral. A wooden door with brass handle sits mysteriously among sea fans. Curious yellow and puzzled orange emotional colors swirl in the water with a thousand small fish swimming nearby.",
+            "alt": "A ghost and confused fish discovering a door in the coral reef",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Summer - What Doors Are For",
+      "pages": [
+        {
+          "text": "By summer, the little ghost had floated around the door exactly forty-seven times. She'd counted. The brass handle gleamed in the stronger sunshine, and sometimes she thought she heard something humming softly on the other side. The reef fish had gotten used to the door by now and even seemed to like swimming through the space where it wasn't quite touching the sea floor. But what was a door doing underwater? What was it for? The ghost's curiosity felt bigger than her shyness for the first time in a very long while.",
+          "illustration": {
+            "description": "A cheerful little ghost with a soft glowing-white wispy body, round rosy-pink cheeks, and big kind blue eyes circles around the mysterious door in the bright coral reef. Fish swim confidently through the space under the door. Warm curious orange and brave yellow emotional colors dance in the stronger summer sunlight filtering through the water.",
+            "alt": "The ghost circling the door as fish swim beneath it in summer light",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Autumn and Winter - Through and Beyond",
+      "pages": [
+        {
+          "text": "When autumn came, she finally reached for the handle. It turned easily, like it had been waiting for her all along. Behind the door wasn't more ocean—it was a cozy underwater reading nook filled with friendly sea otters who loved ghost stories. They'd been hoping someone would find their secret door. The little ghost's heart felt warm and brave. By winter, she was visiting every day, sometimes bringing reef fish friends who were curious too. The door had seemed scary because it was new, but new things, she discovered, could also be wonderful. The otters always saved her the best seat by their glowing kelp lamp.",
+          "illustration": {
+            "description": "A cheerful little ghost with a soft glowing-white wispy body, round rosy-pink cheeks, and big kind blue eyes sits with friendly sea otters in a cozy underwater reading nook beyond the open door. Bright coral reef fish peek through the doorway. Happy golden and brave bright blue emotional colors fill the warm space, with a glowing kelp lamp casting gentle light.",
+            "alt": "The ghost reading with sea otters in a cozy underwater room beyond the door",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "author": "AI Children's Book Author",
+    "illustrator": "AI Illustrator",
+    "publisher": "Digital Stories",
+    "publicationDate": "2024",
+    "isbn": "978-0-000000-00-0",
+    "themes": [
+      "bravery",
+      "curiosity",
+      "friendship",
+      "new experiences"
+    ],
+    "educationalFocus": [
+      "emotional development",
+      "facing fears",
+      "underwater animals"
+    ],
+    "coverPrompt": {
+      "description": "A cheerful little ghost with a soft glowing-white wispy body, round rosy-pink cheeks, and big kind blue eyes floats near a bright coral reef with a thousand small fish swimming around in colorful swirls. A mysterious wooden door stands among the coral, surrounded by warm golden and curious purple emotional colors.",
+      "alt": "A friendly ghost near a coral reef with fish and a mysterious door"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did the ghost find in the coral reef?",
+        "choices": [
+          "a treasure chest",
+          "a wooden door",
+          "a new fish"
+        ],
+        "correctIndex": 1,
+        "explanation": "The ghost found a mysterious wooden door that wasn't there before."
+      },
+      {
+        "id": "q2",
+        "question": "How were the angelfish swimming when they saw the door?",
+        "choices": [
+          "in zigzags",
+          "in straight lines",
+          "upside down"
+        ],
+        "correctIndex": 0,
+        "explanation": "The angelfish were swimming in confused zigzags instead of their usual perfect circles."
+      },
+      {
+        "id": "q3",
+        "question": "Who did the ghost meet behind the door?",
+        "choices": [
+          "more fish",
+          "sea otters",
+          "another ghost"
+        ],
+        "correctIndex": 1,
+        "explanation": "Behind the door was a cozy reading nook with friendly sea otters."
+      },
+      {
+        "id": "q4",
+        "question": "How did the ghost feel by the end?",
+        "choices": [
+          "scared",
+          "warm and brave",
+          "tired"
+        ],
+        "correctIndex": 1,
+        "explanation": "The ghost felt warm and brave after discovering that new things could be wonderful."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "door",
+            "distractors": [
+              "fish",
+              "rock"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "curious",
+            "distractors": [
+              "sleepy",
+              "hungry"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "boo"
+}

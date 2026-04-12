@@ -1,0 +1,201 @@
+{
+  "id": "v2-toddler-school-5aaa8c33dd",
+  "title": "Before the Sun Wakes Up",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "school",
+    "friendship"
+  ],
+  "wordCount": 319,
+  "readingLevel": "Preschool",
+  "synopsis": "At 4am in Papa's warm bakery, young Hiro discovers his new neighbor Luna has very strange nighttime habits. Through three magical pre-dawn days, he learns that cardboard boxes can become spaceships when you use your imagination, and friendship blooms in the most unexpected places.",
+  "coverImage": "",
+  "chapters": [
+    {
+      "title": "Day One: Discovery",
+      "pages": [
+        {
+          "text": "Tick-tock, tick-tock goes the bakery clock, and WHOOSH goes the oven so hot! At four in the morning, when stars still shine bright, Hiro helps Papa bake bread by lamplight. The bakery smells like cinnamon dreams, with flour dust dancing in warm golden beams. Knead-a-dee, knead-a-dah, the dough goes round and round!",
+          "illustration": {
+            "description": "Hiro, a human child with short straight black hair, light skin, bright dark brown eyes, and round face, stands on a step stool helping his father knead bread dough in a cozy bakery at 4am. Steam rises from fresh loaves, flour dust sparkles in warm lamplight. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
+            "alt": "Hiro helping his father bake bread in the early morning bakery",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "But wait! What's that sound? Beep-beep-ZOOM outside! Hiro peeks through the window, eyes open wide. There sits a girl in a big cardboard box, painting silver stars and drawing space clocks! 'That's Luna,' says Papa with a knowing smile, 'She moved next door just a little while.' Beep-beep-ZOOM, beep-beep-ZOOM goes Luna's strange game!",
+          "illustration": {
+            "description": "Through the bakery window, Hiro (a human child with short straight black hair, light skin, bright dark brown eyes, and round face) watches Luna sitting in a large cardboard box decorated with painted stars and space dials, making rocket sounds in the pre-dawn darkness. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
+            "alt": "Hiro watching Luna play in her cardboard spaceship outside",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Day Two: Problem",
+      "pages": [
+        {
+          "text": "Tick-tock, tick-tock, it's four once again! The bakery's toasty, but outside... OH MY! Luna's box is bigger, reaching up high! She's added more boxes - a tower so tall, with buttons and beepers all over the wall! 'Mission Control ready!' she calls to the sky. Why does she play when the world sleeps tight?",
+          "illustration": {
+            "description": "Hiro (a human child with short straight black hair, light skin, bright dark brown eyes, and round face) looks puzzled through the bakery window at Luna's elaborate cardboard space station made of multiple boxes stacked and taped together with painted control panels. Dawn light mixes with bakery warmth. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
+            "alt": "Hiro looking confused at Luna's expanded cardboard space station",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Papa sees Hiro's wondering face, all scrunched up with questions about Luna's strange space. 'Some children march when others skip-hop, some children play when the whole world stops! Her family works nights, so she plays alone, making adventures from cardboard and foam.' Beep-beep-ZOOM, beep-beep-ZOOM, but Hiro feels sad.",
+          "illustration": {
+            "description": "Papa explains gently to Hiro (a human child with short straight black hair, light skin, bright dark brown eyes, and round face) while they shape bread rolls together. Through the window, Luna can be seen alone in her elaborate cardboard spacecraft. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
+            "alt": "Papa explaining to Hiro while they work, with Luna visible outside",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Day Three: Choice",
+      "pages": [
+        {
+          "text": "Tick-tock, tick-tock, day three is here! Hiro has fresh muffins and a bright idea! 'Papa, may I?' and Papa says, 'Yes! Adventures taste better when shared, I confess!' Out goes Hiro with muffins so sweet, tippy-toe, tippy-toe on quiet feet. 'Luna!' he whispers, 'I brought you a snack!'",
+          "illustration": {
+            "description": "Hiro (a human child with short straight black hair, light skin, bright dark brown eyes, and round face) carefully carries a plate of warm muffins outside the bakery toward Luna's cardboard spaceship in the pre-dawn darkness, his face excited and hopeful. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
+            "alt": "Hiro bringing muffins to Luna's cardboard spaceship",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Luna peeks out with eyes big and round, 'A space snack delivery? What a neat sound!' She shows Hiro buttons that blink and that beep, control panels painted while others still sleep. 'Want to blast off to the moon?' Luna grins wide. 'Yes!' laughs Hiro, climbing inside. Beep-beep-ZOOM, beep-beep-ZOOM, off to space they fly! Sometimes the best games happen when stars fill the sky!",
+          "illustration": {
+            "description": "Hiro (a human child with short straight black hair, light skin, bright dark brown eyes, and round face) sits inside Luna's amazing cardboard spaceship cockpit, both children pretending to pilot through space while sharing warm muffins. The cardboard is decorated with painted stars, buttons, and control panels. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
+            "alt": "Hiro and Luna playing together in the cardboard spaceship, sharing muffins",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "imagination",
+      "understanding differences",
+      "kindness"
+    ],
+    "lessons": [
+      "Everyone plays differently",
+      "Imagination turns ordinary things magical",
+      "Friendship happens when we reach out"
+    ],
+    "vocabulary": [
+      "bakery",
+      "cardboard",
+      "spaceship",
+      "mission",
+      "adventure"
+    ],
+    "coverPrompt": {
+      "description": "Hiro, a human child with short straight black hair, light skin, bright dark brown eyes, and round face, peers through a warm bakery window at 4am. Golden light spills onto the dark street where another child sits in a cardboard box decorated like a spaceship. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
+      "alt": "A child looking through a bakery window at another child playing in a cardboard spaceship"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What time does Hiro help Papa in the bakery?",
+        "choices": [
+          "Four in the morning",
+          "Noon",
+          "Bedtime"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hiro helps Papa bake bread at 4am when the stars still shine!"
+      },
+      {
+        "id": "q2",
+        "question": "What does Luna use to make her spaceship?",
+        "choices": [
+          "Cardboard boxes",
+          "Real metal",
+          "Wood blocks"
+        ],
+        "correctIndex": 0,
+        "explanation": "Luna creates her amazing spaceship from cardboard boxes and her imagination!"
+      },
+      {
+        "id": "q3",
+        "question": "What does Hiro bring to Luna?",
+        "choices": [
+          "Fresh muffins",
+          "Toys",
+          "Books"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hiro brings warm, sweet muffins from the bakery to share with Luna!"
+      },
+      {
+        "id": "q4",
+        "question": "How do the children become friends?",
+        "choices": [
+          "By sharing and playing together",
+          "By watching TV",
+          "By staying inside"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hiro and Luna become friends when Hiro shares his muffins and joins Luna's space adventure!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "bakery",
+            "distractors": [
+              "kitchen",
+              "store"
+            ]
+          },
+          {
+            "wordIndex": 20,
+            "correctWord": "bread",
+            "distractors": [
+              "cake",
+              "pizza"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "cardboard",
+            "distractors": [
+              "plastic",
+              "metal"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "spaceship",
+            "distractors": [
+              "car",
+              "house"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "hiro"
+}

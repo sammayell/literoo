@@ -1,8 +1,9 @@
 "use client";
 
-import { useState, useCallback, useMemo } from "react";
+import { useState, useCallback, useMemo, useEffect, useRef } from "react";
 import type { BookPuzzle, PuzzlePage, PuzzleBlank } from "@/lib/types";
 import { useProgress } from "@/lib/progress-context";
+import { fireConfetti } from "@/lib/confetti";
 
 interface PuzzleModeProps {
   puzzle: BookPuzzle;
@@ -23,6 +24,7 @@ export default function PuzzleMode({ puzzle, bookId, pageTexts }: PuzzleModeProp
   const [blankStates, setBlankStates] = useState<Record<string, BlankState>>({});
   const [activeBlankKey, setActiveBlankKey] = useState<string | null>(null);
   const [finished, setFinished] = useState(false);
+  const confettiFired = useRef(false);
 
   const puzzlePages = puzzle.pages;
   const totalBlanks = useMemo(
@@ -125,6 +127,17 @@ export default function PuzzleMode({ puzzle, bookId, pageTexts }: PuzzleModeProp
     setFinished(false);
   }, []);
 
+  // Fire confetti on puzzle completion
+  useEffect(() => {
+    if (finished && !confettiFired.current) {
+      confettiFired.current = true;
+      const percent = totalBlanks > 0 ? Math.round((correctCount / totalBlanks) * 100) : 0;
+      if (percent >= 80) {
+        setTimeout(() => fireConfetti(), 200);
+      }
+    }
+  }, [finished, correctCount, totalBlanks]);
+
   // --- Results screen ---
   if (finished) {
     const percent = totalBlanks > 0 ? Math.round((correctCount / totalBlanks) * 100) : 0;
@@ -133,8 +146,8 @@ export default function PuzzleMode({ puzzle, bookId, pageTexts }: PuzzleModeProp
 
     return (
       <div className="flex flex-col items-center justify-center min-h-[60vh] px-6 py-10 text-center">
-        <div className="text-6xl mb-4">{great ? "🧩" : ok ? "👍" : "📖"}</div>
-        <h2 className="text-2xl font-bold text-gray-900 mb-2">
+        <div className="animate-celebrate-in text-6xl mb-4">{great ? "🧩" : ok ? "👍" : "📖"}</div>
+        <h2 className="animate-stagger-fade-up text-2xl font-bold text-gray-900 mb-2" style={{ animationDelay: "0.15s", opacity: 0 }}>
           {great ? "Puzzle complete!" : ok ? "Nice work!" : "Keep practicing!"}
         </h2>
         <p className="text-lg text-gray-600 mb-1">
@@ -268,7 +281,7 @@ export default function PuzzleMode({ puzzle, bookId, pageTexts }: PuzzleModeProp
         <div className="px-4 mb-6 animate-[fadeIn_0.3s_ease]">
           <button
             onClick={handleNextPage}
-            className="w-full py-3 rounded-xl bg-brand-500 text-white font-semibold hover:bg-brand-600 active:scale-[0.98] transition-all"
+            className="w-full py-3 rounded-xl bg-brand-500 text-white font-semibold hover:bg-brand-600 active:scale-[0.98] transition-all animate-glow-pulse"
           >
             {currentPageIdx + 1 >= puzzlePages.length ? "See Results" : "Next Page"}
           </button>

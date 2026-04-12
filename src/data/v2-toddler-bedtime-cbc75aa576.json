@@ -1,0 +1,155 @@
+{
+  "id": "v2-toddler-bedtime-cbc75aa576",
+  "title": "When Clouds Grow Backwards",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "bedtime",
+    "adventure"
+  ],
+  "wordCount": 298,
+  "readingLevel": "Early Reader",
+  "synopsis": "A small dragon tends a magical upside-down garden through the seasons, searching for his missing pet star while everything goes hilariously wrong.",
+  "coverImage": "",
+  "chapters": [
+    {
+      "title": "Spring Sprouts and Soggy Socks",
+      "pages": [
+        {
+          "text": "Carrots grow with their tops pointing straight down into the sky, which is perfectly normal if you happen to live on the underside of a cloud. Ember the baby dragon had been watering his upside-down garden all morning, and now his tiny coral-red scales dripped with morning dew. His cream belly jiggled as he waddled between the hanging tomato vines.\n\n'Twinkle?' he called softly. 'Twinkle, where are you?'\n\nHis pet star had vanished sometime during the night. You might wonder how anyone loses a star, but then again, you probably don't keep yours in a jar next to your bed.",
+          "illustration": {
+            "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes waters an upside-down garden with vegetables hanging down from cloud soil above, dripping wet from morning dew. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
+            "alt": "Ember watering his upside-down garden in spring",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Summer Splashes and Silly Sneezes",
+      "pages": [
+        {
+          "text": "By summer, Ember had searched everywhere twice. He'd looked under the upside-down mushrooms (they grew into the cloud, naturally), behind the backwards roses, and even inside his own curly tail.\n\nWhile reaching for a particularly suspicious-looking cucumber, Ember sneezed. A tiny puff of dragon fire shot out and—SPLASH!—melted the cloud dirt above him. Now he had a hole in his ceiling and mud dripping into his big amber eyes.\n\n'Still no Twinkle,' he sighed, wiping cloud-mud from his nose. The garden smelled like wet earth and summer rain, which would have been lovely if he wasn't covered in it from wing-tip to tail-tip.",
+          "illustration": {
+            "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes covered in mud, looking up at a hole in the cloud ceiling with water dripping down, surrounded by lush summer vegetables growing downward. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
+            "alt": "Ember covered in mud with a hole in his cloud garden ceiling",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Autumn Tumbles and Twinkling Returns",
+      "pages": [
+        {
+          "text": "Autumn arrived with orange leaves that fell upward into the purple sky. Ember was picking downward-hanging apples when his tiny wings got tangled in a vine. Down he tumbled—or rather, up he tumbled—bonking into every hanging pumpkin on his way.\n\nThunk! Bonk! Squish!\n\nWhen the pumpkin seeds settled, there in the corner of his eye was a familiar twinkle. His pet star had been hiding inside the biggest pumpkin all along, keeping warm for winter!\n\n'Twinkle!' Ember laughed, his amber eyes bright with joy. Now that's what I call a good harvest, don't you think?",
+          "illustration": {
+            "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes tangled in vines with orange pumpkins and autumn vegetables around him, while a small glowing star emerges from a split pumpkin, surrounded by upward-falling orange leaves. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
+            "alt": "Ember finding his pet star Twinkle inside an autumn pumpkin",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "pet responsibility",
+      "caring for others",
+      "perseverance"
+    ],
+    "readingSkills": [
+      "following sequential events",
+      "understanding cause and effect",
+      "vocabulary building"
+    ],
+    "illustrations": 3,
+    "uniqueWords": 158,
+    "coverPrompt": {
+      "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes sits in an upside-down garden growing beneath a fluffy white cloud, with vegetables and flowers hanging downward against a dreamy purple sky. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
+      "alt": "Ember the dragon in his upside-down cloud garden"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where does Ember's garden grow?",
+        "choices": [
+          "On top of a mountain",
+          "On the underside of a cloud",
+          "In a regular backyard"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ember's special garden grows on the underside of a cloud, which makes all the plants hang downward!"
+      },
+      {
+        "id": "q2",
+        "question": "What is Ember looking for?",
+        "choices": [
+          "His favorite toy",
+          "His pet star named Twinkle",
+          "His watering can"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ember is searching for his pet star named Twinkle throughout the whole story."
+      },
+      {
+        "id": "q3",
+        "question": "What happens when Ember sneezes in summer?",
+        "choices": [
+          "He makes a rainbow",
+          "He melts a hole in the cloud",
+          "He blows away the vegetables"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ember's sneeze creates dragon fire that melts the cloud dirt and makes a hole in his ceiling!"
+      },
+      {
+        "id": "q4",
+        "question": "Where was Twinkle hiding?",
+        "choices": [
+          "Under a mushroom",
+          "Inside a big pumpkin",
+          "Behind the roses"
+        ],
+        "correctIndex": 1,
+        "explanation": "Twinkle was keeping warm inside the biggest pumpkin, waiting for Ember to find him during harvest time."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "scales",
+            "distractors": [
+              "feathers",
+              "fur"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "sneezed",
+            "distractors": [
+              "coughed",
+              "laughed"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "ember"
+}

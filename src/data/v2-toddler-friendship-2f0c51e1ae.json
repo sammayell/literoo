@@ -1,0 +1,177 @@
+{
+  "id": "v2-toddler-friendship-2f0c51e1ae",
+  "title": "Ice and Echoes",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "friendship",
+    "family"
+  ],
+  "wordCount": 253,
+  "readingLevel": "Pre-K",
+  "synopsis": "When Chloe's special singing bell breaks in a magical ice cavern, she discovers that some things can only be mended through the changing seasons and the unique gifts each family member brings.",
+  "coverImage": "",
+  "chapters": [
+    {
+      "title": "Spring Melting",
+      "pages": [
+        {
+          "text": "The singing bell cracked in two when it hit the ice floor. Chloe, with her short wavy strawberry-blonde hair catching the pale blue light streaming down from somewhere far above, picked up both pieces carefully. The ice cavern was always this cold, always this bright, and the bell had always sung when the wind touched it. Now you could hear only silence echoing off the crystal walls. 'Maybe Mama can glue it,' Chloe said to the stalactites, though she knew glue wouldn't work on magic.",
+          "illustration": {
+            "description": "Chloe, a child with short wavy strawberry-blonde hair, light skin, and blue-gray eyes, kneels on the ice floor of a cavern lit by pale blue light from above. She holds two pieces of a silver bell. Ice formations and crystal walls surround her. Bright sunny playground art style with primary colors, white space, joyful energetic feeling.",
+            "alt": "Chloe kneeling in an ice cavern, holding broken pieces of a silver bell",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Summer Growing",
+      "pages": [
+        {
+          "text": "Summer brought warm air down through the cavern's opening, and something green began growing where Chloe had spilled tears on the ice. Her papa came to visit, bringing sandwiches and his harmonica. 'Some things break so other things can begin,' he said matter-of-factly, playing a tune that made the green shoots dance. The broken bell pieces seemed to hum along, though that was probably just the echo. Chloe's clumsy fingers couldn't hold the tiny sprouts steady enough to braid them, but Papa showed her how.",
+          "illustration": {
+            "description": "Chloe, with short wavy strawberry-blonde hair, light skin, and blue-gray eyes, sits with her papa in the ice cavern. Green plants sprout from the ice floor between them. Pale blue light streams down as Papa plays a harmonica. Bright sunny playground art style with primary colors, white space, joyful energetic feeling.",
+            "alt": "Chloe and her papa in the ice cavern with green plants growing from the ice",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Winter Singing",
+      "pages": [
+        {
+          "text": "By winter, the green shoots had grown into a vine that wrapped perfectly around both halves of the bell. When Grandma came trudging through the snow above, her footsteps sent vibrations down through the ice. The vine tightened, the bell pieces pressed together, and suddenly the cavern filled with music sweeter than before. 'You see,' Grandma called down through the opening, 'your clumsiness planted exactly the right seeds in exactly the right place.' The bell sang with two voices now instead of one.",
+          "illustration": {
+            "description": "Chloe, with short wavy strawberry-blonde hair, light skin, and blue-gray eyes, holds the repaired bell wrapped in green vines. The ice cavern glows with pale blue light from above. Musical notes seem to dance in the air around her. Bright sunny playground art style with primary colors, white space, joyful energetic feeling.",
+            "alt": "Chloe holding the vine-wrapped bell in the glowing ice cavern with musical notes in the air",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "celebrating what makes each person unique",
+      "family bonds",
+      "finding beauty in mistakes"
+    ],
+    "keywords": [
+      "magic",
+      "seasons",
+      "music",
+      "family",
+      "growth",
+      "acceptance"
+    ],
+    "readingFeatures": [
+      "seasonal structure",
+      "matter-of-fact magical realism",
+      "sensory descriptions"
+    ],
+    "coverPrompt": {
+      "description": "Chloe, a cheerful child with short wavy strawberry-blonde hair, light skin, and blue-gray eyes, stands in a glowing ice cavern filled with pale blue light streaming from above. Ice crystals sparkle around her as she holds broken pieces of a silver bell. Bright sunny playground art style with primary colors, white space, joyful energetic feeling.",
+      "alt": "A young girl with strawberry-blonde hair in a magical ice cavern holding pieces of a broken bell"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What broke in the ice cavern?",
+        "choices": [
+          "A singing bell",
+          "An ice sculpture",
+          "A harmonica"
+        ],
+        "correctIndex": 0,
+        "explanation": "The singing bell cracked in two when it hit the ice floor at the beginning of the story."
+      },
+      {
+        "id": "q2",
+        "question": "What grew from where Chloe's tears fell?",
+        "choices": [
+          "Ice crystals",
+          "Green shoots",
+          "More bells"
+        ],
+        "correctIndex": 1,
+        "explanation": "Green shoots began growing where Chloe had spilled tears on the ice during summer."
+      },
+      {
+        "id": "q3",
+        "question": "Who played the harmonica?",
+        "choices": [
+          "Grandma",
+          "Papa",
+          "Chloe"
+        ],
+        "correctIndex": 1,
+        "explanation": "Papa brought his harmonica and played a tune that made the green shoots dance."
+      },
+      {
+        "id": "q4",
+        "question": "How did the bell get fixed?",
+        "choices": [
+          "With glue",
+          "With a vine",
+          "With ice"
+        ],
+        "correctIndex": 1,
+        "explanation": "The green vine grew and wrapped around both halves of the bell, holding them together so they could sing again."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "cracked",
+            "distractors": [
+              "bounced",
+              "melted"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "blue",
+            "distractors": [
+              "red",
+              "green"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "growing",
+            "distractors": [
+              "sleeping",
+              "hiding"
+            ]
+          },
+          {
+            "wordIndex": 20,
+            "correctWord": "harmonica",
+            "distractors": [
+              "guitar",
+              "piano"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "chloe"
+}

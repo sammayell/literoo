@@ -1,0 +1,296 @@
+{
+  "id": "v2-early_reader-animals-cac8be81ad",
+  "title": "When the Cherries Whisper",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "animals",
+    "fantasy"
+  ],
+  "wordCount": 626,
+  "readingLevel": "Grade 1-2",
+  "synopsis": "A wise robin observes throughout the seasons as a young girl named Zuri discovers friendship with her mysterious new neighbor in a magical cherry orchard where trees sing and petals dance.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-cac8be81ad/cover.png",
+  "chapters": [
+    {
+      "title": "Spring's First Song",
+      "pages": [
+        {
+          "text": "The cherry blossoms hum three notes when the wind is just right. I know this because I am the robin who lives in the tallest tree, and I notice things that others miss. Today, something new walks through our pink-petaled world.",
+          "illustration": {
+            "description": "Gouache painting with thick brushstrokes showing a red robin perched high in blooming cherry trees. Pink petals float through the air. Below, Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes walks between the trees. Warm savanna colors mixed with soft pinks, textured painterly style with bold confident strokes.",
+            "alt": "A robin watching from a cherry tree as a girl walks through the orchard",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-cac8be81ad/scene_1_1.png"
+          }
+        },
+        {
+          "text": "The girl with the flower in her hair stops beneath my tree. Her name is Zuri, though she hasn't told me this—I heard it in the way the cherry blossoms whispered when she first arrived. She carries a small wooden flute and plays melodies that make the petals dance.",
+          "illustration": {
+            "description": "Gouache painting with thick brushstrokes showing Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, playing a wooden flute. Pink cherry petals swirl around her as if dancing to her music. Painted in textured painterly style with warm savanna colors and bold confident strokes.",
+            "alt": "Zuri playing flute as cherry petals dance around her",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-cac8be81ad/scene_1_2.png"
+          }
+        },
+        {
+          "text": "But today, Zuri isn't playing. She's watching the empty cottage at the orchard's edge where someone new moved in yesterday. Smoke rises from its chimney in perfect spirals that spell out words I can read but humans cannot. The words say: 'Music welcome here.'",
+          "illustration": {
+            "description": "Gouache painting with thick brushstrokes showing Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, looking toward a small cottage. Magical smoke spirals from the chimney forming letter-like shapes. The robin watches from above. Cherry trees frame the scene in warm savanna colors with textured painterly style and bold confident strokes.",
+            "alt": "Zuri looking at a cottage with magical smoke rising from its chimney",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-cac8be81ad/scene_1_3.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Summer's Strange Neighbor",
+      "pages": [
+        {
+          "text": "The new neighbor is unlike anyone Zuri has ever met. She appears to be an old woman, but I see her true form—she is made of morning mist and starlight, held together by very old songs. She tends a garden where flowers bloom backwards, opening at night and closing at dawn.",
+          "illustration": {
+            "description": "Gouache painting with thick brushstrokes showing Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, peering through cherry trees at a mysterious figure gardening. The neighbor appears translucent and magical, tending to flowers that glow softly. Painted in warm savanna colors with textured painterly style and bold confident strokes.",
+            "alt": "Zuri watching her magical neighbor tend to a night-blooming garden",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-cac8be81ad/scene_2_1.png"
+          }
+        },
+        {
+          "text": "Every morning, the neighbor leaves gifts on Zuri's doorstep: a acorn that chimes like a bell, a feather that changes colors with the weather, a stone that stays warm even in shadow. Zuri collects them but is too shy to knock on the cottage door.",
+          "illustration": {
+            "description": "Gouache painting with thick brushstrokes showing Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, examining magical objects on her doorstep. A glowing acorn, rainbow feather, and warm stone are arranged carefully. The robin watches from nearby cherry branches. Textured painterly style with warm savanna colors and bold confident strokes.",
+            "alt": "Zuri discovering magical gifts left by her neighbor",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-cac8be81ad/scene_2_2.png"
+          }
+        },
+        {
+          "text": "But I notice something Zuri doesn't yet—when she plays her flute in the evenings, the neighbor stops her gardening and listens. The night-blooming flowers pulse in rhythm with Zuri's melodies, and the cottage windows glow a little brighter.",
+          "illustration": {
+            "description": "Gouache painting with thick brushstrokes showing Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, playing her flute under evening cherry trees. In the background, the cottage windows glow and night flowers pulse with light in rhythm to her music. The robin observes from above. Warm savanna colors with textured painterly style and bold confident strokes.",
+            "alt": "Evening scene with Zuri's music affecting the magical cottage and flowers",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-cac8be81ad/scene_2_3.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Autumn's Understanding",
+      "pages": [
+        {
+          "text": "When the cherry leaves turn gold and copper, Zuri finally gathers courage. She takes her flute and walks to the cottage door. The neighbor opens it before Zuri can knock—she has been waiting, perhaps for many seasons before Zuri ever arrived.",
+          "illustration": {
+            "description": "Gouache painting with thick brushstrokes showing Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, standing at a cottage door holding her flute. The mysterious neighbor, appearing as a kind elderly woman with hints of magical translucence, opens the door with a gentle smile. Autumn cherry trees surround them in warm savanna colors with textured painterly style and bold confident strokes.",
+            "alt": "Zuri meeting her neighbor at the cottage door in autumn",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-cac8be81ad/scene_3_1.png"
+          }
+        },
+        {
+          "text": "'I've been hoping you'd visit,' says the neighbor, whose voice sounds like wind chimes made of cloud. 'I am the Keeper of Growing Songs, and I've been lonely for someone who understands music the way you do.' She invites Zuri inside for tea that tastes like liquid sunshine.",
+          "illustration": {
+            "description": "Gouache painting with thick brushstrokes showing the interior of the magical cottage. Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, sits across from the mystical neighbor at a table with glowing teacups. Shelves of magical instruments and floating musical notes fill the cozy space. Warm savanna colors with textured painterly style and bold confident strokes.",
+            "alt": "Inside the magical cottage as Zuri and her neighbor share tea",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-cac8be81ad/scene_3_2.png"
+          }
+        },
+        {
+          "text": "The neighbor shows Zuri instruments that play themselves: drums made from hollow stars, a harp strung with moonbeams, bells that ring with the voices of sleeping flowers. 'Music is magic,' she explains, 'and magic needs friends to help it grow.' From my perch outside, I see Zuri's eyes shine with wonder.",
+          "illustration": {
+            "description": "Gouache painting with thick brushstrokes showing Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, surrounded by floating magical instruments. The neighbor demonstrates a star-drum while moonbeam harps and flower-voice bells hover around them. The robin watches through a window. Textured painterly style with warm savanna colors and bold confident strokes.",
+            "alt": "Zuri discovering magical musical instruments with her neighbor",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-cac8be81ad/scene_3_3.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Winter's Harmony",
+      "pages": [
+        {
+          "text": "Snow covers the cherry branches like lace, but the trees still hum—quieter now, deeper notes that warm the air around their trunks. Zuri visits her neighbor every day, learning songs that can make icicles chime and snow clouds dance.",
+          "illustration": {
+            "description": "Gouache painting with thick brushstrokes showing a winter scene with snow-covered cherry trees. Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, walks through the snowy orchard carrying her flute. Icicles hang like musical instruments from the branches while the robin, fluffed against the cold, watches from above. Warm savanna colors mixed with winter whites, textured painterly style with bold confident strokes.",
+            "alt": "Zuri walking through the snowy cherry orchard in winter",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-cac8be81ad/scene_4_1.png"
+          }
+        },
+        {
+          "text": "Together, they practice the ancient melodies that help plants dream safely through winter. The neighbor teaches Zuri that every living thing has its own song, and that friendship is simply learning to harmonize with another's music.",
+          "illustration": {
+            "description": "Gouache painting with thick brushstrokes showing Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, and her neighbor sitting together by a warm fire. Both hold instruments and musical notes float visibly in the air around them, creating patterns of harmony. Winter light streams through frosted windows. Textured painterly style with warm savanna colors and bold confident strokes.",
+            "alt": "Zuri and her neighbor creating visible musical harmonies by the fireplace",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-cac8be81ad/scene_4_2.png"
+          }
+        },
+        {
+          "text": "As winter deepens, I understand what the cherry blossoms knew from the beginning—that some neighbors are chosen by magic itself. Zuri has found not just a friend, but a teacher, a family member born of music rather than blood. And when spring returns, their songs together will wake the orchard with twice as much joy.",
+          "illustration": {
+            "description": "Gouache painting with thick brushstrokes showing Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, and her neighbor standing together in the snowy orchard, their combined music creating visible waves of warmth and light that reach toward the sleeping cherry trees. The robin spreads its wings above them protectively. Painted in warm savanna colors with textured painterly style and bold confident strokes.",
+            "alt": "Zuri and her neighbor's music warming the winter orchard together",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-cac8be81ad/scene_4_3.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Spring Returns",
+      "pages": [
+        {
+          "text": "The cherry blossoms return, but now they sing in harmony—Zuri's bright melodies weaving through the neighbor's ancient songs. I watch from my perch as they welcome spring with music that makes the pink petals glow like tiny lanterns.",
+          "illustration": {
+            "description": "Gouache painting with thick brushstrokes showing Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, and her neighbor playing music together beneath blooming cherry trees. The pink blossoms glow with inner light and petals dance in complex patterns around them. The robin observes proudly from above. Warm savanna colors with textured painterly style and bold confident strokes.",
+            "alt": "Zuri and her neighbor making music together as cherry blossoms glow with magic",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-cac8be81ad/scene_5_1.png"
+          }
+        },
+        {
+          "text": "Now I know that some families are not born but grown, like the cherry trees themselves—slowly, with patience, until their roots intertwine so deeply that they become one living song. And from my highest branch, I am honored to witness the music they make together, year after year after year.",
+          "illustration": {
+            "description": "Gouache painting with thick brushstrokes showing an aerial view of the entire cherry orchard in full bloom. Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, and her neighbor are small figures below, surrounded by trees whose branches seem to reach toward each other. The robin flies above it all, wings spread wide. The cottage sits peacefully among the musical trees. Warm savanna colors with textured painterly style and bold confident strokes.",
+            "alt": "An overview of the magical cherry orchard with Zuri, her neighbor, and the robin all part of one harmonious family",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-cac8be81ad/scene_5_2.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "publishedDate": "2024",
+    "language": "en",
+    "country": "US",
+    "culturalElements": [
+      "African diaspora representation",
+      "intergenerational friendship",
+      "nature-based magic"
+    ],
+    "educationalThemes": [
+      "music and rhythm",
+      "seasonal changes",
+      "community building",
+      "accepting differences"
+    ],
+    "coverPrompt": {
+      "description": "Gouache painting with thick brushstrokes showing Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, standing beneath blooming pink cherry trees. A small robin perches nearby. Warm savanna colors blend with soft pinks, painted in bold confident strokes with textured painterly style.",
+      "alt": "A girl in a magical cherry orchard with a robin watching from above"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Who tells this story?",
+        "choices": [
+          "Zuri",
+          "A robin",
+          "The neighbor"
+        ],
+        "correctIndex": 1,
+        "explanation": "The story is told by the robin who lives in the tallest cherry tree and notices things others miss."
+      },
+      {
+        "id": "q2",
+        "question": "What instrument does Zuri play?",
+        "choices": [
+          "A wooden flute",
+          "A magic harp",
+          "Star drums"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zuri carries and plays a small wooden flute that makes cherry petals dance."
+      },
+      {
+        "id": "q3",
+        "question": "What makes the neighbor's garden special?",
+        "choices": [
+          "It grows cherry trees",
+          "The flowers bloom backwards",
+          "It only grows in winter"
+        ],
+        "correctIndex": 1,
+        "explanation": "The neighbor's flowers bloom at night and close at dawn, which is backwards from normal flowers."
+      },
+      {
+        "id": "q4",
+        "question": "What does the neighbor call herself?",
+        "choices": [
+          "The Music Teacher",
+          "The Keeper of Growing Songs",
+          "The Cherry Blossom Lady"
+        ],
+        "correctIndex": 1,
+        "explanation": "The neighbor introduces herself as 'the Keeper of Growing Songs' to Zuri."
+      },
+      {
+        "id": "q5",
+        "question": "How do the cherry blossoms change by the end of the story?",
+        "choices": [
+          "They stop singing",
+          "They sing in harmony with both friends",
+          "They turn into birds"
+        ],
+        "correctIndex": 1,
+        "explanation": "By the end, the cherry blossoms sing harmony combining Zuri's bright melodies with her neighbor's ancient songs."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "spirals",
+            "distractors": [
+              "circles",
+              "squares"
+            ]
+          },
+          {
+            "wordIndex": 20,
+            "correctWord": "welcome",
+            "distractors": [
+              "magic",
+              "danger"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 7,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "courage",
+            "distractors": [
+              "music",
+              "flowers"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "waiting",
+            "distractors": [
+              "sleeping",
+              "singing"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "zuri"
+}

@@ -1,0 +1,189 @@
+{
+  "id": "v2-toddler-adventure-afa94169f8",
+  "title": "The Golden Galley's Secret",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "adventure",
+    "feelings"
+  ],
+  "wordCount": 361,
+  "readingLevel": "toddler",
+  "synopsis": "When Pip the bunny's treasure map tears in half, he must navigate his scratched submarine through three mysterious locations to find magical ingredients that might mend what cannot be fixed the usual way.",
+  "coverImage": "",
+  "chapters": [
+    {
+      "title": "The Spice Islands",
+      "pages": [
+        {
+          "text": "Bubble-pop! The yellow submarine bounces through choppy waves. Pip stares at his treasure map. Rrrrrip! The precious paper tears right down the middle. \"Oh no!\" squeaks the little bunny. His green scarf flutters in the salty breeze. The scratched portholes fog up with his worried breath. Puff-puff-puff. But wait! The torn map shows something new. A dotted trail to the Spice Islands! \"Adventure time!\" Pip declares. The submarine's engine goes chug-a-chug-chug toward cinnamon-colored cliffs.",
+          "illustration": {
+            "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, inside a scratched yellow submarine with fogged portholes, holding two pieces of a torn treasure map. The submarine interior shows brass dials and gauges, rendered in treasure map style with aged parchment textures, sepia tones, and compass rose details.",
+            "alt": "Pip inside his submarine holding the torn treasure map",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Ding-dong! The submarine's bell rings at the spicy shore. Palm trees sway. Swish-swoosh. Pip hops out. Sniff-sniff. \"Mmm, curry leaves!\" The bunny finds a tiny bottle of golden turmeric powder. It sparkles like fairy dust. Twinkle-twinkle. \"This might help fix my map!\" he thinks. Back to the submarine. Chug-chug-chug.",
+          "illustration": {
+            "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, on a tropical beach with palm trees and spice plants growing nearby. He holds a small sparkling bottle of golden turmeric powder. The scene is rendered in treasure map style with dotted trails, sepia tones, and jewel accents highlighting the magical spice.",
+            "alt": "Pip discovers magical turmeric powder on the Spice Islands",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Kelp Forest Kitchen",
+      "pages": [
+        {
+          "text": "Glub-glub-glub! The submarine dives deep. Green kelp ribbons dance outside the foggy portholes. Sway-sway-sway. Pip spots something amazing through the scratched glass. An underwater kitchen! Seahorses stir seaweed soup. Bubble-bubble-pop! \"Excuse me!\" calls the brave bunny through his speaking tube. A friendly octopus chef waves eight arms. Wiggle-waggle-wave!",
+          "illustration": {
+            "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, peering through the fogged portholes of his scratched yellow submarine at an underwater kitchen. Kelp forests surround the scene with seahorses and an octopus chef visible outside. The illustration uses treasure map style with sepia tones and jewel-toned kelp accents.",
+            "alt": "Pip views the underwater kelp forest kitchen from his submarine",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Try this!\" gurgles the octopus. She passes Pip a bowl of sea-berry stew. The little bunny tastes it. Slurp! \"Wow! Tangy and sweet!\" The sea-berries glow purple-pink. Shimmer-shimmer. \"These might help too!\" Pip fills another tiny bottle. The torn map pieces flutter in his paws. Soon, he thinks. Soon they'll be whole again. Whoosh goes the submarine upward. Up-up-up!",
+          "illustration": {
+            "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, receiving a bowl of glowing purple-pink sea-berry stew from a friendly octopus chef. Both the torn map pieces and small bottles are visible nearby. The scene is rendered in treasure map style with aged parchment textures and jewel accents highlighting the magical berries.",
+            "alt": "Pip receives magical sea-berry stew from the octopus chef",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Cloud Candy Mountain",
+      "pages": [
+        {
+          "text": "Pop-pop-POP! The submarine breaks through fluffy white clouds. A mountain made of cotton candy appears! Pink and blue swirls everywhere. \"Amazing!\" gasps Pip. His breath fogs the portholes even more. Puff-puff. The scratched yellow submarine lands gently. Boing! Cloud-creatures bounce around like marshmallows. Bounce-bounce-bounce!",
+          "illustration": {
+            "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, emerging from his scratched yellow submarine onto a mountain made of pink and blue cotton candy. Fluffy cloud-creatures bounce around like marshmallows in the sky. The scene is rendered in treasure map style with aged parchment base, sepia tones, and jewel accents of pink and blue for the candy mountain.",
+            "alt": "Pip explores the magical cotton candy mountain with bouncing cloud-creatures",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "\"Welcome, brave bunny!\" sing the cloud-creatures. Their voices sound like wind chimes. Ting-a-ling-ling! They offer Pip honeyed cloud-drops. Pop-pop-pop in his mouth! Sweet and airy. \"Perfect!\" squeaks Pip. He collects the magical drops in his last bottle. Now comes the big moment. The little bunny mixes turmeric, sea-berries, and cloud-drops together. Fizz-buzz-sparkle! He drips the mixture on his torn map. The pieces float together! Whoosh! \"It worked!\" cheers Pip. His map is whole again, showing new adventures ahead. The submarine purrs. Purr-purr-purr. Ready for the next journey!",
+          "illustration": {
+            "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, inside his scratched yellow submarine with fogged portholes, holding up his now-complete treasure map as magical sparkles surround it. The three bottles of ingredients (golden turmeric, purple sea-berries, and honeyed cloud-drops) are visible nearby. The scene is rendered in treasure map style with aged parchment, compass roses, dotted trails, and jewel accents highlighting the magical repair.",
+            "alt": "Pip successfully repairs his treasure map with magical ingredients as sparkles dance around",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "problem-solving",
+      "trying new foods",
+      "adventure",
+      "persistence",
+      "creativity"
+    ],
+    "lexileLevel": "BR",
+    "illustrationCount": 6,
+    "culturalElements": [
+      "diverse cuisines",
+      "ocean exploration",
+      "magical cooking"
+    ],
+    "coverPrompt": {
+      "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, standing on the deck of a scratched yellow submarine with fogged portholes, holding a torn treasure map. The scene is rendered in treasure map style with aged parchment textures, compass roses in the corners, and sepia tones with jewel accents.",
+      "alt": "Pip the bunny holds a torn treasure map on his yellow submarine"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What happens to Pip's treasure map at the beginning?",
+        "choices": [
+          "It gets wet",
+          "It tears in half",
+          "It blows away"
+        ],
+        "correctIndex": 1,
+        "explanation": "The treasure map tears right down the middle when Pip is looking at it on his submarine."
+      },
+      {
+        "id": "q2",
+        "question": "What does Pip find at the Spice Islands?",
+        "choices": [
+          "Golden turmeric powder",
+          "Purple sea-berries",
+          "Cloud-drops"
+        ],
+        "correctIndex": 0,
+        "explanation": "At the Spice Islands, Pip finds a tiny bottle of golden turmeric powder that sparkles like fairy dust."
+      },
+      {
+        "id": "q3",
+        "question": "Who helps Pip in the underwater kitchen?",
+        "choices": [
+          "Seahorses",
+          "An octopus chef",
+          "Fish"
+        ],
+        "correctIndex": 1,
+        "explanation": "A friendly octopus chef with eight arms helps Pip by giving him sea-berry stew to try."
+      },
+      {
+        "id": "q4",
+        "question": "How does Pip fix his torn map?",
+        "choices": [
+          "With tape",
+          "By mixing three magical ingredients",
+          "By asking for help"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pip mixes turmeric, sea-berries, and cloud-drops together to create a magical mixture that repairs his map."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "squeaks",
+            "distractors": [
+              "barks",
+              "meows"
+            ]
+          },
+          {
+            "wordIndex": 23,
+            "correctWord": "chug-a-chug-chug",
+            "distractors": [
+              "beep-beep",
+              "zoom-zoom"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "octopus",
+            "distractors": [
+              "whale",
+              "dolphin"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "pip"
+}

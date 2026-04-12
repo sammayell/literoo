@@ -1,0 +1,165 @@
+{
+  "id": "v2-toddler-fantasy-62b3f12cd9",
+  "title": "Dust and Thunder Voices",
+  "ageTier": "toddler",
+  "ageRange": [
+    2,
+    4
+  ],
+  "genre": [
+    "fantasy",
+    "animals"
+  ],
+  "wordCount": 333,
+  "readingLevel": "Toddler",
+  "synopsis": "A wise attic mouse observes a human child named Hugo as he discovers magical seasonal doorways during a thunderstorm, learning to name his big feelings while racing against sunset to complete an ancient ritual.",
+  "coverImage": "",
+  "chapters": [
+    {
+      "title": "Spring's Green Door",
+      "pages": [
+        {
+          "text": "Rain drums on the roof like tiny fists, and I watch from my beam as the human child finds the doors. Four of them shimmer in the dusty corners where cobwebs usually hang. Hugo stops at the green one first, his light blue eyes wide. The door hums with spring's voice - all chirping and growing and waking up. His small hands shake as he touches the handle. 'I have to open all four before the sun goes down,' he whispers to himself, though he doesn't know why he knows this. Magic works that way sometimes.",
+          "illustration": {
+            "description": "Hugo with straight light blonde hair, fair skin, and light blue eyes standing before a glowing green door in the dusty attic. Spring magic flows from the door - tiny flowers blooming on the wooden frame, green vines with golden sparkles, butterfly lights dancing around. A small gray mouse watches from a beam above. The attic has enchanted forest atmosphere with mystical creatures peeking from shadows, rich greens and fairy lights, Studio Ghibli inspired magical details.",
+            "alt": "A child reaching toward a magical green spring door in an attic while a mouse watches",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Summer, Autumn, Winter Calling",
+      "pages": [
+        {
+          "text": "The green door opens to summer's blazing yellow portal. Hugo steps through both, and I scurry after him. We stand in a field where seasons dance together - spring flowers growing beside summer's golden wheat, autumn leaves falling into winter's snow. 'This feels too big,' Hugo says, and his voice sounds stretched thin like taffy. I see his hands curl into fists - that's what humans do when wonder gets too heavy. He opens the orange autumn door next, then the silver winter one. Each doorway sings its season's song, and Hugo's face shows every feeling at once - excited-scared-amazed-worried. The attic windows grow darker. Sunset is coming fast.",
+          "illustration": {
+            "description": "A magical landscape where all four seasons exist at once - Hugo with straight light blonde hair, fair skin, and light blue eyes standing in the center surrounded by spring flowers, summer wheat, autumn leaves, and winter snow all swirling together. The scene has enchanted forest elements with glowing mushrooms, fairy lights in rich greens and purples, golden sparkles, mystical creatures from each season, Studio Ghibli inspired atmosphere with detailed magical foliage.",
+            "alt": "A child standing in a magical place where all seasons exist together",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Before the Light Dies",
+      "pages": [
+        {
+          "text": "Back in the attic, Hugo sits cross-legged in the center of the four open doorways. The seasonal magic swirls around him like colored ribbons. 'I feel like a storm inside,' he tells the dusty air, and I nod from my corner because that's exactly right. The feelings have names now - wonder and fear and joy and sadness all mixed up like paint colors. 'But storms can be good,' he adds, watching winter's snow melt into spring's rain into summer's sunshine into autumn's wind. The sun touches the horizon through the attic window. Hugo closes his eyes and lets all four seasons flow through him at once. The doors fade as the last light disappears, but the storm feeling stays - and now he knows that's perfectly fine.",
+          "illustration": {
+            "description": "Hugo with straight light blonde hair, fair skin, and light blue eyes sitting cross-legged in the attic center as magical seasonal energies swirl around him in ribbons of color - green spring light, golden summer rays, orange autumn leaves, silver winter sparkles. The mouse watches wisely from a dusty beam. The scene shows enchanted forest magic with glowing mushrooms, fairy lights, mystical atmosphere in rich greens and purples, golden sparkles, Studio Ghibli inspired detailed magical foliage throughout the attic.",
+            "alt": "A child sitting peacefully as colorful seasonal magic swirls around him in the attic",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "emotions",
+      "growth",
+      "wonder",
+      "acceptance"
+    ],
+    "vocabulary": [
+      "shimmer",
+      "portal",
+      "wonder",
+      "seasons",
+      "magic"
+    ],
+    "lessonsFocus": "Understanding and accepting complex emotions",
+    "coverPrompt": {
+      "description": "An atmospheric attic scene with dusty beams of golden light filtering through a small window, showing Hugo with straight light blonde hair, fair skin, and light blue eyes kneeling beside four glowing seasonal doorways. A small gray mouse sits on a wooden beam above, watching. The scene has enchanted forest elements with glowing mushrooms sprouting from floorboards, fairy lights dancing in the dusty air, mystical sparkles in rich greens and purples, detailed magical foliage creeping through the walls, Studio Ghibli inspired atmosphere.",
+      "alt": "A magical attic with a blonde child and four seasonal doorways, watched by a mouse"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Who is telling Hugo's story?",
+        "choices": [
+          "A mouse",
+          "Hugo himself",
+          "The doors"
+        ],
+        "correctIndex": 0,
+        "explanation": "The story is told by a wise mouse watching from the attic beams who notices things humans miss."
+      },
+      {
+        "id": "q2",
+        "question": "How many magical doors does Hugo find?",
+        "choices": [
+          "Three",
+          "Four",
+          "Five"
+        ],
+        "correctIndex": 1,
+        "explanation": "Hugo finds four doors, one for each season - spring, summer, autumn, and winter."
+      },
+      {
+        "id": "q3",
+        "question": "What does Hugo say he feels like inside?",
+        "choices": [
+          "A rainbow",
+          "A storm",
+          "A flower"
+        ],
+        "correctIndex": 1,
+        "explanation": "Hugo says he feels like a storm inside, with all his big emotions mixed together."
+      },
+      {
+        "id": "q4",
+        "question": "When must Hugo finish opening all the doors?",
+        "choices": [
+          "Before midnight",
+          "Before sunrise",
+          "Before sunset"
+        ],
+        "correctIndex": 2,
+        "explanation": "Hugo knows he must open all four doors before the sun goes down, and sunset is coming fast."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "doors",
+            "distractors": [
+              "windows",
+              "boxes"
+            ]
+          },
+          {
+            "wordIndex": 25,
+            "correctWord": "green",
+            "distractors": [
+              "red",
+              "blue"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "seasons",
+            "distractors": [
+              "colors",
+              "sounds"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "hugo"
+}

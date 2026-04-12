@@ -70,7 +70,7 @@ export default function HomePage() {
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <Link
               href="/auth/signup"
-              className="bg-brand-500 hover:bg-brand-600 text-white font-bold py-4 px-8 rounded-xl text-lg transition-colors shadow-lg shadow-brand-200/50 font-[family-name:var(--font-lexend)] w-full sm:w-auto text-center"
+              className="bg-brand-500 hover:bg-brand-600 active:scale-[0.97] text-white font-bold py-4 px-8 rounded-xl text-lg transition-all shadow-lg shadow-brand-200/50 hover:shadow-xl hover:shadow-brand-200/60 font-[family-name:var(--font-lexend)] w-full sm:w-auto text-center"
             >
               Start Reading Free
             </Link>
@@ -120,9 +120,9 @@ export default function HomePage() {
             {FEATURES.map((feature) => (
               <div
                 key={feature.title}
-                className="bg-white rounded-2xl border border-stone-200 p-6 hover:shadow-md hover:border-brand-200 transition-all"
+                className="card-playful bg-white rounded-2xl border border-stone-200 p-6 hover:border-brand-200 group"
               >
-                <div className="text-3xl mb-4">{feature.icon}</div>
+                <div className="text-3xl mb-4 transition-transform group-hover:scale-110">{feature.icon}</div>
                 <h3 className="text-lg font-bold text-stone-900 mb-2 font-[family-name:var(--font-lexend)]">
                   {feature.title}
                 </h3>
@@ -152,9 +152,9 @@ export default function HomePage() {
               <Link
                 key={tier.tier}
                 href="/library"
-                className={`bg-gradient-to-br ${tier.color} rounded-2xl p-5 hover:shadow-md transition-all group`}
+                className={`card-playful bg-gradient-to-br ${tier.color} rounded-2xl p-5 group`}
               >
-                <div className="text-3xl mb-3">{tier.emoji}</div>
+                <div className="text-3xl mb-3 transition-transform group-hover:scale-110 group-hover:rotate-6">{tier.emoji}</div>
                 <h3 className="text-base font-bold text-stone-800 mb-1 font-[family-name:var(--font-lexend)] group-hover:text-brand-600 transition-colors">
                   {tier.tier}
                 </h3>

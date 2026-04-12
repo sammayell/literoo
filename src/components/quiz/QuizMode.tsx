@@ -1,8 +1,9 @@
 "use client";
 
-import { useState, useCallback } from "react";
+import { useState, useCallback, useEffect, useRef } from "react";
 import type { BookQuiz, QuizQuestion } from "@/lib/types";
 import { useProgress } from "@/lib/progress-context";
+import { fireConfetti, fireConfettiCannon } from "@/lib/confetti";
 
 interface QuizModeProps {
   quiz: BookQuiz;
@@ -16,6 +17,10 @@ export default function QuizMode({ quiz, bookId }: QuizModeProps) {
   const [correctCount, setCorrectCount] = useState(0);
   const [answered, setAnswered] = useState(false);
   const [finished, setFinished] = useState(false);
+  const [streak, setStreak] = useState(0);
+  const [showFloatUp, setShowFloatUp] = useState(false);
+  const [displayScore, setDisplayScore] = useState(0);
+  const confettiFired = useRef(false);
 
   const questions = quiz.questions;
   const total = questions.length;
@@ -29,6 +34,11 @@ export default function QuizMode({ quiz, bookId }: QuizModeProps) {
       setAnswered(true);
       if (choiceIdx === question.correctIndex) {
         setCorrectCount((c) => c + 1);
+        setStreak((s) => s + 1);
+        setShowFloatUp(true);
+        setTimeout(() => setShowFloatUp(false), 800);
+      } else {
+        setStreak(0);
       }
     },
     [answered, question]
@@ -60,6 +70,28 @@ export default function QuizMode({ quiz, bookId }: QuizModeProps) {
     setFinished(false);
   }, []);
 
+  // Fire confetti on quiz completion
+  useEffect(() => {
+    if (finished && !confettiFired.current) {
+      confettiFired.current = true;
+      const percent = Math.round((correctCount / total) * 100);
+      if (percent >= 80) {
+        setTimeout(() => (percent === 100 ? fireConfettiCannon() : fireConfetti()), 200);
+      }
+      // Animate score counter
+      const target = percent;
+      const duration = 800;
+      const start = performance.now();
+      const animate = (now: number) => {
+        const elapsed = now - start;
+        const progress = Math.min(elapsed / duration, 1);
+        setDisplayScore(Math.round(progress * target));
+        if (progress < 1) requestAnimationFrame(animate);
+      };
+      requestAnimationFrame(animate);
+    }
+  }, [finished, correctCount, total]);
+
   // --- Results screen ---
   if (finished) {
     const percent = Math.round((correctCount / total) * 100);
@@ -69,13 +101,13 @@ export default function QuizMode({ quiz, bookId }: QuizModeProps) {
     return (
       <div className="flex flex-col items-center justify-center min-h-[60vh] px-6 py-10 text-center">
         {/* Celebration */}
-        <div className="text-6xl mb-4">
+        <div className="animate-celebrate-in text-6xl mb-4">
           {great ? "🎉" : ok ? "👍" : "📖"}
         </div>
-        <h2 className="text-2xl font-bold text-gray-900 mb-2">
+        <h2 className="animate-stagger-fade-up text-2xl font-bold text-gray-900 mb-2" style={{ animationDelay: "0.15s", opacity: 0 }}>
           {great ? "Amazing job!" : ok ? "Good effort!" : "Keep reading!"}
         </h2>
-        <p className="text-lg text-gray-600 mb-1">
+        <p className="animate-stagger-fade-up text-lg text-gray-600 mb-1" style={{ animationDelay: "0.3s", opacity: 0 }}>
           You scored{" "}
           <span className="font-bold text-brand-600">
             {correctCount}
@@ -83,8 +115,8 @@ export default function QuizMode({ quiz, bookId }: QuizModeProps) {
           out of{" "}
           <span className="font-bold">{total}</span>
         </p>
-        <p className="text-3xl font-extrabold text-brand-500 mb-8">
-          {percent}%
+        <p className="animate-stagger-fade-up text-3xl font-extrabold text-brand-500 mb-8" style={{ animationDelay: "0.45s", opacity: 0 }}>
+          {displayScore}%
         </p>
 
         {/* Score bar */}
@@ -133,18 +165,32 @@ export default function QuizMode({ quiz, bookId }: QuizModeProps) {
         />
       </div>
 
-      {/* Question number */}
-      <p className="text-sm text-gray-500 mt-4 mb-1 text-center font-medium">
-        Question {currentIndex + 1} of {total}
-      </p>
+      {/* Question number + streak */}
+      <div className="flex items-center justify-center gap-3 mt-4 mb-1">
+        <p className="text-sm text-gray-500 font-medium">
+          Question {currentIndex + 1} of {total}
+        </p>
+        {streak >= 2 && (
+          <span className="animate-streak-pulse inline-flex items-center gap-1 text-xs font-bold text-orange-500 bg-orange-50 px-2 py-0.5 rounded-full">
+            🔥 {streak} in a row!
+          </span>
+        )}
+      </div>
 
       {/* Question text */}
       <h3 className="text-xl font-bold text-gray-900 text-center mb-6 px-4 leading-relaxed">
         {question.question}
       </h3>
 
+      {/* Floating +1 on correct */}
+      {showFloatUp && (
+        <div className="animate-float-up text-center text-2xl font-bold text-green-500 pointer-events-none">
+          +1 ⭐
+        </div>
+      )}
+
       {/* Choices */}
-      <div className="flex flex-col gap-3 px-4 mb-6">
+      <div className="flex flex-col gap-3 px-4 mb-6 relative">
         {question.choices.map((choice, idx) => {
           const isSelected = selectedIndex === idx;
           const isCorrect = idx === question.correctIndex;
