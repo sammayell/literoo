@@ -13,7 +13,7 @@
   "wordCount": 888,
   "readingLevel": "Early Reader",
   "synopsis": "When Barnaby the hedgehog's friendship-making invention goes hilariously wrong at Grandmother's house, the chaos creates unexpected connections through silly notes and letters.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-d913f05076/cover.png",
   "chapters": [
     {
       "title": "The Friendship Machine Goes SPLAT!",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "A small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes surrounded by flying papers and sticky notes in a cozy kitchen with cinnamon sticks and old books on shelves. The hedgehog has notes stuck all over his quills. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Barnaby covered in friendship notes as papers fly everywhere in the kitchen",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-d913f05076/scene_1_1.png"
           }
         },
         {
@@ -31,7 +32,8 @@
           "illustration": {
             "description": "A small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes peeking through a window at three other young animals outside, while his friendship machine continues shooting papers in the background. The room smells visually of cinnamon with warm lighting and old books. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Barnaby watching his new schoolmates through the window while his machine creates more chaos",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-d913f05076/scene_1_2.png"
           }
         }
       ]
@@ -44,7 +46,8 @@
           "illustration": {
             "description": "A small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes at an open door talking to a rabbit holding a note, while a mouse and squirrel chase flying papers in the background. The scene is set in a doorway with cinnamon and book scents visible as warm swirls. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Barnaby at the door meeting Rosie while his friends chase escaped notes outside",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-d913f05076/scene_2_1.png"
           }
         },
         {
@@ -52,7 +55,8 @@
           "illustration": {
             "description": "A small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes reading a note while surrounded by a rabbit, mouse, and squirrel in a cinnamon-scented room filled with floating recipe cards and papers. All the animals are smiling and holding notes. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Barnaby reading Rosie's reply note while all four friends stand together surrounded by floating papers",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-d913f05076/scene_2_2.png"
           }
         },
         {
@@ -60,7 +64,8 @@
           "illustration": {
             "description": "A small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes writing notes with three other young animals in a cozy room filled with bookshelves and the warm scent of cinnamon and old books. Papers and notes are scattered everywhere as they all write and laugh together. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "All four friends writing silly notes together in the messy but cozy room",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-d913f05076/scene_2_3.png"
           }
         }
       ]
@@ -73,7 +78,8 @@
           "illustration": {
             "description": "A small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes sitting in a circle with a rabbit, mouse, and squirrel, all holding silly notes and laughing. The room is covered in papers but feels cozy with bookshelves and the warm scent of cinnamon. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "The four friends sitting in a circle reading the silliest notes and laughing together",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-d913f05076/scene_3_1.png"
           }
         },
         {
@@ -81,7 +87,8 @@
           "illustration": {
             "description": "A small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes and three other young animals signing a large friendship club charter in a house that smells like cinnamon and old books. Papers are being cleaned up around them, and everyone looks happy and content. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "All four friends signing their friendship club charter while cleaning up the paper-filled room",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-d913f05076/scene_3_2.png"
           }
         },
         {
@@ -89,7 +96,8 @@
           "illustration": {
             "description": "A small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes sitting with three other young animals around a table in a tidy, cinnamon-scented room filled with old books. The friendship machine sits peacefully on a shelf, and they're reading their special note together, all smiling warmly. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "The four friends reading their special note together in the peaceful, clean room with the friendship machine on the shelf",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-d913f05076/scene_3_3.png"
           }
         }
       ]

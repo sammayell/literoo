@@ -13,7 +13,7 @@
   "wordCount": 319,
   "readingLevel": "Preschool",
   "synopsis": "At 4am in Papa's warm bakery, young Hiro discovers his new neighbor Luna has very strange nighttime habits. Through three magical pre-dawn days, he learns that cardboard boxes can become spaceships when you use your imagination, and friendship blooms in the most unexpected places.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-school-5aaa8c33dd/cover.png",
   "chapters": [
     {
       "title": "Day One: Discovery",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "Hiro, a human child with short straight black hair, light skin, bright dark brown eyes, and round face, stands on a step stool helping his father knead bread dough in a cozy bakery at 4am. Steam rises from fresh loaves, flour dust sparkles in warm lamplight. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Hiro helping his father bake bread in the early morning bakery",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-school-5aaa8c33dd/scene_1_1.png"
           }
         },
         {
@@ -31,7 +32,8 @@
           "illustration": {
             "description": "Through the bakery window, Hiro (a human child with short straight black hair, light skin, bright dark brown eyes, and round face) watches Luna sitting in a large cardboard box decorated with painted stars and space dials, making rocket sounds in the pre-dawn darkness. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Hiro watching Luna play in her cardboard spaceship outside",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-school-5aaa8c33dd/scene_1_2.png"
           }
         }
       ]
@@ -44,7 +46,8 @@
           "illustration": {
             "description": "Hiro (a human child with short straight black hair, light skin, bright dark brown eyes, and round face) looks puzzled through the bakery window at Luna's elaborate cardboard space station made of multiple boxes stacked and taped together with painted control panels. Dawn light mixes with bakery warmth. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Hiro looking confused at Luna's expanded cardboard space station",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-school-5aaa8c33dd/scene_2_1.png"
           }
         },
         {
@@ -52,7 +55,8 @@
           "illustration": {
             "description": "Papa explains gently to Hiro (a human child with short straight black hair, light skin, bright dark brown eyes, and round face) while they shape bread rolls together. Through the window, Luna can be seen alone in her elaborate cardboard spacecraft. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Papa explaining to Hiro while they work, with Luna visible outside",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-school-5aaa8c33dd/scene_2_2.png"
           }
         }
       ]
@@ -65,7 +69,8 @@
           "illustration": {
             "description": "Hiro (a human child with short straight black hair, light skin, bright dark brown eyes, and round face) carefully carries a plate of warm muffins outside the bakery toward Luna's cardboard spaceship in the pre-dawn darkness, his face excited and hopeful. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Hiro bringing muffins to Luna's cardboard spaceship",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-school-5aaa8c33dd/scene_3_1.png"
           }
         },
         {
@@ -73,7 +78,8 @@
           "illustration": {
             "description": "Hiro (a human child with short straight black hair, light skin, bright dark brown eyes, and round face) sits inside Luna's amazing cardboard spaceship cockpit, both children pretending to pilot through space while sharing warm muffins. The cardboard is decorated with painted stars, buttons, and control panels. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Hiro and Luna playing together in the cardboard spaceship, sharing muffins",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-school-5aaa8c33dd/scene_3_2.png"
           }
         }
       ]

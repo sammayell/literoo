@@ -1,0 +1,191 @@
+{
+  "id": "v2-early_reader-mystery-64d0b01d1b",
+  "title": "Seven Parcels on the Wind",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "mystery",
+    "science"
+  ],
+  "wordCount": 603,
+  "readingLevel": "Grade 1-2",
+  "synopsis": "When mysterious packages start arriving at a remote lighthouse, young Hiro must decode the strange messages inside to communicate with someone far away who doesn't speak his language.",
+  "coverImage": "",
+  "chapters": [
+    {
+      "title": "Monday's Peculiar Delivery",
+      "pages": [
+        {
+          "text": "The lighthouse foghorn had been quiet for three days when the first package arrived on a gust that seemed entirely too organized for ordinary weather. Hiro watched it tumble across the wooden deck with the sort of precision that suggested someone, somewhere, had excellent aim and questionable postal habits.\n\nInside the small cloth pouch were seven smooth stones arranged in a perfect triangle. Now, you might think this was merely decorative, but Hiro had spent enough time watching tide pools to recognize a pattern when one knocked on his door.\n\nThe lighthouse keeper—Hiro's grandmother—peered over his shoulder with the expression of someone who had seen many odd things wash ashore but never quite like this. \"Well,\" she said, adjusting her weather-beaten cap, \"that's either a very polite rock collection or someone's trying to tell us something.\"\n\nHiro arranged the stones on his observation table next to his magnifying glass and weather journal. The triangle pointed directly north, toward the distant mountains where storm clouds gathered in suspicious formations.",
+          "illustration": {
+            "description": "Hiro, with short straight black hair, light skin, bright dark brown eyes, and round face, sits at a cluttered wooden table inside the lighthouse. The scene shows a detailed search-and-find composition with many small objects: nautical instruments, shells, rope coils, weather tracking tools, maps, compasses, and scientific equipment scattered throughout. The seven stones form a clear triangle pattern on the table. Through the lighthouse windows, organized storm clouds are visible in the distance.",
+            "alt": "Hiro examining stones at a table filled with lighthouse equipment",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Week of Wondering",
+      "pages": [
+        {
+          "text": "Tuesday brought a bundle of twigs tied with grass—exactly fourteen of them, if you were counting, which Hiro was. They formed the shape of a star when laid flat, and stars, as any lighthouse keeper's grandson knows, are rarely accidental.\n\nWednesday's gift was stranger still: three pinecones, each with precisely eight scales removed. Hiro placed them beside the stones and twigs, noting how they seemed to echo the mountain peaks visible through his telescope.\n\nBy Thursday, when a pouch of colored pebbles arrived (red, blue, green, yellow, blue, red—in that exact order), even Grandmother had begun checking the horizon with unusual interest. \"Someone's either very bored,\" she muttered, \"or very clever.\"\n\nFriday's package contained feathers—not random bird feathers, mind you, but specifically five crow feathers arranged around one white gull feather. Hiro studied them through his magnifying glass, noticing tiny knots tied in the black ones.\n\nSaturday brought the most puzzling item yet: a small piece of bark with holes poked through it in a pattern that looked almost like... music? Or maybe a code? Hiro held it up to the lighthouse beam, and the dots of light that shone through looked remarkably like stars.",
+          "illustration": {
+            "description": "A wide view of Hiro's observation area showing all five days of gifts arranged in organized groups. Hiro, with short straight black hair, light skin, bright dark brown eyes, and round face, uses a magnifying glass to examine the bark with holes. The lighthouse interior is packed with detailed objects in a search-and-find style: maps on walls, shelves full of bottles and specimens, coiled ropes, lanterns, weather instruments, books, and nautical tools. Each day's gifts are carefully arranged and labeled on his workspace.",
+            "alt": "Hiro examining multiple mysterious gifts with a magnifying glass in the lighthouse",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Sunday's Solution",
+      "pages": [
+        {
+          "text": "Sunday's package was different—larger, heavier, and containing something that made Hiro's scientific heart skip several beats. Inside was a mirror, polished to perfection, and beneath it a single piece of paper with drawings: a lighthouse, mountains, and a small figure waving.\n\nSuddenly, the week's collection made perfect sense. You see, dear reader, sometimes the most complex mysteries have the simplest solutions, and sometimes communication doesn't require words at all.\n\nHiro gathered all seven gifts and climbed to the lighthouse beacon room. Using the mirror, he flashed the light toward the mountains in a pattern: three long flashes, five short ones, two medium ones—mimicking the arrangement of stones, the number of feathers, and the holes in the bark.\n\nAlmost immediately, an answering light blinked from the distant peaks. Three flashes. Five flashes. Two flashes. Then something wonderful happened—the light began moving, descending the mountain path.\n\nBy evening, a young girl arrived at the lighthouse door, smiling and carrying a backpack full of climbing gear. She spoke in a language Hiro didn't recognize, but she pointed to the gifts on his table and gave him a thumbs up that needed no translation.\n\nTogether, they sorted the gifts into new patterns—not as messages this time, but as the beginning of a game. After all, the best teams are built not on winning, but on figuring out how to play together, even when the rules are something you have to invent as you go.",
+          "illustration": {
+            "description": "The lighthouse beacon room at night with Hiro, with short straight black hair, light skin, bright dark brown eyes, and round face, and a visiting girl working together to arrange all seven gifts into new game patterns. The detailed search-and-find scene includes the lighthouse lamp mechanism, nautical charts, signal equipment, telescopes, and all the accumulated mysterious gifts now organized into playful arrangements. Light beams stream from the lighthouse toward the mountains, and through the windows, a small figure with climbing gear can be seen approaching on the path below.",
+            "alt": "Hiro and a new friend playing with the mysterious gifts in the lighthouse beacon room",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "communication",
+      "friendship",
+      "problem-solving",
+      "patience",
+      "teamwork"
+    ],
+    "vocabulary": [
+      "lighthouse",
+      "pattern",
+      "mysterious",
+      "triangle",
+      "beacon",
+      "horizon",
+      "telescope",
+      "magnifying glass",
+      "communication",
+      "signal"
+    ],
+    "illustrations": 3,
+    "educationalValue": "Pattern recognition, non-verbal communication, scientific observation, cultural understanding",
+    "coverPrompt": {
+      "description": "A tall white lighthouse stands at the edge of rocky cliffs, with swirling wind patterns visible in the air carrying small colorful parcels. Hiro, with short straight black hair, light skin, bright dark brown eyes, and round face, stands at the lighthouse door holding a mysterious package. The scene is filled with detailed objects scattered by the wind: shells, feathers, small stones, pieces of rope, and weather instruments. The composition shows a busy, organized search-and-find style with many small items hidden throughout the rocky landscape.",
+      "alt": "A boy at a lighthouse receiving mysterious wind-blown packages"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What was the first gift that arrived at the lighthouse?",
+        "choices": [
+          "Seven stones in a triangle",
+          "Fourteen twigs in a star",
+          "A mirror"
+        ],
+        "correctIndex": 0,
+        "explanation": "The first package contained seven smooth stones arranged in a perfect triangle pattern."
+      },
+      {
+        "id": "q2",
+        "question": "How many gifts arrived over the week?",
+        "choices": [
+          "Five gifts",
+          "Six gifts",
+          "Seven gifts"
+        ],
+        "correctIndex": 2,
+        "explanation": "Seven gifts arrived, one for each day of the week from Monday through Sunday."
+      },
+      {
+        "id": "q3",
+        "question": "What helped Hiro finally understand the messages?",
+        "choices": [
+          "A mirror and drawings",
+          "A telescope",
+          "His grandmother"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sunday's package contained a mirror and paper with drawings that helped Hiro understand how to communicate back."
+      },
+      {
+        "id": "q4",
+        "question": "How did Hiro send messages back to the mountains?",
+        "choices": [
+          "He shouted loudly",
+          "He used lighthouse flashes",
+          "He sent his own packages"
+        ],
+        "correctIndex": 1,
+        "explanation": "Hiro used the lighthouse beacon and mirror to flash light signals toward the mountains in patterns."
+      },
+      {
+        "id": "q5",
+        "question": "What did Hiro and his new friend do with the gifts at the end?",
+        "choices": [
+          "Put them away",
+          "Made them into a game",
+          "Sent them back"
+        ],
+        "correctIndex": 1,
+        "explanation": "They arranged the gifts into new patterns as the beginning of a game they could play together."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "pattern",
+            "distractors": [
+              "picture",
+              "puzzle"
+            ]
+          },
+          {
+            "wordIndex": 28,
+            "correctWord": "triangle",
+            "distractors": [
+              "circle",
+              "square"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "feathers",
+            "distractors": [
+              "flowers",
+              "leaves"
+            ]
+          },
+          {
+            "wordIndex": 35,
+            "correctWord": "code",
+            "distractors": [
+              "song",
+              "poem"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "hiro"
+}

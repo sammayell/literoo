@@ -13,7 +13,7 @@
   "wordCount": 298,
   "readingLevel": "Early Reader",
   "synopsis": "A small dragon tends a magical upside-down garden through the seasons, searching for his missing pet star while everything goes hilariously wrong.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-bedtime-cbc75aa576/cover.png",
   "chapters": [
     {
       "title": "Spring Sprouts and Soggy Socks",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes waters an upside-down garden with vegetables hanging down from cloud soil above, dripping wet from morning dew. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
             "alt": "Ember watering his upside-down garden in spring",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-bedtime-cbc75aa576/scene_1_1.png"
           }
         }
       ]
@@ -36,7 +37,8 @@
           "illustration": {
             "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes covered in mud, looking up at a hole in the cloud ceiling with water dripping down, surrounded by lush summer vegetables growing downward. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
             "alt": "Ember covered in mud with a hole in his cloud garden ceiling",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-bedtime-cbc75aa576/scene_2_1.png"
           }
         }
       ]
@@ -49,7 +51,8 @@
           "illustration": {
             "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes tangled in vines with orange pumpkins and autumn vegetables around him, while a small glowing star emerges from a split pumpkin, surrounded by upward-falling orange leaves. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
             "alt": "Ember finding his pet star Twinkle inside an autumn pumpkin",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-bedtime-cbc75aa576/scene_3_1.png"
           }
         }
       ]

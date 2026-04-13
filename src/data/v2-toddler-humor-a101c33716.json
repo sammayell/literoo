@@ -13,7 +13,7 @@
   "wordCount": 240,
   "readingLevel": "Beginner",
   "synopsis": "When mysterious packages arrive in Malik's cozy kitchen throughout the year, he and his sister discover magical surprises that bring them closer together through the changing seasons.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-humor-a101c33716/cover.png",
   "chapters": [
     {
       "title": "Spring Surprise",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "Malik with short twists, dark brown skin, and gentle expressive eyes stands in a warm kitchen with steam on the windows, looking at a colorful package on the floor. His expression shows curious delight. Exaggerated cartoon style with oversized expressions, candy bright colors, and bouncy dynamic energy.",
             "alt": "Malik discovering a mysterious package in his steamy kitchen",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-humor-a101c33716/scene_1_1.png"
           }
         },
         {
@@ -31,7 +32,8 @@
           "illustration": {
             "description": "Malik with short twists, dark brown skin, and gentle expressive eyes and his sister planting glittering seeds in pots on the kitchen counter. Steam swirls around the windows as they work together with exaggerated happy expressions. Exaggerated cartoon style with slapstick energy and rubber hose animation feel.",
             "alt": "Malik and his sister planting magical sparkling seeds together",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-humor-a101c33716/scene_1_2.png"
           }
         }
       ]
@@ -44,7 +46,8 @@
           "illustration": {
             "description": "Malik with short twists, dark brown skin, and gentle expressive eyes and his sister opening a summer package together in their kitchen. The windows are extra steamy from summer heat, and their plants from spring are now growing. Comedic poses with bouncy dynamic energy and oversized expressions of excitement.",
             "alt": "Malik and his sister opening their summer mystery gift",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-humor-a101c33716/scene_2_1.png"
           }
         },
         {
@@ -52,7 +55,8 @@
           "illustration": {
             "description": "Malik with short twists, dark brown skin, and gentle expressive eyes and his sister painting with magical color-changing paints. The kitchen walls are covered in glowing, swirling artwork. Steam continues on the windows. Exaggerated cartoon style with squash and stretch effects and candy bright colors everywhere.",
             "alt": "Malik and his sister creating magical glowing artwork together",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-humor-a101c33716/scene_2_2.png"
           }
         }
       ]
@@ -65,7 +69,8 @@
           "illustration": {
             "description": "Malik with short twists, dark brown skin, and gentle expressive eyes and his sister in their cozy winter kitchen with heavily steamed windows. They're discovering their final mysterious package together. Their summer artwork still glows on the walls, and spring plants have grown tall. Exaggerated cartoon style with comedic winter clothes and bouncy expressions.",
             "alt": "Malik and his sister finding their winter mystery gift",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-humor-a101c33716/scene_3_1.png"
           }
         },
         {
@@ -73,7 +78,8 @@
           "illustration": {
             "description": "Malik with short twists, dark brown skin, and gentle expressive eyes and his sister holding hands while looking through a magical telescope at a star-filled sky visible through their steamy kitchen window. Their year of magical gifts surrounds them - growing plants, glowing artwork. Exaggerated cartoon style with oversized telescope and candy bright stars, slapstick poses full of wonder.",
             "alt": "Malik and his sister stargazing together with their magical telescope",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-humor-a101c33716/scene_3_2.png"
           }
         }
       ]

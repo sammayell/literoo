@@ -13,7 +13,7 @@
   "wordCount": 320,
   "readingLevel": "Grade 1-2",
   "synopsis": "When young inventor Ivy's rain machine works in reverse, her desert oasis adventure becomes a day of unexpected scientific discovery, teaching her that the best experiments don't always go as planned.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-6d4bf90678/cover.png",
   "chapters": [
     {
       "title": "Dawn - Six O'Clock Sharp",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "Ivy, a girl with short dark brown bob with bangs, fair skin, and big brown eyes, kneels beside a complex machine with copper pipes, gears, and steam vents. The desert oasis surrounds her with tall date palms and a clear spring reflecting the early morning light. Tools and invention sketches are scattered around her.",
             "alt": "Ivy working on her rain machine at dawn in the desert oasis",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-6d4bf90678/scene_1_1.png"
           }
         }
       ]
@@ -36,7 +37,8 @@
           "illustration": {
             "description": "Ivy, a girl with short dark brown bob with bangs, fair skin, and big brown eyes, stands with hands on hips looking perplexed as water droplets float upward from her steaming machine. The reverse rain creates magical trails in the air above the date palms, with the oasis spring visible in the background.",
             "alt": "Water droplets floating upward from Ivy's malfunctioning rain machine",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-6d4bf90678/scene_2_1.png"
           }
         }
       ]
@@ -49,7 +51,8 @@
           "illustration": {
             "description": "Ivy, a girl with short dark brown bob with bangs, fair skin, and big brown eyes, peers closely at the machine's inner workings with a magnifying glass. Colorful light refracts through the floating water droplets above, creating rainbow effects. The harsh midday sun casts sharp shadows on the sandy ground around the oasis.",
             "alt": "Ivy investigating her machine with a magnifying glass while rainbow droplets float overhead",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-6d4bf90678/scene_3_1.png"
           }
         }
       ]
@@ -62,7 +65,8 @@
           "illustration": {
             "description": "Ivy, a girl with short dark brown bob with bangs, fair skin, and big brown eyes, reaches up joyfully to catch floating water droplets. Her face shows pure delight as the magical upward rain surrounds her. The date palm fronds sway gently, and the oasis spring reflects the afternoon light.",
             "alt": "Ivy catching floating water droplets with joy in the afternoon sun",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-6d4bf90678/scene_4_1.png"
           }
         }
       ]
@@ -75,7 +79,8 @@
           "illustration": {
             "description": "Ivy, a girl with short dark brown bob with bangs, fair skin, and big brown eyes, sits contentedly beside her machine as the golden sunset illuminates the floating water droplets like stars. The date palms cast long shadows, and the oasis spring reflects the warm evening colors. Her notebook lies open beside her, filled with new invention ideas.",
             "alt": "Ivy sitting peacefully beside her machine at sunset with star-like water droplets above",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-6d4bf90678/scene_5_1.png"
           }
         }
       ]

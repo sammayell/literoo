@@ -1,0 +1,232 @@
+{
+  "id": "v2-early_reader-adventure-b38a2932f9",
+  "title": "Songs From the Cherry Trees",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "adventure",
+    "science"
+  ],
+  "wordCount": 434,
+  "readingLevel": "Grade 1-2",
+  "synopsis": "A small hedgehog conducts careful scientific observations in a cherry orchard, documenting a mysterious sound that only he can hear. Through methodical investigation and collaboration with other creatures, he discovers the source and purpose of the elusive melody.",
+  "coverImage": "",
+  "chapters": [
+    {
+      "title": "Field Notes: Day One",
+      "pages": [
+        {
+          "text": "The cherry blossoms make a sound like tiny bells when the wind stops completely. I have documented this phenomenon three times between 9:17 AM and 10:43 AM. Temperature: warm. Wind speed: zero. Number of witnesses: one small hedgehog (myself). The other creatures in the orchard claim they hear nothing unusual. This requires further investigation.",
+          "illustration": {
+            "description": "A treasure map style illustration on aged parchment showing a small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes standing beneath blooming cherry trees. Pink petals drift around him. He holds a small notebook and pencil. Compass roses mark the corners and dotted lines show his observation path through the orchard.",
+            "alt": "Barnaby the hedgehog taking notes in the cherry orchard",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "I have positioned myself at Grid Point A-7 (beneath the largest cherry tree) to conduct proper surveillance. The pink petals form perfect circles on the grass around me. I count seventeen rabbits, four squirrels, and one very serious-looking owl. None of them appear to be listening for bell sounds. This is either a case of selective hearing or superior hedgehog auditory equipment.",
+          "illustration": {
+            "description": "A treasure map style illustration showing a small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes sitting under a large cherry tree with various forest animals around him. The scene is rendered on aged parchment with sepia tones, pink jewel accents for blossoms, and map-style grid markings labeled A-7.",
+            "alt": "Barnaby observing other animals in the orchard from his position at Grid Point A-7",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Field Notes: Day Two",
+      "pages": [
+        {
+          "text": "Returned to Grid Point A-7 at precisely 9:00 AM. The bell sound occurred again, but this time I noticed something crucial: it happens exactly when I curl into a ball. My quills appear to be vibrating at a specific frequency. I have tested this hypothesis four times. Results: consistent bell-like resonance each time I assume defensive position.",
+          "illustration": {
+            "description": "A treasure map style illustration on aged parchment showing a small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes curled into a spiky ball beneath cherry blossoms. Musical notes drift from his quills toward the pink flowers above. Compass roses and dotted measurement lines indicate scientific observation.",
+            "alt": "Barnaby curled up with musical notes emanating from his quills",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The rabbits have gathered at a respectful distance to observe my experiments. They take notes on flower petals with their teeth. This is surprisingly professional behavior. The owl has descended from her branch and requests a demonstration. Science requires peer review, so I comply with her request. The results are witnessed and verified.",
+          "illustration": {
+            "description": "A treasure map style illustration showing a small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes surrounded by rabbits holding flower petals and an owl with a serious expression. The scene is rendered in treasure map style on aged parchment with sepia tones and pink jewel accents, featuring dotted lines connecting the observers to the central hedgehog.",
+            "alt": "Barnaby demonstrating his discovery to an audience of forest animals taking notes",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Field Notes: Day Three",
+      "pages": [
+        {
+          "text": "Breakthrough discovery at Grid Point A-7: the cherry blossoms respond to my quill-generated bell tones. When I create the sound, the flowers vibrate in harmony. The squirrels have confirmed this observation using their tail-sensitivity equipment. We are documenting a previously unknown form of plant-animal musical communication.",
+          "illustration": {
+            "description": "A treasure map style illustration on aged parchment showing a small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes with cherry blossoms vibrating around him. Squirrels hold their fluffy tails up like instruments. Musical waves flow between hedgehog and flowers, rendered with compass rose patterns and jewel-toned pink accents.",
+            "alt": "Barnaby creating musical harmony with cherry blossoms while squirrels assist with measurements",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The owl suggests we form a research team. The rabbits volunteer their petal-documentation services. The squirrels offer tail-vibration detection. I will provide the sonic generation through specialized quill techniques. This investigation requires collaborative effort. We establish Base Camp at Grid Point A-7 and begin systematic testing of all cherry trees in the orchard.",
+          "illustration": {
+            "description": "A treasure map style illustration showing a small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes standing with rabbits, squirrels, and an owl around a makeshift camp beneath the cherry tree. Maps and charts made of leaves and petals are spread around them. The scene uses treasure map cartography style with aged parchment and dotted trail markings.",
+            "alt": "Barnaby and his research team setting up their scientific base camp",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Field Notes: Final Report",
+      "pages": [
+        {
+          "text": "After comprehensive testing at seventeen different grid points throughout the orchard, our team has documented a remarkable phenomenon. Each cherry tree produces a unique harmonic response to hedgehog quill-generated tones. The rabbits have mapped every frequency. The squirrels have recorded all vibration patterns. The owl has supervised quality control.",
+          "illustration": {
+            "description": "A treasure map style illustration on aged parchment showing a small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes leading his animal research team through the blooming orchard. Charts and maps float around them, connected by dotted lines to different trees. Musical notes and compass roses decorate the borders with pink jewel accents.",
+            "alt": "The complete research team mapping musical responses throughout the cherry orchard",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Conclusion: The cherry orchard is actually a massive musical instrument. My quills serve as the activation mechanism. The other creatures provide essential support functions—documentation, measurement, and analysis. We have discovered that the most beautiful sounds occur not when one hedgehog works alone, but when the entire team coordinates their efforts. Tomorrow we plan to perform our first complete orchard symphony.",
+          "illustration": {
+            "description": "A treasure map style illustration showing a small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes conducting an orchestra of forest animals among the blooming cherry trees. Musical notes fill the air like pink petals. The scene is rendered on aged parchment with treasure map styling, compass roses, and jewel-toned accents throughout the blossoming orchard.",
+            "alt": "Barnaby conducting his fellow researchers in a cherry blossom symphony",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "scientific inquiry",
+      "collaboration",
+      "music in nature",
+      "teamwork beyond competition"
+    ],
+    "vocabulary": [
+      "phenomenon",
+      "hypothesis",
+      "frequency",
+      "surveillance",
+      "collaborate",
+      "systematic",
+      "harmonic",
+      "coordinate"
+    ],
+    "lessonPlan": "Discuss how scientists work together, observe nature carefully, and make discoveries through patient investigation.",
+    "coverPrompt": {
+      "description": "A treasure map style illustration showing a small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes standing in a cherry orchard in full pink bloom. The scene is rendered on aged parchment with sepia tones and jewel-toned pink accents for the blossoms. Compass roses and dotted trails weave between the trees, suggesting paths of investigation.",
+      "alt": "Cover showing a hedgehog in a blooming cherry orchard with map-style artistic elements"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound did Barnaby hear that the other animals couldn't?",
+        "choices": [
+          "Tiny bells from cherry blossoms",
+          "Birds singing loudly",
+          "Thunder in the distance"
+        ],
+        "correctIndex": 0,
+        "explanation": "Barnaby discovered that his quills made bell-like sounds that resonated with the cherry blossoms, which only he could initially detect."
+      },
+      {
+        "id": "q2",
+        "question": "When did the bell sound happen?",
+        "choices": [
+          "When it was raining",
+          "When Barnaby curled into a ball",
+          "When the wind was strong"
+        ],
+        "correctIndex": 1,
+        "explanation": "Through careful observation, Barnaby discovered the bell sound occurred when he curled up and his quills vibrated."
+      },
+      {
+        "id": "q3",
+        "question": "How did the other animals help Barnaby's research?",
+        "choices": [
+          "They took notes and made measurements",
+          "They ignored his experiments",
+          "They told him to stop making noise"
+        ],
+        "correctIndex": 0,
+        "explanation": "The rabbits, squirrels, and owl all contributed by documenting, measuring, and verifying Barnaby's discoveries."
+      },
+      {
+        "id": "q4",
+        "question": "What did the team discover about the cherry orchard?",
+        "choices": [
+          "It was too noisy",
+          "It was actually a musical instrument",
+          "It needed more flowers"
+        ],
+        "correctIndex": 1,
+        "explanation": "Through their collaborative research, they discovered the entire orchard functioned as a massive musical instrument."
+      },
+      {
+        "id": "q5",
+        "question": "What did they plan to do at the end?",
+        "choices": [
+          "Leave the orchard",
+          "Perform a symphony together",
+          "Plant more trees"
+        ],
+        "correctIndex": 1,
+        "explanation": "The team planned to use their discovery to create a complete orchard symphony, working together."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "bells",
+            "distractors": [
+              "drums",
+              "horns"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "hedgehog",
+            "distractors": [
+              "rabbit",
+              "squirrel"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "team",
+            "distractors": [
+              "group",
+              "crowd"
+            ]
+          },
+          {
+            "wordIndex": 23,
+            "correctWord": "symphony",
+            "distractors": [
+              "concert",
+              "noise"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "barnaby"
+}

@@ -13,7 +13,7 @@
   "wordCount": 881,
   "readingLevel": "Grade 1-2",
   "synopsis": "When young fox Juniper gets stuck in a pumpkin patch with a mysterious stranger, seven magical gifts arrive over a week, each one revealing something special about friendship and belonging.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-87366dfec9/cover.png",
   "chapters": [
     {
       "title": "Whoosh Goes the Wind",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "A young red fox with vivid orange fur, a white chest and tail-tip, large alert amber eyes, and perky black-tipped ears stands before a closed wooden gate in a pumpkin patch. The scene shows treasure map style artwork with aged parchment textures, a compass rose in the corner, and sepia tones with jewel accents highlighting the golden hour light streaming through.",
             "alt": "Fox looking worried at a closed gate in a pumpkin patch",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-87366dfec9/scene_1_1.png"
           }
         },
         {
@@ -31,7 +32,8 @@
           "illustration": {
             "description": "A young red fox with vivid orange fur, a white chest and tail-tip, large alert amber eyes, and perky black-tipped ears faces a magical creature made of twisted vines with tiny yellow flower eyes and moss hair. The pumpkin patch setting features treasure map style with dotted trails around the characters, compass roses, and sepia tones with jewel accents on the flowers.",
             "alt": "Fox meeting a magical vine creature among pumpkins",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-87366dfec9/scene_1_2.png"
           }
         }
       ]
@@ -44,7 +46,8 @@
           "illustration": {
             "description": "A young red fox with vivid orange fur, a white chest and tail-tip, large alert amber eyes, and perky black-tipped ears holds tiny orange mittens while a wrapped package sits nearby. The treasure map style shows dotted trails from the sky to the gift, compass roses marking the four directions, aged parchment textures, and sepia tones with jewel accents on the silver bells floating above.",
             "alt": "Fox examining orange mittens with gift wrapping nearby",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-87366dfec9/scene_2_1.png"
           }
         },
         {
@@ -52,7 +55,8 @@
           "illustration": {
             "description": "A young red fox with vivid orange fur, a white chest and tail-tip, large alert amber eyes, and perky black-tipped ears sits surrounded by small gifts: orange mittens, a tiny watering can, and a packet of seeds. The treasure map style features dotted trails connecting each gift, multiple compass roses, aged parchment background, and sepia tones with jewel accents highlighting the metallic watering can.",
             "alt": "Fox surrounded by various small gifts in the pumpkin patch",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-87366dfec9/scene_2_2.png"
           }
         }
       ]
@@ -65,7 +69,8 @@
           "illustration": {
             "description": "A young red fox with vivid orange fur, a white chest and tail-tip, large alert amber eyes, and perky black-tipped ears sits on a checkered blanket surrounded by gardening gifts including a trowel, clay pot, and painted sign. The treasure map style shows dotted trails creating a circle around the items, compass roses in each corner, aged parchment textures, and sepia tones with jewel accents on the painted sign.",
             "alt": "Fox sitting with gardening supplies on a checkered blanket",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-87366dfec9/scene_3_1.png"
           }
         },
         {
@@ -73,7 +78,8 @@
           "illustration": {
             "description": "A young red fox with vivid orange fur, a white chest and tail-tip, large alert amber eyes, and perky black-tipped ears digs in soil alongside the vine creature with flower eyes. The treasure map style features dotted trails showing the planting process, compass roses indicating growth directions, aged parchment background, and sepia tones with jewel accents on the scattered sunflower seeds.",
             "alt": "Fox and vine creature planting seeds together",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-87366dfec9/scene_3_2.png"
           }
         }
       ]
@@ -86,7 +92,8 @@
           "illustration": {
             "description": "A young red fox with vivid orange fur, a white chest and tail-tip, large alert amber eyes, and perky black-tipped ears holds a golden sunflower-shaped key while standing next to a large opened gift box. The treasure map style shows dotted trails from the sky to the gift, ornate compass roses, aged parchment textures, and sepia tones with jewel accents highlighting the golden key.",
             "alt": "Fox holding a golden key next to an opened gift box",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-87366dfec9/scene_4_1.png"
           }
         },
         {
@@ -94,7 +101,8 @@
           "illustration": {
             "description": "A young red fox with vivid orange fur, a white chest and tail-tip, large alert amber eyes, and perky black-tipped ears stands at an open gate, looking back at a vine creature amid pumpkins and tiny planted seeds. The treasure map style features dotted trails connecting fox to garden, compass roses showing the path forward and back, aged parchment background, and sepia tones with jewel accents on the morning sunlight.",
             "alt": "Fox at open gate looking back at friend and garden",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-87366dfec9/scene_4_2.png"
           }
         }
       ]

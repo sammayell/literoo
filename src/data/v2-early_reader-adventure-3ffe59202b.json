@@ -13,7 +13,7 @@
   "wordCount": 403,
   "readingLevel": "Pre-K to Grade 1",
   "synopsis": "When a new magical cook appears in her grandmother's kitchen, clumsy but cheerful Chloe discovers that friendship can bloom even when someone else seems better at the thing you love most. A rhyming adventure that treats kitchen magic as perfectly ordinary.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-3ffe59202b/cover.png",
   "chapters": [
     {
       "title": "The Stove Station",
@@ -22,7 +22,8 @@
           "text": "The kitchen windows fog with morning steam, and Grandma's pancakes dance like little dreams. They flip themselves with golden grace while Chloe tries to match their pace.\n\n'Flip, flop, flip!' she says with glee, but her pancakes land where they shouldn't be. One on the floor, one on her shoe - cooking magic's hard to do!",
           "illustration": {
             "description": "Treasure map style illustration on aged parchment showing a detailed view of the stove station. Chloe, with short wavy strawberry-blonde hair, light skin, and blue-gray eyes, stands beside the stove with a spatula. Pancakes float in mid-air around her, some landing in wrong places. Steam creates compass rose patterns above the pan. Dotted trails show the pancakes' chaotic flight paths. Sepia tones with golden jewel accents on the floating pancakes.",
-            "alt": "Map-style view of kitchen stove with Chloe trying to flip magical pancakes that are flying everywhere"
+            "alt": "Map-style view of kitchen stove with Chloe trying to flip magical pancakes that are flying everywhere",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-3ffe59202b/scene_1_1.png"
           },
           "layout": "full-page"
         },
@@ -30,7 +31,8 @@
           "text": "But Chloe grins and tries once more - that's what kitchen magic's for! The steam makes patterns in the air, like treasure maps beyond compare.\n\n'Practice makes the magic grow,' Grandma says, and Chloe knows. She stirs the batter, tries again, while raindrops tap the window pane.",
           "illustration": {
             "description": "Treasure map illustration showing Chloe with short wavy strawberry-blonde hair, light skin, and blue-gray eyes, stirring batter in a large bowl. The kitchen windows are completely fogged with steam, and magical swirls in the air form actual map patterns with compass roses. Rain traces dotted paths down the windows. Sepia tones with emerald jewel accents in the magical steam patterns. The scene captures the cozy, map-like quality of the steamy kitchen.",
-            "alt": "Chloe stirring magical batter while steam creates map patterns in the foggy kitchen air"
+            "alt": "Chloe stirring magical batter while steam creates map patterns in the foggy kitchen air",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-3ffe59202b/scene_1_2.png"
           },
           "layout": "full-page"
         }
@@ -43,7 +45,8 @@
           "text": "A knock upon the kitchen door - someone Chloe's never seen before. A boy with flour in his hair steps in without a single care.\n\n'I'm Marcus, and I love to bake. Perfect cookies I can make!' His hands move quick, his mixing's neat. Chloe's heart skips several beats.",
           "illustration": {
             "description": "Treasure map style illustration of the kitchen counter area on aged parchment. Chloe with short wavy strawberry-blonde hair, light skin, and blue-gray eyes stands to one side while Marcus enters through the door. The counter is mapped out like a kingdom with various baking stations marked. Dotted trails show Marcus's confident movements. Steam continues to fog the windows. Sepia tones with ruby jewel accents on the perfect cookies Marcus carries. Hand-drawn map borders frame the scene.",
-            "alt": "Map view of kitchen counter showing Chloe meeting Marcus, who carries perfectly made cookies"
+            "alt": "Map view of kitchen counter showing Chloe meeting Marcus, who carries perfectly made cookies",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-3ffe59202b/scene_2_1.png"
           },
           "layout": "full-page"
         },
@@ -51,7 +54,8 @@
           "text": "His cookies rise without a tumble, while Chloe's always seem to crumble. His frosting swirls in perfect lines - her decorating never shines.\n\n'How do you make them look so right?' Chloe asks with all her might. But inside she feels quite small - Marcus seems to know it all.",
           "illustration": {
             "description": "Treasure map illustration showing a detailed comparison on aged parchment. Chloe with short wavy strawberry-blonde hair, light skin, and blue-gray eyes looks at her crumbly cookies on one side, while Marcus's perfect creations line the other side of the counter. Dotted trails connect the different cookie stations. Steam creates compass rose patterns above. The contrast is shown map-style with different territories marked. Sepia tones with golden jewel accents highlighting the perfect vs. imperfect cookies.",
-            "alt": "Map-style view showing Chloe's messy cookies compared to Marcus's perfect ones across the kitchen counter"
+            "alt": "Map-style view showing Chloe's messy cookies compared to Marcus's perfect ones across the kitchen counter",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-3ffe59202b/scene_2_2.png"
           },
           "layout": "full-page"
         }
@@ -64,7 +68,8 @@
           "text": "They walk together to the pantry door, where spices live and so much more. The shelves are marked with mystic signs - herbs and powders in neat lines.\n\n'I know each jar and every tin,' says Marcus with a knowing grin. But Chloe trips and bumps a shelf - ingredients rain down by themselves!",
           "illustration": {
             "description": "Treasure map style illustration on aged parchment showing the pantry as a mysterious cave-like path. Chloe with short wavy strawberry-blonde hair, light skin, and blue-gray eyes is mid-tumble as colorful spices and ingredients cascade around her. Marcus stands confidently nearby. The shelves are mapped like ancient treasure locations with mystical symbols marking each ingredient. Dotted trails show the falling spices' paths. Steam seeps in from the kitchen. Sepia tones with jewel-toned accents on the colorful spices - emeralds, rubies, sapphires.",
-            "alt": "Map view of pantry showing Chloe accidentally spilling magical ingredients while Marcus watches confidently"
+            "alt": "Map view of pantry showing Chloe accidentally spilling magical ingredients while Marcus watches confidently",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-3ffe59202b/scene_3_1.png"
           },
           "layout": "full-page"
         },
@@ -72,7 +77,8 @@
           "text": "But something magical happens then - the spices swirl and rise again! They dance in colors, gold and red, making rainbows overhead.\n\n'I've never seen such pretty light!' Marcus gasps with pure delight. 'Your clumsiness made something new - something I could never do!'",
           "illustration": {
             "description": "Treasure map illustration showing the pantry transformed into a magical realm on aged parchment. Chloe with short wavy strawberry-blonde hair, light skin, and blue-gray eyes stands amazed as spices create rainbow spirals above them. Marcus watches in wonder. The spice trails are mapped like constellation patterns with compass roses marking the swirling directions. Steam mingles with the colorful spice clouds. Sepia base tones with brilliant jewel accents in ruby, emerald, sapphire, and gold creating the magical rainbow effect.",
-            "alt": "Map-style pantry showing magical rainbow spirals of spices created by Chloe's accident, with both children watching in amazement"
+            "alt": "Map-style pantry showing magical rainbow spirals of spices created by Chloe's accident, with both children watching in amazement",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-3ffe59202b/scene_3_2.png"
           },
           "layout": "full-page"
         }
@@ -85,7 +91,8 @@
           "text": "Back at the table, side by side, they work with hearts both full of pride. Marcus teaches Chloe tricks, while she shows him her magic mix.\n\n'Your way is different, that's okay - we both make magic every day!' They laugh and cook and make a mess, but friendship makes it taste the best.",
           "illustration": {
             "description": "Treasure map illustration on aged parchment showing the kitchen table as the central territory. Chloe with short wavy strawberry-blonde hair, light skin, and blue-gray eyes and Marcus work together, their combined cooking creating magical results. Dotted trails connect all the previous kitchen locations - stove, counter, pantry - to this central table. Steam continues to fog the windows. Both children's different cooking styles are represented with complementary compass rose patterns. Sepia tones with jewel accents in gold and silver showing their collaborative magic.",
-            "alt": "Map view of kitchen table showing Chloe and Marcus cooking together, with trails connecting to all the kitchen areas they've explored"
+            "alt": "Map view of kitchen table showing Chloe and Marcus cooking together, with trails connecting to all the kitchen areas they've explored",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-3ffe59202b/scene_4_1.png"
           },
           "layout": "full-page"
         },
@@ -93,7 +100,8 @@
           "text": "The kitchen windows still steam bright, filled with warmth and morning light. Two cooks are better than just one - together, magic's never done!\n\n'Come back tomorrow!' Chloe calls, as Marcus heads back down the halls. The kitchen holds their friendship true, with steam and spells and something new.",
           "illustration": {
             "description": "Treasure map illustration showing the complete kitchen map on aged parchment. Chloe with short wavy strawberry-blonde hair, light skin, and blue-gray eyes waves goodbye to Marcus from the steamy kitchen. All locations are connected by dotted friendship trails - the stove station, counter kingdom, pantry path, and table territory. The windows are beautifully fogged with steam creating compass rose patterns. The entire kitchen is mapped like a discovered treasure land. Sepia tones with jewel accents throughout - emeralds, rubies, gold - celebrating their magical friendship and culinary adventures.",
-            "alt": "Complete kitchen map showing all locations connected by friendship trails, with Chloe waving goodbye in the steamy, magical cooking space"
+            "alt": "Complete kitchen map showing all locations connected by friendship trails, with Chloe waving goodbye in the steamy, magical cooking space",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-3ffe59202b/scene_4_2.png"
           },
           "layout": "full-page"
         }

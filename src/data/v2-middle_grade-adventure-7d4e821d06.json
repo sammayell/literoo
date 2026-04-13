@@ -13,7 +13,7 @@
   "wordCount": 3590,
   "readingLevel": "Grade 4-6",
   "synopsis": "In an ancient desert oasis, a clever chameleon named Mango has only eight days to pull off the most important heist of his life—stealing back the friendship of Zara, a desert fox who's about to leave forever. As the countdown begins, Mango must use all his chameleonic skills and social talents to win back what matters most, while the ancient date palms and quiet spring bear witness to their bittersweet adventure.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-adventure-7d4e821d06/cover.png",
   "chapters": [
     {
       "title": "Eight",
@@ -22,7 +22,8 @@
         {
           "description": "A chameleon with jewel-bright green-and-orange scales, independently swiveling eyes, a coiled tail, and sticky toes grips the bark of an ancient date palm. Below, a russet-furred desert fox stands by a crystal-clear spring. The oasis is surrounded by dense tropical jungle with layers of green vegetation, exotic plants, and glimpses of ancient ruins. Golden morning light filters through the palm fronds, creating a rich saturated atmosphere of adventure and exploration.",
           "alt": "Mango the chameleon in the date palm talking to Zara the fox by the spring",
-          "position": "after-paragraph-2"
+          "position": "after-paragraph-2",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-adventure-7d4e821d06/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "A chameleon with jewel-bright green-and-orange scales, independently swiveling eyes, a coiled tail, and sticky toes practices color-changing near reeds by a spring, his scales showing various shades. A russet desert fox sits beside the water where an old copper kettle rests. Dense tropical jungle surrounds them with layers of green vegetation, exotic plants, and ancient ruins visible in the background. Pre-dawn light creates a mysterious atmosphere with rich saturated colors and golden light beginning to filter through the canopy.",
           "alt": "Mango practicing color-changing by the spring with Zara watching",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-adventure-7d4e821d06/scene_2_1.png"
         }
       ]
     },
@@ -44,7 +46,8 @@
         {
           "description": "A chameleon with jewel-bright green-and-orange scales, independently swiveling eyes, a coiled tail, and sticky toes clings to a palm trunk at twilight, his scales showing deep blue-green shadows. A russet desert fox sits below while wind stirs jasmine blossoms around them. In the background, merchant tents are visible with dense tropical jungle layers, exotic plants, and ancient ruins. The scene is lit by evening light with rich saturated colors and golden light filtering through the canopy.",
           "alt": "Evening scene with Mango watching the merchant camp while talking to Zara",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-adventure-7d4e821d06/scene_3_1.png"
         }
       ]
     },
@@ -55,7 +58,8 @@
         {
           "description": "A chameleon with jewel-bright green-and-orange scales, independently swiveling eyes, a coiled tail, and sticky toes sits at the edge of a crystal-clear spring, his reflection wavering in the water. A russet desert fox approaches through date groves, with dense tropical jungle surrounding them. The scene shows layers of green vegetation, exotic plants, and ancient ruins in the background. Morning light filters through the canopy creating rich saturated colors and a mysterious exploration atmosphere.",
           "alt": "Mango and Zara having a quiet conversation by the spring at dawn",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-adventure-7d4e821d06/scene_4_1.png"
         }
       ]
     },
@@ -66,7 +70,8 @@
         {
           "description": "A chameleon with jewel-bright green-and-orange scales, independently swiveling eyes, a coiled tail, and sticky toes peers through tent fabric at an ornate brass strongbox gleaming in lamplight. A russet desert fox crouches beside him. The merchant's tent is surrounded by dense tropical jungle with layers of green vegetation, exotic plants, and ancient ruins visible. The night scene has rich saturated colors with mysterious golden light filtering through the scene, creating an adventure exploration atmosphere.",
           "alt": "Mango and Zara spying on the merchant's strongbox in his tent",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-adventure-7d4e821d06/scene_5_1.png"
         }
       ]
     },
@@ -77,7 +82,8 @@
         {
           "description": "A close-up view inside the brass strongbox showing an ornate golden compass with intricate engravings, surrounded by other treasures. Outside, barely visible through tent fabric, a chameleon with jewel-bright green-and-orange scales, independently swiveling eyes, a coiled tail, and sticky toes tests the lock while a russet desert fox keeps watch. The scene is surrounded by dense tropical jungle with layers of green vegetation and ancient ruins, lit by mysterious golden light with rich saturated colors.",
           "alt": "The golden compass inside the strongbox with Mango and Zara planning outside",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-adventure-7d4e821d06/scene_6_1.png"
         }
       ]
     },
@@ -88,7 +94,8 @@
         {
           "description": "A chameleon with jewel-bright green-and-orange scales, independently swiveling eyes, a coiled tail, and sticky toes moves stealthily through moonless darkness with a russet desert fox beside him. They approach merchant tents surrounded by dense tropical jungle with layers of green vegetation and exotic plants barely visible in the starlight. Ancient ruins loom in the background as golden light from tent interiors creates mysterious shadows. The scene captures adventure and exploration with rich saturated colors despite the nighttime setting.",
           "alt": "Mango and Zara sneaking through the camp on a moonless night",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-adventure-7d4e821d06/scene_7_1.png"
         }
       ]
     },
@@ -99,7 +106,8 @@
         {
           "description": "A chameleon with jewel-bright green-and-orange scales, independently swiveling eyes, a coiled tail, and sticky toes sits with a russet desert fox by a spring at sunrise. Soft morning light filters through date palm fronds, creating golden rays through dense tropical jungle layers. Exotic plants and ancient ruins are visible in the background, while the scene captures a peaceful moment after their nighttime adventure. Rich saturated colors and golden light through the canopy create a warm, hopeful atmosphere of friendship and new beginnings.",
           "alt": "Mango and Zara sharing a peaceful moment by the spring at sunrise",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-adventure-7d4e821d06/scene_8_1.png"
         }
       ]
     },
@@ -110,7 +118,8 @@
         {
           "description": "A chameleon with jewel-bright green-and-orange scales, independently swiveling eyes, a coiled tail, and sticky toes waves from an ancient date palm as a merchant caravan departs across golden desert sands. A russet desert fox looks back from the caravan while the oasis with its dense tropical jungle layers, exotic plants, and ancient ruins grows smaller in the distance. The scene shows rich saturated colors with golden light filtering through palm fronds, capturing a bittersweet moment of friendship and adventure with exploration atmosphere.",
           "alt": "Mango waving goodbye to Zara as the caravan departs the oasis",
-          "position": "after-paragraph-9"
+          "position": "after-paragraph-9",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-adventure-7d4e821d06/scene_9_1.png"
         }
       ]
     }

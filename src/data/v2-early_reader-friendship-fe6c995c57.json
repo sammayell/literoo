@@ -13,7 +13,7 @@
   "wordCount": 823,
   "readingLevel": "K-1",
   "synopsis": "Marina, a young mermaid, discovers an enchanted printing press shop where mysterious notes keep appearing to help her. Through exchanged letters, she uncovers the identity of her secret helper and finds an unexpected friendship.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-fe6c995c57/cover.png",
   "chapters": [
     {
       "title": "The First Note",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "A young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes watches purple ink spell out words on paper at an underwater desk. The crooked printing press shop has tilted shelves and floating books. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities",
             "alt": "Marina watching magical ink write by itself",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-fe6c995c57/scene_1_1.png"
           }
         },
         {
@@ -31,7 +32,8 @@
           "illustration": {
             "description": "A young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes reads a floating note while surrounded by swimming books and floating printing wheels in the underwater shop. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities",
             "alt": "Marina reading the mysterious welcome note",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-fe6c995c57/scene_1_2.png"
           }
         },
         {
@@ -39,7 +41,8 @@
           "illustration": {
             "description": "A young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes writes with a glowing pen while bottles of moonlight and jars glow softly on shelves around her. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities",
             "alt": "Marina writing her reply letter",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-fe6c995c57/scene_1_3.png"
           }
         }
       ]
@@ -52,7 +55,8 @@
           "illustration": {
             "description": "A young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes opens colorful drawers filled with magical stamps and glowing letters. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities",
             "alt": "Marina discovering the special drawers",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-fe6c995c57/scene_2_1.png"
           }
         },
         {
@@ -60,7 +64,8 @@
           "illustration": {
             "description": "A young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes reads glowing letters while her own note vanishes in sparkles of light. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities",
             "alt": "Marina reading letters from other mermaids",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-fe6c995c57/scene_2_2.png"
           }
         },
         {
@@ -68,7 +73,8 @@
           "illustration": {
             "description": "A young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes holds a golden shimmering letter while looking at a bubble clock floating near the ceiling. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities",
             "alt": "Marina reading the gold ink letter",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-fe6c995c57/scene_2_3.png"
           }
         }
       ]
@@ -81,7 +87,8 @@
           "illustration": {
             "description": "A young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes meets a small octopus wearing a seaweed bow tie and bubble-shell glasses floating near a tiny door in the wall. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities",
             "alt": "Marina meeting Oliver the octopus",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-fe6c995c57/scene_3_1.png"
           }
         },
         {
@@ -89,7 +96,8 @@
           "illustration": {
             "description": "A young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes and a small octopus wearing a seaweed bow tie and bubble-shell glasses exchange notes while floating together. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities",
             "alt": "Marina and Oliver writing notes to each other",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-fe6c995c57/scene_3_2.png"
           }
         },
         {
@@ -97,7 +105,8 @@
           "illustration": {
             "description": "A young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes and a small octopus wearing a seaweed bow tie and bubble-shell glasses shake hands with a tentacle, surrounded by floating letters and ink bottles. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities",
             "alt": "Marina and Oliver becoming friends",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-fe6c995c57/scene_3_3.png"
           }
         }
       ]
@@ -110,7 +119,8 @@
           "illustration": {
             "description": "A young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes and a small octopus wearing a seaweed bow tie and bubble-shell glasses work together organizing colorful maps and letters while Mrs. Crab waits nearby. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities",
             "alt": "Marina and Oliver helping Mrs. Crab",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-fe6c995c57/scene_4_1.png"
           }
         },
         {
@@ -118,7 +128,8 @@
           "illustration": {
             "description": "A young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes and a small octopus wearing a seaweed bow tie and bubble-shell glasses taste-test colorful inks while writing letters that smell like strawberries and seaweed cookies. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities",
             "alt": "Marina and Oliver testing flavored inks",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-fe6c995c57/scene_4_2.png"
           }
         },
         {
@@ -126,7 +137,8 @@
           "illustration": {
             "description": "A young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes and a small octopus wearing a seaweed bow tie and bubble-shell glasses place their special notes in a red drawer filled with other glowing letters, both smiling warmly at each other. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities",
             "alt": "Marina and Oliver saving their friendship letters",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-fe6c995c57/scene_4_3.png"
           }
         }
       ]

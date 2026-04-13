@@ -13,7 +13,7 @@
   "wordCount": 613,
   "readingLevel": "Grade 1-2",
   "synopsis": "When young Malik discovers an abandoned carousel in an overgrown field, he overhears a family secret that changes everything. Told through the wise, weathered voice of the old carousel itself, this gentle mystery follows Malik as he learns about gears, springs, and the delicate machinery of family love.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-b81a44d950/cover.png",
   "chapters": [
     {
       "title": "The List of First Things",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "A detailed hidden objects composition showing an abandoned carousel in an overgrown field. Malik, a boy with short twists, dark brown skin, and gentle expressive eyes, explores the ornate machinery. The scene is filled with intricate gears, springs, bolts, wild flowers, butterflies, small birds, and mechanical details scattered throughout the tall grass and carousel structure.",
             "alt": "Malik examining the detailed machinery of an old carousel in a wild field",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-b81a44d950/scene_1_1.png"
           }
         }
       ]
@@ -36,7 +37,8 @@
           "illustration": {
             "description": "A magnifying glass perspective view showing the interior mechanism of the carousel post where Malik, a boy with short twists, dark brown skin, and gentle expressive eyes, hides among intricate gears, pulleys, and clockwork. Outside, two women sit on the carousel platform. The busy composition includes tiny mechanical parts, screws, springs, music box components, and small details hidden throughout.",
             "alt": "Malik hiding inside the carousel's mechanical center while adults talk outside",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-b81a44d950/scene_2_1.png"
           }
         }
       ]
@@ -49,7 +51,8 @@
           "illustration": {
             "description": "A detailed search and find composition showing Malik, a boy with short twists, dark brown skin, and gentle expressive eyes, examining the carousel's complex machinery with a notebook in hand. The cluttered scene includes exposed gears, drive wheels, brake levers, music box components, tools, measuring instruments, small woodland creatures observing, and mechanical diagrams scattered throughout the detailed environment.",
             "alt": "Malik studying the carousel's mechanical workings with scientific curiosity",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-b81a44d950/scene_3_1.png"
           }
         }
       ]
@@ -62,7 +65,8 @@
           "illustration": {
             "description": "A busy organized composition showing Malik, a boy with short twists, dark brown skin, and gentle expressive eyes, and his mother sitting together on the restored carousel platform. The detailed scene includes cleaned brass fittings, visible gear mechanisms, tools scattered about, a sunset sky, fireflies beginning to glow, small repair diagrams, and countless small objects representing the carousel's revival hidden throughout the intricate environment.",
             "alt": "Malik and his mother together on the carousel as evening falls, surrounded by signs of repair and renewal",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-b81a44d950/scene_4_1.png"
           }
         }
       ]

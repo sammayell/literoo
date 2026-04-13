@@ -12,7 +12,7 @@
   "wordCount": 957,
   "readingLevel": "Grade 1-2",
   "synopsis": "When Malik promises to help his classmate Maya find shooting stars during their planetarium field trip, he discovers that keeping promises in a dome full of artificial stars requires more teamwork than expected.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-ca3fe87b01/cover.png",
   "chapters": [
     {
       "title": "Day One: The Promise Made",
@@ -22,7 +22,8 @@
           "illustration": {
             "description": "Malik, a boy with short twists, dark brown skin, and gentle expressive eyes, sits on a school bus next to Maya. He's adjusting his backpack straps with a serious expression. The bus interior has warm yellow lighting, and through the windows, the planetarium building is visible. The scene has the cozy warmth of a family kitchen, with soft oranges and yellows creating an everyday comfort atmosphere.",
             "alt": "Two children sitting on a school bus approaching the planetarium",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-ca3fe87b01/scene_1_1.png"
           }
         },
         {
@@ -30,7 +31,8 @@
           "illustration": {
             "description": "Malik, a boy with short twists, dark brown skin, and gentle expressive eyes, stands in a line of students inside the planetarium dome. His neck is craned back, looking up at the curved ceiling with wonder. The dome glows softly with projected stars beginning to appear. Mrs. Chen stands at the front. The warm lighting creates a cozy, homemade atmosphere like a family gathering around a dinner table.",
             "alt": "Students lined up inside a planetarium dome as stars begin to appear on the ceiling",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-ca3fe87b01/scene_1_2.png"
           }
         }
       ]
@@ -43,7 +45,8 @@
           "illustration": {
             "description": "Malik, a boy with short twists, dark brown skin, and gentle expressive eyes, sits cross-legged on the planetarium floor with his hand raised. The Star Expert points her long pointer at constellation patterns on the dome above. Maya sits beside him looking disappointed. The scene has warm, homemade lighting like a cozy kitchen, with the star projections creating gentle orange and yellow glows.",
             "alt": "A boy raising his hand to ask the planetarium guide a question while other students sit around him",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-ca3fe87b01/scene_2_1.png"
           }
         },
         {
@@ -51,7 +54,8 @@
           "illustration": {
             "description": "Malik, a boy with short twists, dark brown skin, and gentle expressive eyes, sits at a cafeteria table staring thoughtfully at his peanut butter sandwich. Maya sits beside him, patting his shoulder. The cafeteria has the warm, cozy atmosphere of a family kitchen, with soft yellows and oranges, steam rising from hot lunch trays, and the comfortable feeling of a homemade meal.",
             "alt": "Two children sitting at a cafeteria table, one looking worried while the other comforts him",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-ca3fe87b01/scene_2_2.png"
           }
         }
       ]
@@ -64,7 +68,8 @@
           "illustration": {
             "description": "Malik, a boy with short twists, dark brown skin, and gentle expressive eyes, stands in the planetarium gift shop examining a star-shaped flashlight. The shop clerk behind the counter watches him with interest. Shelves filled with space-themed souvenirs surround them. The lighting is warm and cozy like a family kitchen, with soft yellows creating an atmosphere of discovery and everyday wonder.",
             "alt": "A boy examining a special flashlight in a planetarium gift shop",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-ca3fe87b01/scene_3_1.png"
           }
         },
         {
@@ -72,7 +77,8 @@
           "illustration": {
             "description": "Malik, a boy with short twists, dark brown skin, and gentle expressive eyes, stands thoughtfully in the gift shop holding the star flashlight carefully in both hands. His expression shows deep concentration as he weighs his options. The background has the warm, homemade atmosphere of a family kitchen, with soft orange lighting creating a cozy, contemplative mood.",
             "alt": "A thoughtful boy carefully holding a star flashlight while making a difficult decision",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-ca3fe87b01/scene_3_2.png"
           }
         }
       ]
@@ -85,7 +91,8 @@
           "illustration": {
             "description": "Malik, a boy with short twists, dark brown skin, and gentle expressive eyes, stands with Maya in front of a large poster about moon facts. He's gesturing seriously while explaining his plan. Other classmates gather around them with interested expressions. The scene has the warm, cozy atmosphere of a family gathering around a kitchen table, with soft yellows and oranges creating an environment of collaboration and togetherness.",
             "alt": "Children gathering around two classmates who are making plans together",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-ca3fe87b01/scene_4_1.png"
           }
         },
         {
@@ -93,7 +100,8 @@
           "illustration": {
             "description": "Malik, a boy with short twists, dark brown skin, and gentle expressive eyes, stands respectfully in front of Mrs. Chen, explaining his plan with serious gestures. Maya stands beside him nodding. Mrs. Chen has a warm, encouraging smile. The background suggests the cozy atmosphere of a family kitchen, with warm lighting creating a feeling of understanding and support between teacher and students.",
             "alt": "A teacher listening thoughtfully to a student's earnest explanation while another student stands supportively nearby",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-ca3fe87b01/scene_4_2.png"
           }
         }
       ]
@@ -106,7 +114,8 @@
           "illustration": {
             "description": "Malik, a boy with short twists, dark brown skin, and gentle expressive eyes, sits with his classmates in the darkened planetarium dome. All the students hold star-shaped flashlights, creating moving points of light across the ceiling that look like shooting stars. Maya sits beside Malik, looking up with wonder. The scene captures the warm, cozy feeling of a family gathered around a dinner table, with the shooting star lights creating magical yellows and oranges against the dome.",
             "alt": "Students creating shooting stars with flashlights in a planetarium dome while sitting together on the floor",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-ca3fe87b01/scene_5_1.png"
           }
         },
         {
@@ -114,7 +123,8 @@
           "illustration": {
             "description": "Malik, a boy with short twists, dark brown skin, and gentle expressive eyes, sits contentedly on the school bus next to Maya. Both children look happy and tired after their adventure. Through the bus windows, the late afternoon sun creates warm, golden light reminiscent of a cozy kitchen at dinnertime. Other classmates chat quietly in nearby seats, creating the comfortable atmosphere of a family gathering after a successful day together.",
             "alt": "Two satisfied children sitting together on a school bus heading home after their field trip",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-ca3fe87b01/scene_5_2.png"
           }
         }
       ]

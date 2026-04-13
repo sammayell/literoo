@@ -13,7 +13,7 @@
   "wordCount": 582,
   "readingLevel": "Pre-K",
   "synopsis": "Coral the sea turtle receives a mysterious package while floating on her river boat, leading to an unexpected discovery about sharing and family connections across the lily-pad islands.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-fantasy-9985104f1d/cover.png",
   "chapters": [
     {
       "title": "The Floating Post",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "A cheerful young sea turtle with a patterned green-and-gold shell, flippers, and friendly dark eyes leans over the side of a wooden boat, reaching for a wet brown package floating in the water. Large lily pads with opening and closing flowers surround the boat. Enchanted forest atmosphere with glowing mushrooms, fairy lights, mystical creatures in the background, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage along the riverbank.",
             "alt": "Coral reaching for a mysterious package floating in the river",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-fantasy-9985104f1d/scene_1_1.png"
           }
         },
         {
@@ -31,7 +32,8 @@
           "illustration": {
             "description": "A cheerful young sea turtle with a patterned green-and-gold shell, flippers, and friendly dark eyes examines a brown package covered in wobbly green writing, sitting on cushions on her wooden boat. The boat drifts toward an island covered in snapping dragon-shaped flowers. Enchanted forest atmosphere with glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles reflecting on water, Studio Ghibli inspired, magical atmosphere, detailed foliage.",
             "alt": "Coral examining the mysterious package while approaching Snapdragon Island",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-fantasy-9985104f1d/scene_1_2.png"
           }
         }
       ]
@@ -44,7 +46,8 @@
           "illustration": {
             "description": "A cheerful young sea turtle with a patterned green-and-gold shell, flippers, and friendly dark eyes sits on her boat holding a small wooden box with holes, surrounded by colorful snapdragon flowers that have faces and are clearly chattering. The flowers snap their dragon-like mouths playfully. Enchanted forest atmosphere with glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage.",
             "alt": "Coral holding the wooden box while snapdragon flowers chatter around her",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-fantasy-9985104f1d/scene_2_1.png"
           }
         },
         {
@@ -65,7 +68,8 @@
           "illustration": {
             "description": "A cheerful young sea turtle with a patterned green-and-gold shell, flippers, and friendly dark eyes paddles her wooden boat through a harbor filled with enormous buttercup water lilies the size of dinner tables. The small snail with the left-spiraling shell sits on her shell, pointing directions. Enchanted forest atmosphere with glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles reflecting on the water, Studio Ghibli inspired, magical atmosphere, detailed foliage.",
             "alt": "Coral and Whirlpool navigating together through giant buttercup lilies",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-fantasy-9985104f1d/scene_3_1.png"
           }
         },
         {

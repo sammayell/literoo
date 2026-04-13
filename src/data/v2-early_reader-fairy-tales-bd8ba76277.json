@@ -13,7 +13,7 @@
   "wordCount": 819,
   "readingLevel": "Kindergarten-1st Grade",
   "synopsis": "Cobble the gnome witnesses impossible weather on his river boat journey - rain falling upward! Through three magical days, he discovers that sometimes the most stubborn problems need the gentlest solutions.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-bd8ba76277/cover.png",
   "chapters": [
     {
       "title": "Splish-Splash-Up!",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap stands amazed on a wooden river boat. Raindrops are bouncing upward off giant lily pads surrounding the boat. The scene shows a magical river with multiple lily-pad islands. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
             "alt": "Cobble watching raindrops bounce upward off lily pads from his river boat",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-bd8ba76277/scene_1_1.png"
           }
         },
         {
@@ -31,7 +32,8 @@
           "illustration": {
             "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap pilots his boat through lily-pad islands while talking to a dragonfly. Upward rain creates magical patterns around them. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
             "alt": "Cobble talking to a dragonfly as his boat moves through magical lily pad islands",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-bd8ba76277/scene_1_2.png"
           }
         }
       ]
@@ -44,7 +46,8 @@
           "illustration": {
             "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap approaches a giant lily pad where an enormous, magnificently grumpy green frog sits. Raindrops bounce upward all around them. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
             "alt": "Cobble meeting Ferdinand the giant grumpy frog on a lily pad with bouncing rain",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-bd8ba76277/scene_2_1.png"
           }
         },
         {
@@ -52,7 +55,8 @@
           "illustration": {
             "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap listens sympathetically as Ferdinand the giant frog explains his problem. The lily pad beneath Ferdinand appears springy and bouncy. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
             "alt": "Cobble listening to Ferdinand explain why he can't stop bouncing raindrops",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-bd8ba76277/scene_2_2.png"
           }
         }
       ]
@@ -65,7 +69,8 @@
           "illustration": {
             "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap watches as Ferdinand the frog tries different positions on his lily pad - sitting, lying flat, standing on one foot. Raindrops continue bouncing upward regardless. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
             "alt": "Ferdinand trying different poses while Cobble watches raindrops still bounce upward",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-bd8ba76277/scene_3_1.png"
           }
         },
         {
@@ -73,7 +78,8 @@
           "illustration": {
             "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap stands beside Ferdinand the frog on the lily pad. Both are whispering to the raindrops around them. The scene has a magical, gentle quality. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
             "alt": "Cobble and Ferdinand whispering together to the dancing raindrops",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-bd8ba76277/scene_3_2.png"
           }
         }
       ]
@@ -86,7 +92,8 @@
           "illustration": {
             "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap and Ferdinand the frog watch as raindrops perform a gentle dance - bouncing once, spiraling gracefully, then splashing normally into the water. The scene shows the magical resolution with happy, dancing water droplets. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
             "alt": "Raindrops dancing in spirals before settling normally while Cobble and Ferdinand watch",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-bd8ba76277/scene_4_1.png"
           }
         },
         {
@@ -94,7 +101,8 @@
           "illustration": {
             "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap sails peacefully on his river boat as raindrops perform their beautiful dance all around - some bouncing gently, some spiraling, some splashing normally. Lily-pad islands create a magical pathway. Ferdinand waves goodbye from his pad. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
             "alt": "Cobble sailing home through dancing raindrops while Ferdinand waves goodbye",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-bd8ba76277/scene_4_2.png"
           }
         }
       ]
@@ -107,7 +115,8 @@
           "illustration": {
             "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap leans out of his cozy gnome home window, greeting the dancing rain. In the distance, Ferdinand can be seen happily hosting rain dances on his lily pad. The scene shows the ongoing magical harmony. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
             "alt": "Cobble at his window greeting the dancing rain while Ferdinand hosts rain dances in the distance",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-bd8ba76277/scene_5_1.png"
           }
         }
       ]

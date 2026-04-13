@@ -13,7 +13,7 @@
   "wordCount": 2317,
   "readingLevel": "2nd-3rd grade",
   "synopsis": "A young peregrine falcon discovers a mysterious door in his school gymnasium that connects his 1950s world to the future, forcing him to confront questions about progress, memory, and what it means to truly understand time.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-historical-60a5d5325f/cover.png",
   "chapters": [
     {
       "title": "Sixty Minutes",
@@ -22,7 +22,8 @@
         {
           "description": "A young peregrine falcon with slate-grey back, cream-and-black barred chest, piercing yellow-ringed eyes, and sharp black beak stands in a 1950s school gymnasium with honey-colored maple floors and tall windows. The falcon is pulling a metal folding chair across the gleaming wooden floor. The art style is illuminated manuscript with gold leaf accents, ornate borders, rich deep colors, period clothing, medieval inspired decorative elements, and parchment texture.",
           "alt": "Young falcon setting up chairs in vintage gymnasium",
-          "position": "after-paragraph-2"
+          "position": "after-paragraph-2",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-historical-60a5d5325f/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "A young peregrine falcon with slate-grey back, cream-and-black barred chest, piercing yellow-ringed eyes, and sharp black beak stands very close to a mysterious silver door covered in shifting, glowing symbols. The falcon's wing is extended toward the door's surface. The scene is in a 1950s gymnasium setting. The art style is illuminated manuscript with gold leaf accents, ornate borders, rich deep colors, medieval inspired decorative elements, and parchment texture.",
           "alt": "Young falcon reaching toward mysterious silver door with glowing symbols",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-historical-60a5d5325f/scene_2_1.png"
         }
       ]
     },
@@ -44,7 +46,8 @@
         {
           "description": "A young peregrine falcon with slate-grey back, cream-and-black barred chest, piercing yellow-ringed eyes, and sharp black beak peers through a translucent silver portal door. Through the door is visible a futuristic gymnasium where several falcon-like beings with glowing blue eyes and silver tracery on their feathers move in perfect synchronization. The contrast between the warm 1950s gymnasium and the cold future space is stark. The art style is illuminated manuscript with gold leaf accents, ornate borders, rich deep colors, medieval inspired decorative elements, and parchment texture.",
           "alt": "Young falcon looking through portal at synchronized future beings",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-historical-60a5d5325f/scene_3_1.png"
         }
       ]
     },
@@ -55,7 +58,8 @@
         {
           "description": "A young peregrine falcon with slate-grey back, cream-and-black barred chest, piercing yellow-ringed eyes, and sharp black beak watches through the portal as future falcons with glowing blue eyes and silver-traced feathers play a perfect, emotionless basketball game. The contrast shows the sterile future gymnasium versus the warm, lived-in 1950s space. The art style is illuminated manuscript with gold leaf accents, ornate borders, rich deep colors, medieval inspired decorative elements, and parchment texture.",
           "alt": "Young falcon observing perfect but joyless future basketball game through portal",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-historical-60a5d5325f/scene_4_1.png"
         }
       ]
     },
@@ -66,7 +70,8 @@
         {
           "description": "A young peregrine falcon with slate-grey back, cream-and-black barred chest, piercing yellow-ringed eyes, and sharp black beak stands contemplating the silver portal door. Through the translucent surface, a future falcon with glowing blue eyes looks back at him. The gymnasium around them shows signs of approaching activity—shadows moving outside the doors, equipment being set up. The art style is illuminated manuscript with gold leaf accents, ornate borders, rich deep colors, medieval inspired decorative elements, and parchment texture.",
           "alt": "Young falcon facing crucial decision at the portal, with future falcon looking back",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-historical-60a5d5325f/scene_5_1.png"
         }
       ]
     },
@@ -77,7 +82,8 @@
         {
           "description": "A young peregrine falcon with slate-grey back, cream-and-black barred chest, piercing yellow-ringed eyes, and sharp black beak stands near the silver portal door as various teachers and staff enter the gymnasium and react with shock and confusion. Mrs. Henderson, Mr. Peterson, Miss Sullivan, and Coach Williams are all different bird species, dressed in 1950s school attire, their expressions showing surprise and bewilderment. The art style is illuminated manuscript with gold leaf accents, ornate borders, rich deep colors, period clothing, diverse characters, medieval inspired decorative elements, and parchment texture.",
           "alt": "Teachers and staff discovering the mysterious portal door in the gymnasium",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-historical-60a5d5325f/scene_6_1.png"
         }
       ]
     },
@@ -88,7 +94,8 @@
         {
           "description": "A young peregrine falcon with slate-grey back, cream-and-black barred chest, piercing yellow-ringed eyes, and sharp black beak stands between the concerned teachers and the silver portal. Through the portal, future falcons are breaking formation, and one approaches with normal eyes instead of blue-glowing ones, its wing touching the silver surface from the other side. The gymnasium clock shows nearly game time. The art style is illuminated manuscript with gold leaf accents, ornate borders, rich deep colors, period clothing, diverse characters, medieval inspired decorative elements, and parchment texture.",
           "alt": "Young falcon mediating between teachers and portal as future beings rediscover individuality",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-historical-60a5d5325f/scene_7_1.png"
         }
       ]
     },
@@ -99,7 +106,8 @@
         {
           "description": "A young peregrine falcon with slate-grey back, cream-and-black barred chest, piercing yellow-ringed eyes, and sharp black beak stands in a bustling 1950s gymnasium filled with diverse families and students settling in for the basketball game. Where the silver portal door had been, now there's just a regular drinking fountain. The scene captures the warm, chaotic energy of a school sporting event with everyone focused on the game about to begin. The art style is illuminated manuscript with gold leaf accents, ornate borders, rich deep colors, period clothing, diverse characters, medieval inspired decorative elements, and parchment texture.",
           "alt": "Young falcon in crowded gymnasium as normal life resumes, portal now gone",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-historical-60a5d5325f/scene_8_1.png"
         }
       ]
     }

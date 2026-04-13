@@ -13,7 +13,7 @@
   "wordCount": 267,
   "readingLevel": "Toddler (2-4 years)",
   "synopsis": "Kettle, a magical teapot, discovers upside-down snow while working in her family bakery at dawn. She follows the impossible weather through the warm kitchen to the cold storage room, learning that sharing wonder with her baker siblings makes mysteries even more magical.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-family-6e07a2b827/cover.png",
   "chapters": [
     {
       "title": "The Warm Kitchen Discovery",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "A magical living teapot with sky-blue porcelain, painted yellow flowers, a curling handle arm, and steam curling from the spout like hair stands by a bakery window watching snow fall upward. The cozy kitchen home scene shows warm yellows oranges, steam and flour in the air, baker siblings working at tables with aprons, everyday love moments of family cooking together.",
             "alt": "Kettle watching upward snow through bakery window while bakers work",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-family-6e07a2b827/scene_1_1.png"
           }
         },
         {
@@ -31,7 +32,8 @@
           "illustration": {
             "description": "A magical living teapot with sky-blue porcelain, painted yellow flowers, a curling handle arm, and steam curling from the spout like hair excitedly steaming near baker siblings Whisk and Rolling Pin who are working with dough. The cozy kitchen scene shows family cooking together, warm yellows oranges, flour dusting, aprons, and upward-floating snowflakes visible through windows.",
             "alt": "Kettle trying to show her busy baker siblings the upward snow",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-family-6e07a2b827/scene_1_2.png"
           }
         }
       ]
@@ -44,7 +46,8 @@
           "illustration": {
             "description": "A magical living teapot with sky-blue porcelain, painted yellow flowers, a curling handle arm, and steam curling from the spout like hair enters a cold storage room where upward-falling snow spells out 'SHARE' in sparkly letters. The scene contrasts the cold blue storage area with warm light from the bakery door, showing the cozy kitchen home atmosphere beyond.",
             "alt": "Kettle in cold storage watching snow spell out SHARE in the air",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-family-6e07a2b827/scene_2_1.png"
           }
         },
         {
@@ -52,7 +55,8 @@
           "illustration": {
             "description": "A magical living teapot with sky-blue porcelain, painted yellow flowers, a curling handle arm, and steam curling from the spout like hair celebrates with baker siblings Whisk and Rolling Pin as magical snow falls normally around them in sparkles. The scene shows family gathering, everyday love moments, warm connection between siblings in the cozy kitchen home setting.",
             "alt": "Kettle and her siblings celebrating together as the magical snow returns to normal",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-family-6e07a2b827/scene_2_2.png"
           }
         }
       ]

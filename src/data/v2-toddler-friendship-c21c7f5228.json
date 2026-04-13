@@ -13,7 +13,7 @@
   "wordCount": 182,
   "readingLevel": "Early Reader",
   "synopsis": "Finn discovers someone has been secretly caring for his pet bird while he sleeps, leading him through the treehouse village to uncover his mysterious helper.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-friendship-c21c7f5228/cover.png",
   "chapters": [
     {
       "title": "The Eastern Oak",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "Finn, a boy with messy sandy-blonde hair, pale skin with freckles, and blue-green eyes, peers into a birdcage hanging from his treehouse. His pet bird Pippin sits among scattered fresh seeds. Rope bridges stretch between giant oak trees in the background. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities",
             "alt": "Finn looking at his bird's cage with fresh seeds scattered inside",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-friendship-c21c7f5228/scene_1_1.png"
           }
         }
       ]
@@ -36,7 +37,8 @@
           "illustration": {
             "description": "Finn, a boy with messy sandy-blonde hair, pale skin with freckles, and blue-green eyes, hugs his friend Maya on a rope bridge platform in a willow tree. Maya holds bird seeds in her hands. Pippin the bird flies nearby. More treehouses and bridges are visible through the drooping willow branches. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities",
             "alt": "Finn hugging Maya while she holds bird seeds, with their pet bird flying around them",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-friendship-c21c7f5228/scene_2_1.png"
           }
         }
       ]

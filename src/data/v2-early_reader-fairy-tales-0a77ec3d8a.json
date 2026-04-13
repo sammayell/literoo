@@ -13,7 +13,7 @@
   "wordCount": 677,
   "readingLevel": "Kindergarten-1st Grade",
   "synopsis": "When a young chameleon's rainbow maker breaks on the volcanic rim where he lives, seven mysterious gifts arrive over the course of a week, each one revealing new secrets about light, color, and the magic of making things work again.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-0a77ec3d8a/cover.png",
   "chapters": [
     {
       "title": "Day One: The Red Box",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "A chameleon with jewel-bright green-and-orange scales, independently swiveling eyes, a coiled tail, and sticky toes examines broken crystal pieces scattered on black volcanic sand. Steam rises from volcanic vents in the background. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
             "alt": "Mango looking sadly at his broken rainbow maker on the volcanic rim",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-0a77ec3d8a/scene_1_1.png"
           }
         },
         {
@@ -31,7 +32,8 @@
           "illustration": {
             "description": "A chameleon with jewel-bright green-and-orange scales, independently swiveling eyes, a coiled tail, and sticky toes holds up a ruby lens to the sun, creating red light patterns on black volcanic sand. A small red box sits nearby. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
             "alt": "Mango discovering the first gift and the magic of the ruby lens",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-0a77ec3d8a/scene_1_2.png"
           }
         }
       ]
@@ -44,7 +46,8 @@
           "illustration": {
             "description": "A chameleon with jewel-bright green-and-orange scales, independently swiveling eyes, a coiled tail, and sticky toes sits surrounded by four colorful boxes (red, orange, yellow, green) with various colored lenses scattered around. Each lens creates different colored light beams on the black volcanic sand. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
             "alt": "Mango surrounded by the first four gift boxes and their magical lenses",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-0a77ec3d8a/scene_2_1.png"
           }
         },
         {
@@ -52,7 +55,8 @@
           "illustration": {
             "description": "A chameleon with jewel-bright green-and-orange scales, independently swiveling eyes, a coiled tail, and sticky toes experiments with overlapping colored lenses, creating mixed light patterns. His scales are changing colors rapidly. Steam vents puff in the background on black sand. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
             "alt": "Mango experimenting with mixing colored lights from the lenses",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-0a77ec3d8a/scene_2_2.png"
           }
         }
       ]
@@ -65,7 +69,8 @@
           "illustration": {
             "description": "A chameleon with jewel-bright green-and-orange scales, independently swiveling eyes, a coiled tail, and sticky toes sits before seven opened boxes arranged in a rainbow pattern. The clear box in the center contains a triangular prism. All around him on the black volcanic sand are the seven colored lenses. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
             "alt": "All seven gift boxes arranged around Mango with the special prism in the center",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-0a77ec3d8a/scene_3_1.png"
           }
         },
         {
@@ -73,7 +78,8 @@
           "illustration": {
             "description": "A magnificent rainbow arcs across the volcanic landscape while a chameleon with jewel-bright green-and-orange scales, independently swiveling eyes, a coiled tail, and sticky toes sits in the center of his lens circle, scales rapidly cycling through all rainbow colors. The seven colored lenses and crystal prism work together on the black sand as steam vents puff happily. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
             "alt": "Mango's rainbow creation success with the beautiful rainbow arcing overhead",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-0a77ec3d8a/scene_3_2.png"
           }
         }
       ]

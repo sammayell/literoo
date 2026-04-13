@@ -13,7 +13,7 @@
   "wordCount": 716,
   "readingLevel": "Grade 1-2",
   "synopsis": "When Waddles the baby emperor penguin gets separated from his class field trip to the pumpkin patch, he must navigate the golden hour maze of vines and shadows alone, discovering unexpected friendships with the patch's unusual residents along the way.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-47d637f8e9/cover.png",
   "chapters": [
     {
       "title": "Two O'Clock: The Vanishing Class",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "A chubby baby emperor penguin with fluffy grey-white down, round shiny black eyes, a tiny yellow beak, and oversized webbed feet stands dwarfed by an enormous orange pumpkin, watching a small yellow school bus disappear down a dirt road in the distance, with golden afternoon light streaming across rows of pumpkins",
             "alt": "Waddles watching the school bus leave him behind in the pumpkin patch",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-47d637f8e9/scene_1_1.png"
           }
         },
         {
@@ -31,7 +32,8 @@
           "illustration": {
             "description": "A chubby baby emperor penguin with fluffy grey-white down, round shiny black eyes, a tiny yellow beak, and oversized webbed feet stands among twisting pumpkin vines, looking up at a sleek black crow perched on a bright orange pumpkin, with dappled sunlight filtering through the patch",
             "alt": "Waddles talking to a crow in the pumpkin maze",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-47d637f8e9/scene_1_2.png"
           }
         }
       ]
@@ -44,7 +46,8 @@
           "illustration": {
             "description": "A chubby baby emperor penguin with fluffy grey-white down, round shiny black eyes, a tiny yellow beak, and oversized webbed feet bends down to look at a tiny orange pumpkin with a cheerful face, surrounded by much larger pumpkins that seem to be ignoring them both, with late afternoon shadows growing longer",
             "alt": "Waddles meeting Pip the tiny pumpkin",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-47d637f8e9/scene_2_1.png"
           }
         },
         {
@@ -52,7 +55,8 @@
           "illustration": {
             "description": "A chubby baby emperor penguin with fluffy grey-white down, round shiny black eyes, a tiny yellow beak, and oversized webbed feet follows a tiny grinning pumpkin with a curly vine arm along a winding dirt path, with warm golden light casting playful shadows through the patch",
             "alt": "Waddles following Pip deeper into the pumpkin patch",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-47d637f8e9/scene_2_2.png"
           }
         }
       ]
@@ -65,7 +69,8 @@
           "illustration": {
             "description": "A chubby baby emperor penguin with fluffy grey-white down, round shiny black eyes, a tiny yellow beak, and oversized webbed feet sits in a circle of pumpkins of various sizes, all with animated faces, as golden evening light creates a warm glow around their meeting, with tiny Pip gesturing importantly",
             "alt": "Waddles in a circle of talking pumpkins during their evening meeting",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-47d637f8e9/scene_3_1.png"
           }
         },
         {
@@ -73,7 +78,8 @@
           "illustration": {
             "description": "A chubby baby emperor penguin with fluffy grey-white down, round shiny black eyes, a tiny yellow beak, and oversized webbed feet nods thoughtfully while listening to animated pumpkins of different shapes and sizes sharing their wisdom, with warm golden sunset light washing over the entire scene",
             "alt": "Waddles listening to pumpkin philosophy at sunset",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-47d637f8e9/scene_3_2.png"
           }
         }
       ]
@@ -86,7 +92,8 @@
           "illustration": {
             "description": "A chubby baby emperor penguin with fluffy grey-white down, round shiny black eyes, a tiny yellow beak, and oversized webbed feet stands among his new pumpkin friends as a teacher's silhouette appears in the distance, with the last golden light of day creating long purple shadows across the patch",
             "alt": "Waddles saying goodbye to his pumpkin friends as his teacher approaches",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-47d637f8e9/scene_4_1.png"
           }
         },
         {
@@ -94,7 +101,8 @@
           "illustration": {
             "description": "A chubby baby emperor penguin with fluffy grey-white down, round shiny black eyes, a tiny yellow beak, and oversized webbed feet gets a big hug from a concerned teacher while looking back over her shoulder at tiny Pip waving from among the pumpkins, with twilight purple light settling over the patch",
             "alt": "Waddles reunited with his teacher while saying goodbye to Pip",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-47d637f8e9/scene_4_2.png"
           }
         }
       ]

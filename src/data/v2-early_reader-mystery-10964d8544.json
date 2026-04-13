@@ -13,7 +13,7 @@
   "wordCount": 966,
   "readingLevel": "early reader",
   "synopsis": "When Quokka finds himself trapped in Slowbrook Village with a grumpy tortoise, he discovers that the strangest mysteries can be solved by looking at the same place in new ways. Told through the eyes of an old oak tree, this gentle mystery celebrates curiosity and the science of observation.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-10964d8544/cover.png",
   "chapters": [
     {
       "title": "The Old Oak Remembers",
@@ -36,7 +36,8 @@
           "illustration": {
             "description": "A round smiling quokka with soft sandy-brown fur, small round ears, pink paws, and a permanent cheerful grin walking in circles around a massive oak tree trunk, with a slow-moving tortoise examining a bulletin board covered in backwards writing. The scene is filled with search-and-find elements: snails with racing helmets and numbers, backwards clock faces, shadows pointing the wrong direction, scattered measuring tools, magnifying glasses, notebooks with scribbled observations, tiny telescopes, and scientific instruments hidden among flowers, under benches, and tucked into tree hollows.",
             "alt": "Quokka exploring the village square with many hidden scientific tools",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-10964d8544/scene_2_1.png"
           }
         }
       ]
@@ -49,7 +50,8 @@
           "illustration": {
             "description": "A round smiling quokka with soft sandy-brown fur, small round ears, pink paws, and a permanent cheerful grin kneeling on the ground, examining shadows with a magnifying glass while a tortoise sorts backwards mail nearby. The detailed scene includes dozens of hidden objects: sundials pointing different directions, measuring tapes, rulers, protractors, compasses, small notebooks with sketched observations, pencils, erasers, calculation sheets, tiny laboratory beakers, stopwatches showing different times, weather instruments, and various scientific tools scattered throughout the village setting under the oak tree's spreading branches.",
             "alt": "Quokka using magnifying glass to study shadows with scientific tools hidden everywhere",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-10964d8544/scene_3_1.png"
           }
         }
       ]
@@ -62,7 +64,8 @@
           "illustration": {
             "description": "A round smiling quokka with soft sandy-brown fur, small round ears, pink paws, and a permanent cheerful grin pointing excitedly up at oak tree branches with leaves falling upward, while a happy tortoise claps slowly. The busy composition shows the complete mystery solved with hidden elements throughout: multiple clocks showing different times, calendars with dates circled, time zone maps, astronomical charts, leaves frozen mid-fall in both directions, shadow measurement marks on the ground, world globes, tiny telescopes pointed at the sky, scientific journals with notes, and celebration items like small flags and party hats tucked into every corner of the village square.",
             "alt": "Quokka celebrating solving the time mystery with leaves falling upward",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-10964d8544/scene_4_1.png"
           }
         }
       ]
@@ -75,7 +78,8 @@
           "illustration": {
             "description": "A nighttime village scene with a round smiling quokka with soft sandy-brown fur, small round ears, pink paws, and a permanent cheerful grin sitting contentedly against an oak tree, writing in a notebook by starlight. His mother, another quokka, stands nearby while Cornelius the tortoise teaches a young badger. The scene is packed with hidden discovery items: notebooks, pencils, measuring tools, backwards-growing flowers, stars forming unusual patterns, tiny camping gear, lanterns, research equipment, collection jars with specimens, maps with routes marked, binoculars, and celebration items showing the quokka's newfound love of investigation scattered throughout the peaceful village square.",
             "alt": "Quokka happily staying to continue his scientific investigations in Slowbrook",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-10964d8544/scene_5_1.png"
           }
         }
       ]

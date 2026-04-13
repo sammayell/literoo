@@ -13,7 +13,7 @@
   "wordCount": 1657,
   "readingLevel": "Grade 2-3",
   "synopsis": "When a mysterious new student arrives who can make even better music with beach stones than Zuri, a flower-shaped piece of sea glass watches as Zuri investigates clues about her rival's past, uncovering a connection to the old Gullah traditions of their coastal community.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-9d11a8abd1/cover.png",
   "chapters": [
     {
       "title": "The First Clue",
@@ -22,7 +22,8 @@
         {
           "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, kneeling on a pebble beach examining footprints in wet sand. Dramatic shadows cast by gathering storm clouds, with one spotlight of sun illuminating her detective work. The scene is film noir style with muted grays and blues, the flower clip a bright yellow accent. A piece of sea glass glows softly in the foreground.",
           "alt": "Zuri examining mysterious footprints on the beach as storm clouds gather",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-9d11a8abd1/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "A film noir style scene showing Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, crouched behind driftwood watching another girl play music with stones on the beach. Dramatic shadows and lighting create a detective atmosphere. Storm clouds loom darker overhead. The palette is muted grays with the flower clip as yellow accent color.",
           "alt": "Zuri hiding behind driftwood, secretly watching the new girl make music with stones",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-9d11a8abd1/scene_2_1.png"
         }
       ]
     },
@@ -44,7 +46,8 @@
         {
           "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, holding an old black and white photograph while standing on the beach. Lightning flickers dramatically in the background storm clouds, creating film noir lighting with deep shadows. The photograph glows softly in a spotlight effect. Muted palette with the flower clip as bright yellow accent.",
           "alt": "Zuri examining an old photograph on the beach as lightning flashes in the approaching storm",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-9d11a8abd1/scene_3_1.png"
         }
       ]
     },
@@ -55,7 +58,8 @@
         {
           "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, standing close to another girl on the beach in gentle rain. Both girls hold stones and are surrounded by dramatic storm lighting in film noir style. Rain creates atmospheric effects, and lightning illuminates them from behind. Muted palette with bright yellow flower clip accent.",
           "alt": "Zuri and Keya meeting on the beach as the storm begins, both holding music stones",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-9d11a8abd1/scene_4_1.png"
         }
       ]
     },
@@ -66,7 +70,8 @@
         {
           "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, and Keya sitting together on the pebble beach making music with stones while rain falls around them. Dramatic film noir lighting with the storm creating atmospheric shadows and highlights. The stones seem to glow softly. Muted grays and blues with yellow flower clip accent.",
           "alt": "Both girls playing stone music together on the beach in the rain, completely absorbed in their collaboration",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-9d11a8abd1/scene_5_1.png"
         }
       ]
     },
@@ -77,7 +82,8 @@
         {
           "description": "Film noir style scene of Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, and Keya discovering an arrangement of musical stones hidden under larger rocks on the beach. Lightning dramatically illuminates their faces as they examine their discovery. Rain creates atmospheric effects with muted palette and yellow flower clip accent.",
           "alt": "The girls discovering the hidden collection of musical stones arranged by their grandmothers",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-9d11a8abd1/scene_6_1.png"
         }
       ]
     },
@@ -88,7 +94,8 @@
         {
           "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, and Keya walking away from the beach together under a starry sky after the storm has cleared. Their silhouettes are backlit dramatically in film noir style, and musical notes seem to float in the air behind them. The sea glass glows softly in the foreground. Muted palette with yellow flower clip accent.",
           "alt": "The two girls walking away together under stars, their friendship and musical partnership established",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-9d11a8abd1/scene_7_1.png"
         }
       ]
     }

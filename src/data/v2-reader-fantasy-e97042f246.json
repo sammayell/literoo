@@ -13,7 +13,7 @@
   "wordCount": 1897,
   "readingLevel": "Grade 2-3",
   "synopsis": "When Jasper discovers he can understand the tiny creatures living in tide pools, he must find a way to communicate with a lonely hermit crab who speaks only in clicks and bubbles. A gentle story about connection across differences, told through the collective voice of the tide pool community.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-e97042f246/cover.png",
   "chapters": [
     {
       "title": "The Conversation We Almost Missed",
@@ -22,7 +22,8 @@
         {
           "description": "Jasper, a boy with wavy reddish-brown hair, fair freckled skin, and green eyes, crouches with his ear pressed close to a tide pool. Various tiny sea creatures—anemones, barnacles, and periwinkles—glow softly in the water. The scene has enchanted forest vibes with glowing tide pool creatures like mystical forest spirits, rich greens and purples in the water, golden sparkles on the surface, Studio Ghibli inspired magical atmosphere, detailed seaweed and coral foliage.",
           "alt": "Jasper listening intently to glowing sea creatures in a tide pool",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-e97042f246/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "Jasper, a boy with wavy reddish-brown hair, fair freckled skin, and green eyes, carefully walks across wet rocks toward tide pools. The scene shows him from behind, moving gently to avoid stepping on sea creatures. Morning light creates an enchanted forest atmosphere with golden sparkles on the wet rocks, mystical tide pool creatures glowing softly, rich greens and purples reflecting in the pools, Studio Ghibli inspired magical mood, detailed seaweed and rocky foliage.",
           "alt": "Jasper walking carefully across rocky tide pools in the morning light",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-e97042f246/scene_2_1.png"
         }
       ]
     },
@@ -44,7 +46,8 @@
         {
           "description": "Jasper, a boy with wavy reddish-brown hair, fair freckled skin, and green eyes, sits cross-legged beside a tide pool with his eyes wide with wonder. A sea anemone waves its tentacles at him while barnacles and periwinkles glow around the pool's edge. The scene has an enchanted forest feel with mystical sea creatures acting like forest spirits, rich greens and purples in the water, golden sparkles of magic in the air, Studio Ghibli inspired atmosphere, detailed coral and seaweed foliage.",
           "alt": "Jasper talking with glowing sea anemones and other tide pool creatures",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-e97042f246/scene_3_1.png"
         }
       ]
     },
@@ -55,7 +58,8 @@
         {
           "description": "Jasper, a boy with wavy reddish-brown hair, fair freckled skin, and green eyes, kneels beside a shadowy tide pool where a hermit crab with a beautiful spiral shell hides partially behind a rock. The pool is deeper and more mysterious than the others, with darker rich greens and purples, fewer golden sparkles, creating an enchanted forest atmosphere like a hidden grove. Studio Ghibli inspired magical mood with detailed seaweed and coral foliage in the shadows.",
           "alt": "Jasper meeting a shy hermit crab in a shadowy tide pool",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-e97042f246/scene_4_1.png"
         }
       ]
     },
@@ -66,7 +70,8 @@
         {
           "description": "Jasper, a boy with wavy reddish-brown hair, fair freckled skin, and green eyes, sits with his eyes closed in peaceful concentration beside Coral's tide pool. Visual sound waves or musical notes made of bubbles and sparkles float from the hermit crab toward Jasper, showing the communication happening. The scene has an enchanted forest atmosphere with mystical communication magic, rich greens and purples, golden sparkles forming patterns in the air, Studio Ghibli inspired detailed foliage and coral.",
           "alt": "Jasper listening with closed eyes as magical sound waves connect him to the hermit crab",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-e97042f246/scene_5_1.png"
         }
       ]
     },
@@ -77,7 +82,8 @@
         {
           "description": "Jasper, a boy with wavy reddish-brown hair, fair freckled skin, and green eyes, leans forward as Coral the hermit crab emerges completely from her beautiful spiral shell. Between them, translucent images show her journey from deep ocean trenches to the tide pools. The scene has an enchanted forest feel with mystical story-telling magic, rich deep purples and greens suggesting ocean depths, golden sparkles forming narrative images, Studio Ghibli inspired atmosphere, detailed seaweed and coral foliage.",
           "alt": "Jasper and Coral sharing stories with magical images floating between them",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-e97042f246/scene_6_1.png"
         }
       ]
     },
@@ -88,7 +94,8 @@
         {
           "description": "Jasper, a boy with wavy reddish-brown hair, fair freckled skin, and green eyes, taps rhythms on rocks while Coral clicks nearby. All the tide pool creatures—anemones, barnacles, periwinkles—are gathered around them, creating a circle of communication. Glowing lines connect everyone, showing the translation happening between different forms of communication. Enchanted forest atmosphere with mystical creatures, rich greens and purples, golden sparkles forming connection patterns, Studio Ghibli inspired magical mood, detailed seaweed and coral foliage.",
           "alt": "All the tide pool creatures gathered in a circle, sharing different forms of communication",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-e97042f246/scene_7_1.png"
         }
       ]
     },
@@ -99,7 +106,8 @@
         {
           "description": "All the tide pool creatures and Jasper, a boy with wavy reddish-brown hair, fair freckled skin, and green eyes, are creating music together. Coral is fully emerged from her shell, and visible sound waves of different colors flow from each creature, mixing together in the air above the pools. The scene is filled with warm afternoon light, creating an enchanted forest atmosphere with mystical musical magic, rich greens and purples, golden sparkles forming musical notes, Studio Ghibli inspired joyful atmosphere, detailed seaweed and coral foliage.",
           "alt": "Jasper and all the sea creatures making beautiful music together in the afternoon sun",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-e97042f246/scene_8_1.png"
         }
       ]
     }

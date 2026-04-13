@@ -13,7 +13,7 @@
   "wordCount": 253,
   "readingLevel": "Pre-K",
   "synopsis": "When Chloe's special singing bell breaks in a magical ice cavern, she discovers that some things can only be mended through the changing seasons and the unique gifts each family member brings.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-friendship-2f0c51e1ae/cover.png",
   "chapters": [
     {
       "title": "Spring Melting",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "Chloe, a child with short wavy strawberry-blonde hair, light skin, and blue-gray eyes, kneels on the ice floor of a cavern lit by pale blue light from above. She holds two pieces of a silver bell. Ice formations and crystal walls surround her. Bright sunny playground art style with primary colors, white space, joyful energetic feeling.",
             "alt": "Chloe kneeling in an ice cavern, holding broken pieces of a silver bell",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-friendship-2f0c51e1ae/scene_1_1.png"
           }
         }
       ]
@@ -36,7 +37,8 @@
           "illustration": {
             "description": "Chloe, with short wavy strawberry-blonde hair, light skin, and blue-gray eyes, sits with her papa in the ice cavern. Green plants sprout from the ice floor between them. Pale blue light streams down as Papa plays a harmonica. Bright sunny playground art style with primary colors, white space, joyful energetic feeling.",
             "alt": "Chloe and her papa in the ice cavern with green plants growing from the ice",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-friendship-2f0c51e1ae/scene_2_1.png"
           }
         }
       ]
@@ -49,7 +51,8 @@
           "illustration": {
             "description": "Chloe, with short wavy strawberry-blonde hair, light skin, and blue-gray eyes, holds the repaired bell wrapped in green vines. The ice cavern glows with pale blue light from above. Musical notes seem to dance in the air around her. Bright sunny playground art style with primary colors, white space, joyful energetic feeling.",
             "alt": "Chloe holding the vine-wrapped bell in the glowing ice cavern with musical notes in the air",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-friendship-2f0c51e1ae/scene_3_1.png"
           }
         }
       ]

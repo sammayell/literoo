@@ -13,7 +13,7 @@
   "wordCount": 299,
   "readingLevel": "Pre-K",
   "synopsis": "When a mysterious door appears in their snowbound mountain cabin, little owl Hoot discovers seven magical gifts arriving each day of the week, each one teaching him about sharing and family bonds in the most dreamlike way.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-school-5b6b55159c/cover.png",
   "chapters": [
     {
       "title": "Monday's Magic Door",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers sits beside a slightly larger owl sister near a glowing magical door in a cozy mountain cabin. A silver acorn glimmers between them while snow falls outside windows and fire crackles in the hearth. Drawn in chalkboard style with white and colored chalk on dark green board, with small mathematical doodles in corners.",
             "alt": "Hoot and his sister Pip with a magical silver acorn by the mysterious door",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-school-5b6b55159c/scene_1_1.png"
           }
         }
       ]
@@ -36,7 +37,8 @@
           "illustration": {
             "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers holds one golden bell while his sister holds another, both bells glowing with warm light. Around them float the week's magical gifts: starlight feather, singing shell, dream honey jar, and dancing snow globe. The mysterious door glimmers in the background of the snowy cabin. Chalkboard style art with colored chalk on dark green board, equations scattered decoratively.",
             "alt": "Hoot and Pip sharing magical golden bells with other enchanted gifts floating around them",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-school-5b6b55159c/scene_2_1.png"
           }
         }
       ]
@@ -49,7 +51,8 @@
           "illustration": {
             "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers cuddles with his sister owl next to a dying fire in their mountain cabin. A shimmering soap bubble containing their laughter floats above them, while all seven magical gifts are arranged in a circle around their cozy nest. Snow continues falling outside as the mysterious door fades to transparency. Chalkboard style with warm colored chalk on dark green board, small heart doodles in corners.",
             "alt": "Hoot and Pip surrounded by all their magical gifts with a bubble of captured laughter floating above",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-school-5b6b55159c/scene_3_1.png"
           }
         }
       ]

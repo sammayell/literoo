@@ -13,7 +13,7 @@
   "wordCount": 175,
   "readingLevel": "Beginner",
   "synopsis": "Otto the baby otter discovers mysterious acts of kindness happening around his snowy mountain cabin. Someone is secretly helping him, but who could it be? A hushed bedtime mystery about care and friendship.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-bedtime-326b3718de/cover.png",
   "chapters": [
     {
       "title": "The Cabin Kitchen",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "Otto, a chubby baby otter with soft chestnut-brown fur, sparkling dark eyes, tiny paws, and floppy whiskers, stands on tiptoes reaching toward a steaming pot in a cozy cabin kitchen. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
             "alt": "Otto the baby otter reaching toward a steaming pot in a cabin kitchen",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-bedtime-326b3718de/scene_1_1.png"
           }
         },
         {
@@ -31,7 +32,8 @@
           "illustration": {
             "description": "Otto, a chubby baby otter with soft chestnut-brown fur, sparkling dark eyes, tiny paws, and floppy whiskers, laps from a water bowl beside an empty soup pot. The cabin kitchen glows with firelight. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
             "alt": "Otto drinking from his water bowl in the warm cabin kitchen",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-bedtime-326b3718de/scene_1_2.png"
           }
         }
       ]
@@ -44,7 +46,8 @@
           "illustration": {
             "description": "Otto, a chubby baby otter with soft chestnut-brown fur, sparkling dark eyes, tiny paws, and floppy whiskers, discovers a neat pile of smooth stones beside his folded blanket in a corner of the cabin. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
             "alt": "Otto finding smooth stones next to his neatly folded blanket",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-bedtime-326b3718de/scene_2_1.png"
           }
         },
         {
@@ -52,7 +55,8 @@
           "illustration": {
             "description": "Otto, a chubby baby otter with soft chestnut-brown fur, sparkling dark eyes, tiny paws, and floppy whiskers, curled up sleepily in his blanket by the cabin window, with a mysterious shadow visible in the snowy landscape outside. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
             "alt": "Otto sleeping peacefully while a mysterious shadow walks away in the snow outside",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-bedtime-326b3718de/scene_2_2.png"
           }
         }
       ]

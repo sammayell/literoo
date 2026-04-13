@@ -13,7 +13,7 @@
   "wordCount": 536,
   "readingLevel": "Grade 1-2",
   "synopsis": "When Theo's invention to help animals starts working in unexpected ways, he follows clues through a corn maze at dusk, discovering that seven mysterious gifts hold the key to understanding what his machine has really done.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-eb4bdfff3a/cover.png",
   "chapters": [
     {
       "title": "Monday's Mystery",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "Theo, a boy with short curly blonde hair, light skin, and round blue eyes, sits on his bed holding a tiny green package. Sunlight streams through the window. His expression is puzzled and curious. The art style is exaggerated cartoon with candy bright colors, squash and stretch proportions, and comedic poses with rubber hose animation feel.",
             "alt": "Theo examining a small green package while sitting on his bed",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-eb4bdfff3a/scene_1_1.png"
           }
         },
         {
@@ -31,7 +32,8 @@
           "illustration": {
             "description": "Theo, a boy with short curly blonde hair, light skin, and round blue eyes, stands next to a makeshift contraption made of cardboard boxes, tubes, and blinking lights. His round blue eyes are wide with realization. The art style is exaggerated cartoon with bouncy dynamic energy, oversized expressions, and slapstick energy.",
             "alt": "Theo standing next to his homemade invention with a surprised expression",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-eb4bdfff3a/scene_1_2.png"
           }
         }
       ]
@@ -44,7 +46,8 @@
           "illustration": {
             "description": "Theo, a boy with short curly blonde hair, light skin, and round blue eyes, sits at a desk with six tiny packages lined up in front of him. He's writing in a notebook with intense concentration. Each package is a different color. The art style is exaggerated cartoon with candy bright colors and comedic poses showing his detective-like focus.",
             "alt": "Theo taking notes while examining six small packages on his desk",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-eb4bdfff3a/scene_2_1.png"
           }
         },
         {
@@ -52,7 +55,8 @@
           "illustration": {
             "description": "Theo, a boy with short curly blonde hair, light skin, and round blue eyes, peers through binoculars toward a tall corn maze in the distance. Various animal silhouettes can be seen moving between the corn stalks. The art style is exaggerated cartoon with bouncy dynamic movement and oversized expressions showing his amazement.",
             "alt": "Theo looking through binoculars at a corn maze with animal shadows visible",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-eb4bdfff3a/scene_2_2.png"
           }
         }
       ]
@@ -65,7 +69,8 @@
           "illustration": {
             "description": "Theo, a boy with short curly blonde hair, light skin, and round blue eyes, stands at the entrance to a towering corn maze at dusk. He holds a small map in one hand. Golden sunset light streams between the stalks. His expression shows determination mixed with nervousness. The art style is exaggerated cartoon with candy bright colors and dramatic lighting creating a comedic adventure feel.",
             "alt": "Theo at the corn maze entrance holding a map during golden hour",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-eb4bdfff3a/scene_3_1.png"
           }
         },
         {
@@ -73,7 +78,8 @@
           "illustration": {
             "description": "Theo, a boy with short curly blonde hair, light skin, and round blue eyes, walks through narrow corridors between towering corn stalks. Small animal shapes dart around his feet and fly overhead. His eyes are wide with wonder and slight worry. The art style is exaggerated cartoon with squash and stretch proportions, bouncy dynamic energy, and rubber hose animation feel.",
             "alt": "Theo walking through corn maze corridors with animals scurrying around",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-eb4bdfff3a/scene_3_2.png"
           }
         }
       ]
@@ -86,7 +92,8 @@
           "illustration": {
             "description": "Theo, a boy with short curly blonde hair, light skin, and round blue eyes, stands in a circular clearing surrounded by various forest animals - squirrels, rabbits, raccoons, owls, and a deer. His invention sits in the center, glowing softly. All the animals look happy and peaceful. The art style is exaggerated cartoon with candy bright colors, oversized expressions of joy, and bouncy dynamic energy.",
             "alt": "Theo in maze center surrounded by happy animals with his glowing invention",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-eb4bdfff3a/scene_4_1.png"
           }
         },
         {
@@ -94,7 +101,8 @@
           "illustration": {
             "description": "Theo, a boy with short curly blonde hair, light skin, and round blue eyes, kneels down reading a tiny note while a small rabbit sits nearby. All the animals gather around him in a circle. Everyone looks happy and content. The art style is exaggerated cartoon with candy bright colors, comedic poses showing warmth and friendship, and slapstick energy in the happy expressions.",
             "alt": "Theo reading thank-you note surrounded by grateful animals in the maze",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-eb4bdfff3a/scene_4_2.png"
           }
         }
       ]

@@ -13,7 +13,7 @@
   "wordCount": 1213,
   "readingLevel": "Kindergarten-1st Grade",
   "synopsis": "Barnaby the hedgehog discovers a mysterious clicking sound in an old printing press shop that only he can hear, leading him on a journey through different rooms to uncover its source.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-7ff154e657/cover.png",
   "chapters": [
     {
       "title": "The Front Counter",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "Barnaby, a small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes, holding a small broom near an old wooden counter. Mrs. Inkwell, a plump badger in an apron, sorts papers behind the register. Golden light streams through crooked windows. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "A hedgehog sweeping near a counter while a badger sorts papers",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-7ff154e657/scene_1_1.png"
           }
         },
         {
@@ -31,7 +32,8 @@
           "illustration": {
             "description": "Barnaby, a small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes, pressing close to listen at the wooden counter base. His expression shows concentration. Mrs. Inkwell watches with curious eyes. The shop interior shows printing equipment and paper stacks. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "A hedgehog listening intently at the base of a wooden counter",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-7ff154e657/scene_1_2.png"
           }
         },
         {
@@ -39,7 +41,8 @@
           "illustration": {
             "description": "Barnaby, a small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes, walking past stacks of papers and boxes toward a curtained doorway. Mrs. Inkwell watches with an amused expression. The shop feels cluttered but cozy. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "A hedgehog walking through a printing shop toward a curtained doorway",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-7ff154e657/scene_1_3.png"
           }
         }
       ]
@@ -52,7 +55,8 @@
           "illustration": {
             "description": "Barnaby, a small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes, standing among large printing press machines that tower above him. The machines are dark metal with complex wheels and arms. Dusty golden light filters through the room. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "A small hedgehog dwarfed by large printing press machines",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-7ff154e657/scene_2_1.png"
           }
         },
         {
@@ -60,7 +64,8 @@
           "illustration": {
             "description": "Barnaby, a small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes, peering closely into the mechanical parts of a large printing press. His whiskers twitch with curiosity. The machine's internal gears and rollers create interesting shadows. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "A hedgehog investigating the inner workings of a printing press",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-7ff154e657/scene_2_2.png"
           }
         },
         {
@@ -68,7 +73,8 @@
           "illustration": {
             "description": "Barnaby, a small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes, at the bottom of narrow wooden stairs, head tilted upward in concentration. The staircase disappears into shadow above. The printing room spreads out behind him. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "A hedgehog at the bottom of wooden stairs, listening intently",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-7ff154e657/scene_2_3.png"
           }
         }
       ]
@@ -81,7 +87,8 @@
           "illustration": {
             "description": "Barnaby, a small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes, exploring a cozy apartment with stacked books, a large wooden desk, and a tea kettle. Warm afternoon light comes through windows. The space feels lived-in and comfortable. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "A hedgehog exploring a cozy apartment filled with books and papers",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-7ff154e657/scene_3_1.png"
           }
         },
         {
@@ -89,7 +96,8 @@
           "illustration": {
             "description": "Barnaby, a small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes, watching Mrs. Inkwell type on a tablet computer. The blue screen light contrasts with the warm, golden lighting of the rest of the apartment. Mrs. Inkwell is hunched over the device. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "A hedgehog observing someone typing on a glowing tablet",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-7ff154e657/scene_3_2.png"
           }
         },
         {
@@ -97,7 +105,8 @@
           "illustration": {
             "description": "Barnaby, a small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes, sitting contentedly while Mrs. Inkwell looks up from her now-dark tablet. Golden afternoon light streams through the window, illuminating both characters warmly. The contrast between the dark screen and warm natural light is evident. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "A hedgehog and badger in warm afternoon light with a dark tablet",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-7ff154e657/scene_3_3.png"
           }
         }
       ]
@@ -110,7 +119,8 @@
           "illustration": {
             "description": "Barnaby, a small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes, perched on a window sill next to Mrs. Inkwell. They look down at a charming crooked street with shops and playing rabbits. Golden afternoon light bathes the scene. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "A hedgehog and badger looking out a window at a bustling street below",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-7ff154e657/scene_4_1.png"
           }
         },
         {
@@ -118,7 +128,8 @@
           "illustration": {
             "description": "Barnaby, a small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes, and Mrs. Inkwell watching the street scene with contentment. The baker, flower vendor, and playing rabbits are visible below. The warm evening light creates a peaceful, community atmosphere. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "Two friends enjoying the view of their lively neighborhood",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-7ff154e657/scene_4_2.png"
           }
         },
         {
@@ -126,7 +137,8 @@
           "illustration": {
             "description": "Barnaby, a small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes, and Mrs. Inkwell silhouetted against a sunset window. The street below glows with golden evening light, showing the peaceful end of day in their neighborhood. The scene feels warm and content. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "A hedgehog and badger watching a golden sunset over their neighborhood",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-7ff154e657/scene_4_3.png"
           }
         }
       ]

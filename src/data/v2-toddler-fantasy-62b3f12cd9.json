@@ -13,7 +13,7 @@
   "wordCount": 333,
   "readingLevel": "Toddler",
   "synopsis": "A wise attic mouse observes a human child named Hugo as he discovers magical seasonal doorways during a thunderstorm, learning to name his big feelings while racing against sunset to complete an ancient ritual.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-fantasy-62b3f12cd9/cover.png",
   "chapters": [
     {
       "title": "Spring's Green Door",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "Hugo with straight light blonde hair, fair skin, and light blue eyes standing before a glowing green door in the dusty attic. Spring magic flows from the door - tiny flowers blooming on the wooden frame, green vines with golden sparkles, butterfly lights dancing around. A small gray mouse watches from a beam above. The attic has enchanted forest atmosphere with mystical creatures peeking from shadows, rich greens and fairy lights, Studio Ghibli inspired magical details.",
             "alt": "A child reaching toward a magical green spring door in an attic while a mouse watches",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-fantasy-62b3f12cd9/scene_1_1.png"
           }
         }
       ]
@@ -36,7 +37,8 @@
           "illustration": {
             "description": "A magical landscape where all four seasons exist at once - Hugo with straight light blonde hair, fair skin, and light blue eyes standing in the center surrounded by spring flowers, summer wheat, autumn leaves, and winter snow all swirling together. The scene has enchanted forest elements with glowing mushrooms, fairy lights in rich greens and purples, golden sparkles, mystical creatures from each season, Studio Ghibli inspired atmosphere with detailed magical foliage.",
             "alt": "A child standing in a magical place where all seasons exist together",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-fantasy-62b3f12cd9/scene_2_1.png"
           }
         }
       ]
@@ -49,7 +51,8 @@
           "illustration": {
             "description": "Hugo with straight light blonde hair, fair skin, and light blue eyes sitting cross-legged in the attic center as magical seasonal energies swirl around him in ribbons of color - green spring light, golden summer rays, orange autumn leaves, silver winter sparkles. The mouse watches wisely from a dusty beam. The scene shows enchanted forest magic with glowing mushrooms, fairy lights, mystical atmosphere in rich greens and purples, golden sparkles, Studio Ghibli inspired detailed magical foliage throughout the attic.",
             "alt": "A child sitting peacefully as colorful seasonal magic swirls around him in the attic",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-fantasy-62b3f12cd9/scene_3_1.png"
           }
         }
       ]
