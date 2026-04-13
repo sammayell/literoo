@@ -13,7 +13,7 @@
   "wordCount": 1846,
   "readingLevel": 3.2,
   "synopsis": "When an adult discovers old letters in their grandmother's shed, they remember the day they met Cobble, a stubborn gnome living in the secret tunnels below. With sunset approaching and a promise to keep, unlikely friendship blooms in the darkness beneath the garden.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-b86da2d7af/cover.png",
   "chapters": [
     {
       "title": "The Letters in the Dust",
@@ -22,7 +22,8 @@
         {
           "description": "An adult kneeling in a dusty garden shed, holding yellowed letters, with golden afternoon light streaming through a small window. Old garden tools and cobwebs fill the corners. Enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage.",
           "alt": "Adult discovering old letters in grandmother's shed",
-          "position": "after-paragraph-2"
+          "position": "after-paragraph-2",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-b86da2d7af/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "A child sitting cross-legged on wooden floorboards in a dim garden shed, looking down with curiosity as mysterious tapping sounds come from below. Dust motes float in shafts of light from a small window. Enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage.",
           "alt": "Child hearing mysterious tapping from beneath the shed floor",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-b86da2d7af/scene_2_1.png"
         }
       ]
     },
@@ -44,7 +46,8 @@
         {
           "description": "A child peering down through a hole in wooden floorboards into a mysterious underground tunnel, where a small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap looks up at them. The tunnel walls are smooth earth with tiny glowing mushrooms. Enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage.",
           "alt": "Child looking down into tunnel where Cobble the gnome waits",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-b86da2d7af/scene_3_1.png"
         }
       ]
     },
@@ -55,7 +58,8 @@
         {
           "description": "In an underground tunnel lit by soft glowing mushrooms, a small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap points toward a narrow passage blocked with fallen earth and stones. A child stands beside him, both figures dwarfed by the mysterious tunnel system. Enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage.",
           "alt": "Cobble showing the child the blocked tunnel passage",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-b86da2d7af/scene_4_1.png"
         }
       ]
     },
@@ -66,7 +70,8 @@
         {
           "description": "A child crawling through a narrow earthen tunnel, dirt falling around them, with golden light glowing at the end of the passage. The tunnel walls are packed earth with tiny roots poking through, and the child is reaching forward determinedly. Enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage.",
           "alt": "Child crawling through the narrow blocked tunnel toward golden light",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-b86da2d7af/scene_5_1.png"
         }
       ]
     },
@@ -77,7 +82,8 @@
         {
           "description": "An magical underground workshop carved into earth walls, with candles in glass jars hanging from the ceiling, tiny shelves filled with bottles and magical supplies, and hundreds of old photographs pinned to the walls. In the center, a small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap works at a table covered with shimmering materials. A child stands amazed beside him. Enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage.",
           "alt": "Cobble's magical workshop filled with candles, photos, and mysterious supplies",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-b86da2d7af/scene_6_1.png"
         }
       ]
     },
@@ -99,7 +105,8 @@
         {
           "description": "In a garden shed filled with golden sunset light, a grandmother with kind eyes examines a delicate silver bracelet with glowing beads while a child watches hopefully. The magical bracelet catches and reflects the warm light streaming through the window. Enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage.",
           "alt": "Grandmother discovering Cobble's magical birthday gift as sunset light streams in",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-b86da2d7af/scene_8_1.png"
         }
       ]
     }

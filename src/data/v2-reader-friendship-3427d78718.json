@@ -13,7 +13,7 @@
   "wordCount": 1603,
   "readingLevel": "Grade 2-3",
   "synopsis": "When mysterious packages begin arriving in the moss-floored forest where footsteps make no sound, Flint the peregrine falcon and his woodland teammates must solve the puzzle of who keeps sending them cooking tools and ingredients from around the world. Each gift reveals more than they expected about friendship, food, and the power of sharing meals together.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-3427d78718/cover.png",
   "chapters": [
     {
       "title": "The First Spoon Arrives",
@@ -22,7 +22,8 @@
         {
           "description": "A young peregrine falcon with slate-grey back, cream-and-black barred chest, piercing yellow-ringed eyes, and sharp black beak examines a small package in a deep moss-floored forest. Other woodland animals gather around in a circle, with warm amber lighting filtering through the trees and comfortable, cozy atmosphere.",
           "alt": "Forest animals discovering a mysterious package",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-3427d78718/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "A young peregrine falcon with slate-grey back, cream-and-black barred chest, piercing yellow-ringed eyes, and sharp black beak holds a small copper pot while sitting in a cozy forest clearing. Warm amber light creates an intimate atmosphere as woodland teammates gather around to examine the gift.",
           "alt": "Flint and teammates examining a copper pot in the forest",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-3427d78718/scene_2_1.png"
         }
       ]
     },
@@ -44,7 +46,8 @@
         {
           "description": "A young peregrine falcon with slate-grey back, cream-and-black barred chest, piercing yellow-ringed eyes, and sharp black beak arranges cooking equipment in a row on soft moss. The forest setting has warm amber lighting and an intimate, cozy atmosphere with fairy lights twinkling in the background.",
           "alt": "Forest cooking equipment arranged in a peaceful woodland clearing",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-3427d78718/scene_3_1.png"
         }
       ]
     },
@@ -55,7 +58,8 @@
         {
           "description": "A young peregrine falcon with slate-grey back, cream-and-black barred chest, piercing yellow-ringed eyes, and sharp black beak examines a small tagine pot in a cozy forest setting. Small spice packets are scattered around on soft moss, with warm amber lighting creating an intimate atmosphere.",
           "alt": "Flint discovering spices and a tagine in the quiet forest",
-          "position": "after-paragraph-2"
+          "position": "after-paragraph-2",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-3427d78718/scene_4_1.png"
         }
       ]
     },
@@ -66,7 +70,8 @@
         {
           "description": "A young peregrine falcon with slate-grey back, cream-and-black barred chest, piercing yellow-ringed eyes, and sharp black beak operates a small pasta machine while woodland teammates gather around in a cozy forest kitchen setup. Warm amber lighting and fairy lights create an intimate cooking scene on the soft moss floor.",
           "alt": "Forest animals cooking together with their mysterious gifts",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-3427d78718/scene_5_1.png"
         }
       ]
     },
@@ -77,7 +82,8 @@
         {
           "description": "A young peregrine falcon with slate-grey back, cream-and-black barred chest, piercing yellow-ringed eyes, and sharp black beak stands among multiple cooking implements arranged in a circle on moss. The cozy forest setting has warm amber lighting and an intimate atmosphere as the team prepares a multicultural feast together.",
           "alt": "Multiple cooking gifts arranged in the peaceful forest clearing",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-3427d78718/scene_6_1.png"
         }
       ]
     },
@@ -88,7 +94,8 @@
         {
           "description": "A young peregrine falcon with slate-grey back, cream-and-black barred chest, piercing yellow-ringed eyes, and sharp black beak stands with woodland teammates meeting an elderly owl wearing a flour-covered apron. The scene has warm amber lighting and a cozy, intimate atmosphere in the quiet forest setting with fairy lights twinkling overhead.",
           "alt": "The team meeting Chef Hoot in the peaceful forest",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-3427d78718/scene_7_1.png"
         }
       ]
     },
@@ -99,7 +106,8 @@
         {
           "description": "A young peregrine falcon with slate-grey back, cream-and-black barred chest, piercing yellow-ringed eyes, and sharp black beak cooks alongside woodland teammates in a cozy forest kitchen setup. Multiple cooking stations show different cuisines being prepared, with warm ambient lighting and fairy lights creating an intimate, comfortable atmosphere on the soft moss floor.",
           "alt": "The team's ongoing cooking adventures in their forest home",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-3427d78718/scene_8_1.png"
         }
       ]
     }

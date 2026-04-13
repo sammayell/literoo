@@ -13,7 +13,7 @@
   "wordCount": 2636,
   "readingLevel": "5th-6th grade",
   "synopsis": "When a curious baby dragon arrives at Master Gutenberg's printing shop at the worst possible moment, a wise old printing press watches as ink, chaos, and unexpected friendships transform both dragon and printer forever. Told through the eyes of the press itself, this tale explores how art brings communities together across the centuries.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-humor-191d83282c/cover.png",
   "chapters": [
     {
       "title": "Ten",
@@ -22,7 +22,8 @@
         {
           "description": "Master Gutenberg's crooked printing shop interior showing the great printing press, scattered papers, and a small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes standing in spilled black ink. A shocked envoy in medieval robes points at the dragon while Master Gutenberg looks horrified. The art style is notebook doodle style, black pen on white, selective color on the dragon's coral scales and black ink spill, loose sketchy lines with arrows and annotations reading 'disaster!' and 'oops', diary style, hand-drawn spontaneous, school notebook aesthetic.",
           "alt": "A baby dragon has knocked over ink in a medieval printing shop while a nobleman and printer look on in shock",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-humor-191d83282c/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "Close-up view of a small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes carefully examining a printed page with intense curiosity. Musical notes float around showing his purring, while in the background the envoy cowers against the wall and Master Gutenberg gestures helplessly. The art style is notebook doodle style, black pen on white, selective color on coral scales and musical notes, loose sketchy lines with arrows pointing to the text and annotations reading 'so curious!' and 'beautiful voice', diary style, hand-drawn spontaneous, school notebook aesthetic.",
           "alt": "A baby dragon examines printed text with fascination while making musical purring sounds as two men watch nervously",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-humor-191d83282c/scene_2_1.png"
         }
       ]
     },
@@ -44,7 +46,8 @@
         {
           "description": "Master Gutenberg holding up a singed page that shimmers with starlight-effect letters while a small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes looks worried with drooping ears. The envoy peeks out from behind a stack of papers in the background. Wisps of smoke curl from the page. The art style is notebook doodle style, black pen on white, selective color on coral scales and shimmering letters, loose sketchy lines with arrows pointing to the magical effect and annotations reading 'accidental magic!' and 'new discovery!', diary style, hand-drawn spontaneous, school notebook aesthetic.",
           "alt": "A printer examines a magically shimmering page while a worried baby dragon looks on and an envoy hides behind paper stacks",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-humor-191d83282c/scene_3_1.png"
         }
       ]
     },
@@ -55,7 +58,8 @@
         {
           "description": "A magical scene showing a small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes breathing gently onto a page held by Master Gutenberg. Flower petals and sparkles float from the page, with visible fragrance lines and warm light emanating from the text. The envoy watches in amazement from behind papers. The art style is notebook doodle style, black pen on white, selective color on coral scales, flower petals, and magical sparkles, loose sketchy lines with arrows and annotations reading 'real magic!' and 'teamwork!', diary style, hand-drawn spontaneous, school notebook aesthetic.",
           "alt": "A baby dragon breathes magic onto a printed page, causing flowers and sparkles to appear while a printer and nobleman watch in amazement",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-humor-191d83282c/scene_4_1.png"
         }
       ]
     },
@@ -66,7 +70,8 @@
         {
           "description": "The crooked printing shop with faces of townspeople pressed against diamond-paned windows from outside, including a baker's daughter, blacksmith's apprentice, and elderly hat shop owner. Inside, a small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes bounces excitedly while Master Gutenberg and the envoy discuss a royal proclamation. The art style is notebook doodle style, black pen on white, selective color on coral scales and window faces, loose sketchy lines with arrows pointing to various people and annotations reading 'whole town watching!' and 'royal business!', diary style, hand-drawn spontaneous, school notebook aesthetic.",
           "alt": "Townspeople peer through shop windows as a baby dragon excitedly offers to help with a royal proclamation",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-humor-191d83282c/scene_5_1.png"
         }
       ]
     },
@@ -77,7 +82,8 @@
         {
           "description": "A close-up of the printing process showing a small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes breathing 'dignity' onto a royal proclamation while Master Gutenberg operates the press and the envoy watches approvingly. Various scented elements float from different copies - bread from one, metal sparks from another, leather from a third. The art style is notebook doodle style, black pen on white, selective color on coral scales and magical scent elements, loose sketchy lines with arrows and annotations reading 'custom scents!' and 'dignified!', diary style, hand-drawn spontaneous, school notebook aesthetic.",
           "alt": "A baby dragon breathes dignity onto royal proclamations while different magical scents emanate from various copies for townspeople",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-humor-191d83282c/scene_6_1.png"
         }
       ]
     },
@@ -88,7 +94,8 @@
         {
           "description": "A festive scene showing the printing shop crowded with happy townspeople each holding different magically-enhanced proclamations with various scents and effects floating around them. A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes nuzzles against the printing press while Master Gutenberg and the note-taking envoy look on. Rose petals, bread crumbs, book pages, and warmth wisps fill the air. The art style is notebook doodle style, black pen on white, selective color on coral scales and magical elements, loose sketchy lines with arrows and annotations reading 'everyone's happy!' and 'revolution!', diary style, hand-drawn spontaneous, school notebook aesthetic.",
           "alt": "A crowded printing shop with townspeople enjoying magically-enhanced proclamations while a baby dragon affectionately nuzzles the printing press",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-humor-191d83282c/scene_7_1.png"
         }
       ]
     },
@@ -99,7 +106,8 @@
         {
           "description": "A sunset scene through the diamond windows showing a small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes looking thoughtful and sad, with his tail curled around his feet. Master Gutenberg, the envoy, and several townspeople look concerned and hopeful. Golden afternoon light streams through the windows while magical proclamations hang on drying lines in the background. The art style is notebook doodle style, black pen on white, selective color on coral scales and golden sunset light, loose sketchy lines with arrows and annotations reading 'time to go?' and 'don't leave!', diary style, hand-drawn spontaneous, school notebook aesthetic.",
           "alt": "A baby dragon looks sadly thoughtful about leaving while humans in the printing shop look concerned in golden sunset light",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-humor-191d83282c/scene_8_1.png"
         }
       ]
     },
@@ -110,7 +118,8 @@
         {
           "description": "The envoy gesturing grandly while making his proposal to a small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes whose wings flutter rapidly with excitement. Master Gutenberg looks inspired while townspeople including the baker's daughter and Mrs. Weatherby nod encouragingly. Thought bubbles show images of other dragons at printing presses across the kingdom. The art style is notebook doodle style, black pen on white, selective color on coral scales and thought bubble images, loose sketchy lines with arrows and annotations reading 'official position!' and 'dragon network!', diary style, hand-drawn spontaneous, school notebook aesthetic.",
           "alt": "An envoy proposes making the baby dragon Royal Dragon of Letters while townspeople encourage the excited little creature",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-humor-191d83282c/scene_9_1.png"
         }
       ]
     },
@@ -121,7 +130,8 @@
         {
           "description": "A heartwarming scene showing Master Gutenberg carefully hugging a small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes while townspeople cheer in the background. The envoy takes notes excitedly while magical proclamations glow softly around the shop. Evening light filters through windows as the dragon then curls up beside the printing press. The art style is notebook doodle style, black pen on white, selective color on coral scales and magical glow, loose sketchy lines with arrows and annotations reading 'partners!' and 'new beginning!', diary style, hand-drawn spontaneous, school notebook aesthetic.",
           "alt": "A printer and baby dragon become partners while townspeople celebrate, ending with the dragon sleeping peacefully beside the printing press",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-humor-191d83282c/scene_10_1.png"
         }
       ]
     },
@@ -132,7 +142,8 @@
         {
           "description": "A golden morning scene showing a small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes working alongside Master Gutenberg at the printing press, with various orders spread around them requiring different magical effects - wedding invitations with hearts, birthday notices with cake scents, and festival handbills with dancing elements. Golden sunlight streams through windows while the printing press seems to hum contentedly. The art style is notebook doodle style, black pen on white, selective color on coral scales and golden light effects, loose sketchy lines with arrows and annotations reading 'perfect partnership!' and 'golden age begins!', diary style, hand-drawn spontaneous, school notebook aesthetic.",
           "alt": "A baby dragon and printer work together in golden morning light, starting their new partnership with magical printing orders",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-humor-191d83282c/scene_11_1.png"
         }
       ]
     }

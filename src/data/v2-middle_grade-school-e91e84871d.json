@@ -13,7 +13,7 @@
   "wordCount": 5385,
   "readingLevel": "4th-5th grade",
   "synopsis": "When Pixel, a small robot performer at a traveling carnival, discovers a new rival who threatens to outshine her musical talents, she must navigate the complex world of performance, friendship, and finding her own unique voice under the bright carnival lights.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-school-e91e84871d/cover.png",
   "chapters": [
     {
       "title": "When the Lights First Flicker",
@@ -22,12 +22,14 @@
         {
           "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands stands on a small stage beside a cotton candy cart, with carnival lights twinkling overhead and families gathering to listen. Sugar crystals float in the air like tiny galaxies. Art style: pop art school, bold outlines, halftone dots, speech bubbles, school hallways, lockers cafeteria, energetic social, bright bold, comic influenced.",
           "alt": "Pixel performing on stage with carnival lights overhead",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-school-e91e84871d/scene_1_1.png"
         },
         {
           "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands rolls between carnival rides at night, with other performers visible in the background including a fortune teller's tent and acrobats practicing. The scene glows with warm carnival lights. Art style: pop art school, bold outlines, halftone dots, speech bubbles, school hallways, lockers cafeteria, energetic social, bright bold, comic influenced.",
           "alt": "Pixel moving through carnival grounds with other performers",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-school-e91e84871d/scene_1_2.png"
         }
       ]
     },
@@ -38,12 +40,14 @@
         {
           "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands helps set up carnival equipment as dawn light streams across an empty field, with trucks and workers visible in the background. Art style: pop art school, bold outlines, halftone dots, speech bubbles, school hallways, lockers cafeteria, energetic social, bright bold, comic influenced.",
           "alt": "Pixel helping with carnival setup at dawn",
-          "position": "after-paragraph-2"
+          "position": "after-paragraph-2",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-school-e91e84871d/scene_2_1.png"
         },
         {
           "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands watches from her small stage as a chrome robot with fiber optic crystals performs across the midway, surrounded by holographic projections and crowds with glowing phones. Art style: pop art school, bold outlines, halftone dots, speech bubbles, school hallways, lockers cafeteria, energetic social, bright bold, comic influenced.",
           "alt": "Pixel watching Echo's high-tech performance from across the midway",
-          "position": "after-paragraph-9"
+          "position": "after-paragraph-9",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-school-e91e84871d/scene_2_2.png"
         }
       ]
     },
@@ -54,12 +58,14 @@
         {
           "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands sits behind the Ferris wheel with Big Jim, a gentle carnival worker who is adjusting her antenna while carnival equipment surrounds them in the background. Art style: pop art school, bold outlines, halftone dots, speech bubbles, school hallways, lockers cafeteria, energetic social, bright bold, comic influenced.",
           "alt": "Pixel talking with Big Jim behind the Ferris wheel",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-school-e91e84871d/scene_3_1.png"
         },
         {
           "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands rolls through quiet carnival spaces at night, passing the dunking booth, ring toss, and carousel with painted horses, with soft neon reflections creating an intimate atmosphere. Art style: pop art school, bold outlines, halftone dots, speech bubbles, school hallways, lockers cafeteria, energetic social, bright bold, comic influenced.",
           "alt": "Pixel moving through quiet carnival spaces at night",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-school-e91e84871d/scene_3_2.png"
         }
       ]
     },
@@ -70,12 +76,14 @@
         {
           "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands talks with a chrome robot behind a silver trailer while rain creates gentle puddles around them, with carnival equipment covered for weather in the background. Art style: pop art school, bold outlines, halftone dots, speech bubbles, school hallways, lockers cafeteria, energetic social, bright bold, comic influenced.",
           "alt": "Pixel and Echo talking behind the silver trailer in the rain",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-school-e91e84871d/scene_4_1.png"
         },
         {
           "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands performs alongside a chrome robot on a shared stage, with carnival lights twinkling above and families watching with phones and smiles in the audience. Art style: pop art school, bold outlines, halftone dots, speech bubbles, school hallways, lockers cafeteria, energetic social, bright bold, comic influenced.",
           "alt": "Pixel and Echo performing together on stage",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-school-e91e84871d/scene_4_2.png"
         }
       ]
     },
@@ -86,12 +94,14 @@
         {
           "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands helps pack carnival equipment as dawn breaks, with other performers working around her in the familiar choreography of breakdown day. Art style: pop art school, bold outlines, halftone dots, speech bubbles, school hallways, lockers cafeteria, energetic social, bright bold, comic influenced.",
           "alt": "Pixel helping pack carnival equipment at dawn",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-school-e91e84871d/scene_5_1.png"
         },
         {
           "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands reaches out to shake hands with a chrome robot beside a silver trailer, creating a moment of connection and understanding. Art style: pop art school, bold outlines, halftone dots, speech bubbles, school hallways, lockers cafeteria, energetic social, bright bold, comic influenced.",
           "alt": "Pixel and Echo shaking hands in farewell",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-school-e91e84871d/scene_5_2.png"
         }
       ]
     },
@@ -102,12 +112,14 @@
         {
           "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands works with homemade robots made from coffee cans, mismatched LED eyes, and skateboard wheels, while human students from the Makers' Club watch and learn. Art style: pop art school, bold outlines, halftone dots, speech bubbles, school hallways, lockers cafeteria, energetic social, bright bold, comic influenced.",
           "alt": "Pixel working with homemade robots from the Makers' Club",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-school-e91e84871d/scene_6_1.png"
         },
         {
           "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands performs on stage with three homemade robots, creating a collaborative concert with rough, improvised music while families and students watch with delight. Art style: pop art school, bold outlines, halftone dots, speech bubbles, school hallways, lockers cafeteria, energetic social, bright bold, comic influenced.",
           "alt": "Pixel and homemade robots performing together on stage",
-          "position": "after-paragraph-9"
+          "position": "after-paragraph-9",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-school-e91e84871d/scene_6_2.png"
         }
       ]
     },
@@ -118,12 +130,14 @@
         {
           "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands looks at a phone or tablet screen showing comments and views from her viral video, with carnival equipment in the background and wonder in her glowing eyes. Art style: pop art school, bold outlines, halftone dots, speech bubbles, school hallways, lockers cafeteria, energetic social, bright bold, comic influenced.",
           "alt": "Pixel discovering her video has gone viral online",
-          "position": "after-paragraph-2"
+          "position": "after-paragraph-2",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-school-e91e84871d/scene_7_1.png"
         },
         {
           "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands tells a story to an engaged audience while performing, with a grandmother and granddaughter listening intently in the front row and carnival lights twinkling overhead. Art style: pop art school, bold outlines, halftone dots, speech bubbles, school hallways, lockers cafeteria, energetic social, bright bold, comic influenced.",
           "alt": "Pixel storytelling to an engaged audience during performance",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-school-e91e84871d/scene_7_2.png"
         }
       ]
     },
@@ -134,12 +148,14 @@
         {
           "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands walks through empty carnival grounds on the last morning of season, with equipment being packed and autumn wind stirring fallen leaves around the silent rides. Art style: pop art school, bold outlines, halftone dots, speech bubbles, school hallways, lockers cafeteria, energetic social, bright bold, comic influenced.",
           "alt": "Pixel walking through empty carnival grounds on the last day of season",
-          "position": "after-paragraph-2"
+          "position": "after-paragraph-2",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-school-e91e84871d/scene_8_1.png"
         },
         {
           "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands sits in a carrier looking back at an empty field where the carnival used to be, with highway stretching ahead toward new adventures and her star antenna catching morning sunlight. Art style: pop art school, bold outlines, halftone dots, speech bubbles, school hallways, lockers cafeteria, energetic social, bright bold, comic influenced.",
           "alt": "Pixel leaving on the highway toward new adventures",
-          "position": "after-paragraph-12"
+          "position": "after-paragraph-12",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-school-e91e84871d/scene_8_2.png"
         }
       ]
     }

@@ -12,7 +12,7 @@
   "wordCount": 2622,
   "readingLevel": "2nd-3rd Grade",
   "synopsis": "When Wisp the friendly ghost discovers his best friend Seal is planning to leave their floating iceberg home, he races through the seasons to solve the mystery of why the ice is melting and their friendship is drifting apart. Using real detective work and scientific clues, Wisp must find answers before winter ends and it's too late.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-2a97034e05/cover.png",
   "chapters": [
     {
       "title": "Spring Melt",
@@ -21,7 +21,8 @@
         {
           "description": "A small translucent ghost with pale blue-white form, old-fashioned suspenders, bare feet, and solemn dark eyes floats above a melting iceberg, holding a thermometer. The scene uses film noir styling for kids with dramatic shadows and spotlights, rendered in muted colors with bright blue accents, creating a mysterious but not scary detective atmosphere.",
           "alt": "Wisp examining the melting ice with scientific precision",
-          "position": "after-paragraph-1"
+          "position": "after-paragraph-1",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-2a97034e05/scene_1_1.png"
         }
       ]
     },
@@ -32,7 +33,8 @@
         {
           "description": "A small translucent ghost with pale blue-white form, old-fashioned suspenders, bare feet, and solemn dark eyes examines strange symbols carved in ice while holding a notebook. A seal swims away in the background. The image uses film noir styling for kids with dramatic shadows, muted palette with blue accents, and detective atmosphere that's mysterious but not scary.",
           "alt": "Wisp discovering mysterious symbols while Seal swims away",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-2a97034e05/scene_2_1.png"
         }
       ]
     },
@@ -43,7 +45,8 @@
         {
           "description": "A small translucent ghost with pale blue-white form, old-fashioned suspenders, bare feet, and solemn dark eyes floats above a much smaller iceberg covered in mysterious groove patterns. A seal sits on the ice looking out at the ocean. The scene uses film noir styling for kids with dramatic autumn lighting, muted colors with blue accents, creating a detective atmosphere that's mysterious but not scary.",
           "alt": "Wisp and Seal on their shrinking iceberg with the mystery solved",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-2a97034e05/scene_3_1.png"
         }
       ]
     },
@@ -54,7 +57,8 @@
         {
           "description": "A small translucent ghost with pale blue-white form, old-fashioned suspenders, bare feet, and solemn dark eyes watches from a tiny iceberg as seals swim away in formation across a winter sea. The ghost holds a waterproof case and his form glows softly. The scene uses film noir styling for kids with dramatic winter lighting, muted colors with blue accents, mysterious but not scary detective atmosphere.",
           "alt": "Wisp saying goodbye as the seals begin their migration",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-2a97034e05/scene_4_1.png"
         }
       ]
     },
@@ -65,7 +69,8 @@
         {
           "description": "A small translucent ghost with pale blue-white form, old-fashioned suspenders, bare feet, and solemn dark eyes sits on a reformed iceberg writing in a notebook while Arctic terns fly overhead and polar bear cubs play nearby. Aurora borealis lights dance in the sky. The scene uses film noir styling for kids with dramatic lighting, muted palette with blue and green accents, mysterious but not scary detective atmosphere.",
           "alt": "Wisp beginning new adventures and mysteries on his iceberg home",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-2a97034e05/scene_5_1.png"
         }
       ]
     },
@@ -76,7 +81,8 @@
         {
           "description": "A small translucent ghost with pale blue-white form, old-fashioned suspenders, bare feet, and solemn dark eyes joyfully reunites with a larger, stronger seal on an iceberg. Other seals swim in formation in the background. The scene uses film noir styling for kids with warm dramatic lighting, muted colors with bright blue accents, creating a mysterious but not scary detective atmosphere filled with happiness.",
           "alt": "Wisp and Seal's joyful reunion after a year apart",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-2a97034e05/scene_6_1.png"
         }
       ]
     }
