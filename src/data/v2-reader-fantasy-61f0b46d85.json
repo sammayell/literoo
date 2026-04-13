@@ -13,7 +13,7 @@
   "wordCount": 2051,
   "readingLevel": "Grade 2-3",
   "synopsis": "When a tiny field mouse becomes separated from her family in a mysterious ice cavern, seven magical gifts appear over seven days, each one revealing secrets about the warming world above and guiding her toward an unexpected reunion.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-61f0b46d85/cover.png",
   "chapters": [
     {
       "title": "The Blue Light Calls",
@@ -22,12 +22,14 @@
         {
           "description": "A tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, standing in a vast ice cavern lit by pale blue light from above. The mouse looks small and uncertain against the massive ice formations. Enchanted forest style with glowing mushrooms scattered on the cavern floor, fairy lights dancing through the blue light, mystical ice creatures barely visible in the shadows, rich greens and purples reflecting through the ice, golden sparkles catching the light, Studio Ghibli inspired magical atmosphere with detailed ice formations.",
           "alt": "A tiny mouse in a bluebell cap stands alone in a massive ice cavern filled with blue light",
-          "position": "after-paragraph-2"
+          "position": "after-paragraph-2",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-61f0b46d85/scene_1_1.png"
         },
         {
           "description": "A tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, holding a glowing silver acorn close to her chest. The acorn radiates warm light in the cold cavern. Enchanted forest style with glowing mushrooms nearby, fairy lights swirling around the warm glow, mystical atmosphere, rich greens and purples reflecting through the ice, golden sparkles emanating from the acorn, Studio Ghibli inspired magical atmosphere with detailed ice formations in the background.",
           "alt": "The mouse holds a glowing silver acorn that radiates warmth in the cold cavern",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-61f0b46d85/scene_1_2.png"
         }
       ]
     },
@@ -38,12 +40,14 @@
         {
           "description": "A tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, examining a pristine white feather on the ice. Ghostly images of great white birds in flight appear in the misty air above. Enchanted forest style with glowing mushrooms scattered around, fairy lights creating ethereal patterns, mystical creatures in the background, rich greens and purples reflecting through the ice, golden sparkles dancing in the air, Studio Ghibli inspired magical atmosphere with detailed ice formations.",
           "alt": "The mouse discovers a white feather that shows visions of migrating birds",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-61f0b46d85/scene_2_1.png"
         },
         {
           "description": "A tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, sleeping curled up next to a single blue flower blooming impossibly from a crack in the ice. The flower glows with the same pale blue light as the cavern. Enchanted forest style with glowing mushrooms creating a soft carpet, fairy lights twinkling like stars, mystical atmosphere of wonder, rich greens and purples in the ice reflections, golden sparkles around the magical flower, Studio Ghibli inspired detailed foliage somehow thriving in the ice.",
           "alt": "The mouse sleeps beside a magical blue flower growing from the ice",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-61f0b46d85/scene_2_2.png"
         }
       ]
     },
@@ -54,12 +58,14 @@
         {
           "description": "A tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, holding a spiral shell to her ear with eyes closed in wonder. Ocean waves and sea creatures appear as translucent visions around her in the cavern. Enchanted forest style with glowing mushrooms creating ambient light, fairy lights swirling like ocean currents, mystical sea creatures visible in the magical atmosphere, rich greens and purples mixed with ocean blues, golden sparkles like sea foam, Studio Ghibli inspired magical atmosphere with detailed ice formations and mystical underwater foliage.",
           "alt": "The mouse listens to a magical shell that shows visions of the ocean",
-          "position": "after-paragraph-2"
+          "position": "after-paragraph-2",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-61f0b46d85/scene_3_1.png"
         },
         {
           "description": "A tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, kneeling beside a dark pool in the ice cavern. Bright fish swim in impossible circles beneath the surface, their eyes reflecting the blue light above. Enchanted forest style with glowing mushrooms reflected in the water, fairy lights dancing on the pool's surface, mystical fish creating patterns in the water, rich greens and purples in the reflections, golden sparkles on the water's surface, Studio Ghibli inspired magical atmosphere with detailed ice formations around the mysterious pool.",
           "alt": "The mouse discovers trapped fish swimming in a warm pool within the ice",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-61f0b46d85/scene_3_2.png"
         }
       ]
     },
@@ -70,12 +76,14 @@
         {
           "description": "A tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, holding up a crystal sphere filled with glowing seeds. Visions of green forests and brown, dying trees swirl around her in translucent images. Enchanted forest style with glowing mushrooms creating a magical carpet, fairy lights forming tree-like patterns in the air, mystical forest spirits barely visible, rich greens and purples representing both healthy and dying forests, golden sparkles emanating from the glowing seeds, Studio Ghibli inspired magical atmosphere with detailed ice formations and mystical forest foliage.",
           "alt": "The mouse holds a crystal sphere of glowing seeds that show visions of forests",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-61f0b46d85/scene_4_1.png"
         },
         {
           "description": "A tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, standing before a massive tree made entirely of ice in a vast cavern chamber. The ice tree's branches reach toward the ceiling, and drops of water fall like tiny bells around the mouse. Enchanted forest style with glowing mushrooms scattered throughout the chamber, fairy lights creating patterns in the falling drops, mystical atmosphere of ancient magic, rich greens and purples reflecting through the ice tree, golden sparkles in each falling drop, Studio Ghibli inspired magical atmosphere with detailed ice formations and the magnificent crystal tree as centerpiece.",
           "alt": "The mouse discovers a magnificent tree made of ice that's slowly melting in the vast chamber",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-61f0b46d85/scene_4_2.png"
         }
       ]
     },
@@ -86,12 +94,14 @@
         {
           "description": "A tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, pressing a smooth stone to her forehead with eyes closed. Visions of ancient grasslands with great beasts and clear rivers appear as ghostly images around her. Enchanted forest style with glowing mushrooms providing soft light, fairy lights creating patterns of memory in the air, mystical ancient creatures visible in the visions, rich greens and purples representing the healthy past, golden sparkles swirling through the memory visions, Studio Ghibli inspired magical atmosphere with detailed ice formations beginning to show signs of melting.",
           "alt": "The mouse experiences ancient memories through a magical stone",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-61f0b46d85/scene_5_1.png"
         },
         {
           "description": "A tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, standing beneath the ice tree as it drips more rapidly. Water streams down the cavern walls, and the mouse holds five magical gifts close to her body. Enchanted forest style with glowing mushrooms reflected in puddles forming on the ground, fairy lights dancing through the falling water drops, mystical atmosphere of change and melting, rich greens and purples in the water reflections, golden sparkles in every falling drop, Studio Ghibli inspired magical atmosphere with detailed ice formations showing signs of warming and change.",
           "alt": "The mouse watches as the ice cavern begins to melt around her, holding her five magical gifts",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-61f0b46d85/scene_5_2.png"
         }
       ]
     },
@@ -102,12 +112,14 @@
         {
           "description": "A tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, discovering a pair of translucent butterfly wings that shimmer with rainbow colors in a narrow tunnel where warm light filters down. Enchanted forest style with glowing mushrooms along the tunnel walls, fairy lights creating rainbow patterns through the butterfly wings, mystical atmosphere of transformation, rich greens and purples with rainbow reflections, golden sparkles dancing through the shimmering wings, Studio Ghibli inspired magical atmosphere with detailed ice formations giving way to warmer stone.",
           "alt": "The mouse finds magical butterfly wings that shimmer with rainbow colors",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-61f0b46d85/scene_6_1.png"
         },
         {
           "description": "A tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, standing at the edge of a wide pool with a waterfall cascading from above. Across the water, other mice can be seen calling out, too far to reach safely. Enchanted forest style with glowing mushrooms around the pool's edge, fairy lights in the falling water, mystical atmosphere of reunion just out of reach, rich greens and purples in the water and surrounding growth, golden sparkles in the waterfall, Studio Ghibli inspired magical atmosphere with detailed foliage and the dramatic waterfall scene.",
           "alt": "The mouse sees her family across a wide pool but cannot reach them",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-61f0b46d85/scene_6_2.png"
         }
       ]
     },
@@ -118,12 +130,14 @@
         {
           "description": "A tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, standing with seven magical gifts floating and glowing around her: a silver acorn, white feather, spiral shell, crystal sphere with seeds, smooth stone, butterfly wings, and a perfect water drop. Enchanted forest style with glowing mushrooms creating a circle of light, fairy lights dancing between the floating gifts, mystical atmosphere of powerful magic, rich greens and purples swirling around the scene, golden sparkles emanating from each gift, Studio Ghibli inspired magical atmosphere with detailed ice formations and the beginning of the magical bridge.",
           "alt": "The mouse stands surrounded by her seven glowing magical gifts floating in the air",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-61f0b46d85/scene_7_1.png"
         },
         {
           "description": "A tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, carefully crossing a bridge made of her magical gifts over the rushing water. The gifts form stepping stones and supports: the acorn as a stone, feather as wind currents, shell guiding the path, seeds as islands of light, stone calming the water, wings creating a rainbow, and water drops supporting each step. Her mouse family waits on the other side with open arms. Enchanted forest style with glowing mushrooms on both sides of the water, fairy lights throughout the magical bridge, mystical atmosphere of reunion and hope, rich greens and purples in the surrounding foliage, golden sparkles throughout the bridge of gifts, Studio Ghibli inspired magical atmosphere with detailed foliage and the triumphant crossing scene.",
           "alt": "The mouse crosses a magical bridge made from her seven gifts to reunite with her family",
-          "position": "after-paragraph-10"
+          "position": "after-paragraph-10",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-61f0b46d85/scene_7_2.png"
         }
       ]
     }

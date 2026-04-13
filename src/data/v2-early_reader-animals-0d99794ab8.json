@@ -1,0 +1,197 @@
+{
+  "id": "v2-early_reader-animals-0d99794ab8",
+  "title": "When Stars Touch Water",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "animals",
+    "fairy-tales"
+  ],
+  "wordCount": 503,
+  "readingLevel": "early_reader",
+  "synopsis": "In this folkloric tale told in gentle rhyme, Ivy explores the tide pools and discovers that stars have fallen into the water, creating an impossible phenomenon. As she makes lists of worries, wishes, and clues, she learns from the tide pool creatures and finds wisdom in putting away distractions to truly see the magic around her.",
+  "coverImage": "",
+  "chapters": [
+    {
+      "title": "The Impossible Sky",
+      "pages": [
+        {
+          "text": "The stars fell down like silver rain, into the pools where crabs remain. Old fishermen from distant shores have never seen the like before.\n\nIvy crouched beside the rocks so low, where tide pools caught the starry glow. \"This cannot be!\" she said with might, \"Stars belong up in the night!\"\n\nBut there they were, as bright as day, in water pools where sea life play. She made a list upon the sand, of worries she could not understand:\n\n• Stars should never leave the sky\n• The water glows but we don't know why\n• The crabs are acting rather strange\n• Everything's begun to change",
+          "illustration": {
+            "description": "Ivy with her short dark brown bob with bangs, fair skin, and big brown eyes kneels by tide pools that glow with fallen stars. The gouache painting shows thick brushstrokes in warm savanna colors, with textured painterly water reflecting starlight. Bold confident strokes depict the rocky coastline at twilight.",
+            "alt": "Ivy kneeling by glowing tide pools with stars floating in the water",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Creatures' Counsel",
+      "pages": [
+        {
+          "text": "A hermit crab scuttled near, its shell a-sparkle crystal clear. \"Young child,\" it said in voice so small, \"The stars, they answered nature's call.\"\n\n\"But how?\" asked Ivy, bold and true, \"And what are we supposed to do?\" The crab just clicked its tiny claw, at wonders that it always saw.\n\nAn anemone swayed green and bright, touched by the strange celestial light. \"Make lists of wishes, not of fears,\" it whispered soft for Ivy's ears.\n\nSo Ivy made another list, of wishes that she'd nearly missed:\n\n• To understand what creatures know\n• To see where fallen stars might go\n• To learn the tides' forgotten song\n• To know where magic has belonged",
+          "illustration": {
+            "description": "Ivy with her short dark brown bob with bangs, fair skin, and big brown eyes sits cross-legged listening to a hermit crab and sea anemone. The gouache painting uses thick brushstrokes and warm savanna colors, showing expressive animals in textured painterly tide pools. Bold confident strokes create the rocky setting.",
+            "alt": "Ivy talking with sea creatures by the starlit tide pools",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Gathering Clues",
+      "pages": [
+        {
+          "text": "A starfish pointed five arms wide, toward the pools where stars reside. \"Long ago,\" it slowly said, \"The sea and sky were gently wed.\"\n\n\"When children looked but could not see, the magic living wild and free, the stars grew lonely, cold, and dim, and decided they would swim.\"\n\nIvy frowned and scratched her head, remembering what the starfish said. She made a list of clues at last, connecting present with the past:\n\n• Children used to watch and wonder\n• Now they miss the magic thunder\n• Stars grow dim when none can see\n• They long to live more wild and free\n• Something blocks our eyes from viewing\n• All the magic that's worth doing",
+          "illustration": {
+            "description": "Ivy with her short dark brown bob with bangs, fair skin, and big brown eyes bends down to listen to a five-armed starfish. The gouache painting shows thick brushstrokes in warm savanna colors with orange sunset hues. Textured painterly tide pools reflect stars, painted with bold confident strokes.",
+            "alt": "Ivy listening to a wise starfish in the magical tide pools",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Magic Returns",
+      "pages": [
+        {
+          "text": "Then Ivy understood at last, why magic seemed a thing of past. She looked around with opened eyes, and saw the truth beneath disguise.\n\nThe tablet in her jacket deep, she'd brought to make or scroll or beep. But now she saw with crystal sight, it dimmed the world's own inner light.\n\nShe tucked it safe but tucked away, to watch the tide pools' starry play. And as she watched with wonder true, the stars began their dance anew.\n\nUp from pools they rose like dreams, in silver threads and golden streams. Back to sky they gently flew, but left their magic here to view.\n\nNow Ivy keeps her final list, of wonders that cannot be missed:\n\n• The way that starlight loves the sea\n• How crabs dance wild and crabs dance free\n• The songs that only tides can sing\n• The joy that watching eyes can bring\n• The magic waiting everywhere\n• For those who stop and truly stare",
+          "illustration": {
+            "description": "Ivy with her short dark brown bob with bangs, fair skin, and big brown eyes sits peacefully by tide pools as stars rise back to the sky in streams of light. The gouache painting uses thick brushstrokes and warm savanna colors with golden grass tones. Bold confident strokes show the magical scene in textured painterly style.",
+            "alt": "Ivy watching stars return to the sky from the tide pools in streams of light",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "illustrationCount": 4,
+    "themes": [
+      "digital wellness",
+      "wonder",
+      "nature connection"
+    ],
+    "vocabulary": [
+      "tide pools",
+      "starfish",
+      "anemone",
+      "hermit crab",
+      "celestial",
+      "crystal"
+    ],
+    "coverPrompt": {
+      "description": "Ivy with her short dark brown bob with bangs, fair skin, and big brown eyes kneels by rocky tide pools that shimmer with fallen stars. The gouache painting uses thick brushstrokes, warm savanna colors blending with deep ocean blues, showing textured painterly tide pools reflecting a twilight sky. Bold confident strokes create the rocky coastline.",
+      "alt": "A girl with dark bob hair kneeling beside magical starlit tide pools"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where did the stars fall in the story?",
+        "choices": [
+          "into the tide pools",
+          "on the beach",
+          "in the forest"
+        ],
+        "correctIndex": 0,
+        "explanation": "The stars fell into the tide pools where the sea creatures live."
+      },
+      {
+        "id": "q2",
+        "question": "What kind of lists did Ivy make?",
+        "choices": [
+          "worries, wishes, and clues",
+          "groceries and chores",
+          "animals and plants"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ivy made three different lists: worries, wishes, and clues to understand the mystery."
+      },
+      {
+        "id": "q3",
+        "question": "Which sea creature told Ivy about the past?",
+        "choices": [
+          "the starfish",
+          "the hermit crab",
+          "the anemone"
+        ],
+        "correctIndex": 0,
+        "explanation": "The starfish explained how the sea and sky were once connected."
+      },
+      {
+        "id": "q4",
+        "question": "What did Ivy put away to see the magic better?",
+        "choices": [
+          "her tablet",
+          "her shoes",
+          "her jacket"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ivy tucked away her tablet so she could focus on the natural magic around her."
+      },
+      {
+        "id": "q5",
+        "question": "What happened to the stars at the end?",
+        "choices": [
+          "they returned to the sky",
+          "they stayed in the pools",
+          "they disappeared"
+        ],
+        "correctIndex": 0,
+        "explanation": "The stars rose back to the sky in golden and silver streams after Ivy truly watched them."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "pools",
+            "distractors": [
+              "rocks",
+              "waves"
+            ]
+          },
+          {
+            "wordIndex": 25,
+            "correctWord": "strange",
+            "distractors": [
+              "happy",
+              "sleepy"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "magic",
+            "distractors": [
+              "water",
+              "light"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "wonder",
+            "distractors": [
+              "playing",
+              "running"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "ivy"
+}

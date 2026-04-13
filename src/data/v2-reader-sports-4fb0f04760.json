@@ -13,7 +13,7 @@
   "wordCount": 1931,
   "readingLevel": "Grade 2-3",
   "synopsis": "During a three-day rainstorm, Kofi and his friends are trapped in a dusty attic when their precious exercise bike generator stops working. With no power for lights or heat, they must solve the mystery of what's wrong with their most important machine before the storm ends.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-4fb0f04760/cover.png",
   "chapters": [
     {
       "title": "8:00 AM - The Morning of Absolute Silence",
@@ -22,7 +22,8 @@
         {
           "description": "Kofi, a boy with short cropped hair, rich dark brown skin, and bright expressive eyes, standing tensely beside a silent red exercise bike in a dusty attic, with Maya crouched next to the pedals holding a screwdriver, dynamic angle showing their serious expressions in the dim morning light",
           "alt": "Children examining a broken exercise bike in an attic",
-          "position": "after-paragraph-2"
+          "position": "after-paragraph-2",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-4fb0f04760/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "Kofi, a boy with short cropped hair, rich dark brown skin, and bright expressive eyes, leaning forward with a long stick to carefully poke at colorful wires spilling out of an open panel on the exercise bike, with Maya and Jamal watching intently, motion blur around the stick showing careful probing action",
           "alt": "A boy using a stick to examine wires in a broken exercise bike",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-4fb0f04760/scene_2_1.png"
         }
       ]
     },
@@ -44,7 +46,8 @@
         {
           "description": "Kofi, a boy with short cropped hair, rich dark brown skin, and bright expressive eyes, crouched low under the exercise bike next to Maya and Jamal, all three peering intensely at the broken belt mechanism, dramatic low angle showing their focused investigation with bits of rubber scattered on the dusty floor",
           "alt": "Three children examining broken belt pieces under an exercise bike",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-4fb0f04760/scene_3_1.png"
         }
       ]
     },
@@ -55,7 +58,8 @@
         {
           "description": "Kofi, a boy with short cropped hair, rich dark brown skin, and bright expressive eyes, triumphantly holding up a bright green jump rope above his head while standing among scattered boxes and old sporting equipment, with Maya and Jamal looking on with excitement, dynamic angle capturing the moment of discovery",
           "alt": "A boy holding up a jump rope in discovery while searching through attic boxes",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-4fb0f04760/scene_4_1.png"
         }
       ]
     },
@@ -66,7 +70,8 @@
         {
           "description": "Kofi, a boy with short cropped hair, rich dark brown skin, and bright expressive eyes, kneeling on the floor helping Maya braid colorful jump rope cords together while Jamal holds a measuring tape, showing intense concentration and teamwork, motion lines around their hands indicating the detailed braiding work",
           "alt": "Three children braiding jump rope cords together to make a belt",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-4fb0f04760/scene_5_1.png"
         }
       ]
     },
@@ -77,7 +82,8 @@
         {
           "description": "Kofi, a boy with short cropped hair, rich dark brown skin, and bright expressive eyes, jumping up with both arms raised in celebration as Maya pedals the exercise bike and a small LED light glows brightly, speed lines and motion blur showing the spinning wheel and belt system working perfectly, capturing the triumphant moment",
           "alt": "A boy celebrating as the repaired exercise bike successfully powers a light",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-4fb0f04760/scene_6_1.png"
         }
       ]
     },
@@ -88,7 +94,8 @@
         {
           "description": "Kofi, a boy with short cropped hair, rich dark brown skin, and bright expressive eyes, sitting contentedly near a glowing space heater while Maya pedals the exercise bike in the background and Jamal writes in his notebook, warm orange light filling the previously cold attic, showing their cozy victory celebration",
           "alt": "Three children enjoying warmth and light in their attic headquarters after fixing the bike",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-4fb0f04760/scene_7_1.png"
         }
       ]
     },
@@ -99,7 +106,8 @@
         {
           "description": "Kofi, a boy with short cropped hair, rich dark brown skin, and bright expressive eyes, looking thoughtfully at the quietly running exercise bike with its braided jump rope belt visible, soft lighting from the LED test light creating a peaceful atmosphere as the repair work is complete and successful, showing satisfaction and accomplishment",
           "alt": "A boy looking thoughtfully at the successfully repaired exercise bike in the quiet attic",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-4fb0f04760/scene_8_1.png"
         }
       ]
     }

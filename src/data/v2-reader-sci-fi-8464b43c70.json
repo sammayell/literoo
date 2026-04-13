@@ -13,7 +13,7 @@
   "wordCount": 1250,
   "readingLevel": "Grade 2-3",
   "synopsis": "When a young red fox encounters a ghostly signal from the past during a foggy ferry ride, she must learn to communicate across time and language to help a lost spirit find peace.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sci-fi-8464b43c70/cover.png",
   "chapters": [
     {
       "title": "Item One: A Ferry That Hums",
@@ -22,7 +22,8 @@
         {
           "description": "A young red fox with vivid orange fur, a white chest and tail-tip, large alert amber eyes, and perky black-tipped ears stands at the chrome railing of a retro 1960s space age ferry boat. The ferry has round porthole windows, bubble-like observation domes, and sleek metallic surfaces. Thick morning fog surrounds the boat on a misty lake. The art style is retro 1960s space age with warm metallic tones, optimistic futurism, chrome and orange accents, like a vintage space poster.",
           "alt": "A red fox on the deck of a futuristic ferry boat in thick fog",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sci-fi-8464b43c70/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "A young red fox with vivid orange fur, a white chest and tail-tip, large alert amber eyes, and perky black-tipped ears stands alertly on the deck of a retro 1960s space age ferry boat, her ears perked up as she listens to mysterious signals. Sound waves are visualized as glowing orange lines flowing through the thick fog around the boat. The ferry has round windows and chrome details. The art style is retro 1960s space age with warm metallic tones and optimistic futurism, like a vintage space poster.",
           "alt": "A red fox listening intently to mysterious signals visualized as glowing lines in the fog",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sci-fi-8464b43c70/scene_2_1.png"
         }
       ]
     },
@@ -44,7 +46,8 @@
         {
           "description": "A young red fox with vivid orange fur, a white chest and tail-tip, large alert amber eyes, and perky black-tipped ears calls out into the thick fog from the deck of a retro 1960s space age ferry boat. Ghostly speech bubbles with foreign words float in the misty air around her. Other passengers sit on retro-futuristic benches in the background, unaware. The ferry has bubble-like observation domes and chrome railings. The art style is retro 1960s space age with warm metallic tones and optimistic futurism.",
           "alt": "A red fox calling into the fog while ghostly foreign words float in speech bubbles around her",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sci-fi-8464b43c70/scene_3_1.png"
         }
       ]
     },
@@ -55,7 +58,8 @@
         {
           "description": "A young red fox with vivid orange fur, a white chest and tail-tip, large alert amber eyes, and perky black-tipped ears taps her claw on the chrome railing of a retro 1960s space age ferry boat. Visual sound waves emanate from the railing in orange and chrome colors. The thick fog surrounds the boat, and ghostly tapping sounds are visualized as glowing dots floating in the mist. The art style is retro 1960s space age with warm metallic tones and optimistic futurism, like a vintage space poster.",
           "alt": "A red fox tapping on a chrome railing with sound waves and glowing dots visualizing the communication",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sci-fi-8464b43c70/scene_4_1.png"
         }
       ]
     },
@@ -66,7 +70,8 @@
         {
           "description": "A young red fox with vivid orange fur, a white chest and tail-tip, large alert amber eyes, and perky black-tipped ears sits on the deck of a retro 1960s space age ferry boat, surrounded by floating letters and numbers in the fog. The letters H-A-N-S and the number 1943 glow softly in the mist around her. The ferry has round porthole windows and chrome details. The art style is retro 1960s space age with warm metallic tones and optimistic futurism, creating a ghostly but not scary atmosphere.",
           "alt": "A red fox surrounded by floating ghostly letters spelling 'HANS' and the number '1943' in the fog",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sci-fi-8464b43c70/scene_5_1.png"
         }
       ]
     },
@@ -77,7 +82,8 @@
         {
           "description": "A young red fox with vivid orange fur, a white chest and tail-tip, large alert amber eyes, and perky black-tipped ears stands solemnly on the deck of a retro 1960s space age ferry boat. A ghostly, translucent image of a young German radio operator from the 1940s appears faintly in the fog, giving a grateful salute. Radio waves and signals float between them in warm orange and chrome colors. The scene is touching but not scary, with the art style being retro 1960s space age with optimistic futurism and warm metallic tones.",
           "alt": "A red fox communicating with the grateful ghost of a young radio operator in the fog",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sci-fi-8464b43c70/scene_6_1.png"
         }
       ]
     },
@@ -88,7 +94,8 @@
         {
           "description": "A young red fox with vivid orange fur, a white chest and tail-tip, large alert amber eyes, and perky black-tipped ears stands on the deck of a retro 1960s space age ferry boat as golden morning sunlight breaks through lifting fog. The far shore of the lake is now visible ahead, with retro-futuristic buildings on the horizon. The ferry has round porthole windows and chrome railings. Other passengers are visible in the background gathering their belongings. The art style is retro 1960s space age with warm metallic tones, optimistic futurism, and a sense of peaceful completion.",
           "alt": "A red fox on a ferry deck as golden sunlight breaks through fog, revealing the destination shore ahead",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sci-fi-8464b43c70/scene_7_1.png"
         }
       ]
     }

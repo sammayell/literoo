@@ -13,7 +13,7 @@
   "wordCount": 1777,
   "readingLevel": "Grade 2-3",
   "synopsis": "When a magical teapot gets stuck on a tiny space station with an unexpected companion, a mismatched pair must work together to solve Earth's climate crisis from above the clouds.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sci-fi-7f35f08c48/cover.png",
   "chapters": [
     {
       "title": "Unexpected Departure",
@@ -22,7 +22,8 @@
         {
           "description": "Interior of a retro 1960s escape pod with chrome surfaces and orange accents. A magical living teapot with sky-blue porcelain, painted yellow flowers, a curling handle arm, and steam curling from the spout like hair floats in zero gravity next to a bone china saucer with blue rim. Earth is visible through a round porthole window.",
           "alt": "Kettle and the saucer in the escape pod",
-          "position": "after-paragraph-2"
+          "position": "after-paragraph-2",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sci-fi-7f35f08c48/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "A small retro 1960s space station interior with chrome walls, orange control panels, and curved windows showing Earth below. A magical living teapot with sky-blue porcelain, painted yellow flowers, a curling handle arm, and steam curling from the spout like hair sits on the central console next to a bone china saucer. Storm systems are visible on Earth's surface through the windows.",
           "alt": "Inside Station Omega-7 with Earth visible through windows",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sci-fi-7f35f08c48/scene_2_1.png"
         }
       ]
     },
@@ -44,7 +46,8 @@
         {
           "description": "A magical living teapot with sky-blue porcelain, painted yellow flowers, a curling handle arm, and steam curling from the spout like hair produces elaborate steam clouds that form tiny weather patterns inside a retro 1960s space station. The steam passes through chrome walls toward Earth visible through round windows. The scene has warm metallic tones and optimistic space-age styling.",
           "alt": "Kettle creating weather patterns with steam",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sci-fi-7f35f08c48/scene_3_1.png"
         }
       ]
     },
@@ -55,7 +58,8 @@
         {
           "description": "Through round windows of a retro 1960s space station, Earth shows clearing weather patterns with green areas replacing brown drought zones. A magical living teapot with sky-blue porcelain, painted yellow flowers, a curling handle arm, and steam curling from the spout like hair sits steadily on a bone china saucer at the control station. The scene emphasizes partnership and cooperation in chrome and orange space-age styling.",
           "alt": "Kettle and saucer working together as Earth's weather improves",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sci-fi-7f35f08c48/scene_4_1.png"
         }
       ]
     },
@@ -66,7 +70,8 @@
         {
           "description": "A serene view of Earth from a retro 1960s space station showing balanced weather patterns and natural cloud formations. A magical living teapot with sky-blue porcelain, painted yellow flowers, a curling handle arm, and steam curling from the spout like hair sits peacefully on her saucer companion, with gentle steam wisps creating delicate patterns. The scene has a contemplative, harmonious feeling with chrome and warm orange accents.",
           "alt": "Peaceful moment showing balanced Earth weather systems",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sci-fi-7f35f08c48/scene_5_1.png"
         }
       ]
     },
@@ -77,7 +82,8 @@
         {
           "description": "Interior of retro 1960s space station with communication equipment showing incoming messages. A magical living teapot with sky-blue porcelain, painted yellow flowers, a curling handle arm, and steam curling from the spout like hair sits thoughtfully on her saucer companion. Earth is visible through windows showing stable, healthy weather patterns. The mood is contemplative and decision-focused with chrome and orange space-age design.",
           "alt": "Receiving the message about returning to Earth",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sci-fi-7f35f08c48/scene_6_1.png"
         }
       ]
     },
@@ -88,7 +94,8 @@
         {
           "description": "A magical living teapot with sky-blue porcelain, painted yellow flowers, a curling handle arm, and steam curling from the spout like hair sits contentedly on her bone china saucer companion in a retro 1960s space station. Through the windows, Earth shows perfect weather patterns with natural cloud formations, gentle storms, and balanced climate systems. The scene radiates warmth, accomplishment, and home-like comfort despite being in space, with chrome and orange space-age styling creating a cozy atmosphere.",
           "alt": "Kettle and saucer at home in their space station with peaceful Earth below",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sci-fi-7f35f08c48/scene_7_1.png"
         }
       ]
     }
