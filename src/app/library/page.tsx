@@ -1,9 +1,12 @@
-import { getAllBooks, getFreeBookIds } from "@/lib/books";
+import { getAllBookSummaries, getFreeBookIds } from "@/lib/books";
 import { Header } from "@/components/shared/Header";
 import LibraryClient from "@/components/library/LibraryClient";
 
+// Revalidate every 5 minutes so new books appear without a full rebuild
+export const revalidate = 300;
+
 export default function LibraryPage() {
-  const books = getAllBooks();
+  const books = getAllBookSummaries();
   const freeBookIds = getFreeBookIds();
 
   return (

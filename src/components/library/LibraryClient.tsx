@@ -2,14 +2,14 @@
 
 import { useState, useMemo, useCallback, useEffect } from "react";
 import Link from "next/link";
-import { Book } from "@/lib/types";
+import type { BookSummary } from "@/lib/books";
 import { AGE_TIER_LABELS, AGE_TIER_COLORS, AgeTier } from "@/lib/types";
 import { useAuth } from "@/lib/auth-context";
 
 const ADMIN_EMAILS = ["sam@sammayell.com", "hello@chillplayvibe.com"];
 
 interface LibraryClientProps {
-  books: Book[];
+  books: BookSummary[];
   freeBookIds: string[];
 }
 
@@ -273,11 +273,13 @@ export default function LibraryClient({ books, freeBookIds: freeBookIdsArray }: 
             ))}
           </div>
         ) : (
-          /* Grouped by tier when not searching */
+          /* Grouped by tier when not searching — show 8 per tier with "View all" link */
           TIERS.map((tier) => {
             const tierBooks = filteredBooks.filter((b) => b.ageTier === tier);
             if (tierBooks.length === 0) return null;
             const colors = AGE_TIER_COLORS[tier];
+            const preview = tierBooks.slice(0, 8);
+            const hasMore = tierBooks.length > 8;
 
             return (
               <section key={tier} id={tier} className="mb-16">
@@ -287,11 +289,22 @@ export default function LibraryClient({ books, freeBookIds: freeBookIdsArray }: 
                   >
                     {AGE_TIER_LABELS[tier]}
                   </span>
+                  <span className="text-sm text-stone-500 font-medium">
+                    {tierBooks.length} {tierBooks.length === 1 ? "book" : "books"}
+                  </span>
                   <div className="h-px bg-stone-200 flex-1" />
+                  {hasMore && (
+                    <Link
+                      href={`/library/${tier}`}
+                      className={`inline-flex items-center gap-1.5 px-4 py-2 rounded-xl text-sm font-semibold ${colors.bg} ${colors.text} hover:brightness-95 active:scale-95 transition-all whitespace-nowrap`}
+                    >
+                      View all {tierBooks.length} →
+                    </Link>
+                  )}
                 </div>
 
-                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-                  {tierBooks.map((book) => (
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
+                  {preview.map((book) => (
                     <BookCard
                       key={book.id}
                       book={book}
@@ -369,7 +382,7 @@ const TIER_COVER_GRADIENT: Record<AgeTier, string> = {
 };
 
 function BookCard({ book, isFree, isAdmin, onHide }: {
-  book: Book;
+  book: BookSummary;
   isFree: boolean;
   isAdmin: boolean;
   onHide: (bookId: string, hide: boolean) => void;
@@ -443,7 +456,7 @@ function BookCard({ book, isFree, isAdmin, onHide }: {
         <div className="flex items-center justify-between text-xs text-stone-400 mb-3">
           <span>{book.wordCount.toLocaleString()} words</span>
           <span>{estimateReadTime(book.wordCount)} min read</span>
-          <span>{book.chapters.length} ch.</span>
+          <span>{book.chapterCount} ch.</span>
         </div>
 
         {/* Reading level */}

@@ -13,6 +13,24 @@ interface PipelineStatus {
   api: { anthropic: string; gemini: string };
 }
 
+interface BatchEntry {
+  id: string;
+  tier: string;
+  count: number;
+  submitted_at: string;
+  status: string;
+}
+
+interface BatchData {
+  generatedAt: string;
+  stateMtime: string | null;
+  totals: { batches: number; inFlight: number; outputTotal: number };
+  tierProgress: Array<{ tier: string; have: number; target: number; gap: number; pct: number }>;
+  inFlight: BatchEntry[];
+  recent: BatchEntry[];
+  costs: { total_spend?: number; anthropic?: { books_generated?: number } } | null;
+}
+
 const TIER_TARGETS: Record<string, number> = {
   baby: 150, toddler: 200, early_reader: 200,
   reader: 200, middle_grade: 150, young_adult: 100,
@@ -28,20 +46,47 @@ export default function AdminStatusPage() {
   const isAdmin = user && ADMIN_EMAILS.includes(user.email || "");
 
   const [status, setStatus] = useState<PipelineStatus | null>(null);
+  const [batches, setBatches] = useState<BatchData | null>(null);
   const [loading, setLoading] = useState(true);
+  const [lastRefreshed, setLastRefreshed] = useState<Date | null>(null);
 
   useEffect(() => {
-    if (isAdmin) loadStatus();
+    if (!isAdmin) return;
+    // Initial fetch
+    loadAll(true);
+    // Poll the lightweight batches endpoint every 5s — it reads local files
+    // only, so it's cheap. Poll the heavier status endpoint every 30s so we
+    // don't hammer Anthropic with liveness checks.
+    const batchInterval = window.setInterval(() => loadBatches(), 5000);
+    const statusInterval = window.setInterval(() => loadStatus(), 30000);
+    return () => {
+      window.clearInterval(batchInterval);
+      window.clearInterval(statusInterval);
+    };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [isAdmin]);
 
-  async function loadStatus() {
-    setLoading(true);
-    try {
-      const res = await fetch("/api/admin/status");
-      const data = await res.json();
-      setStatus(data);
-    } catch {}
+  async function loadAll(showSpinner = false) {
+    if (showSpinner) setLoading(true);
+    await Promise.all([loadStatus(), loadBatches()]);
     setLoading(false);
+  }
+
+  async function loadStatus() {
+    try {
+      const res = await fetch("/api/admin/status", { cache: "no-store" });
+      if (res.ok) setStatus(await res.json());
+    } catch {}
+  }
+
+  async function loadBatches() {
+    try {
+      const res = await fetch("/api/admin/batches", { cache: "no-store" });
+      if (res.ok) {
+        setBatches(await res.json());
+        setLastRefreshed(new Date());
+      }
+    } catch {}
   }
 
   if (authLoading) {
@@ -208,6 +253,123 @@ export default function AdminStatusPage() {
                 <span className="font-semibold text-stone-900">Total</span>
                 <span className="font-semibold text-stone-900">{status?.books.total || 0} / 1,000</span>
               </div>
+            </div>
+          )}
+        </div>
+
+        {/* In-flight batches */}
+        <div className="bg-white border border-stone-200 rounded-xl p-5 mb-8">
+          <div className="flex items-center justify-between mb-4">
+            <div>
+              <h3 className="font-semibold text-stone-900">Generation Batches</h3>
+              <p className="text-xs text-stone-500 mt-0.5">
+                Live view of the Anthropic batch queue. Refreshes every 5s.
+              </p>
+            </div>
+            <div className="flex items-center gap-2 text-xs text-stone-400">
+              <span className={`inline-block w-2 h-2 rounded-full ${batches ? "bg-green-500 animate-pulse" : "bg-stone-300"}`} />
+              {lastRefreshed ? `Updated ${lastRefreshed.toLocaleTimeString()}` : "Connecting…"}
+            </div>
+          </div>
+
+          {/* In-flight */}
+          <div className="mb-4">
+            <p className="text-xs font-semibold uppercase tracking-wider text-stone-500 mb-2">
+              In flight {batches ? `(${batches.inFlight.length})` : ""}
+            </p>
+            {!batches ? (
+              <div className="text-sm text-stone-400 italic py-3">Loading…</div>
+            ) : batches.inFlight.length === 0 ? (
+              <div className="text-sm text-stone-400 italic bg-stone-50 rounded-lg px-3 py-4 text-center">
+                No batches currently running. Pipeline is idle — all tier targets met.
+              </div>
+            ) : (
+              <div className="space-y-2">
+                {batches.inFlight.map((b) => (
+                  <div
+                    key={b.id}
+                    className="flex items-center justify-between bg-indigo-50 border border-indigo-100 rounded-lg px-3 py-2 text-sm"
+                  >
+                    <div className="flex items-center gap-3 min-w-0">
+                      <span className="inline-block w-2 h-2 rounded-full bg-indigo-500 animate-pulse flex-shrink-0" />
+                      <span className="font-mono text-xs text-stone-500 truncate max-w-[180px]">{b.id}</span>
+                      <span className="font-semibold text-indigo-900 capitalize">{b.tier.replace("_", " ")}</span>
+                      <span className="text-stone-500">× {b.count}</span>
+                    </div>
+                    <div className="flex items-center gap-3 text-xs text-stone-500 flex-shrink-0">
+                      <span className="bg-indigo-200 text-indigo-800 px-2 py-0.5 rounded-full font-semibold">
+                        {b.status}
+                      </span>
+                      <span>{new Date(b.submitted_at).toLocaleTimeString()}</span>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            )}
+          </div>
+
+          {/* Recent */}
+          <div>
+            <p className="text-xs font-semibold uppercase tracking-wider text-stone-500 mb-2">
+              Recent {batches ? `(last ${Math.min(batches.recent.length, 25)} of ${batches.totals.batches})` : ""}
+            </p>
+            {batches && batches.recent.length > 0 && (
+              <div className="max-h-72 overflow-y-auto border border-stone-100 rounded-lg">
+                <table className="w-full text-xs">
+                  <thead className="bg-stone-50 sticky top-0">
+                    <tr className="text-left text-stone-500">
+                      <th className="px-3 py-2 font-medium">Tier</th>
+                      <th className="px-3 py-2 font-medium text-right">Count</th>
+                      <th className="px-3 py-2 font-medium">Status</th>
+                      <th className="px-3 py-2 font-medium">Submitted</th>
+                    </tr>
+                  </thead>
+                  <tbody className="text-stone-700">
+                    {batches.recent.map((b) => (
+                      <tr key={b.id} className="border-t border-stone-100">
+                        <td className="px-3 py-1.5 capitalize">{b.tier.replace("_", " ")}</td>
+                        <td className="px-3 py-1.5 text-right">{b.count}</td>
+                        <td className="px-3 py-1.5">
+                          <span
+                            className={`px-2 py-0.5 rounded-full text-xs font-semibold ${
+                              b.status === "collected"
+                                ? "bg-green-100 text-green-700"
+                                : "bg-indigo-100 text-indigo-700"
+                            }`}
+                          >
+                            {b.status}
+                          </span>
+                        </td>
+                        <td className="px-3 py-1.5 text-stone-500">
+                          {new Date(b.submitted_at).toLocaleString()}
+                        </td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            )}
+          </div>
+
+          {/* Totals footer */}
+          {batches && (
+            <div className="mt-4 pt-3 border-t border-stone-100 flex flex-wrap gap-x-6 gap-y-1 text-xs text-stone-500">
+              <span>
+                <span className="font-semibold text-stone-700">{batches.totals.batches}</span> total batches
+              </span>
+              <span>
+                <span className="font-semibold text-stone-700">{batches.totals.outputTotal}</span> books in output/
+              </span>
+              {batches.costs?.total_spend != null && (
+                <span>
+                  Spend: <span className="font-semibold text-stone-700">${batches.costs.total_spend.toFixed(2)}</span>
+                </span>
+              )}
+              {batches.costs?.anthropic?.books_generated != null && (
+                <span>
+                  Anthropic books generated: <span className="font-semibold text-stone-700">{batches.costs.anthropic.books_generated}</span>
+                </span>
+              )}
             </div>
           )}
         </div>

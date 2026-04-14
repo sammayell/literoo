@@ -5,6 +5,32 @@ import path from 'path';
 const SAMPLES_DIR = path.join(process.cwd(), 'src', 'data');
 const HIDDEN_FILE = path.join(SAMPLES_DIR, 'hidden-books.json');
 
+// Minimal book shape for library card listings — excludes heavy chapter content
+// to keep the initial page payload small.
+export type BookSummary = Pick<
+  Book,
+  'id' | 'title' | 'synopsis' | 'coverImage' | 'ageTier' | 'ageRange' | 'genre' | 'wordCount' | 'readingLevel'
+> & { chapterCount: number };
+
+function toSummary(book: Book): BookSummary {
+  return {
+    id: book.id,
+    title: book.title,
+    synopsis: book.synopsis,
+    coverImage: book.coverImage,
+    ageTier: book.ageTier,
+    ageRange: book.ageRange,
+    genre: book.genre,
+    wordCount: book.wordCount,
+    readingLevel: book.readingLevel,
+    chapterCount: book.chapters?.length || 0,
+  };
+}
+
+// Cache for the current process (per build/request in dev, persistent in prod)
+let _allBooksCache: Book[] | null = null;
+let _allSummariesCache: BookSummary[] | null = null;
+
 function getHiddenBookIds(): Set<string> {
   try {
     const ids = JSON.parse(fs.readFileSync(HIDDEN_FILE, 'utf-8'));
@@ -31,9 +57,10 @@ function isBookLibraryReady(book: Book): boolean {
 }
 
 export function getAllBooks(): Book[] {
+  if (_allBooksCache) return _allBooksCache;
   const hidden = getHiddenBookIds();
   const files = fs.readdirSync(SAMPLES_DIR).filter(f => f.endsWith('.json') && f !== 'illustration-admin.json' && f !== 'hidden-books.json');
-  return files.map(file => {
+  const books = files.map(file => {
     try {
       const content = fs.readFileSync(path.join(SAMPLES_DIR, file), 'utf-8');
       return JSON.parse(content) as Book;
@@ -48,6 +75,16 @@ export function getAllBooks(): Book[] {
     const tierOrder = ['baby', 'toddler', 'early_reader', 'reader', 'middle_grade', 'young_adult'];
     return tierOrder.indexOf(a.ageTier) - tierOrder.indexOf(b.ageTier);
   });
+  _allBooksCache = books;
+  return books;
+}
+
+// Lightweight version that returns only summary fields — ideal for library grids.
+// Dramatically smaller payload vs shipping full chapter/page content to the client.
+export function getAllBookSummaries(): BookSummary[] {
+  if (_allSummariesCache) return _allSummariesCache;
+  _allSummariesCache = getAllBooks().map(toSummary);
+  return _allSummariesCache;
 }
 
 export function getBookById(id: string): Book | null {
@@ -57,6 +94,10 @@ export function getBookById(id: string): Book | null {
 
 export function getBooksByTier(tier: string): Book[] {
   return getAllBooks().filter(b => b.ageTier === tier);
+}
+
+export function getBookSummariesByTier(tier: string): BookSummary[] {
+  return getAllBookSummaries().filter(b => b.ageTier === tier);
 }
 
 export function getBooksByGenre(genre: string): Book[] {
