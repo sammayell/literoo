@@ -13,7 +13,7 @@
   "wordCount": 13074,
   "readingLevel": "Grade 7-8",
   "synopsis": "When fifteen-year-old Sofia attends a traveling space carnival, she's mistaken for a legendary figure called the Songkeeper—someone who can supposedly heal minds through music. As the carnival's desperate inhabitants look to her for salvation from a spreading madness, Sofia must navigate three surreal days of discovery, danger, and an impossible choice that will determine not just her fate, but the sanity of everyone aboard.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-sci-fi-b5698b292d/cover.png",
   "chapters": [
     {
       "title": "Day One: The Invitation",
@@ -22,7 +22,8 @@
         {
           "description": "A girl with long wavy dark brown hair, warm olive skin, and big dark brown eyes stands at a spacecraft viewport with her mother, looking out at a magnificent space carnival floating in the void. The carnival features spiraling lights, impossible rides, and geometric patterns that pulse with purple and cyan neon. A gossamer silver thread of light stretches from their viewport toward the carnival. Holographic signs advertise fantastic attractions, while hover vehicles dart between floating platforms.",
           "alt": "Sofia and her mother view the approaching space carnival through a viewport as a silver thread of light connects them",
-          "position": "after-paragraph-12"
+          "position": "after-paragraph-12",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-sci-fi-b5698b292d/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "A girl with long wavy dark brown hair, warm olive skin, and big dark brown eyes stands in a crystalline tower room overlooking an impossible space carnival. Through the curved window, she can see the entire carnival spread out in multiple dimensions, with some rides flickering and failing. Purple and cyan lights create geometric patterns across the void, while hover vehicles move between platforms. The room itself glows with soft holographic displays and futuristic furniture that adjusts to her presence.",
           "alt": "Sofia looks out from her tower room at the sprawling carnival, noticing some lights beginning to flicker ominously",
-          "position": "after-paragraph-18"
+          "position": "after-paragraph-18",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-sci-fi-b5698b292d/scene_2_1.png"
         }
       ]
     },
@@ -44,7 +46,8 @@
         {
           "description": "A girl with long wavy dark brown hair, warm olive skin, and big dark brown eyes kneels beside a motionless person in a garden where plants should be singing but many have gone silent. The Harmony Gardens stretch impossibly far with musical flowers, chiming trees, and pathways that wind through dimensional space. Some areas are healthy with purple and cyan bioluminescence, while others are withering into gray voids. Hover platforms carry other visitors through the upper canopy levels.",
           "alt": "Sofia kneels in the Harmony Gardens next to an emotionally void victim while musical plants wither around them",
-          "position": "after-paragraph-15"
+          "position": "after-paragraph-15",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-sci-fi-b5698b292d/scene_3_1.png"
         }
       ]
     },
@@ -55,7 +58,8 @@
         {
           "description": "A girl with long wavy dark brown hair, warm olive skin, and big dark brown eyes sits inside a transparent probability sphere on a massive rotating carousel. Around her, hundreds of other spheres show different possible lives, some bright with potential and others fading to gray emptiness. The carousel itself spans multiple dimensions with purple and cyan energy patterns. Inside her sphere, she faces a darker version of herself - an older, hollow-eyed Sofia surrounded by silent musical instruments. The space beyond shows the carnival's neon-lit structures and hover vehicles.",
           "alt": "Sofia confronts a despairing alternate version of herself inside a probability sphere on the dimensional carousel",
-          "position": "after-paragraph-22"
+          "position": "after-paragraph-22",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-sci-fi-b5698b292d/scene_4_1.png"
         }
       ]
     },
@@ -66,7 +70,8 @@
         {
           "description": "A girl with long wavy dark brown hair, warm olive skin, and big dark brown eyes stands at the center of a crystalline amphitheater surrounded by hundreds of carnival performers, workers, and visitors. Everyone has their hands raised and mouths open in song, creating visible sound waves of purple and cyan light that spiral upward. The thirty-seven emotionally void victims sit in a circle around Sofia, their faces beginning to show the first signs of returning awareness. The amphitheater itself is a marvel of futuristic architecture with hover platforms for additional singers floating at different levels.",
           "alt": "Sofia leads a massive chorus in the amphitheater, their combined voices creating waves of healing energy around the victims",
-          "position": "after-paragraph-25"
+          "position": "after-paragraph-25",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-sci-fi-b5698b292d/scene_5_1.png"
         }
       ]
     },
@@ -77,7 +82,8 @@
         {
           "description": "A girl with long wavy dark brown hair, warm olive skin, and big dark brown eyes stands on a departure platform beside her mother as the space carnival prepares for hyperspace travel. Around them, the carnival's structures fold into impossible travel configurations, rides compress into geometric shapes, and purple and cyan quantum drives create spiraling energy patterns. Other carnival members wave goodbye to the stars as hover vehicles dock for the journey. Through the transparent deck, stars streak past in preparation for the jump to hyperspace.",
           "alt": "Sofia and her mother stand ready for departure as the carnival transforms for interstellar travel",
-          "position": "after-paragraph-20"
+          "position": "after-paragraph-20",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-sci-fi-b5698b292d/scene_6_1.png"
         }
       ]
     },
@@ -88,7 +94,8 @@
         {
           "description": "An older girl with long wavy dark brown hair (now streaked with silver), warm olive skin, and big dark brown eyes stands in a futuristic study aboard a carnival starship. Through the curved windows, multiple alien worlds are visible where the carnival has worked, each with different colored skies and unique healing structures. Holographic displays show quantum consciousness theories while musical notation floats in the air. The room contains artifacts from seventeen different worlds, and soft purple and cyan light emanates from advanced healing equipment. In the distance, other carnival ships sail through hyperspace toward their next destination.",
           "alt": "An older Sofia in her study aboard the carnival ship, surrounded by memories and artifacts from their healing work across the galaxy",
-          "position": "after-paragraph-18"
+          "position": "after-paragraph-18",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-sci-fi-b5698b292d/scene_7_1.png"
         }
       ]
     },
@@ -99,7 +106,8 @@
         {
           "description": "A girl with long wavy dark brown hair (streaked with silver), warm olive skin, and big dark brown eyes stands in a massive crystalline amphitheater that extends from a planet's surface into space. Hundreds of carnival members surround her with voices raised in harmony, creating visible waves of purple and cyan energy. Below them, the infected world shows empty cities with lights still burning, while the wrong-colored blue star burns coldly in the background. Memory fragments appear as ghostly holographic images floating through the air - faces, places, and moments that are being slowly erased.",
           "alt": "Sofia leads a healing symphony in a space-spanning amphitheater while memory fragments float like ghosts around the infected world",
-          "position": "after-paragraph-16"
+          "position": "after-paragraph-16",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-sci-fi-b5698b292d/scene_8_1.png"
         }
       ]
     },
@@ -110,7 +118,8 @@
         {
           "description": "A girl with long wavy dark brown hair (streaked with silver), warm olive skin, and big dark brown eyes stands in a high-tech laboratory before a massive machine that tears reality like a wound. Purple and cyan energy cascades from the device in chaotic patterns while she sings, her voice creating visible harmonic waves that slowly heal the quantum tears. Around her, the facility shows signs of abandonment - empty workstations, scattered research materials, and holographic displays frozen in time. Through the windows, the city beyond shows people beginning to move with purpose again as their memories return.",
           "alt": "Sofia sings to heal a reality-tearing memory storage machine while the city beyond slowly remembers itself",
-          "position": "after-paragraph-25"
+          "position": "after-paragraph-25",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-sci-fi-b5698b292d/scene_9_1.png"
         }
       ]
     }
