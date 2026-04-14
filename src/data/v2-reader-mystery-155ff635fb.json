@@ -12,7 +12,7 @@
   "wordCount": 1571,
   "readingLevel": "2nd-3rd Grade",
   "synopsis": "When a mysterious package appears on an abandoned carousel, Boo the friendly ghost must solve the puzzle of who sent it and why. The clues lead to an unexpected discovery about helping the earth heal, one small act at a time.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-155ff635fb/cover.png",
   "chapters": [
     {
       "title": "A Package in the Grass",
@@ -21,7 +21,8 @@
         {
           "description": "A cheerful little ghost with a soft glowing-white wispy body, round rosy-pink cheeks, and big kind blue eyes floats near weathered carousel horses in morning light. Dramatic shadows stretch across the scene. Film noir style with muted colors and one yellow accent color on the mysterious brown package.",
           "alt": "Boo discovers the mysterious package on the carousel",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-155ff635fb/scene_1_1.png"
         }
       ]
     },
@@ -32,7 +33,8 @@
         {
           "description": "A cheerful little ghost with a soft glowing-white wispy body, round rosy-pink cheeks, and big kind blue eyes holds an ornate compass that glows softly. Behind her, rows of sunflowers stretch across rocky soil. Film noir style with dramatic spotlighting and yellow accent color on the compass and sunflower centers.",
           "alt": "Boo follows the compass to discover the sunflower patch",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-155ff635fb/scene_2_1.png"
         }
       ]
     },
@@ -43,7 +45,8 @@
         {
           "description": "A cheerful little ghost with a soft glowing-white wispy body, round rosy-pink cheeks, and big kind blue eyes kneels by a pond surrounded by prairie dog holes. Several prairie dogs peek out, and one holds a tiny scroll. Film noir style with muted browns and greens, yellow accent color on the compass and reflected sky in the water.",
           "alt": "Boo meets the prairie dogs by the pond",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-155ff635fb/scene_3_1.png"
         }
       ]
     },
@@ -54,7 +57,8 @@
         {
           "description": "A cheerful little ghost with a soft glowing-white wispy body, round rosy-pink cheeks, and big kind blue eyes floats inside a cozy ticket booth filled with seed jars and garden tools. A girl with a seed-packet hat stands in the doorway holding seedlings. Film noir style with warm shadows and yellow accent color on the seed packets and plant labels.",
           "alt": "Boo meets Maya in the secret garden booth",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-155ff635fb/scene_4_1.png"
         }
       ]
     },
@@ -65,7 +69,8 @@
         {
           "description": "A cheerful little ghost with a soft glowing-white wispy body, round rosy-pink cheeks, and big kind blue eyes reaches toward a seedling held by Maya. Around them, the carousel is surrounded by growing plants and prairie dog holes. Film noir style with soft shadows and yellow accent color on the new seedlings and compass.",
           "alt": "Boo and Maya plan their garden restoration together",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-155ff635fb/scene_5_1.png"
         }
       ]
     },
