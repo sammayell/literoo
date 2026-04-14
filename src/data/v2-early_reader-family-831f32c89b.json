@@ -1,0 +1,322 @@
+{
+  "id": "v2-early_reader-family-831f32c89b",
+  "title": "Secrets in the Coral Garden",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "family"
+  ],
+  "wordCount": 600,
+  "readingLevel": "Grade 1-2",
+  "synopsis": "A small gnome discovers that solving his first mystery alone requires returning to the same coral reef again and again, each time noticing what a wise sea turtle sees but others miss.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-831f32c89b/cover.png",
+  "chapters": [
+    {
+      "title": "The Vanishing Shells",
+      "pages": [
+        {
+          "text": "Something peculiar was happening to the conch shells, and I could see it from my perch on the brain coral.",
+          "illustration": {
+            "description": "Cobble, a small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap, sitting on large brain coral formations in a bright coral reef. Warm yellows and oranges fill the underwater scene with small colorful fish swimming nearby. Empty spots where shells used to be are visible on the sandy bottom.",
+            "alt": "Cobble sitting on brain coral observing empty shell spots on the reef floor",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-831f32c89b/scene_1_1.png"
+          }
+        },
+        {
+          "text": "The little gnome below me—Cobble, they called him—stood with his hands on his stone-grey hips, staring at the same empty patches I'd been watching. His red cap bobbed as he shook his head stubbornly.",
+          "illustration": {
+            "description": "Cobble, a small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap, standing with hands on hips looking puzzled. The scene shows a cozy underwater kitchen-like coral reef with warm oranges and yellows, small fish swimming in groups, and scattered empty spots in the sand.",
+            "alt": "Cobble looking puzzled at empty shell spots in the coral reef",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-831f32c89b/scene_1_2.png"
+          }
+        },
+        {
+          "text": "\"Grandmother Coral's shells don't just walk away,\" Cobble muttered, his black eyes darting between a thousand small fish that swirled around the reef like living confetti. The angelfish agreed with tiny bubbles, though Cobble seemed too focused to notice their commentary.",
+          "illustration": {
+            "description": "Cobble, a small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap, surrounded by swirling schools of small colorful fish. The coral reef setting has warm yellows and oranges with steam-like bubble trails, creating a cozy kitchen atmosphere with coral formations resembling shelves and dining areas.",
+            "alt": "Cobble surrounded by swirling fish in the coral reef",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-831f32c89b/scene_1_3.png"
+          }
+        },
+        {
+          "text": "His family had left him to solve this mystery completely alone—his first time handling something so important. I watched him count the empty spots: one, two, three, four, five. Then he counted again, because counting twice is what nervous gnomes do.",
+          "illustration": {
+            "description": "Cobble, a small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap, pointing at empty circular patches in the sandy reef floor. The bright coral reef glows with warm yellows and oranges, small fish patrol nearby, and coral formations create a homey kitchen-like environment.",
+            "alt": "Cobble counting empty spots where shells used to be",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-831f32c89b/scene_1_4.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The First Return",
+      "pages": [
+        {
+          "text": "Cobble swam back to Grandmother Coral the next morning, but this time he brought a magnifying glass made from a polished scale. I noticed he examined the sand differently now—closer, more carefully.",
+          "illustration": {
+            "description": "Cobble, a small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap, holding a magnifying glass and peering closely at the sandy reef floor. The bright coral reef scene shows warm yellows and oranges with small fish swimming overhead, creating a cozy underwater kitchen atmosphere with coral shelves.",
+            "alt": "Cobble using a magnifying glass to examine the sandy reef floor",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-831f32c89b/scene_2_1.png"
+          }
+        },
+        {
+          "text": "What he found made his white beard twitch: tiny grooves in the sand, perfectly straight lines leading away from each empty spot. The parrotfish chattered about it, but Cobble was learning to make his own discoveries.",
+          "illustration": {
+            "description": "Cobble, a small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap, crouched down tracing small lines in the sand with his finger. Colorful parrotfish swim nearby in the bright coral reef with warm orange and yellow lighting, creating a homey family gathering atmosphere.",
+            "alt": "Cobble tracing mysterious lines in the sand near the coral reef",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-831f32c89b/scene_2_2.png"
+          }
+        },
+        {
+          "text": "\"Someone dragged them,\" Cobble announced to the reef, though he said it quietly, as if testing how the words sounded. A school of tang fish formed an arrow pointing deeper into the coral garden, but Cobble didn't notice their helpful geometry yet.",
+          "illustration": {
+            "description": "Cobble, a small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap, standing thoughtfully while a school of bright tang fish form an arrow shape pointing deeper into the coral reef. The scene shows warm yellows and oranges with small fish patrolling, coral formations like kitchen shelves and dining tables.",
+            "alt": "Tang fish forming an arrow shape while Cobble thinks",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-831f32c89b/scene_2_3.png"
+          }
+        },
+        {
+          "text": "But I saw something else: the way Cobble's stubborn little shoulders squared when he decided to follow those mysterious lines. He was beginning to understand that some problems require patience, not just determination.",
+          "illustration": {
+            "description": "Cobble, a small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap, walking determinedly along a sandy path between coral formations. The bright coral reef glows with warm yellows and oranges, small fish swim in organized patrols, creating a cozy family kitchen atmosphere with steam-like bubble trails.",
+            "alt": "Cobble walking determinedly through the coral reef following a trail",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-831f32c89b/scene_2_4.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Second Return",
+      "pages": [
+        {
+          "text": "On his third visit to the same spot, Cobble brought a notebook made from kelp pages. This time, I watched him notice what the thousand small fish had been trying to show him all along.",
+          "illustration": {
+            "description": "Cobble, a small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap, holding a kelp notebook and looking up at organized schools of small fish. The bright coral reef scene shows warm yellows and oranges with fish swimming in distinct patterns, coral formations resembling a cozy kitchen with natural shelves.",
+            "alt": "Cobble with a notebook observing organized patterns of fish movement",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-831f32c89b/scene_3_1.png"
+          }
+        },
+        {
+          "text": "The fish weren't just swimming randomly—they were swimming in shifts, like tiny guards. Morning fish, afternoon fish, evening fish. Each group knew exactly when to take over from the others.",
+          "illustration": {
+            "description": "Cobble, a small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap, watching three distinct groups of colorful small fish in different sections of the bright coral reef. Warm oranges and yellows light the scene, with coral formations creating a family dining atmosphere and steam-like bubbles rising.",
+            "alt": "Three different groups of fish in organized patrol patterns around the reef",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-831f32c89b/scene_3_2.png"
+          }
+        },
+        {
+          "text": "\"But there's a gap,\" Cobble whispered, his black eyes growing wide. \"Between the afternoon fish and the evening fish—a gap when no one's watching.\" He wrote this down with a piece of sea chalk, proud of his detective work.",
+          "illustration": {
+            "description": "Cobble, a small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap, writing in his kelp notebook with sea chalk. The bright coral reef shows a gap in the fish patrol patterns, with warm yellows and oranges creating a cozy kitchen atmosphere among the coral formations.",
+            "alt": "Cobble writing in his notebook while observing a gap in fish patrol patterns",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-831f32c89b/scene_3_3.png"
+          }
+        },
+        {
+          "text": "What Cobble didn't see yet was the hermit crab watching from behind a sea fan, waiting for exactly that gap. But I knew he would figure it out—stubborn gnomes always do, eventually.",
+          "illustration": {
+            "description": "Cobble, a small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap, studying his notes while a hermit crab peeks out from behind a colorful sea fan. The bright coral reef glows with warm oranges and yellows, small fish swim in the background, creating a homey family gathering atmosphere.",
+            "alt": "A hermit crab hiding behind a sea fan while Cobble studies his notes",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-831f32c89b/scene_3_4.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Mystery Solved",
+      "pages": [
+        {
+          "text": "Cobble returned to Grandmother Coral at exactly the right moment—during the gap between fish patrols. This time, he brought his grandfather's old diving bell and his own growing confidence.",
+          "illustration": {
+            "description": "Cobble, a small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap, wearing a small diving bell helmet and swimming toward the coral reef. The scene shows the transition between fish groups with warm yellows and oranges, creating a cozy underwater kitchen atmosphere with coral shelves and tables.",
+            "alt": "Cobble wearing a diving bell approaching the reef during the fish patrol gap",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-831f32c89b/scene_4_1.png"
+          }
+        },
+        {
+          "text": "That's when he saw Harold the hermit crab emerge from his hiding spot, dragging Grandmother's largest conch shell toward his collection cave. The hermit crab moved with the precision of someone who had timed this operation perfectly.",
+          "illustration": {
+            "description": "Cobble, a small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap, watching Harold the hermit crab dragging a large conch shell across the sandy reef floor. The bright coral reef shows warm oranges and yellows with a cave entrance visible in the background, creating a homey family scene.",
+            "alt": "Harold the hermit crab dragging a conch shell while Cobble watches",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-831f32c89b/scene_4_2.png"
+          }
+        },
+        {
+          "text": "\"Harold!\" Cobble called out, his voice bubbling with understanding rather than anger. \"You're not stealing—you're collecting for your shell museum!\" The kindness in the little gnome's voice made Harold stop and turn around.",
+          "illustration": {
+            "description": "Cobble, a small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap, approaching Harold the hermit crab with an understanding expression. The bright coral reef scene shows warm yellows and oranges with small fish returning to patrol, coral formations creating a cozy kitchen atmosphere with steam-like bubbles.",
+            "alt": "Cobble approaching Harold with understanding rather than anger",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-831f32c89b/scene_4_3.png"
+          }
+        },
+        {
+          "text": "By the time the evening fish arrived for their shift, Cobble and Harold had worked out a sharing system: Harold could borrow shells for his museum, but he had to return them for the reef tours. Both of them seemed pleased with this very grown-up solution.",
+          "illustration": {
+            "description": "Cobble, a small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap, shaking hands with Harold the hermit crab while evening fish swim in organized patrols around them. The bright coral reef glows with warm yellows and oranges, coral formations resembling a family dining table where an agreement has been reached.",
+            "alt": "Cobble and Harold shaking hands while evening fish patrol around them",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-831f32c89b/scene_4_4.png"
+          }
+        },
+        {
+          "text": "From my perch on the brain coral, I watched the little gnome swim home with his notebook full of observations and his first mystery solved completely alone. The thousand small fish seemed to approve—they swirled around him like a celebration.",
+          "illustration": {
+            "description": "Cobble, a small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap, swimming away from the coral reef surrounded by swirling schools of small colorful fish. The bright coral reef scene shows warm oranges and yellows with coral formations like kitchen shelves and dining areas, creating a celebratory family gathering atmosphere.",
+            "alt": "Cobble swimming home surrounded by celebrating fish",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-831f32c89b/scene_4_5.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "illustrationStyle": "cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food",
+    "themes": [
+      "independence",
+      "problem-solving",
+      "observation",
+      "kindness"
+    ],
+    "vocabulary": [
+      "magnifying",
+      "precision",
+      "observation",
+      "investigation",
+      "patience"
+    ],
+    "lessonTopics": [
+      "scientific observation",
+      "pattern recognition",
+      "problem-solving methods"
+    ],
+    "coverPrompt": {
+      "description": "Cobble, a small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap, standing among bright coral formations with small colorful fish swimming around him in warm yellows and oranges, cozy underwater kitchen-like atmosphere with coral shelves and sea anemone tables",
+      "alt": "A gnome exploring a bright coral reef underwater"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Cobble find when he used his magnifying glass?",
+        "choices": [
+          "Tiny grooves in the sand",
+          "More missing shells",
+          "A hidden treasure"
+        ],
+        "correctIndex": 0,
+        "explanation": "Cobble discovered tiny straight lines in the sand that showed someone had dragged the shells away."
+      },
+      {
+        "id": "q2",
+        "question": "What did the thousand small fish do that helped solve the mystery?",
+        "choices": [
+          "They sang songs",
+          "They swam in patrol shifts",
+          "They hid the shells"
+        ],
+        "correctIndex": 1,
+        "explanation": "The fish swam in organized shifts like guards, and there was a gap between shifts when Harold could take the shells."
+      },
+      {
+        "id": "q3",
+        "question": "Who was really taking the shells?",
+        "choices": [
+          "Harold the hermit crab",
+          "The angelfish",
+          "Another gnome"
+        ],
+        "correctIndex": 0,
+        "explanation": "Harold the hermit crab was taking the shells for his museum collection."
+      },
+      {
+        "id": "q4",
+        "question": "How did Cobble solve the problem with Harold?",
+        "choices": [
+          "He told Harold to stop",
+          "He made a sharing agreement",
+          "He moved the shells"
+        ],
+        "correctIndex": 1,
+        "explanation": "Cobble worked out a sharing system where Harold could borrow shells but had to return them for reef tours."
+      },
+      {
+        "id": "q5",
+        "question": "What made this mystery special for Cobble?",
+        "choices": [
+          "It was underwater",
+          "He solved it completely alone",
+          "It involved his grandmother"
+        ],
+        "correctIndex": 1,
+        "explanation": "This was Cobble's first time handling something important completely alone, which made him feel grown-up."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "magnifying",
+            "distractors": [
+              "looking",
+              "magic"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "grooves",
+            "distractors": [
+              "holes",
+              "bumps"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 6,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "shifts",
+            "distractors": [
+              "circles",
+              "races"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "watching",
+            "distractors": [
+              "swimming",
+              "sleeping"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "cobble"
+}

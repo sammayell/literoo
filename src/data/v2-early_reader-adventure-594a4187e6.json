@@ -1,0 +1,219 @@
+{
+  "id": "v2-early_reader-adventure-594a4187e6",
+  "title": "Under the Carnival Lights",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "adventure",
+    "animals"
+  ],
+  "wordCount": 433,
+  "readingLevel": "K-1",
+  "synopsis": "Otto the baby otter uses his keen animal senses to solve a case of mistaken identity at a traveling carnival, noticing clues that humans miss while navigating colorful attractions and curious strangers.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-594a4187e6/cover.png",
+  "chapters": [
+    {
+      "title": "Six O'Clock Sharp",
+      "pages": [
+        {
+          "text": "The carnival lights buzz and flicker to life, casting rainbow shadows across the dusty ground. I smell popcorn butter and cotton candy sugar swirling together in the evening air. My whiskers twitch as I notice something strange - a man in a red striped vest keeps looking at me and whispering to other grown-ups. His finger points my way three times. I count them. One. Two. Three. Why does he keep staring at this little otter?",
+          "illustration": {
+            "description": "A chubby baby otter with soft chestnut-brown fur, sparkling dark eyes, tiny paws, and floppy whiskers stands among carnival lights turning on at dusk. Treasure map style with aged parchment, compass roses, dotted trails, sepia tones, jewel accents highlighting the carnival lights, bold adventure cartography showing the carnival layout from above.",
+            "alt": "Otto the baby otter watching carnival lights turn on while a man in a striped vest points at him",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-594a4187e6/scene_1_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Seven O'Clock Findings",
+      "pages": [
+        {
+          "text": "The man in the striped vest walks over with a big smile. 'There you are! We've been looking everywhere for you!' he says. I smell excitement and worry mixed together on his clothes. But I notice something important - he's looking at my fur, not my eyes. Animals always look at eyes first. Humans look at fur and clothes. I tilt my head and my whiskers sense vibrations from his voice. He thinks I'm someone else. But who?",
+          "illustration": {
+            "description": "A chubby baby otter with soft chestnut-brown fur, sparkling dark eyes, tiny paws, and floppy whiskers faces a man in a red striped vest. Treasure map style illustration on aged parchment with compass roses, dotted trails showing the otter's path through carnival booths, sepia tones with jewel accents, adventure cartography style with detailed carnival game stands.",
+            "alt": "Otto looking puzzled as the man in the striped vest approaches him with excitement",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-594a4187e6/scene_2_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Eight O'Clock Clues",
+      "pages": [
+        {
+          "text": "Now three more carnival workers surround me. They smell like kettle corn and metal from the rides. 'The show starts in one hour,' says a woman with jingling bracelets. 'Your costume looks perfect!' I look down at my own chestnut-brown fur. This isn't a costume - this is me! I notice a poster flapping against a fence nearby. The wind carries its scent: fresh ink and paper. My dark eyes spot something that makes my whiskers quiver with understanding.",
+          "illustration": {
+            "description": "A chubby baby otter with soft chestnut-brown fur, sparkling dark eyes, tiny paws, and floppy whiskers surrounded by three carnival workers near a flapping poster. Treasure map style with aged parchment background, compass roses, dotted trails leading to the poster, sepia tones with jewel accents on the workers' costumes, hand-drawn adventure cartography showing carnival pathways.",
+            "alt": "Otto surrounded by carnival workers while looking at a poster blowing in the wind",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-594a4187e6/scene_3_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Nine O'Clock Discovery",
+      "pages": [
+        {
+          "text": "I waddle closer to the poster on my tiny paws. The paper smells like the printing truck that left an hour ago. 'OZZIE THE OTTER - STAR OF TONIGHT'S WATER SHOW!' it says in big red letters. Below the words is a picture of an otter who looks exactly like me - same chestnut fur, same dark eyes, same floppy whiskers. But I notice what the humans missed: this otter has a small white patch behind his left ear. I touch my own ear with my paw. No white patch. I'm not Ozzie!",
+          "illustration": {
+            "description": "A chubby baby otter with soft chestnut-brown fur, sparkling dark eyes, tiny paws, and floppy whiskers examines a poster showing another otter. Treasure map style illustration on aged parchment with compass roses, dotted trails connecting Otto to the poster, sepia tones with jewel accents highlighting the poster details, adventure cartography style showing the discovery moment.",
+            "alt": "Otto looking at a poster of Ozzie the Otter and comparing himself to the picture",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-594a4187e6/scene_4_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Ten O'Clock Truth",
+      "pages": [
+        {
+          "text": "I hear splashing from behind the big tent. My sensitive ears catch the sound of an otter diving - but it's not me! I follow the sound with my nose, past the game booths that smell like prizes and sawdust. There, practicing water tricks in a tank, is the real Ozzie. He has the white patch behind his ear, just like the poster. I chirp hello. He looks relieved to see me. 'Everyone's looking for you!' I tell him. 'And everyone thinks I'm you!' We both laugh our otter laughs. Sometimes the best discoveries happen when you put down distractions and really notice the world around you.",
+          "illustration": {
+            "description": "A chubby baby otter with soft chestnut-brown fur, sparkling dark eyes, tiny paws, and floppy whiskers meets another otter with a white ear patch by a water tank. Treasure map style with aged parchment, compass roses, dotted trails showing both otters' paths converging, sepia tones with jewel accents on the water splashes, bold adventure cartography showing the reunion scene.",
+            "alt": "Otto meeting the real Ozzie the Otter by the practice tank behind the carnival tent",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-594a4187e6/scene_5_1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "observation",
+      "identity",
+      "problem-solving",
+      "digital wellness"
+    ],
+    "vocabulary": [
+      "carnival",
+      "whiskers",
+      "vibrations",
+      "discovery",
+      "sensitive"
+    ],
+    "teachingPoints": [
+      "Using senses to solve problems",
+      "Paying attention to details",
+      "The value of noticing the world around us"
+    ],
+    "coverPrompt": {
+      "description": "A chubby baby otter with soft chestnut-brown fur, sparkling dark eyes, tiny paws, and floppy whiskers stands beneath glowing carnival lights. Treasure map style illustration with aged parchment background, compass roses in corners, dotted trails leading to carnival tents, sepia tones with jewel-bright carnival colors, hand-drawn cartography style showing ferris wheels and game booths.",
+      "alt": "Otto the baby otter at a carnival entrance with colorful lights overhead"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Otto notice that the humans missed?",
+        "choices": [
+          "The white patch behind Ozzie's ear",
+          "The carnival lights",
+          "The popcorn smell"
+        ],
+        "correctIndex": 0,
+        "explanation": "Otto's sharp animal senses helped him notice the small white patch that proved he wasn't the same otter as in the poster."
+      },
+      {
+        "id": "q2",
+        "question": "Why did the carnival workers think Otto was Ozzie?",
+        "choices": [
+          "They both had the same name",
+          "They looked very similar",
+          "They were both wearing costumes"
+        ],
+        "correctIndex": 1,
+        "explanation": "Both otters had the same chestnut fur, dark eyes, and floppy whiskers, making them look almost identical."
+      },
+      {
+        "id": "q3",
+        "question": "What time did the carnival lights first turn on?",
+        "choices": [
+          "Six o'clock",
+          "Seven o'clock",
+          "Eight o'clock"
+        ],
+        "correctIndex": 0,
+        "explanation": "The story begins at six o'clock sharp when the carnival lights buzz and flicker to life."
+      },
+      {
+        "id": "q4",
+        "question": "How did Otto find the real Ozzie?",
+        "choices": [
+          "He saw a poster",
+          "He followed the sound of splashing",
+          "He asked the carnival workers"
+        ],
+        "correctIndex": 1,
+        "explanation": "Otto used his sensitive otter ears to follow the splashing sound to find Ozzie practicing his water show."
+      },
+      {
+        "id": "q5",
+        "question": "What helped Otto solve the mystery?",
+        "choices": [
+          "Using his animal senses",
+          "Reading the poster",
+          "Asking for help"
+        ],
+        "correctIndex": 0,
+        "explanation": "Otto's keen animal senses - his nose, ears, and eyes - helped him notice clues the humans missed."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "whiskers",
+            "distractors": [
+              "paws",
+              "ears"
+            ]
+          },
+          {
+            "wordIndex": 25,
+            "correctWord": "staring",
+            "distractors": [
+              "walking",
+              "running"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "poster",
+            "distractors": [
+              "sign",
+              "banner"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "understanding",
+            "distractors": [
+              "confusion",
+              "worry"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "otto"
+}
