@@ -1,0 +1,242 @@
+{
+  "id": "v2-early_reader-fairy-tales-e3e330fec5",
+  "title": "Messages from the Ice",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "fairy-tales"
+  ],
+  "wordCount": 924,
+  "readingLevel": "early_reader",
+  "synopsis": "When the Heat Stone that keeps their floating iceberg home from melting suddenly stops working, Emma exchanges urgent notes with her animal friends as they race to find a solution before their icy world disappears beneath the waves.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-e3e330fec5/cover.png",
+  "chapters": [
+    {
+      "title": "The Heat Stone Goes Dark",
+      "pages": [
+        {
+          "text": "The blue light under our iceberg just went out and now the ice is starting to melt around the edges and everything feels wrong wrong wrong!\n\nField Note #1 - Emergency Log\nLocation: Center of the Floating Iceberg\nTime: Dawn\nObserver: Emma\n\nThe Heat Stone stopped glowing! The stone that keeps our home warm and solid just died and I can hear the ice cracking like breaking glass and the cold blue sea is lapping higher than before. My breath makes clouds in the suddenly freezing air and my fingers shake as I write this.\n\nBear left a note by my door this morning - his paw prints are still wet in the melting snow.",
+          "illustration": {
+            "description": "A golden age illustration showing a girl with straight blonde hair in a ponytail, fair skin, bright blue eyes, and rosy cheeks kneeling beside a large dark crystal embedded in the ice. The crystal has gone from glowing blue to completely black. Cracks spread through the ice around it. The scene is done in Arthur Rackham style with detailed pen work and watercolor washes, ornate decorative borders frame this urgent moment.",
+            "alt": "Emma examining the dark Heat Stone with ice cracking around it",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-e3e330fec5/scene_1_1.png"
+          },
+          "layout": "full-page"
+        },
+        {
+          "text": "Bear's Note (left under my door):\n\nEmma! Emma! The ice shakes under my paws and chunks fall into the water with big splashes! The Heat Stone is cold as winter wind and I tried pushing it with my nose but nothing happened and now my nose is frozen! The seals are barking warnings from the water edges where the ice gets thin and Fox Family is running in circles because their den is flooding! \n\nCan you fix it? You know about things that glow and hum and keep us safe!\n\n- Bear (my paws are too cold to write more)",
+          "illustration": {
+            "description": "A golden age illustration showing a large white polar bear leaving a note outside a small ice dwelling. In the background, a girl with straight blonde hair in a ponytail, fair skin, bright blue eyes, and rosy cheeks can be seen through an ice window. The bear's breath creates frost clouds in the cold air. Done in Arthur Rackham style with detailed pen work and watercolor washes, ornate decorative borders frame this scene of urgency.",
+            "alt": "Bear delivering an urgent note to Emma's ice home",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-e3e330fec5/scene_1_2.png"
+          },
+          "layout": "full-page"
+        },
+        {
+          "text": "My Reply Note (tied to Bear's collar):\n\nDear Bear,\n\nI don't know how to fix Heat Stones but I'll try everything! Meet me at the crystal cave and bring Fox Family and tell the Seals to come too because we need everyone's ideas and we need them NOW before our whole iceberg melts into the sea!\n\nThe ice under my feet feels different - softer and more slippery like it's giving up!\n\n- Emma\n\nP.S. Wrap your paws in kelp to keep them warm!",
+          "illustration": {
+            "description": "A golden age illustration showing a girl with straight blonde hair in a ponytail, fair skin, bright blue eyes, and rosy cheeks hastily writing a note while ice chunks fall around her into the dark blue sea. Her hand moves quickly across the paper as steam rises from the warming ice beneath her feet. Done in Arthur Rackham style with detailed pen work and watercolor washes, ornate decorative borders frame this scene of desperate communication.",
+            "alt": "Emma writing an urgent reply note as ice melts around her",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-e3e330fec5/scene_1_3.png"
+          },
+          "layout": "full-page"
+        }
+      ]
+    },
+    {
+      "title": "Ideas in the Crystal Cave",
+      "pages": [
+        {
+          "text": "Research Log #2 - Crystal Cave Emergency Meeting\nAttendees: Emma, Bear, Fox Family (3), Seal Colony (7)\nUrgency Level: EXTREME\n\nEveryone came! Bear's idea was to roar at the Heat Stone until it got scared and started working again but Fox Father said magical stones don't have ears and Fox Mother suggested we find another stone exactly like it but where would we look in all this ocean?\n\nSeal Captain (the one with the scarred flipper) slapped the cave floor with excitement and sent this message:",
+          "illustration": {
+            "description": "A golden age illustration showing a girl with straight blonde hair in a ponytail, fair skin, bright blue eyes, and rosy cheeks sitting in a crystal cave with a polar bear, three arctic foxes, and several seals. The cave walls sparkle with ice crystals but water drips ominously from the ceiling. Everyone looks worried but determined. Done in Arthur Rackham style with detailed pen work and watercolor washes, ornate decorative borders frame this urgent gathering.",
+            "alt": "Emma and her animal friends meeting in the crystal cave",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-e3e330fec5/scene_2_1.png"
+          },
+          "layout": "full-page"
+        },
+        {
+          "text": "Seal Captain's Message (barked and translated by Fox Father who speaks Seal):\n\n\"Deep under the iceberg! Deep where the fish swim in dark circles! I saw another stone just like the Heat Stone but smaller and it glows green not blue and maybe maybe maybe if we bring it up to touch the big stone they will wake each other up like sleeping friends!\"\n\nMy Field Notes: This could work! Some crystals need partner crystals to activate! But the deep water is so cold and dark and far from air to breathe!\n\nFox Mother left this note on my research papers:",
+          "illustration": {
+            "description": "A golden age illustration showing a girl with straight blonde hair in a ponytail, fair skin, bright blue eyes, and rosy cheeks listening intently as an arctic fox translates the barks of a large seal with a scarred flipper. The seal's flippers gesture excitedly while water continues to drip in the crystal cave. Done in Arthur Rackham style with detailed pen work and watercolor washes, ornate decorative borders frame this moment of communication across species.",
+            "alt": "Seal Captain communicating through Fox Father to Emma",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-e3e330fec5/scene_2_2.png"
+          },
+          "layout": "full-page"
+        },
+        {
+          "text": "Fox Mother's Note:\n\nSweet Emma, we foxes are too small and Bear is too big but you swim like a seal pup and hold your breath like a whale calf! Fox Father and I will make you a kelp rope to tie around your waist so we can pull you back up fast and the Seals will swim down first to show you exactly where the green stone waits!\n\nBut hurry hurry hurry because our paws are getting wet in our own den!\n\n- Fox Mother (writing with her tail dipped in fish ink)\n\nMy Decision Note (posted for everyone to see):\n\nI'M GOING DOWN! Meet at the diving hole in ten minutes! Everyone help make the kelp rope strong and long!\n\n- Emma the Deep Swimmer",
+          "illustration": {
+            "description": "A golden age illustration showing a girl with straight blonde hair in a ponytail, fair skin, bright blue eyes, and rosy cheeks reading a note written by an arctic fox whose tail is dipped in dark ink. Around them, the other animals are already gathering kelp and preparing for the dangerous dive. Water pools at their feet as the ice continues melting. Done in Arthur Rackham style with detailed pen work and watercolor washes, ornate decorative borders frame this moment of brave decision-making.",
+            "alt": "Emma reading Fox Mother's note while animals prepare for the dive",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-e3e330fec5/scene_2_3.png"
+          },
+          "layout": "full-page"
+        }
+      ]
+    },
+    {
+      "title": "The Deep Dive Discovery",
+      "pages": [
+        {
+          "text": "Final Field Notes - The Dive That Saved Our Home\nDepth: Deeper than I've ever gone\nTemperature: So cold my thoughts moved slowly\nMission Status: SUCCESS!\n\nThe Seals led me down down down through water so dark blue it looked black and my lungs burned for air but I saw it! The green stone glowing like an underwater star caught in the ice roots of our iceberg home!\n\nI grabbed it and the Seals pushed me up while Bear and Fox Family pulled the kelp rope and I shot out of the water gasping and shivering but holding the green stone tight!\n\nBear's Victory Note (scribbled in melting snow):",
+          "illustration": {
+            "description": "A golden age illustration showing a girl with straight blonde hair in a ponytail, fair skin, bright blue eyes, and rosy cheeks diving deep underwater, reaching for a glowing green crystal embedded in the underwater roots of the iceberg. Seals swim around her as guides, and a kelp rope trails upward. The water is dark blue-black with the green stone providing the only light. Done in Arthur Rackham style with detailed pen work and watercolor washes, ornate decorative borders frame this underwater adventure.",
+            "alt": "Emma diving underwater to retrieve the glowing green crystal",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-e3e330fec5/scene_3_1.png"
+          },
+          "layout": "full-page"
+        },
+        {
+          "text": "\"SHE DID IT! EMMA DID IT! THE STONES ARE TOUCHING AND THEY'RE BOTH GLOWING AND THE ICE STOPPED MELTING AND OUR HOME IS SAFE!\"\n\n- Bear (too excited to write neatly)\n\nFox Family's Thank You Letter:\n\nDearest Brave Emma,\n\nWhen you pressed the green stone against the blue Heat Stone they sang to each other in crystal voices and light filled every crack and corner of our iceberg! The ice grew strong again and our den dried out and now we're all safe because you dove deeper than fear!\n\nYou're our family now and forever!\n\n- Fox Father, Fox Mother, and Fox Kit",
+          "illustration": {
+            "description": "A golden age illustration showing a girl with straight blonde hair in a ponytail, fair skin, bright blue eyes, and rosy cheeks holding two glowing crystals together - one blue and one green. Brilliant light radiates from where they touch, and all around her the polar bear, fox family, and seals celebrate as the iceberg becomes solid and strong again. Done in Arthur Rackham style with detailed pen work and watercolor washes, ornate decorative borders frame this triumphant moment.",
+            "alt": "Emma bringing the two crystals together as her animal friends celebrate",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-e3e330fec5/scene_3_2.png"
+          },
+          "layout": "full-page"
+        },
+        {
+          "text": "My Final Research Notes:\n\nThe Heat Stone needed its friend to wake up! Just like how we all needed each other to solve this emergency! Bear's strength, Fox Family's cleverness, Seal Captain's deep-water knowledge, and all of us working together faster than the melting ice!\n\nOur floating iceberg home is safe again and glowing brighter than ever with both stones humming their crystal song! The ice sparkles solid and strong beneath our feet and the cold blue sea carries us gently toward new adventures!\n\nSigned: Emma, Official Iceberg Scientist and Deep Diver\nWitnessed by: Our whole wonderful floating family!",
+          "illustration": {
+            "description": "A golden age illustration showing a girl with straight blonde hair in a ponytail, fair skin, bright blue eyes, and rosy cheeks writing in a journal while surrounded by her animal family on their restored iceberg home. Both crystals glow warmly in the background, the polar bear, foxes, and seals are all peacefully gathered around Emma, and their iceberg floats serenely on the cold blue sea under a starry sky. Done in Arthur Rackham style with detailed pen work and watercolor washes, ornate decorative borders frame this peaceful ending.",
+            "alt": "Emma writing her final notes surrounded by her animal family on their safe iceberg home",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-e3e330fec5/scene_3_3.png"
+          },
+          "layout": "full-page"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "author": "Anonymous",
+    "illustrator": "Generated",
+    "publisher": "StoryForge",
+    "publicationYear": 2024,
+    "isbn": "978-0-000-00000-0",
+    "language": "en",
+    "series": null,
+    "keywords": [
+      "floating iceberg",
+      "animal friends",
+      "crystals",
+      "cooperation",
+      "underwater adventure",
+      "arctic animals",
+      "found family"
+    ],
+    "coverPrompt": {
+      "description": "A golden age illustration showing a girl with straight blonde hair in a ponytail, fair skin, bright blue eyes, and rosy cheeks standing on a white iceberg floating in cold blue sea waters. Around her are various arctic animals - a polar bear, seals, and arctic foxes. The iceberg glows with a mysterious inner light. Done in Arthur Rackham style with detailed pen work and watercolor washes, ornate decorative borders frame the enchanted scene.",
+      "alt": "Emma standing on a magical glowing iceberg with her animal friends"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What stopped working at the beginning of the story?",
+        "choices": [
+          "The Heat Stone",
+          "The ice cave",
+          "Emma's house"
+        ],
+        "correctIndex": 0,
+        "explanation": "The Heat Stone that kept the iceberg warm and solid stopped glowing, causing the ice to start melting."
+      },
+      {
+        "id": "q2",
+        "question": "Who discovered where to find the green stone?",
+        "choices": [
+          "Bear",
+          "Seal Captain",
+          "Fox Mother"
+        ],
+        "correctIndex": 1,
+        "explanation": "Seal Captain found the green stone deep under the iceberg and told the others through Fox Father's translation."
+      },
+      {
+        "id": "q3",
+        "question": "How did Emma breathe underwater during the deep dive?",
+        "choices": [
+          "She held her breath",
+          "She used a breathing tube",
+          "The seals gave her air"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emma held her breath during the dangerous dive, even though her lungs burned for air."
+      },
+      {
+        "id": "q4",
+        "question": "What happened when the two stones touched?",
+        "choices": [
+          "They exploded",
+          "They sang and glowed together",
+          "They turned to ice"
+        ],
+        "correctIndex": 1,
+        "explanation": "When Emma pressed the green stone against the blue Heat Stone, they sang to each other and both began glowing, saving the iceberg."
+      },
+      {
+        "id": "q5",
+        "question": "How did the animals help Emma get back to the surface?",
+        "choices": [
+          "They made a kelp rope and pulled her up",
+          "They built an ice ladder",
+          "She swam up alone"
+        ],
+        "correctIndex": 0,
+        "explanation": "Fox Family made a kelp rope that Bear and the others used to pull Emma back to the surface after she found the green stone."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "melting",
+            "distractors": [
+              "freezing",
+              "growing"
+            ]
+          },
+          {
+            "wordIndex": 23,
+            "correctWord": "cracking",
+            "distractors": [
+              "singing",
+              "glowing"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "deep",
+            "distractors": [
+              "shallow",
+              "warm"
+            ]
+          },
+          {
+            "wordIndex": 28,
+            "correctWord": "green",
+            "distractors": [
+              "red",
+              "purple"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "emma"
+}
