@@ -13,7 +13,7 @@
   "wordCount": 965,
   "readingLevel": "Kindergarten-1st Grade",
   "synopsis": "Mochi the shiba inu lives inside a snow globe where she's the best dumpling maker. When a legendary dumpling dragon arrives with amazing skills, Mochi must learn that friendship might be more important than being the best. A countdown to midnight brings magical surprises in this whimsical tale of competition and cooperation.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-84ebb2ebe6/cover.png",
   "chapters": [
     {
       "title": "Five",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "Mochi, a round chubby shiba inu puppy with cream-and-tan fur, perky triangular ears, a curly tail, and smiling brown eyes, stands in a tiny kitchen inside a snow globe. She's dropping a wooden spoon while looking startled. The kitchen has miniature pots, steaming bamboo steamers, and tiny dumpling-making tools. Snow swirls outside the curved glass walls. Art style: exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel.",
             "alt": "Mochi the shiba inu dropping her cooking spoon in her tiny snow globe kitchen",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-84ebb2ebe6/scene_1_1.png"
           }
         },
         {
@@ -31,7 +32,8 @@
           "illustration": {
             "description": "Mochi, a round chubby shiba inu puppy with cream-and-tan fur, perky triangular ears, a curly tail, and smiling brown eyes, holds a glowing letter while standing near the curved glass wall of the snow globe. Her expression shows worry and her tail droops. Giant human fingers are visible through the glass outside. The letter glows with magical text. Art style: exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel.",
             "alt": "Worried Mochi reading a magical letter about the Great Dumpling Dragon",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-84ebb2ebe6/scene_1_2.png"
           }
         }
       ]
@@ -44,7 +46,8 @@
           "illustration": {
             "description": "Mochi, a round chubby shiba inu puppy with cream-and-tan fur, perky triangular ears, a curly tail, and smiling brown eyes, talks to Mrs. Hedgehog who is watering upside-down flowers that grow toward the bottom of the snow globe. Mochi looks worried while Mrs. Hedgehog seems calm. Snow swirls around them in the magical curved world. Art style: exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel.",
             "alt": "Mochi talking to Mrs. Hedgehog about the dragon while hedgehog waters upside-down flowers",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-84ebb2ebe6/scene_2_1.png"
           }
         },
         {
@@ -52,7 +55,8 @@
           "illustration": {
             "description": "Mochi, a round chubby shiba inu puppy with cream-and-tan fur, perky triangular ears, a curly tail, and smiling brown eyes, sits sadly next to a magical clock with four hands. The clock is tall and ornate, glowing with mystical energy. Each hand points to different things - feelings, weather, magic, and time. Snow continues to fall around them in the curved glass world. Art style: exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel.",
             "alt": "Sad Mochi sitting by the magical four-handed Midnight Clock",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-84ebb2ebe6/scene_2_2.png"
           }
         }
       ]
@@ -65,7 +69,8 @@
           "illustration": {
             "description": "Mochi, a round chubby shiba inu puppy with cream-and-tan fur, perky triangular ears, a curly tail, and smiling brown eyes, works frantically in her kitchen, surrounded by perfectly folded dumplings with exactly seventeen pleats each. Steam rises from bamboo steamers. Her expression shows determination mixed with worry. Dumpling ingredients are scattered around the tiny kitchen. Art style: exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel.",
             "alt": "Mochi making dumplings with seventeen pleats while looking worried about the competition",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-84ebb2ebe6/scene_3_1.png"
           }
         },
         {
@@ -73,7 +78,8 @@
           "illustration": {
             "description": "Mochi, a round chubby shiba inu puppy with cream-and-tan fur, perky triangular ears, a curly tail, and smiling brown eyes, forces a wobbly smile while surrounded by excited neighbors - Mr. Rabbit, Ms. Turtle, and three identical Mouse Brothers. All the animals look thrilled except Mochi who appears worried. They're gathered in her cozy dumpling shop. Art style: exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel.",
             "alt": "Mochi trying to smile while her excited neighbors talk about the dragon",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-84ebb2ebe6/scene_3_2.png"
           }
         }
       ]
@@ -86,7 +92,8 @@
           "illustration": {
             "description": "Mochi, a round chubby shiba inu puppy with cream-and-tan fur, perky triangular ears, a curly tail, and smiling brown eyes, walks alone on a glowing path through the magical snow globe town. She passes whimsical shops - the Backwards Library, the Wishing Fountain, and a shop with bottles of glowing laughter. She looks very small and sad. Snow falls gently around her. Art style: exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel.",
             "alt": "Lonely Mochi walking through the magical snow globe town at night",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-84ebb2ebe6/scene_4_1.png"
           }
         },
         {
@@ -94,7 +101,8 @@
           "illustration": {
             "description": "The Great Dumpling Dragon appears in the center of the snow globe - a small, shiny silver dragon with tiny rapidly-fluttering wings, surrounded by golden light and sparkles. Mochi, a round chubby shiba inu puppy with cream-and-tan fur, perky triangular ears, a curly tail, and smiling brown eyes, looks up in amazement from below. The dragon looks friendly rather than scary. Art style: exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel.",
             "alt": "The small, friendly Great Dumpling Dragon appearing in golden light while Mochi watches from below",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-84ebb2ebe6/scene_4_2.png"
           }
         }
       ]
@@ -107,7 +115,8 @@
           "illustration": {
             "description": "Bao the Great Dumpling Dragon, small and silver with soap-bubble scales and tiny wings, stands next to Mochi, a round chubby shiba inu puppy with cream-and-tan fur, perky triangular ears, a curly tail, and smiling brown eyes. Bao is about cat-sized and has a big friendly smile. They're standing on the glowing path with the Midnight Clock visible in the background. Art style: exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel.",
             "alt": "Small friendly dragon Bao meeting surprised Mochi on the glowing path",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-84ebb2ebe6/scene_5_1.png"
           }
         },
         {
@@ -115,7 +124,8 @@
           "illustration": {
             "description": "Bao the small silver dragon with tiny wings gestures enthusiastically while explaining to Mochi, a round chubby shiba inu puppy with cream-and-tan fur, perky triangular ears, a curly tail, and smiling brown eyes, whose tail has started wagging slightly. Around them float magical images showing the Cloud Kingdom, Underground Cities, and Floating Islands. Art style: exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel.",
             "alt": "Dragon Bao enthusiastically telling Mochi about her famous dumplings while magical worlds appear around them",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-84ebb2ebe6/scene_5_2.png"
           }
         }
       ]
@@ -128,7 +138,8 @@
           "illustration": {
             "description": "The kitchen scene shows both Bao the small silver dragon with tiny wings and Mochi, a round chubby shiba inu puppy with cream-and-tan fur, perky triangular ears, a curly tail, and smiling brown eyes, cooking together. Light blue floating dumplings drift through the air while golden brown dumplings sit in steamers. All the neighbors crowd around watching in amazement - Mr. Rabbit, Ms. Turtle, Mouse Brothers, Mrs. Hedgehog. Art style: exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel.",
             "alt": "Bao and Mochi cooking together while neighbors watch floating blue dumplings and golden brown dumplings",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-84ebb2ebe6/scene_6_1.png"
           }
         },
         {
@@ -136,7 +147,8 @@
           "illustration": {
             "description": "A celebration scene inside the snow globe showing Mochi, a round chubby shiba inu puppy with cream-and-tan fur, perky triangular ears, a curly tail, and smiling brown eyes, wagging her tail so hard her whole body wiggles, while Bao the small silver dragon with tiny wings smiles beside her. All the neighbors are laughing and celebrating. Both floating blue dumplings and golden brown dumplings fill the air. The whole scene glows with warm, happy light. Art style: exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel.",
             "alt": "Mochi wiggling with excitement while everyone celebrates the new Sky-and-Earth Dumpling Shop partnership",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-84ebb2ebe6/scene_6_2.png"
           }
         }
       ]

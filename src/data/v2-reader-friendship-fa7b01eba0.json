@@ -13,7 +13,7 @@
   "wordCount": 2763,
   "readingLevel": "Grade 2-3",
   "synopsis": "When a young fawn named Sorrel promises to tell stories every night at a desert oasis, she discovers that the tales she shares begin to weave together in unexpected ways, connecting the past and present through the power of memory and friendship.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-fa7b01eba0/cover.png",
   "chapters": [
     {
       "title": "The Storyteller Arrives",
@@ -22,12 +22,14 @@
         {
           "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes approaches a desert oasis at sunset, with date palms casting long shadows and a crystal-clear spring reflecting the evening sky, warm amber light filtering through palm fronds",
           "alt": "Sorrel the fawn arriving at the peaceful desert oasis",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-fa7b01eba0/scene_1_1.png"
         },
         {
           "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes sits in a cozy circle with a tortoise, desert fox, and jackrabbit beside the spring, surrounded by soft blankets and cushions made from palm fibers, fairy lights twinkling overhead",
           "alt": "The animals gathering for their first story session",
-          "position": "after-paragraph-12"
+          "position": "after-paragraph-12",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-fa7b01eba0/scene_1_2.png"
         }
       ]
     },
@@ -38,7 +40,8 @@
         {
           "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes gestures gracefully while telling a story, sitting in a nest of soft blankets with warm amber lighting from oil lamps, the other animals listening intently in their cozy pillow fort setup",
           "alt": "Sorrel animatedly telling the story of the weaver",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-fa7b01eba0/scene_2_1.png"
         }
       ]
     },
@@ -49,7 +52,8 @@
         {
           "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes sits looking worried in a cozy blanket nest, surrounded by empty story scrolls and flickering candles, while her animal friends gather supportively around her in the warm amber light",
           "alt": "Sorrel struggling to remember stories while her friends offer comfort",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-fa7b01eba0/scene_3_1.png"
         }
       ]
     },
@@ -60,12 +64,14 @@
         {
           "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes sits in the center of a cozy circle made of pillows and blankets, with her three friends all contributing to telling a story together, fairy lights strung between the palm fronds creating magical warm amber lighting",
           "alt": "All four friends collaborating to tell a story together",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-fa7b01eba0/scene_4_1.png"
         },
         {
           "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes looks amazed as golden light seems to swirl around the group, representing the magic of stories connecting, with warm comfortable blankets and steaming cups of herbal tea creating an intimate sleepover atmosphere",
           "alt": "The magical moment when Sorrel realizes all stories are connected",
-          "position": "after-paragraph-12"
+          "position": "after-paragraph-12",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-fa7b01eba0/scene_4_2.png"
         }
       ]
     },
@@ -76,7 +82,8 @@
         {
           "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes sits with her friends around a breakfast spread on soft blankets, with morning light filtering through date palms and the spring sparkling nearby, creating a warm cozy morning scene with scattered story scrolls around them",
           "alt": "The friends sharing breakfast and understanding their connections to the stories",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-fa7b01eba0/scene_5_1.png"
         }
       ]
     },
@@ -87,12 +94,14 @@
         {
           "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes sits in a perfect circle with her friends, holding a smooth stone while soft candlelight creates an intimate storytelling atmosphere, with comfortable cushions and warm blankets creating a cozy fort-like space",
           "alt": "The friends sharing their origin stories in a sacred circle",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-fa7b01eba0/scene_6_1.png"
         },
         {
           "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes looks up in wonder as golden threads of light seem to connect all the friends, representing their intertwined stories, while they sit in their cozy blanket nest under the starlit desert sky",
           "alt": "The magical moment when all their stories weave together",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-fa7b01eba0/scene_6_2.png"
         }
       ]
     },
@@ -103,12 +112,14 @@
         {
           "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes sits at the center of a much larger circle that now includes an owl, baby elephant, butterfly, and other diverse creatures, all nestled in an expanded cozy area with multiple blanket forts and warm lighting",
           "alt": "The grown community of diverse animals gathered for stories",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-fa7b01eba0/scene_7_1.png"
         },
         {
           "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes tells a story under a canopy of stars, surrounded by her extended chosen family of animals, with the oasis glowing warmly around them like a beacon of belonging and acceptance",
           "alt": "Sorrel telling the story of their beginning to the full community",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-fa7b01eba0/scene_7_2.png"
         }
       ]
     }
