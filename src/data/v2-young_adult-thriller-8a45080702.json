@@ -13,7 +13,7 @@
   "wordCount": 8284,
   "readingLevel": "Grade 8-9",
   "synopsis": "In 1943 Japan, Hiro's small lie about finding allied radio equipment in the forest spirals into dangerous consequences as seasons turn and war tightens its grip. When he falls for Kenji, a boy whose family faces suspicion, Hiro must navigate the treacherous ground between truth and survival in a moss-floored forest where footsteps vanish and secrets echo louder than sound.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-8a45080702/cover.png",
   "chapters": [
     {
       "title": "Spring Whispers",
@@ -22,7 +22,8 @@
         {
           "description": "A boy with short straight black hair, light skin, bright dark brown eyes, and round face kneels beside scattered radio equipment in a moss-floored forest. Cherry blossoms drift down through shafts of dramatic light. High contrast shadows, dramatic lighting, partially obscured character, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Hiro discovering the hidden radio equipment in the moss-covered forest",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-8a45080702/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "A boy with short straight black hair, light skin, bright dark brown eyes, and round face sits alone in a classroom, studying his science teacher's hands as the teacher demonstrates radio wave concepts. Dramatic shadows fall across his worried face. High contrast shadows, dramatic lighting, partially obscured character, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Hiro watching his teacher with growing suspicion and fear",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-8a45080702/scene_2_1.png"
         }
       ]
     },
@@ -44,7 +46,8 @@
         {
           "description": "Two boys face each other in a forest clearing. One boy with short straight black hair, light skin, bright dark brown eyes, and round face holds a notebook. The other boy carries a cloth bundle. Dramatic sunlight filters through trees creating high contrast shadows between them. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Hiro meeting Kenji for the first time in the silent forest",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-8a45080702/scene_3_1.png"
         }
       ]
     },
@@ -55,7 +58,8 @@
         {
           "description": "A boy with short straight black hair, light skin, bright dark brown eyes, and round face sits beside another boy next to a fallen cedar tree. Radio equipment lies partially visible in the moss. Dappled summer light creates dramatic shadows across their faces as they lean toward each other in conversation. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Hiro and Kenji sharing secrets beside the fallen cedar",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-8a45080702/scene_4_1.png"
         }
       ]
     },
@@ -66,7 +70,8 @@
         {
           "description": "A boy with short straight black hair, light skin, bright dark brown eyes, and round face sits across from another boy beside a moss-covered fallen tree. Autumn leaves fall around them as one boy hands over a reassembled radio to the other. Their faces show worry and determination in the dramatic shadows of the forest. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Kenji giving the repaired radio to Hiro in the autumn forest",
-          "position": "after-paragraph-11"
+          "position": "after-paragraph-11",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-8a45080702/scene_5_1.png"
         }
       ]
     },
@@ -77,7 +82,8 @@
         {
           "description": "A boy with short straight black hair, light skin, bright dark brown eyes, and round face peers through a snow-covered window, clutching a radio to his chest. Dark figures move between snow-laden trees outside. Moonlight creates stark shadows and dramatic contrast in the winter scene. High contrast shadows, dramatic lighting, partially obscured character, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Hiro watching through his window as authorities search the snowy forest",
-          "position": "after-paragraph-12"
+          "position": "after-paragraph-12",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-8a45080702/scene_6_1.png"
         }
       ]
     },
@@ -88,7 +94,8 @@
         {
           "description": "A boy with short straight black hair, light skin, bright dark brown eyes, and round face sits at a kitchen table facing stern officers. Radio components gleam on the table surface. His parents sit nearby with worried expressions. Harsh indoor lighting creates dramatic shadows across all their faces. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Hiro being questioned by authorities while hiding the radio under his jacket",
-          "position": "after-paragraph-13"
+          "position": "after-paragraph-13",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-8a45080702/scene_7_1.png"
         }
       ]
     },
@@ -99,7 +106,8 @@
         {
           "description": "A boy with short straight black hair, light skin, bright dark brown eyes, and round face kneels in snowy forest, burying a wrapped radio beneath the roots of a fallen cedar tree. Snow falls around him in the moonlight, creating dramatic shadows between the trees. His expression shows determination mixed with sorrow. High contrast shadows, dramatic lighting, partially obscured character, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Hiro burying the radio in the snowy forest under the fallen cedar",
-          "position": "after-paragraph-12"
+          "position": "after-paragraph-12",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-8a45080702/scene_8_1.png"
         }
       ]
     },
@@ -110,7 +118,8 @@
         {
           "description": "A boy with short straight black hair, light skin, bright dark brown eyes, and round face kneels beside a moss-covered fallen cedar tree, pressing his palm to the earth. Cherry blossoms fall around him in the spring forest, creating dappled light and shadow. His expression is contemplative and melancholy. High contrast shadows, dramatic lighting, partially obscured character, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Hiro returning to the burial site of the radio as spring arrives",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-8a45080702/scene_9_1.png"
         }
       ]
     },
@@ -121,7 +130,8 @@
         {
           "description": "Two young men sit beside a moss-covered fallen cedar tree. One with short straight black hair, light skin, bright dark brown eyes, and round face holds a functioning radio while the other leans close to listen. Radio waves seem to emanate visually from the device. Cherry blossoms drift down around them in filtered forest light. Their faces show relief and joy. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Hiro and Kenji reunited, listening to the restored radio together",
-          "position": "after-paragraph-18"
+          "position": "after-paragraph-18",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-8a45080702/scene_10_1.png"
         }
       ]
     },
@@ -132,7 +142,8 @@
         {
           "description": "Two young men sit close together beside a radio in a moss-floored forest clearing. One with short straight black hair, light skin, bright dark brown eyes, and round face adjusts radio dials while both listen intently. Visible sound waves and signal lines emanate from the device. Late afternoon light filters through trees creating atmospheric drama. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Hiro and Kenji listening to radio signals from around the world",
-          "position": "after-paragraph-10"
+          "position": "after-paragraph-10",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-8a45080702/scene_11_1.png"
         }
       ]
     },
@@ -143,7 +154,8 @@
         {
           "description": "Two young men walk together through a moss-floored forest toward village lights visible in the distance. One with short straight black hair, light skin, bright dark brown eyes, and round face holds hands with the other as they move between towering trees. Evening light filters through the canopy creating dramatic shadows on the forest floor. Their expressions show contentment and hope for the future. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Hiro and Kenji walking together toward their future, leaving the forest sanctuary behind",
-          "position": "after-paragraph-16"
+          "position": "after-paragraph-16",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-8a45080702/scene_12_1.png"
         }
       ]
     }

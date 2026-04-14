@@ -13,7 +13,7 @@
   "wordCount": 1528,
   "readingLevel": "Grade 2-3",
   "synopsis": "Hugo loves counting the seconds between lightning and thunder to calculate storm distances, but when a new girl arrives who seems to predict lightning before it even happens, he must solve the mystery of her impossible ability while learning that different minds work in wonderfully different ways.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-78affcbbe9/cover.png",
   "chapters": [
     {
       "title": "The Science of Distance",
@@ -22,7 +22,8 @@
         {
           "description": "A boy with straight light blonde hair, fair skin, and light blue eyes crouches on a pebble beach, arranging stones in neat rows. He's wearing a small detective-style coat and holding a stopwatch. Storm clouds gather overhead with dramatic shadows falling across the scene. The lighting is film noir style with muted grays and one golden accent of sunlight breaking through the clouds.",
           "alt": "Hugo organizing pebbles on the beach before a storm",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-78affcbbe9/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "A mysterious girl in sunglasses sits on driftwood pointing at storm clouds, while a boy with straight light blonde hair, fair skin, and light blue eyes stands nearby holding a stopwatch, looking confused and frustrated. The scene has dramatic film noir lighting with heavy shadows and one bright flash of lightning in the distance as an accent color against the muted palette.",
           "alt": "Zara predicting lightning while Hugo watches in disbelief",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-78affcbbe9/scene_2_1.png"
         }
       ]
     },
@@ -44,7 +46,8 @@
         {
           "description": "A boy with straight light blonde hair, fair skin, and light blue eyes kneels next to neat rows of pebbles while a girl with different colored eyes (one brown, one green) crouches beside him. The scene uses film noir lighting with dramatic shadows cast across the beach. Storm clouds loom overhead with electric tension in the air, rendered in muted grays with flashes of lightning as accent color.",
           "alt": "Zara and Hugo examining the organized pebbles together",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-78affcbbe9/scene_3_1.png"
         }
       ]
     },
@@ -55,7 +58,8 @@
         {
           "description": "A boy with straight light blonde hair, fair skin, and light blue eyes sits with eyes closed, arm pointing toward the sky, while a girl sits nearby among scattered pebbles. The film noir style shows dramatic shadows and a moment of electrical tension before lightning strikes. The scene uses muted grays and blues with one bright flash of lightning as the accent color, creating a mysterious detective atmosphere.",
           "alt": "Hugo learning to feel electricity in the air",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-78affcbbe9/scene_4_1.png"
         }
       ]
     },
@@ -66,7 +70,8 @@
         {
           "description": "A boy with straight light blonde hair, fair skin, and light blue eyes and a girl collect pebbles together as rain begins to fall on the beach. Both are getting wet but smiling, with dramatic film noir shadows around them. The scene has a detective mystery atmosphere with muted colors and silver raindrops as the accent color against the gray storm.",
           "alt": "Hugo and Zara gathering pebbles in the rain",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-78affcbbe9/scene_5_1.png"
         }
       ]
     },
@@ -77,7 +82,8 @@
         {
           "description": "A boy with straight light blonde hair, fair skin, and light blue eyes and a girl sit together on a pebble beach, both pointing at the same spot in storm clouds above. They're working as a team, with detective-style film noir lighting creating dramatic shadows around them. The scene has a muted palette with one bright flash of lightning as the accent color, showing their partnership in solving the mystery of the storm.",
           "alt": "Hugo and Zara working together to predict lightning",
-          "position": "after-paragraph-12"
+          "position": "after-paragraph-12",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-78affcbbe9/scene_6_1.png"
         }
       ]
     }

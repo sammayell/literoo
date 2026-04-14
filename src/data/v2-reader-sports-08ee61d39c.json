@@ -13,7 +13,7 @@
   "wordCount": 1469,
   "readingLevel": "Grade 2-3",
   "synopsis": "When the gravity machine breaks at midnight in an abandoned subway station, a young researcher documents how a creative girl uses sports to help stranded space travelers return home.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-08ee61d39c/cover.png",
   "chapters": [
     {
       "title": "Research Log Entry #1: The Machine Stops",
@@ -22,7 +22,8 @@
         {
           "description": "Wide shot of the empty subway station at midnight showing floating commuters in spacesuits, upside-down vending machines, and Nia with long braids with colorful beads, dark brown skin, warm kind eyes standing normally on the platform while everything else floats around her",
           "alt": "Zero gravity chaos in the subway station with Nia standing normally",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-08ee61d39c/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes talking to Engineer Martinez who is floating upside down near the ceiling, with the gravity machine's flashing display panel visible, dramatic angle showing the contrast between grounded Nia and floating engineer",
           "alt": "Nia talking to the floating engineer about the broken gravity machine",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-08ee61d39c/scene_2_1.png"
         }
       ]
     },
@@ -44,7 +46,8 @@
         {
           "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes mid-dribble with basketball showing motion blur and speed lines, while the businessman in a spacesuit is caught mid-fall back to the platform with dramatic athletic movement and competitive energy",
           "alt": "Nia dribbling basketball as the businessman falls back to the platform",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-08ee61d39c/scene_3_1.png"
         }
       ]
     },
@@ -55,7 +58,8 @@
         {
           "description": "Dynamic volleyball action shot showing Nia with long braids with colorful beads, dark brown skin, warm kind eyes serving the ball up to three floating commuters in spacesuits, with motion blur and speed lines showing the ball's trajectory and maximum athletic effort",
           "alt": "Nia serving volleyball to floating commuters in spacesuits",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-08ee61d39c/scene_4_1.png"
         }
       ]
     },
@@ -66,7 +70,8 @@
         {
           "description": "Engineer Martinez playing zero-gravity tennis against the ceiling while Nia with long braids with colorful beads, dark brown skin, warm kind eyes coaches from below, showing dramatic angles and mid-action freeze of the tennis ball with speed lines and athletic movement",
           "alt": "Engineer Martinez playing ceiling tennis while Nia coaches from below",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-08ee61d39c/scene_5_1.png"
         }
       ]
     },
@@ -77,7 +82,8 @@
         {
           "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes watching through red-tinted windows as commuters in spacesuits board the Mars transport, with winning moment energy and competitive spirit in her posture as she imagines playing basketball on Mars",
           "alt": "Nia watching Mars commuters board their transport through the station windows",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-08ee61d39c/scene_6_1.png"
         }
       ]
     },
@@ -88,7 +94,8 @@
         {
           "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes walking away toward the station exit with her backpack, while the gravity machine hums normally in the background and everything has returned to normal positions, showing motion blur of her confident departure",
           "alt": "Nia leaving the station with everything back to normal",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-08ee61d39c/scene_7_1.png"
         }
       ]
     },
@@ -99,7 +106,8 @@
         {
           "description": "The empty subway station at peace, with the gravity machine humming properly, a tennis ball sitting on top of it, and a single colorful bead on the platform catching the light, showing the station returned to normal but forever changed by the night's events",
           "alt": "The quiet station with the tennis ball on the gravity machine and a bead on the platform",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-08ee61d39c/scene_8_1.png"
         }
       ]
     }

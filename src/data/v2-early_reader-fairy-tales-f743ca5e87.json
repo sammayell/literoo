@@ -1,0 +1,225 @@
+{
+  "id": "v2-early_reader-fairy-tales-f743ca5e87",
+  "title": "Seven Signals in the Starlight",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "fairy-tales",
+    "science"
+  ],
+  "wordCount": 917,
+  "readingLevel": "Grade 1-2",
+  "synopsis": "Nova, a small alien explorer, follows a star map to an abandoned carousel in an overgrown field. Over seven days, mysterious gifts arrive that reveal the map's crucial error and lead to an unexpected friendship across the cosmos.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-f743ca5e87/cover.png",
+  "chapters": [
+    {
+      "title": "Day One: The Wrong Coordinates",
+      "pages": [
+        {
+          "text": "The star map hummed with electric blue light against my palm. According to my calculations, the coordinates should lead to the Great Observatory of Andromeda. Instead, I found myself standing before something entirely different.\n\nField Note #1: Location appears to be an abandoned carousel, not the expected observatory. The structure measures approximately twelve meters in diameter. Painted horses, once bright, now fade beneath layers of climbing vines and morning dew.\n\nThe carousel sits in the center of an overgrown field. Tall grasses whisper secrets to each other in the evening breeze. I detect the scent of wild flowers and something else—something metallic and old, like forgotten dreams.\n\nMy four fingers trace the edge of the star map. The coordinates are clear: 47.3251° N, 8.5456° W. But observatories don't usually have carved unicorns or music boxes that play half-remembered melodies when the wind blows just right.\n\nSomething small and glowing catches my attention near the carousel's base.",
+          "illustration": {
+            "description": "A young alien with translucent pale-blue skin showing faint inner light, four nimble fingers per hand, a bald domed head, and huge reflective black eyes holds a glowing blue star map while standing in an overgrown field. Before her rises an abandoned carousel covered in vines, its painted horses weathered but still visible. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
+            "alt": "Nova holding a star map in front of the overgrown carousel",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-f743ca5e87/scene_1_1.png"
+          }
+        },
+        {
+          "text": "Field Note #2: First anomalous object discovered at 19:42 local time.\n\nThe object appears to be a small crystal sphere, no larger than a marble. It pulses with soft white light, similar to the bioluminescent patterns on my home planet of Zephyria. When I hold it up to my large black eyes, I can see tiny symbols floating inside—symbols that match those on my star map.\n\nCurious. Very curious indeed.\n\nI place the crystal sphere carefully in my collection pouch. The abandoned carousel creaks softly in the evening air, as if welcoming its first visitor in many seasons. The painted horses seem to watch me with their faded glass eyes.\n\nPerhaps this map error isn't an error at all. Perhaps it's the beginning of a different kind of discovery.",
+          "illustration": {
+            "description": "A young alien with translucent pale-blue skin showing faint inner light, four nimble fingers per hand, a bald domed head, and huge reflective black eyes examines a glowing crystal sphere. The sphere casts light across her face as she holds it up, with the carousel's painted horses visible in the background. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
+            "alt": "Nova discovering the first glowing crystal sphere",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-f743ca5e87/scene_1_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Days Two and Three: Patterns Emerge",
+      "pages": [
+        {
+          "text": "Field Note #3: Second object located at dawn, Day Two.\n\nThis time, the gift waited atop one of the carousel horses—a painted stallion with a silver mane. The object is a small telescope, perfectly sized for my hands. Its lens captures starlight even in daylight, showing me constellations I've never seen before.\n\nThrough the telescope, I observe something remarkable: the star patterns don't match any charts from my home galaxy. These are local stars, Earth stars, arranged in configurations that spell out messages.\n\n\"Welcome, traveler,\" the stars seem to say.\n\nField Note #4: Day Three brings the third discovery.\n\nA tiny music box, hidden beneath the carousel's central platform. When opened, it plays a melody that makes my translucent skin glow brighter with recognition. This song—I know this song. It's the Friendship Anthem of the Cosmic Explorers Guild.\n\nSomeone here knows who I am. Someone has been expecting me.",
+          "illustration": {
+            "description": "A young alien with translucent pale-blue skin showing faint inner light, four nimble fingers per hand, a bald domed head, and huge reflective black eyes looks through a small telescope while sitting on a painted carousel horse. Her skin glows softly with excitement as she studies the star patterns above. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
+            "alt": "Nova using the telescope while sitting on a carousel horse",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-f743ca5e87/scene_2_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Days Four and Five: The Mystery Deepens",
+      "pages": [
+        {
+          "text": "Field Note #5: The fourth gift challenges my understanding of Earth technology.\n\nA communication device, clearly of alien origin but adapted with Earth materials. Copper wires wind around crystals that hum with familiar energy signatures. When activated, it receives signals from deep space—signals in my own language.\n\n\"Message received,\" I broadcast cautiously. \"Unknown friend, please identify yourself.\"\n\nOnly static answers, but the static forms patterns. Mathematical sequences. Prime numbers. The universal language of intelligence.\n\nField Note #6: Day Five reveals a map—but not of stars.\n\nThis map shows the carousel itself, with detailed annotations in multiple languages. Some I recognize: Zephyrian, Andromedan, and what appears to be Earth's English. The map reveals hidden compartments throughout the carousel structure.\n\nMost intriguing: a notation that reads, \"The star map error was intentional. You were meant to find this place.\"",
+          "illustration": {
+            "description": "A young alien with translucent pale-blue skin showing faint inner light, four nimble fingers per hand, a bald domed head, and huge reflective black eyes examines a strange communication device made of crystals and copper wire. The device glows as she holds it, with mathematical equations floating in light around her. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
+            "alt": "Nova studying the alien communication device",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-f743ca5e87/scene_3_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Days Six and Seven: Truth Revealed",
+      "pages": [
+        {
+          "text": "Field Note #7: The sixth gift is a mirror—but it reflects more than appearances.\n\nWhen I peer into its surface, I see not just my own pale-blue form and huge black eyes, but another figure standing beside me. Another explorer, though of a species I don't recognize. They have silver skin that shifts like moonlight and eyes like captured starfire.\n\nThe mirror shows the past: this other being arriving at the carousel months ago, just as lost as I was when their own star map led them to this unexpected place. They've been leaving the gifts, one by one, hoping another explorer would follow the same \"mistaken\" coordinates.\n\nField Note #8: The seventh gift is the most precious of all.\n\nA simple note, written in the universal script of the Cosmic Explorers Guild:\n\n\"Dear Fellow Traveler, you have proven that friendship needs no common language, no shared world, only curiosity and kindness. The star map brought you here not by mistake, but by the greatest navigation system of all—the pull of one lonely explorer hoping to find another.\"",
+          "illustration": {
+            "description": "A young alien with translucent pale-blue skin showing faint inner light, four nimble fingers per hand, a bald domed head, and huge reflective black eyes looks into a magical mirror that reflects both her image and the ghostly image of another alien explorer with silver skin and starfire eyes. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
+            "alt": "Nova seeing another explorer in the magical mirror",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-f743ca5e87/scene_4_1.png"
+          }
+        },
+        {
+          "text": "Field Note #9: First contact achieved.\n\nAs I finish reading the note, I hear footsteps in the tall grass. My new friend approaches—the silver-skinned explorer from the mirror. They move with the careful grace of someone who has traveled between worlds.\n\n\"I am Stellar,\" they say in perfect Galactic Common. \"I've been waiting for someone who would understand the gifts.\"\n\nMy inner light glows brighter with joy. \"I am Nova. I thought your star map was wrong.\"\n\nStellar laughs, a sound like distant wind chimes. \"The map was perfect. It brought you exactly where you needed to be.\"\n\nTogether, we sit on the carousel as it slowly begins to turn, powered by some forgotten magic. The painted horses seem to smile as we share stories of distant worlds and the loneliness of exploring an infinite universe.\n\nFinal Field Note: Sometimes the best discoveries happen when you're lost. Sometimes the wrong coordinates lead you to exactly the right place.\n\nAnd sometimes, friendship is the greatest navigation system of all.",
+          "illustration": {
+            "description": "A young alien with translucent pale-blue skin showing faint inner light, four nimble fingers per hand, a bald domed head, and huge reflective black eyes sits on the slowly turning carousel beside another alien explorer with silver skin and eyes like starfire. The painted horses move gently around them as stars begin to appear in the twilight sky. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
+            "alt": "Nova and Stellar riding the magical carousel together under starlight",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-f743ca5e87/scene_4_2.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "exploration",
+      "scientific observation",
+      "cross-cultural connection"
+    ],
+    "vocabulary": [
+      "coordinates",
+      "observatory",
+      "constellation",
+      "bioluminescent",
+      "anomalous",
+      "configuration"
+    ],
+    "moralLesson": "Sometimes getting lost leads to the most important discoveries, and friendship can bridge any difference.",
+    "discussion": [
+      "What clues did Nova notice that helped her understand the mystery?",
+      "How did Nova and Stellar become friends even though they were from different worlds?",
+      "What does it mean that the 'wrong' map led to the 'right' place?"
+    ],
+    "coverPrompt": {
+      "description": "A young alien with translucent pale-blue skin showing faint inner light, four nimble fingers per hand, a bald domed head, and huge reflective black eyes stands beside an ornate, vine-covered carousel. Glowing gifts float in the twilight air around weathered painted horses. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
+      "alt": "Nova the alien examining glowing gifts near an overgrown carousel"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What was Nova looking for when she followed the star map?",
+        "choices": [
+          "A carousel",
+          "The Great Observatory",
+          "A friend"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nova was following coordinates that should have led to the Great Observatory of Andromeda, but instead found the carousel."
+      },
+      {
+        "id": "q2",
+        "question": "How many gifts did Nova find over the week?",
+        "choices": [
+          "Five gifts",
+          "Six gifts",
+          "Seven gifts"
+        ],
+        "correctIndex": 2,
+        "explanation": "Nova found seven gifts, one for each day of the week she spent at the carousel."
+      },
+      {
+        "id": "q3",
+        "question": "What was special about the mirror Nova found?",
+        "choices": [
+          "It showed the past",
+          "It was very shiny",
+          "It was broken"
+        ],
+        "correctIndex": 0,
+        "explanation": "The mirror showed Nova the past, revealing how Stellar had been leaving the gifts for her to find."
+      },
+      {
+        "id": "q4",
+        "question": "Who had been leaving the gifts for Nova?",
+        "choices": [
+          "Another human",
+          "Stellar the alien",
+          "A robot"
+        ],
+        "correctIndex": 1,
+        "explanation": "Stellar, another alien explorer with silver skin, had been leaving the gifts hoping another explorer would find them."
+      },
+      {
+        "id": "q5",
+        "question": "What did Nova learn about the star map?",
+        "choices": [
+          "It was completely broken",
+          "The error was intentional",
+          "It belonged to Stellar"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nova discovered that the star map's error was intentional—it was meant to bring her to the carousel to meet Stellar."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "carousel",
+            "distractors": [
+              "spaceship",
+              "mountain"
+            ]
+          },
+          {
+            "wordIndex": 28,
+            "correctWord": "coordinates",
+            "distractors": [
+              "pictures",
+              "stories"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "telescope",
+            "distractors": [
+              "hammer",
+              "sandwich"
+            ]
+          },
+          {
+            "wordIndex": 35,
+            "correctWord": "friendship",
+            "distractors": [
+              "fighting",
+              "sleeping"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "nova"
+}
