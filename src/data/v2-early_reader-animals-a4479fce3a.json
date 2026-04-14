@@ -1,0 +1,251 @@
+{
+  "id": "v2-early_reader-animals-a4479fce3a",
+  "title": "Inside the Glass World",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "animals",
+    "school"
+  ],
+  "wordCount": 449,
+  "readingLevel": "Grade 1-2",
+  "synopsis": "Cobble the gnome lives in a snow globe world where his friend Pip the penguin is about to leave for the big ocean outside. As Cobble keeps returning to their favorite meeting spot, he notices new details each time and comes up with increasingly serious scientific experiments to understand how their glass world works.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-a4479fce3a/cover.png",
+  "chapters": [
+    {
+      "title": "The Center Stone",
+      "pages": [
+        {
+          "text": "The snow falls upward on Tuesdays. I am standing by the center stone again, waiting for Pip the penguin. This is extremely important business. Pip says she is leaving our glass world tomorrow to swim in the big ocean outside. I tell the falling snow this is absolutely unacceptable.",
+          "illustration": {
+            "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap stands next to a large smooth stone while white snow falls upward around him. The scene is painted in gouache with thick brushstrokes, warm savanna colors blending with white snow, textured painterly style with bold confident strokes.",
+            "alt": "Cobble standing by the center stone with snow falling upward",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-a4479fce3a/scene_1_1.png"
+          }
+        },
+        {
+          "text": "Pip waddles over with her serious penguin walk. She carries a tiny suitcase made from a walnut shell. 'I have packed my swimming goggles,' she announces. I examine the center stone very carefully. There are seventeen small scratches on its surface. This is new information.",
+          "illustration": {
+            "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap examines a stone while a penguin approaches with a walnut shell suitcase. The scene is painted in gouache with thick brushstrokes, warm savanna colors, textured painterly style with bold confident strokes.",
+            "alt": "Cobble examining the stone while Pip approaches with her suitcase",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-a4479fce3a/scene_1_2.png"
+          }
+        },
+        {
+          "text": "'The scratches are a measurement system,' I tell Pip. 'They count the days until friends change their minds about leaving.' Pip tilts her head. 'That is not how scratches work,' she says. I count them again. Still seventeen. 'We need more data,' I announce.",
+          "illustration": {
+            "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap points at scratches on a stone while talking to a penguin. The scene is painted in gouache with thick brushstrokes, warm savanna colors, textured painterly style with bold confident strokes.",
+            "alt": "Cobble pointing at the scratches while explaining to Pip",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-a4479fce3a/scene_1_3.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Glass Wall",
+      "pages": [
+        {
+          "text": "I return to the center stone after lunch. The scratches now number eighteen. This confirms my hypothesis about magical counting stones. I walk to the curved glass wall of our world and press my nose against it. The outside looks very blurry and enormous.",
+          "illustration": {
+            "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap presses his nose against a curved glass wall. Outside the glass, blurry shapes suggest a much larger world. The scene is painted in gouache with thick brushstrokes, warm savanna colors, textured painterly style with bold confident strokes.",
+            "alt": "Cobble with his nose pressed against the glass wall of their world",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-a4479fce3a/scene_2_1.png"
+          }
+        },
+        {
+          "text": "Pip finds me there. 'I am conducting glass experiments,' I tell her. 'The wall makes everything outside look like soup.' Pip nods seriously. 'That is called refraction,' she says. I write this word in the snow with my finger. It looks very scientific.",
+          "illustration": {
+            "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap writes in the snow while a penguin watches. The word 'refraction' is visible in the snow. The scene is painted in gouache with thick brushstrokes, warm savanna colors, textured painterly style with bold confident strokes.",
+            "alt": "Cobble writing 'refraction' in the snow while Pip watches",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-a4479fce3a/scene_2_2.png"
+          }
+        },
+        {
+          "text": "'If you stay, we can study refraction together,' I say. 'We can write a whole dictionary in the snow.' Pip looks at her walnut suitcase. 'Swimming is also scientific,' she says quietly. 'There are currents and temperature gradients.' I had not considered this data.",
+          "illustration": {
+            "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap looks thoughtfully at a penguin who sits next to her walnut shell suitcase. The scene is painted in gouache with thick brushstrokes, warm savanna colors, textured painterly style with bold confident strokes.",
+            "alt": "Cobble and Pip having a serious conversation about science",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-a4479fce3a/scene_2_3.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Snow Pattern",
+      "pages": [
+        {
+          "text": "I return to the center stone one final time. Twenty-three scratches now. The stone is definitely magical, but not in the way I hoped. I sit down and watch the snow fall in its Tuesday pattern. Up, up, up, then a small swirl to the left.",
+          "illustration": {
+            "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap sits thoughtfully by a stone while snow swirls upward in elegant patterns around him. The scene is painted in gouache with thick brushstrokes, warm savanna colors, textured painterly style with bold confident strokes.",
+            "alt": "Cobble sitting by the center stone watching the upward snow patterns",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-a4479fce3a/scene_3_1.png"
+          }
+        },
+        {
+          "text": "Pip appears with her packed suitcase. She sits beside me and watches the snow too. 'I have been thinking about our refraction research,' she says. 'Perhaps we can be research partners across great distances.' I consider this proposal very seriously.",
+          "illustration": {
+            "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap sits next to a penguin with a walnut shell suitcase, both watching swirling snow. The scene is painted in gouache with thick brushstrokes, warm savanna colors, textured painterly style with bold confident strokes.",
+            "alt": "Cobble and Pip sitting together watching the snow",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-a4479fce3a/scene_3_2.png"
+          }
+        },
+        {
+          "text": "'Long-distance collaboration is very advanced science,' I agree. Pip opens her suitcase and pulls out a tiny notebook made of birch bark. 'I will send you swimming data,' she says. 'You will send me snow pattern observations.' We shake hands like serious scientists do.",
+          "illustration": {
+            "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap shakes hands with a penguin who holds a tiny birch bark notebook. Snow swirls around them in their glass world. The scene is painted in gouache with thick brushstrokes, warm savanna colors, textured painterly style with bold confident strokes.",
+            "alt": "Cobble and Pip shaking hands like serious scientific partners",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-a4479fce3a/scene_3_3.png"
+          }
+        },
+        {
+          "text": "After Pip leaves through the small door in the glass wall, I count the center stone scratches one more time. Still twenty-three. But now I notice they form a perfect spiral pattern. This is the most important discovery yet. I write 'SPIRAL DATA' in the snow and underline it twice.",
+          "illustration": {
+            "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap writes 'SPIRAL DATA' in the snow next to a stone with spiral scratch patterns. The glass world around him glows softly. The scene is painted in gouache with thick brushstrokes, warm savanna colors, textured painterly style with bold confident strokes.",
+            "alt": "Cobble making his spiral discovery and documenting it in the snow",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-a4479fce3a/scene_3_4.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "curiosity",
+      "scientific observation",
+      "change"
+    ],
+    "vocabulary": [
+      "refraction",
+      "hypothesis",
+      "collaboration",
+      "data",
+      "pattern",
+      "spiral"
+    ],
+    "lessonPlan": "Discuss how Cobble uses observation and questioning to understand his world. What patterns do children notice in their daily lives?",
+    "coverPrompt": {
+      "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap stands inside a snow globe filled with swirling white flakes. Next to him is a small penguin. The scene is painted in gouache with thick brushstrokes, warm savanna colors despite the snowy setting, textured painterly style with bold confident strokes.",
+      "alt": "Cobble the gnome and Pip the penguin inside a magical snow globe"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What day does the snow fall upward in Cobble's world?",
+        "choices": [
+          "Tuesday",
+          "Wednesday",
+          "Monday"
+        ],
+        "correctIndex": 0,
+        "explanation": "Cobble notices that the snow falls upward on Tuesdays in their glass world."
+      },
+      {
+        "id": "q2",
+        "question": "What does Pip pack in her walnut shell suitcase?",
+        "choices": [
+          "Swimming goggles",
+          "A sandwich",
+          "Her favorite book"
+        ],
+        "correctIndex": 0,
+        "explanation": "Pip packs swimming goggles because she plans to swim in the big ocean outside their world."
+      },
+      {
+        "id": "q3",
+        "question": "What word does Pip teach Cobble about how glass changes how things look?",
+        "choices": [
+          "Refraction",
+          "Reflection",
+          "Raction"
+        ],
+        "correctIndex": 0,
+        "explanation": "Pip explains that refraction is why everything outside their glass wall looks blurry like soup."
+      },
+      {
+        "id": "q4",
+        "question": "How many scratches does Cobble count on the center stone at the end?",
+        "choices": [
+          "Twenty-three",
+          "Seventeen",
+          "Eighteen"
+        ],
+        "correctIndex": 0,
+        "explanation": "At the end, Cobble counts twenty-three scratches and discovers they form a spiral pattern."
+      },
+      {
+        "id": "q5",
+        "question": "What do Cobble and Pip decide to become together?",
+        "choices": [
+          "Research partners",
+          "Swimming buddies",
+          "Snow collectors"
+        ],
+        "correctIndex": 0,
+        "explanation": "They decide to be long-distance research partners, sharing their scientific observations with each other."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 4,
+            "correctWord": "upward",
+            "distractors": [
+              "downward",
+              "sideways"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "stone",
+            "distractors": [
+              "rock",
+              "pebble"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "refraction",
+            "distractors": [
+              "reflection",
+              "raction"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "scientific",
+            "distractors": [
+              "magic",
+              "special"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "cobble"
+}

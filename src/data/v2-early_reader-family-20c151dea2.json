@@ -1,0 +1,241 @@
+{
+  "id": "v2-early_reader-family-20c151dea2",
+  "title": "Tiny Echoes in the Workshop",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "family",
+    "school"
+  ],
+  "wordCount": 483,
+  "readingLevel": "Kindergarten-1st Grade",
+  "synopsis": "Amara hears a mysterious sound that no one else can detect as she explores different corners of her grandmother's cluttered workshop, following her homemade map to discover the source of the tiny echoes.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-20c151dea2/cover.png",
+  "chapters": [
+    {
+      "title": "The North Corner Where Gears Go Round",
+      "pages": [
+        {
+          "text": "Click-tick-whisper came the sound again. In Grandmother's workshop where the gears go round, where springs bounce free and screws roll about, Amara pressed her ear to every contraption. 'Do you hear that?' she asked her grandmother, who was stirring soup with a spoon made from a wrench. But Grandmother just hummed and stirred, hummed and stirred. The sound danced through the air like invisible butterflies—click-tick-whisper, click-tick-whisper. Only Amara could hear its secret song.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, and large sparkling dark eyes leans against a table covered in spinning gears and clockwork mechanisms in the north corner of the workshop. Her grandmother, in a flour-dusted apron, stirs soup with a wrench-spoon by a warm stove. Steam rises from pots, and warm yellow light filters through the space filled with half-finished inventions.",
+            "alt": "Amara listening to gears while her grandmother cooks in a cozy workshop",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-20c151dea2/scene_1_1.png"
+          }
+        },
+        {
+          "text": "She pulled out her hand-drawn map, wrinkled from pocket adventures, marked with crayon Xs and coffee stains. 'First stop: North Corner,' she whispered to herself, though the click-tick-whisper seemed to whisper back. The mechanical birds on the shelf turned their brass heads—or did they? In workshops full of almost-flying things, it's hard to tell what moves and what just thinks about moving.",
+          "illustration": {
+            "description": "Close-up of Amara with long box braids, rich brown skin, and large sparkling dark eyes examining a hand-drawn map with crayon markings. Behind her, brass mechanical birds sit on shelves among other half-finished inventions. The workshop setting shows warm oranges and yellows with steam curling in the background.",
+            "alt": "Amara studying her map while mechanical birds watch from shelves",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The East Wall Where Dreams Get Built",
+      "pages": [
+        {
+          "text": "Click-tick-whisper, louder now, led her past the floating umbrellas (they only floated on Tuesdays, and today was definitely Wednesday). The East Wall stretched high with half-finished dreams: a telescope that saw yesterday, boots that walked themselves to bed, and a hat that remembered every compliment. 'Warmer,' Amara announced to no one in particular, which was exactly who was listening.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, and large sparkling dark eyes walks along a tall wall lined with peculiar inventions including floating umbrellas, a brass telescope, self-walking boots, and an ornate hat on display. The scene shows the cozy workshop atmosphere with warm yellows and oranges, steam wisps, and flour dust in the air.",
+            "alt": "Amara exploring inventions along the east wall of the workshop",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-20c151dea2/scene_2_1.png"
+          }
+        },
+        {
+          "text": "She pressed her ear to the dream-building wall. The click-tick-whisper played hide-and-seek between the wooden beams. Grandmother appeared with flour handprints on her apron and oil smudges that looked like tiny hearts. 'Finding anything interesting?' she asked, eyes twinkling like the brass buttons on her favorite sweater. But when Amara pointed to where the sound lived, Grandmother only heard the workshop's usual symphony of sighs and creaks.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, and large sparkling dark eyes has her ear pressed against a wooden wall while her grandmother, wearing a flour-dusted apron with oil-stain hearts, watches with twinkling eyes. The workshop setting includes exposed wooden beams, hanging inventions, and the warm homey atmosphere with oranges and yellows throughout.",
+            "alt": "Amara listening to the wall while her grandmother watches fondly",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-20c151dea2/scene_2_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The South Window Where Light Comes Through",
+      "pages": [
+        {
+          "text": "Click-tick-whisper practically danced now, pirouetting through the dust motes by the South Window. Here lived the light-catching inventions: mirrors that giggled, prisms that hummed lullabies, and a sundial that told time in colors instead of numbers. Amara's map led her true—the sound grew stronger near the window where afternoon painted everything golden.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, and large sparkling dark eyes stands by a large workshop window with golden afternoon light streaming through. Around her are light-catching inventions including ornate mirrors, colorful prisms, and an unusual sundial. Dust motes and steam float in the warm yellow and orange light that fills this corner of the cluttered workshop.",
+            "alt": "Amara by the sunny south window surrounded by light-catching inventions",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-20c151dea2/scene_3_1.png"
+          }
+        },
+        {
+          "text": "She peered behind a contraption that looked suspiciously like a mechanical butterfly having a conversation with a music box. The click-tick-whisper seemed to giggle—if sounds could giggle, which in Grandmother's workshop, they probably could. 'Almost there,' Amara whispered to her map, though maps are notoriously bad at whispering back.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, and large sparkling dark eyes peeks behind an elaborate mechanical butterfly device connected to an ornate music box. The scene shows the warm, cluttered workshop atmosphere with golden light from the window, steam curls, and the cozy family setting with warm oranges and yellows throughout.",
+            "alt": "Amara discovering a mechanical butterfly and music box contraption",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-20c151dea2/scene_3_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The West Corner Where Secrets Hide",
+      "pages": [
+        {
+          "text": "Click-tick-whisper sang its loudest song in the West Corner, where Grandmother kept her most mysterious projects. Behind a curtain made of measuring tape and morning glory vines, Amara found the source: a tiny tablet, forgotten under sawdust and dreams, still playing its last video. The sound wasn't magical after all—just digital echoes from yesterday's screen time, lonely and persistent.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, and large sparkling dark eyes discovers a small tablet covered in sawdust in the west corner of the workshop, behind a makeshift curtain of measuring tape and vines. The scene shows the cluttered workshop setting with half-finished inventions around her, warm lighting with yellows and oranges, and the homey atmosphere of the family workshop.",
+            "alt": "Amara finding the forgotten tablet making mysterious sounds",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-20c151dea2/scene_4_1.png"
+          }
+        },
+        {
+          "text": "She held the little screen, watching its final battery bar flicker and fade. 'Goodbye, click-tick-whisper,' she whispered as the sound finally stopped. Grandmother appeared with two cups of cocoa, somehow knowing exactly when discoveries needed celebrating. They sat among the half-finished inventions, sharing stories that were better than any video, while the real world hummed its own perfect symphony all around them.",
+          "illustration": {
+            "description": "Amara with long box braids, rich brown skin, and large sparkling dark eyes sits with her grandmother among the cluttered workshop inventions, both holding steaming cups of cocoa. The tablet lies silent nearby as warm yellow and orange light fills the space. Steam rises from their cups, and the cozy family moment shows the loving bond between grandmother and granddaughter in their shared creative space.",
+            "alt": "Amara and grandmother sharing cocoa among the workshop inventions",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-20c151dea2/scene_4_2.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "digital wellness",
+      "family bonding",
+      "curiosity",
+      "discovery"
+    ],
+    "vocabulary": [
+      "workshop",
+      "inventions",
+      "contraption",
+      "mysterious",
+      "mechanical"
+    ],
+    "readingSkills": [
+      "following a sequence",
+      "map reading",
+      "problem solving",
+      "sensory details"
+    ],
+    "coverPrompt": {
+      "description": "Amara with long box braids, rich brown skin, and large sparkling dark eyes stands in a cluttered workshop filled with half-finished inventions, gears, and wooden contraptions. Warm yellows and oranges light the scene as she holds a hand-drawn map, listening intently. Steam rises from a tea kettle in the corner, and flour dust motes float in the air.",
+      "alt": "A girl with box braids in a warm, cluttered inventor's workshop"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sound did only Amara hear in the workshop?",
+        "choices": [
+          "Click-tick-whisper",
+          "Buzz-hum-ring",
+          "Beep-boop-chirp"
+        ],
+        "correctIndex": 0,
+        "explanation": "Amara heard 'click-tick-whisper' throughout her journey in the workshop."
+      },
+      {
+        "id": "q2",
+        "question": "What did Amara use to explore the workshop?",
+        "choices": [
+          "A compass",
+          "A hand-drawn map",
+          "A tablet"
+        ],
+        "correctIndex": 1,
+        "explanation": "Amara had a hand-drawn map with crayon Xs and coffee stains to guide her exploration."
+      },
+      {
+        "id": "q3",
+        "question": "Where did Amara find the source of the mysterious sound?",
+        "choices": [
+          "North Corner",
+          "South Window",
+          "West Corner"
+        ],
+        "correctIndex": 2,
+        "explanation": "The sound came from a forgotten tablet in the West Corner where Grandmother kept her most mysterious projects."
+      },
+      {
+        "id": "q4",
+        "question": "What did Grandmother make with a wrench?",
+        "choices": [
+          "A spoon for stirring soup",
+          "A hammer for building",
+          "A key for opening boxes"
+        ],
+        "correctIndex": 0,
+        "explanation": "Grandmother used a wrench as a spoon to stir soup, showing her creative workshop spirit."
+      },
+      {
+        "id": "q5",
+        "question": "How did the story end?",
+        "choices": [
+          "Amara fixed the tablet",
+          "Amara and Grandmother shared cocoa",
+          "Amara left the workshop"
+        ],
+        "correctIndex": 1,
+        "explanation": "The story ended with Amara and her grandmother sharing cocoa among the inventions, enjoying real-world connection."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "workshop",
+            "distractors": [
+              "kitchen",
+              "bedroom"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "gears",
+            "distractors": [
+              "wheels",
+              "buttons"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 5,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "map",
+            "distractors": [
+              "book",
+              "toy"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "inventions",
+            "distractors": [
+              "pictures",
+              "flowers"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "amara"
+}
