@@ -13,7 +13,7 @@
   "wordCount": 1516,
   "readingLevel": "2nd-3rd grade",
   "synopsis": "A candle flame watches as a young unicorn's small lie about reading an advanced astronomy book grows into something that threatens her friendship with a wise old owl librarian. Set in a vast library after hours, this gentle tale explores truth, friendship, and the courage to make things right.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-animals-c739cff1a0/cover.png",
   "chapters": [
     {
       "title": "The Candle's First Light",
@@ -22,7 +22,8 @@
         {
           "description": "A vast library interior with towering bookshelves stretching into darkness, lit only by a single candle on a wooden table. Stardust, a young unicorn with a pearly-white coat, a rainbow-pastel mane and tail, a glowing spiral horn, and shimmering silver hooves, stands near the restricted section reaching toward a large book. Classic storybook art style, woodland forest atmosphere, dappled candlelight, anthropomorphic animals, cozy details, Beatrix Potter inspired, with warm earth tones and detailed library textures.",
           "alt": "A young unicorn reaching for a book in a candlelit library",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-animals-c739cff1a0/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "Inside the vast library, Mrs. Featherworth, an elderly owl with spectacles and autumn-colored feathers, perches near Stardust, a young unicorn with a pearly-white coat, a rainbow-pastel mane and tail, a glowing spiral horn, and shimmering silver hooves. The large astronomy book lies open between them, lit by a single candle's warm glow. Classic storybook art style, woodland forest feeling, dappled candlelight, anthropomorphic animals, cozy atmosphere, Beatrix Potter inspired, with warm earth tones and detailed library features.",
           "alt": "An owl librarian and young unicorn having a conversation over an open book",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-animals-c739cff1a0/scene_2_1.png"
         }
       ]
     },
@@ -44,7 +46,8 @@
         {
           "description": "In the vast library lit by a single candle, a small sparrow hovers near Stardust, a young unicorn with a pearly-white coat, a rainbow-pastel mane and tail, a glowing spiral horn, and shimmering silver hooves. The unicorn looks worried as she stands beside the open astronomy book. Towering bookshelves surround them in shadow. Classic storybook art style, woodland forest atmosphere, dappled candlelight effects, anthropomorphic animals, cozy details, Beatrix Potter inspired, with warm earth tones and detailed library textures.",
           "alt": "A sparrow asking a worried unicorn for help in the library",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-animals-c739cff1a0/scene_3_1.png"
         }
       ]
     },
@@ -55,7 +58,8 @@
         {
           "description": "Around a wooden table in the vast candlelit library, Stardust, a young unicorn with a pearly-white coat, a rainbow-pastel mane and tail, a glowing spiral horn, and shimmering silver hooves, sits with two small sparrows. The unicorn looks emotional as she speaks, while the birds listen with understanding expressions. The astronomy book lies open between them, illuminated by a single candle's warm glow. Classic storybook art style, woodland forest feeling, dappled light, anthropomorphic animals, cozy atmosphere, Beatrix Potter inspired, with warm earth tones and detailed features.",
           "alt": "A unicorn confessing the truth to two young sparrows at a library table",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-animals-c739cff1a0/scene_4_1.png"
         }
       ]
     },
@@ -66,7 +70,8 @@
         {
           "description": "In the warm candlelit library, Mrs. Featherworth the owl, two young sparrows, and Stardust, a young unicorn with a pearly-white coat, a rainbow-pastel mane and tail, a glowing spiral horn, and shimmering silver hooves, gather around a children's astronomy book. The unicorn's horn glows brightly with happiness as they prepare to read together. The vast library shelves tower around them in gentle shadows. Classic storybook art style, woodland forest atmosphere, dappled candlelight, anthropomorphic animals, cozy details, Beatrix Potter inspired, with warm earth tones and loving expressions.",
           "alt": "A group of forest creatures reading together by candlelight in a library",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-animals-c739cff1a0/scene_5_1.png"
         }
       ]
     },
@@ -77,7 +82,8 @@
         {
           "description": "Stardust, a young unicorn with a pearly-white coat, a rainbow-pastel mane and tail, a glowing spiral horn, and shimmering silver hooves, walking away from a nearly burnt-out candle on a wooden table in the vast library. Her figure is silhouetted against the towering bookshelves, and she appears peaceful and lighter in spirit. The candle's flame is small and flickering, about to go out. Classic storybook art style, woodland forest feeling, gentle shadows and fading light, anthropomorphic animals, cozy atmosphere, Beatrix Potter inspired, with warm earth tones and a sense of closure.",
           "alt": "A unicorn walking away from a dying candle in a peaceful library",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-animals-c739cff1a0/scene_6_1.png"
         }
       ]
     }
