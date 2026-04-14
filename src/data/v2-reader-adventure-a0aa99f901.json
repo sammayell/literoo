@@ -12,7 +12,7 @@
   "wordCount": 1926,
   "readingLevel": "2nd-3rd Grade",
   "synopsis": "When Finn discovers a mysterious recipe hidden in his grandmother's mountain cabin, he has until sunset to decode the clues and prepare a special dish that holds the key to a family secret.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-adventure-a0aa99f901/cover.png",
   "chapters": [
     {
       "title": "The Parchment Falls",
@@ -21,7 +21,8 @@
         {
           "description": "A boy with messy sandy-blonde hair, pale skin with freckles, and blue-green eyes kneeling by a stone fireplace, holding an aged parchment that has just fallen from wooden rafters above. The scene is drawn in treasure map style with sepia tones, showing the cozy interior of a mountain cabin with warm fire glow and mysterious symbols visible on the parchment.",
           "alt": "Finn discovering the mysterious recipe parchment by the fireplace",
-          "position": "after-paragraph-2"
+          "position": "after-paragraph-2",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-adventure-a0aa99f901/scene_1_1.png"
         }
       ]
     },
@@ -32,7 +33,8 @@
         {
           "description": "A boy with messy sandy-blonde hair, pale skin with freckles, and blue-green eyes examining the aged parchment spread on a wooden table near a window. Shelves of colorful spice jars line the wall behind him, each labeled with exotic names. The scene is rendered in treasure map style with golden afternoon light streaming through windows, compass rose details, and sepia tones throughout the cozy cabin kitchen.",
           "alt": "Finn studying the parchment and examining grandmother's collection of spices from around the world",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-adventure-a0aa99f901/scene_2_1.png"
         }
       ]
     },
@@ -43,7 +45,8 @@
         {
           "description": "A boy with messy sandy-blonde hair, pale skin with freckles, and blue-green eyes arranging various colorful spices on a wooden table, matching them to symbols on the aged parchment. Small piles of golden turmeric, black peppercorns, green cardamom pods, and sparkling sea salt are carefully organized. The scene is drawn in treasure map style with dotted trails connecting the spices to symbols on the parchment, warm amber light from the setting sun, and compass rose decorations.",
           "alt": "Finn matching spices to symbols on the mysterious recipe parchment",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-adventure-a0aa99f901/scene_3_1.png"
         }
       ]
     },
@@ -54,7 +57,8 @@
         {
           "description": "A boy with messy sandy-blonde hair, pale skin with freckles, and blue-green eyes having a moment of realization while standing in the amber-lit cabin. The aged parchment lies open on the table with the seven spices arranged around it, and through the window, the sun is setting behind snow-covered mountain peaks in deep red and orange colors. The scene is rendered in treasure map style with warm jewel-toned accents and a sense of urgency as shadows lengthen.",
           "alt": "Finn understanding the true meaning of the recipe as the sun sets behind the mountains",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-adventure-a0aa99f901/scene_4_1.png"
         }
       ]
     },
@@ -65,7 +69,8 @@
         {
           "description": "A boy with messy sandy-blonde hair, pale skin with freckles, and blue-green eyes cooking at a vintage stove in the mountain cabin kitchen. Steam rises from a pot as he adds colorful spices, and the seven spice jars are arranged nearby. Deep red sunset light streams through the windows, creating dramatic shadows. The scene is drawn in treasure map style with dotted trails of aromatic steam, jewel-toned spice colors, and the urgency of the approaching sunset visible through windows.",
           "alt": "Finn cooking the mysterious recipe as the sun sets, combining spices from seven lands",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-adventure-a0aa99f901/scene_5_1.png"
         }
       ]
     },
@@ -76,7 +81,8 @@
         {
           "description": "A boy with messy sandy-blonde hair, pale skin with freckles, and blue-green eyes sitting at a wooden table in the firelit cabin, eating from a blue bowl filled with golden, aromatic rice. The aged parchment lies beside the bowl with new words glowing in the firelight. Through the windows, the sun has set behind snow-covered peaks, and the cabin is warm with golden fire glow. The scene is rendered in treasure map style with jewel accents highlighting the steam from the bowl and the mysterious new text on the parchment.",
           "alt": "Finn enjoying the completed seven-land feast as night falls over the mountain cabin",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-adventure-a0aa99f901/scene_6_1.png"
         }
       ]
     },
@@ -87,7 +93,8 @@
         {
           "description": "A boy with messy sandy-blonde hair, pale skin with freckles, and blue-green eyes sitting by the stone fireplace writing in a notebook, with the aged parchment recipe beside him. The mountain cabin is cozy and warm in the firelight, snow falling gently outside the windows. His notebook is open showing him copying the mysterious recipe, and the seven spice jars are arranged nearby like treasures. The scene is rendered in treasure map style with sepia tones, compass rose details, and jewel accents highlighting the peaceful, satisfied expression on his face.",
           "alt": "Finn copying the seven-land recipe into his own notebook by the warm firelight",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-adventure-a0aa99f901/scene_7_1.png"
         }
       ]
     }
