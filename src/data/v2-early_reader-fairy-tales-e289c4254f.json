@@ -1,0 +1,217 @@
+{
+  "id": "v2-early_reader-fairy-tales-e289c4254f",
+  "title": "Seven Bubbles Before Dawn",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "fairy-tales"
+  ],
+  "wordCount": 616,
+  "readingLevel": "Grade 1-2",
+  "synopsis": "A young sea turtle discovers mysterious gifts appearing in a midnight bakery, each one teaching her about the science of baking through magical encounters.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-e289c4254f/cover.png",
+  "chapters": [
+    {
+      "title": "The Bread Whispers",
+      "pages": [
+        {
+          "text": "Warm air carries secrets through the darkness, and I follow them on silent flippers. The bakery door stands open like a golden mouth, breathing out the smell of rising dough. I am Coral, and I should not be here at four in the morning, but the ocean told me to come. Inside, flour dust dances in the lamplight like tiny stars. The baker sleeps upstairs, and I hear his dreams mixing with the yeast. On the counter sits a small glass bottle, glowing soft blue. Inside swirls a single bubble, perfect and round. When I touch the bottle, words appear in the steam on the window: 'Mix gently, little turtle. Science lives in bubbles.' The first gift has found me.",
+          "illustration": {
+            "description": "A golden age illustration showing a cheerful young sea turtle with a patterned green-and-gold shell, flippers, and friendly dark eyes, entering a warm bakery at 4am with glowing ovens and floating flour particles. The scene has Arthur Rackham inspired detailed pen work with watercolor washes, ornate decorative borders, and an enchanted fairy tale atmosphere.",
+            "alt": "Coral entering the mysterious bakery at dawn",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-e289c4254f/scene_1_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Heat and Magic",
+      "pages": [
+        {
+          "text": "The second morning brings rain against the bakery windows, but inside stays warm and dry. I slip through shadows to find my second gift waiting near the great stone oven. This time, a small copper thermometer glows red at its tip. The numbers dance up and down as I hold it near the oven's mouth. 'Temperature is a secret language,' whispers a voice from the flames. 'Too hot burns dreams. Too cool keeps them sleeping.' I watch the bread inside the oven, its crust turning golden brown. The thermometer shows exactly when magic happens - not too hot, not too cold, but just right. I tuck the gift into my shell and taste the mystery on my tongue.",
+          "illustration": {
+            "description": "A golden age illustration showing a cheerful young sea turtle with a patterned green-and-gold shell, flippers, and friendly dark eyes, holding a glowing copper thermometer near a large stone oven with golden bread inside. The scene has Arthur Rackham inspired detailed pen work with watercolor washes, ornate decorative borders, and an enchanted fairy tale atmosphere.",
+            "alt": "Coral discovering the magical thermometer by the oven",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-e289c4254f/scene_2_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Weight of Wonder",
+      "pages": [
+        {
+          "text": "On the third night, fog wraps around the bakery like a soft gray blanket. My flippers leave wet prints on the wooden floor as I search for what awaits me. Behind a sack of flour, I discover a tiny silver scale, no bigger than a seashell. When I place a grain of salt on one side, it tips with surprising weight. 'Every ingredient matters,' hums the scale in a voice like wind chimes. 'Too much salt makes tears. Too little makes emptiness. But just enough makes magic taste like home.' I practice with sugar crystals, watching them pile up like tiny mountains. Each grain counts. Each measurement holds power. The scale teaches me that even the smallest things can change everything.",
+          "illustration": {
+            "description": "A golden age illustration showing a cheerful young sea turtle with a patterned green-and-gold shell, flippers, and friendly dark eyes, examining a tiny silver scale with ingredients scattered around in a foggy bakery. The scene has Arthur Rackham inspired detailed pen work with watercolor washes, ornate decorative borders, and an enchanted fairy tale atmosphere.",
+            "alt": "Coral learning about measurement with the magical scale",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-e289c4254f/scene_3_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Time's Secret Clock",
+      "pages": [
+        {
+          "text": "The fourth gift waits inside a mixing bowl, ticking softly like a sleeping heart. A small golden timer, warm to touch, with hands that move backward and forward. 'Time is the most important ingredient,' it whispers as I wind its tiny key. 'Bread that rises too fast falls flat. Bread that waits too long grows sour. But bread that rises just long enough...' The timer chimes once, sweet and clear, and I watch nearby dough puff up like a pillow. The yeast inside works slowly, patiently, turning sugar into air. I learn that some magic cannot be rushed, that the best things happen when we wait for exactly the right moment.",
+          "illustration": {
+            "description": "A golden age illustration showing a cheerful young sea turtle with a patterned green-and-gold shell, flippers, and friendly dark eyes, holding a golden timer next to rising dough in a mixing bowl. The scene has Arthur Rackham inspired detailed pen work with watercolor washes, ornate decorative borders, and an enchanted fairy tale atmosphere.",
+            "alt": "Coral discovering the importance of timing with the magical timer",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-e289c4254f/scene_4_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Last Gift",
+      "pages": [
+        {
+          "text": "On the seventh morning, as the first light creeps through the bakery windows, I find the baker himself waiting for me. He smiles and holds out a wooden spoon, carved smooth by countless hands. 'This was my grandmother's,' he says quietly. 'And her grandmother's before that. They knew what you've been learning - that baking is both art and science, magic and measurement.' He kneels down to my level. 'I've been watching you discover our secrets, little turtle. The gifts chose you because you understand that wonder lives in understanding how things work.' Together, we mix a batch of dough, and I see how all seven gifts work as one - bubbles and heat, weight and time, patience and knowledge. As the sun rises, the baker gives me warm bread to carry home to the sea. 'Come back anytime,' he whispers. 'The bakery remembers its friends.'",
+          "illustration": {
+            "description": "A golden age illustration showing a cheerful young sea turtle with a patterned green-and-gold shell, flippers, and friendly dark eyes, standing beside the kind baker who offers her a wooden spoon in the dawn-lit bakery. The scene has Arthur Rackham inspired detailed pen work with watercolor washes, ornate decorative borders, and an enchanted fairy tale atmosphere.",
+            "alt": "Coral receiving the final gift from the baker at sunrise",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-e289c4254f/scene_5_1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "STEM curiosity",
+      "patience",
+      "learning through observation"
+    ],
+    "vocabulary": [
+      "thermometer",
+      "measurement",
+      "yeast",
+      "temperature",
+      "ingredients"
+    ],
+    "teachingMoments": [
+      "scientific method through baking",
+      "importance of precise measurement",
+      "understanding chemical reactions"
+    ],
+    "coverPrompt": {
+      "description": "A golden age illustration showing a cheerful young sea turtle with a patterned green-and-gold shell, flippers, and friendly dark eyes, standing in a warm bakery filled with glowing ovens and floating bread. The scene has Arthur Rackham inspired detailed pen work with watercolor washes, ornate decorative borders, and an enchanted fairy tale atmosphere.",
+      "alt": "Coral the sea turtle in a magical bakery at dawn"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Why does Coral visit the bakery at 4am?",
+        "choices": [
+          "The ocean told her to come",
+          "She was hungry",
+          "She wanted to steal bread"
+        ],
+        "correctIndex": 0,
+        "explanation": "The ocean told Coral to follow the warm air and secrets to the bakery."
+      },
+      {
+        "id": "q2",
+        "question": "What does the thermometer teach Coral?",
+        "choices": [
+          "How to tell time",
+          "That temperature matters for baking",
+          "How to measure flour"
+        ],
+        "correctIndex": 1,
+        "explanation": "The thermometer shows Coral that bread needs just the right temperature - not too hot or too cold."
+      },
+      {
+        "id": "q3",
+        "question": "What happens if bread rises too fast?",
+        "choices": [
+          "It falls flat",
+          "It tastes better",
+          "It turns purple"
+        ],
+        "correctIndex": 0,
+        "explanation": "The golden timer teaches that bread rising too fast will fall flat - timing is important."
+      },
+      {
+        "id": "q4",
+        "question": "How many gifts does Coral receive total?",
+        "choices": [
+          "Five",
+          "Six",
+          "Seven"
+        ],
+        "correctIndex": 2,
+        "explanation": "Coral receives seven gifts over seven days, including the final wooden spoon from the baker."
+      },
+      {
+        "id": "q5",
+        "question": "Why do the gifts choose Coral?",
+        "choices": [
+          "She's the only turtle around",
+          "She understands that wonder lives in learning how things work",
+          "She's very hungry"
+        ],
+        "correctIndex": 1,
+        "explanation": "The baker explains that the gifts chose Coral because she understands that baking combines magic with science."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "secrets",
+            "distractors": [
+              "cookies",
+              "fish"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "golden",
+            "distractors": [
+              "silver",
+              "purple"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "thermometer",
+            "distractors": [
+              "telescope",
+              "calculator"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "temperature",
+            "distractors": [
+              "color",
+              "sound"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "coral"
+}
