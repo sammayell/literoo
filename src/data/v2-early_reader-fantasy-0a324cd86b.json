@@ -1,0 +1,237 @@
+{
+  "id": "v2-early_reader-fantasy-0a324cd86b",
+  "title": "Upside Down Weather",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "fantasy"
+  ],
+  "wordCount": 355,
+  "readingLevel": "Grade K-1",
+  "synopsis": "Inside a snow globe, Nimbus the cloud being discovers the weather has turned completely upside down. Snow falls up, rain drops float, and everything is backwards. With her friend Pip the snowflake, Nimbus must build a special weather machine to set things right again.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-0a324cd86b/cover.png",
+  "chapters": [
+    {
+      "title": "Day One: The Discovery",
+      "pages": [
+        {
+          "text": "The snow was falling up. Nimbus watched it float toward the glass ceiling. This was not normal. Snow always fell down in the snow globe world. Always. Nimbus had lived here for one hundred cloud years. Snow fell down. Rain fell down. Leaves fell down. Today was different.",
+          "illustration": {
+            "description": "Inside a snow globe, Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, stares up at snowflakes floating upward. The scene shows an enchanted forest with glowing mushrooms, fairy lights, mystical creatures in the background, rich greens and purples, golden sparkles, Studio Ghibli inspired magical atmosphere with detailed foliage.",
+            "alt": "Nimbus watching snow fall upward in the snow globe",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-0a324cd86b/scene_1_1.png"
+          }
+        },
+        {
+          "text": "Pip the snowflake drifted over. Pip was also floating up instead of down. 'This is very serious,' said Pip. 'I should be falling.' 'Yes,' said Nimbus. 'Very serious indeed.' They both nodded. The rainbow ribbon behind Nimbus swayed in the upward breeze.",
+          "illustration": {
+            "description": "Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, talks with Pip, a delicate crystalline snowflake. Both are floating upward in the snow globe. The background shows an enchanted forest with glowing mushrooms, fairy lights, rich greens and purples, golden sparkles, Studio Ghibli inspired magical atmosphere with detailed foliage.",
+            "alt": "Nimbus and Pip discussing the upward weather",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-0a324cd86b/scene_1_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Day Two: The Problem",
+      "pages": [
+        {
+          "text": "The rain started falling up too. Each droplet floated like a tiny balloon. The puddles were on the ceiling now. The fish in the snow globe pond were very confused. They swam upside down. 'This cannot continue,' said Nimbus. Pip agreed completely.",
+          "illustration": {
+            "description": "Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, floats near upside-down fish in a pond while rain drops float upward. The enchanted forest setting has glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired magical atmosphere with detailed foliage.",
+            "alt": "Upside down rain and confused fish with Nimbus observing",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-0a324cd86b/scene_2_1.png"
+          }
+        },
+        {
+          "text": "Even the wind was backwards. It blew from bottom to top. The tiny snow globe trees were bending the wrong way. Their roots were trying to grow up. Their leaves reached for the ground. 'Something must be done,' said Nimbus. She was very sure about this.",
+          "illustration": {
+            "description": "Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, examines upside-down trees with roots growing upward and leaves reaching down. The scene is set in an enchanted forest with glowing mushrooms, fairy lights, mystical atmosphere, rich greens and purples, golden sparkles, Studio Ghibli inspired with detailed foliage.",
+            "alt": "Nimbus looking at upside-down trees in the snow globe",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-0a324cd86b/scene_2_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Day Three: The Choice",
+      "pages": [
+        {
+          "text": "Nimbus had an idea. She would build a weather machine. 'We need gears,' she told Pip. They collected bottle caps and buttons. 'We need springs.' They found old watch parts and paper clips. 'We need magic.' Nimbus added some of her own cloud fluff.",
+          "illustration": {
+            "description": "Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, and Pip gather materials for building. Bottle caps, buttons, watch parts, and paper clips are scattered around them in the enchanted forest setting with glowing mushrooms, fairy lights, rich greens and purples, golden sparkles, Studio Ghibli inspired magical atmosphere with detailed foliage.",
+            "alt": "Nimbus and Pip collecting materials to build a weather machine",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-0a324cd86b/scene_3_1.png"
+          }
+        },
+        {
+          "text": "They built the machine carefully. Very carefully. Nimbus attached the gears. Pip connected the springs. They wound it up. They held their breath. The machine hummed. It clicked. It whirred. Then it worked. The snow began falling down again. Properly.",
+          "illustration": {
+            "description": "Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, and Pip stand next to their completed weather machine as snow begins to fall downward normally. The enchanted forest background has glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired magical atmosphere with detailed foliage.",
+            "alt": "Nimbus and Pip with their working weather machine as snow falls properly",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-0a324cd86b/scene_3_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Fix",
+      "pages": [
+        {
+          "text": "The rain fell down. The wind blew sideways. The trees stood right-side up. The fish swam normally. Everything was as it should be. 'Good work,' said Pip. 'Very good work,' agreed Nimbus. They were both quite pleased. The weather machine ticked quietly in the corner.",
+          "illustration": {
+            "description": "Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, and Pip celebrate as normal weather returns to the snow globe. Fish swim properly, trees stand upright, and their weather machine sits in the corner. The enchanted forest has glowing mushrooms, fairy lights, rich greens and purples, golden sparkles, Studio Ghibli inspired magical atmosphere with detailed foliage.",
+            "alt": "Normal weather restored in the snow globe with Nimbus and Pip celebrating",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-0a324cd86b/scene_4_1.png"
+          }
+        },
+        {
+          "text": "That night, Nimbus dreamed of gears and springs. She dreamed of building and making. She dreamed of fixing impossible things. When she woke up, the weather was still perfect. The machine was still working. Some problems, she realized, just needed the right tools. And good friends to help.",
+          "illustration": {
+            "description": "Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, sleeping peacefully while dreaming of gears and mechanical parts floating around her. The nighttime scene in the enchanted forest shows glowing mushrooms providing soft light, fairy lights twinkling, rich greens and purples, golden sparkles, Studio Ghibli inspired magical atmosphere with detailed foliage.",
+            "alt": "Nimbus sleeping and dreaming of mechanical parts and building",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-0a324cd86b/scene_4_2.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "problem-solving",
+      "building",
+      "cooperation"
+    ],
+    "vocabulary": [
+      "weather",
+      "machine",
+      "gears",
+      "springs",
+      "upside-down",
+      "properly"
+    ],
+    "moralLesson": "Working together and using creativity can solve even impossible problems",
+    "coverPrompt": {
+      "description": "A magical snow globe sitting on a wooden table, with swirling upside-down weather inside. Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, floats in the center while snow falls upward around her. The scene has an enchanted forest atmosphere with glowing mushrooms at the base, fairy lights twinkling, mystical sparkles, rich greens and purples, golden sparkles, Studio Ghibli inspired magical atmosphere with detailed foliage.",
+      "alt": "A snow globe with upside-down weather and Nimbus the cloud being inside"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What was wrong with the weather in the snow globe?",
+        "choices": [
+          "It was too hot",
+          "It was falling upward",
+          "It stopped completely"
+        ],
+        "correctIndex": 1,
+        "explanation": "The snow and rain were falling up instead of down, which was very unusual!"
+      },
+      {
+        "id": "q2",
+        "question": "Who helped Nimbus solve the problem?",
+        "choices": [
+          "Pip the snowflake",
+          "A fish",
+          "The trees"
+        ],
+        "correctIndex": 0,
+        "explanation": "Pip the snowflake worked together with Nimbus to build the weather machine."
+      },
+      {
+        "id": "q3",
+        "question": "What did they build to fix the weather?",
+        "choices": [
+          "A house",
+          "A weather machine",
+          "A boat"
+        ],
+        "correctIndex": 1,
+        "explanation": "They built a weather machine using gears, springs, and cloud fluff."
+      },
+      {
+        "id": "q4",
+        "question": "What materials did they use?",
+        "choices": [
+          "Rocks and sticks",
+          "Bottle caps and buttons",
+          "Flowers and leaves"
+        ],
+        "correctIndex": 1,
+        "explanation": "They collected bottle caps, buttons, watch parts, paper clips, and cloud fluff."
+      },
+      {
+        "id": "q5",
+        "question": "How did the fish react to the upside-down weather?",
+        "choices": [
+          "They were very confused",
+          "They were happy",
+          "They didn't notice"
+        ],
+        "correctIndex": 0,
+        "explanation": "The fish were very confused and had to swim upside down because of the backwards weather."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "falling",
+            "distractors": [
+              "flying",
+              "dancing"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "serious",
+            "distractors": [
+              "funny",
+              "silly"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 6,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "machine",
+            "distractors": [
+              "house",
+              "cake"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "gears",
+            "distractors": [
+              "flowers",
+              "cookies"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "nimbus"
+}
