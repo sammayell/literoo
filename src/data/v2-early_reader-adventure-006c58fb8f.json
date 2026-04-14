@@ -1,0 +1,238 @@
+{
+  "id": "v2-early_reader-adventure-006c58fb8f",
+  "title": "Before the Last Sunset",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "adventure",
+    "fantasy"
+  ],
+  "wordCount": 862,
+  "readingLevel": "K-1",
+  "synopsis": "A tiny field mouse named Pebble ventures into the coral reef with a magical water bubble to help sea creatures find their lost guardian before sunset, making unexpected friendships along the way.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-006c58fb8f/cover.png",
+  "chapters": [
+    {
+      "title": "The Bubble Wish",
+      "pages": [
+        {
+          "text": "Blue water sparkles everywhere. Pebble sits on a rock by the ocean. The tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes adjusts her bluebell-flower cap. She makes a list in her head. Things she wishes for. One: to swim like fish. Two: to see the coral reef. Three: to help someone today. A silver fish jumps from the water. 'Little mouse!' the fish calls. 'The reef needs help!' Pebble's whiskers twitch. 'But I cannot swim,' she squeaks. The fish blows a magical bubble. Big enough for a tiny mouse. 'This will keep you dry,' the fish says. 'Will you come?' Pebble looks at the sun. It hangs low in the sky. Golden light spreads across the water.",
+          "illustration": {
+            "description": "A treasure map style illustration on aged parchment showing a tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, sitting on a coastal rock. A silver fish jumps from sparkling blue water, creating a magical shimmering bubble. Sepia tones frame the scene with compass roses and dotted trails leading toward the ocean depths.",
+            "alt": "Pebble the mouse meets a silver fish who offers a magical bubble",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-006c58fb8f/scene_1_1.png"
+          }
+        },
+        {
+          "text": "'Yes,' Pebble says. Her voice is small but sure. She steps into the bubble. It feels warm and safe. Down they go. Into the blue. The water gets deeper. Darker. Then suddenly bright again. Pebble gasps. The coral reef stretches everywhere. Pink corals. Orange corals. Purple sea fans wave in the current. A thousand small fish swim in silver clouds. They dart left. They dart right. They spin in circles. 'Beautiful,' Pebble whispers. But something feels wrong. The fish swim too fast. Their eyes look worried.",
+          "illustration": {
+            "description": "A treasure map style illustration showing a tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, floating in a magical bubble through a bright coral reef. Thousands of small silver fish swirl around colorful corals in jewel tones. The aged parchment background has adventure cartography elements with hand-drawn reef formations.",
+            "alt": "Pebble descends in her bubble into the colorful coral reef surrounded by worried fish",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-006c58fb8f/scene_1_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Guardian's List",
+      "pages": [
+        {
+          "text": "A bright yellow fish swims to Pebble's bubble. 'Are you here to help?' the fish asks. 'Our Guardian is missing!' Pebble makes a new list. Things to find out. One: what is a Guardian. Two: where did it go. Three: how to bring it back. 'The Guardian keeps us safe,' the yellow fish explains. 'It glows like the sun. It sings to calm the storms. Without it, we are lost.' More fish gather around Pebble's bubble. A striped fish. A spotted fish. A fish with fins like ribbons. They all look scared. 'The Guardian must return before sunset,' the yellow fish says. 'Or the reef will go dark forever.' Pebble looks up. The sun looks lower now.",
+          "illustration": {
+            "description": "A treasure map style illustration on aged parchment showing a tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, surrounded by various colorful reef fish in her magical bubble. A bright yellow fish leads the group, with striped, spotted, and ribbon-finned fish gathered around. Compass roses and dotted trails suggest the urgency of their quest.",
+            "alt": "Various reef fish gather around Pebble's bubble to explain about their missing Guardian",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-006c58fb8f/scene_2_1.png"
+          }
+        },
+        {
+          "text": "'I will help,' Pebble says. The tiny mouse feels brave inside her bubble. 'Tell me everything.' The fish make their own list. Clues about the Guardian. One: it swims to the deep caves when sad. Two: it glows brighter when happy. Three: it loves old songs. 'Yesterday it seemed lonely,' the yellow fish says. 'It swam away singing a sad tune.' Pebble nods. Her whiskers twitch with thinking. 'Maybe it just needs friends,' she suggests. The fish look surprised. They never thought of that. 'But we are so small,' the spotted fish says. 'The Guardian is so big.' 'Small can help big,' Pebble says firmly. 'I know this for sure.'",
+          "illustration": {
+            "description": "A treasure map style illustration showing a tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, listening intently to fish sharing clues. The aged parchment style shows thought bubbles with images of deep caves and glowing creatures, while adventure cartography elements frame the scene with jewel accents.",
+            "alt": "Pebble listens as the fish share clues about their missing Guardian",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-006c58fb8f/scene_2_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Songs in the Deep",
+      "pages": [
+        {
+          "text": "The fish guide Pebble deeper into the reef. Past tall sea grass. Past sleeping sea stars. To where the coral caves begin. Dark openings in the reef wall. 'The Guardian is in there,' the yellow fish whispers. 'But we are afraid of the deep caves.' Pebble makes her biggest list yet. Reasons to be brave. One: friends need help. Two: time is running short. Three: being tiny means fitting in small spaces. 'Wait here,' Pebble tells the fish. Her bubble floats into the cave. The water gets very dark. But then Pebble sees it. A soft glow from deep inside. Golden light like sunset. The Guardian.",
+          "illustration": {
+            "description": "A treasure map style illustration on aged parchment showing a tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, floating in her magical bubble toward dark coral caves. A golden glow emanates from deep within the caves while worried fish watch from outside. Hand-drawn map elements and sepia tones create an atmosphere of brave exploration.",
+            "alt": "Pebble approaches the dark caves where a golden glow reveals the Guardian's location",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-006c58fb8f/scene_3_1.png"
+          }
+        },
+        {
+          "text": "The Guardian is huge. Like a gentle whale made of light. Its song echoes sadly through the cave. Low notes. Slow notes. Lonely notes. 'Hello,' Pebble calls softly. The Guardian turns. Its eyes are kind but sad. 'Little mouse,' it says in a voice like ocean waves. 'Why do you come to this dark place?' 'Your fish friends miss you,' Pebble says. 'They are worried. They need you before sunset.' The Guardian's glow dims. 'I am too big. Too different. They swim away when I come near.' Pebble understands now. She felt different too. The only mouse who dreamed of the sea.",
+          "illustration": {
+            "description": "A treasure map style illustration showing a tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, meeting a massive glowing whale-like Guardian in an underwater cave. The Guardian's gentle light illuminates the cave walls with golden jewel tones against the aged parchment background, with adventure cartography elements framing the touching encounter.",
+            "alt": "Pebble meets the sad, glowing Guardian in the depths of the coral cave",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-006c58fb8f/scene_3_2.png"
+          }
+        },
+        {
+          "text": "'They do not swim away because you are different,' Pebble explains. 'They swim away because they think you do not want small friends.' The Guardian's eyes grow wide. 'But I love small friends,' it says. 'I just do not know how to show it.' Pebble has an idea. 'Sing a happy song,' she suggests. 'Call them to come close. Show them your gentle heart.' The Guardian begins to sing. A new song. Bright notes. Welcoming notes. The song flows out of the cave. Pebble's bubble carries her back to the reef. The thousand small fish hear the song. They swim toward the sound. Not away. Toward.",
+          "illustration": {
+            "description": "A treasure map style illustration on aged parchment showing a tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, as musical notes flow from the cave behind her. Thousands of small fish swim in beautiful formations toward the cave entrance, drawn by the Guardian's joyful song. Dotted trails and compass roses mark the fish's movement with jewel-toned accents.",
+            "alt": "Musical notes flow from the cave as thousands of fish swim toward the Guardian's happy song",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-006c58fb8f/scene_3_3.png"
+          }
+        },
+        {
+          "text": "The Guardian emerges from the cave. Glowing brighter than ever. The thousand small fish surround it like a living constellation. They are not afraid. They dance in the Guardian's light. 'Thank you, tiny mouse,' the Guardian says to Pebble. 'You taught me that different friends make the best friends.' The sun touches the horizon above. Just in time. The reef glows with golden light. Safe once more. Pebble makes her final list. Things she learned today. One: brave comes in all sizes. Two: friendship crosses every difference. Three: the sea has room for mice too. The silver fish carries Pebble home. In her heart, she knows she will return.",
+          "illustration": {
+            "description": "A treasure map style illustration showing a tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, watching as the massive glowing Guardian swims among thousands of small fish like stars around the sun. The coral reef blazes with golden sunset light, and treasure map elements frame this triumphant scene with jewel accents and hand-drawn celebration details.",
+            "alt": "The Guardian swims happily among the thousand small fish as Pebble watches the reef glow with sunset light",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-006c58fb8f/scene_3_4.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship across differences",
+      "courage",
+      "helping others",
+      "acceptance"
+    ],
+    "vocabulary": [
+      "coral reef",
+      "guardian",
+      "constellation",
+      "current",
+      "horizon"
+    ],
+    "readingSkills": [
+      "sequence",
+      "character motivation",
+      "cause and effect",
+      "making inferences"
+    ],
+    "illustrations": 7,
+    "coverPrompt": {
+      "description": "A treasure map style illustration showing a tiny field mouse with soft tan fur, rounded ears, a pink nose, and bright shiny black eyes, wearing a bluebell-flower cap, swimming in a magical bubble through a bright coral reef. The parchment background has sepia tones with jewel-colored corals, compass roses in the corners, and dotted trails marking an underwater adventure path.",
+      "alt": "Cover showing Pebble the mouse in an underwater adventure through a coral reef"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Why does Pebble go into the ocean even though she cannot swim?",
+        "choices": [
+          "She wants to play with fish",
+          "The fish needs her help",
+          "She is looking for treasure"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pebble goes into the ocean because the silver fish tells her the reef needs help, and she wants to help someone."
+      },
+      {
+        "id": "q2",
+        "question": "What must happen before sunset?",
+        "choices": [
+          "The Guardian must return",
+          "Pebble must go home",
+          "The fish must hide"
+        ],
+        "correctIndex": 0,
+        "explanation": "The Guardian must return before sunset, or the reef will go dark forever."
+      },
+      {
+        "id": "q3",
+        "question": "Why is the Guardian hiding in the caves?",
+        "choices": [
+          "It is sleeping",
+          "It feels lonely and different",
+          "It is angry at the fish"
+        ],
+        "correctIndex": 1,
+        "explanation": "The Guardian is hiding because it feels too big and different, thinking the small fish don't want to be its friends."
+      },
+      {
+        "id": "q4",
+        "question": "How does Pebble help the Guardian?",
+        "choices": [
+          "She sings a song",
+          "She tells it the fish want to be friends",
+          "She brings it food"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pebble helps by explaining that the fish swim away not because the Guardian is different, but because they think it doesn't want small friends."
+      },
+      {
+        "id": "q5",
+        "question": "What does Pebble learn about friendship?",
+        "choices": [
+          "Friends must be the same size",
+          "Different friends make the best friends",
+          "Friendship is too hard"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pebble learns that different friends make the best friends, and that friendship can cross any difference."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "reef",
+            "distractors": [
+              "cave",
+              "rock"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "bubble",
+            "distractors": [
+              "shell",
+              "wave"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "Guardian",
+            "distractors": [
+              "monster",
+              "treasure"
+            ]
+          },
+          {
+            "wordIndex": 23,
+            "correctWord": "sunset",
+            "distractors": [
+              "morning",
+              "storm"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "pebble"
+}
