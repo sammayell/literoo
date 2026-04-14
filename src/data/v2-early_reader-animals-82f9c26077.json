@@ -1,0 +1,228 @@
+{
+  "id": "v2-early_reader-animals-82f9c26077",
+  "title": "Notes from the Underground",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "animals",
+    "mystery"
+  ],
+  "wordCount": 1013,
+  "readingLevel": "Beginning Reader",
+  "synopsis": "Sorrel the fawn discovers a secret tunnel under the garden shed and must decode mysterious scratch marks to communicate with an unknown creature hiding in the darkness.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-82f9c26077/cover.png",
+  "chapters": [
+    {
+      "title": "THREE",
+      "pages": [
+        {
+          "text": "Something scratched beneath the old garden shed last night. Field Note #1: Three distinct scraping sounds, repeated in patterns. I press my nose to the wooden boards. The scent is unfamiliar—earthy, but with something else. Something afraid.\n\nBehind the shed, I find loose dirt piled in small mounds. Fresh digging. My hooves make soft clicks on the wooden planks above as I circle the structure. There—a gap between two foundation stones, just wide enough for a small fawn to squeeze through.\n\nThe tunnel beyond is cool and damp. Root tendrils hang from the earthen ceiling like tiny fingers. I can smell mushrooms and old leaves, and that same frightened scent, stronger now. My dark eyes adjust to the dimness. Claw marks score the walls in careful lines—too deliberate to be random digging.",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes squeezing through a narrow gap between foundation stones into a dark tunnel. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Sorrel entering the secret tunnel under the shed",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-82f9c26077/scene_1_1.png"
+          }
+        },
+        {
+          "text": "Field Note #2: The scratch marks appear to be intentional. Three parallel lines, then five shorter ones, then three again. A pattern. I trace them with my hoof tip, feeling the deliberate depth and spacing.\n\nA soft rustling comes from deeper in the tunnel. I freeze, listening. The sound stops when I stop moving. Someone else is down here. Someone who doesn't want to be found.\n\n\"Hello?\" My voice echoes strangely in the narrow space. The rustling stops completely. Even the sound of breathing disappears. But the frightened scent grows stronger, mixed now with something that smells like... curiosity?\n\nI notice more marks on the tunnel wall. These look different—curved lines and dots, arranged in small groups. Like symbols. Like someone trying to write something they can't say.",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes examining scratch marks on an earthen tunnel wall with root tendrils hanging from above. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Sorrel studying the mysterious scratch marks in the tunnel",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-82f9c26077/scene_1_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "TWO",
+      "pages": [
+        {
+          "text": "Field Note #3: I return the next evening with fresh observations. The tunnel extends further than I first thought, branching into two smaller passages. The scratch marks continue along both paths, growing more complex deeper underground.\n\nIn the left passage, I find something unexpected—a small pile of acorns, arranged in neat rows. Food stored carefully, methodically. Someone lives down here. Someone who plans ahead and thinks about tomorrow.\n\nA whisper of movement in the right passage. I turn slowly, making my hooves click softly against the packed earth floor. A greeting sound, I hope. The rustling pauses, then continues. Closer this time.\n\nField Note #4: The symbols on the walls change here. Instead of random scratches, I see clear pictures—a circle with rays around it. Sun, maybe? Below it, wavy lines that could mean water. And something that looks almost like... a fawn? With spots?",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes looking at carefully arranged acorns in an underground tunnel with branching passages. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Sorrel discovering the arranged acorns in the tunnel",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-82f9c26077/scene_2_1.png"
+          }
+        },
+        {
+          "text": "I hear breathing now. Quiet, careful breathing from the shadows ahead. I stop moving and listen. The breathing continues—not trying to hide anymore, but not coming closer either.\n\n\"I see your pictures,\" I say softly to the darkness. \"They're very good.\"\n\nThe breathing stops. Then, after a long pause, a new sound—gentle scratching against the tunnel wall. Someone is making fresh marks while I listen.\n\nField Note #5: Communication attempt observed. Subject responds to voice with mark-making behavior. Hypothesis: the tunnel dweller cannot speak but can create symbols. I move closer, my hooves announcing each step. The scratching continues, more confident now.\n\nIn the dim light, I see a small dark shape pressed against the far wall. Round ears, a long tail, tiny paws still working at the earth. Not a fawn at all.",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes approaching a small dark creature with round ears and a long tail who is scratching symbols on the tunnel wall. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Sorrel discovering the mysterious creature making marks on the wall",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-82f9c26077/scene_2_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "ONE",
+      "pages": [
+        {
+          "text": "Field Note #6: Subject identified as young groundhog, approximately my age. Shows signs of recent separation from family group. Tunnel system appears to be temporary shelter, not permanent burrow.\n\nThe little groundhog stops scratching and looks at me with bright, worried eyes. Her new drawing shows two animals—one spotted like me, one round like her—standing near something tall and wooden. The shed, seen from below.\n\nShe points at the drawing, then at me, then at herself. Her message is clear: she's been watching me. She knows I come to investigate the sounds. She's been trying to tell me she's here.\n\n\"You're alone,\" I say, and it's not a question. She nods once, quickly. Her paw moves to another section of wall where older marks show a larger groundhog and two smaller ones. A family. But those scratches are covered with dirt, deliberately hidden.",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes sitting next to a small groundhog looking at wall drawings that show two animals together. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Sorrel and the groundhog looking at the wall drawings together",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-82f9c26077/scene_3_1.png"
+          }
+        },
+        {
+          "text": "I understand the fear-scent now. It's the smell of being lost. Of not knowing where home is anymore.\n\nCarefully, I scratch my own mark into the soft earth wall. A simple fawn shape next to her groundhog drawing. Then I add something new—a circle around both animals. Together.\n\nThe little groundhog watches intently. Her breathing has changed from frightened to curious to something else. Hopeful, maybe.\n\nField Note #7: Communication successful. Mutual understanding achieved through visual symbols and behavioral cues. Subject appears receptive to continued contact.\n\nShe adds her own mark to my circle—tiny scratches that look like stars or flowers scattered around our shapes. Decorations, maybe. Or maybe something more important. Maybe the scratch-mark word for 'friends.'\n\n\"I'll bring you better food tomorrow,\" I tell her. She tilts her head, not understanding the words but understanding the gentle tone. She scratches something that looks like a sun with a curved line under it. Tomorrow. She'll be here tomorrow too.",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes and a small groundhog both drawing together on the tunnel wall, creating a circle around their animal shapes with decorative marks. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Sorrel and the groundhog creating their friendship drawing on the tunnel wall",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-82f9c26077/scene_3_2.png"
+          }
+        },
+        {
+          "text": "Field Note #8: Final observation of initial contact period. Subject has established permanent residence in tunnel system. Food cache expanded to include shared resources. Symbol system developing into functional communication method.\n\nAs I prepare to leave, the little groundhog scratches one more symbol—two curved lines that meet at the ends. A circle, but different from mine. This one doesn't have a beginning or an end. It just goes on and on, like friendship, maybe. Like family that you choose instead of being born into.\n\nI scratch the same symbol next to hers. She touches it gently with her paw, then looks at me with those bright eyes. Not worried anymore. Not afraid.\n\nThe tunnel under the garden shed feels different now. Not empty and mysterious, but warm and full of possibility. My new friend has already started scratching plans for tomorrow on the wall—symbols that look like games and shared meals and long conversations in a language made of marks and trust.\n\nField Note #9: Investigation complete. Mystery solved. Friendship begun.",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes and a small groundhog touching their matching circular symbols on the tunnel wall, both looking content and peaceful. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Sorrel and the groundhog touching their friendship symbols, looking happy together",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-82f9c26077/scene_3_3.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "communication",
+      "belonging",
+      "understanding differences"
+    ],
+    "vocabulary": [
+      "investigate",
+      "symbols",
+      "communicate",
+      "territory",
+      "observe"
+    ],
+    "teachingMoments": [
+      "Different ways of communicating",
+      "Making new friends",
+      "Helping someone who is alone",
+      "Understanding without words"
+    ],
+    "coverPrompt": {
+      "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes peering into a dark tunnel entrance beneath a wooden shed. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+      "alt": "Sorrel the fawn looking curiously at a tunnel entrance"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Sorrel first notice about the sounds under the shed?",
+        "choices": [
+          "They happen three times in a pattern",
+          "They are very loud",
+          "They happen during the day"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sorrel notes 'three distinct scraping sounds, repeated in patterns' in her first field note."
+      },
+      {
+        "id": "q2",
+        "question": "How does the groundhog try to communicate with Sorrel?",
+        "choices": [
+          "By making loud noises",
+          "By scratching symbols on the walls",
+          "By bringing her food"
+        ],
+        "correctIndex": 1,
+        "explanation": "The groundhog creates drawings and symbols on the tunnel walls to communicate since she cannot speak."
+      },
+      {
+        "id": "q3",
+        "question": "What does Sorrel discover about the groundhog's family?",
+        "choices": [
+          "They live in another tunnel",
+          "The groundhog is alone and separated from them",
+          "They don't like visitors"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sorrel realizes the groundhog is alone and has hidden the old marks showing her family."
+      },
+      {
+        "id": "q4",
+        "question": "What symbol do Sorrel and the groundhog create together?",
+        "choices": [
+          "A star",
+          "A circle around both their shapes",
+          "A tree"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sorrel draws a circle around both their animal shapes to show they are together and friends."
+      },
+      {
+        "id": "q5",
+        "question": "How does Sorrel feel at the end of the story?",
+        "choices": [
+          "Worried about the groundhog",
+          "Happy to have made a new friend",
+          "Tired from investigating"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sorrel feels the tunnel is now 'warm and full of possibility' and notes that 'friendship begun' in her final field note."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "scratched",
+            "distractors": [
+              "jumped",
+              "sang"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "scent",
+            "distractors": [
+              "sound",
+              "color"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "symbols",
+            "distractors": [
+              "holes",
+              "sticks"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "communicate",
+            "distractors": [
+              "hide",
+              "sleep"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "sorrel"
+}
