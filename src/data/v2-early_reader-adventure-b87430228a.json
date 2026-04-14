@@ -13,7 +13,7 @@
   "wordCount": 981,
   "readingLevel": "Grade 1-2",
   "synopsis": "When Thistle the thorn fairy discovers a mysterious new neighbor leaving peculiar gifts around the planetarium during school visits, everything goes hilariously wrong as he tries to understand what each star-shaped present means.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-b87430228a/cover.png",
   "chapters": [
     {
       "title": "Monday's Mayhem",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "Treasure map style illustration on aged parchment showing a tiny thorn fairy with mossy-green skin, pointed ears, wings like dried leaves, and a cap made from a chestnut husk, tumbling from a backpack in a grand planetarium. Children sit in rows while stars swirl overhead. A small silver star gleams behind a projector. Sepia tones with jewel accents highlight the star.",
             "alt": "Thistle falling from a backpack in the planetarium during a school visit",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-b87430228a/scene_1_1.png"
           }
         },
         {
@@ -31,7 +32,8 @@
           "illustration": {
             "description": "Treasure map style illustration showing a tiny thorn fairy with mossy-green skin, pointed ears, wings like dried leaves, and a cap made from a chestnut husk, dodging holographic planets in the planetarium dome. A glowing silver star sits nearby with a small note. The scene uses aged parchment texture with dotted flight trails and compass roses, rendered in sepia tones with jewel-toned star accents.",
             "alt": "Thistle dodging holographic planets while approaching the mysterious star gift",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-b87430228a/scene_1_2.png"
           }
         }
       ]
@@ -44,7 +46,8 @@
           "illustration": {
             "description": "Treasure map style illustration on aged parchment showing a tiny thorn fairy with mossy-green skin, pointed ears, wings like dried leaves, and a cap made from a chestnut husk, chasing a rolling copper gear-shaped star through planetarium seats filled with second graders. Hand-drawn map elements include dotted chase trails, compass roses, and sepia tones with copper jewel accents on the star.",
             "alt": "Thistle chasing a copper gear-star through the planetarium seats",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-b87430228a/scene_2_1.png"
           }
         },
         {
@@ -52,7 +55,8 @@
           "illustration": {
             "description": "Treasure map style illustration showing a tiny thorn fairy with mossy-green skin, pointed ears, wings like dried leaves, and a cap made from a chestnut husk, discovering a small midnight-blue door decorated with constellations at the planetarium's base. The copper star acts as a key. Through the crack, miniature telescopes and tools are visible. Aged parchment texture with bold explorer cartography style, sepia tones, and jewel accents on the door and tools.",
             "alt": "Thistle finding a hidden fairy-sized door opened by the copper star",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-b87430228a/scene_2_2.png"
           }
         }
       ]
@@ -65,7 +69,8 @@
           "illustration": {
             "description": "Treasure map style illustration on aged parchment showing a tiny thorn fairy with mossy-green skin, pointed ears, wings like dried leaves, and a cap made from a chestnut husk, splashing in a coffee cup while kindergarteners point excitedly in the background. A golden hammer-shaped star sits nearby. The scene uses adventure cartography style with dotted flight paths, sepia tones, and golden jewel accents.",
             "alt": "Thistle landing in a coffee cup with kindergarteners in the background",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-b87430228a/scene_3_1.png"
           }
         },
         {
@@ -73,7 +78,8 @@
           "illustration": {
             "description": "Treasure map style illustration showing a tiny thorn fairy with mossy-green skin, pointed ears, wings like dried leaves, and a cap made from a chestnut husk, peering into the illuminated fairy workshop. A miniature star projector sits on a workbench surrounded by constellation maps and mechanical drawings. Three stars glow in the door frame. Aged parchment texture with hand-drawn map elements, sepia tones, and jewel accents on the projector and stars.",
             "alt": "Thistle discovering the magical workshop with a miniature star projector",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-b87430228a/scene_3_2.png"
           }
         }
       ]
@@ -86,7 +92,8 @@
           "illustration": {
             "description": "Treasure map style illustration on aged parchment showing a tiny thorn fairy with mossy-green skin, pointed ears, wings like dried leaves, and a cap made from a chestnut husk, meeting an even tinier fairy with soap-bubble wings and stardust-stained fingers. Seven different stars glow around an open workshop door. The scene uses treasure map cartography with compass roses, bold explorer style, sepia tones, and multiple jewel accents for each star.",
             "alt": "Thistle meeting Nova the tiny fairy outside the fully opened workshop",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-b87430228a/scene_4_1.png"
           }
         },
         {
@@ -94,7 +101,8 @@
           "illustration": {
             "description": "Treasure map style illustration showing a tiny thorn fairy with mossy-green skin, pointed ears, wings like dried leaves, and a cap made from a chestnut husk, working alongside a soap-bubble-winged fairy in the magical workshop. Their star projector creates dancing constellations on the walls while the planetarium dome sparkles overhead. Aged parchment with adventure cartography elements, dotted trails connecting the stars, sepia tones, and brilliant jewel accents throughout the magical scene.",
             "alt": "Thistle and Nova working together with their star projector creating magical constellations",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-b87430228a/scene_4_2.png"
           }
         }
       ]

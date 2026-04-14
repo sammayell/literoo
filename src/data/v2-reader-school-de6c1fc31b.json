@@ -13,7 +13,7 @@
   "wordCount": 1780,
   "readingLevel": "Grade 2-3",
   "synopsis": "Luna, a silver-grey tabby kitten, discovers a mysterious door that appears in her underwater classroom submarine. Through careful observation and scientific curiosity, she documents her journey as the door leads to hope for displaced creatures seeking a new home.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-school-de6c1fc31b/cover.png",
   "chapters": [
     {
       "title": "Field Notes: 8:00 AM - Discovery",
@@ -22,7 +22,8 @@
         {
           "description": "Luna, a silver-grey tabby kitten with huge pale green eyes, fluffy cheeks, and a white star marking on her forehead, sits at a submarine desk writing in a logbook while looking at a mysterious blue door. The yellow submarine interior shows fogged portholes and scientific equipment. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
           "alt": "Luna writing field notes while observing the mysterious door",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-school-de6c1fc31b/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "Luna, a silver-grey tabby kitten with huge pale green eyes, fluffy cheeks, and a white star marking on her forehead, reaches toward the glowing blue door with symbols pulsing around its frame. The submarine interior shows scientific instruments and fogged portholes. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
           "alt": "Luna reaching toward the glowing mysterious door",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-school-de6c1fc31b/scene_2_1.png"
         }
       ]
     },
@@ -44,7 +46,8 @@
         {
           "description": "Luna, a silver-grey tabby kitten with huge pale green eyes, fluffy cheeks, and a white star marking on her forehead, stands in the doorway between the submarine and a bright golden landscape with a bear cub reading, rabbit families gardening, and colorful birds in trees. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
           "alt": "Luna looking through the door into a bright sanctuary with other displaced animals",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-school-de6c1fc31b/scene_3_1.png"
         }
       ]
     },
@@ -55,7 +58,8 @@
         {
           "description": "Luna, a silver-grey tabby kitten with huge pale green eyes, fluffy cheeks, and a white star marking on her forehead, sits in a circle with Mikhail the bear cub, the rabbit Tanaka family, and colorful birds in the golden sanctuary landscape. Everyone is sharing stories and food. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
           "alt": "Luna sharing stories with other displaced animals in the sanctuary",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-school-de6c1fc31b/scene_4_1.png"
         }
       ]
     },
@@ -66,7 +70,8 @@
         {
           "description": "Luna, a silver-grey tabby kitten with huge pale green eyes, fluffy cheeks, and a white star marking on her forehead, leads a group of submarine classmates including Mr. Whiskers through the blue door into the golden sanctuary where they meet the other displaced animals. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
           "alt": "Luna leading her submarine classmates into the sanctuary to meet the others",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-school-de6c1fc31b/scene_5_1.png"
         }
       ]
     },
@@ -77,7 +82,8 @@
         {
           "description": "Luna, a silver-grey tabby kitten with huge pale green eyes, fluffy cheeks, and a white star marking on her forehead, writes in a new logbook while sitting by a campfire with all the sanctuary animals sharing soup and stories under the evening sky. The blue door glows softly in the background. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
           "alt": "Luna writing in her new logbook while everyone shares an evening meal in the sanctuary",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-school-de6c1fc31b/scene_6_1.png"
         }
       ]
     }
