@@ -13,7 +13,7 @@
   "wordCount": 1410,
   "readingLevel": "Grade 2-3",
   "synopsis": "A ferry's communication device tells the backwards story of Marina, a young mermaid who must handle her first solo mission through mysterious fog, learning that some friendships transcend the boundaries between water and land.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sci-fi-207cee30a6/cover.png",
   "chapters": [
     {
       "title": "The Signal Complete",
@@ -22,7 +22,8 @@
         {
           "description": "Interior of a retro 1960s space age ferry with round porthole windows, chrome details, and warm orange accents. Passengers in bubble helmets look out at thick fog. The communication device glows on the control panel. Jetsons inspired design with metallic tones.",
           "alt": "Futuristic ferry interior with passengers looking out at fog",
-          "position": "after-paragraph-2"
+          "position": "after-paragraph-2",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sci-fi-207cee30a6/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "Underwater view showing a young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes speaking to hydrophone sensors attached to a retro 1960s space age ferry hull. Retro futurism style with chrome and orange details, optimistic space age design.",
           "alt": "Marina communicating with the ferry's underwater sensors",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sci-fi-207cee30a6/scene_2_1.png"
         }
       ]
     },
@@ -44,7 +46,8 @@
         {
           "description": "Split view showing dangerous underwater rocks below and a retro 1960s space age ferry changing course above in thick fog. A young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes swims around the rocks. Warm metallic tones and vintage space poster style.",
           "alt": "Underwater rocks and Marina guiding the ferry to safety",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sci-fi-207cee30a6/scene_3_1.png"
         }
       ]
     },
@@ -66,7 +69,8 @@
         {
           "description": "A young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes floating underwater beneath a retro 1960s space age ferry with round rocket design, chrome and orange details. Sound waves visualized between them. Vintage space poster style with optimistic futurism.",
           "alt": "Marina making first contact with the ferry's communication system",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sci-fi-207cee30a6/scene_5_1.png"
         }
       ]
     },
@@ -88,7 +92,8 @@
         {
           "description": "Split scene showing a retro 1960s space age ferry with round rocket design launching from an eastern dock above, while below a young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes begins her morning swim. Thick fog covers everything. Chrome and orange vintage space poster style.",
           "alt": "The beginning - ferry launching while Marina starts her patrol",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sci-fi-207cee30a6/scene_7_1.png"
         }
       ]
     }
