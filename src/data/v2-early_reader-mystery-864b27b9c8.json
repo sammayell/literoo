@@ -13,7 +13,7 @@
   "wordCount": 773,
   "readingLevel": "Kindergarten-1st Grade",
   "synopsis": "When Zinnia the flower fairy arrives at the Great Canopy Games just as mysterious gifts begin appearing, she must solve the puzzle of who's leaving them and why - all while learning that the best part of any game is playing together.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-864b27b9c8/cover.png",
   "chapters": [
     {
       "title": "Monday's Mystery Gift",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "A small flower fairy with iridescent dragonfly wings, pastel-pink hair swept up with a tiny leaf crown, luminous green eyes, and a petal-skirt dress hovers near a detailed rainforest canopy starting line made of twisted vines and moss. The busy organized composition shows countless small objects: dewdrops, tiny insects, flower petals, seed pods, and a prominent spider-silk wrapped gift. The magnifying glass perspective reveals intricate leaf textures, bark patterns, and hidden creatures throughout the cluttered scene.",
             "alt": "Zinnia discovering the first mysterious gift at the racing starting line in the rainforest canopy",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-864b27b9c8/scene_1_1.png"
           }
         },
         {
@@ -31,7 +32,8 @@
           "illustration": {
             "description": "A small flower fairy with iridescent dragonfly wings, pastel-pink hair swept up with a tiny leaf crown, luminous green eyes, and a petal-skirt dress helps other small creatures during a race through the rainforest canopy. The detailed hidden objects composition shows racing paths made of branches, tiny finish line flags, spectator insects, scattered flower petals, and a second mysterious gift. The search and find perspective reveals many small racing accessories, leaf platforms, and vine swings throughout the cluttered environment.",
             "alt": "Zinnia helping other racers while a second mysterious gift appears at the finish line",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-864b27b9c8/scene_1_2.png"
           }
         }
       ]
@@ -44,7 +46,8 @@
           "illustration": {
             "description": "A small flower fairy with iridescent dragonfly wings, pastel-pink hair swept up with a tiny leaf crown, luminous green eyes, and a petal-skirt dress examines multiple opened gifts spread across a moss-covered branch platform. The detailed environment shows a busy organized composition filled with countless small objects: the various gift wrappings, friendship bracelets, tiny whistles, colorful ribbons, a small trophy, and racing equipment. The magnifying glass perspective reveals intricate details of canopy life with hidden creatures, flower blooms, and vine tangles throughout the cluttered scene.",
             "alt": "Zinnia surrounded by five opened mysterious gifts and their contents on a branch platform",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-864b27b9c8/scene_2_1.png"
           }
         },
         {
@@ -52,7 +55,8 @@
           "illustration": {
             "description": "A small flower fairy with iridescent dragonfly wings, pastel-pink hair swept up with a tiny leaf crown, luminous green eyes, and a petal-skirt dress searches through a detailed rainforest canopy filled with hiding spots. The search and find composition shows countless small objects: magnifying glasses, footprints on leaves, disturbed moss, moved twigs, and various creatures peeking from hiding places. The cluttered scene includes detailed bark textures, leaf patterns, and many potential clues scattered throughout the busy organized environment.",
             "alt": "Zinnia searching for clues about the mysterious gift-giver throughout the rainforest canopy",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-864b27b9c8/scene_2_2.png"
           }
         }
       ]
@@ -65,7 +69,8 @@
           "illustration": {
             "description": "A small flower fairy with iridescent dragonfly wings, pastel-pink hair swept up with a tiny leaf crown, luminous green eyes, and a petal-skirt dress is surrounded by various rainforest creatures all holding gift-making supplies. The detailed hidden objects composition shows countless small items: scraps of wrapping materials, crafting tools, ribbons, flower petals, and evidence of gift-making scattered throughout the busy organized scene. The magnifying glass perspective reveals intricate details of the surprise revelation with many small creatures emerging from hiding spots throughout the cluttered canopy environment.",
             "alt": "All the forest creatures surprising Zinnia by revealing they were the mysterious gift-givers all along",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-864b27b9c8/scene_3_1.png"
           }
         },
         {
@@ -73,7 +78,8 @@
           "illustration": {
             "description": "A small flower fairy with iridescent dragonfly wings, pastel-pink hair swept up with a tiny leaf crown, luminous green eyes, and a petal-skirt dress celebrates with many forest creatures in the rainforest canopy. The detailed environment shows a busy organized composition filled with countless small objects: all seven gifts being used together, racing equipment, celebration decorations, confetti-like flower petals, and party supplies. The search and find perspective reveals intricate details of the joyful celebration with creatures playing games, sharing gifts, and enjoying each other's company throughout the cluttered, happy scene.",
             "alt": "Zinnia and all her friends celebrating together using all seven mystery gifts during the canopy games",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-864b27b9c8/scene_3_2.png"
           }
         }
       ]
