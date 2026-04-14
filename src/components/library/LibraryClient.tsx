@@ -385,9 +385,9 @@ function BookCard({ book, isFree, isAdmin, onHide }: {
       href={`/book/${book.id}`}
       className="card-playful group bg-white rounded-2xl border border-stone-200 overflow-hidden hover:border-brand-300 relative"
     >
-      {/* Cover */}
+      {/* Cover — portrait aspect ratio (3:4) so book covers fill the frame naturally */}
       <div
-        className={`h-48 relative overflow-hidden ${showImage ? colors.bg : `bg-gradient-to-br ${TIER_COVER_GRADIENT[book.ageTier]}`}`}
+        className={`aspect-[3/4] relative overflow-hidden ${showImage ? colors.bg : `bg-gradient-to-br ${TIER_COVER_GRADIENT[book.ageTier]}`}`}
       >
         {showImage ? (
           // eslint-disable-next-line @next/next/no-img-element
