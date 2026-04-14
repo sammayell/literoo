@@ -12,7 +12,7 @@
   "wordCount": 1881,
   "readingLevel": "2nd-3rd grade",
   "synopsis": "Through a series of investigative letters, a young fawn named Sorrel recounts her journey down a historic river aboard a lily pad boat, searching for the legendary River Games only to arrive at exactly the wrong moment—leading to discoveries about timing, observation, and finding her own unique strengths.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-historical-08353cd59b/cover.png",
   "chapters": [
     {
       "title": "The Starting Dock",
@@ -21,7 +21,8 @@
         {
           "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes stands on an ornate wooden dock beside a lily pad boat. Captain Heron, a tall blue heron, prepares the vessel. The scene features illuminated manuscript style with gold leaf accents, ornate borders, rich deep colors, medieval inspired details, and parchment texture.",
           "alt": "Sorrel the fawn at the starting dock with Captain Heron preparing their lily pad boat",
-          "position": "after-paragraph-2"
+          "position": "after-paragraph-2",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-historical-08353cd59b/scene_1_1.png"
         }
       ]
     },
@@ -32,7 +33,8 @@
         {
           "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes points toward bent cattails in a marsh training ground from aboard a lily pad boat. The scene shows hidden underwater platforms and training lanes in illuminated manuscript style with gold leaf accents, ornate borders, rich greens and browns, medieval inspired details, and parchment texture.",
           "alt": "Sorrel discovering the secret training patterns in the cattail marsh",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-historical-08353cd59b/scene_2_1.png"
         }
       ]
     },
@@ -43,7 +45,8 @@
         {
           "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes explores empty trophy stands on floating platforms in a circular cove surrounded by weeping willows and lily pads. The scene is rendered in illuminated manuscript style with gold leaf accents, ornate borders, rich deep colors, medieval inspired details, and parchment texture.",
           "alt": "Sorrel examining the empty trophy stands in the circular cove",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-historical-08353cd59b/scene_3_1.png"
         }
       ]
     },
@@ -54,7 +57,8 @@
         {
           "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes gracefully leaps between lily pads of various sizes across a river course. Captain Heron watches from their boat in the background. The scene features illuminated manuscript style with gold leaf accents, ornate borders, rich deep colors, medieval inspired details, and parchment texture.",
           "alt": "Sorrel navigating the lily pad leap course with her unique path",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-historical-08353cd59b/scene_4_1.png"
         }
       ]
     },
@@ -65,7 +69,8 @@
         {
           "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes points toward hidden calm channels in rushing white water rapids while aboard a lily pad boat with Captain Heron navigating. The scene shows illuminated manuscript style with gold leaf accents, ornate borders, rich blues and whites, medieval inspired details, and parchment texture.",
           "alt": "Sorrel identifying the hidden calm channels through the racing rapids",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-historical-08353cd59b/scene_5_1.png"
         }
       ]
     },
@@ -76,7 +81,8 @@
         {
           "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes leans over the side of a lily pad boat, observing schools of silver fish swimming around underwater limestone caves with ancient carvings. The clear water shows the spiral pattern of cave entrances below. The scene features illuminated manuscript style with gold leaf accents, ornate borders, rich deep colors, medieval inspired details, and parchment texture.",
           "alt": "Sorrel studying the fish patterns around the underwater ceremonial caves",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-historical-08353cd59b/scene_6_1.png"
         }
       ]
     },
@@ -87,7 +93,8 @@
         {
           "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes stands in a beautiful pavilion on a circular island, surrounded by murals showing river maps and game secrets. A wise otter greets her warmly. The scene is rendered in illuminated manuscript style with gold leaf accents, ornate borders, rich deep colors, medieval inspired details, and parchment texture.",
           "alt": "Sorrel meeting the wise otter in the pavilion on the finish line island",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-historical-08353cd59b/scene_7_1.png"
         }
       ]
     },
@@ -98,7 +105,8 @@
         {
           "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes sits at a beautiful writing desk in a map-lined room, creating a new guide. Keeper Willow the otter watches encouragingly while Captain Heron rests nearby. Hundreds of historical maps cover the walls. The scene features illuminated manuscript style with gold leaf accents, ornate borders, rich deep colors, medieval inspired details, and parchment texture.",
           "alt": "Sorrel creating a new map and guide in the map maker's room",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-historical-08353cd59b/scene_8_1.png"
         }
       ]
     }

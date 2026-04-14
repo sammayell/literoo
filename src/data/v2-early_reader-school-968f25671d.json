@@ -13,7 +13,7 @@
   "wordCount": 421,
   "readingLevel": "Grade 1-2",
   "synopsis": "In a cluttered workshop full of half-finished inventions, Hugo receives seven mysterious gifts over a week from someone he's never met. Each small package reveals something special, leading him away from his tablet and into a world of wonder and creation.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-968f25671d/cover.png",
   "chapters": [
     {
       "title": "The First Whisper",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "Hugo, a boy with straight light blonde hair, fair skin, and light blue eyes, sits holding a tablet while his parents work at cluttered workbenches. The workshop is filled with half-finished inventions, scattered tools, and copper wires. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Hugo with his tablet in a busy workshop while his parents work on inventions",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-968f25671d/scene_1_1.png"
           }
         },
         {
@@ -31,7 +32,8 @@
           "illustration": {
             "description": "Hugo, a boy with straight light blonde hair, fair skin, and light blue eyes, holds a small brown package with silver writing. The workshop background shows gears, half-finished robots, and invention parts scattered on wooden tables. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Hugo examining a mysterious package in the workshop",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-968f25671d/scene_1_2.png"
           }
         },
         {
@@ -39,7 +41,8 @@
           "illustration": {
             "description": "Hugo, a boy with straight light blonde hair, fair skin, and light blue eyes, holds a brass compass up to the light while his tablet sits abandoned on a workbench. The compass needle points toward a window. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Hugo holding a brass compass pointing toward a workshop window",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-968f25671d/scene_1_3.png"
           }
         }
       ]
@@ -52,7 +55,8 @@
           "illustration": {
             "description": "Hugo, a boy with straight light blonde hair, fair skin, and light blue eyes, examines four mysterious gifts on a workbench: a compass, music box, magnifying glass, and bottle of glitter. His tablet sits dusty and unused nearby. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Hugo with multiple mysterious gifts on a workshop table",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-968f25671d/scene_2_1.png"
           }
         },
         {
@@ -60,7 +64,8 @@
           "illustration": {
             "description": "Hugo, a boy with straight light blonde hair, fair skin, and light blue eyes, uses the magnifying glass to examine gear patterns while the music box sits open and the glitter bottle sparkles. Workshop inventions surround them. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Hugo using the magnifying glass to discover patterns in the workshop",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-968f25671d/scene_2_2.png"
           }
         },
         {
@@ -68,7 +73,8 @@
           "illustration": {
             "description": "Hugo, a boy with straight light blonde hair, fair skin, and light blue eyes, sits by a workshop window with six gifts arranged before him while his parents work happily in the background. The workshop glows with warm light and creative energy. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Hugo waiting by the window with his collection of mysterious gifts",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-968f25671d/scene_2_3.png"
           }
         }
       ]
@@ -81,7 +87,8 @@
           "illustration": {
             "description": "Hugo, a boy with straight light blonde hair, fair skin, and light blue eyes, opens a leather journal while reading a note in silver ink. The workshop is filled with all his mysterious gifts and half-finished inventions glowing in warm light. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Hugo reading the mysterious note with his journal and all seven gifts",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-968f25671d/scene_3_1.png"
           }
         },
         {
@@ -89,7 +96,8 @@
           "illustration": {
             "description": "Hugo, a boy with straight light blonde hair, fair skin, and light blue eyes, writes in his journal surrounded by all seven gifts while his tablet sits covered in dust on a shelf. The workshop buzzes with creative energy and his parents work happily nearby. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Hugo writing in his journal in the creative workshop atmosphere",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-968f25671d/scene_3_2.png"
           }
         },
         {
@@ -97,7 +105,8 @@
           "illustration": {
             "description": "Hugo, a boy with straight light blonde hair, fair skin, and light blue eyes, sits contentedly in the center of the workshop using all seven gifts while creating and inventing. The space glows with warm creative energy, tools, and half-finished inventions all around. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Hugo happily creating in the workshop surrounded by all his gifts and tools",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-968f25671d/scene_3_3.png"
           }
         }
       ]
