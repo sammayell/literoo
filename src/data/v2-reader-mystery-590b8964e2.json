@@ -13,7 +13,7 @@
   "wordCount": 1649,
   "readingLevel": "Grade 2-3",
   "synopsis": "When Theo becomes separated from his school group during a visit to the treetop village, he discovers mysterious signals and meets woodland creatures who help him understand that being lost sometimes leads to the most important discoveries.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-590b8964e2/cover.png",
   "chapters": [
     {
       "title": "The Sound of Rope and Leaves",
@@ -22,7 +22,8 @@
         {
           "description": "Theo, a boy with short curly blonde hair, light skin, and round blue eyes, stands alone on a rope bridge in film noir detective style. Dramatic shadows from tree branches create a web pattern around him. A red squirrel sits on a nearby branch, and mysterious carved symbols are visible on the tree bark. The scene uses a muted palette of grays and greens with deep amber as the accent color. Theo wears a small trench coat and looks both curious and slightly worried.",
           "alt": "Theo standing alone on a rope bridge with a red squirrel nearby and mysterious symbols on tree bark",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-590b8964e2/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "Theo, a boy with short curly blonde hair, light skin, and round blue eyes, examines carved symbols on a massive maple tree trunk in film noir style. Dramatic spotlights filter through leaves, casting long shadows. A blue jay perches nearby, and chipmunks scatter around the circular platform. The scene uses muted grays and browns with amber accents highlighting the mysterious orbital-pattern symbols carved in the bark.",
           "alt": "Theo studying mysterious orbital symbols carved on a tree trunk with woodland creatures nearby",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-590b8964e2/scene_2_1.png"
         }
       ]
     },
@@ -44,7 +46,8 @@
         {
           "description": "Theo, a boy with short curly blonde hair, light skin, and round blue eyes, peers through a small brass telescope on a tree platform in film noir detective style. A mourning dove perches nearby, and a gray cat with golden eyes sits in filtered sunlight. The treehouse behind has colorful stained glass windows showing deep blues and purples. Dramatic shadows create mystery while amber light highlights the telescope and orbital symbols on the tree.",
           "alt": "Theo looking through a telescope on a platform with a dove and cat, stained glass treehouse windows in background",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-590b8964e2/scene_3_1.png"
         }
       ]
     },
@@ -55,7 +58,8 @@
         {
           "description": "Theo, a boy with short curly blonde hair, light skin, and round blue eyes, holds the telescope while raccoons line up on a platform across the way in film noir style. Behind the raccoons, a faded mural on a treehouse wall shows Mars, stars, and a silver rocket's path. Dramatic shadows and spotlights create mystery, with the muted palette enhanced by amber accents on the telescope and deep red highlighting Mars in the mural.",
           "alt": "Theo with telescope observing raccoons on a platform, with a space mural visible on treehouse wall showing Mars and rocket",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-590b8964e2/scene_4_1.png"
         }
       ]
     },
@@ -66,7 +70,8 @@
         {
           "description": "Theo, a boy with short curly blonde hair, light skin, and round blue eyes, kneels on the platform surrounded by woodland animals in film noir detective style. He holds a rust-colored stone while tracing carved spiral symbols on the maple bark. The red squirrel, blue jay, mourning dove, and gray cat all watch him with knowing expressions. Dramatic lighting creates deep shadows while amber light highlights the stone and symbols, giving the scene a sense of magical discovery.",
           "alt": "Theo kneeling on platform surrounded by forest animals, holding a Mars-like stone while touching carved spiral symbols",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-590b8964e2/scene_5_1.png"
         }
       ]
     },
@@ -77,7 +82,8 @@
         {
           "description": "Theo, a boy with short curly blonde hair, light skin, and round blue eyes, walks hand-in-hand with Mrs. Chen across a rope bridge in film noir detective style. His other hand holds the rust-colored stone, and he looks back over his shoulder at the maple tree where the red squirrel sits on a high branch. Dramatic shadows fall across the bridge while amber light highlights the stone and creates one last spotlight on the carved symbols in the distant tree bark.",
           "alt": "Theo walking away with his teacher while looking back at the squirrel in the maple tree, holding his discovered stone",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-590b8964e2/scene_6_1.png"
         }
       ]
     },
@@ -88,7 +94,8 @@
         {
           "description": "Theo, a boy with short curly blonde hair, light skin, and round blue eyes, sits by his bedroom window with a telescope in film noir style. The rust-colored stone sits on the windowsill, glowing amber in starlight. Through the window, Mars appears as a tiny red dot among stars in the night sky. Dramatic shadows fill the room while a spotlight illuminates the stone and telescope, creating a sense of wonder and discovery continuing beyond the day's adventure.",
           "alt": "Theo at his bedroom window with telescope and the stone, looking out at Mars in the night sky",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-590b8964e2/scene_7_1.png"
         }
       ]
     },
@@ -99,7 +106,8 @@
         {
           "description": "Theo, a boy with short curly blonde hair, light skin, and round blue eyes, stands on the familiar maple platform with the red squirrel nearby in film noir detective style. The blue jay sits momentarily on his shoulder while in the background, a small metal plaque glints in the distance near the space mural. Dramatic shadows create mystery while amber light highlights the carved symbols and the distant plaque, suggesting more adventures and discoveries await.",
           "alt": "Theo back at the maple platform with the red squirrel and blue jay, with a mysterious glinting plaque visible in the distance",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-590b8964e2/scene_8_1.png"
         }
       ]
     }

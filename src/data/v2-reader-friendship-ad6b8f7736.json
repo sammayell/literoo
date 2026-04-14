@@ -13,7 +13,7 @@
   "wordCount": 2087,
   "readingLevel": "2nd-3rd Grade",
   "synopsis": "When Zara gets separated from her class during a field trip to an inventor's workshop, she discovers that the cluttered space holds more secrets than anyone imagined. Following a mysterious map through different rooms, she uncovers inventions that could help save the planet—if only she can find her way back to tell someone.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-ad6b8f7736/cover.png",
   "chapters": [
     {
       "title": "The Secret Door",
@@ -22,7 +22,8 @@
         {
           "description": "Zara with natural coily hair in two puffs, deep brown skin, and sparkling dark brown eyes, standing in a cluttered workshop filled with half-finished inventions. Warm amber light streams through windows, illuminating dust motes floating around strange devices. Comfortable cozy atmosphere with fairy lights twinkling between the shelves.",
           "alt": "Zara discovering the mysterious workshop",
-          "position": "after-paragraph-2"
+          "position": "after-paragraph-2",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-ad6b8f7736/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "Zara with natural coily hair in two puffs, deep brown skin, and sparkling dark brown eyes, standing before an ornate wooden map that glows with warm amber light. The map shows various rooms connected by shimmering paths. Cozy indoor lighting with fairy lights creating intimate atmosphere in the small map room.",
           "alt": "Zara studying the magical wooden map",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-ad6b8f7736/scene_2_1.png"
         }
       ]
     },
@@ -44,7 +46,8 @@
         {
           "description": "Zara with natural coily hair in two puffs, deep brown skin, and sparkling dark brown eyes, standing in a greenhouse filled with unusual silver-leafed plants. A tree grows glowing pods instead of fruit, casting warm amber light throughout the space. Glass bottles hang from the ceiling like fairy lights, creating a cozy, intimate atmosphere.",
           "alt": "Zara in the magical greenhouse with glowing plants",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-ad6b8f7736/scene_3_1.png"
         }
       ]
     },
@@ -55,7 +58,8 @@
         {
           "description": "Zara with natural coily hair in two puffs, deep brown skin, and sparkling dark brown eyes, watching water flow through transparent tubes that spiral around the walls. A water-cleaning machine bubbles gently in the corner. Warm amber lighting reflects off the flowing water, creating a cozy, blanket-nest feeling with fairy lights twinkling in the background.",
           "alt": "Zara in the water workshop with flowing tubes",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-ad6b8f7736/scene_4_1.png"
         }
       ]
     },
@@ -66,7 +70,8 @@
         {
           "description": "Zara with natural coily hair in two puffs, deep brown skin, and sparkling dark brown eyes, surrounded by miniature whirlwinds and various sized windmills mounted on the walls. A large music-box-like device with fan petals sits in the center. Warm amber lighting creates cozy indoor atmosphere with fairy lights scattered throughout the chamber.",
           "alt": "Zara in the wind chamber with tiny whirlwinds",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-ad6b8f7736/scene_5_1.png"
         }
       ]
     },
@@ -77,7 +82,8 @@
         {
           "description": "Zara with natural coily hair in two puffs, deep brown skin, and sparkling dark brown eyes, sitting on a bench surrounded by gears of various sizes that emerge from the floor like mechanical flowers. Sparks of energy connect the gears. Warm amber lighting and fairy lights create an intimate, cozy atmosphere in the gear garden.",
           "alt": "Zara watching the dancing gears in the mechanical garden",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-ad6b8f7736/scene_6_1.png"
         }
       ]
     },
@@ -88,12 +94,14 @@
         {
           "description": "Zara with natural coily hair in two puffs, deep brown skin, and sparkling dark brown eyes, sitting across from Professor Willow in the central room where all inventions connect. Light flows through tubes, gears turn quietly, and plants glow softly. Warm amber lighting creates an intimate, cozy conversation space like a blanket nest filled with fairy lights.",
           "alt": "Zara and Professor Willow in the center room where everything connects",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-ad6b8f7736/scene_7_1.png"
         },
         {
           "description": "Zara with natural coily hair in two puffs, deep brown skin, and sparkling dark brown eyes, sitting at a lunch table with classmates gathered around a paper airplane that's been unfolded. Warm indoor lighting creates a cozy cafeteria scene with comfortable, intimate friendship atmosphere.",
           "alt": "Zara sharing the paper airplane with her classmates",
-          "position": "after-paragraph-12"
+          "position": "after-paragraph-12",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-friendship-ad6b8f7736/scene_7_2.png"
         }
       ]
     }

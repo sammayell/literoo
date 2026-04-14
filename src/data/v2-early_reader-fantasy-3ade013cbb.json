@@ -1,0 +1,185 @@
+{
+  "id": "v2-early_reader-fantasy-3ade013cbb",
+  "title": "Seven Pocket Mysteries",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "fantasy",
+    "humor"
+  ],
+  "wordCount": 487,
+  "readingLevel": "Grade 1-2",
+  "synopsis": "A tiny owl discovers mysterious gifts appearing on an abandoned carousel over seven days, leading to an unexpected friendship with a lonely cricket who leaves clues through whimsical presents.",
+  "coverImage": "",
+  "chapters": [
+    {
+      "title": "Monday's Discovery",
+      "pages": [
+        {
+          "text": "Field Note #1: At precisely 3:17 AM, subject discovered one (1) shiny acorn placed deliberately on carousel horse #3.\n\n'Whooo put this here?' Hoot wondered aloud, his enormous golden eyes blinking twice—blink-BLINK—in the moonlight.\n\nThe little owl had been stuck on this creaky-squeaky carousel for three whole nights. The rusty metal wouldn't let him fly away, no matter how hard he flapped his speckled cream-and-brown wings. Flap-flap-FLAP!\n\nBut this acorn... this acorn was NEW.\n\nObservation: The acorn gleamed like a tiny golden moon. It had not been there yesterday. Most curious indeed!\n\nHoot picked it up with one small talon. 'Clink-clink,' it chimed like a bell. Inside, something rattled—rattle-rattle-shake!\n\n'A puzzle!' Hoot hooted softly. 'But whooo would leave me a puzzle?'\n\nThe carousel horses stood silent, their painted eyes staring into the overgrown field. Tall grass whispered secrets: 'Shush-shush-whisper.' But they wouldn't tell Hoot their secrets.\n\nEnd of Field Note #1.",
+          "illustration": {
+            "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers holding a glowing acorn while perched on a weathered carousel horse. The abandoned carousel sits in an overgrown field with enchanted forest atmosphere, glowing mushrooms scattered in the tall grass, fairy lights twinkling between the weeds, mystical creatures hiding in the shadows, rich greens and purples, golden sparkles in the night air, Studio Ghibli inspired magical atmosphere, detailed foliage growing through the carousel's ornate metalwork.",
+            "alt": "Baby owl examining a magical acorn on carousel horse at night",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Tuesday Through Sunday's Surprises",
+      "pages": [
+        {
+          "text": "Field Note #2-7: Over the following six nights, phenomena continued.\n\nTuesday, 2:45 AM: One (1) paper boat appeared on horse #7. Inside the boat—splash-splash—a drop of morning dew that tasted like giggles.\n\nWednesday, 3:22 AM: Three (3) flower petals, purple-pink-white, arranged in a perfect triangle on the carousel's center pole. When Hoot touched them—tingle-tingle—they hummed a tiny song.\n\nThursday, 4:01 AM: A miniature telescope, no bigger than Hoot's smallest feather! Through it, the little owl could see... wait... was that a cricket hiding in the tall grass? Hop-skip-HIDE!\n\nFriday, 2:33 AM: Five (5) dewdrops frozen into perfect ice marbles. 'Click-clack-clink!' they chimed when Hoot rolled them around.\n\nSaturday, 3:55 AM: A note written in grass-green ink! But the writing was too scribbly-wobbly for Hoot to read. 'Hmph!' he huffed, his tufty ear feathers standing up straight.\n\nSunday, exactly 3:00 AM: The biggest surprise yet...",
+          "illustration": {
+            "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers examining various magical gifts scattered across the carousel - a paper boat, flower petals, tiny telescope, ice marbles, and a note. The abandoned carousel in the overgrown field shows enchanted forest atmosphere, glowing mushrooms growing between the carousel animals, fairy lights strung through the metalwork, mystical creatures watching from the grass, rich greens and purples, golden sparkles floating around the gifts, Studio Ghibli inspired magical atmosphere, detailed foliage intertwining with the carousel structure.",
+            "alt": "Baby owl surrounded by mysterious magical gifts on the carousel",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Seventh Gift",
+      "pages": [
+        {
+          "text": "Field Note #8: Final observation recorded.\n\nSunday brought no gift at first. Just silence—shush-shush-quiet—and the smell of wet grass.\n\nHoot waited. And waited. And WAITED.\n\nHis enormous golden eyes drooped. 'Maybe whooo-ever it was got tired of leaving presents,' he sighed.\n\nThen... hop-skip-HOP!\n\nA tiny cricket appeared on horse #5! He was emerald-green with silver antennae that wiggled-waggled nervously.\n\n'You're not supposed to be stuck here!' squeaked the cricket in the tiniest voice. 'I've been trying to tell you with my gifts—look-look-LOOK!'\n\nThe cricket pointed with one delicate leg. All seven gifts began to glow—shimmer-shine-SPARKLE! Together they formed a path of light leading to a loose bolt on the carousel's edge.\n\n'Twist-twist-TURN!' chirped the cricket. 'I'm too small to turn it myself. But you... you have strong talons!'\n\nHoot blinked twice—blink-BLINK—understanding blooming like a flower in his mind.\n\nTogether they worked: Hoot turning—twist-twist-TWIST—while Cricket cheered—'Yes-yes-YES!'\n\nCLANK! The carousel gate swung open!\n\n'We're both free!' hooted Hoot joyfully.\n\n'Best friends make the best teammates!' chirped Cricket.\n\nAnd off they flew and hopped into the moonlit field, leaving the carousel creaking a happy tune behind them: 'Creak-squeak-hooray!'\n\nEnd of Field Notes. Friendship hypothesis: CONFIRMED.",
+          "illustration": {
+            "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers working together with an emerald-green cricket to open the carousel gate. All seven magical gifts glow in a path of light around them. The abandoned carousel in the overgrown field shows enchanted forest atmosphere, glowing mushrooms celebrating their escape, fairy lights dancing in the air, mystical creatures cheering from the grass, rich greens and purples, golden sparkles swirling around the freed friends, Studio Ghibli inspired magical atmosphere, detailed foliage parting to show their path to freedom.",
+            "alt": "Baby owl and cricket working together to escape the magical carousel",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship across differences",
+      "problem-solving",
+      "patience",
+      "cooperation"
+    ],
+    "vocabulary": [
+      "carousel",
+      "field notes",
+      "observation",
+      "phenomena",
+      "hypothesis"
+    ],
+    "illustrations": 3,
+    "chapters": 3,
+    "coverPrompt": {
+      "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers perched on a weathered carousel horse. The scene shows an abandoned carousel in an overgrown field with enchanted forest atmosphere, glowing mushrooms scattered around, fairy lights twinkling through tall grass, mystical creatures peeking from the foliage, rich greens and purples dominating the color palette, golden sparkles floating in the air, Studio Ghibli inspired magical atmosphere with detailed foliage growing over the ornate carousel.",
+      "alt": "Baby owl on abandoned carousel surrounded by magical overgrown field"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What was the first gift Hoot found on the carousel?",
+        "choices": [
+          "A shiny acorn",
+          "A paper boat",
+          "Flower petals"
+        ],
+        "correctIndex": 0,
+        "explanation": "On Monday night, Hoot found a shiny acorn that chimed like a bell on carousel horse #3."
+      },
+      {
+        "id": "q2",
+        "question": "Who was leaving the mysterious gifts for Hoot?",
+        "choices": [
+          "Another owl",
+          "A tiny cricket",
+          "The carousel horses"
+        ],
+        "correctIndex": 1,
+        "explanation": "The emerald-green cricket with silver antennae was leaving gifts to help Hoot escape the carousel."
+      },
+      {
+        "id": "q3",
+        "question": "How many gifts did Cricket leave for Hoot over the week?",
+        "choices": [
+          "Five gifts",
+          "Six gifts",
+          "Seven gifts"
+        ],
+        "correctIndex": 2,
+        "explanation": "Cricket left seven gifts over seven days, one each night from Monday through Sunday."
+      },
+      {
+        "id": "q4",
+        "question": "What did all the gifts do together on Sunday night?",
+        "choices": [
+          "They disappeared",
+          "They formed a path of light",
+          "They made music"
+        ],
+        "correctIndex": 1,
+        "explanation": "All seven gifts began to glow and formed a path of light leading to the loose bolt that would free Hoot."
+      },
+      {
+        "id": "q5",
+        "question": "Why couldn't Cricket free Hoot by himself?",
+        "choices": [
+          "He was too small",
+          "He was scared",
+          "He couldn't find the bolt"
+        ],
+        "correctIndex": 0,
+        "explanation": "Cricket was too small to turn the bolt himself, but Hoot had strong enough talons to do it."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "acorn",
+            "distractors": [
+              "apple",
+              "stone"
+            ]
+          },
+          {
+            "wordIndex": 28,
+            "correctWord": "golden",
+            "distractors": [
+              "silver",
+              "blue"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "cricket",
+            "distractors": [
+              "butterfly",
+              "mouse"
+            ]
+          },
+          {
+            "wordIndex": 25,
+            "correctWord": "gifts",
+            "distractors": [
+              "toys",
+              "books"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "hoot"
+}

@@ -13,7 +13,7 @@
   "wordCount": 1120,
   "readingLevel": "Grade 1-2",
   "synopsis": "Nova, a small alien with translucent blue skin, discovers that even the most carefully drawn maps can hold surprises when she follows one through a snowy mountain landscape to find an unexpected family gathering.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-1544fb2a09/cover.png",
   "chapters": [
     {
       "title": "The Fire Speaks",
@@ -22,14 +22,16 @@
           "text": "The fire crackled like someone whispering secrets, and Nova pressed her four fingers against the warm hearth stones. Her translucent blue skin caught the orange glow, making the faint light inside her pulse like a sleepy heartbeat. She had been staring at the map for so long that the symbols seemed to dance in the flames' reflection on her huge black eyes.\n\n\"Grandmother always said the old paths know more than the new ones,\" Nova murmured, though her grandmother had said this in a language that sounded like wind chimes and tasted like starlight. The map spread across her lap was drawn on something that felt like paper but shimmered like caught moonbeams.\n\nOutside the mountain cabin, snow fell in fat, lazy flakes that tapped against the windows like polite visitors asking to come in. Nova's ship had landed in this white wilderness three days ago, following coordinates that had led her exactly nowhere she expected to be.",
           "illustration": {
             "description": "A young alien with translucent pale-blue skin showing faint inner light, four nimble fingers per hand, a bald domed head, and huge reflective black eyes sits cross-legged by a stone fireplace, examining a glowing map. The cozy cabin interior shows wooden beams, snow-covered windows, and warm firelight. Art style: cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food.",
-            "alt": "Nova studies a mysterious map by the fireplace in a snow-covered mountain cabin"
+            "alt": "Nova studies a mysterious map by the fireplace in a snow-covered mountain cabin",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-1544fb2a09/scene_1_1.png"
           }
         },
         {
           "text": "The map showed a path that wound from \"The Place Where Stars Touch Ground\" (which Nova had assumed meant her landing spot) to \"The Gathering of Seven Lights.\" Simple enough, except that Nova had been following this path for two days, and instead of finding seven lights, she had found one very confused mountain cabin that seemed to have been waiting for her.\n\nThe cabin's door had been unlocked. The fire had been laid but not lit. The pantry held exactly the kind of energy crystals that Nova needed to eat, arranged in neat rows like someone's grandmother had been expecting a small alien to arrive any day now.\n\n\"Maps,\" Nova said to the fire, \"are supposed to take you where they say they're taking you.\"\n\nThe fire popped in what might have been agreement.",
           "illustration": {
             "description": "Interior view of the mountain cabin showing a young alien with translucent pale-blue skin showing faint inner light, four nimble fingers per hand, a bald domed head, and huge reflective black eyes walking through the cozy space. The cabin has wooden shelves lined with glowing crystals, a warm kitchen area, and snow visible through windows. Art style: cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food.",
-            "alt": "Nova explores the mysteriously well-stocked mountain cabin"
+            "alt": "Nova explores the mysteriously well-stocked mountain cabin",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-1544fb2a09/scene_1_2.png"
           }
         }
       ]
@@ -41,14 +43,16 @@
           "text": "Now, to understand why Nova was talking to fires and questioning maps, you have to know about three days earlier, when she had been standing in her ship's navigation chamber, holding that same shimmery map and feeling quite pleased with herself.\n\nThe map had arrived in a message pod that materialized next to her breakfast (which had been a small bowl of crushed starlight, perfectly ordinary). The message was from someone calling themselves \"The Keeper of Paths,\" and it contained an invitation that made Nova's inner light flicker with excitement.\n\n\"Young Traveler,\" the message had read, \"the Constellation Families gather once each season to share stories and soup. Follow this map if you wish to learn how myths become real and real becomes myth. The path is straight, but not simple.\"\n\nNova had never met other Constellation Families. Her grandmother used to tell her stories about them—beings from different worlds who carried starlight in their bones and gathered to share tales that kept the universe from forgetting its own dreams.",
           "illustration": {
             "description": "Inside a small spaceship's navigation chamber, a young alien with translucent pale-blue skin showing faint inner light, four nimble fingers per hand, a bald domed head, and huge reflective black eyes holds a glowing map while standing next to control panels and a bowl of glowing crystals. Art style: cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food.",
-            "alt": "Nova receives the mysterious map inside her spaceship three days earlier"
+            "alt": "Nova receives the mysterious map inside her spaceship three days earlier",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-1544fb2a09/scene_2_1.png"
           }
         },
         {
           "text": "The map had seemed clear enough. Nova had traced the path with one translucent finger: from her current location to a mountain system, then through a valley marked with symbols that looked like dancing figures, and finally to a spot marked with seven small stars arranged in a circle.\n\n\"The Gathering of Seven Lights must be where they meet,\" Nova had reasoned. She was good at reasoning. Her grandmother always said Nova could think her way through a maze made of paradoxes.\n\nSo Nova had programmed her ship's course, packed her traveling pouch with energy crystals and her favorite story-stones, and set off across the galaxy feeling quite confident that maps generally took you where they claimed to be taking you.\n\nThis confidence had lasted exactly until she landed in three feet of snow next to a cabin that definitely was not marked anywhere on the map, and definitely was not a gathering of seven lights, unless you counted the strange way the firelight seemed to multiply in the windows.",
           "illustration": {
             "description": "A young alien with translucent pale-blue skin showing faint inner light, four nimble fingers per hand, a bald domed head, and huge reflective black eyes stands next to a small landed spaceship in deep snow, looking up at a cozy mountain cabin with multiple warm windows glowing yellow-orange. Snow falls gently around the scene. Art style: cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food.",
-            "alt": "Nova discovers the unexpected cabin after landing her ship in the snow"
+            "alt": "Nova discovers the unexpected cabin after landing her ship in the snow",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-1544fb2a09/scene_2_2.png"
           }
         }
       ]
@@ -60,21 +64,24 @@
           "text": "Back in the present moment, Nova folded the map carefully and stood up from the hearth. Her huge black eyes reflected the fire's light as she walked to the cabin's main window and pressed her face against the cold glass.\n\nThat's when she saw them.\n\nSeven lights, just as the map had promised. Not gathered in some grand meeting hall or ancient amphitheater, but moving through the snow toward the cabin like a collection of walking stars. Each light had a different color—silver and gold and soft green and warm purple and bright orange and deep red and one that seemed to shift through all colors at once.\n\n\"Oh,\" said Nova. \"Oh, I see.\"\n\nThe map hadn't been wrong about the destination. It had been wonderfully, perfectly sneaky about what \"The Gathering of Seven Lights\" actually looked like.",
           "illustration": {
             "description": "A young alien with translucent pale-blue skin showing faint inner light, four nimble fingers per hand, a bald domed head, and huge reflective black eyes peers out a frosted cabin window at seven glowing figures of different colors approaching through the falling snow. The cabin interior is warmly lit behind her. Art style: cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food.",
-            "alt": "Nova spots seven glowing beings approaching the cabin through the snow"
+            "alt": "Nova spots seven glowing beings approaching the cabin through the snow",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-1544fb2a09/scene_3_1.png"
           }
         },
         {
           "text": "The cabin door opened without anyone knocking, which Nova was beginning to understand was simply how things worked when Constellation Families gathered. The seven lights resolved into seven beings unlike any Nova had ever seen, but somehow exactly like the ones from her grandmother's stories.\n\nThere was someone who looked like they were made of crystallized music, and someone else who appeared to be a walking tree with stars for leaves. A third being seemed to be constructed entirely of gently flowing water that never quite touched the ground, while a fourth looked like a small dragon made of aurora lights.\n\n\"Welcome, young Star-Carrier,\" said the being who seemed to shift through all colors. \"We've been preparing this place for you to find us. Did you enjoy the puzzle of the map?\"\n\nNova's inner light pulsed brighter. \"The map wasn't wrong,\" she said, and her voice carried the same delight her grandmother's used to when explaining how the best stories always had twist endings.",
           "illustration": {
             "description": "Inside the cozy cabin, a young alien with translucent pale-blue skin showing faint inner light, four nimble fingers per hand, a bald domed head, and huge reflective black eyes stands among seven diverse fantasy beings—a crystal music-being, a star-leafed tree person, a flowing water entity, an aurora dragon, and others—all gathered around a large dining table with warm food and glowing dishes. Art style: cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food.",
-            "alt": "Nova meets the seven magical beings of the Constellation Families inside the warm cabin"
+            "alt": "Nova meets the seven magical beings of the Constellation Families inside the warm cabin",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-1544fb2a09/scene_3_2.png"
           }
         },
         {
           "text": "\"The very best maps,\" said the tree-being in a voice like wind through ancient branches, \"take you exactly where you need to be, even when that's not where you thought you were going.\"\n\nThe cabin filled with laughter that sounded like seven different kinds of music playing the same gentle song. Nova felt her grandmother's presence in that sound, and realized that some family gatherings happen in the most unexpected places, with the most unexpected people, following maps that are exactly as truthful as they need to be.\n\n\"Now,\" said the crystal-music being, \"shall we begin with stories? I believe you have some to share, and we have been saving our best ones for someone who understands that getting lost is sometimes the only way to be found.\"\n\nNova looked around the warm cabin, at the seven beings who had somehow known she was coming, at the fire that had kept her company while she waited to understand where she really was.\n\n\"I'd like that very much,\" she said, and settled into a chair that seemed to have been made exactly for someone her size.",
           "illustration": {
             "description": "The warm cabin interior shows a young alien with translucent pale-blue skin showing faint inner light, four nimble fingers per hand, a bald domed head, and huge reflective black eyes sitting at a large wooden dining table surrounded by the seven magical beings, all sharing a meal with steaming bowls, glowing fruits, and warm bread. The fireplace crackles in the background. Art style: cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food.",
-            "alt": "Nova and the Constellation Families share stories and food around the cabin's dining table"
+            "alt": "Nova and the Constellation Families share stories and food around the cabin's dining table",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-1544fb2a09/scene_3_3.png"
           }
         }
       ]

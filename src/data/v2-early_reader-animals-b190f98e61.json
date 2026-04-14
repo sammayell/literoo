@@ -1,0 +1,203 @@
+{
+  "id": "v2-early_reader-animals-b190f98e61",
+  "title": "The Wrong Turn Home",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "animals",
+    "science"
+  ],
+  "wordCount": 536,
+  "readingLevel": "K-1",
+  "synopsis": "Marina the mermaid follows a treasure map to find an ancient shell, but discovers the map leads her to an unexpected snowy mountain cabin instead of underwater caves. Through scientific observation and careful investigation, she must figure out why the map is wrong and find her way to the real treasure.",
+  "coverImage": "",
+  "chapters": [
+    {
+      "title": "The Map Says Here",
+      "pages": [
+        {
+          "text": "The compass needle pointed straight at the mountain cabin's front door. Marina studied her great-grandmother's treasure map with the utmost seriousness. According to the ancient parchment, the Golden Conch Shell of Wisdom should be buried directly beneath her turquoise tail. Instead, she found herself sitting on a braided rug in front of a crackling fireplace. The fire popped and hissed, filling the cozy cabin with dancing orange light. Snow pressed against the frosted windows like curious white faces. Marina frowned at the map. Maps, she knew from her underwater geography lessons, were supposed to be accurate.",
+          "illustration": {
+            "description": "A young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes sits on a braided rug in a mountain cabin, studying an old treasure map by firelight. The cabin glows warmly with a crackling fire, snow visible through windows. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Marina examining her treasure map by the fireplace",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Scientific Investigation",
+      "pages": [
+        {
+          "text": "Marina decided to conduct a thorough investigation. She examined every corner of the cabin with the dedication of a marine biologist. The stone fireplace held no secret compartments. The wooden floorboards creaked under her weight but revealed no hidden treasure chambers. A family of mice had built a nest behind the wood pile, but they possessed no Golden Conch Shells. Only acorns and lint. Marina interviewed each mouse individually. They confirmed that no mermaids had ever visited this cabin before. The youngest mouse mentioned seeing a strange bird with a map last Tuesday, but Marina filed this information under 'probably irrelevant.' She returned to the fireplace and spread the map across the hearth stones once more.",
+          "illustration": {
+            "description": "A young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes talks to a family of small mice near a wood pile in the cabin. The mice look very serious as she interviews them. Firelight flickers in the background. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Marina interviewing the mouse family about treasure",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "New Evidence",
+      "pages": [
+        {
+          "text": "On her third examination of the fireplace area, Marina noticed something she had missed before. The stones around the hearth were not mountain stones at all. They were covered in tiny fossilized seashells. Ancient coral patterns decorated their surfaces. Marina's sparkling aqua eyes widened. These stones had once lived underwater. The cabin sat on what had been an ocean floor millions of years ago. She crawled closer to investigate. Each stone told the story of prehistoric sea creatures. Trilobites. Ancient fish. Creatures that had swum in warm seas when this mountain was deep underwater. The fire crackled approvingly as Marina made detailed notes in her kelp-paper notebook.",
+          "illustration": {
+            "description": "A young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes examines fossilized seashells and coral patterns in the fireplace stones, making notes in a notebook. The stones glow with ancient sea life patterns in the firelight. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Marina discovering fossils in the fireplace stones",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Map's Secret",
+      "pages": [
+        {
+          "text": "Marina held the map up to the firelight and made a startling discovery. The parchment was not wrong. It was extremely old. The compass rose in the corner showed magnetic north from two million years ago, when the Earth's magnetic field pointed in a different direction. According to this ancient map, she was sitting in the exact right spot. The treasure had always been here. The Golden Conch Shell was not buried in the ground. It was embedded in the fireplace stones themselves, fossilized and transformed into rock over countless centuries. Marina traced its spiral shape with her finger. Perfect and golden in the firelight.",
+          "illustration": {
+            "description": "A young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes holds an ancient map up to firelight, revealing a fossilized golden conch shell embedded in the stone fireplace. The shell glows beautifully in the warm light. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Marina discovering the fossilized conch shell in the fireplace",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Ancient Wisdom",
+      "pages": [
+        {
+          "text": "Marina placed her hand on the fossilized Golden Conch Shell and listened carefully. The ancient shell whispered its wisdom through the stone: 'Sometimes the journey is more important than the treasure. Sometimes the treasure changes form but never loses its value. Sometimes a map is right in ways you do not expect.' Marina nodded solemnly. This was indeed profound wisdom. She thanked the shell, packed her belongings, and prepared to return to the ocean. The mice waved goodbye from their nest. The fire settled into glowing embers. Outside, the snow continued to fall on the mountain that had once been a sea floor. Marina's great-grandmother had been a very wise mermaid indeed.",
+          "illustration": {
+            "description": "A young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes sits peacefully by the fireplace with her hand on the fossilized conch shell, while mice wave goodbye from their nest. Snow falls outside and the fire glows warmly. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Marina listening to the wisdom of the ancient shell as she prepares to leave",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "scientific discovery",
+      "ancient wisdom",
+      "geological time"
+    ],
+    "educationalValue": "Introduces concepts about fossils, geological time, and how landscapes change over millions of years",
+    "parentGuide": "This story combines adventure with basic earth science concepts, showing how oceans can become mountains over geological time.",
+    "coverPrompt": {
+      "description": "A young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes sits by a crackling fireplace in a cozy mountain cabin, holding an old treasure map. Snow falls outside frosted windows. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+      "alt": "Marina the mermaid sitting by a fireplace in a snowy cabin, studying a map"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Marina find in the fireplace stones?",
+        "choices": [
+          "Ancient mice",
+          "Fossilized seashells",
+          "Hidden gold coins"
+        ],
+        "correctIndex": 1,
+        "explanation": "Marina discovered that the fireplace stones contained fossilized seashells and coral patterns from when the area was underwater millions of years ago."
+      },
+      {
+        "id": "q2",
+        "question": "Why did Marina's map seem wrong at first?",
+        "choices": [
+          "It was torn and hard to read",
+          "It was from millions of years ago",
+          "Someone had drawn it incorrectly"
+        ],
+        "correctIndex": 1,
+        "explanation": "The map was ancient and showed the location when it was underwater millions of years ago, before geological changes turned the sea floor into a mountain."
+      },
+      {
+        "id": "q3",
+        "question": "Who did Marina interview during her investigation?",
+        "choices": [
+          "A family of mice",
+          "The cabin owner",
+          "Other mermaids"
+        ],
+        "correctIndex": 0,
+        "explanation": "Marina seriously interviewed each mouse individually to gather information about the cabin and any previous visitors."
+      },
+      {
+        "id": "q4",
+        "question": "What happened to the Golden Conch Shell?",
+        "choices": [
+          "It was stolen by pirates",
+          "It became fossilized in stone",
+          "It sank to the ocean bottom"
+        ],
+        "correctIndex": 1,
+        "explanation": "Over millions of years, the Golden Conch Shell became fossilized and embedded in the stones that were eventually used to build the fireplace."
+      },
+      {
+        "id": "q5",
+        "question": "What wisdom did the ancient shell share?",
+        "choices": [
+          "Always trust your map",
+          "The journey matters more than treasure",
+          "Never leave the ocean"
+        ],
+        "correctIndex": 1,
+        "explanation": "The fossilized shell taught Marina that sometimes the journey is more important than the treasure, and that treasures can change form but keep their value."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "fireplace",
+            "distractors": [
+              "window",
+              "door"
+            ]
+          },
+          {
+            "wordIndex": 28,
+            "correctWord": "map",
+            "distractors": [
+              "book",
+              "shell"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "fossils",
+            "distractors": [
+              "rocks",
+              "gems"
+            ]
+          },
+          {
+            "wordIndex": 24,
+            "correctWord": "underwater",
+            "distractors": [
+              "underground",
+              "overhead"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "marina"
+}
