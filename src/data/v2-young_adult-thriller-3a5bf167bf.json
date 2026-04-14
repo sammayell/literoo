@@ -12,7 +12,7 @@
   "wordCount": 8583,
   "readingLevel": "8th grade",
   "synopsis": "When sixteen-year-old Theo receives a mysterious package containing blueprints from someone he's never met, he discovers layers of family secrets hidden within the cluttered workshop he's inherited. As he follows the cryptic instructions, uncovering stories within stories, Theo must navigate between the world of his American upbringing and the heritage his grandfather never shared.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-3a5bf167bf/cover.png",
   "chapters": [
     {
       "title": "The Package",
@@ -21,12 +21,14 @@
         {
           "description": "Theo with short curly blonde hair, light skin, round blue eyes standing in a cluttered workshop full of half-finished inventions, holding a mysterious brown paper package. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Theo discovering the mysterious package in his grandfather's workshop",
-          "position": "after-paragraph-2"
+          "position": "after-paragraph-2",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-3a5bf167bf/scene_1_1.png"
         },
         {
           "description": "Close-up of Theo's hands with short curly blonde hair, light skin, round blue eyes partially visible, examining a brass key and leather journal. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Theo examining the brass key and journal",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-3a5bf167bf/scene_1_2.png"
         }
       ]
     },
@@ -37,12 +39,14 @@
         {
           "description": "Theo with short curly blonde hair, light skin, round blue eyes hunched over a workbench covered in brass gears, springs, and small bells, following a detailed blueprint. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Theo assembling the music box components",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-3a5bf167bf/scene_2_1.png"
         },
         {
           "description": "The completed music box in Theo's hands, with short curly blonde hair, light skin, round blue eyes visible in profile as golden light emanates from the device. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Theo with the completed music box",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-3a5bf167bf/scene_2_2.png"
         }
       ]
     },
@@ -53,12 +57,14 @@
         {
           "description": "Theo with short curly blonde hair, light skin, round blue eyes examining old photographs by lamplight, with the opened hidden compartment visible behind him. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Theo discovering the hidden compartment and photographs",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-3a5bf167bf/scene_3_1.png"
         },
         {
           "description": "Close-up of Theo's face with short curly blonde hair, light skin, round blue eyes reading from an open journal, with Czech text visible on the pages. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Theo reading his grandfather's Czech journal",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-3a5bf167bf/scene_3_2.png"
         }
       ]
     },
@@ -69,12 +75,14 @@
         {
           "description": "Theo with short curly blonde hair, light skin, round blue eyes reading by lamplight late at night, surrounded by the shadows of half-finished inventions. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Theo reading through the night in the workshop",
-          "position": "after-paragraph-2"
+          "position": "after-paragraph-2",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-3a5bf167bf/scene_4_1.png"
         },
         {
           "description": "Dawn light streaming through workshop windows, illuminating Theo with short curly blonde hair, light skin, round blue eyes surrounded by clockwork inventions that now seem filled with hidden purpose. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Theo at dawn, surrounded by his inheritance of hidden stories",
-          "position": "after-paragraph-10"
+          "position": "after-paragraph-10",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-3a5bf167bf/scene_4_2.png"
         }
       ]
     },
@@ -85,12 +93,14 @@
         {
           "description": "Theo with short curly blonde hair, light skin, round blue eyes carefully examining the backward clock, with its hidden compartment revealed and the list of names visible. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Theo discovering the list of names in the backward clock",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-3a5bf167bf/scene_5_1.png"
         },
         {
           "description": "Theo with short curly blonde hair, light skin, round blue eyes holding the mechanical nightingale, tears on his face as he listens to his grandmother's recorded voice. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Theo listening to his grandmother's voice from the mechanical nightingale",
-          "position": "after-paragraph-11"
+          "position": "after-paragraph-11",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-3a5bf167bf/scene_5_2.png"
         }
       ]
     },
@@ -101,12 +111,14 @@
         {
           "description": "Theo with short curly blonde hair, light skin, round blue eyes kneeling beside the opened violin case, examining tiny scrolls of sheet music. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Theo discovering the hidden sheet music in the violin case",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-3a5bf167bf/scene_6_1.png"
         },
         {
           "description": "Theo with short curly blonde hair, light skin, round blue eyes holding the damaged but beautiful violin, bow poised against strings, expression thoughtful and reverent. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Theo playing the surviving violin",
-          "position": "after-paragraph-9"
+          "position": "after-paragraph-9",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-3a5bf167bf/scene_6_2.png"
         }
       ]
     },
@@ -117,12 +129,14 @@
         {
           "description": "Theo with short curly blonde hair, light skin, round blue eyes peering cautiously through workshop curtains at a shadowy figure across the street. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Theo watching the mysterious figure from the window",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-3a5bf167bf/scene_7_1.png"
         },
         {
           "description": "Theo with short curly blonde hair, light skin, round blue eyes standing in the center of the workshop, violin in hand, surrounded by the mechanical inventions that now seem protective rather than decorative. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Theo playing violin defiantly in the workshop center",
-          "position": "after-paragraph-12"
+          "position": "after-paragraph-12",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-3a5bf167bf/scene_7_2.png"
         }
       ]
     },
@@ -133,12 +147,14 @@
         {
           "description": "Theo with short curly blonde hair, light skin, round blue eyes examining three different keys from the wooden box, lamplight creating dramatic shadows. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Theo studying the three keys by lamplight",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-3a5bf167bf/scene_8_1.png"
         },
         {
           "description": "The brass bird cage transformed with its compartments opened, revealing tiny precious objects, while Theo with short curly blonde hair, light skin, round blue eyes examines the silk-wrapped photograph. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Theo discovering the treasures in the brass bird cage",
-          "position": "after-paragraph-10"
+          "position": "after-paragraph-10",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-3a5bf167bf/scene_8_2.png"
         }
       ]
     },
@@ -149,12 +165,14 @@
         {
           "description": "Theo with short curly blonde hair, light skin, round blue eyes opening the door cautiously to reveal elderly Zora Novák holding a violin case and suitcase. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Theo meeting Zora Novák at the workshop door",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-3a5bf167bf/scene_9_1.png"
         },
         {
           "description": "Zora holding both violins side by side while Theo with short curly blonde hair, light skin, round blue eyes watches, both instruments illuminated by workshop lamplight. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Zora reuniting the twin violins",
-          "position": "after-paragraph-9"
+          "position": "after-paragraph-9",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-3a5bf167bf/scene_9_2.png"
         }
       ]
     },
@@ -165,12 +183,14 @@
         {
           "description": "Theo with short curly blonde hair, light skin, round blue eyes and Zora playing violins together in the workshop, surrounded by mechanical inventions that seem to be responding to the music. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Theo and Zora playing violin together as the inventions respond",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-3a5bf167bf/scene_10_1.png"
         },
         {
           "description": "The workshop filled with an ethereal atmosphere as Theo with short curly blonde hair, light skin, round blue eyes holds his violin, surrounded by shadows that seem alive with memory and presence. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "The workshop filled with the presence of memory during the concert",
-          "position": "after-paragraph-10"
+          "position": "after-paragraph-10",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-3a5bf167bf/scene_10_2.png"
         }
       ]
     },
@@ -181,12 +201,14 @@
         {
           "description": "Theo with short curly blonde hair, light skin, round blue eyes examining the final blueprint by lamplight, the design showing an expanded workshop glowing with possibility. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Theo studying the blueprint for the workshop's transformation",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-3a5bf167bf/scene_11_1.png"
         },
         {
           "description": "Dawn breaking through the workshop windows as Theo with short curly blonde hair, light skin, round blue eyes stands ready to begin work, surrounded by his grandfather's tools and the promise of transformation. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Theo ready to begin transforming the workshop at dawn",
-          "position": "after-paragraph-10"
+          "position": "after-paragraph-10",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-3a5bf167bf/scene_11_2.png"
         }
       ]
     },
@@ -197,12 +219,14 @@
         {
           "description": "The transformed workshop filled with diverse visitors as Theo with short curly blonde hair, light skin, round blue eyes stands before his mechanical orchestra. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Theo presenting his mechanical orchestra to gathered visitors",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-3a5bf167bf/scene_12_1.png"
         },
         {
           "description": "The workshop alive with music and celebration, Theo with short curly blonde hair, light skin, round blue eyes conducting while visitors play various instruments together in harmony. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "The workshop filled with collaborative music-making",
-          "position": "after-paragraph-11"
+          "position": "after-paragraph-11",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-3a5bf167bf/scene_12_2.png"
         }
       ]
     },
@@ -213,12 +237,14 @@
         {
           "description": "Theo with short curly blonde hair, light skin, round blue eyes alone in the evening workshop, reading the letter from his future self by lamplight. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Theo reading the letter from his future self",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-3a5bf167bf/scene_13_1.png"
         },
         {
           "description": "The workshop at night, peaceful and complete, with Theo with short curly blonde hair, light skin, round blue eyes sitting contentedly among the mechanical orchestra and preserved treasures. High contrast shadows, dramatic lighting, partially obscured characters, tension composition, tilted angles, cropped frames, suspenseful, cinematic thriller, moody atmospheric.",
           "alt": "Theo at peace in the completed workshop",
-          "position": "after-paragraph-12"
+          "position": "after-paragraph-12",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-thriller-3a5bf167bf/scene_13_2.png"
         }
       ]
     }
