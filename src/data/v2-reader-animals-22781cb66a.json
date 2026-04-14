@@ -13,7 +13,7 @@
   "wordCount": 1915,
   "readingLevel": "Grade 2-3",
   "synopsis": "When the Rainbow Sprinkler stops working in a magical garden that grows beneath the clouds, a mischievous young raccoon named Bramble must catalog all the garden's mysteries to find a solution. Told through the wise observations of an old watering can who has witnessed decades of garden life, this is a story of ingenuity, community, and the forgotten knowledge of those who came before.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-animals-22781cb66a/cover.png",
   "chapters": [
     {
       "title": "What I Have Seen: The Garden's Heart",
@@ -22,7 +22,8 @@
         {
           "description": "An overhead view of a magical garden growing upside down from a large white cloud. Vegetables and flowers dangle downward into blue sky. In the corner sits an ornate brass watering can with a curved spout, observing the scene. A young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes examines a large rainbow-colored sprinkler system in the center. Classic storybook, woodland forest, dappled sunlight, anthropomorphic animals, cozy clothes, Beatrix Potter inspired, mushrooms and ferns, warm earth tones, detailed nature.",
           "alt": "The cloud garden with Bramble examining the broken Rainbow Sprinkler",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-animals-22781cb66a/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "A sepia-toned flashback scene showing various woodland creatures working together to build garden infrastructure. Small tunnels and brass pipes are being installed in cloud soil by rabbits in work aprons, while an elderly woodchuck waters plants with the brass watering can. A young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes stands in the present, looking at the old infrastructure. Classic storybook, woodland forest, dappled sunlight, anthropomorphic animals, cozy clothes, Beatrix Potter inspired, mushrooms and ferns, warm earth tones, detailed nature.",
           "alt": "Bramble discovering the old tunnels while remembering the garden's builders",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-animals-22781cb66a/scene_2_1.png"
         }
       ]
     },
@@ -44,7 +46,8 @@
         {
           "description": "A young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes sits at a wooden stump covered with disassembled brass sprinkler parts—gears, nozzles, and fittings arranged in neat rows. He holds up a broken gear to examine it closely. Around him, the cloud garden shows signs of drought with wilting plants. The brass watering can watches from nearby. Classic storybook, woodland forest, dappled sunlight, anthropomorphic animals, cozy clothes, Beatrix Potter inspired, mushrooms and ferns, warm earth tones, detailed nature.",
           "alt": "Bramble examining broken sprinkler parts on the Thinking Stump",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-animals-22781cb66a/scene_3_1.png"
         }
       ]
     },
@@ -55,7 +58,8 @@
         {
           "description": "A cross-section cutaway view showing a young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes climbing down into a tunnel carved through white cloud material. Above ground, the brass watering can sits beside the tunnel entrance. Below, brass pipes and valves are visible within the cloud's interior. Classic storybook, woodland forest, dappled sunlight, anthropomorphic animals, cozy clothes, Beatrix Potter inspired, mushrooms and ferns, warm earth tones, detailed nature.",
           "alt": "Bramble discovering and entering the hidden tunnel system in the cloud",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-animals-22781cb66a/scene_4_1.png"
         }
       ]
     },
@@ -66,7 +70,8 @@
         {
           "description": "Inside a spherical chamber carved from white cloud material, a young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes turns a large brass wheel valve. The chamber walls curve around him, lined with brass pipes and gauges. He holds an old leather-bound manual in one paw while operating the valve with the other. Soft light filters down from the tunnel entrance above. Classic storybook, woodland forest, dappled sunlight, anthropomorphic animals, cozy clothes, Beatrix Potter inspired, mushrooms and ferns, warm earth tones, detailed nature.",
           "alt": "Bramble in the valve chamber, turning the Master Valve while holding the operations manual",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-animals-22781cb66a/scene_5_1.png"
         }
       ]
     },
@@ -77,7 +82,8 @@
         {
           "description": "A celebration scene in the cloud garden with various woodland creatures gathered for the Cloud Cup races. A young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes stands on a winner's platform holding both a trophy and the leather operations manual. The Rainbow Sprinkler works perfectly in the background, creating gentle rainbow sprays over healthy, thriving plants. Other animals cheer while the brass watering can watches proudly from its corner. Classic storybook, woodland forest, dappled sunlight, anthropomorphic animals, cozy clothes, Beatrix Potter inspired, mushrooms and ferns, warm earth tones, detailed nature.",
           "alt": "Bramble celebrating his victory while founding the new Engineer's Guild",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-animals-22781cb66a/scene_6_1.png"
         }
       ]
     }
