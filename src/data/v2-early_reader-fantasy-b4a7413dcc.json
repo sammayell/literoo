@@ -1,0 +1,263 @@
+{
+  "id": "v2-early_reader-fantasy-b4a7413dcc",
+  "title": "Field Notes from the Blue Door",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "fantasy",
+    "friendship"
+  ],
+  "wordCount": 555,
+  "readingLevel": "Grade 1-2",
+  "synopsis": "When a mysterious blue door appears in a dusty attic during a three-day rainstorm, a young fawn named Sorrel must document the strange phenomenon and the unusual creatures who emerge from it, leading to unexpected friendships.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-b4a7413dcc/cover.png",
+  "chapters": [
+    {
+      "title": "Observation Log: Day Three",
+      "pages": [
+        {
+          "text": "The blue door has been humming for exactly seventeen minutes. I am documenting this event from behind the large trunk marked 'Winter Coats 1987.' The rain continues its steady percussion on the roof tiles above. The door should not exist. Yesterday, this wall contained only a water stain shaped like a sleeping cat. Today, the door pulses with soft light, and small creatures keep emerging from it with serious expressions and tiny suitcases.",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes peers from behind an old trunk in a dusty attic. A glowing blue door pulses with mystical light against the far wall. Enchanted forest style with glowing mushrooms growing from floorboards, fairy lights caught in spider webs, rain drumming on windows, rich greens and purples casting shadows, golden sparkles floating in dusty air, Studio Ghibli inspired magical atmosphere with detailed cobwebs and forgotten treasures.",
+            "alt": "A spotted fawn hiding behind a trunk, observing a glowing blue door in an attic",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-b4a7413dcc/scene_1_1.png"
+          }
+        },
+        {
+          "text": "I must backtrack to provide proper context for this anomaly. Three days ago, when the storm began, I sought refuge in Grandmother's attic to study dust particle patterns. The attic smelled of old wool and forgotten summers. Cardboard boxes stood in neat rows like tombstones. Everything was scientifically normal.",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes carefully examines dust motes floating in dim attic light. The space is filled with cardboard boxes and old furniture covered in sheets. Enchanted forest style with glowing mushrooms peeking from corners, fairy lights dimly twinkling, mystical atmosphere beginning to gather, rich greens and purples in shadows, golden sparkles just starting to appear, Studio Ghibli inspired magical realism with detailed textures of old wood and fabric.",
+            "alt": "A spotted fawn studying dust particles in a quiet, ordinary attic",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-b4a7413dcc/scene_1_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Day One: Initial Anomaly",
+      "pages": [
+        {
+          "text": "Hour six of precipitation. I was measuring the distance between raindrops on the window when I heard the first tap. Not rain-tap. Different-tap. Behind-the-wall-tap. I approached the sleeping cat stain with appropriate caution. The wall felt warm. This was irregular. Walls in rainstorms should feel cool and damp.",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes places a hoof against a wall with a cat-shaped water stain. Rain streaks down the attic window. Enchanted forest style with the first glowing mushrooms starting to emerge from baseboards, fairy lights beginning to flicker in corners, mystical energy gathering, rich greens and purples deepening, golden sparkles starting to swirl around the stain, Studio Ghibli inspired magical transformation beginning.",
+            "alt": "A spotted fawn touching a warm wall with a cat-shaped stain while rain falls outside",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-b4a7413dcc/scene_2_1.png"
+          }
+        },
+        {
+          "text": "By hour eight, the tapping had developed a rhythm. Three short, two long, pause. Three short, two long, pause. I documented this pattern in my notebook using precise scientific notation. The sleeping cat stain began to glow faintly blue around the edges. I hypothesized that the rain was conducting some form of atmospheric magic through the roof beams.",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes writes carefully in a small notebook while the cat-shaped stain on the wall glows with blue light. Enchanted forest style with glowing mushrooms now clearly visible, fairy lights pulsing in rhythm with the tapping, mystical energy building, rich greens and purples intensifying, golden sparkles forming patterns in the air, Studio Ghibli inspired magical phenomena manifesting.",
+            "alt": "A spotted fawn taking notes as a wall stain begins to glow blue",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-b4a7413dcc/scene_2_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Day Two: Door Formation",
+      "pages": [
+        {
+          "text": "The wall sprouted a door overnight. This required immediate investigation. The door was precisely four feet tall, painted cornflower blue, with a brass knob shaped like an acorn. No instruction manual accompanied this installation. I approached with my measuring tape to document its dimensions for science.",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes holds a measuring tape near a small blue door with an acorn-shaped knob. Enchanted forest style with glowing mushrooms now growing abundantly around the door frame, fairy lights creating a magical border, mystical energy radiating from the threshold, rich greens and purples creating depth, golden sparkles dancing around the brass knob, Studio Ghibli inspired magical architecture with intricate details.",
+            "alt": "A spotted fawn measuring a mysterious blue door that appeared overnight",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-b4a7413dcc/scene_3_1.png"
+          }
+        },
+        {
+          "text": "At precisely noon, the door opened. A small hedgehog emerged wearing a rain hat and carrying a briefcase made of walnut shells. He nodded to me gravely and announced, 'The Relocation Committee has approved this entrance for temporary use during excessive precipitation events.' He consulted a clipboard made of bark and added, 'You are the Official Attic Resident, correct?'",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes faces a serious hedgehog wearing a tiny rain hat and holding a walnut shell briefcase. The blue door stands open behind the hedgehog, revealing swirling magical mist. Enchanted forest style with glowing mushrooms framing the scene, fairy lights creating an official atmosphere, mystical creatures gathering in the background, rich greens and purples flowing through the doorway, golden sparkles highlighting the formal meeting, Studio Ghibli inspired whimsical bureaucracy.",
+            "alt": "A spotted fawn meeting an official hedgehog emerging from the blue door",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-b4a7413dcc/scene_3_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Committee Arrives",
+      "pages": [
+        {
+          "text": "I confirmed my residential status. The hedgehog made a checkmark on his bark-clipboard and withdrew into the door. Within minutes, a steady stream of small beings began using the entrance. Two rabbits carried a folding table. A family of mice transported tiny umbrellas. A wise-looking owl supervised the operation with great dignity.",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes watches as rabbits, mice, and an owl emerge from the glowing blue door carrying miniature furniture and umbrellas. Enchanted forest style with glowing mushrooms creating a welcoming path, fairy lights strung like tiny lanterns, mystical creatures moving with purpose, rich greens and purples creating a sense of community gathering, golden sparkles highlighting each small character, Studio Ghibli inspired magical migration scene.",
+            "alt": "A spotted fawn observing various small creatures emerging from the door with belongings",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The owl approached my observation post. 'We require temporary shelter during the Great Rain,' she explained in measured tones. 'Our usual tree hollow is experiencing technical difficulties. The Committee has designated this attic as suitable alternative accommodation. Will you accept the position of Host Supervisor?' I considered the scientific value of this opportunity. The answer was obvious.",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes sits formally across from a dignified owl wearing small spectacles. Between them, other magical creatures are setting up a tiny camp with miniature tents and furniture. Enchanted forest style with glowing mushrooms providing cozy light, fairy lights creating an indoor forest canopy, mystical atmosphere of serious negotiation, rich greens and purples creating intimate spaces, golden sparkles emphasizing the important conversation, Studio Ghibli inspired magical diplomacy scene.",
+            "alt": "A spotted fawn in formal discussion with a wise owl about shelter arrangements",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Scientific Conclusions",
+      "pages": [
+        {
+          "text": "Day three findings: The attic now houses seventeen creatures of various species, all remarkably polite. The hedgehog maintains detailed weather reports. The mice have established a small library using bottle caps as chairs. The rabbits organized evening tea service using acorn caps. Scientific observation has revealed that magic appears to follow strict organizational protocols.",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes sits contentedly among a bustling community of small magical creatures. The hedgehog reads weather reports, mice sit in a tiny library, rabbits serve tea from acorn caps. Enchanted forest style with glowing mushrooms creating perfect reading light, fairy lights strung like celebration decorations, mystical atmosphere of home and belonging, rich greens and purples creating cozy nooks, golden sparkles highlighting the harmony of different species, Studio Ghibli inspired magical community life.",
+            "alt": "A spotted fawn surrounded by a thriving community of magical creatures in the attic",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Final observation: When the rain stops tomorrow, the Committee will return through their blue door to the forest realm. The door will fade back into a sleeping cat stain. But they have extended an official invitation for me to visit during the next storm season. I have accepted. This concludes my field notes. Addendum: The mice make excellent cookies.",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes writes final notes in her journal while magical creatures prepare for departure. The blue door glows softly in the background, with some creatures already saying goodbye. Enchanted forest style with glowing mushrooms creating a bittersweet farewell atmosphere, fairy lights twinkling like stars, mystical energy of friendship and promise, rich greens and purples creating depth and emotion, golden sparkles forming heart-like patterns, Studio Ghibli inspired magical goodbye scene with hope for reunion.",
+            "alt": "A spotted fawn writing concluding notes as magical friends prepare to leave through the blue door",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-b4a7413dcc/scene_5_2.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "found family",
+      "chosen friendships",
+      "acceptance",
+      "community",
+      "belonging"
+    ],
+    "readingSkills": [
+      "observation",
+      "sequence",
+      "cause and effect",
+      "character motivation"
+    ],
+    "vocabulary": [
+      "scientific",
+      "documentation",
+      "precise",
+      "residential",
+      "accommodation"
+    ],
+    "coverPrompt": {
+      "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes stands before a glowing blue door in a dusty attic. Enchanted forest style with glowing mushrooms sprouting from old trunks, fairy lights twinkling in cobwebs, mystical dust motes dancing in the air, rich greens and purples filtering through rain-streaked windows, golden sparkles emanating from the door, Studio Ghibli inspired atmosphere with magical details in every corner.",
+      "alt": "A young spotted fawn observing a mysterious glowing blue door in an enchanted attic"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Sorrel find in the attic wall where the water stain used to be?",
+        "choices": [
+          "A window",
+          "A blue door",
+          "A mirror"
+        ],
+        "correctIndex": 1,
+        "explanation": "The blue door appeared where the cat-shaped water stain used to be on the wall."
+      },
+      {
+        "id": "q2",
+        "question": "Who was the first creature to come through the door?",
+        "choices": [
+          "An owl",
+          "A hedgehog",
+          "A mouse"
+        ],
+        "correctIndex": 1,
+        "explanation": "The hedgehog with the rain hat and walnut shell briefcase was the first to emerge from the door."
+      },
+      {
+        "id": "q3",
+        "question": "Why did the creatures need to use Sorrel's attic?",
+        "choices": [
+          "For a party",
+          "To escape the rain",
+          "To find food"
+        ],
+        "correctIndex": 1,
+        "explanation": "Their tree hollow had technical difficulties during the Great Rain, so they needed temporary shelter."
+      },
+      {
+        "id": "q4",
+        "question": "What job did the owl offer to Sorrel?",
+        "choices": [
+          "Weather Reporter",
+          "Host Supervisor",
+          "Door Guardian"
+        ],
+        "correctIndex": 1,
+        "explanation": "The owl asked Sorrel to accept the position of Host Supervisor for the temporary shelter."
+      },
+      {
+        "id": "q5",
+        "question": "What invitation did Sorrel receive at the end?",
+        "choices": [
+          "To visit during the next storm season",
+          "To move to the forest permanently",
+          "To become a Committee member"
+        ],
+        "correctIndex": 0,
+        "explanation": "The creatures invited Sorrel to visit them through the door during the next storm season."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "blue",
+            "distractors": [
+              "red",
+              "green"
+            ]
+          },
+          {
+            "wordIndex": 8,
+            "correctWord": "humming",
+            "distractors": [
+              "singing",
+              "buzzing"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "hedgehog",
+            "distractors": [
+              "rabbit",
+              "squirrel"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "briefcase",
+            "distractors": [
+              "backpack",
+              "basket"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "sorrel"
+}

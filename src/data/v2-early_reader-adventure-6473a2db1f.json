@@ -1,0 +1,186 @@
+{
+  "id": "v2-early_reader-adventure-6473a2db1f",
+  "title": "Four Seasons in Squeaky Metal",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "adventure",
+    "school"
+  ],
+  "wordCount": 570,
+  "readingLevel": "Grade 1-2",
+  "synopsis": "Emma finds herself trapped in a scratched yellow submarine for an entire year with the world's most accident-prone teacher, experiencing hilarious mishaps through all four seasons as everything that can possibly go wrong does.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-6473a2db1f/cover.png",
+  "chapters": [
+    {
+      "title": "Chapter 1: Spring Splash",
+      "pages": [
+        {
+          "text": "The yellow submarine lurches sideways and my juice box explodes all over everything. Mrs. Wobble, my substitute teacher, crashes into the periscope with a tremendous CLANG! \"Oops,\" she says, her glasses hanging off one ear. \"I think I pressed the wrong button again.\"\n\nI press my nose against the foggy porthole. Outside, spring rain pelts the scratched yellow metal walls of our submarine classroom. The whole thing smells like old pennies and Mrs. Wobble's tuna sandwich.\n\n\"Don't worry, Emma!\" Mrs. Wobble chirps, untangling herself from a bundle of seaweed that somehow got inside. \"We'll be back to regular school any day now!\" She steps on a lever and suddenly we're spinning like a washing machine.\n\nMy pencils fly everywhere. One bonks me on the head. Another lands in Mrs. Wobble's hair, where it stays, poking out like a yellow antenna.",
+          "illustration": {
+            "description": "A hand-drawn map style illustration on aged parchment showing the interior of a scratched yellow submarine. Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, and rosy cheeks sits at a tilted desk while pencils and juice boxes fly through the air. Mrs. Wobble is tangled in seaweed near spinning periscope controls. Spring rain dotted trails streak across fogged portholes. Compass roses mark the chaos with sepia tones and jewel-toned accents in adventure cartography style.",
+            "alt": "Inside a tilted submarine classroom with Emma and Mrs. Wobble surrounded by flying school supplies",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-6473a2db1f/scene_1_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Chapter 2: Summer Sizzle and Autumn Tumble",
+      "pages": [
+        {
+          "text": "By summer, our submarine is stuck upside down in a giant clam shell. Mrs. Wobble has accidentally turned on the heating system, so now everything is as hot as dragon breath. My math worksheets are curling up like potato chips.\n\n\"At least we have air conditioning!\" Mrs. Wobble says cheerfully, pointing to a broken fan that's shooting out hot air and rubber bands. She tries to fix it with a stapler, which makes it start playing circus music instead.\n\nI'm hanging from my desk chair, watching my lunch float past my head in slow motion. A sandwich. An apple. Three cookies that taste like submarine oil.\n\nWhen autumn comes, we're somehow lodged in a tree. Orange and red leaves stick to our portholes like colorful bandages. Mrs. Wobble has gotten us tangled in a family of very annoyed squirrels.\n\n\"I think they want their acorns back,\" I tell her, as a particularly chunky squirrel glares at us through the window.\n\nMrs. Wobble tries to open the hatch to apologize, but instead activates the submarine's horn. HOOOOOONK! All the squirrels fall out of the tree like furry rain.",
+          "illustration": {
+            "description": "A treasure map style illustration on aged parchment showing a cross-section view of the yellow submarine in two scenes - summer trapped in a giant clamshell with Emma (straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks) hanging upside down from her chair, and autumn lodged in a tree with angry squirrels. Dotted trails connect the seasonal transitions. Mrs. Wobble operates confused controls while rubber bands and acorns fly around. Bold sepia tones with jewel accents mark the adventure cartography chaos.",
+            "alt": "The submarine shown in summer stuck in a clamshell and autumn stuck in a tree with squirrels",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-6473a2db1f/scene_2_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Chapter 3: Winter Wonder-Oops",
+      "pages": [
+        {
+          "text": "Winter finds us frozen solid in a snowbank, which is actually much quieter than the rest of the year. Icicles hang from the ceiling like nature's chandeliers, and my breath makes little puff clouds when I talk.\n\nMrs. Wobble has knitted herself a hat that's three sizes too big. It keeps falling over her eyes every time she tries to read us a story about Persephone and the pomegranate seeds.\n\n\"You know,\" she says, bumping into the same wall for the fifth time, \"this reminds me of that myth about the girl who had to stay underground for part of the year. Except we've been underground, and overground, and sideways-ground, and tree-ground...\"\n\nShe trips over her own shoelaces and accidentally hits the EJECT button.\n\nSuddenly we're shooting through the snow like a yellow rocket. I watch the world spin past the portholes - white, white, white, then blue sky, then... the roof of our regular school?\n\nWe land with a tremendous THUNK in the playground sandbox. Mrs. Wobble's hat finally falls all the way off.\n\n\"Well!\" she says, brushing sand out of her hair along with the pencil that's been there since spring. \"I guess our year-long field trip is over!\"\n\nI push open the submarine hatch and climb out into the warm spring air. A whole year has passed, and somehow, I'm kind of going to miss that squeaky yellow metal classroom.\n\nEven if everything in it was completely, wonderfully, ridiculously wrong.",
+          "illustration": {
+            "description": "A hand-drawn adventure map on aged parchment showing the final scene with the yellow submarine shooting up from a winter snowbank and landing in a school playground sandbox. Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, and rosy cheeks climbs out of the hatch while Mrs. Wobble sits dizzy nearby with her oversized hat fallen off. Dotted trajectory trails mark their path from snow to sandbox. Compass roses indicate the four seasons' journey. Sepia tones and jewel accents complete the treasure map cartography style.",
+            "alt": "The submarine's final landing in a school sandbox after shooting up from the snow",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-6473a2db1f/scene_3_1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "mythology remixed for kids",
+      "resilience",
+      "finding joy in chaos"
+    ],
+    "keywords": [
+      "submarine",
+      "adventure",
+      "seasons",
+      "school",
+      "mishaps"
+    ],
+    "moral": "Sometimes the most unexpected journeys teach us the most about ourselves and finding wonder in difficult situations.",
+    "coverPrompt": {
+      "description": "A treasure map style illustration on aged parchment showing a scratched yellow submarine with fogged portholes floating in swirling seasonal elements - spring rain, summer sun, autumn leaves, and winter snow. Emma with straight blonde hair in a ponytail, fair skin, bright blue eyes, and rosy cheeks peers out through a porthole. Compass roses mark each corner with dotted trails connecting seasonal symbols. Bold sepia tones with jewel-toned accents highlight the adventure cartography style.",
+      "alt": "A map-style cover showing a yellow submarine surrounded by symbols of the four seasons"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What happens to Emma's juice box at the beginning of the story?",
+        "choices": [
+          "It explodes all over everything",
+          "She drinks it slowly",
+          "Mrs. Wobble steals it"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emma says 'my juice box explodes all over everything' when the submarine lurches sideways."
+      },
+      {
+        "id": "q2",
+        "question": "Where does the submarine get stuck during summer?",
+        "choices": [
+          "In a tree",
+          "In a giant clam shell",
+          "In a snowbank"
+        ],
+        "correctIndex": 1,
+        "explanation": "The story says 'By summer, our submarine is stuck upside down in a giant clam shell.'"
+      },
+      {
+        "id": "q3",
+        "question": "What animals get angry at them in autumn?",
+        "choices": [
+          "Birds",
+          "Squirrels",
+          "Fish"
+        ],
+        "correctIndex": 1,
+        "explanation": "Emma mentions 'a family of very annoyed squirrels' and a 'particularly chunky squirrel' that glares at them."
+      },
+      {
+        "id": "q4",
+        "question": "What myth does Mrs. Wobble mention in winter?",
+        "choices": [
+          "The story of Persephone",
+          "The story of Atlantis",
+          "The story of Odysseus"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mrs. Wobble tries to read 'a story about Persephone and the pomegranate seeds' and mentions 'that myth about the girl who had to stay underground.'"
+      },
+      {
+        "id": "q5",
+        "question": "Where do they finally land at the end?",
+        "choices": [
+          "In the ocean",
+          "In the school playground sandbox",
+          "In Mrs. Wobble's backyard"
+        ],
+        "correctIndex": 1,
+        "explanation": "The story ends with 'We land with a tremendous THUNK in the playground sandbox.'"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "explodes",
+            "distractors": [
+              "melts",
+              "disappears"
+            ]
+          },
+          {
+            "wordIndex": 45,
+            "correctWord": "spinning",
+            "distractors": [
+              "flying",
+              "sinking"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "clam",
+            "distractors": [
+              "whale",
+              "cave"
+            ]
+          },
+          {
+            "wordIndex": 78,
+            "correctWord": "squirrels",
+            "distractors": [
+              "birds",
+              "rabbits"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "emma"
+}
