@@ -13,7 +13,7 @@
   "wordCount": 1643,
   "readingLevel": "Grade 2-3",
   "synopsis": "Told from the perspective of a classroom globe, this story follows Isla through a school year aboard a scratched yellow submarine. When only she can hear mysterious songs echoing through the vessel, her unique ability becomes the key to understanding the underwater world around them.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-school-f96916bcf0/cover.png",
   "chapters": [
     {
       "title": "The Globe Remembers September",
@@ -22,7 +22,8 @@
         {
           "description": "Chalkboard style drawing of a submarine classroom interior with curved metal walls and fogged portholes. Isla with long wavy red hair, very fair freckled skin, and bright green eyes sits at a desk near a globe, tilting her head as if listening. Other students work at their desks while Mrs. Nautilus points to a diagram. White and colored chalk show the submarine's details, with equation doodles on the dark green board background and dusty chalk texture.",
           "alt": "Interior view of submarine classroom with Isla listening intently while others work",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-school-f96916bcf0/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "Chalkboard style drawing showing Isla with long wavy red hair, very fair freckled skin, and bright green eyes drawing wavy musical lines in her notebook. Through the fogged submarine portholes, tiny silver fish swim in formation like underwater snowflakes. The submarine's interior is warm and glowing, contrasting with the deep blue-green water outside. White chalk shows the scene details against the dark green board with equation doodles and dusty texture.",
           "alt": "Isla drawing musical patterns while silver fish swim past submarine windows",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-school-f96916bcf0/scene_2_1.png"
         }
       ]
     },
@@ -44,7 +46,8 @@
         {
           "description": "Chalkboard style drawing of thousands of tiny glowing lanternfish surrounding the yellow submarine, their bioluminescent lights creating patterns in the turquoise water. Inside, Isla with long wavy red hair, very fair freckled skin, and bright green eyes stands with her hand raised, smiling with understanding while her classmates crowd around the portholes. The scene is filled with movement and light, drawn in white and colored chalk on the dark green board with equation doodles and dusty texture.",
           "alt": "Submarine surrounded by glowing lanternfish with Isla having a moment of realization",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-school-f96916bcf0/scene_3_1.png"
         }
       ]
     },
@@ -55,7 +58,8 @@
         {
           "description": "Chalkboard style drawing of the submarine surfaced in a crystal-clear tropical lagoon surrounded by palm trees. Isla with long wavy red hair braided with shells, very fair freckled skin, and bright green eyes sits by a porthole with her palm pressed against the glass. Lanternfish glow in spiraling patterns in the water around the submarine. Warm sunlight filters down through the clear water, and the scene has a magical, peaceful quality. White and colored chalk capture the tropical setting on the dark green board with equation doodles and dusty texture.",
           "alt": "Submarine in tropical lagoon with Isla touching the porthole as lanternfish dance outside",
-          "position": "after-paragraph-9"
+          "position": "after-paragraph-9",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-school-f96916bcf0/scene_4_1.png"
         }
       ]
     }
