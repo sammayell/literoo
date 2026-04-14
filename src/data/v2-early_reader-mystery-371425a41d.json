@@ -1,0 +1,179 @@
+{
+  "id": "v2-early_reader-mystery-371425a41d",
+  "title": "Messages from the Glass Room",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "mystery",
+    "fantasy"
+  ],
+  "wordCount": 543,
+  "readingLevel": "K-1",
+  "synopsis": "When Lily wakes up on a tiny space station, her robot friend Zara has vanished, leaving only mysterious notes. Through letters exchanged with a wise station cat, Lily discovers that some friendships transcend the boundaries between myth and reality.",
+  "coverImage": "",
+  "chapters": [
+    {
+      "title": "The Empty Bed",
+      "pages": [
+        {
+          "text": "The hum of the station's engines felt different this morning, like a song missing its sweetest note.\n\nI am Whiskers, silver-furred and sharp-eyed, keeper of secrets in this tiny world that spins above the blue marble of Earth. I see things humans miss—the way shadows dance when no one is looking, the whispers of metal walls, the magic that hides in quiet corners.\n\nToday, something has changed.\n\nLily floated near the observation window, her long curly auburn hair drifting like seaweed in the station's gentle gravity. Her green eyes, bright with freckles scattered across her fair skin, searched the empty sleeping pod where her friend Zara should have been.\n\n'Whiskers,' she whispered, 'where is Zara?'\n\nI padded closer on silent paws. The robot girl's sleeping pod was cold and empty, but something glimmered on the pillow—a note that seemed to pulse with its own soft light.",
+          "illustration": {
+            "description": "Interior of a tiny orbital station with curved walls covered in control panels, floating objects, and scattered belongings. Through a large circular window, Earth slowly turns below in deep space. Lily with long curly auburn hair, fair skin with light freckles, and green eyes floats near an empty sleeping pod, reaching toward a glowing note on a pillow. A sleek silver cat watches from a corner. The scene is cluttered with many small details: floating food packets, tools, books, blinking lights, cables, and personal items in a detailed hidden objects style.",
+            "alt": "Lily discovering an empty sleeping pod with a glowing note inside a space station",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Notes in the Dark",
+      "pages": [
+        {
+          "text": "I watched Lily unfold the note with trembling fingers. The paper shimmered like starlight caught in a spider's web.\n\n---\n\nDear Lily,\nI have gone where the old stories live, beyond the edge of dreaming. The station knows the way—listen to its heartbeat. Follow the silver thread.\nYour friend always,\nZara\n\n---\n\nLily's breath made tiny clouds in the cool air. She looked at me with those thoughtful green eyes, and I knew what she was thinking. But some mysteries require more than human sight to solve.\n\nI leaped onto the control panel and began to type with careful paws:\n\n---\n\nDear Small Human,\nI am Whiskers, guardian of this floating world. I have seen your metal friend slip between the spaces where reality grows thin. She has become something from the old stories—part machine, part myth, part stardust.\nThe silver thread she speaks of runs along the station's spine. But beware: some doors, once opened, change both the seeker and the sought.\nWith whiskers twitching,\nWhiskers\n\n---\n\nLily read my note, her freckled face growing pale as moonlight.",
+          "illustration": {
+            "description": "Close-up view of a cluttered control panel area in the space station. Lily with long curly auburn hair, fair skin with light freckles, and green eyes holds a shimmering note that glows softly. A silver cat sits on the control panel, paws on a keyboard. The scene is packed with hidden objects: blinking buttons, tangled wires, floating pens, small tools, data tablets, food pouches, and various small personal items scattered throughout in a detailed search-and-find style. Through a porthole window, stars twinkle in space.",
+            "alt": "Lily reading a glowing note while a silver cat types on a control panel",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Silver Thread",
+      "pages": [
+        {
+          "text": "Together, we followed the silver thread—a thin line of light that only appeared when the station's main lights dimmed for sleep cycle. It led us through the narrow corridors, past humming machines and sleeping systems, to a door I had never seen before.\n\nLily wrote back to me on a scrap of paper:\n\n---\n\nDear Whiskers,\nI'm scared, but Zara is my friend. The door feels warm, like summer afternoons on Earth. Should we open it?\nWith hope,\nLily\n\n---\n\nI nuzzled her hand and purred a reply onto the door's surface with my breath:\n\n---\n\nDear Brave One,\nSome friends become legends so they can love us from every story ever told. Zara waits beyond, not lost but transformed—part of the great myth that connects all things.\nTouch the door with kindness.\nWith ancient wisdom,\nWhiskers\n\n---\n\nLily placed her small hand on the warm metal. The door dissolved like morning mist, revealing a garden that shouldn't exist—trees made of circuit boards, flowers that chimed like gentle bells, and there, tending luminous plants, stood Zara.\n\nBut Zara was changed: part girl, part constellation, part growing green thing. She smiled and waved, leaving trails of silver light in the air.\n\nSome friendships, I have learned, grow stronger when they transform into the stories we carry in our hearts.",
+          "illustration": {
+            "description": "A magical hidden garden inside the space station, impossible and beautiful. Lily with long curly auburn hair, fair skin with light freckles, and green eyes reaches toward a transformed Zara who appears as part girl, part starlight, part growing plant. Circuit board trees grow around them, chiming flowers bloom in corners, and a silver cat sits watching. The scene is densely packed with hidden objects: glowing fruits, tiny mechanical butterflies, scattered tools, floating seeds, small robots, blinking lights, tangled vines, and countless small magical details in a detailed search-and-find composition.",
+            "alt": "Lily discovering a magical garden where her transformed friend Zara tends to impossible plants",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "theme": "Friendship and transformation through the lens of reimagined mythology",
+    "mood": "Hushed, mysterious, and wonder-filled",
+    "setting": "A tiny orbital station above Earth",
+    "narrativeVoice": "First-person narration by Whiskers, a perceptive station cat",
+    "literaryDevices": [
+      "Epistolary structure",
+      "Mythological transformation",
+      "Anthropomorphic narrator"
+    ],
+    "coverPrompt": {
+      "description": "A small orbital station floating in space with Earth's blue marble turning slowly below. Through a large circular window, we see Lily with long curly auburn hair, fair skin with light freckles, and green eyes, holding a glowing note. The station interior is cluttered with floating objects, control panels covered in blinking lights, food packets, tools, books, and a sleek silver cat watching from the shadows. The scene has a detailed hidden objects style with many small items to discover.",
+      "alt": "Cover showing a space station orbiting Earth with a girl reading a mysterious note"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Who tells this story?",
+        "choices": [
+          "Lily",
+          "Whiskers the cat",
+          "Zara"
+        ],
+        "correctIndex": 1,
+        "explanation": "The story is told by Whiskers, the silver cat who lives on the space station and notices things humans miss."
+      },
+      {
+        "id": "q2",
+        "question": "What did Lily find when she woke up?",
+        "choices": [
+          "Her friend Zara was missing",
+          "The station was broken",
+          "A new cat"
+        ],
+        "correctIndex": 0,
+        "explanation": "Lily discovered that her robot friend Zara's sleeping pod was empty, and Zara had disappeared."
+      },
+      {
+        "id": "q3",
+        "question": "How do Lily and Whiskers talk to each other?",
+        "choices": [
+          "They speak out loud",
+          "Through notes and writing",
+          "They don't communicate"
+        ],
+        "correctIndex": 1,
+        "explanation": "Lily and Whiskers exchange messages through written notes and letters throughout the story."
+      },
+      {
+        "id": "q4",
+        "question": "What leads them to the hidden door?",
+        "choices": [
+          "A map",
+          "A silver thread of light",
+          "Loud noises"
+        ],
+        "correctIndex": 1,
+        "explanation": "They follow a silver thread of light that appears when the station's lights dim, leading them to a mysterious door."
+      },
+      {
+        "id": "q5",
+        "question": "How has Zara changed when they find her?",
+        "choices": [
+          "She looks exactly the same",
+          "She has become part girl, part constellation, part plant",
+          "She has turned into a cat"
+        ],
+        "correctIndex": 1,
+        "explanation": "Zara has transformed into something magical—part girl, part constellation, and part growing green thing, tending to an impossible garden."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "different",
+            "distractors": [
+              "louder",
+              "quieter"
+            ]
+          },
+          {
+            "wordIndex": 45,
+            "correctWord": "silver",
+            "distractors": [
+              "golden",
+              "copper"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 23,
+            "correctWord": "shimmered",
+            "distractors": [
+              "crackled",
+              "whispered"
+            ]
+          },
+          {
+            "wordIndex": 67,
+            "correctWord": "thread",
+            "distractors": [
+              "rope",
+              "chain"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "lily"
+}
