@@ -1,0 +1,245 @@
+{
+  "id": "v2-early_reader-adventure-8bf07a2c5a",
+  "title": "The Backwards Gate",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "adventure",
+    "mystery"
+  ],
+  "wordCount": 494,
+  "readingLevel": "Kindergarten-1st Grade",
+  "synopsis": "In a village where snails race past everyone else, Amara discovers a mysterious door that has appeared overnight in the town square, leading her on a magical journey through a backwards world where ordinary rules don't apply.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-8bf07a2c5a/cover.png",
+  "chapters": [
+    {
+      "title": "Nine O'Clock Morning",
+      "pages": [
+        {
+          "text": "The snails were already lapping Mrs. Chen on her morning walk. Amara watched three of them spiral past the old woman's careful steps, their shells gleaming purple and gold in the sunlight. Everything in Willowbend moved like honey except the snails. They were the village's delivery service, newspaper carriers, and racing champions all rolled into rainbow-colored spirals.",
+          "illustration": {
+            "description": "A treasure map style illustration showing Amara with long box braids, rich brown skin, and large sparkling dark eyes watching colorful snails zoom past an elderly woman walking slowly. The scene is rendered in sepia tones with dotted trails marking the snails' paths across aged parchment, with compass roses in the corners.",
+            "alt": "Amara watching fast snails pass a slowly walking elderly woman",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-8bf07a2c5a/scene_1_1.png"
+          }
+        },
+        {
+          "text": "Amara's mother moved at the proper Willowbend pace, which meant her goodbye hug lasted three whole minutes. \"Be home before the sundial shadow reaches the oak tree,\" her mother said, each word taking its sweet time. Amara nodded quickly, which looked quite normal next to everyone else's turtle-speed movements.",
+          "illustration": {
+            "description": "A warm embrace scene in treasure map style showing Amara with long box braids, rich brown skin, and large sparkling dark eyes receiving a long hug from her mother. The illustration uses aged parchment textures with sepia tones and jewel accents, featuring a sundial and oak tree in the background as adventure cartography elements.",
+            "alt": "Amara hugging her mother goodbye with a sundial and oak tree visible",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-8bf07a2c5a/scene_1_2.png"
+          }
+        },
+        {
+          "text": "The town square looked different today. Between the fountain where the turtles held their daily meditation and the bench where Mr. Rodriguez had been reading the same newspaper page for two weeks, something new had sprouted. A door. Not attached to any building or wall - just standing there like doors were supposed to grow from cobblestones.",
+          "illustration": {
+            "description": "A mysterious standalone wooden door in a village square, drawn in treasure map adventure cartography style. Amara with long box braids, rich brown skin, and large sparkling dark eyes approaches the door. The aged parchment background shows sepia tones with compass roses, while meditating turtles and a man reading are visible in the distance.",
+            "alt": "A mysterious wooden door standing alone in the village square",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-8bf07a2c5a/scene_1_3.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Eleven O'Clock Adventure",
+      "pages": [
+        {
+          "text": "The door knocker was shaped like a snail, which seemed perfectly reasonable. What didn't seem reasonable was how it knocked back when Amara touched it. Three quick raps, then two slow ones, then a pattern that sounded like her grandmother's lullaby. Doors weren't supposed to start conversations, but this one had opinions.",
+          "illustration": {
+            "description": "Close-up treasure map style illustration of Amara with long box braids, rich brown skin, and large sparkling dark eyes touching a snail-shaped door knocker that glows with magical energy. The aged parchment background features intricate compass roses and dotted trail patterns around the ornate door details.",
+            "alt": "Amara touching a magical snail-shaped door knocker",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-8bf07a2c5a/scene_2_1.png"
+          }
+        },
+        {
+          "text": "When the door swung open, Amara stepped through and found herself in Willowbend's twin sister. Everything was backwards here - the snails moved like sleepy grandparents while the people zipped around like hummingbirds. The backwards Mrs. Chen jogged past, waving energetically, while a giant snail slowly contemplated a dandelion.",
+          "illustration": {
+            "description": "A split-world treasure map scene showing Amara with long box braids, rich brown skin, and large sparkling dark eyes stepping through a magical doorway. One side shows the normal slow village, the other shows the backwards version with fast people and slow snails. Aged parchment with sepia tones and jewel accents frame the adventure cartography style illustration.",
+            "alt": "Amara stepping through a doorway into a backwards version of her village",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-8bf07a2c5a/scene_2_2.png"
+          }
+        },
+        {
+          "text": "\"You're the right-way-round girl,\" said the backwards Mr. Rodriguez, who was speed-reading seventeen newspapers at once. \"The Guardian Snail has been waiting for you.\" He pointed toward the center of the backwards square, where a snail the size of a garden shed sat wearing what appeared to be a crown made of morning glory flowers.",
+          "illustration": {
+            "description": "A magnificent treasure map illustration featuring Amara with long box braids, rich brown skin, and large sparkling dark eyes approaching a giant snail wearing a flower crown. The scene uses bold explorer adventure cartography style with aged parchment textures, compass roses, and dotted paths leading to the majestic Guardian Snail in sepia tones with jewel accents.",
+            "alt": "Amara meeting a giant snail wearing a crown of flowers",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-8bf07a2c5a/scene_2_3.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Two O'Clock Answers",
+      "pages": [
+        {
+          "text": "\"Every village needs a balance,\" the Guardian Snail explained in a voice like warm caramel. \"Your Willowbend moves slow so ours can move fast. But sometimes the balance tips, and doors appear for the right person to set things straight again.\" Amara understood completely, the way you understand dreams while you're dreaming them.",
+          "illustration": {
+            "description": "A wise counsel scene in treasure map adventure cartography style showing Amara with long box braids, rich brown skin, and large sparkling dark eyes sitting before the massive Guardian Snail. The aged parchment illustration uses sepia tones with mystical jewel accents and compass roses, showing the balance between two spinning worlds in the background.",
+            "alt": "The Guardian Snail explaining the balance between worlds to Amara",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-8bf07a2c5a/scene_3_1.png"
+          }
+        },
+        {
+          "text": "\"What do I need to do?\" Amara asked. The Guardian Snail's eyes twinkled like stars in tide pools. \"Just remember us,\" it said. \"Tell the stories. Keep the balance in your heart.\" As simple as that sounded, Amara knew it was the most important job she'd ever been given. Some jobs chose you, not the other way around.",
+          "illustration": {
+            "description": "A touching moment captured in treasure map style with Amara with long box braids, rich brown skin, and large sparkling dark eyes receiving wisdom from the Guardian Snail whose eyes sparkle like jewels. The aged parchment background shows hand-drawn map elements with dotted trails and compass roses in sepia tones.",
+            "alt": "Amara receiving her important mission from the Guardian Snail",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-8bf07a2c5a/scene_3_2.png"
+          }
+        },
+        {
+          "text": "When Amara stepped back through the door, it dissolved like morning mist. The town square looked perfectly ordinary again, except for a small rainbow snail that winked at her before zooming toward the library. Mrs. Chen was still on her slow walk, and Mr. Rodriguez still contemplated his newspaper. But now Amara carried two worlds in her pocket, and that made all the difference.",
+          "illustration": {
+            "description": "A magical conclusion in treasure map adventure cartography style showing Amara with long box braids, rich brown skin, and large sparkling dark eyes back in the normal village square as the mystical door fades away like mist. A small rainbow snail leaves a dotted trail toward the library. The aged parchment illustration uses sepia tones with jewel accents and compass roses.",
+            "alt": "Amara returning to her normal village as the magical door disappears",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-8bf07a2c5a/scene_3_3.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "balance",
+      "responsibility",
+      "wonder",
+      "mythology"
+    ],
+    "vocabulary": [
+      "contemplated",
+      "reasonable",
+      "balance",
+      "dissolved",
+      "guardian"
+    ],
+    "lessonAreas": [
+      "problem solving",
+      "acceptance of responsibility",
+      "understanding different perspectives"
+    ],
+    "coverPrompt": {
+      "description": "Amara with long box braids, rich brown skin, and large sparkling dark eyes stands before an ornate wooden door covered in glowing symbols, set against a treasure map background with sepia tones and compass roses. The village moves in slow motion around her while colorful snails zoom past, leaving dotted trails on the aged parchment-style illustration.",
+      "alt": "A young girl examining a mysterious glowing door in a slow-moving village"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What makes the snails special in Willowbend village?",
+        "choices": [
+          "They are the fastest things in the slow village",
+          "They are the biggest animals there",
+          "They can talk to people"
+        ],
+        "correctIndex": 0,
+        "explanation": "In Willowbend, everything moves slowly except the snails, who are the fastest residents and work as delivery service and racers."
+      },
+      {
+        "id": "q2",
+        "question": "What appeared in the town square that surprised Amara?",
+        "choices": [
+          "A new fountain",
+          "A door standing by itself",
+          "A giant snail"
+        ],
+        "correctIndex": 1,
+        "explanation": "A mysterious door appeared in the town square, not attached to any building - just standing there on the cobblestones."
+      },
+      {
+        "id": "q3",
+        "question": "How was the backwards world different from Amara's village?",
+        "choices": [
+          "People moved fast and snails moved slow",
+          "Everything was upside down",
+          "It was always nighttime there"
+        ],
+        "correctIndex": 0,
+        "explanation": "In the backwards world, people moved quickly like hummingbirds while the snails moved slowly, opposite of Amara's village."
+      },
+      {
+        "id": "q4",
+        "question": "What did the Guardian Snail ask Amara to do?",
+        "choices": [
+          "Stay in the backwards world",
+          "Remember and tell the stories",
+          "Bring more children through the door"
+        ],
+        "correctIndex": 1,
+        "explanation": "The Guardian Snail asked Amara to remember the backwards world, tell the stories, and keep the balance in her heart."
+      },
+      {
+        "id": "q5",
+        "question": "What happened to the door when Amara returned?",
+        "choices": [
+          "It stayed there forever",
+          "It dissolved like morning mist",
+          "It became invisible"
+        ],
+        "correctIndex": 1,
+        "explanation": "When Amara stepped back through the door to her own world, the door dissolved like morning mist and disappeared."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "snails",
+            "distractors": [
+              "turtles",
+              "rabbits"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "rainbow-colored",
+            "distractors": [
+              "silver",
+              "golden"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 5,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "backwards",
+            "distractors": [
+              "sideways",
+              "upside-down"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "hummingbirds",
+            "distractors": [
+              "butterflies",
+              "bees"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "amara"
+}
