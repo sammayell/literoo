@@ -12,7 +12,7 @@
   "wordCount": 3526,
   "readingLevel": "Grade 5-6",
   "synopsis": "In a pumpkin patch at golden hour the day before Halloween, we follow Yuki as she hears a mysterious sound that only she can perceive. Through our collective voice, we keep lists of worries, wishes, and clues as we navigate the dreamlike boundaries between what's real and what's imagined in this tale of family bonds and hidden truths.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-historical-902791b0d4/cover.png",
   "chapters": [
     {
       "title": "The First Note",
@@ -21,7 +21,8 @@
         {
           "description": "Yuki with straight black hair with a red headband, light skin, and almond-shaped dark brown eyes stands motionless in a pumpkin patch at golden hour. Her head is tilted listening, surrounded by large orange pumpkins. Rendered in illuminated manuscript style with gold leaf accents, ornate borders, rich amber and orange colors, and decorative capitals on parchment texture.",
           "alt": "Yuki listening intently in the golden pumpkin patch",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-historical-902791b0d4/scene_1_1.png"
         }
       ]
     },
@@ -32,7 +33,8 @@
         {
           "description": "Grandmother's weathered hands touching pumpkins while Yuki with straight black hair with a red headband, light skin, and almond-shaped dark brown eyes watches nearby. The scene glows with golden sunset light in illuminated manuscript style with gold leaf accents, ornate borders, and rich deep colors on parchment texture.",
           "alt": "Grandmother examining pumpkins with her hands while Yuki observes",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-historical-902791b0d4/scene_2_1.png"
         }
       ]
     },
@@ -43,7 +45,8 @@
         {
           "description": "Yuki with straight black hair with a red headband, light skin, and almond-shaped dark brown eyes kneeling beside an enormous pumpkin with her hands pressed against its surface. Grandmother kneels nearby. Golden hour light streams through the scene in illuminated manuscript style with gold leaf accents, ornate borders, and decorative capitals on parchment texture.",
           "alt": "Yuki and Grandmother listening to a giant pumpkin at sunset",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-historical-902791b0d4/scene_3_1.png"
         }
       ]
     },
@@ -54,7 +57,8 @@
         {
           "description": "A dinner scene with Yuki with straight black hair with a red headband, light skin, and almond-shaped dark brown eyes sitting at a table with her family. The small pumpkin sits nearby, while soft evening light filters through windows. Rendered in illuminated manuscript style with gold leaf accents and warm, rich colors on parchment texture.",
           "alt": "Yuki at dinner with her family, the chosen pumpkin nearby",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-historical-902791b0d4/scene_4_1.png"
         }
       ]
     },
@@ -65,7 +69,8 @@
         {
           "description": "Dawn at the pumpkin patch with mist clinging to the ground. Yuki with straight black hair with a red headband, light skin, and almond-shaped dark brown eyes and Grandmother walk among the giant pumpkins in pink and gold morning light. Rendered in illuminated manuscript style with gold leaf accents, ornate borders, and soft morning colors on parchment texture.",
           "alt": "Yuki and Grandmother returning to the misty pumpkin patch at dawn",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-historical-902791b0d4/scene_5_1.png"
         }
       ]
     },
@@ -76,7 +81,8 @@
         {
           "description": "Multiple families wandering through the pumpkin patch while Yuki with straight black hair with a red headband, light skin, and almond-shaped dark brown eyes and Grandmother observe from among the giant pumpkins. The scene shows people unconsciously moving in harmony with invisible rhythms. Illuminated manuscript style with gold leaf accents, ornate borders, and diverse characters in rich colors on parchment texture.",
           "alt": "Families moving through the pumpkin patch in mysterious harmony",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-historical-902791b0d4/scene_6_1.png"
         }
       ]
     },
@@ -87,7 +93,8 @@
         {
           "description": "Yuki with straight black hair with a red headband, light skin, and almond-shaped dark brown eyes sitting under an apple tree with Grandmother, sharing rice balls while the pumpkin patch spreads before them in golden light. Musical notation seems to float subtly through the air. Illuminated manuscript style with gold leaf accents, decorative borders, and warm afternoon colors on parchment texture.",
           "alt": "Yuki and Grandmother having lunch while listening to the pumpkin patch's music",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-historical-902791b0d4/scene_7_1.png"
         }
       ]
     },
@@ -98,7 +105,8 @@
         {
           "description": "Yuki with straight black hair with a red headband, light skin, and almond-shaped dark brown eyes at the dinner table with her parents, gesturing as she tries to explain while they listen with kind but puzzled expressions. Evening light fills the room. Illuminated manuscript style with gold leaf accents, ornate borders, and warm family scene colors on parchment texture.",
           "alt": "Yuki trying to explain the pumpkin patch mystery to her parents",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-historical-902791b0d4/scene_8_1.png"
         }
       ]
     },
@@ -109,7 +117,8 @@
         {
           "description": "Grandmother sitting on Yuki's bed in silvery moonlight streaming through the window. Yuki with straight black hair with a red headband, light skin, and almond-shaped dark brown eyes sits up in bed listening. The room glows with ethereal light. Illuminated manuscript style with gold leaf accents, ornate borders, and mystical nighttime colors on parchment texture.",
           "alt": "Grandmother and Yuki sharing a moonlit conversation about listening and mysteries",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-historical-902791b0d4/scene_9_1.png"
         }
       ]
     },
@@ -120,7 +129,8 @@
         {
           "description": "The pumpkin patch at night on Halloween, with Yuki with straight black hair with a red headband, light skin, and almond-shaped dark brown eyes and Grandmother holding flashlights among the remaining giant pumpkins. Mystical light seems to emanate from the pumpkins themselves under a full moon. Illuminated manuscript style with gold leaf accents, ornate borders, and magical nighttime colors on parchment texture.",
           "alt": "Yuki and Grandmother in the mystical Halloween pumpkin patch at midnight",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-historical-902791b0d4/scene_10_1.png"
         }
       ]
     },
@@ -131,7 +141,8 @@
         {
           "description": "Yuki with straight black hair with a red headband, light skin, and almond-shaped dark brown eyes writing in her journal at the kitchen table, with the small pumpkin nearby glowing softly. Halloween decorations and the warm light of home surround them. Illuminated manuscript style with gold leaf accents, ornate borders, and cozy domestic colors on parchment texture.",
           "alt": "Yuki writing in her journal with the humming pumpkin nearby",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-historical-902791b0d4/scene_11_1.png"
         }
       ]
     },
@@ -142,7 +153,8 @@
         {
           "description": "A split scene showing the empty winter pumpkin patch covered in snow on one side, and Yuki with straight black hair with a red headband, light skin, and almond-shaped dark brown eyes planting pumpkin seeds in her spring garden on the other side. The composition suggests the eternal cycle of seasons and growth. Illuminated manuscript style with gold leaf accents, ornate borders, and colors transitioning from winter blues to spring greens on parchment texture.",
           "alt": "The cycle continues - from winter's empty patch to spring's new plantings",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-historical-902791b0d4/scene_12_1.png"
         }
       ]
     }
