@@ -13,7 +13,7 @@
   "wordCount": 648,
   "readingLevel": "Kindergarten-1st Grade",
   "synopsis": "A honeybee witnesses the magical day when Orbit the robot receives a mysterious gift that teaches him about protecting the cherry orchard's delicate ecosystem. Through dreamlike encounters with talking trees and glowing seeds, friendship blooms in unexpected ways.",
-  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-764472b1ba/cover.png",
+  "coverImage": "",
   "chapters": [
     {
       "title": "Dawn's Secret (6:00 AM)",
@@ -24,7 +24,7 @@
             "description": "Dawn light filters through cherry blossoms as a tall thin bipedal exploration robot with a dented silver shell, solar panels for shoulders, a single amber telescopic eye, and a fluttering antenna discovers a mysterious silver box at the base of an ancient tree. A honeybee watches from above. Pink petals drift in the golden morning light. Art style: enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage.",
             "alt": "Orbit discovering a silver box in the cherry orchard at dawn",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-764472b1ba/scene_1_1.png"
+            "src": ""
           }
         }
       ]
@@ -38,7 +38,7 @@
             "description": "Seven glowing seeds float around a tall thin bipedal exploration robot with a dented silver shell, solar panels for shoulders, a single amber telescopic eye, and a fluttering antenna in the cherry orchard. The seeds emit soft golden light and musical notes visible in the air. A honeybee flies nearby, and cherry blossoms glow with the seeds' magic. Art style: enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage.",
             "alt": "Magical glowing seeds floating around Orbit in the blooming orchard",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-764472b1ba/scene_2_1.png"
+            "src": ""
           }
         }
       ]
@@ -52,7 +52,7 @@
             "description": "A tall thin bipedal exploration robot with a dented silver shell, solar panels for shoulders, a single amber telescopic eye, and a fluttering antenna kneels beside glowing blue flowers that have just sprouted around cherry trees. The trees seem to have gentle faces in their bark. A honeybee hovers near the magical flowers, which emit a soft blue glow. Art style: enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage.",
             "alt": "Orbit kneeling beside magical blue flowers as the cherry trees speak",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-764472b1ba/scene_3_1.png"
+            "src": ""
           }
         }
       ]
@@ -66,7 +66,7 @@
             "description": "At sunset, a tall thin bipedal exploration robot with a dented silver shell, solar panels for shoulders, a single amber telescopic eye, and a fluttering antenna holds a magical watering can, tending to glowing blue flowers beneath cherry trees. A honeybee rests on his antenna. The sky is painted in rose and gold, with sparkling water droplets catching the light. The entire scene glows with peaceful magic. Art style: enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage.",
             "alt": "Orbit watering magical flowers at sunset with a honeybee on his antenna",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-764472b1ba/scene_4_1.png"
+            "src": ""
           }
         }
       ]

@@ -13,7 +13,7 @@
   "wordCount": 711,
   "readingLevel": "Grade 1-2",
   "synopsis": "When Pixel the small robot tells a tiny lie about knowing a special song, she must investigate how to make her heart-shaped eyes glow properly before her new friends discover the truth. Through the changing seasons in a magical treehouse village, Pixel learns that friendship grows stronger when we share our real selves.",
-  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-56e7af55e7/cover.png",
+  "coverImage": "",
   "chapters": [
     {
       "title": "Spring's First Clue",
@@ -24,7 +24,7 @@
             "description": "Arthur Rackham inspired golden age illustration shows a tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands, standing nervously on a rope bridge. Bronze robot Copper swings away on another bridge between treehouses filled with spring blossoms. Watercolor washes in soft greens and pinks capture the morning light filtering through new leaves. Decorative borders frame the scene.",
             "alt": "Pink robot Pixel looks worried while bronze robot Copper swings on rope bridges between spring treehouses",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-56e7af55e7/scene_1_1.png"
+            "src": ""
           }
         }
       ]
@@ -38,7 +38,7 @@
             "description": "Golden age illustration with detailed pen work shows a tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands, hiding behind tree bark while observing silver robot Silver practice. Summer treehouses are lush with green foliage, rope bridges draped with flowering vines. Arthur Rackham inspired style with watercolor washes captures dappled sunlight. Decorative borders include musical notes and leaves.",
             "alt": "Pink robot Pixel spies on silver robot Silver practicing songs among summer treehouses",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-56e7af55e7/scene_2_1.png"
+            "src": ""
           }
         }
       ]
@@ -52,7 +52,7 @@
             "description": "Arthur Rackham inspired golden age illustration shows a tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands, surrounded by many different robots on platforms and rope bridges between winter treehouses. Snow covers the branches, icicles hang like ornaments, and each robot's eyes glow in different colors as they sing together. Detailed pen work and watercolor washes create a magical winter scene with decorative borders of snowflakes and musical notes.",
             "alt": "Many robots with glowing eyes of different colors sing together among snow-covered treehouses connected by rope bridges",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-56e7af55e7/scene_3_1.png"
+            "src": ""
           }
         }
       ]
