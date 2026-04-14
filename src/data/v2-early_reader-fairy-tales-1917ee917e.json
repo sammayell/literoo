@@ -12,7 +12,7 @@
   "wordCount": 475,
   "readingLevel": "Grade 1-2",
   "synopsis": "When thick fog covers the lake, Zara and her new friends must visit five magical islands before sunset to help the ferry captain find his way home.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-1917ee917e/cover.png",
   "chapters": [
     {
       "title": "The Fog Rolls In",
@@ -22,7 +22,8 @@
           "illustration": {
             "description": "Zara, a child with natural coily hair in two puffs, deep brown skin, and sparkling dark brown eyes, stands on a ferry deck surrounded by thick fog. Captain Moss, a bearded man in a captain's hat, hands her a glowing brass compass. The ferry's rail and deck are visible but everything else fades into white mist. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
             "alt": "Zara receiving glowing compass from Captain Moss in thick fog",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-1917ee917e/scene_1_1.png"
           }
         }
       ]
@@ -35,7 +36,8 @@
           "illustration": {
             "description": "Zara, a child with natural coily hair in two puffs, deep brown skin, and sparkling dark brown eyes, leans over the ferry rail listening to singing rocks emerging from the fog. A small cricket wearing a red hat sits on her shoulder. The rocks are dark and weathered, their mouths open in song. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
             "alt": "Zara listening to singing rocks with cricket Pip on her shoulder",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-1917ee917e/scene_2_1.png"
           }
         }
       ]
@@ -48,7 +50,8 @@
           "illustration": {
             "description": "Zara, a child with natural coily hair in two puffs, deep brown skin, and sparkling dark brown eyes, stands at the ferry rail with Pip the cricket. Before them is a small island with one magnificent tree covered in closing multicolored flowers. Sage, a large wise turtle, surfaces in the foggy water near the island. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
             "alt": "Zara, Pip, and Sage the turtle looking at flower tree island",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-1917ee917e/scene_3_1.png"
           }
         }
       ]
@@ -61,7 +64,8 @@
           "illustration": {
             "description": "Zara, a child with natural coily hair in two puffs, deep brown skin, and sparkling dark brown eyes, holds the glowing compass while standing near Luna, a silver-white swan. Behind them is an island made entirely of mirrors reflecting fog and multiple images of the compass. Pip sits on Zara's shoulder. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
             "alt": "Zara with compass reflected in mirror island while Luna the swan watches",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-1917ee917e/scene_4_1.png"
           }
         }
       ]
@@ -74,7 +78,8 @@
           "illustration": {
             "description": "Zara, a child with natural coily hair in two puffs, deep brown skin, and sparkling dark brown eyes, stands surrounded by all her friends on the ferry deck: Pip the cricket with red hat on her shoulder, Echo the small gold-green dragon perched nearby, while Sage the turtle and Luna the swan are visible in the water beside the boat. A tall bell tower emerges from fog on a nearby island. The compass glows very brightly in Zara's hands. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
             "alt": "Zara surrounded by all her magical friends near the bell tower island",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-1917ee917e/scene_5_1.png"
           }
         }
       ]
