@@ -1,0 +1,262 @@
+{
+  "id": "v2-early_reader-animals-31114cb91c",
+  "title": "Under the Canvas Lights",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "animals",
+    "friendship"
+  ],
+  "wordCount": 318,
+  "readingLevel": "Grade 1-2",
+  "synopsis": "When Hiro wakes up at the traveling carnival to find all the animal performers speaking backwards, he must follow the clues to solve the mystery before showtime.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-31114cb91c/cover.png",
+  "chapters": [
+    {
+      "title": "Chapter 1: Something Strange",
+      "pages": [
+        {
+          "text": "The elephant says 'olleh' instead of 'hello.' I write this clue in my notebook. The carnival lights buzz overhead. Cotton candy smells drift past my nose. But something is very wrong here.",
+          "illustration": {
+            "description": "A boy with short straight black hair, light skin, bright dark brown eyes, and a round face writing in a small notebook while standing near a large elephant under colorful carnival lights. The elephant has its trunk raised as if speaking. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Hiro taking notes while an elephant speaks to him under carnival lights",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-31114cb91c/scene_1_1.png"
+          }
+        },
+        {
+          "text": "The dancing poodles bark 'foow foow' instead of 'woof woof.' I add this to my list. Their sequined collars sparkle. The ringmaster hasn't noticed yet. But I have. Scientists notice things.",
+          "illustration": {
+            "description": "Three white poodles in sparkling sequined collars standing on their hind legs on small platforms. A boy with short straight black hair, light skin, bright dark brown eyes, and a round face observes them carefully with his notebook. Carnival tent canvas and warm lights in background. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Performing poodles barking backwards while Hiro watches and takes notes",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-31114cb91c/scene_1_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Chapter 2: More Clues",
+      "pages": [
+        {
+          "text": "The acrobat monkeys chatter 'eekeeek' backwards. They swing from rope to rope. Their tiny vests flutter in the evening breeze. I count five monkeys. All speaking backwards. This is getting interesting.",
+          "illustration": {
+            "description": "Five small monkeys in colorful vests swinging on ropes and trapezes above. A boy with short straight black hair, light skin, bright dark brown eyes, and a round face stands below looking up, holding his notebook. Carnival tent interior with warm golden lighting. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Acrobat monkeys swinging overhead while Hiro observes from below",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The dancing horse neighs 'hgien hgien' instead of 'neigh neigh.' Her mane has purple ribbons. She prances in a perfect circle. The sawdust crunches under her hooves. Every animal is affected. But why?",
+          "illustration": {
+            "description": "A beautiful white horse with purple ribbons braided in her mane dancing in a circus ring. A boy with short straight black hair, light skin, bright dark brown eyes, and a round face watches from the side with his notebook open. Sawdust scattered on ground, warm carnival lights overhead. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Dancing horse with purple ribbons performing while Hiro takes careful notes",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Chapter 3: Going Back",
+      "pages": [
+        {
+          "text": "Let me go back to the beginning. I was sleeping in the carnival wagon. The lights came on at sunset. That's when everything started. The animals were practicing for tonight's big show.",
+          "illustration": {
+            "description": "A boy with short straight black hair, light skin, bright dark brown eyes, and a round face sleeping peacefully in a small wooden carnival wagon bed. Warm golden light streaming through a small window. Carnival sounds and lights visible outside. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Hiro sleeping in carnival wagon as lights come on outside",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-31114cb91c/scene_3_1.png"
+          }
+        },
+        {
+          "text": "I woke up to strange sounds. 'Olleh! Foow foow! Eekeeek!' All mixed up and backwards. The animals were warming up together. But something had changed while I slept. A scientist must investigate.",
+          "illustration": {
+            "description": "A boy with short straight black hair, light skin, bright dark brown eyes, and a round face sitting up in bed looking puzzled as backwards animal sounds float in through the window. Various animal silhouettes visible through wagon window under carnival lights. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Hiro waking up to backwards animal sounds coming from outside",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-31114cb91c/scene_3_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Chapter 4: The Discovery",
+      "pages": [
+        {
+          "text": "I find the new carnival speaker system. It's installed backwards! The wires are crossed. When animals practice near it, they hear themselves backwards. So they copy what they hear.",
+          "illustration": {
+            "description": "A boy with short straight black hair, light skin, bright dark brown eyes, and a round face examining a large speaker mounted upside down on a carnival pole. Tangled wires visible. Various carnival animals gathered nearby looking confused. Warm carnival lights glowing. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Hiro discovering the backwards-mounted speaker that's causing the problem",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-31114cb91c/scene_4_1.png"
+          }
+        },
+        {
+          "text": "I call all the animals over. 'We can fix this together!' The elephant trumpets. The poodles yip. The monkeys chatter. The horse neighs. We're a team now. Each animal will help.",
+          "illustration": {
+            "description": "A boy with short straight black hair, light skin, bright dark brown eyes, and a round face standing in the center of a circle formed by an elephant, three poodles, five monkeys, and a white horse with purple ribbons. All looking attentively at him. Carnival lights twinkling overhead. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Hiro gathering all the carnival animals together to solve the problem as a team",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-31114cb91c/scene_4_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Chapter 5: Teamwork",
+      "pages": [
+        {
+          "text": "The elephant lifts me up high. The monkeys untangle the wires. The horse holds the ladder steady. The poodles bark encouragement. We flip the speaker around. Everyone has a job to do.",
+          "illustration": {
+            "description": "A boy with short straight black hair, light skin, bright dark brown eyes, and a round face being lifted up by an elephant's trunk while monkeys work on wires above. A white horse with purple ribbons steadies a ladder and three poodles watch encouragingly. Carnival lights glowing warmly. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "All the animals working together to fix the speaker system",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-31114cb91c/scene_5_1.png"
+          }
+        },
+        {
+          "text": "'Hello!' says the elephant correctly. 'Woof woof!' bark the poodles. 'Eek eek eek!' chatter the monkeys. 'Neigh neigh!' calls the horse. The mystery is solved. We did it together. The show will be perfect tonight.",
+          "illustration": {
+            "description": "A celebration scene with a boy with short straight black hair, light skin, bright dark brown eyes, and a round face surrounded by happy carnival animals all speaking correctly now. The elephant, poodles, monkeys, and horse all look joyful under the warm glow of carnival lights. Confetti or sparkles in the air. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Happy celebration as all animals speak correctly again after working together",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-31114cb91c/scene_5_2.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "problem-solving",
+      "teamwork",
+      "friendship",
+      "scientific thinking"
+    ],
+    "vocabulary": [
+      "scientist",
+      "investigate",
+      "backwards",
+      "carnival",
+      "mystery"
+    ],
+    "lessonsFocus": [
+      "cooperation",
+      "listening skills",
+      "helping others"
+    ],
+    "coverPrompt": {
+      "description": "A traveling carnival at dusk with warm glowing lights strung between colorful tents. A boy with short straight black hair, light skin, bright dark brown eyes, and a round face stands in the foreground holding a notebook, looking curiously at performers in the background. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+      "alt": "Boy at carnival investigating mystery as lights come on at sunset"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What were the animals saying instead of their normal sounds?",
+        "choices": [
+          "Everything backwards",
+          "Nothing at all",
+          "Very loudly"
+        ],
+        "correctIndex": 0,
+        "explanation": "The animals were saying their sounds backwards because they heard themselves backwards through the speaker."
+      },
+      {
+        "id": "q2",
+        "question": "What did Hiro use to keep track of clues?",
+        "choices": [
+          "His memory",
+          "A notebook",
+          "His phone"
+        ],
+        "correctIndex": 1,
+        "explanation": "Hiro wrote down clues in his notebook like a good scientist."
+      },
+      {
+        "id": "q3",
+        "question": "What was wrong with the speaker system?",
+        "choices": [
+          "It was too loud",
+          "It was installed backwards",
+          "It was broken"
+        ],
+        "correctIndex": 1,
+        "explanation": "The speaker was installed backwards, making the animals hear themselves backwards."
+      },
+      {
+        "id": "q4",
+        "question": "How did the animals help fix the problem?",
+        "choices": [
+          "They worked as a team",
+          "They ran away",
+          "They got louder"
+        ],
+        "correctIndex": 0,
+        "explanation": "Each animal had a different job to help fix the speaker - elephant lifted, monkeys worked on wires, horse held the ladder, and poodles encouraged everyone."
+      },
+      {
+        "id": "q5",
+        "question": "What happened after they fixed the speaker?",
+        "choices": [
+          "The animals were still confused",
+          "The animals spoke correctly again",
+          "The speaker broke again"
+        ],
+        "correctIndex": 1,
+        "explanation": "Once the speaker was turned around correctly, all the animals could say their sounds the right way again."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "olleh",
+            "distractors": [
+              "hello",
+              "goodbye"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "notebook",
+            "distractors": [
+              "backpack",
+              "pocket"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 7,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "backwards",
+            "distractors": [
+              "forwards",
+              "sideways"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "team",
+            "distractors": [
+              "group",
+              "friends"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "hiro"
+}

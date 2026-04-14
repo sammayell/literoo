@@ -1,0 +1,266 @@
+{
+  "id": "v2-early_reader-animals-888d3639b7",
+  "title": "Four Seasons of Wonder",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "animals",
+    "fantasy"
+  ],
+  "wordCount": 1105,
+  "readingLevel": "Grade 1",
+  "synopsis": "During a three-day rainstorm in a dusty attic, a curious robot named Orbit discovers that the weather is doing something truly impossible - cycling through all four seasons in a single room. As spring flowers bloom in wooden crates, summer heat shimmers near old windows, autumn leaves dance through the air, and winter frost sparkles on forgotten treasures, Orbit learns that the most magical inventions happen when nature itself becomes the builder.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-888d3639b7/cover.png",
+  "chapters": [
+    {
+      "title": "Spring Whispers",
+      "pages": [
+        {
+          "text": "Pitter-pat, pitter-pat went the rain on the roof above, but something else was making sounds too - tiny creaks and gentle pops that made Orbit's antenna flutter with curiosity. The small robot's amber eye telescoped out, scanning the dusty attic where cobwebs caught silvery raindrops leaking through old boards. Click-whirr, click-whirr went Orbit's joints as he moved between towers of forgotten boxes and rolled-up carpets that smelled like grandmother's lavender soap. But wait - what was that green glow coming from the corner near the window? Orbit's solar panels tingled with excitement as he shuffled closer, his dented silver shell catching glints of strange, warm light that definitely wasn't coming from the gray storm clouds outside.",
+          "illustration": {
+            "description": "A tall thin bipedal exploration robot with a dented silver shell, solar panels for shoulders, a single amber telescopic eye, and a fluttering antenna explores a dusty attic filled with boxes and cobwebs. Green light glows mysteriously from one corner. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Orbit investigating mysterious green light in the dusty attic",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-888d3639b7/scene_1_1.png"
+          }
+        },
+        {
+          "text": "Pop-pop-pop! Tiny flowers were bursting from an old wooden crate, their petals unfurling like colorful umbrellas opening in fast-forward. Daisies and dandelions, buttercups and baby roses - they sprouted and bloomed and swayed as if invisible spring breezes were dancing through the stuffy attic air. Orbit's eye widened to its fullest telescope as he watched the impossible garden grow. Sproing, sproing went tiny green shoots reaching toward the ceiling, and buzz-buzz hummed invisible bees that seemed to be pollinating flowers that shouldn't exist. The small robot's circuits hummed with wonder - how could spring be happening right here, right now, while the storm raged outside?",
+          "illustration": {
+            "description": "A tall thin bipedal exploration robot with a dented silver shell, solar panels for shoulders, a single amber telescopic eye, and a fluttering antenna marvels at spring flowers blooming from a wooden crate in the attic. Daisies, roses, and dandelions grow magically. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Spring flowers magically blooming from a crate as Orbit watches in wonder",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-888d3639b7/scene_1_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Summer Shimmer",
+      "pages": [
+        {
+          "text": "The next morning brought more pitter-pattering rain, but also something that made Orbit's antenna wiggle with amazement - waves of heat were rippling through the air near the big dormer window! Shimmer-shimmer-shimmer went the warm currents, making everything look wobbly like underwater magic. The robot's solar panels began to glow and hum with energy they hadn't felt in weeks. Cricket-chirp, cricket-chirp sang invisible summer bugs, and somewhere in the dancing heat, Orbit could almost see tall grass swaying and hear the distant splash of swimming holes. His amber eye telescoped back and forth, trying to understand how summer warmth could be living right next to yesterday's spring flowers while the actual storm kept drumming its cold, wet rhythm on the roof.",
+          "illustration": {
+            "description": "A tall thin bipedal exploration robot with a dented silver shell, solar panels for shoulders, a single amber telescopic eye, and a fluttering antenna stands near a dormer window where heat waves shimmer and ripple through the air. The robot's solar panels glow with energy. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Orbit experiencing magical summer heat waves by the attic window",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-888d3639b7/scene_2_1.png"
+          }
+        },
+        {
+          "text": "Whizz-pop! A firefly blinked into existence, then another, then a whole constellation of golden lights that danced figure-eights through the shimmering air. Orbit reached out with one careful metal finger, and a brave little firefly landed right on his dented shell - blink-blink-blink went its tiny lantern, as if it were trying to talk in light-language. The small robot's circuits sparkled with joy as more summer magic swirled around him - the buzz of cicadas, the sweet smell of sun-warmed strawberries, the feeling of long, lazy afternoons when time moves like honey. How wonderful and weird and absolutely impossible! Two seasons now, living side by side in this rainy-day attic.",
+          "illustration": {
+            "description": "A tall thin bipedal exploration robot with a dented silver shell, solar panels for shoulders, a single amber telescopic eye, and a fluttering antenna surrounded by magical fireflies blinking golden light. One firefly sits on the robot's shell. Summer magic swirls through the attic air. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Fireflies dancing around Orbit in the magical summer section of the attic",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-888d3639b7/scene_2_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Autumn Swirls",
+      "pages": [
+        {
+          "text": "By the third day of rain, Orbit had learned to expect the impossible, but his antenna still quivered with excitement when the autumn winds began. Whoosh-swirl, whoosh-swirl they went, carrying red and orange and golden yellow leaves that spiraled down from absolutely nowhere and everywhere at once. The small robot spun in slow circles, watching the leaf-tornado dance between stacked furniture and hanging quilts. Crackle-crunch went the leaves under his metal feet, and rustle-whisper they sang as they settled into soft piles that smelled like apple cider and woodsmoke and the very best kind of cozy. Orbit's amber eye tracked each tumbling leaf, trying to count them all but losing track when they spun too fast or disappeared into shadows that definitely hadn't been there moments before.",
+          "illustration": {
+            "description": "A tall thin bipedal exploration robot with a dented silver shell, solar panels for shoulders, a single amber telescopic eye, and a fluttering antenna spins among swirling autumn leaves of red, orange, and gold. The leaves dance through the attic air in magical spirals. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Orbit spinning among magical autumn leaves swirling through the attic",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-888d3639b7/scene_3_1.png"
+          }
+        },
+        {
+          "text": "Tap-tap-tippity-tap! Acorns were dropping from invisible oak trees, bouncing off old trunks and rolling across the wooden floor like nature's own marbles. Orbit bent down to pick up a perfectly round acorn, and it felt warm and real and full of promises about the mighty trees it might become someday. Squirrel-chatter echoed from the corners where autumn shadows grew longer and richer, and the smell of pumpkin pie seemed to float on breezes that couldn't possibly exist but absolutely did. The robot's circuits hummed a happy tune as he realized something wonderful - the attic wasn't just holding different seasons, it was building something magical out of all of them together!",
+          "illustration": {
+            "description": "A tall thin bipedal exploration robot with a dented silver shell, solar panels for shoulders, a single amber telescopic eye, and a fluttering antenna holds an acorn while more acorns rain down from invisible trees. Autumn magic fills the attic with warm shadows. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Orbit examining an acorn as more fall magically around the autumn corner of the attic",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-888d3639b7/scene_3_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Winter Sparkles",
+      "pages": [
+        {
+          "text": "The rain had stopped sometime during the night, but the attic's magic was just getting started. Tinkle-chime, tinkle-chime sang tiny ice crystals as they formed on spider webs and old mirror frames, turning everything into a winter wonderland of sparkles and shimmer. Orbit's breath came out in little puff-clouds (even though robots don't really breathe) as he explored the newest seasonal corner where icicles were growing downward from the slanted ceiling like nature's own chandeliers. Crunch-squeak went invisible snow under his feet, and somewhere in the frosty air he could hear the distant sound of sleigh bells and the whisper-hush of snowflakes that fell but never landed, just kept dancing in magical spirals of white and silver.",
+          "illustration": {
+            "description": "A tall thin bipedal exploration robot with a dented silver shell, solar panels for shoulders, a single amber telescopic eye, and a fluttering antenna explores a winter wonderland corner of the attic where icicles hang from the ceiling and frost sparkles on everything. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Orbit discovering the magical winter corner with icicles and sparkling frost",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-888d3639b7/scene_4_1.png"
+          }
+        },
+        {
+          "text": "Now Orbit could see it all at once - spring flowers still blooming in their corner, summer heat still shimmering by the window, autumn leaves still dancing their spiral dance, and winter frost painting everything with starlight. The small robot stood in the center of the attic and slowly turned around, his amber eye telescoping out to take in the most amazing invention he'd ever seen. Nature itself had turned this dusty old space into a workshop, building something impossible and wonderful out of rain and time and a little bit of magic. Whirr-click, whirr-click went his happy circuits as he realized the best builders don't always use hammers and nails - sometimes they use sunshine and snowflakes, flower petals and falling leaves, and the kind of imagination that makes three days of rain feel like a whole year's worth of seasons dancing together in perfect, impossible harmony.",
+          "illustration": {
+            "description": "A tall thin bipedal exploration robot with a dented silver shell, solar panels for shoulders, a single amber telescopic eye, and a fluttering antenna stands in the center of the magical attic where all four seasons exist together - spring flowers, summer heat shimmer, autumn leaves, and winter frost all visible in different corners. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Orbit in the center of the attic surrounded by all four seasons happening at once",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-888d3639b7/scene_4_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Greatest Workshop",
+      "pages": [
+        {
+          "text": "When the real sun finally peeked through the real clouds outside, Orbit's antenna did one last happy flutter as he took a final look around the amazing attic. The seasonal magic was starting to fade - flowers folding back into their wooden crate, fireflies blinking out one by one, leaves settling into stillness, frost melting into dewdrops that caught the morning light. But the small robot's circuits were buzzing with new ideas about making and building and inventing. He'd learned that the very best workshops don't need fancy tools or perfect plans - they just need curiosity and patience and the willingness to believe that impossible things can happen when you least expect them. Pop-whirr, pop-whirr went his joints as he headed for the attic stairs, his amber eye already scanning for the next adventure, the next chance to watch the world build something wonderful right before his very sensors.",
+          "illustration": {
+            "description": "A tall thin bipedal exploration robot with a dented silver shell, solar panels for shoulders, a single amber telescopic eye, and a fluttering antenna heads toward attic stairs as the seasonal magic fades around him. Sunlight streams through windows as the storm clears. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+            "alt": "Orbit leaving the attic as morning sunlight replaces the magical seasons",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-888d3639b7/scene_5_1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "making, building, and inventing",
+      "wonder in everyday places",
+      "nature's creativity",
+      "patience and observation"
+    ],
+    "vocabulary": [
+      "telescope",
+      "circuits",
+      "antenna",
+      "shimmer",
+      "spiral",
+      "harmony"
+    ],
+    "illustrations": 8,
+    "readingTime": "8-12 minutes",
+    "coverPrompt": {
+      "description": "A tall thin bipedal exploration robot with a dented silver shell, solar panels for shoulders, a single amber telescopic eye, and a fluttering antenna stands in a magical dusty attic where all four seasons swirl together - spring flowers, summer sunshine, autumn leaves, and winter frost all visible at once. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
+      "alt": "Robot Orbit in an attic where four seasons blend together magically"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where does Orbit discover the magical seasons?",
+        "choices": [
+          "In a garden outside",
+          "In a dusty attic",
+          "In a laboratory"
+        ],
+        "correctIndex": 1,
+        "explanation": "Orbit finds all four seasons happening at once in a dusty attic during a rainstorm."
+      },
+      {
+        "id": "q2",
+        "question": "What is the first season Orbit discovers in the attic?",
+        "choices": [
+          "Winter with icicles",
+          "Spring with flowers",
+          "Summer with heat"
+        ],
+        "correctIndex": 1,
+        "explanation": "Spring flowers blooming from a wooden crate are the first magical season Orbit encounters."
+      },
+      {
+        "id": "q3",
+        "question": "What happens to Orbit's solar panels when he finds the summer section?",
+        "choices": [
+          "They break",
+          "They glow with energy",
+          "They fall off"
+        ],
+        "correctIndex": 1,
+        "explanation": "The magical summer heat makes Orbit's solar panels glow and hum with energy."
+      },
+      {
+        "id": "q4",
+        "question": "How long does the rainstorm last?",
+        "choices": [
+          "One day",
+          "Three days",
+          "A whole week"
+        ],
+        "correctIndex": 1,
+        "explanation": "The story takes place during a three-day rainstorm."
+      },
+      {
+        "id": "q5",
+        "question": "What does Orbit realize about the attic at the end?",
+        "choices": [
+          "It's broken and needs fixing",
+          "It's the greatest workshop ever",
+          "It's too scary to visit again"
+        ],
+        "correctIndex": 1,
+        "explanation": "Orbit learns that nature has turned the attic into an amazing workshop that builds impossible, wonderful things."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "flutter",
+            "distractors": [
+              "break",
+              "sleep"
+            ]
+          },
+          {
+            "wordIndex": 28,
+            "correctWord": "dusty",
+            "distractors": [
+              "clean",
+              "bright"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "flowers",
+            "distractors": [
+              "rocks",
+              "books"
+            ]
+          },
+          {
+            "wordIndex": 22,
+            "correctWord": "spring",
+            "distractors": [
+              "winter",
+              "summer"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 6,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "seasons",
+            "distractors": [
+              "robots",
+              "boxes"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "orbit"
+}
