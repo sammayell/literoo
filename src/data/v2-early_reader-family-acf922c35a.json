@@ -1,0 +1,201 @@
+{
+  "id": "v2-early_reader-family-acf922c35a",
+  "title": "When Pink Petals Fall",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "family"
+  ],
+  "wordCount": 333,
+  "readingLevel": "Grade K-1",
+  "synopsis": "A cheerful little ghost gets separated from her family during their annual cherry blossom gathering and must find her way back while helping save the orchard from harm.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-acf922c35a/cover.png",
+  "chapters": [
+    {
+      "title": "Morning Mist",
+      "pages": [
+        {
+          "text": "Pink petals drift like snow, so soft and light,\nThrough cherry trees that bloom from left to right.\nThe ghost family floats where sweet flowers grow,\nBut morning mist makes everything move slow.\n\n\"Stay close, stay near,\" calls Mama from above,\n\"The orchard needs our gentle ghostly love.\"\nBut mist swirls thick and petals dance around,\nAnd suddenly no family can be found.\n\nWhere are they now? Where did they go?\nThe little ghost must find them, high and low.",
+          "illustration": {
+            "description": "A cheerful little ghost with a soft glowing-white wispy body, round rosy-pink cheeks, and big kind blue eyes floating alone among cherry trees in thick morning mist. Pink petals drift through the foggy air. Cherry blossoms cover every branch. The scene has a cozy kitchen home feeling with warm yellows and oranges filtering through the mist.",
+            "alt": "A little ghost lost in misty cherry blossoms",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-acf922c35a/scene_1_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Noon Sun",
+      "pages": [
+        {
+          "text": "The sun climbs high and burns the mist away,\nThe cherry orchard sparkles in the day.\nBut big machines come rumbling down the lane,\nWith shovels sharp and drivers who complain.\n\n\"Cut down these trees!\" the workers shout with glee,\n\"We'll build a mall where blossoms used to be!\"\nThe little ghost knows this is very wrong,\nThe trees belong here, they've been here so long.\n\nWhat can she do? How can she make them stop?\nShe needs her family from bottom to top!",
+          "illustration": {
+            "description": "A cheerful little ghost with a soft glowing-white wispy body, round rosy-pink cheeks, and big kind blue eyes watching large yellow bulldozers approach the cherry orchard. Workers in hard hats point at the blooming trees. Pink petals continue to fall like snow. The contrast between the mechanical machines and delicate blossoms creates drama. Cozy kitchen home art style with warm light.",
+            "alt": "A concerned ghost watching bulldozers threaten the cherry orchard",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-acf922c35a/scene_2_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Afternoon Shadows",
+      "pages": [
+        {
+          "text": "The shadows grow as afternoon appears,\nThe little ghost sheds worried ghostly tears.\nShe floats up high to see beyond the trees,\nAnd spots her family dancing in the breeze.\n\n\"Help! Help!\" she calls across the orchard wide,\n\"The trees need us to stand here by their side!\"\nHer family hears her voice upon the air,\nAnd swooshes fast to show how much they care.\n\nTogether now, together strong and true,\nThey know exactly what they need to do.",
+          "illustration": {
+            "description": "A cheerful little ghost with a soft glowing-white wispy body, round rosy-pink cheeks, and big kind blue eyes calling out from high above the cherry orchard. In the distance, other glowing white ghost family members float toward her between the pink-bloomed trees. Long afternoon shadows stretch across the ground. Pink petals swirl in the air. Cozy kitchen home style with warm afternoon light.",
+            "alt": "A little ghost reuniting with her family in the cherry orchard",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-acf922c35a/scene_3_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Evening Peace",
+      "pages": [
+        {
+          "text": "As evening comes with golden, gentle light,\nThe ghost family makes everything all right.\nThey rattle chains and make the machines shake,\nThe workers run away for goodness sake!\n\n\"This place is haunted!\" all the people cry,\n\"We'd better leave and tell our boss goodbye!\"\nThe cherry trees stand safe in evening's glow,\nWith pink petals that dance both high and low.\n\nThe family's together, the orchard's saved,\nAnd gentle ghosts are perfectly behaved.\nWhere love grows strong and blossoms never end,\nA little ghost has found her way again.",
+          "illustration": {
+            "description": "A cheerful little ghost with a soft glowing-white wispy body, round rosy-pink cheeks, and big kind blue eyes floating peacefully with her ghost family among the saved cherry orchard. The bulldozers are driving away in the background. Evening golden light filters through the pink blossoms, creating a warm, cozy kitchen home atmosphere. Pink petals drift gently through the peaceful scene.",
+            "alt": "A ghost family celebrating their successful protection of the cherry orchard",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-acf922c35a/scene_4_1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "family bonds",
+      "environmental protection",
+      "courage",
+      "helping others"
+    ],
+    "vocabulary": [
+      "orchard",
+      "petals",
+      "mist",
+      "blossoms",
+      "machines",
+      "shadows"
+    ],
+    "lessonFocus": "Problem-solving and family teamwork",
+    "coverPrompt": {
+      "description": "A cheerful little ghost with a soft glowing-white wispy body, round rosy-pink cheeks, and big kind blue eyes floating among cherry trees in full pink bloom. Pink petals drift through the air like snow. The orchard stretches into the distance with warm morning light filtering through the branches. Cozy kitchen home style with warm yellows and oranges in the lighting.",
+      "alt": "A friendly ghost floating in a blooming cherry orchard"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What happens to make the little ghost get separated from her family?",
+        "choices": [
+          "Thick morning mist makes it hard to see",
+          "She flies too high",
+          "She gets scared"
+        ],
+        "correctIndex": 0,
+        "explanation": "The morning mist was so thick that when it swirled around with the petals, the little ghost couldn't see her family anymore."
+      },
+      {
+        "id": "q2",
+        "question": "What do the workers want to do to the cherry orchard?",
+        "choices": [
+          "Pick all the flowers",
+          "Cut down the trees to build a mall",
+          "Plant more trees"
+        ],
+        "correctIndex": 1,
+        "explanation": "The workers wanted to cut down the beautiful cherry trees to build a mall in their place."
+      },
+      {
+        "id": "q3",
+        "question": "How does the little ghost find her family?",
+        "choices": [
+          "She follows the petals",
+          "She floats up high and calls for help",
+          "She asks the workers"
+        ],
+        "correctIndex": 1,
+        "explanation": "The little ghost floated up high above the trees so she could see far and called out to her family for help."
+      },
+      {
+        "id": "q4",
+        "question": "How do the ghost family save the orchard?",
+        "choices": [
+          "They talk to the workers nicely",
+          "They rattle chains and scare the workers away",
+          "They call the police"
+        ],
+        "correctIndex": 1,
+        "explanation": "The ghost family used their spooky abilities to rattle chains and shake the machines, which scared the workers into leaving."
+      },
+      {
+        "id": "q5",
+        "question": "What time of day does the story end?",
+        "choices": [
+          "Morning",
+          "Afternoon",
+          "Evening"
+        ],
+        "correctIndex": 2,
+        "explanation": "The story ends in the evening when the golden light shines through the saved cherry orchard."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "ghost",
+            "distractors": [
+              "bird",
+              "fairy"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "flowers",
+            "distractors": [
+              "leaves",
+              "apples"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "machines",
+            "distractors": [
+              "animals",
+              "people"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "trees",
+            "distractors": [
+              "grass",
+              "rocks"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "boo"
+}
