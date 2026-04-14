@@ -13,7 +13,7 @@
   "wordCount": 790,
   "readingLevel": "Kindergarten-1st Grade",
   "synopsis": "A fluffy cloud being discovers a mysterious door at a windy lighthouse that leads to hilarious chaos involving weather experiments, counting backwards, and an unlikely friendship with a grumpy weather scientist.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-8f53d92504/cover.png",
   "chapters": [
     {
       "title": "Three",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "A chalkboard style drawing showing a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind peering through a lighthouse window at children in a classroom. The lighthouse keeper has a beard full of pencil shavings. A mysterious blue door glows next to weather instruments. Wind equations and weather symbols are doodled around the edges. The scene is drawn in white and colored chalk on a dark green chalkboard with artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Nimbus looking through lighthouse window at classroom with mysterious blue door visible",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-8f53d92504/scene_1_1.png"
           }
         }
       ]
@@ -36,7 +37,8 @@
           "illustration": {
             "description": "A chalkboard style drawing showing a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind being caught by a wild-haired scientist with a lightning net device. Papers and worksheets fly through the windy lighthouse classroom. The mysterious blue door is open revealing flashing lights inside. Weather formulas and scientific equations are doodled around the scene. The scene is drawn in white and colored chalk on a dark green chalkboard with artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Wild scientist catching Nimbus with lightning net while papers fly around lighthouse",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-8f53d92504/scene_2_1.png"
           }
         }
       ]
@@ -49,7 +51,8 @@
           "illustration": {
             "description": "A chalkboard style drawing showing a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind in a chaotic backwards laboratory with Dr. Drizzle. Upside-down rain falls toward the ceiling, clocks run backwards, and broken equipment is everywhere. Both characters are smiling at each other in friendship. Scientific formulas and weather equations are written backwards around the scene. The scene is drawn in white and colored chalk on a dark green chalkboard with artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Nimbus and Dr. Drizzle becoming friends in the chaotic backwards laboratory",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-8f53d92504/scene_3_1.png"
           }
         }
       ]
@@ -62,7 +65,8 @@
           "illustration": {
             "description": "A chalkboard style drawing showing a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind floating peacefully next to Dr. Drizzle who sits on a rock taking notes. The lighthouse beam sweeps over them both in friendship. The mysterious blue door has faded away. Weather symbols and equations are drawn gently around the scene showing their shared learning. The scene is drawn in white and colored chalk on a dark green chalkboard with artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Nimbus and Dr. Drizzle together in friendship by the lighthouse under the sweeping beam",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-8f53d92504/scene_4_1.png"
           }
         }
       ]

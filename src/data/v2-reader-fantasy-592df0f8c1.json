@@ -13,7 +13,7 @@
   "wordCount": 3407,
   "readingLevel": "Grade 2-3",
   "synopsis": "A young unicorn finds herself lost in an underwater coral reef, guided through the seasons by ghostly sea creatures who share their gentle stories of the deep. As Stardust searches for her way home, she discovers that sometimes being lost leads to the most beautiful discoveries.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-592df0f8c1/cover.png",
   "chapters": [
     {
       "title": "The Pearl's Memory",
@@ -22,12 +22,14 @@
         {
           "description": "A young unicorn with a pearly-white coat, a rainbow-pastel mane and tail, a glowing spiral horn, and shimmering silver hooves floating down through green water toward a bright coral reef patrolled by a thousand small fish. The scene features enchanted coral formations like glowing mushrooms, fairy lights dancing through the water, rich greens and purples, golden sparkles, Studio Ghibli inspired magical atmosphere with detailed foliage-like seaweed.",
           "alt": "Stardust floating down into the underwater coral reef world",
-          "position": "after-paragraph-2"
+          "position": "after-paragraph-2",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-592df0f8c1/scene_1_1.png"
         },
         {
           "description": "A young unicorn with a pearly-white coat, a rainbow-pastel mane and tail, a glowing spiral horn, and shimmering silver hooves standing on a sandy ledge surrounded by the shimmering ghostly form of an ancient sea turtle. The bright coral reef glows around them with mystical creatures barely visible in the water, rich greens and purples, golden sparkles, fairy lights, enchanted atmosphere with detailed coral formations.",
           "alt": "Stardust meeting the ghost of the old sea turtle",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-592df0f8c1/scene_1_2.png"
         }
       ]
     },
@@ -38,7 +40,8 @@
         {
           "description": "A young unicorn with a pearly-white coat, a rainbow-pastel mane and tail, a glowing spiral horn, and shimmering silver hooves surrounded by blooming coral in brilliant spring colors. The ghost of a playful young dolphin spins around her while a thousand small fish dance through the water. The scene shows rich greens and purples, golden sparkles, fairy lights, glowing coral formations like mystical mushrooms, Studio Ghibli inspired magical atmosphere.",
           "alt": "Stardust meeting the ghost dolphin among blooming spring coral",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-592df0f8c1/scene_2_1.png"
         }
       ]
     },
@@ -49,7 +52,8 @@
         {
           "description": "A young unicorn with a pearly-white coat, a rainbow-pastel mane and tail, a glowing spiral horn, and shimmering silver hooves swimming beside the massive ghostly form of an ancient whale. Summer warmth glows through the bright coral reef patrolled by a thousand small fish. Lightning flickers far above the surface while the deep reef glows with rich greens and purples, golden sparkles, fairy lights, enchanted formations, Studio Ghibli inspired magical atmosphere.",
           "alt": "Stardust swimming with the ghost whale during summer storms",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-592df0f8c1/scene_3_1.png"
         }
       ]
     },
@@ -60,7 +64,8 @@
         {
           "description": "A young unicorn with a pearly-white coat, a rainbow-pastel mane and tail, a glowing spiral horn, and shimmering silver hooves exploring hidden autumn coral gardens with the ghost of a delicate seahorse. The reef glows with deeper autumn colors, soft coral trees with glowing polyps like fairy lights, a thousand small fish creating constellations around them, rich greens and purples, golden sparkles, Studio Ghibli inspired magical atmosphere with detailed mystical foliage.",
           "alt": "Stardust discovering hidden autumn coral gardens with the seahorse ghost",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-592df0f8c1/scene_4_1.png"
         }
       ]
     },
@@ -71,7 +76,8 @@
         {
           "description": "A young unicorn with a pearly-white coat, a rainbow-pastel mane and tail, a glowing spiral horn, and shimmering silver hooves listening to the ancient sea turtle ghost covered in coral polyp spirits. Winter quiet surrounds them in the bright coral reef while a thousand small fish swim in mystical patterns. Rich greens and purples, golden sparkles, fairy lights, glowing formations like mystical mushrooms, Studio Ghibli inspired magical atmosphere with detailed coral foliage.",
           "alt": "Stardust learning ancient stories from the first ghost of the reef",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-592df0f8c1/scene_5_1.png"
         }
       ]
     },
@@ -82,7 +88,8 @@
         {
           "description": "A young unicorn with a pearly-white coat, a rainbow-pastel mane and tail, a glowing spiral horn, and shimmering silver hooves surrounded by all her ghost friends saying goodbye in the bright coral reef patrolled by a thousand small fish. The current spirals around her, carrying her upward toward distant sunlight. Rich greens and purples, golden sparkles, fairy lights, glowing coral formations, Studio Ghibli inspired magical atmosphere with detailed mystical foliage.",
           "alt": "All the reef ghosts saying goodbye to Stardust as the current carries her home",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-592df0f8c1/scene_6_1.png"
         }
       ]
     },
@@ -93,12 +100,14 @@
         {
           "description": "A young unicorn with a pearly-white coat, a rainbow-pastel mane and tail, a glowing spiral horn, and shimmering silver hooves galloping across a spring meadow toward her waiting herd. The scene transitions from underwater magic to surface joy, with fairy lights and golden sparkles still lingering around her, Studio Ghibli inspired magical atmosphere blending oceanic memories with meadow flowers.",
           "alt": "Stardust joyfully reuniting with her unicorn family in the spring meadow",
-          "position": "after-paragraph-2"
+          "position": "after-paragraph-2",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-592df0f8c1/scene_7_1.png"
         },
         {
           "description": "A young unicorn with a pearly-white coat, a rainbow-pastel mane and tail, a glowing spiral horn, and shimmering silver hooves telling stories to young unicorns gathered under starlight. Her horn glows bright with the magic of the reef stories she carries, while ghostly images of coral and sea creatures shimmer faintly around her. Rich purples and golden sparkles, fairy lights, magical atmosphere blending two worlds.",
           "alt": "Stardust sharing ghost stories with young unicorns under the stars",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-592df0f8c1/scene_7_2.png"
         }
       ]
     },
@@ -109,7 +118,8 @@
         {
           "description": "The bright coral reef patrolled by a thousand small fish, with ghost friends visible as shimmering spirits throughout—the dolphin, whale, seahorse, and ancient turtle all drifting peacefully among glowing coral formations. Moonlight filters down to illuminate a pearl resting on sandy shelf. Rich greens and purples, golden sparkles, fairy lights, enchanted mushroom-like coral, Studio Ghibli inspired magical atmosphere with detailed mystical foliage.",
           "alt": "The ghost friends waiting peacefully in the moonlit reef around the storytelling pearl",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-592df0f8c1/scene_8_1.png"
         }
       ]
     }

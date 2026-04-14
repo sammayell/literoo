@@ -13,7 +13,7 @@
   "wordCount": 5740,
   "readingLevel": "Grade 4-6",
   "synopsis": "When Nia discovers that her grandmother's memory quilt has vanished without anyone noticing, she follows a strange sound beneath the garden shed and uncovers a hidden tunnel filled with decades of family journals that reveal why some things are meant to disappear—and why others must be found.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-family-67a8e0b438/cover.png",
   "chapters": [
     {
       "title": "6:00 AM - The Sound Beneath",
@@ -22,7 +22,8 @@
         {
           "description": "A girl with long braids with colorful beads, dark brown skin, and warm kind eyes kneels on the wooden floor of a garden shed, lifting a loose floorboard to reveal a hidden ladder descending into glowing darkness below. Morning light streams through dusty windows. The image is framed with quilting pattern borders featuring folk art inspired designs and cultural patterns in earth tones.",
           "alt": "Nia discovering the hidden entrance in the garden shed floor",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-family-67a8e0b438/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "A girl with long braids with colorful beads, dark brown skin, and warm kind eyes stands in an underground chamber lined with wooden shelves full of leather journals. Warm lantern light creates amber pools of illumination. She holds an open journal in her hands, surrounded by decades of family records. The scene is framed with quilting pattern borders featuring heritage continuity designs and patchwork aesthetics.",
           "alt": "Nia exploring the underground chamber filled with family journals",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-family-67a8e0b438/scene_2_1.png"
         }
       ]
     },
@@ -44,7 +46,8 @@
         {
           "description": "A girl with long braids with colorful beads, dark brown skin, and warm kind eyes examines wall-mounted sketches showing quilt patterns and historical maps connected by red threads. She stands in a workshop area with a large table covered in fabric scraps and sewing tools. The scene is framed with quilting pattern borders featuring storytelling through pattern designs and multi-generational family motifs.",
           "alt": "Nia studying the historical maps and quilt patterns in the underground workshop",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-family-67a8e0b438/scene_3_1.png"
         }
       ]
     },
@@ -55,7 +58,8 @@
         {
           "description": "A girl with long braids with colorful beads, dark brown skin, and warm kind eyes crawls through a narrow tunnel lined with small alcoves, each containing a preserved object and explanatory card. Soft light illuminates the tunnel and the precious items stored in the carved spaces. The image is framed with quilting pattern borders featuring grandparents parents children designs and folk art inspired patterns.",
           "alt": "Nia exploring the tunnel of preserved family memories and objects",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-family-67a8e0b438/scene_4_1.png"
         }
       ]
     },
@@ -66,7 +70,8 @@
         {
           "description": "A girl with long braids with colorful beads, dark brown skin, and warm kind eyes studies a large map spread across a workshop table, with red threads connecting different locations throughout the neighborhood. Small pins and cards mark each destination. The workshop is filled with quilting supplies and tools. The scene is framed with quilting pattern borders featuring heritage continuity and cultural patterns in warm earth tones.",
           "alt": "Nia examining the map showing where memory objects travel throughout the community",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-family-67a8e0b438/scene_5_1.png"
         }
       ]
     },
@@ -77,7 +82,8 @@
         {
           "description": "A girl with long braids with colorful beads, dark brown skin, and warm kind eyes peers through a window at a small girl sitting under a colorful memory quilt, reading stories to stuffed animals. The quilt drapes over both the child and the sofa, creating a cozy storytelling tent. The scene is framed with quilting pattern borders featuring storytelling through pattern and folk art inspired designs.",
           "alt": "Nia watching the Patterson daughter use the memory quilt for storytelling",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-family-67a8e0b438/scene_6_1.png"
         }
       ]
     },
@@ -88,7 +94,8 @@
         {
           "description": "A girl with long braids with colorful beads, dark brown skin, and warm kind eyes sits beside her grandmother on a front porch, both looking at an open journal together. The grandmother points to a handwritten list while afternoon sunlight illuminates the scene. Rocking chairs and porch details suggest multi-generational continuity. The image is framed with quilting pattern borders featuring grandparents parents children and heritage continuity designs.",
           "alt": "Nia and her grandmother discussing the responsibilities of being a memory keeper",
-          "position": "after-paragraph-9"
+          "position": "after-paragraph-9",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-family-67a8e0b438/scene_7_1.png"
         }
       ]
     },
@@ -99,7 +106,8 @@
         {
           "description": "A girl with long braids with colorful beads, dark brown skin, and warm kind eyes writes in a blank journal while sitting on a porch with her grandmother. Both are engaged in serious discussion, planning how to help a family. The afternoon light creates a warm, intimate atmosphere for learning and mentorship. The scene is framed with quilting pattern borders featuring cultural patterns and storytelling through pattern designs.",
           "alt": "Nia beginning her first entries as an apprentice memory keeper",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-family-67a8e0b438/scene_8_1.png"
         }
       ]
     },
@@ -110,7 +118,8 @@
         {
           "description": "A girl with long braids with colorful beads, dark brown skin, and warm kind eyes sits on her bed writing in her journal by lamplight. Through her window, the neighborhood is visible under evening light, houses connected by invisible threads of care and community. The scene suggests the completion of one journey and the beginning of another. The image is framed with quilting pattern borders featuring heritage continuity and multi-generational family patterns in deep evening blues and warm golden tones.",
           "alt": "Nia writing her final field notes of the day, understanding her place in the continuing story",
-          "position": "after-paragraph-12"
+          "position": "after-paragraph-12",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-family-67a8e0b438/scene_9_1.png"
         }
       ]
     }
