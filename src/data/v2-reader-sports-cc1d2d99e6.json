@@ -13,7 +13,7 @@
   "wordCount": 1771,
   "readingLevel": "Grade 2-3",
   "synopsis": "When Acorn, a living acorn with stick arms and leaf feet, finds himself at a mysterious lighthouse, he must learn to communicate through movement and gesture with the lighthouse's silent keeper to help guide lost creatures home through an ancient sailing competition.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-cc1d2d99e6/cover.png",
   "chapters": [
     {
       "title": "The Spinning Light",
@@ -22,12 +22,14 @@
         {
           "description": "A living sentient acorn with a shiny brown cap, tiny stick arms, leaf feet, and bright dark eyes painted on the nut climbing stone lighthouse steps. Dynamic sports action style with motion blur and speed lines showing the spinning lighthouse beam cutting through salt wind and darkness.",
           "alt": "Acorn climbing lighthouse stairs with spinning beam overhead",
-          "position": "after-paragraph-2"
+          "position": "after-paragraph-2",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-cc1d2d99e6/scene_1_1.png"
         },
         {
           "description": "A living sentient acorn with a shiny brown cap, tiny stick arms, leaf feet, and bright dark eyes painted on the nut watching a cloaked lighthouse keeper gesture at the spinning lens. Athletic movement and competitive energy as the keeper's hands dance across controls. Motion blur around the lighthouse mechanisms.",
           "alt": "Acorn watching the lighthouse keeper make gestures",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-cc1d2d99e6/scene_1_2.png"
         }
       ]
     },
@@ -38,12 +40,14 @@
         {
           "description": "A living sentient acorn with a shiny brown cap, tiny stick arms, leaf feet, and bright dark eyes painted on the nut talking with a silver-furred rabbit in the Whispering Woods. Dynamic sports action style with speed lines and motion blur around the worried rabbit's movements.",
           "alt": "Acorn meeting the worried rabbit in the forest",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-cc1d2d99e6/scene_2_1.png"
         },
         {
           "description": "A living sentient acorn with a shiny brown cap, tiny stick arms, leaf feet, and bright dark eyes painted on the nut rolling across sandy dunes toward a lighthouse. Athletic movement with maximum effort, competitive energy, speed lines showing his determined journey to the lighthouse at sunset.",
           "alt": "Acorn traveling across dunes toward the lighthouse",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-cc1d2d99e6/scene_2_2.png"
         }
       ]
     },
@@ -54,12 +58,14 @@
         {
           "description": "A living sentient acorn with a shiny brown cap, tiny stick arms, leaf feet, and bright dark eyes painted on the nut pulling a heavy lighthouse lever with maximum effort. Dynamic sports action with motion blur and speed lines showing athletic movement as the lighthouse beam swings across the water.",
           "alt": "Acorn pulling the lighthouse lever to direct the beam",
-          "position": "after-paragraph-2"
+          "position": "after-paragraph-2",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-cc1d2d99e6/scene_3_1.png"
         },
         {
           "description": "A living sentient acorn with a shiny brown cap, tiny stick arms, leaf feet, and bright dark eyes painted on the nut and the lighthouse keeper working together at the lighthouse controls. Competitive energy and winning moment style with dramatic angles as they coordinate their gestures and movements.",
           "alt": "Acorn and the lighthouse keeper developing their signal system",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-cc1d2d99e6/scene_3_2.png"
         }
       ]
     },
@@ -70,12 +76,14 @@
         {
           "description": "A living sentient acorn with a shiny brown cap, tiny stick arms, leaf feet, and bright dark eyes painted on the nut clinging to lighthouse lens controls during a fierce storm. Dynamic sports action with motion blur, speed lines, and dramatic angles showing maximum effort as he operates the mechanisms while wind and rain lash the lighthouse.",
           "alt": "Acorn operating lighthouse controls during the storm",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-cc1d2d99e6/scene_4_1.png"
         },
         {
           "description": "A living sentient acorn with a shiny brown cap, tiny stick arms, leaf feet, and bright dark eyes painted on the nut and the lighthouse keeper creating flashing light patterns. Athletic movement and competitive energy as lighthouse beams cut through storm clouds toward struggling shell-boats on wild waves.",
           "alt": "Acorn and keeper sending light signals through the storm",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-cc1d2d99e6/scene_4_2.png"
         }
       ]
     },
@@ -86,12 +94,14 @@
         {
           "description": "A living sentient acorn with a shiny brown cap, tiny stick arms, leaf feet, and bright dark eyes painted on the nut operating lighthouse controls with athletic movement and maximum effort. Motion blur and speed lines show the intensity as lighthouse beams guide shell-boats through stormy waters toward safety.",
           "alt": "Acorn intensely working the lighthouse controls to guide boats to safety",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-cc1d2d99e6/scene_5_1.png"
         },
         {
           "description": "A living sentient acorn with a shiny brown cap, tiny stick arms, leaf feet, and bright dark eyes painted on the nut and the lighthouse keeper watching shell-boats navigate safely through calming storm waters. Winning moment style with dramatic angles showing their successful rescue efforts as lighthouse beams cut through clearing weather.",
           "alt": "Acorn and keeper watching the boats reach safety",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-cc1d2d99e6/scene_5_2.png"
         }
       ]
     },
@@ -102,12 +112,14 @@
         {
           "description": "A living sentient acorn with a shiny brown cap, tiny stick arms, leaf feet, and bright dark eyes painted on the nut standing with the lighthouse keeper at the base of the lighthouse as dawn breaks. Shell-boats visible in the harbor distance. Winning moment style with dramatic angles and soft morning light showing their successful partnership.",
           "alt": "Acorn and keeper at lighthouse base with boats safely in harbor at dawn",
-          "position": "after-paragraph-2"
+          "position": "after-paragraph-2",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-cc1d2d99e6/scene_6_1.png"
         },
         {
           "description": "A living sentient acorn with a shiny brown cap, tiny stick arms, leaf feet, and bright dark eyes painted on the nut surrounded by grateful sea creatures including the wise sea turtle. Dynamic sports action style showing the competitive energy and athletic achievement of their successful lighthouse rescue mission.",
           "alt": "Acorn being thanked by the rescued sea creatures",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-cc1d2d99e6/scene_6_2.png"
         }
       ]
     }

@@ -13,7 +13,7 @@
   "wordCount": 543,
   "readingLevel": "K-1",
   "synopsis": "When Lily wakes up on a tiny space station, her robot friend Zara has vanished, leaving only mysterious notes. Through letters exchanged with a wise station cat, Lily discovers that some friendships transcend the boundaries between myth and reality.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-371425a41d/cover.png",
   "chapters": [
     {
       "title": "The Empty Bed",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "Interior of a tiny orbital station with curved walls covered in control panels, floating objects, and scattered belongings. Through a large circular window, Earth slowly turns below in deep space. Lily with long curly auburn hair, fair skin with light freckles, and green eyes floats near an empty sleeping pod, reaching toward a glowing note on a pillow. A sleek silver cat watches from a corner. The scene is cluttered with many small details: floating food packets, tools, books, blinking lights, cables, and personal items in a detailed hidden objects style.",
             "alt": "Lily discovering an empty sleeping pod with a glowing note inside a space station",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-371425a41d/scene_1_1.png"
           }
         }
       ]
@@ -36,7 +37,8 @@
           "illustration": {
             "description": "Close-up view of a cluttered control panel area in the space station. Lily with long curly auburn hair, fair skin with light freckles, and green eyes holds a shimmering note that glows softly. A silver cat sits on the control panel, paws on a keyboard. The scene is packed with hidden objects: blinking buttons, tangled wires, floating pens, small tools, data tablets, food pouches, and various small personal items scattered throughout in a detailed search-and-find style. Through a porthole window, stars twinkle in space.",
             "alt": "Lily reading a glowing note while a silver cat types on a control panel",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-371425a41d/scene_2_1.png"
           }
         }
       ]
@@ -49,7 +51,8 @@
           "illustration": {
             "description": "A magical hidden garden inside the space station, impossible and beautiful. Lily with long curly auburn hair, fair skin with light freckles, and green eyes reaches toward a transformed Zara who appears as part girl, part starlight, part growing plant. Circuit board trees grow around them, chiming flowers bloom in corners, and a silver cat sits watching. The scene is densely packed with hidden objects: glowing fruits, tiny mechanical butterflies, scattered tools, floating seeds, small robots, blinking lights, tangled vines, and countless small magical details in a detailed search-and-find composition.",
             "alt": "Lily discovering a magical garden where her transformed friend Zara tends to impossible plants",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-371425a41d/scene_3_1.png"
           }
         }
       ]

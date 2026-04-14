@@ -13,7 +13,7 @@
   "wordCount": 502,
   "readingLevel": "Kindergarten-1st Grade",
   "synopsis": "When the ancient Shell of Tides stops working, a determined baby emperor penguin named Waddles must journey through the coral reef to solve the mystery and restore the ocean's harmony.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-bbcb63c08b/cover.png",
   "chapters": [
     {
       "title": "The Silent Shell",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "A chubby baby emperor penguin with fluffy grey-white down, round shiny black eyes, a tiny yellow beak, and oversized webbed feet floats near a massive, silent conch shell covered in ancient coral. Thousands of colorful fish swim in worried patterns around the reef. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities.",
             "alt": "Waddles discovering the silent Shell of Tides surrounded by anxious fish",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-bbcb63c08b/scene_1_1.png"
           }
         },
         {
@@ -31,7 +32,8 @@
           "illustration": {
             "description": "A chubby baby emperor penguin with fluffy grey-white down, round shiny black eyes, a tiny yellow beak, and oversized webbed feet swimming awkwardly through coral formations while small tropical fish hide behind colorful sea fans and brain corals. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities.",
             "alt": "Waddles swimming through the coral reef as frightened fish hide",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-bbcb63c08b/scene_1_2.png"
           }
         }
       ]
@@ -44,7 +46,8 @@
           "illustration": {
             "description": "A chubby baby emperor penguin with fluffy grey-white down, round shiny black eyes, a tiny yellow beak, and oversized webbed feet examines the Shell of Tides up close, where tiny colorful starfish have arranged themselves in mysterious letter-like patterns on the coral-encrusted surface. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities.",
             "alt": "Waddles discovering the starfish message on the Shell",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-bbcb63c08b/scene_2_1.png"
           }
         },
         {
@@ -52,7 +55,8 @@
           "illustration": {
             "description": "A chubby baby emperor penguin with fluffy grey-white down, round shiny black eyes, a tiny yellow beak, and oversized webbed feet listens to ancient sea turtles who gesture with their flippers toward shadowy coral caves in the distance. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities.",
             "alt": "Waddles learning about the Singers from wise sea turtles",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-bbcb63c08b/scene_2_2.png"
           }
         }
       ]
@@ -65,7 +69,8 @@
           "illustration": {
             "description": "A chubby baby emperor penguin with fluffy grey-white down, round shiny black eyes, a tiny yellow beak, and oversized webbed feet tumbling awkwardly through glowing coral caves filled with purple, green, and gold bioluminescent corals. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities.",
             "alt": "Waddles clumsily swimming through the glowing coral caves",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-bbcb63c08b/scene_3_1.png"
           }
         },
         {
@@ -73,7 +78,8 @@
           "illustration": {
             "description": "A chubby baby emperor penguin with fluffy grey-white down, round shiny black eyes, a tiny yellow beak, and oversized webbed feet discovering a magnificent sleeping creature with octopus-like tentacles that shimmer with musical notes and light, resting in a sacred grotto. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities.",
             "alt": "Waddles finding the sleeping Singer in her sacred grotto",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-bbcb63c08b/scene_3_2.png"
           }
         }
       ]
@@ -86,7 +92,8 @@
           "illustration": {
             "description": "A chubby baby emperor penguin with fluffy grey-white down, round shiny black eyes, a tiny yellow beak, and oversized webbed feet singing with his beak wide open while thousands of colorful fish form a perfect circle around the Shell of Tides. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities.",
             "alt": "Waddles singing to the gathered fish around the Shell",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-bbcb63c08b/scene_4_1.png"
           }
         },
         {
@@ -94,7 +101,8 @@
           "illustration": {
             "description": "A chubby baby emperor penguin with fluffy grey-white down, round shiny black eyes, a tiny yellow beak, and oversized webbed feet continuing to sing as magical sound waves ripple through the water, reaching down to the caves where the Singer's eyes begin to glow and open. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities.",
             "alt": "Waddles' song reaching the Singer and waking her up",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-bbcb63c08b/scene_4_2.png"
           }
         }
       ]
@@ -107,7 +115,8 @@
           "illustration": {
             "description": "A chubby baby emperor penguin with fluffy grey-white down, round shiny black eyes, a tiny yellow beak, and oversized webbed feet singing alongside the magnificent Singer whose tentacles conduct glowing currents while the Shell of Tides glows with renewed life. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities.",
             "alt": "Waddles and the Singer creating the new current together",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-bbcb63c08b/scene_5_1.png"
           }
         },
         {
@@ -115,7 +124,8 @@
           "illustration": {
             "description": "A chubby baby emperor penguin with fluffy grey-white down, round shiny black eyes, a tiny yellow beak, and oversized webbed feet swimming happily among thousands of celebrating fish while the coral reef glows with vibrant colors and the Shell of Tides pulses with magical energy. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities.",
             "alt": "Waddles celebrating with all the reef creatures in the restored coral paradise",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-bbcb63c08b/scene_5_2.png"
           }
         }
       ]
