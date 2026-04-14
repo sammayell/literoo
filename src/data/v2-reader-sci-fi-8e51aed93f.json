@@ -13,7 +13,7 @@
   "wordCount": 1585,
   "readingLevel": "Grade 2-3",
   "synopsis": "When the Weather Machine breaks during a three-day storm, Sofia discovers mysterious gifts appearing in her grandmother's attic. Each gift reveals clues about the ghostly presence trying to help fix the machine that keeps their sky-city floating.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sci-fi-8e51aed93f/cover.png",
   "chapters": [
     {
       "title": "Day One: The Machine Goes Quiet",
@@ -22,7 +22,8 @@
         {
           "description": "Sofia, a girl with long wavy dark brown hair, warm olive skin, and big dark brown eyes, stands next to a large chrome Weather Machine in a dusty attic. The machine is dark and silent. Rain streaks down a round porthole window. The scene has retro 1960s space age styling with chrome and orange tones, curved metal beams, and optimistic futurism design elements.",
           "alt": "Sofia examining the silent Weather Machine in the attic",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sci-fi-8e51aed93f/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "Sofia, a girl with long wavy dark brown hair, warm olive skin, and big dark brown eyes, holds a small brass telescope to her eye while sitting cross-legged on the dusty attic floor. Through the telescope lens, a ghostly human outline is visible near the chrome Weather Machine. The scene has retro 1960s space age style with curved metal elements, warm orange and chrome tones, and round windows showing rain outside.",
           "alt": "Sofia using the telescope to see the ghost of Thomas in the attic",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sci-fi-8e51aed93f/scene_2_1.png"
         }
       ]
     },
@@ -55,7 +57,8 @@
         {
           "description": "Sofia, a girl with long wavy dark brown hair, warm olive skin, and big dark brown eyes, plays violin while holding a glowing crystalline conductor's baton. The ghost of Thomas, now fully visible, stands beside the Weather Machine conducting alongside her. The attic has retro 1960s space age styling with chrome and orange elements, curved surfaces, and the machine beginning to glow with warm orange light.",
           "alt": "Sofia and Thomas conducting together as the Weather Machine begins to respond",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sci-fi-8e51aed93f/scene_4_1.png"
         }
       ]
     },
@@ -66,7 +69,8 @@
         {
           "description": "Sofia, a girl with long wavy dark brown hair, warm olive skin, and big dark brown eyes, stands surrounded by all seven glowing gifts arranged in a circle on the dusty attic floor. She plays violin while Thomas conducts beside the now-glowing Weather Machine. The retro 1960s space age attic fills with warm orange light as steam rises from the machine's vents. The storm outside begins to clear through the round porthole window.",
           "alt": "Sofia using all seven gifts together as the Weather Machine comes fully to life",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sci-fi-8e51aed93f/scene_5_1.png"
         }
       ]
     },
@@ -77,7 +81,8 @@
         {
           "description": "Sofia, a girl with long wavy dark brown hair, warm olive skin, and big dark brown eyes, plays violin by the round porthole window as sunset fills the sky with orange and pink clouds. The Weather Machine glows warmly, and Thomas's fading ghost gives a gentle wave goodbye. The dusty attic is transformed with warm light, showing the retro 1960s space age design elements in chrome and orange tones. Other floating cities are visible in the distance with their own glowing Weather Machines.",
           "alt": "Sofia playing the sunset song as Thomas fades away peacefully",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sci-fi-8e51aed93f/scene_6_1.png"
         }
       ]
     }
