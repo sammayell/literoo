@@ -1,0 +1,305 @@
+{
+  "id": "v2-early_reader-family-c6f0be678a",
+  "title": "When Shadows Speak",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "family",
+    "science"
+  ],
+  "wordCount": 777,
+  "readingLevel": "K-1",
+  "synopsis": "A wise forest owl watches as Sprout, a small mossy sprite, creates a shadow-speaking machine that works too well, bringing every shadow in the forest to chattering life and teaching unexpected lessons about friendship.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-c6f0be678a/cover.png",
+  "chapters": [
+    {
+      "title": "Day One: The Whispering Discovery",
+      "pages": [
+        {
+          "text": "From my perch high in the old oak, I see everything the forest keeps secret, and today I watch the little moss sprite named Sprout discover something that will change everything, though he doesn't know it yet, not with those glowing yellow eyes fixed so carefully on the shadows that dance and flicker across the deep moss floor where no footstep ever makes a sound.",
+          "illustration": {
+            "description": "A wise owl perched in an oak tree looking down at a small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders, who is crouched on the moss-covered forest floor studying shadows. The scene has warm yellows and oranges, with cozy kitchen home atmosphere despite being in the forest.",
+            "alt": "An owl watches Sprout studying shadows on the forest floor",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-c6f0be678a/scene_1_1.png"
+          }
+        },
+        {
+          "text": "The sprite has been watching shadows for three sunrises now, I've counted them all, and today his twig fingers trace patterns in the moss as he whispers to himself about light and darkness and the spaces between, his voice so quiet even my sharp ears must strain to catch his ancient words that sound older than the forest itself.",
+          "illustration": {
+            "description": "Close-up of a small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders, tracing patterns in moss with his twig fingers. Warm orange and yellow light filters through the scene, creating a cozy family cooking atmosphere with steam-like effects in the forest air.",
+            "alt": "Sprout tracing patterns in moss with his twig fingers",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-c6f0be678a/scene_1_2.png"
+          }
+        },
+        {
+          "text": "Then suddenly, oh so suddenly, Sprout leaps up with excitement that makes his ivy rustle like autumn leaves and begins gathering twigs and stones and dewdrops, muttering about vibrations and frequencies and shadow-speech, his glowing eyes bright with an idea that I can almost taste in the air, sweet and dangerous as wild honey.",
+          "illustration": {
+            "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders gathering twigs, stones, and dewdrops in the forest. His ivy rustles with excitement. The scene has warm yellows and oranges with steam rising from the moss floor, creating a cozy homemade atmosphere.",
+            "alt": "Sprout excitedly gathering materials for his invention",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-c6f0be678a/scene_1_3.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Day One: Building the Impossible",
+      "pages": [
+        {
+          "text": "I watch him build throughout the long afternoon, his twig arms moving faster than hummingbird wings as he weaves together a contraption of branches and crystals that hums with forest magic, and when he finally steps back with satisfaction gleaming in those yellow eyes, the machine looks like nothing I've ever seen, all angles and curves that seem to bend light itself.",
+          "illustration": {
+            "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders stands next to a strange contraption made of branches and crystals in the deep forest. The machine glows softly with warm yellows and oranges, steam-like mist swirling around it, creating a cozy family gathering atmosphere despite its magical nature.",
+            "alt": "Sprout standing proudly next to his completed shadow-speaking machine",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-c6f0be678a/scene_2_1.png"
+          }
+        },
+        {
+          "text": "\"Now the shadows will speak their secrets,\" Sprout whispers to the machine, his voice trembling with hope and ancient knowledge, \"they'll tell me where the missing moonbeams go and why the stars change color and how the forest remembers its dreams,\" and oh little sprite, if only you knew what was coming, what gift and curse your clever invention would bring!",
+          "illustration": {
+            "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders speaking to his crystal and branch machine. Shadows dance around them on the moss floor. The scene has warm orange and yellow tones with steam-like effects, resembling a cozy kitchen where homemade magic is cooking.",
+            "alt": "Sprout whispering to his shadow-speaking machine",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-c6f0be678a/scene_2_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Day Two: When Everything Goes Wrong",
+      "pages": [
+        {
+          "text": "The second sunrise brings chaos, oh such beautiful terrible chaos, because Sprout's machine doesn't just make shadows speak, it makes them SHOUT and CHATTER and ARGUE and SING all at once, every shadow in the forest suddenly has opinions about everything and they all want to share them right now this very instant without stopping for breath!",
+          "illustration": {
+            "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders surrounded by animated, chattering shadows with visible sound waves. The forest scene has warm yellows and oranges with steam effects, like a busy kitchen where too many cooks are working at once, creating a cozy but chaotic family moment.",
+            "alt": "Sprout overwhelmed by loudly talking shadows all around him",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-c6f0be678a/scene_3_1.png"
+          }
+        },
+        {
+          "text": "I watch poor Sprout cover his ears as tree shadows complain about squirrels, rock shadows gossip about the weather, and flower shadows recite poetry badly and loudly, while the little sprite runs in circles trying to turn off his invention but the machine just hums louder and the shadows grow more talkative by the minute, filling the silent forest with endless chatter.",
+          "illustration": {
+            "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders running in circles with his hands over his ears, while various shadows (tree, rock, flower shapes) appear to be talking animatedly around him. The scene has warm cooking colors with steam-like speech bubbles, resembling a chaotic family dining table where everyone talks at once.",
+            "alt": "Sprout running in circles trying to escape the chattering shadows",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-c6f0be678a/scene_3_2.png"
+          }
+        },
+        {
+          "text": "The worst part, oh the very worst part, is when the shadows start arguing with each other about who saw what first and who cast the longest silhouette and whose shape is the most interesting, their voices rising higher and higher until even I must flee deeper into my tree, my feathers ruffled by the unprecedented noise in our peaceful forest home.",
+          "illustration": {
+            "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders looking distressed in the center while various shadows appear to be arguing with each other around him. The owl retreats higher into the tree. The scene has warm orange and yellow tones with steam-like argument clouds, like a family kitchen during a heated dinner discussion.",
+            "alt": "Shadows arguing while Sprout looks distressed and the owl retreats",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-c6f0be678a/scene_3_3.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Day Three: The Unexpected Gift",
+      "pages": [
+        {
+          "text": "But on the third morning something magical happens, something Sprout never expected, because one tiny shadow, the shadow of a fallen acorn, speaks differently from the rest, quietly and gently asking if anyone feels lonely, and suddenly all the loud chattering stops as every shadow in the forest considers this question that cuts right to the heart of everything.",
+          "illustration": {
+            "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders listening to a tiny acorn shadow that glows softly while other larger shadows lean in quietly. The scene has warm, gentle yellows and oranges with soft steam effects, like a cozy family kitchen where someone shares something important over homemade food.",
+            "alt": "Sprout listening as the tiny acorn shadow speaks gently to other shadows",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-c6f0be678a/scene_4_1.png"
+          }
+        },
+        {
+          "text": "And I watch in wonder as the tree shadows admit they miss the birds in winter, the rock shadows confess they wish they could move and dance, the flower shadows share their fear of autumn's end, all of them opening their hearts to each other for the very first time, learning that speaking isn't just about noise but about connection and understanding and friendship.",
+          "illustration": {
+            "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders sitting peacefully among various shadows that seem to be sharing gentle conversations. The scene has warm, embracing yellows and oranges with soft steam, like a loving family dinner where everyone shares their feelings around the dining table.",
+            "alt": "Sprout sitting peacefully as shadows share their feelings with each other",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-c6f0be678a/scene_4_2.png"
+          }
+        },
+        {
+          "text": "Sprout smiles then, really truly smiles for the first time since his invention worked wrong, because he realizes his machine gave him something better than shadow secrets, it gave the forest a way for everyone to understand each other, to share their loneliness and fears and hopes, to discover that being different doesn't mean being alone.",
+          "illustration": {
+            "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders smiling warmly while surrounded by peacefully conversing shadows. The owl watches approvingly from above. The scene has the warmest yellows and oranges, with gentle steam effects, like a perfect family gathering where everyone feels loved and understood around the kitchen table.",
+            "alt": "Sprout smiling as he realizes his invention brought friendship to the forest",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-c6f0be678a/scene_4_3.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Day Three: The New Forest Song",
+      "pages": [
+        {
+          "text": "Now every day I watch from my oak as Sprout visits with his shadow friends, listening to their stories and sharing his own ancient wisdom, and the forest that once knew only silence now hums with gentle conversation and laughter and the soft sweet sound of friendship growing between creatures who never knew they had so much in common.",
+          "illustration": {
+            "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders sitting in a circle with various friendly shadows while the wise owl watches from above. The forest has warm, golden yellows and oranges with gentle steam effects, like a cozy family home where everyone gathers to share stories and everyday love moments.",
+            "alt": "Sprout sharing stories with his shadow friends while the owl watches peacefully",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-c6f0be678a/scene_5_1.png"
+          }
+        },
+        {
+          "text": "And sometimes, when the moon is bright and the shadows are long, I hear them all together, sprite and shadow-friends, singing the new forest song that speaks of understanding and acceptance and the beautiful truth that friendship can bloom in the most unexpected places, between the most different hearts, in ways that no invention could ever plan.",
+          "illustration": {
+            "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders singing with shadows under moonlight while the owl listens from the tree. The scene glows with warm yellows and oranges despite the nighttime setting, with steam-like magical mist, resembling a cozy family sing-along around the kitchen table where homemade joy fills the air.",
+            "alt": "Sprout and shadows singing together under the moonlight",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-c6f0be678a/scene_5_2.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship across differences",
+      "unexpected consequences",
+      "acceptance",
+      "community"
+    ],
+    "subjects": [
+      "sound and vibration",
+      "light and shadows",
+      "forest ecology",
+      "communication"
+    ],
+    "vocabulary": [
+      "vibrations",
+      "frequencies",
+      "contraption",
+      "invention",
+      "ancient",
+      "whisper",
+      "connection"
+    ],
+    "readingSkills": [
+      "sequential narrative",
+      "cause and effect",
+      "character emotions",
+      "descriptive language"
+    ],
+    "discussionQuestions": [
+      "How did Sprout's invention work differently than he expected?",
+      "What did the shadows learn about each other when they started talking?",
+      "How can we make friends with people who are different from us?"
+    ],
+    "coverPrompt": {
+      "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders stands in a deep moss-floored forest, surrounded by animated shadows that seem to be talking. The scene has cozy warm yellows and oranges filtering through the trees, with steam-like mist rising from the moss.",
+      "alt": "Sprout the forest sprite in a magical forest with talking shadows"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Sprout build his machine out of?",
+        "choices": [
+          "twigs and stones and dewdrops",
+          "metal and plastic",
+          "paper and glue"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sprout gathered natural materials from the forest: twigs, stones, and dewdrops to build his shadow-speaking machine."
+      },
+      {
+        "id": "q2",
+        "question": "What happened when Sprout first turned on his machine?",
+        "choices": [
+          "The shadows whispered quietly",
+          "All the shadows started shouting and chattering loudly",
+          "Nothing happened at all"
+        ],
+        "correctIndex": 1,
+        "explanation": "Instead of speaking softly, all the forest shadows began shouting, chattering, arguing, and singing all at once, creating chaos."
+      },
+      {
+        "id": "q3",
+        "question": "Which shadow spoke differently from the others?",
+        "choices": [
+          "A tree shadow",
+          "A tiny acorn shadow",
+          "A rock shadow"
+        ],
+        "correctIndex": 1,
+        "explanation": "The shadow of a fallen acorn spoke quietly and gently, asking if anyone felt lonely, which changed everything."
+      },
+      {
+        "id": "q4",
+        "question": "What did the shadows learn to share with each other?",
+        "choices": [
+          "Their favorite foods",
+          "Their loneliness, fears, and hopes",
+          "Their favorite games"
+        ],
+        "correctIndex": 1,
+        "explanation": "The shadows opened their hearts and shared their deeper feelings - their loneliness, fears, and hopes with each other."
+      },
+      {
+        "id": "q5",
+        "question": "Who tells this story?",
+        "choices": [
+          "Sprout the sprite",
+          "A wise owl watching from a tree",
+          "The acorn shadow"
+        ],
+        "correctIndex": 1,
+        "explanation": "The story is told from the perspective of a wise owl who watches everything from his perch in the old oak tree."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "sprite",
+            "distractors": [
+              "giant",
+              "monster"
+            ]
+          },
+          {
+            "wordIndex": 32,
+            "correctWord": "shadows",
+            "distractors": [
+              "flowers",
+              "clouds"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "machine",
+            "distractors": [
+              "sandwich",
+              "butterfly"
+            ]
+          },
+          {
+            "wordIndex": 24,
+            "correctWord": "chatter",
+            "distractors": [
+              "sleep",
+              "hide"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": ""
+}
