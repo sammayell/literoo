@@ -13,7 +13,7 @@
   "wordCount": 487,
   "readingLevel": "Grade 1-2",
   "synopsis": "A tiny owl discovers mysterious gifts appearing on an abandoned carousel over seven days, leading to an unexpected friendship with a lonely cricket who leaves clues through whimsical presents.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-3ade013cbb/cover.png",
   "chapters": [
     {
       "title": "Monday's Discovery",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers holding a glowing acorn while perched on a weathered carousel horse. The abandoned carousel sits in an overgrown field with enchanted forest atmosphere, glowing mushrooms scattered in the tall grass, fairy lights twinkling between the weeds, mystical creatures hiding in the shadows, rich greens and purples, golden sparkles in the night air, Studio Ghibli inspired magical atmosphere, detailed foliage growing through the carousel's ornate metalwork.",
             "alt": "Baby owl examining a magical acorn on carousel horse at night",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-3ade013cbb/scene_1_1.png"
           }
         }
       ]

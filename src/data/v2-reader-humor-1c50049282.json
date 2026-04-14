@@ -13,7 +13,7 @@
   "wordCount": 3022,
   "readingLevel": "Grade 2-3",
   "synopsis": "A mysterious conch shell witnesses Sofia's small lie about finding a message in a bottle grow into bigger troubles as the seasons change on a windswept pebble beach. Through spring storms, summer heat, autumn winds, and winter calm, the shell observes how one fib can ripple outward like waves, teaching lessons about truth and friendship.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-1c50049282/cover.png",
   "chapters": [
     {
       "title": "The Message That Never Was",
@@ -22,12 +22,14 @@
         {
           "description": "Sofia with long wavy dark brown hair, warm olive skin, and big dark brown eyes kneeling on a pebble beach next to a large conch shell, with dark storm clouds gathering overhead. The art style is exaggerated cartoon with candy bright colors, bouncy dynamic poses, and rubber hose animation feel.",
           "alt": "Sofia discovering the conch shell on the beach as a storm approaches",
-          "position": "after-paragraph-2"
+          "position": "after-paragraph-2",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-1c50049282/scene_1_1.png"
         },
         {
           "description": "Sofia with long wavy dark brown hair, warm olive skin, and big dark brown eyes holding up her empty hand to Maya while rain begins to fall on the pebble beach. The art style is exaggerated cartoon with oversized expressions, candy bright colors, and slapstick energy.",
           "alt": "Sofia showing Maya the imaginary message",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-1c50049282/scene_1_2.png"
         }
       ]
     },
@@ -38,12 +40,14 @@
         {
           "description": "Sofia with long wavy dark brown hair, warm olive skin, and big dark brown eyes sitting beside the conch shell on the hot pebble beach, surrounded by other children with metal detectors and shovels digging nearby. The art style is exaggerated cartoon with bouncy dynamic poses and comedic energy.",
           "alt": "Sofia watching other children search for the treasure",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-1c50049282/scene_2_1.png"
         },
         {
           "description": "Sofia with long wavy dark brown hair, warm olive skin, and big dark brown eyes singing on the beach at sunset while treasure hunters set up tents in the background. The art style is exaggerated cartoon with candy bright colors and oversized expressions showing her worry.",
           "alt": "Sofia singing while treasure hunters prepare for their weekend search",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-1c50049282/scene_2_2.png"
         }
       ]
     },
@@ -54,12 +58,14 @@
         {
           "description": "Sofia with long wavy dark brown hair, warm olive skin, and big dark brown eyes standing at the edge of a crowd watching archaeologists with equipment on the windy beach. She clutches the conch shell tightly. The art style is exaggerated cartoon with squash and stretch, showing her worry through oversized expressions.",
           "alt": "Sofia watching the archaeological dig with growing worry",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-1c50049282/scene_3_1.png"
         },
         {
           "description": "Sofia with long wavy dark brown hair, warm olive skin, and big dark brown eyes walking alone on the beach at sunset, holding the conch shell, with autumn clouds racing overhead. The art style is exaggerated cartoon with candy bright colors and bouncy dynamic poses showing her determination.",
           "alt": "Sofia making her decision as the autumn sun sets",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-1c50049282/scene_3_2.png"
         }
       ]
     },
@@ -70,12 +76,14 @@
         {
           "description": "Sofia with long wavy dark brown hair, warm olive skin, and big dark brown eyes sitting on driftwood holding the conch shell while Maya builds a snow-person on the winter beach. The art style is exaggerated cartoon with candy bright colors despite the winter setting, showing Sofia's nervous expression.",
           "alt": "Sofia preparing to confess to Maya on the winter beach",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-1c50049282/scene_4_1.png"
         },
         {
           "description": "Maya laughing while sitting in the snow as Sofia with long wavy dark brown hair, warm olive skin, and big dark brown eyes looks surprised, still holding the conch shell. Families walk in the background on the winter beach. The art style is exaggerated cartoon with oversized expressions and bouncy dynamic poses showing Maya's kind reaction.",
           "alt": "Maya's unexpected reaction to Sofia's confession",
-          "position": "after-paragraph-10"
+          "position": "after-paragraph-10",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-1c50049282/scene_4_2.png"
         }
       ]
     },
@@ -86,12 +94,14 @@
         {
           "description": "Sofia with long wavy dark brown hair decorated with small shells, warm olive skin, and big dark brown eyes sitting cross-legged on the spring beach, singing while holding the conch shell. The art style is exaggerated cartoon with candy bright colors and bouncy poses showing her newfound lightness.",
           "alt": "Sofia singing happily on the spring beach",
-          "position": "after-paragraph-2"
+          "position": "after-paragraph-2",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-1c50049282/scene_5_1.png"
         },
         {
           "description": "Sofia with long wavy dark brown hair, warm olive skin, and big dark brown eyes and Maya watching Dr. Chen excavate an old music box from the sand, with archaeologists working nearby. The art style is exaggerated cartoon with oversized expressions of wonder and comedic poses.",
           "alt": "The discovery of the real treasure - an old music box",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-1c50049282/scene_5_2.png"
         }
       ]
     },
@@ -102,12 +112,14 @@
         {
           "description": "Sofia with long wavy dark brown hair, warm olive skin, and big dark brown eyes organizing shells in the beach education center, with the conch shell displayed on a special shelf. The art style is exaggerated cartoon with candy bright colors and bouncy dynamic poses showing her confidence.",
           "alt": "Sofia working in the beach education center",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-1c50049282/scene_6_1.png"
         },
         {
           "description": "Sofia with long wavy dark brown hair, warm olive skin, and big dark brown eyes singing while Maya writes in a notebook, with golden summer sunlight streaming through the education center windows. The art style is exaggerated cartoon with oversized expressions of joy and rubber hose animation feel.",
           "alt": "Sofia and Maya creating new honest stories together",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-1c50049282/scene_6_2.png"
         }
       ]
     },
@@ -118,12 +130,14 @@
         {
           "description": "A little boy listening to the conch shell while Sofia with long wavy dark brown hair, warm olive skin, and big dark brown eyes watches, surrounded by other children in the education center. The art style is exaggerated cartoon with candy bright colors and oversized expressions of wonder.",
           "alt": "Sofia teaching children about the 'magic' of shells",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-1c50049282/scene_7_1.png"
         },
         {
           "description": "Sofia with long wavy dark brown hair, warm olive skin, and big dark brown eyes and Maya preparing for the storm party in the education center while autumn rain begins outside the windows. The conch shell sits on its shelf watching over them. The art style is exaggerated cartoon with bouncy dynamic poses and comedic energy showing their friendship.",
           "alt": "Sofia and Maya preparing for the storm party",
-          "position": "after-paragraph-9"
+          "position": "after-paragraph-9",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-1c50049282/scene_7_2.png"
         }
       ]
     }
