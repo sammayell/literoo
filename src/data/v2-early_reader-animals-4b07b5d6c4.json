@@ -13,7 +13,7 @@
   "wordCount": 557,
   "readingLevel": "Beginner",
   "synopsis": "When a magical living teapot named Kettle discovers a new neighbor with mysterious habits on the pebble beach, seven small gifts arriving throughout the week reveal wonderful secrets about making, building, and friendship as a summer storm approaches.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-4b07b5d6c4/cover.png",
   "chapters": [
     {
       "title": "Chapter One: Monday's Mystery",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "A magical living teapot with sky-blue porcelain, painted yellow flowers, a curling handle arm, and steam curling from the spout like hair discovers a small shiny object among gray pebbles on a beach. Rain drops are visible falling from dark clouds above. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "Kettle finding the first mysterious gift on the rainy pebble beach",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-4b07b5d6c4/scene_1_1.png"
           }
         },
         {
@@ -31,7 +32,8 @@
           "illustration": {
             "description": "A magical living teapot with sky-blue porcelain, painted yellow flowers, a curling handle arm, and steam curling from the spout like hair holds a tiny silver spring that's bouncing. Dark storm clouds fill the sky over the pebble beach. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "Kettle examining the bouncing silver spring under stormy clouds",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-4b07b5d6c4/scene_1_2.png"
           }
         }
       ]
@@ -44,7 +46,8 @@
           "illustration": {
             "description": "A magical living teapot with sky-blue porcelain, painted yellow flowers, a curling handle arm, and steam curling from the spout like hair surrounded by various small mechanical objects - gears, wheels, pipes, and colorful wires - scattered on wet pebbles. Storm clouds continue to gather. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "Kettle collecting mysterious mechanical gifts throughout the week",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-4b07b5d6c4/scene_2_1.png"
           }
         },
         {
@@ -52,7 +55,8 @@
           "illustration": {
             "description": "A magical living teapot with sky-blue porcelain, painted yellow flowers, a curling handle arm, and steam curling from the spout like hair looking thoughtfully at a small wooden box while lightning flashes in the dramatic storm clouds above the pebble beach. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "Kettle pondering the wooden box as the storm intensifies",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-4b07b5d6c4/scene_2_2.png"
           }
         }
       ]
@@ -65,7 +69,8 @@
           "illustration": {
             "description": "A magical living teapot with sky-blue porcelain, painted yellow flowers, a curling handle arm, and steam curling from the spout like hair meets a tiny mechanical mouse emerging from behind driftwood on the windy beach. The storm is at its peak with dramatic clouds and wind. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "Kettle meeting the mechanical mouse during the fierce storm",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-4b07b5d6c4/scene_3_1.png"
           }
         },
         {
@@ -73,7 +78,8 @@
           "illustration": {
             "description": "A magical living teapot with sky-blue porcelain, painted yellow flowers, a curling handle arm, and steam curling from the spout like hair happily shows the collected mechanical parts to an excited tiny mechanical mouse on the pebble beach. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "Kettle and the mouse examining all the invention pieces together",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-4b07b5d6c4/scene_3_2.png"
           }
         },
         {
@@ -81,7 +87,8 @@
           "illustration": {
             "description": "A magical living teapot with sky-blue porcelain, painted yellow flowers, a curling handle arm, and steam curling from the spout like hair and a tiny mechanical mouse work together assembling a whimsical weather-watching contraption made from all the collected parts, while the summer storm swirls dramatically around them on the pebble beach. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "Kettle and the mouse completing their weather-watching invention together in the storm",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-4b07b5d6c4/scene_3_3.png"
           }
         }
       ]
