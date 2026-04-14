@@ -12,7 +12,7 @@
   "wordCount": 2283,
   "readingLevel": "Grade 2-3",
   "synopsis": "When Finn boards a ferry crossing a fog-shrouded lake, he makes a promise to solve a mystery involving seven mysterious gifts that arrive over a week. Each gift reveals something new about the passengers and crew, but keeping his word proves trickier than expected as the fog refuses to lift.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-71ade21bab/cover.png",
   "chapters": [
     {
       "title": "Monday's Promise",
@@ -21,7 +21,8 @@
         {
           "description": "Finn, a boy with messy sandy-blonde hair, pale skin with freckles, and blue-green eyes, holds a mysterious wrapped package while standing in the ferry's passenger cabin. Other passengers are silhouetted around him in film noir style with dramatic shadows. The scene uses muted grays and blacks with one accent color of warm amber light from the cabin windows.",
           "alt": "Boy holding mysterious package in foggy ferry cabin",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-71ade21bab/scene_1_1.png"
         }
       ]
     },
@@ -32,7 +33,8 @@
         {
           "description": "Finn, a boy with messy sandy-blonde hair, pale skin with freckles, and blue-green eyes, examines a spinning compass in the ferry's galley while Cook Martinez flips pancakes in the background. The scene is lit with dramatic shadows in film noir style, using muted grays and one accent color of copper for the compass.",
           "alt": "Boy examining a spinning compass in ferry kitchen",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-71ade21bab/scene_2_1.png"
         }
       ]
     },
@@ -43,7 +45,8 @@
         {
           "description": "Finn, a boy with messy sandy-blonde hair, pale skin with freckles, and blue-green eyes, tries a brass key in various locks throughout the ferry while the twin sisters watch from the background. The scene uses film noir lighting with dramatic shadows and muted colors, with one accent color of brass gold for the key.",
           "alt": "Boy testing a brass key in ferry door locks",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-71ade21bab/scene_3_1.png"
         }
       ]
     },
@@ -54,7 +57,8 @@
         {
           "description": "Finn, a boy with messy sandy-blonde hair, pale skin with freckles, and blue-green eyes, looks through a small telescope while Captain Seawell stands nearby on the ferry deck. The fog swirls around them in film noir style with dramatic lighting, using muted grays and one accent color of deep blue for the telescope.",
           "alt": "Boy looking through small telescope on foggy ferry deck",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-71ade21bab/scene_4_1.png"
         }
       ]
     },
@@ -65,7 +69,8 @@
         {
           "description": "Finn, a boy with messy sandy-blonde hair, pale skin with freckles, and blue-green eyes, winds up a small music box while all the ferry passengers listen in the cabin. The scene is rendered in film noir style with warm, dramatic lighting, using muted colors with one accent color of silver for the music box.",
           "alt": "Boy playing music box for ferry passengers",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-71ade21bab/scene_5_1.png"
         }
       ]
     },
@@ -76,7 +81,8 @@
         {
           "description": "Finn, a boy with messy sandy-blonde hair, pale skin with freckles, and blue-green eyes, holds a signal mirror that catches sunlight on the ferry deck while Mrs. Chen sits nearby with her knitting. The scene uses film noir lighting with the first bright light cutting through shadows, muted colors with one accent color of gold for the reflected light.",
           "alt": "Boy using signal mirror as sunlight breaks through fog",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-71ade21bab/scene_6_1.png"
         }
       ]
     },
@@ -87,7 +93,8 @@
         {
           "description": "Finn, a boy with messy sandy-blonde hair, pale skin with freckles, and blue-green eyes, stands on the ferry deck holding a leather notebook as the fog clears to reveal sunny skies and the approaching dock. All the ferry passengers are visible around him, looking happy and connected. The scene uses film noir style with bright, clear lighting breaking through, muted colors with one accent color of warm brown for the notebook.",
           "alt": "Boy with notebook as ferry emerges from fog into sunshine",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-71ade21bab/scene_7_1.png"
         }
       ]
     }
