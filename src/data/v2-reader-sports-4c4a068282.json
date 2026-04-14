@@ -13,7 +13,7 @@
   "wordCount": 4179,
   "readingLevel": "Grade 2-3",
   "synopsis": "When Lily's magical invention brings ancient athletes to life in the library after dark, she and mysterious companions must help these forgotten champions find their way through three days of discovery, problems, and difficult choices.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-4c4a068282/cover.png",
   "chapters": [
     {
       "title": "The First Flicker",
@@ -22,7 +22,8 @@
         {
           "description": "Lily with long curly auburn hair, fair skin with light freckles, and green eyes holding a bronze mirror as ghostly ancient athletes emerge from its surface in a candlelit library with towering dark shelves",
           "alt": "Ancient athletes emerging from a magical mirror in a library",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-4c4a068282/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "Lily with long curly auburn hair, fair skin with light freckles, and green eyes standing next to the glowing figure of Atalanta, both looking at an open book in the candlelit library while other ancient athletes gather around them with trails of silver light",
           "alt": "Lily and the ancient athlete Atalanta examining a history book together",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-4c4a068282/scene_2_1.png"
         }
       ]
     },
@@ -44,7 +46,8 @@
         {
           "description": "Lily with long curly auburn hair, fair skin with light freckles, and green eyes sitting cross-legged on the library floor surrounded by open books while transparent ancient athletes point at pages, their silver trails forming writing-like patterns in the air around the flickering candle",
           "alt": "Lily researching with fading ancient athletes whose light forms patterns like writing",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-4c4a068282/scene_3_1.png"
         }
       ]
     },
@@ -55,7 +58,8 @@
         {
           "description": "Lily with long curly auburn hair, fair skin with light freckles, and green eyes standing in the center of a circle of glowing ancient athletes whose movements create floating silver words and stories in the air around the dim bronze mirror and bright candle",
           "alt": "Athletes creating stories of light that float like glowing text around Lily",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-4c4a068282/scene_4_1.png"
         }
       ]
     },
@@ -66,7 +70,8 @@
         {
           "description": "Lily with long curly auburn hair, fair skin with light freckles, and green eyes holding a pen that glows with silver light as transparent ancient athletes guide her hand to write their stories on paper while the bronze mirror pulses in the background",
           "alt": "Lily writing down the athletes' stories as they fade into the magical pages",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-4c4a068282/scene_5_1.png"
         }
       ]
     },
@@ -77,7 +82,8 @@
         {
           "description": "Lily with long curly auburn hair, fair skin with light freckles, and green eyes holding a glowing page from the notebook while silver-script words float between the paper and a stack of regular ink pages on the library table by candlelight",
           "alt": "Lily transforming magical stories into permanent ink on paper",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-4c4a068282/scene_6_1.png"
         }
       ]
     },
@@ -88,7 +94,8 @@
         {
           "description": "Lily with long curly auburn hair, fair skin with light freckles, and green eyes holding the bronze mirror up to candlelight, with new silver words appearing around its edges while shadowy new figures begin to form in the background of the vast library",
           "alt": "Lily discovering new messages and figures appearing in the magical mirror",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-4c4a068282/scene_7_1.png"
         }
       ]
     },
@@ -99,7 +106,8 @@
         {
           "description": "Lily with long curly auburn hair, fair skin with light freckles, and green eyes carefully wrapping the softly glowing bronze mirror in cloth while new shadowy figures from different historical periods wait in the background, with the vast library shelves stretching into darkness above them and morning light streaming through a distant doorway",
           "alt": "Lily carefully storing the magical mirror while new historical athletes wait their turn",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-4c4a068282/scene_8_1.png"
         }
       ]
     }

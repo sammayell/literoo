@@ -12,7 +12,7 @@
   "wordCount": 1520,
   "readingLevel": "Grade 1-2",
   "synopsis": "When a tiny cheerful robot named Pixel discovers mysterious notes in the vast library where she lives, she begins a hilarious correspondence with a new neighbor whose strange scientific experiments cause delightful chaos in the candlelit halls.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-ad4d0e51bd/cover.png",
   "chapters": [
     {
       "title": "A Strange Note Appears",
@@ -22,7 +22,8 @@
           "illustration": {
             "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands unfolding a note while purple fizz bubbles float around towering bookshelves lit by a single candle's warm glow",
             "alt": "Robot Pixel reading a mysterious note in the library",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-ad4d0e51bd/scene_1_1.png"
           }
         },
         {
@@ -30,7 +31,8 @@
           "illustration": {
             "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands launching a paper airplane that's crashing into a chandelier covered in cobwebs, with the single candle casting wild shadows",
             "alt": "Robot Pixel's paper airplane crashing into library chandelier",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-ad4d0e51bd/scene_1_2.png"
           }
         }
       ]
@@ -43,7 +45,8 @@
           "illustration": {
             "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands reading a note with purple ribbon while green slime oozes between books in the candlelit library background",
             "alt": "Robot Pixel reading Dr. Bonkers' note with slime visible on books",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-ad4d0e51bd/scene_2_1.png"
           }
         },
         {
@@ -51,7 +54,8 @@
           "illustration": {
             "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands watching in dismay as a flaming note crashes into a card catalog while the single candle flickers nearby",
             "alt": "Robot Pixel watching her note catch fire and crash",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-ad4d0e51bd/scene_2_2.png"
           }
         }
       ]
@@ -64,7 +68,8 @@
           "illustration": {
             "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands surrounded by wind-up toy mice carrying supplies through the candlelit library with books and shadows looming overhead",
             "alt": "Robot Pixel with toy mice helpers gathering rescue supplies",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-ad4d0e51bd/scene_3_1.png"
           }
         },
         {
@@ -72,7 +77,8 @@
           "illustration": {
             "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands spraying WD-40 around a tall scientist in a colorful-stained lab coat stuck in rainbow goo, surrounded by books in the candlelit library",
             "alt": "Robot Pixel rescuing Dr. Bonkers from rainbow goo",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-ad4d0e51bd/scene_3_2.png"
           }
         }
       ]
@@ -85,7 +91,8 @@
           "illustration": {
             "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands wearing sunglasses while following bright blue glowing footprints through the dark library lit by a single candle",
             "alt": "Robot Pixel following glowing footprints in the library",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-ad4d0e51bd/scene_4_1.png"
           }
         },
         {
@@ -93,7 +100,8 @@
           "illustration": {
             "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands ducking under flying books of different colors while a scientist hides under a table in the candlelit library with books soaring through the air",
             "alt": "Robot Pixel and Dr. Bonkers dodging flying books",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-ad4d0e51bd/scene_4_2.png"
           }
         }
       ]
@@ -106,7 +114,8 @@
           "illustration": {
             "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands having a warm conversation with a scientist surrounded by popped soap bubbles in the candlelit library",
             "alt": "Robot Pixel and Dr. Bonkers talking among soap bubbles",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-ad4d0e51bd/scene_5_1.png"
           }
         },
         {
@@ -114,7 +123,8 @@
           "illustration": {
             "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands making music while a scientist tends to colorful chemical reactions that create swirling patterns of light dancing on the library walls around the single candle",
             "alt": "Robot Pixel and Dr. Bonkers creating musical light patterns together",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-ad4d0e51bd/scene_5_2.png"
           }
         }
       ]

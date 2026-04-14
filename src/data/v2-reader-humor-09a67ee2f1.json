@@ -13,7 +13,7 @@
   "wordCount": 2612,
   "readingLevel": "Grade 2-3",
   "synopsis": "In Slowbrook Village, where even the snails are the fastest residents, a wise old owl watches as Nia faces an impossible choice between helping her grandmother's ghost find peace and keeping her beloved grandfather company. Told backwards from the magical resolution, this gentle ghost story reveals how patience and creativity can solve the deepest family mysteries.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-09a67ee2f1/cover.png",
   "chapters": [
     {
       "title": "The Garden Blooms Again",
@@ -22,7 +22,8 @@
         {
           "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes sits in a magical garden full of glowing purple moonflowers. The translucent ghost of an elderly woman kneels beside her, both planting seeds. An elderly man approaches with wonder on his face. A wise owl watches from a tree branch above. The art style is exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel.",
           "alt": "Nia and her grandmother's ghost plant glowing moonflowers while grandfather approaches",
-          "position": "after-paragraph-2"
+          "position": "after-paragraph-2",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-09a67ee2f1/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes kneels in garden dirt, carefully watering tiny green sprouts that glow faintly. The faint outline of a ghostly elderly woman shimmers beside her. Through cottage windows, an elderly man's face is pressed to the glass, looking out hopefully. A wise owl observes from a willow tree. The art style is exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel.",
           "alt": "Nia waters glowing sprouts while grandmother's ghost shimmers nearby and grandfather watches from the window",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-09a67ee2f1/scene_2_1.png"
         }
       ]
     },
@@ -44,7 +46,8 @@
         {
           "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes sits crying at a wooden kitchen table, head in her arms. On one side, a translucent ghostly elderly woman reaches toward her. On the other side, a sad elderly man makes tea, unaware of the ghost. An owl sits on the windowsill next to an old seed packet. The art style is exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel.",
           "alt": "Nia cries at the kitchen table torn between her ghostly grandmother and living grandfather",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-09a67ee2f1/scene_3_1.png"
         }
       ]
     },
@@ -55,7 +58,8 @@
         {
           "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes sits on porch steps listening to an elderly man in a rocking chair. A translucent ghostly elderly woman reaches toward the man's face with love, but he cannot see her. An owl perches on the porch railing observing. Golden afternoon light makes everything glow like honey. The art style is exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel.",
           "alt": "Grandfather tells stories while grandmother's ghost reaches for him unseen on the porch",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-09a67ee2f1/scene_4_1.png"
         }
       ]
     },
@@ -66,7 +70,8 @@
         {
           "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes stands in a dusty garden shed filled with old tools and cobwebs. A glowing translucent ghost of an elderly woman materializes from the shadows among seed packets. An owl perches in the doorframe watching. Soft supernatural light fills the corner of the shed. The art style is exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel.",
           "alt": "Nia discovers her grandmother's ghost in the magical garden shed",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-09a67ee2f1/scene_5_1.png"
         }
       ]
     },
@@ -77,7 +82,8 @@
         {
           "description": "Nia with long braids with colorful beads, dark brown skin, warm kind eyes walks slowly across a cobblestone village square. Everything moves like thick honey - water drops frozen mid-fall from a fountain, snails moving faster than the people. An owl flies overhead. Morning mist clings to old buildings and twisted trees. The art style is exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel.",
           "alt": "Nia walks through a magically slow village where even the snails are the fastest residents",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-09a67ee2f1/scene_6_1.png"
         }
       ]
     },
@@ -88,7 +94,8 @@
         {
           "description": "A bird's eye view of a whimsical village where everything moves in slow motion. Houses lean at sleepy angles covered in moss, cobblestone paths wind between cottages with crooked chimneys puffing lazy smoke spirals. A baker kneads dough incredibly slowly, a postman moves like molasses, and snails zip past them like race cars. A wise owl perches in a large willow tree overlooking it all. The art style is exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel.",
           "alt": "An aerial view of Slowbrook Village where time moves like honey and snails are the fastest residents",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-09a67ee2f1/scene_7_1.png"
         }
       ]
     },
@@ -99,7 +106,8 @@
         {
           "description": "A wise old owl with large, knowing eyes perches on a gnarled branch against a starry night sky. Below, a dreamy village sleeps peacefully with soft lights glowing in cottage windows. In the distance, a garden blooms with magical glowing flowers, and translucent figures of people can be seen among the plants. The art style is exaggerated cartoon, squash and stretch, oversized expressions, candy bright colors, bouncy dynamic, comedic poses, slapstick energy, rubber hose animation feel.",
           "alt": "A wise owl storyteller overlooks a peaceful village with magical glowing gardens in the distance",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-09a67ee2f1/scene_8_1.png"
         }
       ]
     }

@@ -13,7 +13,7 @@
   "wordCount": 2358,
   "readingLevel": "Grade 2-3",
   "synopsis": "Thistle, a tiny thorn fairy living in an ice cavern, hears mysterious sounds that no one else can detect. Over seven days, small gifts arrive from above, each one revealing more about distant worlds and the brave explorers who venture there.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-historical-71a75ea2af/cover.png",
   "chapters": [
     {
       "title": "The First Whisper",
@@ -22,12 +22,14 @@
         {
           "description": "A tiny thorn fairy with mossy-green skin, pointed ears, wings like dried leaves, and a cap made from a chestnut husk listening intently to an ice wall in a glowing cavern. Pale blue light streams from above. The scene is rendered in illuminated manuscript style with gold leaf accents, ornate borders, rich deep colors, and parchment texture.",
           "alt": "Thistle listening to the ice wall in the blue-lit cavern",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-historical-71a75ea2af/scene_1_1.png"
         },
         {
           "description": "A tiny thorn fairy with mossy-green skin, pointed ears, wings like dried leaves, and a cap made from a chestnut husk holds a small glowing red sphere in an ice cavern. The sphere pulses with warm light against the cold blue surroundings. Illuminated manuscript style with gold leaf accents, ornate borders, rich deep colors, and parchment texture.",
           "alt": "Thistle discovering the first mysterious red object",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-historical-71a75ea2af/scene_1_2.png"
         }
       ]
     },
@@ -38,7 +40,8 @@
         {
           "description": "A tiny thorn fairy with mossy-green skin, pointed ears, wings like dried leaves, and a cap made from a chestnut husk examines a flat map piece showing orange and red swirls with tiny place names. The red sphere from yesterday glows nearby. The ice cavern sparkles with pale blue light from above. Illuminated manuscript style with gold leaf accents, ornate borders, rich deep colors, and parchment texture.",
           "alt": "Thistle studying the mysterious map piece with glowing objects",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-historical-71a75ea2af/scene_2_1.png"
         }
       ]
     },
@@ -49,7 +52,8 @@
         {
           "description": "A tiny thorn fairy with mossy-green skin, pointed ears, wings like dried leaves, and a cap made from a chestnut husk holds a miniature white helmet with a clear panel and tiny tubes. Three glowing objects are arranged on an ice shelf in the blue-lit cavern. Illuminated manuscript style with gold leaf accents, ornate borders, rich deep colors, and parchment texture.",
           "alt": "Thistle examining the tiny helmet with collection of mysterious objects",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-historical-71a75ea2af/scene_3_1.png"
         }
       ]
     },
@@ -60,7 +64,8 @@
         {
           "description": "A tiny thorn fairy with mossy-green skin, pointed ears, wings like dried leaves, and a cap made from a chestnut husk dodges as a silver metal flower falls from above. The flower has six spinning petals with tiny holes. Four mysterious objects now sit on an ice shelf in the blue-lit cavern. Illuminated manuscript style with gold leaf accents, ornate borders, rich deep colors, and parchment texture.",
           "alt": "Thistle dodging the falling metal flower in the ice cavern",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-historical-71a75ea2af/scene_4_1.png"
         }
       ]
     },
@@ -71,7 +76,8 @@
         {
           "description": "A tiny thorn fairy with mossy-green skin, pointed ears, wings like dried leaves, and a cap made from a chestnut husk hovers above five glowing objects arranged on an ice shelf: a red sphere, map piece, tiny helmet, metal flower, and small white boots with treaded soles. The ice cavern glows with pale blue light from above. Illuminated manuscript style with gold leaf accents, ornate borders, rich deep colors, and parchment texture.",
           "alt": "Thistle hovering above the collection of five mysterious glowing objects",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-historical-71a75ea2af/scene_5_1.png"
         }
       ]
     },
@@ -82,7 +88,8 @@
         {
           "description": "A tiny thorn fairy with mossy-green skin, pointed ears, wings like dried leaves, and a cap made from a chestnut husk holds a glowing crystal window showing images of an orange landscape with small figures in white suits. Six mysterious objects glow together on an ice shelf in the blue-lit cavern. Illuminated manuscript style with gold leaf accents, ornate borders, rich deep colors, and parchment texture.",
           "alt": "Thistle viewing the magical crystal window showing distant explorers",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-historical-71a75ea2af/scene_6_1.png"
         }
       ]
     },
@@ -93,12 +100,14 @@
         {
           "description": "A tiny thorn fairy with mossy-green skin, pointed ears, wings like dried leaves, and a cap made from a chestnut husk unrolls a tiny message scroll. All seven mysterious objects glow in perfect harmony on the ice shelf around him. The cavern sparkles with pale blue light from above. Illuminated manuscript style with gold leaf accents, ornate borders, rich deep colors, and parchment texture.",
           "alt": "Thistle reading the final message with all seven objects glowing together",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-historical-71a75ea2af/scene_7_1.png"
         },
         {
           "description": "A tiny thorn fairy with mossy-green skin, pointed ears, wings like dried leaves, and a cap made from a chestnut husk flies upward through the ice cavern carrying seven glowing objects in an oak leaf pouch. Above, stars are visible through a crack in the ceiling, with a moving light among them. Illuminated manuscript style with gold leaf accents, ornate borders, rich deep colors, and parchment texture.",
           "alt": "Thistle flying toward the stars with the collection of mysterious gifts",
-          "position": "after-paragraph-12"
+          "position": "after-paragraph-12",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-historical-71a75ea2af/scene_7_2.png"
         }
       ]
     }
