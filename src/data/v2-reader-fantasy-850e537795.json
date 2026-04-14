@@ -13,7 +13,7 @@
   "wordCount": 1888,
   "readingLevel": "2nd-3rd grade",
   "synopsis": "When a mysterious digital melody begins playing in her secret rooftop garden, Yuki must figure out where it's coming from—while a wise-cracking sparrow observes her every move and the sounds of the city below threaten to drown out something truly magical.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-850e537795/cover.png",
   "chapters": [
     {
       "title": "8:00 AM - Morning Frequencies",
@@ -22,7 +22,8 @@
         {
           "description": "Yuki with straight black hair and a red headband, light skin, almond-shaped dark brown eyes, kneeling in a rooftop garden filled with enchanted forest elements, glowing mushrooms among herbs, fairy lights on trellises, rich greens and purples, golden sparkles in morning light, Studio Ghibli inspired magical atmosphere, detailed foliage, city visible far below",
           "alt": "Yuki listening carefully in her magical rooftop garden while morning light filters through the plants",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-850e537795/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "Yuki with straight black hair and a red headband, light skin, almond-shaped dark brown eyes, holding a notebook and looking puzzled, standing among enchanted forest plants with glowing purple mushrooms near carrots, fairy lights between trellises, rich greens and purples, golden sparkles, Studio Ghibli inspired magical atmosphere, detailed foliage, a small sparrow perched nearby",
           "alt": "Yuki taking notes in her garden while glowing purple mushrooms pulse mysteriously among the plants",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-850e537795/scene_2_1.png"
         }
       ]
     },
@@ -44,7 +46,8 @@
         {
           "description": "Yuki with straight black hair and a red headband, light skin, almond-shaped dark brown eyes, holding a smartphone with a plant app icon glowing on screen, sitting cross-legged among enchanted forest elements, glowing mushrooms and fairy lights, rich greens and purples, golden sparkles, Studio Ghibli inspired magical atmosphere, detailed foliage, mystical creatures barely visible among the plants",
           "alt": "Yuki discovering a mysterious plant app on her phone while surrounded by her magical garden",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-850e537795/scene_3_1.png"
         }
       ]
     },
@@ -55,7 +58,8 @@
         {
           "description": "Yuki with straight black hair and a red headband, light skin, almond-shaped dark brown eyes, holding phone showing a magical network map of glowing plant connections, surrounded by enchanted forest garden with glowing mushrooms, fairy lights between trellises, mystical creatures hiding among rich green and purple foliage, golden sparkles connecting plants, Studio Ghibli inspired magical atmosphere, detailed foliage",
           "alt": "Yuki looking at her phone screen showing a magical network connecting all her garden plants",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-850e537795/scene_4_1.png"
         }
       ]
     },
@@ -66,7 +70,8 @@
         {
           "description": "Yuki with straight black hair and a red headband, light skin, almond-shaped dark brown eyes, sitting cross-legged in her rooftop garden at sunset, phone showing plant messages, surrounded by enchanted forest elements, glowing purple mushrooms, fairy lights creating magical sparkles, rich greens and purples in golden evening light, Studio Ghibli inspired magical atmosphere, detailed foliage, mystical creatures emerging in twilight, city lights twinkling far below",
           "alt": "Yuki having a conversation with her plants through her phone as sunset bathes the magical garden in golden light",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-850e537795/scene_5_1.png"
         }
       ]
     },
@@ -77,7 +82,8 @@
         {
           "description": "Yuki with straight black hair and a red headband, light skin, almond-shaped dark brown eyes, typing on a laptop surrounded by her magical rooftop garden at night, glowing mushrooms pulsing brighter, fairy lights dancing between trellises, rich greens and purples illuminated by golden sparkles, Studio Ghibli inspired magical atmosphere, detailed foliage with mystical creatures, city lights twinkling far below, stars visible overhead, network connections visualized as golden threads extending into the distance",
           "alt": "Yuki coding by the light of glowing mushrooms as her magical garden network expands across the city",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-fantasy-850e537795/scene_6_1.png"
         }
       ]
     }

@@ -13,7 +13,7 @@
   "wordCount": 7787,
   "readingLevel": "Grade 6-8",
   "synopsis": "In a village of treehouses connected by swaying rope bridges, a bold girl becomes separated from her school group during an educational expedition. Through letters to someone she holds dear, she chronicles her journey through the canopy community, returning again and again to the same central plaza but discovering new layers of meaning, connection, and her own resilience with each visit.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-adventure-b0b13fe835/cover.png",
   "chapters": [
     {
       "title": "The Sound of Bridges",
@@ -22,7 +22,8 @@
         {
           "description": "A treasure map-style illustration showing Ivy, a girl with short dark brown bob with bangs, fair skin, and big brown eyes, standing alone on a rope bridge that leads to a circular plaza built around a massive tree trunk. The bridge stretches into misty depths of green canopy. Aged parchment textures, sepia tones with emerald jewel accents, compass rose in corner, dotted lines showing the path she's taken, adventure cartography styling.",
           "alt": "Girl standing on rope bridge approaching circular tree plaza in treasure map style",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-adventure-b0b13fe835/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "A treasure map view showing Ivy, a girl with short dark brown bob with bangs, fair skin, and big brown eyes, sitting with an elderly woman with silver braided hair on the edge of a tree platform. They share tea while children play on bridges in the background. Aged parchment style with sepia tones, jade-green jewel accents for the tea and leaves, hand-drawn cartography details, dotted lines connecting platforms.",
           "alt": "Girl and elderly woman sharing tea on tree platform with playing children in background, treasure map style",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-adventure-b0b13fe835/scene_2_1.png"
         }
       ]
     },
@@ -44,7 +46,8 @@
         {
           "description": "A treasure map-style aerial view showing Ivy, a girl with short dark brown bob with bangs, fair skin, and big brown eyes, walking across rope bridges between school platforms in the trees. Children are visible on various platforms engaged in different learning activities. Aged parchment textures, sepia tones with golden jewel accents, compass roses marking different platform locations, adventure cartography styling with dotted paths.",
           "alt": "Aerial view of girl crossing bridges between tree-based school platforms with children learning, treasure map style",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-adventure-b0b13fe835/scene_3_1.png"
         }
       ]
     },
@@ -55,7 +58,8 @@
         {
           "description": "A treasure map-style evening scene showing Ivy, a girl with short dark brown bob with bangs, fair skin, and big brown eyes, sitting with Mira on the central plaza platform as twilight settles over the village. Warm lights glow in treehouse windows, and rope bridges stretch into the gathering darkness. Aged parchment style with deep blue and amber jewel tones, compass rose showing evening stars, adventure cartography details.",
           "alt": "Girl and woman on tree platform at twilight with village lights glowing, treasure map style",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-adventure-b0b13fe835/scene_4_1.png"
         }
       ]
     },
@@ -66,7 +70,8 @@
         {
           "description": "A treasure map-style nighttime illustration showing Ivy, a girl with short dark brown bob with bangs, fair skin, and big brown eyes, standing on a balcony with Mira during a gentle rain storm. The village spreads out below them with scattered glowing windows in the darkness. Rain falls in silver lines through the aged parchment artwork, with deep indigo and silver jewel tones, compass rose showing night stars, adventure cartography styling.",
           "alt": "Girl and woman on treehouse balcony during nighttime rain with village lights below, treasure map style",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-adventure-b0b13fe835/scene_5_1.png"
         }
       ]
     },
@@ -77,7 +82,8 @@
         {
           "description": "A treasure map-style technical illustration showing Ivy, a girl with short dark brown bob with bangs, fair skin, and big brown eyes, studying the geometric patterns of the rope bridge connections with Kaia and Eko. Mathematical lines overlay the organic treehouse structures, showing golden ratios and Fibonacci sequences. Aged parchment with engineering compass details, sepia tones with golden jewel accents, adventure cartography styling with measurement notations.",
           "alt": "Girl studying geometric patterns of bridges with two local children, showing mathematical overlay, treasure map style",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-adventure-b0b13fe835/scene_6_1.png"
         }
       ]
     },
@@ -88,7 +94,8 @@
         {
           "description": "A treasure map-style illustration showing Ivy, a girl with short dark brown bob with bangs, fair skin, and big brown eyes, slowly descending through different levels of the village while her classmates wait at ground level below. The image shows the transition from the magical canopy world to the ordinary ground level. Aged parchment with sepia tones, jewel-green accents for the canopy fading to brown earth tones, dotted trail showing her descent path.",
           "alt": "Girl descending through tree village levels toward waiting classmates on ground, treasure map style",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-adventure-b0b13fe835/scene_7_1.png"
         }
       ]
     },
@@ -99,7 +106,8 @@
         {
           "description": "A treasure map-style illustration showing Ivy, a girl with short dark brown bob with bangs, fair skin, and big brown eyes, sitting at a school lunch table with Kenji as he shows her architectural sketches inspired by the tree village. The regular school setting is rendered in aged parchment style with sepia tones, but small jewel-green accents appear in the sketches, suggesting the influence of the canopy village. Adventure cartography details frame the scene.",
           "alt": "Girl and boy at school table looking at tree-inspired architectural sketches, treasure map style",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-adventure-b0b13fe835/scene_8_1.png"
         }
       ]
     },
@@ -110,7 +118,8 @@
         {
           "description": "A treasure map-style illustration showing Ivy, a girl with short dark brown bob with bangs, fair skin, and big brown eyes, writing letters on bark paper at a kitchen table while her mother sits across from her with tea. Sheets of bark paper are scattered around them, and soft evening light filters through a window. Aged parchment style with warm amber and sepia tones, jewel accents on the special bark paper, adventure cartography details.",
           "alt": "Girl writing letters on bark paper at kitchen table with mother watching, treasure map style",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-adventure-b0b13fe835/scene_9_1.png"
         }
       ]
     },
@@ -121,7 +130,8 @@
         {
           "description": "A treasure map-style illustration showing Ivy, a girl with short dark brown bob with bangs, fair skin, and big brown eyes, leading a writing group meeting under a large oak tree in the school courtyard. Sarah, Kenji, Marcus and other students sit in a circle with notebooks and cameras, while Mrs. Chen observes from nearby. Spring light filters through new leaves. Aged parchment style with fresh green jewel accents, compass rose showing seasonal directions, adventure cartography details.",
           "alt": "Girl leading outdoor writing group under oak tree with teacher observing, treasure map style",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-adventure-b0b13fe835/scene_10_1.png"
         }
       ]
     },
@@ -132,7 +142,8 @@
         {
           "description": "A treasure map-style illustration showing Ivy, a girl with short dark brown bob with bangs, fair skin, and big brown eyes, standing with her three friends (Sarah with camera, Kenji with architectural drawings, Marcus with poetry notebook) in the empty school hallway on the last day. Summer sunlight streams through windows, and the scene has both completion and anticipation. Aged parchment with warm golden jewel tones, compass rose showing summer direction, adventure cartography styling.",
           "alt": "Girl with three friends in empty school hallway on last day, holding their creative work, treasure map style",
-          "position": "after-paragraph-8"
+          "position": "after-paragraph-8",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-adventure-b0b13fe835/scene_11_1.png"
         }
       ]
     },
@@ -143,7 +154,8 @@
         {
           "description": "A treasure map-style illustration showing Ivy, a girl with short dark brown bob with bangs, fair skin, and big brown eyes, sitting with Mira in the central plaza at sunset, writing a letter while the village comes alive around them. The view encompasses the full three-dimensional community with bridges and treehouses extending in all directions. Aged parchment with warm golden and deep green jewel tones, compass roses showing all directions, adventure cartography styling with dotted paths leading outward to the world beyond.",
           "alt": "Girl and elderly woman in central tree plaza at sunset with village extending around them, treasure map style",
-          "position": "after-paragraph-10"
+          "position": "after-paragraph-10",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-young_adult-adventure-b0b13fe835/scene_12_1.png"
         }
       ]
     }

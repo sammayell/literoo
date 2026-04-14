@@ -13,7 +13,7 @@
   "wordCount": 2300,
   "readingLevel": "Grade 5",
   "synopsis": "When a mysterious new neighbor arrives on their floating iceberg home, a young unicorn named Stardust struggles to understand their strange habits. Told through the alternating perspectives of two unlikely observers—a weathered compass and an ancient icicle—this story explores what happens when melting ice brings unlikely friends together at the edge of a changing world.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-friendship-3fc05dfb3c/cover.png",
   "chapters": [
     {
       "title": "The Compass Speaks First",
@@ -22,7 +22,8 @@
         {
           "description": "Stardust, a young unicorn with a pearly-white coat, a rainbow-pastel mane and tail, a glowing spiral horn, and shimmering silver hooves, paces along the edge of a floating iceberg surrounded by cold blue sea. The scene has warm amber lighting creating an intimate, cozy atmosphere despite the arctic setting, like a blanket nest under fairy lights.",
           "alt": "A young unicorn pacing on a floating iceberg",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-friendship-3fc05dfb3c/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "From the perspective of hanging beneath an ice ledge, we see Stardust, a young unicorn with a pearly-white coat, a rainbow-pastel mane and tail, a glowing spiral horn, and shimmering silver hooves, looking thoughtful as water droplets fall around her. The cozy scene has warm amber lighting and intimate friendship energy, like a quiet moment in a blanket fort.",
           "alt": "A young unicorn contemplating under melting icicles",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-friendship-3fc05dfb3c/scene_2_1.png"
         }
       ]
     },
@@ -55,7 +57,8 @@
         {
           "description": "Frost the penguin arranges stones while Stardust, a young unicorn with a pearly-white coat, a rainbow-pastel mane and tail, a glowing spiral horn, and shimmering silver hooves, watches with curiosity. The scene has cozy indoor vibes with warm amber lighting, creating a pillow fort atmosphere of quiet observation.",
           "alt": "A penguin organizing stones while a young unicorn watches",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-friendship-3fc05dfb3c/scene_4_1.png"
         }
       ]
     },
@@ -66,7 +69,8 @@
         {
           "description": "Under moonlight, Stardust, a young unicorn with a pearly-white coat, a rainbow-pastel mane and tail, a glowing spiral horn, and shimmering silver hooves, practices walking toward Frost's sleeping area. The scene has intimate nighttime cozy vibes with warm amber moonbeams creating a quiet, sleepover-like atmosphere.",
           "alt": "A young unicorn practicing approaching in moonlight",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-friendship-3fc05dfb3c/scene_5_1.png"
         }
       ]
     },
@@ -77,7 +81,8 @@
         {
           "description": "During a fierce storm, Stardust, a young unicorn with a pearly-white coat, a rainbow-pastel mane and tail, a glowing spiral horn, and shimmering silver hooves, huddles with Frost the penguin under an ice ledge. The scene has cozy shelter vibes with warm amber lighting from the unicorn's horn, creating an intimate friendship moment like hiding in a blanket fort.",
           "alt": "A young unicorn and penguin sheltering together during a storm",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-friendship-3fc05dfb3c/scene_6_1.png"
         }
       ]
     },
@@ -88,7 +93,8 @@
         {
           "description": "Frost the penguin creates a stone map while Stardust, a young unicorn with a pearly-white coat, a rainbow-pastel mane and tail, a glowing spiral horn, and shimmering silver hooves, studies it intently. The scene has warm amber lighting creating a cozy study session atmosphere, like friends planning in a comfortable blanket nest.",
           "alt": "A penguin and young unicorn studying a stone map together",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-friendship-3fc05dfb3c/scene_7_1.png"
         }
       ]
     },
@@ -99,7 +105,8 @@
         {
           "description": "Stardust, a young unicorn with a pearly-white coat, a rainbow-pastel mane and tail, a glowing spiral horn, and shimmering silver hooves, and Frost the penguin navigate toward a distant ice shelf on their makeshift raft. The scene has hopeful cozy energy with warm amber lighting reflecting off the water, creating an intimate friendship moment like the end of a perfect sleepover adventure.",
           "alt": "A young unicorn and penguin traveling toward a distant ice shelf",
-          "position": "after-paragraph-15"
+          "position": "after-paragraph-15",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-friendship-3fc05dfb3c/scene_8_1.png"
         }
       ]
     }
