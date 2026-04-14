@@ -1,0 +1,233 @@
+{
+  "id": "v2-early_reader-fairy-tales-6f4521b371",
+  "title": "Snow Glass Whispers",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "fairy-tales",
+    "mystery"
+  ],
+  "wordCount": 517,
+  "readingLevel": "K-1",
+  "synopsis": "When tiny creatures bow to Sorrel inside a snow globe world, the young fawn must discover why they mistake her for someone important in this hushed fairy tale mystery.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-6f4521b371/cover.png",
+  "chapters": [
+    {
+      "title": "The Bowing Mice",
+      "pages": [
+        {
+          "text": "Silver snow spiraled around Sorrel's hooves as three white mice dropped to their bellies before her. The young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes stepped backward, her breath forming tiny clouds in the crystal air. The mice whispered words she couldn't quite catch—something about 'the prophecy' and 'she has returned.' Sorrel's ears twitched nervously. Inside this impossibly small world of glass and snow, even whispers echoed like secrets.",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes stands in a snow globe as three white mice bow before her, with silver snow swirling around tiny mushroom houses in the background. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
+            "alt": "Sorrel looking confused as three white mice bow to her in the snow globe",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-6f4521b371/scene_1_1.png"
+          }
+        },
+        {
+          "text": "How had she gotten here? The memory felt fuzzy, like looking through frosted glass. But something about the way the mice gazed at her with their bright black eyes made her stomach flutter. They seemed to expect something. Something important. Sorrel had always been the shy one, the fawn who hid behind her mother when visitors came. Why were these creatures treating her like... like someone special?",
+          "illustration": {
+            "description": "Close-up of a young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes looking puzzled, with the reflection of tiny glowing creatures visible in her dark eyes. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
+            "alt": "Close-up of Sorrel's confused expression with tiny creatures reflected in her eyes",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-6f4521b371/scene_1_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Glass Between Worlds",
+      "pages": [
+        {
+          "text": "Let me tell you how it really began, the way only we forest creatures remember. Sorrel had been drinking from the old well behind her grandmother's cottage when something glinted at the bottom. Not a coin or a lost button, but a snow globe no bigger than an acorn. The moment her hoof touched the cold glass, the world around her shimmered and stretched thin as spider silk.",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes reaching toward a tiny snow globe at the bottom of a stone well, with magical shimmer effects around her. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
+            "alt": "Sorrel reaching for a magical snow globe in an old stone well",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-6f4521b371/scene_2_1.png"
+          }
+        },
+        {
+          "text": "We animals know things humans miss—like how certain objects hold doorways between worlds. The snow globe was one of those doorways, and Sorrel tumbled through it like falling through a dream. Inside the glass walls, everything smelled of pine needles and winter moonlight. Tiny houses carved from mushrooms dotted the curved horizon. And everywhere, small creatures scurried about as if preparing for something momentous.",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes falling through swirling magical energy toward a miniature world of mushroom houses and tiny creatures. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
+            "alt": "Sorrel tumbling through magical energy into the snow globe world",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-6f4521b371/scene_2_2.png"
+          }
+        },
+        {
+          "text": "But here's what puzzled even my keen animal senses: the creatures acted as if they'd been waiting for her. Not just any fawn—specifically her. They whispered of ancient stories, of a spotted one who would come when the eternal snow began to melt. Sorrel looked down. At her hooves, tiny puddles were forming for the first time in a hundred years.",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes looking down at small puddles forming around her hooves while tiny creatures gather in the background among melting snow. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
+            "alt": "Sorrel discovering puddles of melted snow at her feet as creatures watch",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-6f4521b371/scene_2_3.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The True Name",
+      "pages": [
+        {
+          "text": "The eldest mouse approached, no bigger than Sorrel's smallest hoof. In a voice like wind through grass, she spoke: 'Blessed Dappled One, you have come to wake our world from its frozen sleep.' Sorrel's ears drooped. 'But I'm just Sorrel,' she whispered. 'I'm nobody important. I hide when strangers visit. I'm scared of my own shadow sometimes.'",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes bending down to listen to a tiny white mouse elder wearing a small crown of ice crystals. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
+            "alt": "Sorrel listening to the wise mouse elder who wears an ice crystal crown",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-6f4521b371/scene_3_1.png"
+          }
+        },
+        {
+          "text": "The mouse's whiskers twitched in what might have been a smile. 'In our ancient language, Sorrel means 'the gentle-hearted.' We have waited not for someone bold or fierce, but for someone kind enough to melt a world with the warmth of her spirit.' Around them, more snow dissolved into silver streams that caught the light like liquid stars.",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes surrounded by melting snow that transforms into streams of liquid starlight, with tiny creatures dancing in the magical light. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
+            "alt": "Sorrel surrounded by magical melting snow that turns to streams of starlight",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-6f4521b371/scene_3_2.png"
+          }
+        },
+        {
+          "text": "Sometimes being mistaken for someone important helps you discover you were important all along—just not in the way you expected. When Sorrel finally returned through the glass doorway, she carried spring in her hooves and stories in her heart. And if you look closely at snow globes now, you might glimpse a tiny world where winter and kindness dance together under glass skies.",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes stepping through a shimmering portal of light, with small flowers blooming in her hoofprints and the snow globe world visible behind her. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
+            "alt": "Sorrel stepping back through the magical portal with flowers blooming in her wake",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-6f4521b371/scene_3_3.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "self-discovery",
+      "hidden importance",
+      "kindness",
+      "mythology"
+    ],
+    "vocabulary": [
+      "spiral",
+      "prophecy",
+      "shimmer",
+      "momentous",
+      "ancient"
+    ],
+    "illustrations": 8,
+    "readingTime": "8-10 minutes",
+    "coverPrompt": {
+      "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes stands in the center of a magical snow globe, surrounded by swirling silver snow and tiny glowing mushroom houses. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
+      "alt": "Sorrel the fawn inside a mystical snow globe world"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did the mice call Sorrel?",
+        "choices": [
+          "The Spotted Princess",
+          "The Dappled One",
+          "The Snow Queen"
+        ],
+        "correctIndex": 1,
+        "explanation": "The mice called her the 'Blessed Dappled One' because of her spotted fur."
+      },
+      {
+        "id": "q2",
+        "question": "Where did Sorrel find the snow globe?",
+        "choices": [
+          "In a tree",
+          "At the bottom of a well",
+          "Under her bed"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sorrel found the magical snow globe at the bottom of the old well behind her grandmother's cottage."
+      },
+      {
+        "id": "q3",
+        "question": "What happened to the snow when Sorrel arrived?",
+        "choices": [
+          "It turned blue",
+          "It began to melt",
+          "It got deeper"
+        ],
+        "correctIndex": 1,
+        "explanation": "The eternal snow began to melt for the first time in a hundred years when Sorrel arrived."
+      },
+      {
+        "id": "q4",
+        "question": "What does 'Sorrel' mean in the ancient language?",
+        "choices": [
+          "The brave one",
+          "The gentle-hearted",
+          "The spotted one"
+        ],
+        "correctIndex": 1,
+        "explanation": "According to the mouse elder, 'Sorrel' means 'the gentle-hearted' in their ancient language."
+      },
+      {
+        "id": "q5",
+        "question": "What did Sorrel carry back with her?",
+        "choices": [
+          "Gold coins",
+          "Spring in her hooves",
+          "Magic snow"
+        ],
+        "correctIndex": 1,
+        "explanation": "When Sorrel returned, she carried spring in her hooves and stories in her heart."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "spiraled",
+            "distractors": [
+              "danced",
+              "fell"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "whispered",
+            "distractors": [
+              "shouted",
+              "sang"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "doorways",
+            "distractors": [
+              "windows",
+              "bridges"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "momentous",
+            "distractors": [
+              "ordinary",
+              "silly"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "sorrel"
+}
