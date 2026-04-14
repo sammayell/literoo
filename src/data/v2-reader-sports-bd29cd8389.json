@@ -13,7 +13,7 @@
   "wordCount": 2301,
   "readingLevel": "Grade 2-3",
   "synopsis": "When the Great Race trophy goes missing during a thunderstorm, a tiny owl must solve the mystery before sunset while navigating an attic full of secrets and memories of those who came before.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-bd29cd8389/cover.png",
   "chapters": [
     {
       "title": "The Missing Trophy",
@@ -22,7 +22,8 @@
         {
           "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers perched on photo albums in a dusty attic, with rain streaming down a window and an empty space on a shelf where a trophy should be. Dynamic angle showing the owl mid-lean forward, investigating the scene with athletic focus.",
           "alt": "Hoot examining the empty trophy shelf in the stormy attic",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-bd29cd8389/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers examining an iridescent fish scale with intense focus, while a greyhound watches nearby. The scene shows athletic investigation with dynamic lighting, emphasizing the owl's precise, competitive examination technique.",
           "alt": "Hoot and Runner discovering the fish scale clue",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-bd29cd8389/scene_2_1.png"
         }
       ]
     },
@@ -44,7 +46,8 @@
         {
           "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers spreading his wings in preparation for flight, with a fish tank nearby showing a fish mid-barrel roll. The scene captures dynamic athletic motion with speed lines and dramatic upward angle, emphasizing the competitive determination.",
           "alt": "Hoot preparing to fly up to the rafters while Splash performs a barrel roll",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-bd29cd8389/scene_3_1.png"
         }
       ]
     },
@@ -55,7 +58,8 @@
         {
           "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers perched dramatically on a rafter, facing an elderly spider whose web holds a gleaming trophy. The scene shows maximum athletic tension, with motion blur on the owl's stabilizing movements and competitive intensity in his focused gaze.",
           "alt": "Hoot confronting Weaver the spider in her web with the trophy",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-bd29cd8389/scene_4_1.png"
         }
       ]
     },
@@ -66,7 +70,8 @@
         {
           "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers flying in formation with multiple animals in a victory lap around an attic, carrying a gleaming trophy. The scene explodes with athletic energy, speed lines, and dynamic motion blur as all the refugee animals compete together in perfect harmony.",
           "alt": "All the attic animals running together in a spectacular victory lap",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-bd29cd8389/scene_5_1.png"
         }
       ]
     },
@@ -77,7 +82,8 @@
         {
           "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers perched confidently on a greyhound's back as silver web strands float down around them like confetti. The scene captures the triumphant moment with athletic poise, victory stance, and competitive confidence radiating from both animals.",
           "alt": "Hoot riding on Runner's back as Weaver's web gently unravels around them",
-          "position": "after-paragraph-5"
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-bd29cd8389/scene_6_1.png"
         }
       ]
     },
@@ -88,7 +94,8 @@
         {
           "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers with wings spread wide in a victorious embrace gesture, surrounded by peaceful animals in an attic now filled with starlight streaming through clear windows. The scene shows athletic triumph at rest, with dynamic composition emphasizing the owl's championship pose.",
           "alt": "Hoot with wings spread wide in triumph as starlight fills the peaceful attic",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-sports-bd29cd8389/scene_7_1.png"
         }
       ]
     }

@@ -13,7 +13,7 @@
   "wordCount": 1035,
   "readingLevel": "Grade 1-2",
   "synopsis": "During a three-day rainstorm, Nia discovers someone has been secretly helping her build inventions in the dusty attic, leaving behind mysterious clues and half-finished projects.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-04afef3e64/cover.png",
   "chapters": [
     {
       "title": "The Helper's Trail",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "A wide view of the dusty attic showing Nia with long braids with colorful beads, dark brown skin, and warm kind eyes, standing among scattered tools, old trunks, coffee cans, and pulleys. Mysterious footprints are visible in the dust on the wooden floor. Rain streams down a small dormer window, and shadows from the wooden rafters create a cozy but mysterious atmosphere. Various craft supplies and forgotten objects fill every corner.",
             "alt": "Nia discovering someone has moved her tools in the attic",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-04afef3e64/scene_1_1.png"
           }
         },
         {
@@ -31,7 +32,8 @@
           "illustration": {
             "description": "A close-up view showing Nia with long braids with colorful beads, dark brown skin, and warm kind eyes, kneeling on the wooden floor examining small footprints in the dust. Around her are organized piles of screws, straightened nails, and various building materials. The detailed scene includes measuring tape, spools of string, and old coffee cans arranged more neatly than before. Dust motes float in the dim light from the window.",
             "alt": "Nia examining mysterious small footprints in the attic dust",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-04afef3e64/scene_1_2.png"
           }
         }
       ]
@@ -44,7 +46,8 @@
           "illustration": {
             "description": "The attic transformed into an elaborate workshop with Nia, who has long braids with colorful beads, dark brown skin, and warm kind eyes, standing amazed beneath a complex system of hanging coffee cans, strings, and pulleys. A small funnel catches imaginary rainwater, and a perfect tower of wooden blocks stands in the corner. More footprints weave through the scene, and a tiny handwritten note lies beside the blocks. The cluttered space is filled with organized craft supplies and building materials.",
             "alt": "Nia discovering her rain-catching invention has been mysteriously improved overnight",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-04afef3e64/scene_2_1.png"
           }
         },
         {
@@ -52,7 +55,8 @@
           "illustration": {
             "description": "A detailed search-and-find view of the attic corners showing Nia with long braids with colorful beads, dark brown skin, and warm kind eyes, discovering hidden treasures: bottle caps in spiral patterns, colored pencils arranged as a rainbow staircase, and a detailed drawing with mechanical sketches. The scene is packed with visual clues including small tools, measuring devices, craft supplies, and mysterious additions to her projects scattered throughout the dusty, beam-crossed space.",
             "alt": "Nia finding more clues and inventions hidden throughout the attic",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-04afef3e64/scene_2_2.png"
           }
         }
       ]
@@ -65,7 +69,8 @@
           "illustration": {
             "description": "The attic scene showing Marcus, a small boy, carefully adding bottle cap wheels to the rain-catching machine while Nia with long braids with colorful beads, dark brown skin, and warm kind eyes, watches from behind stacked quilts. The detailed space shows all their collaborative inventions: the pulley system, organized tools, block towers, and craft projects scattered throughout the dusty, beam-crossed attic. Morning light filters through the rain-streaked window.",
             "alt": "Nia discovering her little brother Marcus has been her secret helper",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-04afef3e64/scene_3_1.png"
           }
         },
         {
@@ -73,7 +78,8 @@
           "illustration": {
             "description": "A warm, detailed scene showing Nia with long braids with colorful beads, dark brown skin, and warm kind eyes, sitting beside Marcus as they work together on their inventions. The attic is filled with all their collaborative projects: the elaborate rain-catching system, organized craft supplies, building materials, towers of blocks, and new contraptions in progress. Sunlight breaks through the window as the storm ends, illuminating their busy, creative workspace filled with small objects and tools.",
             "alt": "Nia and Marcus working together on their inventions as the storm clears",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-04afef3e64/scene_3_2.png"
           }
         }
       ]

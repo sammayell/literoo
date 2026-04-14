@@ -13,7 +13,7 @@
   "wordCount": 610,
   "readingLevel": "Grade 1-2",
   "synopsis": "When cherry blossoms begin to disappear from the orchard, a small flower fairy must solve the mystery while facing the reality that her dear friend is preparing to leave forever.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-a194364181/cover.png",
   "chapters": [
     {
       "title": "Day One: Something Missing",
@@ -22,21 +22,24 @@
           "text": "Cherry blossoms fell upward that Tuesday, which was the first sign something peculiar was happening in Grandmother Willow's orchard. I should know—I'm the old bronze bell that hangs from her crooked branch, and I've been watching this place longer than most trees have been growing.",
           "illustration": {
             "description": "A bronze bell hangs from a gnarled willow branch overlooking rows of cherry trees in full pink bloom. Pink petals mysteriously float upward in swirls. A small flower fairy with iridescent dragonfly wings, pastel-pink hair swept up with a tiny leaf crown, luminous green eyes, and a petal-skirt dress hovers nearby looking puzzled. Bright sunny playground art style with primary colors, white space, joyful energetic feeling.",
-            "alt": "A bronze bell watches as cherry blossoms float upward while a small fairy looks on in confusion"
+            "alt": "A bronze bell watches as cherry blossoms float upward while a small fairy looks on in confusion",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-a194364181/scene_1_1.png"
           }
         },
         {
           "text": "Zinnia, the little flower fairy who tends the southern grove, zipped between the branches with her usual morning energy. But today she kept stopping, tilting her head like she was listening for something that wasn't there. 'Where are they all going?' she whispered to herself, watching another handful of pink petals spiral toward the clouds.",
           "illustration": {
             "description": "A small flower fairy with iridescent dragonfly wings, pastel-pink hair swept up with a tiny leaf crown, luminous green eyes, and a petal-skirt dress flies between cherry tree branches, reaching toward floating pink petals. The orchard stretches behind her in bright sunny playground style with primary colors, white space, joyful energetic feeling.",
-            "alt": "Zinnia the fairy reaches for floating cherry blossoms in the orchard"
+            "alt": "Zinnia the fairy reaches for floating cherry blossoms in the orchard",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-a194364181/scene_1_2.png"
           }
         },
         {
           "text": "She wasn't the only one who noticed. Old Bramble, the hedgehog who lived beneath the biggest cherry tree, poked his snout out from his burrow. 'Peculiar weather we're having,' he said dryly. 'Though I suppose gravity was getting a bit predictable.' Zinnia giggled despite her worry. Bramble always knew exactly what to say to make things feel less strange.",
           "illustration": {
             "description": "A small flower fairy with iridescent dragonfly wings, pastel-pink hair swept up with a tiny leaf crown, luminous green eyes, and a petal-skirt dress hovers near a large cherry tree where a wise-looking hedgehog emerges from his burrow. Pink petals continue floating upward around them. Bright sunny playground art style with primary colors, white space, joyful energetic feeling.",
-            "alt": "Zinnia talks with Bramble the hedgehog as unusual things happen in the orchard"
+            "alt": "Zinnia talks with Bramble the hedgehog as unusual things happen in the orchard",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-a194364181/scene_1_3.png"
           }
         }
       ]
@@ -48,21 +51,24 @@
           "text": "Wednesday brought more mysteries and fewer words between the fairy and hedgehog. From my perch, I could see Zinnia working extra hard, flitting from flower to flower, trying to coax the petals to stay put. Meanwhile, Bramble packed his small belongings into neat little bundles near his burrow entrance.",
           "illustration": {
             "description": "A small flower fairy with iridescent dragonfly wings, pastel-pink hair swept up with a tiny leaf crown, luminous green eyes, and a petal-skirt dress works frantically among cherry blossoms while a hedgehog organizes small bundles near his burrow. The bronze bell watches from above. Bright sunny playground art style with primary colors, white space, joyful energetic feeling.",
-            "alt": "Zinnia works desperately with flowers while Bramble packs his belongings"
+            "alt": "Zinnia works desperately with flowers while Bramble packs his belongings",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-a194364181/scene_2_1.png"
           }
         },
         {
           "text": "'Going somewhere?' Zinnia asked finally, though her voice was smaller than usual. Bramble paused in his packing. 'My cousin needs help with her new burrow across the valley,' he said quietly. 'I'll be leaving tomorrow morning.' The words hung in the sweet orchard air like morning mist. Neither of them mentioned how they'd barely spoken in weeks.",
           "illustration": {
             "description": "A small flower fairy with iridescent dragonfly wings, pastel-pink hair swept up with a tiny leaf crown, luminous green eyes, and a petal-skirt dress sits sadly on a low branch while a hedgehog stands beside his packed belongings. Cherry blossoms continue their upward dance around them. Bright sunny playground art style with primary colors, white space, joyful energetic feeling.",
-            "alt": "Zinnia and Bramble have a difficult conversation about his departure"
+            "alt": "Zinnia and Bramble have a difficult conversation about his departure",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-a194364181/scene_2_2.png"
           }
         },
         {
           "text": "That's when Zinnia noticed something curious—wherever Bramble had walked, the petals fell normally. Downward. Like they were supposed to. 'Bramble,' she said slowly, 'I think you're the one keeping the blossoms grounded.' The old hedgehog looked surprised, then thoughtful. 'Magic often works in mysterious ways,' he admitted.",
           "illustration": {
             "description": "A small flower fairy with iridescent dragonfly wings, pastel-pink hair swept up with a tiny leaf crown, luminous green eyes, and a petal-skirt dress examines the ground where normal pink petals have fallen, while a hedgehog stands nearby looking wise. Above them, other petals still float upward. Bright sunny playground art style with primary colors, white space, joyful energetic feeling.",
-            "alt": "Zinnia discovers that petals fall normally wherever Bramble has been"
+            "alt": "Zinnia discovers that petals fall normally wherever Bramble has been",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-a194364181/scene_2_3.png"
           }
         }
       ]
@@ -74,21 +80,24 @@
           "text": "Thursday dawn came too early and too quiet. I watched Bramble emerge from his burrow with his traveling pack, while somewhere in the upper branches, Zinnia was probably still sleeping. Or pretending to sleep. Sometimes it's hard to tell the difference when you're dreading something.",
           "illustration": {
             "description": "Dawn light filters through cherry trees as a hedgehog with a small pack stands ready to leave. High in the branches, a small flower fairy with iridescent dragonfly wings, pastel-pink hair swept up with a tiny leaf crown, luminous green eyes, and a petal-skirt dress peeks out from behind leaves. Bright sunny playground art style with primary colors, white space, joyful energetic feeling.",
-            "alt": "Bramble prepares to leave while Zinnia watches from the trees at dawn"
+            "alt": "Bramble prepares to leave while Zinnia watches from the trees at dawn",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-a194364181/scene_3_1.png"
           }
         },
         {
           "text": "But just as Bramble reached the orchard gate, Zinnia appeared in a shower of sparkles and determination. 'Wait,' she called. 'I figured it out. You're not just keeping the petals grounded—you're keeping me grounded too.' She landed gently on his spiny back. 'I've been so busy lately, I forgot to be a friend.'",
           "illustration": {
             "description": "A small flower fairy with iridescent dragonfly wings, pastel-pink hair swept up with a tiny leaf crown, luminous green eyes, and a petal-skirt dress lands gently on a hedgehog's back near the orchard gate. Sparkles surround them and cherry petals fall naturally. Bright sunny playground art style with primary colors, white space, joyful energetic feeling.",
-            "alt": "Zinnia lands on Bramble's back in a gesture of friendship and understanding"
+            "alt": "Zinnia lands on Bramble's back in a gesture of friendship and understanding",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-a194364181/scene_3_2.png"
           }
         },
         {
           "text": "Bramble smiled his crooked hedgehog smile. 'And I forgot that friends don't need to live in the same place to care about each other.' Around them, the cherry blossoms settled into their proper downward dance—not because of magic, but because some things in the world had found their right place again. 'I'll write,' promised Bramble. 'Every week,' promised Zinnia back.",
           "illustration": {
             "description": "A small flower fairy with iridescent dragonfly wings, pastel-pink hair swept up with a tiny leaf crown, luminous green eyes, and a petal-skirt dress and a hedgehog embrace beneath falling cherry blossoms that now drift downward naturally. The orchard around them is peaceful and bright. Bright sunny playground art style with primary colors, white space, joyful energetic feeling.",
-            "alt": "Zinnia and Bramble share a warm goodbye as cherry blossoms fall naturally around them"
+            "alt": "Zinnia and Bramble share a warm goodbye as cherry blossoms fall naturally around them",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-a194364181/scene_3_3.png"
           }
         }
       ]
@@ -100,14 +109,16 @@
           "text": "From my branch, I've watched many seasons come and go since then. True to their word, letters arrive each week—tiny scrolls tied with grass, delivered by helpful sparrows. Zinnia reads them aloud to the cherry trees, who seem to appreciate the hedgehog's dry observations about valley life.",
           "illustration": {
             "description": "A small flower fairy with iridescent dragonfly wings, pastel-pink hair swept up with a tiny leaf crown, luminous green eyes, and a petal-skirt dress sits reading a tiny scroll to the cherry trees while a sparrow perches nearby. The bronze bell hangs peacefully above. Bright sunny playground art style with primary colors, white space, joyful energetic feeling.",
-            "alt": "Zinnia reads Bramble's letter to the cherry trees while a sparrow waits"
+            "alt": "Zinnia reads Bramble's letter to the cherry trees while a sparrow waits",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-a194364181/scene_4_1.png"
           }
         },
         {
           "text": "Sometimes friendship isn't about staying in the same place forever. Sometimes it's about understanding that caring travels farther than cherry blossoms ever could—even the magical, gravity-defying kind. And if you ask me, that's a much better kind of magic altogether.",
           "illustration": {
             "description": "The cherry orchard in full bloom with a small flower fairy with iridescent dragonfly wings, pastel-pink hair swept up with a tiny leaf crown, luminous green eyes, and a petal-skirt dress tending the flowers. Letters float gently on the breeze, and the bronze bell gleams in the sunlight. Bright sunny playground art style with primary colors, white space, joyful energetic feeling.",
-            "alt": "The peaceful orchard where friendship continues across distances"
+            "alt": "The peaceful orchard where friendship continues across distances",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-a194364181/scene_4_2.png"
           }
         }
       ]
@@ -119,7 +130,8 @@
           "text": "These days, when the wind picks up and the cherry blossoms dance, they fall exactly as they should—in gentle spirals, carpeting the orchard floor in pink. And when Zinnia tends her flowers, she hums little songs that sound suspiciously like letters being written in her head. The orchard has never been more peaceful.",
           "illustration": {
             "description": "A small flower fairy with iridescent dragonfly wings, pastel-pink hair swept up with a tiny leaf crown, luminous green eyes, and a petal-skirt dress hums while tending cherry blossoms that fall in natural spirals. The orchard floor is carpeted with pink petals. The bronze bell sways gently above. Bright sunny playground art style with primary colors, white space, joyful energetic feeling.",
-            "alt": "Zinnia hums contentedly while tending the peaceful, blossom-filled orchard"
+            "alt": "Zinnia hums contentedly while tending the peaceful, blossom-filled orchard",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-a194364181/scene_5_1.png"
           }
         }
       ]

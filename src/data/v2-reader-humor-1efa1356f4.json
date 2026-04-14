@@ -13,7 +13,7 @@
   "wordCount": 2135,
   "readingLevel": "Grade 2-3",
   "synopsis": "When young fawn Sorrel discovers someone has been secretly helping her practice gymnastics in the after-hours library, she must use her detective skills to uncover her mysterious helper's identity through clues left behind in the candlelit stacks.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-1efa1356f4/cover.png",
   "chapters": [
     {
       "title": "Strange Footprints in the Dust",
@@ -22,7 +22,8 @@
         {
           "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes crouches on the marble library floor, examining a paw print in the dust with a magnifying glass. Towering bookshelves stretch into darkness around her, lit only by a single candle on a nearby table. Her expression is intensely focused and detective-like.",
           "alt": "Sorrel investigating a mysterious paw print in the library",
-          "position": "after-paragraph-3"
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-1efa1356f4/scene_1_1.png"
         }
       ]
     },
@@ -33,7 +34,8 @@
         {
           "description": "A small gray squirrel with bright eyes and a fluffy tail peeks nervously from between astronomy books on a high shelf. Below him, a young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes looks up toward the sound, alert and curious. The scene is lit by dramatic candlelight creating long shadows.",
           "alt": "Pip the squirrel hiding while Sorrel investigates below",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-1efa1356f4/scene_2_1.png"
         }
       ]
     },
@@ -44,7 +46,8 @@
         {
           "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes holds up a small acorn in the poetry section, examining it like evidence. Her notebook lies open nearby with detective notes. Towering bookshelves surround her in the candlelit library, and her expression shows the satisfaction of a detective finding an important clue.",
           "alt": "Sorrel examining the acorn clue in the poetry section",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-1efa1356f4/scene_3_1.png"
         }
       ]
     },
@@ -55,7 +58,8 @@
         {
           "description": "A small gray squirrel with bright eyes and fluffy tail tumbles dramatically between bookshelves, his arms windmilling comically. Below, a young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes looks up with surprise and concern. Books are scattered around as the squirrel falls in a slapstick, bouncy cartoon style.",
           "alt": "Pip tumbling down from the shelves toward Sorrel",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-1efa1356f4/scene_4_1.png"
         }
       ]
     },
@@ -66,7 +70,8 @@
         {
           "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes sits facing a small gray squirrel with bright eyes and fluffy tail in the candlelit library. Both animals look happy and friendly. Scattered around them are the detective clues - paw prints, whisker, acorn, and notebooks. The scene has a warm, friendship-filled atmosphere.",
           "alt": "Sorrel and Pip meeting face to face after the revelation",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-1efa1356f4/scene_5_1.png"
         }
       ]
     },
@@ -77,7 +82,8 @@
         {
           "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes performs a graceful leap on a makeshift balance beam in the library. A small gray squirrel with bright eyes and fluffy tail sits on a stack of books nearby, cheering enthusiastically. The candlelit scene shows both animals happy and working together as a team.",
           "alt": "Sorrel practicing gymnastics with Pip as her coach",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-1efa1356f4/scene_6_1.png"
         }
       ]
     },
@@ -88,7 +94,8 @@
         {
           "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes holds a second-place ribbon proudly at an outdoor gymnastics competition. A small gray squirrel with bright eyes and fluffy tail sits on her shoulder, both of them grinning with joy. Other woodland creatures cheer in the background under bright sunshine.",
           "alt": "Sorrel and Pip celebrating at the Forest Games competition",
-          "position": "after-paragraph-6"
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-1efa1356f4/scene_7_1.png"
         }
       ]
     }
