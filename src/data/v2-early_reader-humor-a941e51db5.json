@@ -24,6 +24,9 @@
             "description": "Hugo, a boy with straight light blonde hair, fair skin, and light blue eyes, stands at a wooden workbench inside a cozy treehouse. He holds a hammer and stares at it with intense concentration and suspicion. Tools are neatly organized around him. Through the round window, rope bridges and other treehouses are visible among green leaves. The illustration uses exaggerated cartoon style with squash and stretch, oversized expressions, candy bright colors, bouncy dynamic poses, slapstick energy, and rubber hose animation feel.",
             "alt": "Hugo examining his mysteriously clean hammer at his workbench",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-a941e51db5/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-a941e51db5/ch1_p1.mp3"
           }
         },
         {
@@ -31,6 +34,9 @@
           "illustration": {
             "description": "Close-up of Hugo, a boy with straight light blonde hair, fair skin, and light blue eyes, peering through a large magnifying glass at his hammer. His eye appears enormous through the lens. He wears a simple cap and has an extremely serious, analytical expression. His workbench is cluttered with detective tools and a notebook. The illustration uses exaggerated cartoon style with squash and stretch, oversized expressions, candy bright colors, bouncy dynamic poses, slapstick energy, and rubber hose animation feel.",
             "alt": "Hugo investigating his hammer with a magnifying glass"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-a941e51db5/ch1_p2.mp3"
           }
         }
       ]
@@ -44,6 +50,9 @@
             "description": "Hugo, a boy with straight light blonde hair, fair skin, and light blue eyes, crouches next to partially assembled bird feeder parts on his treehouse deck. He holds up a perfectly cut wooden piece, studying it with intense suspicion. Measuring tools and wood shavings are scattered around. Rope bridges and leafy branches frame the scene. The illustration uses exaggerated cartoon style with squash and stretch, oversized expressions, candy bright colors, bouncy dynamic poses, slapstick energy, and rubber hose animation feel.",
             "alt": "Hugo examining perfectly cut wood pieces for his bird feeder",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-a941e51db5/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-a941e51db5/ch2_p1.mp3"
           }
         },
         {
@@ -51,6 +60,9 @@
           "illustration": {
             "description": "Hugo, a boy with straight light blonde hair, fair skin, and light blue eyes, hides behind a large tree trunk holding oversized binoculars to his eyes. The binoculars are comically large compared to his head. He peers intensely at his treehouse workbench in the distance. A curious squirrel sits on a branch above him. Dappled sunlight filters through leaves. The illustration uses exaggerated cartoon style with squash and stretch, oversized expressions, candy bright colors, bouncy dynamic poses, slapstick energy, and rubber hose animation feel.",
             "alt": "Hugo hiding behind a tree with large binoculars, watching his workbench"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-a941e51db5/ch2_p2.mp3"
           }
         }
       ]
@@ -64,6 +76,9 @@
             "description": "A beaver wearing tiny work goggles waddles across a rope bridge carrying a small toolbox in his mouth. In the background, Hugo (a boy with straight light blonde hair, fair skin, and light blue eyes) watches from behind binoculars, his mouth hanging open in shock. The beaver looks completely serious and professional. The treehouse workbench is visible ahead. The illustration uses exaggerated cartoon style with squash and stretch, oversized expressions, candy bright colors, bouncy dynamic poses, slapstick energy, and rubber hose animation feel.",
             "alt": "A professional beaver with goggles crossing the bridge while Hugo watches in amazement",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-a941e51db5/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-a941e51db5/ch3_p1.mp3"
           }
         },
         {
@@ -72,6 +87,9 @@
             "description": "Hugo, a boy with straight light blonde hair, fair skin, and light blue eyes, stands next to the beaver who points proudly at his tiny toolbox with a sign reading 'PROFESSIONAL HELPER.' The completed spinning bird feeder hangs between them, turning gently in the breeze. Both Hugo and the beaver have serious, professional expressions. Golden sunset light filters through the tree leaves around the treehouse. The illustration uses exaggerated cartoon style with squash and stretch, oversized expressions, candy bright colors, bouncy dynamic poses, slapstick energy, and rubber hose animation feel.",
             "alt": "Hugo and the professional beaver admiring the completed spinning bird feeder at sunset",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-a941e51db5/scene_3_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-a941e51db5/ch3_p2.mp3"
           }
         }
       ]
@@ -206,5 +224,7 @@
       }
     ]
   },
-  "_spec_character_name": "hugo"
+  "_spec_character_name": "hugo",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }

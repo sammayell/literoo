@@ -25,6 +25,9 @@
             "alt": "Hoot watches a gathering of forest animals from above",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-9b7bee8b9e/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-9b7bee8b9e/ch1_p1.mp3"
           }
         },
         {
@@ -34,6 +37,9 @@
             "alt": "Hoot accidentally interrupts the spring ceremony",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-9b7bee8b9e/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-9b7bee8b9e/ch1_p2.mp3"
           }
         },
         {
@@ -43,6 +49,9 @@
             "alt": "The wise rabbit explains the ceremony to embarrassed Hoot",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-9b7bee8b9e/scene_1_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-9b7bee8b9e/ch1_p3.mp3"
           }
         }
       ]
@@ -57,6 +66,9 @@
             "alt": "Hoot watches the summer dance from above",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-9b7bee8b9e/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-9b7bee8b9e/ch2_p1.mp3"
           }
         },
         {
@@ -66,6 +78,9 @@
             "alt": "Hoot falls as the ceremonial branch breaks during the solstice",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-9b7bee8b9e/scene_2_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-9b7bee8b9e/ch2_p2.mp3"
           }
         },
         {
@@ -75,6 +90,9 @@
             "alt": "Hoot tangled in flower garlands while animals watch",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-9b7bee8b9e/scene_2_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-9b7bee8b9e/ch2_p3.mp3"
           }
         }
       ]
@@ -88,6 +106,9 @@
             "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers sits very formally on a moss-covered log at the edge of a clearing where forest animals are arranging acorns and berries in organized piles. Autumn leaves fall silently around them. Exaggerated cartoon style showing Hoot's determined attempt to behave properly.",
             "alt": "Hoot tries to sit quietly at the Harvest Council",
             "layout": "full-page"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-9b7bee8b9e/ch3_p1.mp3"
           }
         },
         {
@@ -97,6 +118,9 @@
             "alt": "Acorns scatter everywhere as Hoot breaks the storage log",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-9b7bee8b9e/scene_3_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-9b7bee8b9e/ch3_p2.mp3"
           }
         }
       ]
@@ -111,6 +135,9 @@
             "alt": "Hoot practices flying alone in the winter clearing",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-9b7bee8b9e/scene_4_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-9b7bee8b9e/ch4_p1.mp3"
           }
         },
         {
@@ -120,6 +147,9 @@
             "alt": "Hoot discovers lost animals in the snowstorm",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-9b7bee8b9e/scene_4_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-9b7bee8b9e/ch4_p2.mp3"
           }
         },
         {
@@ -129,6 +159,9 @@
             "alt": "Hoot guides the lost animals home through the snow",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-9b7bee8b9e/scene_4_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-9b7bee8b9e/ch4_p3.mp3"
           }
         },
         {
@@ -138,6 +171,9 @@
             "alt": "The rabbit offers Hoot the job of forest guide",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-9b7bee8b9e/scene_4_4.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-9b7bee8b9e/ch4_p4.mp3"
           }
         }
       ]
@@ -152,6 +188,9 @@
             "alt": "Hoot stands proudly as the new Forest Guide with all his friends",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-9b7bee8b9e/scene_5_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-9b7bee8b9e/ch5_p1.mp3"
           }
         }
       ]
@@ -282,5 +321,7 @@
       }
     ]
   },
-  "_spec_character_name": "hoot"
+  "_spec_character_name": "hoot",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
