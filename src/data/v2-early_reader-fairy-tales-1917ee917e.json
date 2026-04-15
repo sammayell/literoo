@@ -24,6 +24,9 @@
             "alt": "Zara receiving glowing compass from Captain Moss in thick fog",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-1917ee917e/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-1917ee917e/ch1_p1.mp3"
           }
         }
       ]
@@ -38,6 +41,9 @@
             "alt": "Zara listening to singing rocks with cricket Pip on her shoulder",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-1917ee917e/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-1917ee917e/ch2_p1.mp3"
           }
         }
       ]
@@ -52,6 +58,9 @@
             "alt": "Zara, Pip, and Sage the turtle looking at flower tree island",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-1917ee917e/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-1917ee917e/ch3_p1.mp3"
           }
         }
       ]
@@ -66,6 +75,9 @@
             "alt": "Zara with compass reflected in mirror island while Luna the swan watches",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-1917ee917e/scene_4_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-1917ee917e/ch4_p1.mp3"
           }
         }
       ]
@@ -80,6 +92,9 @@
             "alt": "Zara surrounded by all her magical friends near the bell tower island",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-1917ee917e/scene_5_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-1917ee917e/ch5_p1.mp3"
           }
         }
       ]
@@ -88,7 +103,10 @@
       "title": "Lighthouse Island",
       "pages": [
         {
-          "text": "The compass needle spins fast. Then it stops. It points straight up. Above them, through the fog, a lighthouse appears. But its light is out. 'That's it!' says Captain Moss. 'The lighthouse guides me home.' All the friends work together. Pip clicks her song. Sage blows bubbles that catch light. Luna spreads her wings wide. Echo breathes gentle fire. Zara holds the compass high. The lighthouse begins to glow. The fog starts to clear. The sun sets just as they reach the dock. Captain Moss smiles. 'Friends always help friends find their way.'"
+          "text": "The compass needle spins fast. Then it stops. It points straight up. Above them, through the fog, a lighthouse appears. But its light is out. 'That's it!' says Captain Moss. 'The lighthouse guides me home.' All the friends work together. Pip clicks her song. Sage blows bubbles that catch light. Luna spreads her wings wide. Echo breathes gentle fire. Zara holds the compass high. The lighthouse begins to glow. The fog starts to clear. The sun sets just as they reach the dock. Captain Moss smiles. 'Friends always help friends find their way.'",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-1917ee917e/ch6_p1.mp3"
+          }
         }
       ]
     }
@@ -223,5 +241,7 @@
       }
     ]
   },
-  "_spec_character_name": "zara"
+  "_spec_character_name": "zara",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }

@@ -24,6 +24,9 @@
             "alt": "A boy and his grandfather in an old printing press shop watching moving trucks through the window",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-096786c000/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-096786c000/ch1_p1.mp3"
           }
         }
       ]
@@ -38,6 +41,9 @@
             "alt": "A mysterious neighbor tending a magical garden while Theo watches from the printing shop window",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-096786c000/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-096786c000/ch2_p1.mp3"
           }
         }
       ]
@@ -52,6 +58,9 @@
             "alt": "Theo reading a handwritten story by candlelight while autumn leaves swirl outside and his tablet lies forgotten",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-096786c000/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-096786c000/ch3_p1.mp3"
           }
         }
       ]
@@ -66,6 +75,9 @@
             "alt": "Theo learning to use a printing set in the warm, snow-lit shop while his tablet sits forgotten",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-096786c000/scene_4_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-096786c000/ch4_p1.mp3"
           }
         }
       ]
@@ -195,5 +207,7 @@
       }
     ]
   },
-  "_spec_character_name": "theo"
+  "_spec_character_name": "theo",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
