@@ -12,7 +12,7 @@
   "wordCount": 355,
   "readingLevel": "Grade K-1",
   "synopsis": "Inside a snow globe, Nimbus the cloud being discovers the weather has turned completely upside down. Snow falls up, rain drops float, and everything is backwards. With her friend Pip the snowflake, Nimbus must build a special weather machine to set things right again.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-0a324cd86b/cover.png",
   "chapters": [
     {
       "title": "Day One: The Discovery",
@@ -23,7 +23,7 @@
             "description": "Inside a snow globe, Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, stares up at snowflakes floating upward. The scene shows an enchanted forest with glowing mushrooms, fairy lights, mystical creatures in the background, rich greens and purples, golden sparkles, Studio Ghibli inspired magical atmosphere with detailed foliage.",
             "alt": "Nimbus watching snow fall upward in the snow globe",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-0a324cd86b/scene_1_1.png"
           }
         },
         {
@@ -32,7 +32,7 @@
             "description": "Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, talks with Pip, a delicate crystalline snowflake. Both are floating upward in the snow globe. The background shows an enchanted forest with glowing mushrooms, fairy lights, rich greens and purples, golden sparkles, Studio Ghibli inspired magical atmosphere with detailed foliage.",
             "alt": "Nimbus and Pip discussing the upward weather",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-0a324cd86b/scene_1_2.png"
           }
         }
       ]
@@ -46,7 +46,7 @@
             "description": "Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, floats near upside-down fish in a pond while rain drops float upward. The enchanted forest setting has glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired magical atmosphere with detailed foliage.",
             "alt": "Upside down rain and confused fish with Nimbus observing",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-0a324cd86b/scene_2_1.png"
           }
         },
         {
@@ -55,7 +55,7 @@
             "description": "Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, examines upside-down trees with roots growing upward and leaves reaching down. The scene is set in an enchanted forest with glowing mushrooms, fairy lights, mystical atmosphere, rich greens and purples, golden sparkles, Studio Ghibli inspired with detailed foliage.",
             "alt": "Nimbus looking at upside-down trees in the snow globe",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-0a324cd86b/scene_2_2.png"
           }
         }
       ]
@@ -69,7 +69,7 @@
             "description": "Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, and Pip gather materials for building. Bottle caps, buttons, watch parts, and paper clips are scattered around them in the enchanted forest setting with glowing mushrooms, fairy lights, rich greens and purples, golden sparkles, Studio Ghibli inspired magical atmosphere with detailed foliage.",
             "alt": "Nimbus and Pip collecting materials to build a weather machine",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-0a324cd86b/scene_3_1.png"
           }
         },
         {
@@ -78,7 +78,7 @@
             "description": "Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, and Pip stand next to their completed weather machine as snow begins to fall downward normally. The enchanted forest background has glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired magical atmosphere with detailed foliage.",
             "alt": "Nimbus and Pip with their working weather machine as snow falls properly",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-0a324cd86b/scene_3_2.png"
           }
         }
       ]
@@ -92,7 +92,7 @@
             "description": "Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, and Pip celebrate as normal weather returns to the snow globe. Fish swim properly, trees stand upright, and their weather machine sits in the corner. The enchanted forest has glowing mushrooms, fairy lights, rich greens and purples, golden sparkles, Studio Ghibli inspired magical atmosphere with detailed foliage.",
             "alt": "Normal weather restored in the snow globe with Nimbus and Pip celebrating",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-0a324cd86b/scene_4_1.png"
           }
         },
         {
@@ -101,7 +101,7 @@
             "description": "Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, sleeping peacefully while dreaming of gears and mechanical parts floating around her. The nighttime scene in the enchanted forest shows glowing mushrooms providing soft light, fairy lights twinkling, rich greens and purples, golden sparkles, Studio Ghibli inspired magical atmosphere with detailed foliage.",
             "alt": "Nimbus sleeping and dreaming of mechanical parts and building",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-0a324cd86b/scene_4_2.png"
           }
         }
       ]
