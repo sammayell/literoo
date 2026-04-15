@@ -25,6 +25,9 @@
             "alt": "Finn looking at his bird's cage with fresh seeds scattered inside",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-friendship-c21c7f5228/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-toddler-friendship-c21c7f5228/ch1_p1.mp3"
           }
         }
       ]
@@ -39,6 +42,9 @@
             "alt": "Finn hugging Maya while she holds bird seeds, with their pet bird flying around them",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-friendship-c21c7f5228/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-toddler-friendship-c21c7f5228/ch2_p1.mp3"
           }
         }
       ]
@@ -154,5 +160,7 @@
       }
     ]
   },
-  "_spec_character_name": "finn"
+  "_spec_character_name": "finn",
+  "narrationVoice": "piTKgcLEGmPE4e6mEKli",
+  "narrationComplete": true
 }
