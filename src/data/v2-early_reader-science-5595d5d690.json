@@ -25,6 +25,9 @@
             "alt": "A raccoon listening to copper pipes with scientific wind flow patterns visible inside",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-5595d5d690/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-5595d5d690/ch1_p1.mp3"
           }
         },
         {
@@ -34,6 +37,9 @@
             "alt": "A concerned raccoon at the bottom of stairs with technical drawings scattered about",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-5595d5d690/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-5595d5d690/ch1_p2.mp3"
           }
         }
       ]
@@ -48,6 +54,9 @@
             "alt": "A raccoon conducting an experiment with a feather being pulled into a pipe by air pressure",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-5595d5d690/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-5595d5d690/ch2_p1.mp3"
           }
         },
         {
@@ -57,6 +66,9 @@
             "alt": "A raccoon experimenting with pipe holes while an owl observes, with scientific measurements visible",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-5595d5d690/scene_2_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-5595d5d690/ch2_p2.mp3"
           }
         }
       ]
@@ -71,6 +83,9 @@
             "alt": "A raccoon conducting systematic experiments with various objects and scientific measurement tools",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-5595d5d690/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-5595d5d690/ch3_p1.mp3"
           }
         },
         {
@@ -80,6 +95,9 @@
             "alt": "A raccoon urgently removing leaves from pipe holes with scientific pressure readings glowing around the scene",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-5595d5d690/scene_3_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-5595d5d690/ch3_p2.mp3"
           }
         }
       ]
@@ -94,6 +112,9 @@
             "alt": "A raccoon cleaning pipe holes with scientific instruments showing improved readings all around",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-5595d5d690/scene_4_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-5595d5d690/ch4_p1.mp3"
           }
         },
         {
@@ -103,6 +124,9 @@
             "alt": "A raccoon and owl celebrating beside clean pipes with a bright lighthouse beam in the background",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-5595d5d690/scene_4_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-5595d5d690/ch4_p2.mp3"
           }
         }
       ]
@@ -237,5 +261,7 @@
       }
     ]
   },
-  "_spec_character_name": "bramble"
+  "_spec_character_name": "bramble",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }

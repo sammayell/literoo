@@ -25,6 +25,9 @@
             "alt": "Amara falling into the ice cavern and landing next to Professor Whiskers",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-3c01b262e7/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-3c01b262e7/ch1_p1.mp3"
           }
         },
         {
@@ -34,6 +37,9 @@
             "alt": "Professor Whiskers writing a formal letter to Amara",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-3c01b262e7/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-3c01b262e7/ch1_p2.mp3"
           }
         },
         {
@@ -43,6 +49,9 @@
             "alt": "Amara writing her response letter in the ice cavern",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-3c01b262e7/scene_1_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-3c01b262e7/ch1_p3.mp3"
           }
         }
       ]
@@ -57,6 +66,9 @@
             "alt": "Amara exploring the ice laboratory with Professor Whiskers and a penguin messenger",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-3c01b262e7/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-3c01b262e7/ch2_p1.mp3"
           }
         },
         {
@@ -66,6 +78,9 @@
             "alt": "Amara and Professor Whiskers reading the urgent letter about the real Ice Princess",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-3c01b262e7/scene_2_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-3c01b262e7/ch2_p2.mp3"
           }
         },
         {
@@ -75,6 +90,9 @@
             "alt": "Amara becoming an honorary research assistant through letter exchange",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-3c01b262e7/scene_2_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-3c01b262e7/ch2_p3.mp3"
           }
         }
       ]
@@ -89,6 +107,9 @@
             "alt": "Amara and Professor Whiskers conducting colorful ice experiments together",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-3c01b262e7/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-3c01b262e7/ch3_p1.mp3"
           }
         },
         {
@@ -98,6 +119,9 @@
             "alt": "Amara meeting the real Ice Princess in the ice laboratory",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-3c01b262e7/scene_3_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-3c01b262e7/ch3_p2.mp3"
           }
         },
         {
@@ -107,6 +131,9 @@
             "alt": "Amara, Princess Icicle, and Professor Whiskers working together as a scientific team",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-3c01b262e7/scene_3_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-3c01b262e7/ch3_p3.mp3"
           }
         },
         {
@@ -116,6 +143,9 @@
             "alt": "Amara saying goodbye to her new friends in the ice cavern laboratory",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-3c01b262e7/scene_3_4.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-3c01b262e7/ch3_p4.mp3"
           }
         }
       ]
@@ -237,5 +267,7 @@
       }
     ]
   },
-  "_spec_character_name": "amara"
+  "_spec_character_name": "amara",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
