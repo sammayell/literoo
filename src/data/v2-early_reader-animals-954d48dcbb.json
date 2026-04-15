@@ -1,0 +1,271 @@
+{
+  "id": "v2-early_reader-animals-954d48dcbb",
+  "title": "When the Snow Swirls",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "animals",
+    "adventure"
+  ],
+  "wordCount": 990,
+  "readingLevel": "Kindergarten-1st Grade",
+  "synopsis": "Kofi discovers a magical snow globe world where he experiences four seasons alongside forest animals, learning that the most beautiful moments happen when we put down distractions and truly connect with nature.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-954d48dcbb/cover.png",
+  "chapters": [
+    {
+      "title": "Chapter 1: Spring Sproings and Splashes",
+      "pages": [
+        {
+          "text": "WHOOSH-swoosh-SWOOSH! The world spins and spins around me as I tumble through sparkly snow-flakes into the tiniest place ever. Plop! I land on soft, squishy moss that smells like rain and new leaves. Everything is teeny-tiny but perfect-perfect-perfect! I look up, up, up and see curved glass walls all around me. I'm inside a snow globe! Boing-boing! A family of rabbits hops past, their noses twitching-twitching-twitching. 'Welcome to our spring celebration!' squeaks Mama Rabbit. But oh no! All the baby bunnies are crying. WAAAH! WAAAH! 'What's wrong?' I ask, kneeling down on the soft spring grass.",
+          "illustration": {
+            "description": "A gouache painting with thick brushstrokes showing a boy with short cropped hair, rich dark brown skin, and bright expressive eyes kneeling on moss inside a snow globe. Around him, rabbit families in warm savanna colors gather near spring flowers. The painting uses textured painterly strokes in golden grass tones with bold confident brushwork. Tiny snow flakes drift down from the curved glass ceiling above.",
+            "alt": "Kofi inside a snow globe with crying baby bunnies in a spring setting",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-954d48dcbb/scene_1_1.png"
+          }
+        },
+        {
+          "text": "'The spring stream dried up!' cries Papa Rabbit. 'We were going to splash and play, but there's no water for our Spring Splash Dance!' I look around the tiny world and spot something glinting behind a pebble. It's a cork! Pop-pop-POP! I pull it out and WHOOOOSH! Crystal-clear water bubbles up, up, up! 'Splash-dance time!' I shout. All the rabbits wiggle their ears and hop in circles. Splish-splash-splish! We dance in the tiny stream, sending droplets sparkling like diamonds against the glass walls. Spring in the snow globe is the splashiest, happiest dance ever!",
+          "illustration": {
+            "description": "A gouache painting with thick brushstrokes showing a boy with short cropped hair, rich dark brown skin, and bright expressive eyes dancing with rabbits around a bubbling stream. The painting uses warm savanna colors and textured painterly strokes in golden grass tones. Water droplets sparkle against the curved glass walls of the snow globe, painted with bold confident strokes and orange sunset hues.",
+            "alt": "Kofi and rabbits dancing around a newly flowing stream in the snow globe",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-954d48dcbb/scene_1_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Chapter 2: Summer Sizzles and Buzzes",
+      "pages": [
+        {
+          "text": "SIZZLE-sizzle-SIZZLE! The sun beats down through the glass, making everything warm-warm-WARM! Butterflies flutter-flutter all around me with wings like tiny rainbows. Buzz-buzz-BUZZ! The bees are making honey in their mini hive, but oh my! I hear crying again. 'Boo-hoo-hoo!' Three little field mice are sobbing under a daisy. 'What's wrong, little mice?' I ask, sitting cross-legged on the warm summer grass. 'Our picnic basket fell in the deep part of the stream!' squeaks the tiniest mouse. 'All our summer berries are floating away!' Sure enough, red berries bob-bob-bob down the tiny stream like little boats.",
+          "illustration": {
+            "description": "A gouache painting with thick brushstrokes showing a boy with short cropped hair, rich dark brown skin, and bright expressive eyes sitting with crying mice under a large daisy. Butterflies with rainbow wings flutter overhead in warm savanna colors. The painting uses textured painterly strokes and golden grass tones with bold confident brushwork, depicting the summer heat through orange sunset hues.",
+            "alt": "Kofi comforting sad mice under a daisy while berries float in a stream",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-954d48dcbb/scene_2_1.png"
+          }
+        },
+        {
+          "text": "Think-think-THINK! I look around and spot some wide lily pads. Perfect! I wade into the cool water - splish-splash - and use the lily pads like tiny boats. Scoop-scoop-SCOOP! I gather all the floating berries. 'Berry rescue mission complete!' I announce, dumping the berries back into the little woven basket. The mice cheer, 'Hip-hip-hooray!' We spread a dandelion leaf like a picnic blanket and munch-munch-munch on the juiciest berries ever. Buzz-buzz! Even the bees come share their honey. Summer in the snow globe tastes like sunshine and sweetness!",
+          "illustration": {
+            "description": "A gouache painting with thick brushstrokes showing a boy with short cropped hair, rich dark brown skin, and bright expressive eyes having a picnic with mice on a dandelion leaf. Bees buzz around sharing honey while lily pads float nearby. The scene is painted in warm savanna colors with textured painterly strokes in golden grass tones, using bold confident brushwork and orange sunset hues.",
+            "alt": "Kofi and mice enjoying a summer picnic on a dandelion leaf with friendly bees",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-954d48dcbb/scene_2_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Chapter 3: Autumn Crunches and Whooshes",
+      "pages": [
+        {
+          "text": "CRUNCH-crunch-CRUNCH! Orange and red leaves fall like confetti all around me. The air smells like apples and woodsmoke. Whoosh-whoosh-WHOOSH! A family of squirrels scampers up and down the tiny oak tree, their bushy tails twitching with worry. 'Oh dear, oh my!' chatters Mama Squirrel. 'The big autumn wind blew away all our acorns! How will we get ready for winter?' I see acorns scattered everywhere - behind mushrooms, under leaves, even stuck on spider webs! 'Don't worry!' I call out, already crawling around on hands and knees. 'I'll help you find every single acorn!'",
+          "illustration": {
+            "description": "A gouache painting with thick brushstrokes showing a boy with short cropped hair, rich dark brown skin, and bright expressive eyes crawling on autumn leaves looking for acorns. Worried squirrels watch from a tiny oak tree as orange and red leaves swirl around. The painting uses warm savanna colors and textured painterly strokes in golden grass tones with bold confident brushwork, capturing the autumn atmosphere with orange sunset hues.",
+            "alt": "Kofi searching for scattered acorns while concerned squirrels watch from their tree",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-954d48dcbb/scene_3_1.png"
+          }
+        },
+        {
+          "text": "Hunt-hunt-HUNT! I search high and low, collecting acorns in my shirt like a pouch. Under this mushroom - got one! Behind that rock - two more! Stuck in a spider web - three tiny ones! 'Found them all!' I announce, dumping dozens of acorns at the base of the oak tree. The squirrels dance and chatter, 'Thank you, thank you!' We pile the acorns in a neat pyramid while leaves drift down like nature's confetti. Swish-swish-SWISH! The autumn wind plays music through the grass, and we all dance the Acorn Wiggle Dance until our bellies hurt from giggling. Autumn in the snow globe crunches with friendship!",
+          "illustration": {
+            "description": "A gouache painting with thick brushstrokes showing a boy with short cropped hair, rich dark brown skin, and bright expressive eyes dancing with happy squirrels around a pyramid of acorns. Autumn leaves swirl around them in warm savanna colors. The painting uses textured painterly strokes in golden grass tones with bold confident brushwork and orange sunset hues, showing the joyful celebration.",
+            "alt": "Kofi and squirrels dancing around a pile of collected acorns in autumn",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-954d48dcbb/scene_3_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Chapter 4: Winter Whispers and Sparkles",
+      "pages": [
+        {
+          "text": "Shiver-shiver-SHIVER! Snowflakes drift down inside the snow globe, making everything sparkle-sparkle-sparkle! The world is quiet-quiet-quiet, covered in the softest white blanket. I can see my breath in tiny puff-clouds! Tippy-toe-tippy-toe, I walk carefully through the snow when I hear the saddest sound ever: 'Achoo! Achoo! ACHOO!' A little hedgehog sits all alone by a frozen puddle, sniffling and sneezing. 'I'm too cold for my winter sleep,' she whispers. 'All my warm leaves blew away, and I can't find any cozy spots!' Poor little hedgehog! Her tiny nose is pink from the cold.",
+          "illustration": {
+            "description": "A gouache painting with thick brushstrokes showing a boy with short cropped hair, rich dark brown skin, and bright expressive eyes approaching a shivering hedgehog by a frozen puddle. Snow falls gently inside the globe while everything sparkles with frost. The scene is painted in warm savanna colors despite the winter setting, using textured painterly strokes in golden grass tones with bold confident brushwork and touches of orange sunset hues.",
+            "alt": "Kofi finding a cold, sneezing hedgehog in the snowy globe world",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-954d48dcbb/scene_4_1.png"
+          }
+        },
+        {
+          "text": "Think-think-THINK! I remember all my new friends from the other seasons. 'Don't worry, little hedgehog! I know just what to do!' I gather soft rabbit fur that the bunnies shed, downy feathers that the birds dropped, and the fluffiest moss from the stream. Pat-pat-PAT! I make the coziest bed ever under a mushroom. 'Your winter bedroom is ready!' The hedgehog curls up in a perfect little ball and sighs, 'Ahhhh, so warm and snuggly!' All my animal friends come to whisper, 'Sweet dreams!' as tiny snowflakes dance around us. Winter in the snow globe sparkles with kindness, and I feel warm inside even though everything is cold-cold-cold outside!",
+          "illustration": {
+            "description": "A gouache painting with thick brushstrokes showing a boy with short cropped hair, rich dark brown skin, and bright expressive eyes tucking a hedgehog into a cozy bed made of fur and feathers under a mushroom. Various animals gather around whispering goodnight while snowflakes sparkle. The painting uses warm savanna colors and textured painterly strokes in golden grass tones with bold confident brushwork, creating a cozy winter scene with orange sunset hues.",
+            "alt": "Kofi and forest animals watching a hedgehog settle into a cozy winter bed",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-954d48dcbb/scene_4_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Chapter 5: Home Calls and Hearts Know",
+      "pages": [
+        {
+          "text": "Swoosh-swoosh-SWOOSH! The snow globe world starts to spin again, and I know it's time to go. All my tiny friends gather around - the splashy rabbits, the buzzing bees, the chattery squirrels, and even the sleepy hedgehog pokes her nose out to wave goodbye! 'Thank you for helping us through all our seasons!' they chorus together. My heart feels bubbly-warm with all the love. 'I'll never forget you!' I call as everything swirls faster and faster. WHOOSH! I tumble up, up, up through the sparkly snow and land back in my regular-sized world with a gentle bump.",
+          "illustration": {
+            "description": "A gouache painting with thick brushstrokes showing a boy with short cropped hair, rich dark brown skin, and bright expressive eyes surrounded by all the forest animals waving goodbye as the snow globe world swirls around them. The painting uses warm savanna colors and textured painterly strokes in golden grass tones, with bold confident brushwork and orange sunset hues creating a magical farewell scene.",
+            "alt": "All the animal friends waving goodbye to Kofi as the snow globe world swirls",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-954d48dcbb/scene_5_1.png"
+          }
+        },
+        {
+          "text": "I blink-blink-blink and I'm sitting on my bedroom floor, holding the snow globe in my hands. Inside, I can see my tiny friends living their lives - the rabbits splashing, the mice picnicking, the squirrels gathering, the hedgehog sleeping cozy-cozy-cozy. My tablet sits forgotten on the bed, its screen dark and quiet. Who needs games when real friends need help? I give the snow globe a gentle shake and whisper, 'See you next season!' The snowflakes swirl and dance, and I'm sure - absolutely sure - I can hear tiny voices calling back, 'We'll be waiting!' Outside my window, real snow begins to fall, and I know the most wonderful adventures happen when we open our hearts to help others.",
+          "illustration": {
+            "description": "A gouache painting with thick brushstrokes showing a boy with short cropped hair, rich dark brown skin, and bright expressive eyes sitting on a bedroom floor, holding a snow globe with tiny animals visible inside. A tablet lies forgotten on the bed while real snow falls outside the window. The painting uses warm savanna colors and textured painterly strokes in golden grass tones with bold confident brushwork and orange sunset hues streaming through the window.",
+            "alt": "Kofi back in his room, holding the snow globe while real snow falls outside",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-954d48dcbb/scene_5_2.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "helping others",
+      "friendship",
+      "seasonal changes",
+      "digital wellness"
+    ],
+    "vocabulary": [
+      "sparkle",
+      "swirl",
+      "chatter",
+      "cozy",
+      "celebration"
+    ],
+    "морals": [
+      "Acts of kindness create lasting friendships",
+      "Real connections are more valuable than screen time"
+    ],
+    "coverPrompt": {
+      "description": "A gouache painting showing a large snow globe with thick brushstrokes and warm savanna colors. Inside the globe, a boy with short cropped hair, rich dark brown skin, and bright expressive eyes peers through swirling snow at tiny animals gathered around a miniature tree. The painting has textured painterly strokes in golden grass tones and orange sunset hues, with bold confident brushwork.",
+      "alt": "A magical snow globe containing a miniature world with a young boy and forest animals"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What happens to Kofi at the beginning of the story?",
+        "choices": [
+          "He falls into a snow globe world",
+          "He finds a magic wand",
+          "He meets a talking cat"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kofi tumbles through sparkly snowflakes into the tiny world inside a snow globe."
+      },
+      {
+        "id": "q2",
+        "question": "In spring, how does Kofi help the rabbit family?",
+        "choices": [
+          "He builds them a house",
+          "He finds water for their stream",
+          "He gives them carrots"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kofi finds a cork and pulls it out, making crystal-clear water bubble up for the rabbits' Spring Splash Dance."
+      },
+      {
+        "id": "q3",
+        "question": "What problem do the mice have in summer?",
+        "choices": [
+          "Their berries fell in the stream",
+          "Their house is too hot",
+          "They lost their cheese"
+        ],
+        "correctIndex": 0,
+        "explanation": "The mice's picnic basket fell in the stream and all their summer berries were floating away."
+      },
+      {
+        "id": "q4",
+        "question": "What does Kofi help the squirrels collect in autumn?",
+        "choices": [
+          "Colorful leaves",
+          "Acorns for winter",
+          "Pretty flowers"
+        ],
+        "correctIndex": 1,
+        "explanation": "Kofi helps the squirrels find all their acorns that the autumn wind had scattered everywhere."
+      },
+      {
+        "id": "q5",
+        "question": "How does Kofi help the hedgehog in winter?",
+        "choices": [
+          "He makes her a warm, cozy bed",
+          "He gives her a scarf",
+          "He builds her a fire"
+        ],
+        "correctIndex": 0,
+        "explanation": "Kofi makes the hedgehog a cozy bed using soft rabbit fur, feathers, and fluffy moss under a mushroom."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "spins",
+            "distractors": [
+              "jumps",
+              "flies"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "tiny",
+            "distractors": [
+              "huge",
+              "loud"
+            ]
+          },
+          {
+            "wordIndex": 22,
+            "correctWord": "rabbits",
+            "distractors": [
+              "cats",
+              "dogs"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "warm",
+            "distractors": [
+              "cold",
+              "wet"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "berries",
+            "distractors": [
+              "apples",
+              "cookies"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "kofi"
+}
