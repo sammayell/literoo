@@ -13,7 +13,7 @@
   "wordCount": 536,
   "readingLevel": "K-1",
   "synopsis": "Marina the mermaid follows a treasure map to find an ancient shell, but discovers the map leads her to an unexpected snowy mountain cabin instead of underwater caves. Through scientific observation and careful investigation, she must figure out why the map is wrong and find her way to the real treasure.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-b190f98e61/cover.png",
   "chapters": [
     {
       "title": "The Map Says Here",
@@ -24,7 +24,7 @@
             "description": "A young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes sits on a braided rug in a mountain cabin, studying an old treasure map by firelight. The cabin glows warmly with a crackling fire, snow visible through windows. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "Marina examining her treasure map by the fireplace",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-b190f98e61/scene_1_1.png"
           }
         }
       ]
@@ -38,7 +38,7 @@
             "description": "A young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes talks to a family of small mice near a wood pile in the cabin. The mice look very serious as she interviews them. Firelight flickers in the background. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "Marina interviewing the mouse family about treasure",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-b190f98e61/scene_2_1.png"
           }
         }
       ]
@@ -52,7 +52,7 @@
             "description": "A young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes examines fossilized seashells and coral patterns in the fireplace stones, making notes in a notebook. The stones glow with ancient sea life patterns in the firelight. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "Marina discovering fossils in the fireplace stones",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-b190f98e61/scene_3_1.png"
           }
         }
       ]
@@ -66,7 +66,7 @@
             "description": "A young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes holds an ancient map up to firelight, revealing a fossilized golden conch shell embedded in the stone fireplace. The shell glows beautifully in the warm light. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "Marina discovering the fossilized conch shell in the fireplace",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-b190f98e61/scene_4_1.png"
           }
         }
       ]
@@ -80,7 +80,7 @@
             "description": "A young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes sits peacefully by the fireplace with her hand on the fossilized conch shell, while mice wave goodbye from their nest. Snow falls outside and the fire glows warmly. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "Marina listening to the wisdom of the ancient shell as she prepares to leave",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-b190f98e61/scene_5_1.png"
           }
         }
       ]
