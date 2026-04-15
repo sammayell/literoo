@@ -25,6 +25,9 @@
             "alt": "Dragons entering a planetarium lobby",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-8a359e3e7c/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-8a359e3e7c/ch1_p1.mp3"
           }
         }
       ]
@@ -39,6 +42,9 @@
             "alt": "Dragons watching stars with a glowing door visible",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-8a359e3e7c/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-8a359e3e7c/ch2_p1.mp3"
           }
         }
       ]
@@ -53,6 +59,9 @@
             "alt": "Dragon climbing stairs to an observatory with a crying astronomer",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-8a359e3e7c/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-8a359e3e7c/ch3_p1.mp3"
           }
         }
       ]
@@ -67,6 +76,9 @@
             "alt": "Dragon and astronomer examining a broken telescope together",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-8a359e3e7c/scene_4_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-8a359e3e7c/ch4_p1.mp3"
           }
         }
       ]
@@ -81,6 +93,9 @@
             "alt": "Dragon helping to fix telescope with astronomer as visitors approach",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-8a359e3e7c/scene_5_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-8a359e3e7c/ch5_p1.mp3"
           }
         }
       ]
@@ -215,5 +230,7 @@
       }
     ]
   },
-  "_spec_character_name": "ember"
+  "_spec_character_name": "ember",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
