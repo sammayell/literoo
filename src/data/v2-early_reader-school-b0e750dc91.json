@@ -1,0 +1,282 @@
+{
+  "id": "v2-early_reader-school-b0e750dc91",
+  "title": "When the Bell Won't Ring",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "school",
+    "humor"
+  ],
+  "wordCount": 676,
+  "readingLevel": "Grade 1-2",
+  "synopsis": "When the school bell breaks on the most important day of the year, Lily and her unlikely friend Marcus must find a creative solution before the winter concert begins.",
+  "coverImage": "",
+  "chapters": [
+    {
+      "title": "The Silent Bell",
+      "pages": [
+        {
+          "text": "The rope dangled loose and useless and Lily's heart hammered against her ribs because this couldn't be happening not today not on concert day when everyone's families would be coming and the bell was supposed to ring to start everything and now it just hung there like a giant metal doorstop doing absolutely nothing at all.",
+          "illustration": {
+            "description": "A girl with long curly auburn hair, fair skin with light freckles, and green eyes stares up at a large bell with a broken rope hanging down. The scene is drawn in chalkboard style with white and colored chalk on a dark green board, showing the inside of a snow-covered mountain cabin with a crackling fireplace visible in the background. Musical notes and school equations are doodled around the edges.",
+            "alt": "Lily looking at the broken bell rope inside the cabin",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-b0e750dc91/scene_1_1.png"
+          }
+        },
+        {
+          "text": "She pulled the rope again harder this time and it came away in her hands completely which made her stomach flip because now she was holding the evidence that she had somehow made everything worse even though she was just trying to help Mrs. Henderson who was probably wondering where the opening bell was right about now.",
+          "illustration": {
+            "description": "A girl with long curly auburn hair, fair skin with light freckles, and green eyes holds a broken rope in both hands, looking worried. The scene is drawn in chalkboard style with white and colored chalk on a dark green board, showing the cozy interior of a snowbound mountain cabin with wooden beams and a warm fire crackling nearby. School-themed doodles and math equations decorate the borders.",
+            "alt": "Lily holding the broken rope with a worried expression",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-b0e750dc91/scene_1_2.png"
+          }
+        },
+        {
+          "text": "The snow outside the cabin windows was getting thicker by the minute and she could hear the families arriving their boots crunching through the drifts their voices carrying on the cold air talking about how excited they were for the concert that couldn't start without the bell that couldn't ring without the rope that was now in pieces in her mittened hands.",
+          "illustration": {
+            "description": "A girl with long curly auburn hair, fair skin with light freckles, and green eyes peers through a frost-covered window at families walking through deep snow toward the cabin. The scene is drawn in chalkboard style with white and colored chalk on a dark green board, showing the warm glow of the fireplace reflecting on her face while snow swirls outside. Musical notes and school doodles frame the window.",
+            "alt": "Lily watching families arrive through the snowy window",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-b0e750dc91/scene_1_3.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "An Unexpected Helper",
+      "pages": [
+        {
+          "text": "But let's go back to this morning when none of this had happened yet when Lily was just excited about the concert and Marcus was sitting in the corner by himself again even though she'd been thinking maybe today would be different maybe today he'd want to sit with someone.",
+          "illustration": {
+            "description": "A girl with long curly auburn hair, fair skin with light freckles, and green eyes sits at a wooden table in the warm cabin while a boy sits alone in the corner. The scene is drawn in chalkboard style with white and colored chalk on a dark green board, showing morning light streaming through windows and a fire crackling peacefully. School supplies and equations are sketched around the room.",
+            "alt": "Lily at breakfast while Marcus sits alone in the cabin",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-b0e750dc91/scene_2_1.png"
+          }
+        },
+        {
+          "text": "Marcus was new and quiet and he always brought strange things in his backpack like springs and gears and tiny screwdrivers that most kids didn't even know existed and when anyone asked about them he just shrugged and looked away which made Lily's chest feel tight because being new was hard enough without being alone too.",
+          "illustration": {
+            "description": "A girl with long curly auburn hair, fair skin with light freckles, and green eyes watches as a boy shows mechanical parts spread on a table. The scene is drawn in chalkboard style with white and colored chalk on a dark green board, showing the cozy cabin interior with gears, springs, and small tools scattered about. Mathematical equations and school doodles fill the background.",
+            "alt": "Marcus showing his collection of mechanical parts while Lily observes",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-b0e750dc91/scene_2_2.png"
+          }
+        },
+        {
+          "text": "So when Mrs. Henderson announced that the concert bell needed testing and asked for a volunteer Lily's hand shot up like a rocket because helping was something she was good at and maybe if she rang the bell really beautifully Marcus would look up from his gadgets and smile just once.",
+          "illustration": {
+            "description": "A girl with long curly auburn hair, fair skin with light freckles, and green eyes raises her hand enthusiastically while sitting in the warm cabin classroom. The scene is drawn in chalkboard style with white and colored chalk on a dark green board, showing other students and Mrs. Henderson near the fireplace with snow visible through windows. School-themed drawings and equations cover the walls.",
+            "alt": "Lily eagerly raising her hand to volunteer",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-b0e750dc91/scene_2_3.png"
+          }
+        },
+        {
+          "text": "Which brings us back to now to the broken rope and the silent bell and Marcus suddenly appearing beside her saying \"I heard the thud\" and \"Let me see that\" and taking the rope pieces without waiting for permission because apparently when something mechanical breaks Marcus transforms from invisible-quiet-boy into fix-it-superhero.",
+          "illustration": {
+            "description": "A girl with long curly auburn hair, fair skin with light freckles, and green eyes stands next to a boy examining broken rope pieces. The scene is drawn in chalkboard style with white and colored chalk on a dark green board, showing them together under the large bell in the snowbound cabin with firelight dancing on their faces. Mechanical diagrams and school equations are sketched in the corners.",
+            "alt": "Marcus examining the broken rope while Lily watches hopefully",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-b0e750dc91/scene_2_4.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Bell Rings Again",
+      "pages": [
+        {
+          "text": "Marcus studied the rope like it was a puzzle and muttered things like \"tension point\" and \"load distribution\" which sounded very impressive even though Lily had no idea what any of it meant but she watched his hands work fast and sure as he pulled tools from his pocket that she'd never seen before.",
+          "illustration": {
+            "description": "A girl with long curly auburn hair, fair skin with light freckles, and green eyes watches intently as a boy works with small tools on rope pieces. The scene is drawn in chalkboard style with white and colored chalk on a dark green board, showing the warm cabin interior with detailed close-ups of mechanical work by the crackling fireplace. Engineering diagrams and school math problems are doodled around them.",
+            "alt": "Lily watching Marcus work on repairing the rope with his tools",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-b0e750dc91/scene_3_1.png"
+          }
+        },
+        {
+          "text": "\"I need something strong to reinforce this\" he said and Lily looked around frantically because the families were getting louder outside and Mrs. Henderson would be looking for them soon and then she remembered her friendship bracelet the one with the really tough cord that her grandmother made.",
+          "illustration": {
+            "description": "A girl with long curly auburn hair, fair skin with light freckles, and green eyes looks at a colorful bracelet on her wrist while a boy waits with tools ready. The scene is drawn in chalkboard style with white and colored chalk on a dark green board, showing the cozy snowbound cabin with the fire casting warm light and snow still falling outside the windows. Craft patterns and school doodles surround them.",
+            "alt": "Lily considering her special friendship bracelet as Marcus waits",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-b0e750dc91/scene_3_2.png"
+          }
+        },
+        {
+          "text": "She unwound it without even thinking twice because some things were more important than keeping special things safe and Marcus's eyes went wide when he saw the strong cord and he said \"Perfect\" like she'd just handed him exactly what he'd been hoping for all along.",
+          "illustration": {
+            "description": "A girl with long curly auburn hair, fair skin with light freckles, and green eyes hands colorful cord to a boy who looks amazed and grateful. The scene is drawn in chalkboard style with white and colored chalk on a dark green board, showing them working together in the warm cabin with the fireplace glowing behind them and snow swirling outside. Friendship symbols and math equations decorate the background.",
+            "alt": "Lily giving her bracelet cord to Marcus who looks impressed",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-b0e750dc91/scene_3_3.png"
+          }
+        },
+        {
+          "text": "His hands moved like magic weaving and knotting and reinforcing until the rope was whole again stronger than before and when he handed her the fixed rope he was actually smiling the first real smile she'd seen from him since he arrived at their mountain school three weeks ago.",
+          "illustration": {
+            "description": "A girl with long curly auburn hair, fair skin with light freckles, and green eyes receives the repaired rope from a smiling boy. The scene is drawn in chalkboard style with white and colored chalk on a dark green board, showing both children grinning in the warm snowbound cabin with the fire crackling merrily and the fixed rope ready to use. Celebration doodles and school drawings fill the borders.",
+            "alt": "Marcus smiling as he hands the fixed rope back to Lily",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-b0e750dc91/scene_3_4.png"
+          }
+        },
+        {
+          "text": "She pulled the rope and the bell sang out clear and bright across the snow-covered mountain and through the cabin walls and suddenly she could hear families cheering and footsteps hurrying and Mrs. Henderson calling \"Thank goodness the bell works perfectly!\"",
+          "illustration": {
+            "description": "A girl with long curly auburn hair, fair skin with light freckles, and green eyes pulls the rope as a large bell rings overhead, with a boy standing proudly beside her. The scene is drawn in chalkboard style with white and colored chalk on a dark green board, showing the bell in motion with sound waves radiating out through the snowy mountain cabin setting. Musical notes and celebratory school drawings surround the triumphant moment.",
+            "alt": "Lily and Marcus celebrating as the repaired bell rings loudly",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-b0e750dc91/scene_3_5.png"
+          }
+        },
+        {
+          "text": "And when Marcus said \"We should probably get back before they start without us\" using the word \"we\" like they were a team now like maybe being the quiet kid with the fix-it tools and being the helpful kid who shared her special things made them exactly the right kind of different to be friends.",
+          "illustration": {
+            "description": "A girl with long curly auburn hair, fair skin with light freckles, and green eyes walks alongside a boy toward a group of families gathered in the snowbound mountain cabin. The scene is drawn in chalkboard style with white and colored chalk on a dark green board, showing them heading toward the warm firelit concert area together while snow continues to fall outside the windows. Friendship and music symbols are sketched around the happy scene.",
+            "alt": "Lily and Marcus walking together toward the concert gathering",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-b0e750dc91/scene_3_6.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "problem-solving",
+      "helping others",
+      "acceptance"
+    ],
+    "vocabulary": [
+      "tension",
+      "distribution",
+      "reinforce",
+      "mechanical",
+      "volunteer"
+    ],
+    "lifeSkills": [
+      "teamwork",
+      "resourcefulness",
+      "kindness",
+      "inclusion"
+    ],
+    "coverPrompt": {
+      "description": "A girl with long curly auburn hair, fair skin with light freckles, and green eyes stands next to a large silent school bell covered in snow. The scene is drawn in chalkboard style with white and colored chalk on a dark green board, showing snowflakes falling and a warm glow from cabin windows in the background. School-themed doodles and equations frame the edges.",
+      "alt": "Lily looking up at a broken school bell in the snow"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What was broken at the beginning of the story?",
+        "choices": [
+          "The school bell's rope",
+          "Marcus's backpack",
+          "Lily's friendship bracelet"
+        ],
+        "correctIndex": 0,
+        "explanation": "The rope that rang the school bell broke, and it couldn't ring to start the concert."
+      },
+      {
+        "id": "q2",
+        "question": "What did Marcus always carry in his backpack?",
+        "choices": [
+          "Books and pencils",
+          "Springs, gears, and tiny screwdrivers",
+          "Snacks and games"
+        ],
+        "correctIndex": 1,
+        "explanation": "Marcus carried mechanical tools and parts that helped him fix things."
+      },
+      {
+        "id": "q3",
+        "question": "What did Lily give Marcus to help fix the bell?",
+        "choices": [
+          "Her lunch money",
+          "Her friendship bracelet cord",
+          "Her winter mittens"
+        ],
+        "correctIndex": 1,
+        "explanation": "Lily unwound her special friendship bracelet to give Marcus the strong cord he needed."
+      },
+      {
+        "id": "q4",
+        "question": "Why was it important for the bell to work?",
+        "choices": [
+          "To start the winter concert",
+          "To call everyone for lunch",
+          "To end the school day"
+        ],
+        "correctIndex": 0,
+        "explanation": "The families were waiting for the bell to ring to start the winter concert."
+      },
+      {
+        "id": "q5",
+        "question": "How did Lily and Marcus work together?",
+        "choices": [
+          "They took turns trying to fix it alone",
+          "Lily provided materials while Marcus used his repair skills",
+          "They asked a teacher for help"
+        ],
+        "correctIndex": 1,
+        "explanation": "They combined their different strengths - Lily's willingness to share and Marcus's mechanical skills."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "heart",
+            "distractors": [
+              "head",
+              "hand"
+            ]
+          },
+          {
+            "wordIndex": 25,
+            "correctWord": "bell",
+            "distractors": [
+              "rope",
+              "door"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 8,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "smile",
+            "distractors": [
+              "wave",
+              "nod"
+            ]
+          },
+          {
+            "wordIndex": 28,
+            "correctWord": "friends",
+            "distractors": [
+              "helpers",
+              "students"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "lily"
+}
