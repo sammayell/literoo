@@ -13,7 +13,7 @@
   "wordCount": 760,
   "readingLevel": "Grade 1-2",
   "synopsis": "Oscar explores an ice cavern where someone keeps leaving helpful items in his path. As he returns again and again, he notices new clues that lead him to discover his mysterious helper.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-1528c67a06/cover.png",
   "chapters": [
     {
       "title": "The First Time",
@@ -24,7 +24,7 @@
             "description": "Oscar, a boy with short brown wavy hair, fair skin, and warm hazel eyes, wraps a scarf around himself in an ice cavern. Pale blue light streams from above, illuminating crystalline walls. Bright sunny playground art style with primary colors, white space, joyful energetic atmosphere, inclusive playground elements like colorful climbing holds embedded in the ice.",
             "alt": "Oscar putting on a mysteriously placed scarf in the glowing ice cavern",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-1528c67a06/scene_1_1.png"
           }
         },
         {
@@ -56,7 +56,7 @@
             "description": "Oscar, a boy with short brown wavy hair, fair skin, and warm hazel eyes, sits across from Maya near a magical fire that doesn't melt the surrounding ice. Pale blue light mixes with warm fire glow. Maya has kind eyes and is poking the fire with a stick. Bright sunny playground art style with primary colors, white space, joyful energetic feeling, inclusive diverse kids playing atmosphere with playground swings visible in the ice formations.",
             "alt": "Oscar meeting Maya by an impossible fire in the ice cavern",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-1528c67a06/scene_2_2.png"
           }
         }
       ]
@@ -70,7 +70,7 @@
             "description": "Oscar, a boy with short brown wavy hair, fair skin, and warm hazel eyes, and Maya peer through round holes in the ice walls, looking into chambers filled with abandoned items. Pale blue light illuminates the scene. Bright sunny playground art style with primary colors, white space, joyful energetic atmosphere, inclusive diverse kids playing, friendship activities visible through the window-holes like playground equipment.",
             "alt": "Oscar and Maya exploring the network of chambers through ice windows",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-1528c67a06/scene_3_1.png"
           }
         },
         {
@@ -79,7 +79,7 @@
             "description": "Oscar, a boy with short brown wavy hair, fair skin, and warm hazel eyes, and Maya create rainbow patterns with a mirror, reflecting sunlight through the ceiling crack. Oscar's tablet sits screen-down on a ledge while they watch dancing colors on ice walls. Pale blue light mixes with rainbow reflections. Bright sunny playground art style with primary colors, white space, joyful energetic feeling, inclusive friendship activities, diverse kids playing atmosphere with slides and swings formed by ice and light.",
             "alt": "Oscar and Maya creating magical rainbow patterns while Oscar's tablet sits forgotten",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-1528c67a06/scene_3_2.png"
           }
         }
       ]
