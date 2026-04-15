@@ -13,7 +13,7 @@
   "wordCount": 701,
   "readingLevel": "Grade 1-2",
   "synopsis": "In the old corn maze at dusk, voices call from every direction seeking the lost way home. When the ancient compass that guides all wanderers stops spinning, a clever young fox named Juniper must discover why its magic has failed. Told by the compass itself, this folkloric tale follows one extraordinary evening as new friendships form in the rustling pathways.",
-  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-49f9559cee/cover.png",
+  "coverImage": "",
   "chapters": [
     {
       "title": "Six O'Clock: When the Needle Stopped",
@@ -24,7 +24,7 @@
             "description": "A young red fox with vivid orange fur, a white chest and tail-tip, large alert amber eyes, and perky black-tipped ears crouches next to a brass compass on the ground. The compass sits motionless in a clearing surrounded by tall corn stalks. Purple twilight filters through the maze as the scientific wonder art style shows the compass with a mysteriously still needle.",
             "alt": "Juniper discovering the broken compass in the corn maze at dusk",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-49f9559cee/scene_1_1.png"
+            "src": ""
           }
         }
       ]
@@ -38,7 +38,7 @@
             "description": "A young red fox with vivid orange fur, a white chest and tail-tip, large alert amber eyes, and perky black-tipped ears sits in a circle with a badger, two rabbits, and an owl in a corn maze clearing. The scientific wonder art style shows them gathered around the brass compass, with corn stalks forming walls around them in the purple twilight.",
             "alt": "The lost animals gathering around Juniper and the compass",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-49f9559cee/scene_2_1.png"
+            "src": ""
           }
         }
       ]
@@ -52,7 +52,7 @@
             "description": "A young red fox with vivid orange fur, a white chest and tail-tip, large alert amber eyes, and perky black-tipped ears holds up the brass compass which now glows with inner light. The needle points toward a distant part of the maze where a faint crying sound comes from. The other animals look on with wonder in the scientific wonder art style, eureka moment captured in their expressions.",
             "alt": "The compass beginning to work again as Juniper discovers its true purpose",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-49f9559cee/scene_3_1.png"
+            "src": ""
           }
         }
       ]
@@ -66,7 +66,7 @@
             "description": "A young red fox with vivid orange fur, a white chest and tail-tip, large alert amber eyes, and perky black-tipped ears leads a procession of animals through the corn maze. A tiny hedgehog rides on the badger's back while rabbits hop ahead and an owl flies overhead. The compass glows brightly in the scientific wonder art style, its needle pointing forward through the maze paths.",
             "alt": "The growing group of animals helping each other through the maze",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-49f9559cee/scene_4_1.png"
+            "src": ""
           }
         }
       ]
@@ -80,7 +80,7 @@
             "description": "A young red fox with vivid orange fur, a white chest and tail-tip, large alert amber eyes, and perky black-tipped ears sits surrounded by all the animals they've rescued in the moonlit corn maze clearing. The brass compass glows warmly in the center as its needle spins freely, pointing in all directions. The scientific wonder art style shows the magical moment of community and belonging under the full moon.",
             "alt": "All the rescued animals gathered together in the moonlit clearing around the working compass",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-49f9559cee/scene_5_1.png"
+            "src": ""
           }
         }
       ]

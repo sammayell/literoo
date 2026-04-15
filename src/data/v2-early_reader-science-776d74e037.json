@@ -1,0 +1,256 @@
+{
+  "id": "v2-early_reader-science-776d74e037",
+  "title": "Messages in the Stars",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "science",
+    "humor"
+  ],
+  "wordCount": 561,
+  "readingLevel": "Grade 1-2",
+  "synopsis": "A friendly quokka discovers a mysterious visitor in his grandmother's house and must find creative ways to communicate across language barriers using science, drawings, and heart.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-776d74e037/cover.png",
+  "chapters": [
+    {
+      "title": "The Kitchen Discovery",
+      "pages": [
+        {
+          "text": "Steam curled up from the teapot like question marks and Quokka's nose twitched at the cinnamon smell that always lived in Grandmother's kitchen but wait what was that sound coming from behind the old recipe books? Tap tap tap like tiny fingers drumming on glass and Quokka's round ears perked up because Grandmother was napping upstairs and nobody else should be here should they?",
+          "illustration": {
+            "description": "A round smiling quokka with soft sandy-brown fur, small round ears, pink paws, and a permanent cheerful grin peers curiously around a steamy kitchen filled with old books and recipe cards, cinnamon sticks scattered on wooden counters",
+            "alt": "Quokka investigating mysterious sounds in grandmother's cinnamon-scented kitchen",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-776d74e037/scene_1_1.png"
+          }
+        },
+        {
+          "text": "Behind the cookbook about Moon Pies and Magic sat the strangest little creature Quokka had ever seen all silver and shimmery with eyes like tiny stars and it was tapping tapping tapping on a glass jar full of buttons! The creature looked up and made sounds like wind chimes mixed with cricket songs but Quokka couldn't understand a single note and oh dear oh my what do you do when someone is trying to talk but the words don't match?",
+          "illustration": {
+            "description": "A round smiling quokka with soft sandy-brown fur, small round ears, pink paws, and a permanent cheerful grin stares in wonder at a small silvery star-like creature tapping on a glass button jar, with old cookbooks towering around them",
+            "alt": "Quokka meeting a mysterious silvery creature among the cookbooks",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-776d74e037/scene_1_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Living Room Laboratory",
+      "pages": [
+        {
+          "text": "Quokka led the star-creature to Grandmother's living room where dust motes danced in sunbeams like tiny experiments and maybe maybe maybe they could figure this out together somehow! The creature pointed at the light coming through the window and made those tinkling sounds again and Quokka got an idea that buzzed in his head like electricity because light meant something didn't it?",
+          "illustration": {
+            "description": "A round smiling quokka with soft sandy-brown fur, small round ears, pink paws, and a permanent cheerful grin walks alongside a silvery creature through a cozy living room with dancing dust motes and golden sunbeams streaming through lace curtains",
+            "alt": "Quokka and the star-creature in the sunlit living room",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-776d74e037/scene_2_1.png"
+          }
+        },
+        {
+          "text": "Quokka grabbed Grandmother's old magnifying glass and held it up to catch the sunlight and OH WOW the light bent and scattered into rainbow colors across the wall! The star-creature clapped its tiny hands and pointed excitedly and made happy chiming sounds and then it touched the wall where the rainbow lived and suddenly tiny sparkles appeared spelling out shapes that looked almost like letters but not quite!",
+          "illustration": {
+            "description": "A round smiling quokka with soft sandy-brown fur, small round ears, pink paws, and a permanent cheerful grin holds a magnifying glass creating rainbow light patterns while the silvery creature makes sparkly symbols appear on the wall",
+            "alt": "Quokka creating rainbows with magnifying glass while creature makes light symbols",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Study of Symbols",
+      "pages": [
+        {
+          "text": "Up the creaky stairs they went past photographs of Grandmother's adventures to her study that smelled like old books and forgotten stories and here were maps everywhere maps of the world and maps of the sky and the star-creature got so excited it started glowing! It pointed at the star maps and then at itself and made those musical sounds again and Quokka understood oh yes oh yes you're from up there aren't you?",
+          "illustration": {
+            "description": "A round smiling quokka with soft sandy-brown fur, small round ears, pink paws, and a permanent cheerful grin stands in a book-filled study surrounded by star maps while the glowing silvery creature points excitedly at constellation charts",
+            "alt": "Quokka and glowing star-creature examining star maps in grandmother's study",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-776d74e037/scene_3_1.png"
+          }
+        },
+        {
+          "text": "Quokka found paper and crayons and drew a picture of himself waving hello and the star-creature clapped and drew itself flying between stars and then drew both of them together sharing a cup of tea! Even without words they were having the most wonderful conversation with pictures and pointing and sounds that didn't need to mean the same thing to mean something important and friendship was starting to bloom like flowers made of starlight!",
+          "illustration": {
+            "description": "A round smiling quokka with soft sandy-brown fur, small round ears, pink paws, and a permanent cheerful grin draws pictures on paper while the silvery creature creates glowing drawings in the air, both surrounded by art supplies and star charts",
+            "alt": "Quokka and star-creature communicating through drawings and light pictures",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-776d74e037/scene_3_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Garden Goodbye",
+      "pages": [
+        {
+          "text": "Out in Grandmother's garden where herbs grew in neat rows and the telescope pointed at the evening sky the star-creature looked up longingly and Quokka's heart squeezed because he knew what that look meant even without understanding the language! It was time to go home but not before they shared one more discovery together under the first twinkling stars of night!",
+          "illustration": {
+            "description": "A round smiling quokka with soft sandy-brown fur, small round ears, pink paws, and a permanent cheerful grin sits beside the silvery creature in a fragrant herb garden with a telescope pointing skyward as twilight stars begin to appear",
+            "alt": "Quokka and star-creature in the twilight garden with telescope",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "The star-creature touched Quokka's paw and suddenly the air filled with the most beautiful light show tiny stars dancing around them both and spelling out a message that needed no translation because it felt like thank you and I'm glad we met and maybe we'll see each other again! And as the creature rose up toward the real stars Quokka waved and waved knowing that friendship doesn't need the same words to be real and true and wonderful!",
+          "illustration": {
+            "description": "A round smiling quokka with soft sandy-brown fur, small round ears, pink paws, and a permanent cheerful grin waves goodbye as the silvery star-creature ascends toward the night sky in a swirl of magical light and tiny dancing stars",
+            "alt": "Quokka waving goodbye to star-creature ascending to the night sky",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-776d74e037/scene_4_2.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship across differences",
+      "communication without words",
+      "scientific discovery",
+      "wonder and curiosity"
+    ],
+    "educational": [
+      "light and color",
+      "non-verbal communication",
+      "astronomy",
+      "scientific observation"
+    ],
+    "publisher": "Wonder Books",
+    "publicationDate": "2024",
+    "coverPrompt": {
+      "description": "A round smiling quokka with soft sandy-brown fur, small round ears, pink paws, and a permanent cheerful grin stands in a cozy kitchen filled with cinnamon steam and scattered papers covered in drawings and symbols, while mysterious lights twinkle through the window",
+      "alt": "Quokka in grandmother's kitchen with mysterious symbols and twinkling lights"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where did Quokka first find the star-creature?",
+        "choices": [
+          "Behind the cookbooks",
+          "In the garden",
+          "Under the telescope"
+        ],
+        "correctIndex": 0,
+        "explanation": "The star-creature was hiding behind Grandmother's cookbook about Moon Pies and Magic, tapping on a jar of buttons."
+      },
+      {
+        "id": "q2",
+        "question": "How did Quokka make rainbow colors appear?",
+        "choices": [
+          "With crayons",
+          "With a magnifying glass",
+          "With a flashlight"
+        ],
+        "correctIndex": 1,
+        "explanation": "Quokka used Grandmother's magnifying glass to bend sunlight into beautiful rainbow colors on the wall."
+      },
+      {
+        "id": "q3",
+        "question": "What did the star-creature point at in the study?",
+        "choices": [
+          "Star maps",
+          "Old books",
+          "Family photos"
+        ],
+        "correctIndex": 0,
+        "explanation": "The star-creature got excited when it saw the star maps and pointed at them to show where it came from."
+      },
+      {
+        "id": "q4",
+        "question": "How did Quokka and the star-creature communicate?",
+        "choices": [
+          "They spoke the same language",
+          "They used pictures and pointing",
+          "They wrote letters"
+        ],
+        "correctIndex": 1,
+        "explanation": "Even though they didn't speak the same language, they communicated through drawings, pointing, and gestures."
+      },
+      {
+        "id": "q5",
+        "question": "Where did the star-creature go at the end?",
+        "choices": [
+          "Back to the kitchen",
+          "Up to the stars",
+          "Into the house"
+        ],
+        "correctIndex": 1,
+        "explanation": "The star-creature returned to its home among the stars, rising up into the night sky with beautiful lights."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "tapping",
+            "distractors": [
+              "jumping",
+              "singing"
+            ]
+          },
+          {
+            "wordIndex": 23,
+            "correctWord": "buttons",
+            "distractors": [
+              "cookies",
+              "flowers"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "rainbow",
+            "distractors": [
+              "shadow",
+              "picture"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "sparkles",
+            "distractors": [
+              "bubbles",
+              "leaves"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 5,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "maps",
+            "distractors": [
+              "toys",
+              "cats"
+            ]
+          },
+          {
+            "wordIndex": 25,
+            "correctWord": "glowing",
+            "distractors": [
+              "sleeping",
+              "hiding"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "quokka"
+}

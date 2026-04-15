@@ -1,0 +1,245 @@
+{
+  "id": "v2-early_reader-science-4a57228d74",
+  "title": "Seven Gifts from the Deep",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "science"
+  ],
+  "wordCount": 821,
+  "readingLevel": "Kindergarten-1st Grade",
+  "synopsis": "When baby dragon Ember follows a mysterious map into the coral reef, seven small gifts arrive over a week - but the map leads him astray at the most crucial moment, and he must learn what the reef really needs to survive.",
+  "coverImage": "",
+  "chapters": [
+    {
+      "title": "The Mysterious Map",
+      "pages": [
+        {
+          "text": "Seven tiny bubbles floated up from the ocean floor, and inside each bubble was something that made Ember's amber eyes grow wide with wonder! The small friendly baby dragon with coral-red scales, cream belly, tiny folded wings, and curly tail had never seen anything like it - not in all his swimming through the bright coral reef where a thousand small fish darted and danced around him like silver confetti! 'What could they be?' he whispered to himself, watching the bubbles bob and weave between the coral towers that stretched up up up toward the surface.",
+          "illustration": {
+            "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes watching seven glowing bubbles float upward through a bright coral reef patrolled by a thousand small fish. Scientific wonder fills the scene as coral formations in pink, orange, and purple create a magical underwater laboratory.",
+            "alt": "Ember discovering seven mysterious bubbles in the coral reef",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-4a57228d74/scene_1_1.png"
+          }
+        },
+        {
+          "text": "But wait - look here, dear reader - there was something else floating near the coral, something Ember almost missed because he was so excited about the bubbles! A rolled-up piece of kelp paper, tied with a strand of sea grass, and on it were markings that looked just like... just like... 'A map!' Ember gasped, his tiny wings fluttering with excitement as fish swirled around him in curious spirals. The map showed the reef, the coral towers, the sandy patches - and right there, marked with a big X, was the spot where treasure could be found!",
+          "illustration": {
+            "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes holding an underwater map made of kelp. The bright coral reef patrolled by a thousand small fish surrounds him, with scientific diagrams and markings visible on the map showing reef formations.",
+            "alt": "Ember studying the mysterious underwater map",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-4a57228d74/scene_1_2.png"
+          }
+        },
+        {
+          "text": "Ember's heart thumped like a drum as he studied the map - thump thump thump - and his coral-red scales seemed to glow even brighter with anticipation! 'The first gift must be here,' he thought, following the dotted line on the map that wound between the coral formations like a secret path. But oh my, the thousand small fish seemed nervous, darting back and forth, back and forth, as if they were trying to tell him something important - something the little dragon was too excited to notice just yet!",
+          "illustration": {
+            "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes swimming excitedly through the bright coral reef patrolled by a thousand small fish. The fish appear agitated and concerned, creating swirling patterns around him in a scene of scientific tension.",
+            "alt": "Ember following the map while fish show signs of distress",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-4a57228d74/scene_1_3.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Week of Wonders",
+      "pages": [
+        {
+          "text": "Monday brought a tiny shell that sang when the current touched it - can you imagine such a thing? Ember found it exactly where the map said it would be, nestled between two brain corals that pulsed with life! Tuesday delivered a piece of sea glass so clear it made everything look bigger - a natural magnifying lens that showed him the tiniest creatures dancing on the coral! Wednesday, Thursday, Friday - each day another gift appeared just as the map promised, and Ember collected them all with growing excitement, his amber eyes sparkling like underwater stars!",
+          "illustration": {
+            "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes examining various scientific treasures - a singing shell, sea glass lens, and other marine specimens. The bright coral reef patrolled by a thousand small fish provides a laboratory-like setting with amazing revelations happening all around.",
+            "alt": "Ember discovering and studying the first five gifts from the reef",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-4a57228d74/scene_2_1.png"
+          }
+        },
+        {
+          "text": "Saturday's gift was the most amazing yet - a small piece of coral that glowed soft blue in the darkness, lighting up the reef like a gentle lantern! Ember held it close to his cream belly and watched as fish gathered around the light, their scales shimmering like jewels. 'One more day,' he whispered, 'one more gift!' But listen carefully, dear reader - do you hear how quiet the reef has become? Where are all the fish songs that usually fill the water with music?",
+          "illustration": {
+            "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes holding a glowing blue coral piece. The bright coral reef patrolled by a thousand small fish seems dimmer now, with fish gathering around the magical light in a scene of scientific wonder mixed with growing concern.",
+            "alt": "Ember with the glowing coral as the reef grows quieter",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-4a57228d74/scene_2_2.png"
+          }
+        },
+        {
+          "text": "Sunday arrived with sunshine streaming down through the water, and Ember rushed to the spot marked on his map - the final X, the place where the seventh gift waited! His tiny wings beat faster than hummingbird wings as he swam between the coral towers, following every twist and turn the map showed him. But when he reached the spot, when he looked and looked and looked... there was nothing there but empty sand and a few scattered shells. Nothing at all!",
+          "illustration": {
+            "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes looking confused and disappointed at an empty sandy patch in the bright coral reef patrolled by a thousand small fish. Sunlight streams down creating a eureka moment atmosphere, though the moment is filled with puzzlement.",
+            "alt": "Ember discovering the map's final location is empty",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-4a57228d74/scene_2_3.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Real Treasure",
+      "pages": [
+        {
+          "text": "But wait - something was wrong, terribly wrong! The coral around Ember was turning white, white as sea foam, white as clouds, and the thousand small fish were swimming in frantic circles! 'The map led me to the wrong place!' Ember cried, and suddenly he understood - the real treasure wasn't hidden at all, it was right here, right now, and it was in terrible danger! The reef needed help, needed someone who cared, needed someone who had collected six special gifts that might - just might - make all the difference!",
+          "illustration": {
+            "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes surrounded by bleaching white coral in the bright coral reef patrolled by a thousand small fish swimming frantically. The scene shows environmental crisis with scientific accuracy, creating an urgent eureka moment.",
+            "alt": "Ember realizing the coral reef is bleaching and in danger",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-4a57228d74/scene_3_1.png"
+          }
+        },
+        {
+          "text": "Ember's mind raced like lightning as he looked at his six gifts - the singing shell, the magnifying sea glass, the other treasures he'd found! What if - what if - what if they weren't just pretty things to collect? What if each gift was a tool, a way to help the reef? He held up the glowing coral and watched as the bleached sections seemed to respond to its light, and then he knew, he absolutely knew what the seventh gift really was!",
+          "illustration": {
+            "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes using his collected gifts as scientific tools to help the coral reef. The bright coral reef patrolled by a thousand small fish shows signs of recovery as bubbling reactions occur around him in colorful experiments.",
+            "alt": "Ember using his gifts as scientific tools to help the reef",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-4a57228d74/scene_3_2.png"
+          }
+        },
+        {
+          "text": "The seventh gift was Ember himself - his warm heart, his caring spirit, his willingness to help! He used each treasure to nurture different parts of the reef, and oh my goodness, dear reader, can you see what's happening? The coral is blooming with color again, the fish are singing their ancient songs, and the whole reef is alive with joy and health! The map had been wrong about where to find treasure, but it had been absolutely right about one thing - there truly was something precious waiting to be discovered in this magical underwater world!",
+          "illustration": {
+            "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes celebrating as the bright coral reef patrolled by a thousand small fish returns to vibrant health. Colors bloom everywhere in a scene of scientific triumph and environmental healing, with Ember at the center as a young environmental hero.",
+            "alt": "Ember celebrating as the coral reef returns to full, vibrant health",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "environmental conservation",
+      "problem-solving",
+      "discovery",
+      "caring for nature"
+    ],
+    "vocabulary": [
+      "coral",
+      "reef",
+      "bleaching",
+      "marine",
+      "habitat",
+      "ecosystem"
+    ],
+    "educational_focus": [
+      "ocean ecosystems",
+      "coral reef conservation",
+      "marine biology",
+      "environmental responsibility"
+    ],
+    "coverPrompt": {
+      "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes swimming through a bright coral reef patrolled by a thousand small fish. Colorful coral formations glow around him as seven small mysterious packages float in the water nearby.",
+      "alt": "Baby dragon Ember discovering gifts in a vibrant coral reef"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "How many gifts did Ember find during the week?",
+        "choices": [
+          "Five gifts",
+          "Six gifts",
+          "Seven gifts"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ember found six physical gifts during the week, and realized he himself was the seventh gift!"
+      },
+      {
+        "id": "q2",
+        "question": "What was wrong with the coral reef?",
+        "choices": [
+          "It was too dark",
+          "It was turning white",
+          "It was too noisy"
+        ],
+        "correctIndex": 1,
+        "explanation": "The coral was bleaching, which means it was turning white and becoming unhealthy."
+      },
+      {
+        "id": "q3",
+        "question": "What was special about Saturday's gift?",
+        "choices": [
+          "It could sing",
+          "It glowed blue",
+          "It made things bigger"
+        ],
+        "correctIndex": 1,
+        "explanation": "Saturday's gift was a piece of coral that glowed soft blue in the darkness."
+      },
+      {
+        "id": "q4",
+        "question": "What did Ember discover about the map?",
+        "choices": [
+          "It was completely wrong",
+          "It led him to the wrong place for the last gift",
+          "It was written backwards"
+        ],
+        "correctIndex": 1,
+        "explanation": "The map was right about the first six gifts, but wrong about where the seventh gift could be found."
+      },
+      {
+        "id": "q5",
+        "question": "What was the real seventh gift?",
+        "choices": [
+          "Another shell",
+          "Ember himself",
+          "A magic pearl"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ember realized that he himself - his caring heart and willingness to help - was the seventh gift the reef needed."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "coral",
+            "distractors": [
+              "seaweed",
+              "rocks"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "fish",
+            "distractors": [
+              "whales",
+              "sharks"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 7,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "reef",
+            "distractors": [
+              "ocean",
+              "beach"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "white",
+            "distractors": [
+              "black",
+              "green"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "ember"
+}
