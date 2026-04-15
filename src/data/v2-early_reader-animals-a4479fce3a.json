@@ -25,6 +25,9 @@
             "alt": "Cobble standing by the center stone with snow falling upward",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-a4479fce3a/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-a4479fce3a/ch1_p1.mp3"
           }
         },
         {
@@ -34,6 +37,9 @@
             "alt": "Cobble examining the stone while Pip approaches with her suitcase",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-a4479fce3a/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-a4479fce3a/ch1_p2.mp3"
           }
         },
         {
@@ -43,6 +49,9 @@
             "alt": "Cobble pointing at the scratches while explaining to Pip",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-a4479fce3a/scene_1_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-a4479fce3a/ch1_p3.mp3"
           }
         }
       ]
@@ -57,6 +66,9 @@
             "alt": "Cobble with his nose pressed against the glass wall of their world",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-a4479fce3a/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-a4479fce3a/ch2_p1.mp3"
           }
         },
         {
@@ -66,6 +78,9 @@
             "alt": "Cobble writing 'refraction' in the snow while Pip watches",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-a4479fce3a/scene_2_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-a4479fce3a/ch2_p2.mp3"
           }
         },
         {
@@ -75,6 +90,9 @@
             "alt": "Cobble and Pip having a serious conversation about science",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-a4479fce3a/scene_2_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-a4479fce3a/ch2_p3.mp3"
           }
         }
       ]
@@ -89,6 +107,9 @@
             "alt": "Cobble sitting by the center stone watching the upward snow patterns",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-a4479fce3a/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-a4479fce3a/ch3_p1.mp3"
           }
         },
         {
@@ -98,6 +119,9 @@
             "alt": "Cobble and Pip sitting together watching the snow",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-a4479fce3a/scene_3_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-a4479fce3a/ch3_p2.mp3"
           }
         },
         {
@@ -107,6 +131,9 @@
             "alt": "Cobble and Pip shaking hands like serious scientific partners",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-a4479fce3a/scene_3_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-a4479fce3a/ch3_p3.mp3"
           }
         },
         {
@@ -116,6 +143,9 @@
             "alt": "Cobble making his spiral discovery and documenting it in the snow",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-a4479fce3a/scene_3_4.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-a4479fce3a/ch3_p4.mp3"
           }
         }
       ]
@@ -247,5 +277,7 @@
       }
     ]
   },
-  "_spec_character_name": "cobble"
+  "_spec_character_name": "cobble",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }

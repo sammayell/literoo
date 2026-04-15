@@ -24,6 +24,9 @@
             "description": "A gouache painting showing a boy with straight light blonde hair, fair skin, and light blue eyes pressing his face against a lighthouse window. Outside, flags hang limply, a seagull is falling straight down toward the ocean, and weather vanes point in confused directions. His father climbs the stairs with weather instruments scattered around him. Painted in thick brushstrokes with warm savanna colors, golden grass visible outside, and an orange sunset sky in bold confident strokes.",
             "alt": "A blonde boy at a lighthouse window watching still weather outside while his father climbs stairs with instruments",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-b0d6d95b13/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-b0d6d95b13/ch1_p1.mp3"
           }
         },
         {
@@ -32,6 +35,9 @@
             "description": "A gouache painting showing a boy with straight light blonde hair, fair skin, and light blue eyes holding a brown package at an open window. A tiny paper airplane is crashed nose-first into a bowl of soup on the table. His father stands nearby scratching his head with wild hair sticking up. The scene is painted in thick brushstrokes with warm colors, textured painterly style showing the lighthouse interior with golden light.",
             "alt": "A blonde boy holding a package while a paper airplane crashes into soup, his father looking confused",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-b0d6d95b13/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-b0d6d95b13/ch1_p2.mp3"
           }
         }
       ]
@@ -45,6 +51,9 @@
             "description": "A gouache painting showing a boy with straight light blonde hair, fair skin, and light blue eyes surrounded by chaotic weather gifts. A tiny tornado in a jar shoots papers everywhere, snow falls upward to the ceiling spelling 'OOPS', and a confused compass points to silly directions. His father tries to write notes while tripping over a backwards-floating weather balloon. The scene bursts with thick brushstrokes, warm savanna colors, and bold confident strokes showing the lighthouse interior in delightful chaos.",
             "alt": "A blonde boy surrounded by magical weather chaos while his father stumbles around taking notes",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-b0d6d95b13/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-b0d6d95b13/ch2_p1.mp3"
           }
         },
         {
@@ -53,6 +62,9 @@
             "description": "A gouache painting showing a boy with straight light blonde hair, fair skin, and light blue eyes holding a small cloud that drips chocolate milk into a cup. Around him are scattered the week's gifts: a silly thermometer, musical wind chimes, and other broken weather instruments. His father tastes chocolate milk with wide, surprised eyes. The scene is painted in thick brushstrokes with warm golden colors and orange sunset light streaming through lighthouse windows, using bold confident strokes and textured painterly technique.",
             "alt": "A blonde boy holding a chocolate-milk-raining cloud while his father tastes the milk, surrounded by magical weather instruments",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-b0d6d95b13/scene_2_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-b0d6d95b13/ch2_p2.mp3"
           }
         }
       ]
@@ -66,6 +78,9 @@
             "description": "A gouache painting showing a boy with straight light blonde hair, fair skin, and light blue eyes facing seven small cloud creatures with googly eyes floating in the lighthouse. The creatures look embarrassed and are raining tiny paper letters. His father has dropped a coffee mug that bounces on the floor instead of breaking. The scene is painted in thick brushstrokes with warm savanna colors, golden grass visible through windows, and orange sunset lighting in bold confident strokes with textured painterly technique.",
             "alt": "A blonde boy meeting seven googly-eyed cloud creatures who rain apology letters while his father drops a bouncing coffee mug",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-b0d6d95b13/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-b0d6d95b13/ch3_p1.mp3"
           }
         },
         {
@@ -74,6 +89,9 @@
             "description": "A gouache painting showing a boy with straight light blonde hair, fair skin, and light blue eyes watching seven cloud creatures operate a rainbow bicycle-kazoo machine. Wind is starting to blow again—his hair moves in the breeze, weather vanes spin correctly, and seagulls fly outside the lighthouse windows. His father measures the silly thermometer while laughing. The scene is painted in thick brushstrokes with warm savanna colors, golden grass swaying in the returning wind, and orange sunset sky in bold confident strokes with textured painterly technique.",
             "alt": "A blonde boy and his father with cloud creatures fixing their rainbow wind machine as normal weather returns to the lighthouse",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-b0d6d95b13/scene_3_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-b0d6d95b13/ch3_p2.mp3"
           }
         }
       ]
@@ -209,5 +227,7 @@
       }
     ]
   },
-  "_spec_character_name": ""
+  "_spec_character_name": "",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
