@@ -1,0 +1,178 @@
+{
+  "id": "v2-baby-bedtime-bc2ad62cbb",
+  "title": "Fog Carries Gifts",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "bedtime",
+    "colors"
+  ],
+  "wordCount": 128,
+  "readingLevel": "Pre-K",
+  "synopsis": "Little Ivy travels on a misty ferry where mysterious colored gifts arrive each day from an unknown sender, inviting her to clap, wiggle, and play as the fog whispers secrets around her.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-bc2ad62cbb/cover.png",
+  "chapters": [
+    {
+      "title": "Seven Misty Mornings",
+      "pages": [
+        {
+          "text": "The ferry horn calls through thick fog, but something else calls too. Listen, can you hear it?",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, and big brown eyes stands at a ferry railing. Thick purple-gray fog swirls around the boat on a misty lake. Soft watercolor, dreamy purple and blue gradients, ethereal atmosphere, pastel palette.",
+            "alt": "Child on ferry deck in thick fog",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-bc2ad62cbb/scene_1_1.png"
+          }
+        },
+        {
+          "text": "Red arrives first. A tiny box that says 'clap.' Ivy's bold little hands clap once, twice. The fog shivers red.",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, and big brown eyes holds a small red box, clapping her hands. Red swirls of color drift through the purple fog around her. Soft watercolor, dreamy purple and blue gradients, glowing stars, ethereal atmosphere, pastel palette.",
+            "alt": "Child clapping with red colors in fog",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-bc2ad62cbb/scene_1_2.png"
+          }
+        },
+        {
+          "text": "Orange whispers 'stomp.' Ivy stomps her feet. The ferry deck glows orange beneath her toes.",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, and big brown eyes stomps on the ferry deck. Orange light radiates from under her feet through the misty air. Soft watercolor, dreamy purple and blue gradients, glowing stars, ethereal atmosphere, pastel palette.",
+            "alt": "Child stomping with orange glow under feet",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-bc2ad62cbb/scene_1_3.png"
+          }
+        },
+        {
+          "text": "Yellow brings 'wiggle.' Ivy wiggles her fingers, her nose, her ears. Golden sparkles dance in the mist.",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, and big brown eyes wiggles playfully as yellow sparkles float around her in the fog. Her movements create trails of golden light. Soft watercolor, dreamy purple and blue gradients, glowing stars, ethereal atmosphere, pastel palette.",
+            "alt": "Child wiggling with golden sparkles around her",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-bc2ad62cbb/scene_1_4.png"
+          }
+        },
+        {
+          "text": "Green says 'reach.' Blue says 'sway.' Purple whispers 'spin.' Each gift teaches Ivy's body a new secret.",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, and big brown eyes reaches, sways, and spins surrounded by swirling green, blue, and purple colors flowing through the fog. Soft watercolor, dreamy purple and blue gradients, floating clouds, ethereal atmosphere, pastel palette.",
+            "alt": "Child moving with green, blue, and purple swirls",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-bc2ad62cbb/scene_1_5.png"
+          }
+        },
+        {
+          "text": "The seventh gift is silver and says only 'hush.' Ivy whispers back to the fog, and it whispers her name in return.",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, and big brown eyes holds a silver gift box close to her chest. The fog swirls gently around her in soft silver and purple tones. Gentle moonlight filters through the mist. Soft watercolor, dreamy purple and blue gradients, glowing stars, ethereal atmosphere, pastel palette.",
+            "alt": "Child holding silver gift in gentle silver fog",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-bc2ad62cbb/scene_1_6.png"
+          }
+        },
+        {
+          "text": "Who sent them? The fog knows but won't tell. Some secrets are meant to stay wrapped in mist and dreams.",
+          "illustration": {
+            "description": "Ivy with short dark brown bob with bangs, fair skin, and big brown eyes sleeps peacefully on the ferry as all the colored gifts float gently around her in the soft fog. Round sleepy face, gentle moonlight, floating clouds. Soft watercolor, dreamy purple and blue gradients, ethereal atmosphere, pastel palette.",
+            "alt": "Child sleeping surrounded by floating colorful gifts in fog",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-bc2ad62cbb/scene_1_7.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "body awareness",
+      "mystery",
+      "movement"
+    ],
+    "vocabulary": [
+      "clap",
+      "stomp",
+      "wiggle",
+      "hush",
+      "fog",
+      "ferry",
+      "gifts"
+    ],
+    "concepts": [
+      "colors",
+      "body parts",
+      "gentle movements",
+      "quiet time"
+    ],
+    "coverPrompt": {
+      "description": "Ivy with short dark brown bob with bangs, fair skin, and big brown eyes stands on a ferry deck surrounded by thick purple-blue fog. Colorful gift boxes float mysteriously in the misty air around her. Soft watercolor, dreamy purple and blue gradients, ethereal atmosphere, pastel palette.",
+      "alt": "A small child on a foggy ferry with floating gift boxes"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did the red gift tell Ivy to do?",
+        "choices": [
+          "clap",
+          "stomp"
+        ],
+        "correctIndex": 0,
+        "explanation": "The red gift said 'clap' and Ivy clapped her hands!"
+      },
+      {
+        "id": "q2",
+        "question": "How many gifts did Ivy receive?",
+        "choices": [
+          "five",
+          "seven"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ivy received seven colorful gifts over seven misty mornings!"
+      },
+      {
+        "id": "q3",
+        "question": "What did the silver gift say?",
+        "choices": [
+          "hush",
+          "dance"
+        ],
+        "correctIndex": 0,
+        "explanation": "The seventh silver gift whispered 'hush' to help Ivy be quiet."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "clap",
+            "distractors": [
+              "jump",
+              "sing"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "stomp",
+            "distractors": [
+              "wave",
+              "spin"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "ivy"
+}
