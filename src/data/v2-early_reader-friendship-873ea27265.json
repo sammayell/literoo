@@ -1,0 +1,285 @@
+{
+  "id": "v2-early_reader-friendship-873ea27265",
+  "title": "Whispers in the Dark Earth",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "friendship",
+    "fantasy"
+  ],
+  "wordCount": 652,
+  "readingLevel": "Grade K-1",
+  "synopsis": "A small bunny discovers a secret tunnel beneath the garden shed and receives mysterious seasonal gifts from an unknown friend, leading to magical discoveries that help protect the underground world.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-873ea27265/cover.png",
+  "chapters": [
+    {
+      "title": "The Hidden Path",
+      "pages": [
+        {
+          "text": "Something scratches beneath the old garden shed. I press my ear to the cool dirt, listening. The sound comes again—scritch, scritch, scritch—like tiny claws on stone. My whiskers twitch with curiosity. I am Pip, a small fluffy brown bunny, and I have found something no bunny has ever found before.",
+          "illustration": {
+            "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, pressing his ear to the ground beneath a wooden shed. Bright sunny playground art style with primary colors, white space, joyful energetic feel, with dappled sunlight filtering through.",
+            "alt": "Pip listening to mysterious sounds under the garden shed",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-873ea27265/scene_1_1.png"
+          }
+        },
+        {
+          "text": "I dig where the scratching sounds loudest. My paws work fast, sending dark earth flying. Soon I uncover smooth stones arranged in a perfect circle. In the center, a hole opens like a secret mouth. Cool air flows up, carrying whispers of mint and mushrooms and something else—something magical.",
+          "illustration": {
+            "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, digging in the earth and uncovering a circular stone entrance. Bright sunny playground art style with primary colors, white space, showing the mysterious tunnel opening below.",
+            "alt": "Pip discovering the stone circle entrance to the tunnel",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-873ea27265/scene_1_2.png"
+          }
+        },
+        {
+          "text": "The tunnel slopes gently down. My green scarf brushes against walls lined with glowing moss. Spring flowers I've never seen before bloom in impossible colors—purple that hums, blue that sparkles like stars. The air tastes sweet and alive. This place has been waiting for me, I think. Waiting for a very long time.",
+          "illustration": {
+            "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, walking through a glowing underground tunnel with luminescent moss and magical spring flowers. Bright sunny playground art style with primary colors and mystical lighting.",
+            "alt": "Pip exploring the magical underground tunnel with glowing flowers",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-873ea27265/scene_1_3.png"
+          }
+        },
+        {
+          "text": "At the tunnel's end, I find a small wooden box tied with grass ribbon. No footprints mark the soft earth around it. No scent tells me who left it here. Inside the box: seeds that shimmer like dewdrops. A note written in scratchy letters says, 'For the spring garden above. Plant with care. A friend you haven't met yet.'",
+          "illustration": {
+            "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, opening a mysterious wooden box containing glimmering seeds. The tunnel chamber glows softly around him. Bright sunny playground art style with primary colors, white space, magical atmosphere.",
+            "alt": "Pip discovering the mysterious gift box with magical seeds",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-873ea27265/scene_1_4.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Seasons of Secrets",
+      "pages": [
+        {
+          "text": "Summer arrives heavy and warm. I return to the tunnel, drawn by whispers only I can hear. The seeds I planted above have grown into flowers that glow at night, protecting sleeping beetles and moths. Another gift waits—a small clay pot filled with water that never grows warm, no matter how hot the day becomes.",
+          "illustration": {
+            "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, in the tunnel holding a clay water pot. Summer light filters down from above, and magical glowing flowers are visible. Bright sunny playground art style with primary colors, white space, warm summer atmosphere.",
+            "alt": "Pip finding the magical water pot in summer",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-873ea27265/scene_2_1.png"
+          }
+        },
+        {
+          "text": "The note with the water pot whispers secrets: 'For the thirsty roots below. Share with those who cannot reach the rain.' I pour the cool water onto the tunnel walls. Tiny mushrooms unfurl like umbrellas. Earthworms peek out, grateful. The underground world drinks deeply and glows brighter.",
+          "illustration": {
+            "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, pouring magical water on tunnel walls as mushrooms and small creatures emerge. Bright sunny playground art style with primary colors, white space, showing the underground ecosystem flourishing.",
+            "alt": "Pip watering the tunnel walls and helping underground creatures",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-873ea27265/scene_2_2.png"
+          }
+        },
+        {
+          "text": "When autumn paints the world golden, I find a third gift waiting. Acorns carved with tiny symbols, each one warm to the touch. The note says, 'For winter stores that never empty. For creatures who forget where they buried their treasures.' I hide the magical acorns in secret places, following paths only I know.",
+          "illustration": {
+            "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, examining carved magical acorns in the autumn-lit tunnel. Golden leaves drift down from above. Bright sunny playground art style with primary colors, white space, warm autumn colors.",
+            "alt": "Pip discovering magical carved acorns in autumn",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-873ea27265/scene_2_3.png"
+          }
+        },
+        {
+          "text": "Winter's first snow falls soft and quiet. The tunnel stays warm, heated by some underground magic. My breath makes no clouds here. This time, the gift is different—a small mirror that shows not my reflection, but another bunny I've never seen. Gray fur, silver scarf, eyes kind as moonlight. We touch the mirror at the same moment.",
+          "illustration": {
+            "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, looking into a magical mirror showing another gray bunny with a silver scarf. Snow is visible through the tunnel entrance above. Bright sunny playground art style with primary colors, white space, winter magic atmosphere.",
+            "alt": "Pip meeting his mysterious friend through the magical mirror",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-873ea27265/scene_2_4.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Friend Revealed",
+      "pages": [
+        {
+          "text": "Through the mirror, the gray bunny speaks in a voice like wind through leaves. 'I am Luna,' she says. 'I live in the tunnel under the oak tree, far from here. I have been watching you care for our secret world. You plant what needs growing. You water what thirsts. You feed what hungers. You are a true guardian.'",
+          "illustration": {
+            "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, speaking with Luna, a gray bunny with silver scarf, through the magical mirror. Both tunnels are visible in the reflection. Bright sunny playground art style with primary colors, white space, mystical connection.",
+            "alt": "Pip talking with Luna through the magical mirror",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-873ea27265/scene_3_1.png"
+          }
+        },
+        {
+          "text": "'The tunnels connect all the gardens,' Luna whispers. 'We are not the only guardians. There are others—rabbits and mice and moles—all keeping the underground world alive. The grown-ups above never see us, but we see everything. We protect what cannot protect itself.' Her words fill me with warm purpose.",
+          "illustration": {
+            "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, seeing visions in the mirror of other animal guardians in connected tunnels throughout many gardens. Bright sunny playground art style with primary colors, white space, showing the network of underground protectors.",
+            "alt": "Pip seeing the network of animal guardians through Luna's mirror",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-873ea27265/scene_3_2.png"
+          }
+        },
+        {
+          "text": "Spring returns, and with it, a final gift. Not in a box this time, but growing from the tunnel floor—a tree no bigger than my paw, with leaves that whisper names. Each leaf bears the name of a creature the tunnel has helped: beetles, worms, mice, moths, seeds, roots. My name appears on a golden leaf at the very top.",
+          "illustration": {
+            "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, standing beside a tiny magical tree with leaves bearing names. Spring light filters into the tunnel. Bright sunny playground art style with primary colors, white space, celebrating growth and connection.",
+            "alt": "Pip discovering the magical tree of names in his tunnel",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-873ea27265/scene_3_3.png"
+          }
+        },
+        {
+          "text": "Now I know my purpose. Every day I visit the tunnel, tending its magic, sharing Luna's gifts with the hidden world below. Above, the garden grows wilder and more wonderful. Below, the tunnel hums with life. And somewhere far away, Luna tends her own secret place, connected to mine by magic older than memory and deep as the earth itself.",
+          "illustration": {
+            "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, tending to the magical tunnel garden with glowing plants, happy creatures, and the tree of names. The garden above shows wild, flourishing growth. Bright sunny playground art style with primary colors, white space, joyful energetic celebration of nature.",
+            "alt": "Pip as guardian of his magical underground world, with flourishing gardens above and below",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-873ea27265/scene_3_4.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "environmental stewardship",
+      "magic in nature",
+      "hidden helpers"
+    ],
+    "vocabulary": [
+      "guardian",
+      "shimmer",
+      "whispers",
+      "magical",
+      "connected"
+    ],
+    "illustrations": 12,
+    "authorStyle": "hushed mysterious tone with sensory details and environmental awareness",
+    "coverPrompt": {
+      "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, peering into a glowing tunnel entrance beneath a weathered wooden shed. Bright sunny playground art style with primary colors, white space, joyful energetic feel, inclusive atmosphere.",
+      "alt": "A brown bunny in a green scarf discovering a mysterious tunnel"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Pip first hear under the garden shed?",
+        "choices": [
+          "Scratching sounds",
+          "Music playing",
+          "Water flowing"
+        ],
+        "correctIndex": 0,
+        "explanation": "Pip hears scratching sounds that lead him to discover the tunnel entrance."
+      },
+      {
+        "id": "q2",
+        "question": "What was in the first gift box Pip found?",
+        "choices": [
+          "Magic acorns",
+          "Shimmering seeds",
+          "A small mirror"
+        ],
+        "correctIndex": 1,
+        "explanation": "The first gift contained seeds that shimmer like dewdrops for planting in the spring garden."
+      },
+      {
+        "id": "q3",
+        "question": "Who is Luna?",
+        "choices": [
+          "A gray bunny guardian",
+          "A garden mouse",
+          "Pip's sister"
+        ],
+        "correctIndex": 0,
+        "explanation": "Luna is a gray bunny with a silver scarf who lives in another tunnel and has been sending Pip the gifts."
+      },
+      {
+        "id": "q4",
+        "question": "What makes the tunnel special?",
+        "choices": [
+          "It has treasure",
+          "It glows and helps creatures",
+          "It leads to a castle"
+        ],
+        "correctIndex": 1,
+        "explanation": "The tunnel glows with magical moss and flowers, and Pip uses it to help underground creatures."
+      },
+      {
+        "id": "q5",
+        "question": "What appears on the magical tree's leaves?",
+        "choices": [
+          "Pictures of flowers",
+          "Names of helped creatures",
+          "Maps of tunnels"
+        ],
+        "correctIndex": 1,
+        "explanation": "The tree's leaves whisper and show the names of all the creatures the tunnel has helped."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "scratches",
+            "distractors": [
+              "sings",
+              "sleeps"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "bunny",
+            "distractors": [
+              "mouse",
+              "bird"
+            ]
+          },
+          {
+            "wordIndex": 23,
+            "correctWord": "found",
+            "distractors": [
+              "lost",
+              "broken"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 5,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "seeds",
+            "distractors": [
+              "rocks",
+              "coins"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "shimmer",
+            "distractors": [
+              "bounce",
+              "melt"
+            ]
+          },
+          {
+            "wordIndex": 19,
+            "correctWord": "friend",
+            "distractors": [
+              "enemy",
+              "stranger"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "pip"
+}
