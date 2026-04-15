@@ -1,0 +1,238 @@
+{
+  "id": "v2-early_reader-mystery-2d3bed85b6",
+  "title": "When Books Begin to Swim",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "mystery",
+    "adventure"
+  ],
+  "wordCount": 947,
+  "readingLevel": "early_reader",
+  "synopsis": "Marina the mermaid discovers that water has begun seeping into the vast library where she studies, making the books come alive and swim. Over three mysterious days, she must solve the puzzle of where the water is coming from and decide whether to stop it or let the magical transformation continue.",
+  "coverImage": "",
+  "chapters": [
+    {
+      "title": "The First Drop",
+      "pages": [
+        {
+          "text": "The candle flame dances, and I notice something impossible. A single drop of seawater falls from the ceiling onto my favorite book about land creatures. I am Marina, and I have been studying in this vast library for as long as I can remember, my turquoise tail curled beneath the old wooden reading table. The library stretches endlessly in all directions, filled with towers of books that disappear into shadows. Only one candle lights this place, but somehow it never burns down. The drop of water shimmers on the page, and the printed whale begins to move. It swims right off the paper and circles my head, no bigger than my thumb but perfectly real. I reach out to touch it, and it feels like cool ocean water against my fingers.",
+          "illustration": {
+            "description": "Marina - a young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes - sits at a wooden reading table in a vast library lit only by a single candle. A tiny whale swims in the air above an open book while a water drop falls from the ceiling. The scene shows detailed hidden objects throughout the library: scattered quills, ink bottles, rolled maps, small brass instruments, bookmarks, reading glasses, and tiny figurines hidden among the towering bookshelves in this busy organized composition perfect for search and find exploration.",
+            "alt": "Marina watching a tiny whale swim out of a book in the candlelit library",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-2d3bed85b6/scene_1_1.png"
+          }
+        },
+        {
+          "text": "I look up at the ceiling, trying to find where the water came from. The shadows dance in the candlelight, making it hard to see clearly. Everything feels different tonight, like the library is holding its breath. More drops begin to fall, each one landing on different books scattered across my table. A dolphin leaps from a marine biology book. Three small fish swim out of a cookbook. They all move through the air as if it were water, their fins and tails working perfectly. I close my eyes and open them again, but the swimming creatures are still there. This is day one of something new, something that makes the air taste like salt and possibility.",
+          "illustration": {
+            "description": "Marina - a young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes - looks up at the library ceiling while various sea creatures swim through the air around her: a dolphin, small fish, and other marine animals that have emerged from open books on the table. The vast library lit only by a single candle contains detailed hidden objects: compass roses, nautical charts, small anchors, shells, pearls, telescope pieces, and miniature ship wheels tucked throughout the towering bookshelves in this busy organized composition perfect for search and find exploration.",
+            "alt": "Marina surrounded by sea creatures swimming through the library air",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-2d3bed85b6/scene_1_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Rising Tide",
+      "pages": [
+        {
+          "text": "On the second day, I wake to find water pooling around the base of every bookshelf. The drops from yesterday have become a gentle rain that falls only inside the library. My tail feels more comfortable now, and I realize I can swim through the air between the shelves just like the book creatures. Hundreds of sea animals now drift through the library - jellyfish pulse near the poetry section, seahorses dance around the history books, and an octopus has made its home in the philosophy corner. But something is wrong. Some of the books are starting to dissolve where the water touches them. Pages flutter apart like snow, and words float in the air before disappearing completely. I try to catch the dissolving words, but they slip through my fingers like mist.",
+          "illustration": {
+            "description": "Marina - a young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes - swims through the air of the flooding library, surrounded by jellyfish, seahorses, and an octopus. Water pools around bookshelves while pages and words float through the air like snow. The scene shows detailed hidden objects scattered throughout: floating letters, torn page fragments, waterlogged scrolls, small bottles with messages, soggy bookmarks, dripping candles, and wet quills hidden among the transforming bookshelves in this busy organized composition perfect for search and find exploration.",
+            "alt": "Marina swimming through the flooding library as books dissolve and sea creatures drift around her",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-2d3bed85b6/scene_2_1.png"
+          }
+        },
+        {
+          "text": "I swim higher, following the path of falling water drops up toward the ceiling. The shadows part as I rise, and I see something that makes my heart race. There is a crack in the ceiling, thin as a hair but growing wider. Through it, I can see glimpses of the real ocean - my ocean. Moonlight streams through the water above, and I realize the library exists at the bottom of the sea. The crack is letting my world seep into this world of books and candlelight. I understand now why some books are dissolving - they were never meant to touch real ocean water. Only the books about the sea can survive this change. I watch a book about mountains crumble into nothing, while a book about coral reefs grows brighter and more vivid with each drop that touches it.",
+          "illustration": {
+            "description": "Marina - a young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes - floats near the library ceiling, looking up at a crack through which moonlit ocean water flows down. Books about the sea glow brightly while other books crumble and dissolve. The scene shows detailed hidden objects throughout: floating fragments of mountain books, glowing coral book pages, seaweed bookmarks, barnacle-covered reading glasses, drifting starfish, small treasure chests, and nautical instruments hidden among the ceiling beams and upper shelves in this busy organized composition perfect for search and find exploration.",
+            "alt": "Marina discovering the crack in the ceiling where ocean water pours into the library",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-2d3bed85b6/scene_2_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Choice of Tides",
+      "pages": [
+        {
+          "text": "On the third day, the water reaches my waist when I sit at the reading table. The crack in the ceiling has become a proper hole, and I can see fish from the real ocean swimming back and forth above. They seem curious about this strange underwater library. I have spent all night thinking, and now I know what I must do. In my hands, I hold something I built from the remaining pieces of dissolved books - a patch made of woven pages from all the sea books that survived. It shimmers like scales and feels strong as sailcloth. I could swim up and seal the hole. I could stop the water and save the remaining land books. But then the magic swimming creatures would disappear, and the library would go back to being just shadows and candlelight.",
+          "illustration": {
+            "description": "Marina - a young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes - sits at her partially submerged reading table, holding a shimmering patch made of woven book pages. The library is now half-flooded with real fish swimming above through the ceiling hole. The scene shows detailed hidden objects throughout the transformed space: floating remnants of land books, glowing sea-book pages, curious real fish peeking down, magical book creatures, salvaged reading materials, makeshift tools crafted from book parts, and floating candle holders, all arranged in this busy organized composition perfect for search and find exploration.",
+            "alt": "Marina holding her handmade patch while deciding whether to seal the hole in the ceiling",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-2d3bed85b6/scene_3_1.png"
+          }
+        },
+        {
+          "text": "I swim up toward the hole, my patch ready in my hands. But as I get closer, I see something wonderful. The real fish from above are reading the floating pages from the dissolved books. They swim through clouds of letters and words, somehow understanding them in ways I never imagined. A school of silver fish spells out poetry with their bodies. An old turtle uses the floating words to tell stories to young fish. I realize I was thinking about this all wrong. The library is not being destroyed - it is being transformed into something new. Something that both land creatures and sea creatures can share. Instead of sealing the hole, I take my woven patch and spread it out like a net. I catch the most important floating words and weave them into new patterns, making books that can exist both in water and air.",
+          "illustration": {
+            "description": "Marina - a young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes - spreads her woven patch like a net to catch floating words while real fish from above read the letters and form poetry with their bodies. An old turtle tells stories using floating words to young fish. The scene shows detailed hidden objects throughout: schools of fish forming letter shapes, floating word clouds, pages that glow underwater, new hybrid books, creative tools made from salvaged materials, reading fish with tiny glasses, and story-telling creatures, all arranged in this busy organized composition perfect for search and find exploration.",
+            "alt": "Marina creating new books while fish read floating words and form poetry in the transformed library",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-2d3bed85b6/scene_3_2.png"
+          }
+        },
+        {
+          "text": "Now the library is something that has never existed before. Half water, half air, with books that swim and words that dance. The single candle still burns, somehow bright even underwater, casting shifting patterns on every surface. I have become the keeper of this new kind of library, where sea creatures and book creatures learn from each other. Every day, I weave new books from the floating words, creating stories that taste like salt and sound like waves. The crack in the ceiling stays open, allowing visitors from both worlds. And sometimes, when the moon is bright above, I swim up through the hole to visit the ocean above, carrying water-proof books to share with the fish who live in the open sea. The library breathes with the tide now, growing and changing like a living thing.",
+          "illustration": {
+            "description": "Marina - a young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes - floats in the center of the transformed half-water, half-air library, surrounded by swimming books, sea creatures reading, and the single candle burning underwater. Fish swim down from the ceiling hole while book creatures drift upward. The scene shows detailed hidden objects throughout: books that glow and swim, reading sea creatures with tiny spectacles, floating word-weaving tools, hybrid sea-land books, underwater candles, magical reading nooks, and visitors from both worlds, all arranged in this busy organized composition perfect for search and find exploration.",
+            "alt": "Marina as keeper of the magical transformed library where sea and book creatures coexist",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-2d3bed85b6/scene_3_3.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "transformation",
+      "adaptation",
+      "creativity",
+      "building new worlds",
+      "making choices"
+    ],
+    "vocabulary": [
+      "dissolve",
+      "transform",
+      "weave",
+      "patch",
+      "shimmer",
+      "current",
+      "tide"
+    ],
+    "lessonTopics": [
+      "problem-solving",
+      "environmental change",
+      "creativity",
+      "making difficult choices",
+      "building and crafting"
+    ],
+    "culturalElements": [
+      "library culture",
+      "ocean ecosystem",
+      "craftsmanship",
+      "storytelling traditions"
+    ],
+    "coverPrompt": {
+      "description": "A vast library lit only by a single flickering candle, with Marina - a young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes - floating among floating books that swim through the air like fish. The scene shows detailed hidden objects scattered throughout: tiny bottles, ancient keys, rolled scrolls, floating ink bottles, and mysterious trinkets tucked between the towering bookshelves in this busy organized composition perfect for search and find exploration.",
+      "alt": "Marina the mermaid surrounded by swimming books in a candlelit library"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Marina first notice that seems impossible?",
+        "choices": [
+          "A candle that talks",
+          "A drop of seawater falling from the ceiling",
+          "A book that closes by itself"
+        ],
+        "correctIndex": 1,
+        "explanation": "Marina notices a single drop of seawater falling from the ceiling onto her book, which is impossible in a library."
+      },
+      {
+        "id": "q2",
+        "question": "What happens to the books when ocean water touches them?",
+        "choices": [
+          "They all turn blue",
+          "Some dissolve while sea books survive",
+          "They become very heavy"
+        ],
+        "correctIndex": 1,
+        "explanation": "Books about land topics dissolve when touched by real ocean water, but books about the sea become brighter and more vivid."
+      },
+      {
+        "id": "q3",
+        "question": "What does Marina build to help solve the problem?",
+        "choices": [
+          "A ladder to reach the ceiling",
+          "A patch woven from sea book pages",
+          "A new reading table"
+        ],
+        "correctIndex": 1,
+        "explanation": "Marina weaves together pages from the surviving sea books to create a shimmering patch that feels strong as sailcloth."
+      },
+      {
+        "id": "q4",
+        "question": "What do the real fish do with the floating words?",
+        "choices": [
+          "They eat them",
+          "They read them and form poetry",
+          "They hide from them"
+        ],
+        "correctIndex": 1,
+        "explanation": "The real fish from the ocean above read the floating pages and words, with some fish even spelling out poetry with their bodies."
+      },
+      {
+        "id": "q5",
+        "question": "How does Marina choose to solve the problem?",
+        "choices": [
+          "She seals the hole to stop the water",
+          "She leaves the library forever",
+          "She transforms the library into something new for both worlds"
+        ],
+        "correctIndex": 2,
+        "explanation": "Instead of stopping the change, Marina decides to help transform the library into a new kind of place where both sea creatures and book creatures can coexist."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "swims",
+            "distractors": [
+              "flies",
+              "runs"
+            ]
+          },
+          {
+            "wordIndex": 28,
+            "correctWord": "candlelight",
+            "distractors": [
+              "sunlight",
+              "moonlight"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "dissolving",
+            "distractors": [
+              "growing",
+              "singing"
+            ]
+          },
+          {
+            "wordIndex": 35,
+            "correctWord": "ocean",
+            "distractors": [
+              "forest",
+              "mountain"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "marina"
+}
