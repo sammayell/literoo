@@ -24,6 +24,9 @@
             "alt": "A little ghost lost in misty cherry blossoms",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-acf922c35a/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-family-acf922c35a/ch1_p1.mp3"
           }
         }
       ]
@@ -38,6 +41,9 @@
             "alt": "A concerned ghost watching bulldozers threaten the cherry orchard",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-acf922c35a/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-family-acf922c35a/ch2_p1.mp3"
           }
         }
       ]
@@ -52,6 +58,9 @@
             "alt": "A little ghost reuniting with her family in the cherry orchard",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-acf922c35a/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-family-acf922c35a/ch3_p1.mp3"
           }
         }
       ]
@@ -66,6 +75,9 @@
             "alt": "A ghost family celebrating their successful protection of the cherry orchard",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-acf922c35a/scene_4_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-family-acf922c35a/ch4_p1.mp3"
           }
         }
       ]
@@ -197,5 +209,7 @@
       }
     ]
   },
-  "_spec_character_name": "boo"
+  "_spec_character_name": "boo",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
