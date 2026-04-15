@@ -24,6 +24,9 @@
             "description": "A bustling village square viewed from above, showing a round smiling quokka with soft sandy-brown fur, small round ears, pink paws, and a permanent cheerful grin looking up at massive oak tree roots and trunk. The scene is packed with visual mysteries: snails wearing tiny racing numbers speeding past slow-moving badgers, shadows pointing toward the sun instead of away from it, backwards-moving clouds, and dozens of small hidden objects scattered throughout - pocket watches running backwards, weathervanes spinning counterclockwise, flowers growing downward into the soil, and footprints that seem to walk in reverse.",
             "alt": "Village square from tree's perspective with mysterious backwards elements",
             "layout": "full-page"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-mystery-10964d8544/ch1_p1.mp3"
           }
         }
       ]
@@ -38,6 +41,9 @@
             "alt": "Quokka exploring the village square with many hidden scientific tools",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-10964d8544/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-mystery-10964d8544/ch2_p1.mp3"
           }
         }
       ]
@@ -52,6 +58,9 @@
             "alt": "Quokka using magnifying glass to study shadows with scientific tools hidden everywhere",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-10964d8544/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-mystery-10964d8544/ch3_p1.mp3"
           }
         }
       ]
@@ -66,6 +75,9 @@
             "alt": "Quokka celebrating solving the time mystery with leaves falling upward",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-10964d8544/scene_4_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-mystery-10964d8544/ch4_p1.mp3"
           }
         }
       ]
@@ -80,6 +92,9 @@
             "alt": "Quokka happily staying to continue his scientific investigations in Slowbrook",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-10964d8544/scene_5_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-mystery-10964d8544/ch5_p1.mp3"
           }
         }
       ]
@@ -217,5 +232,7 @@
       }
     ]
   },
-  "_spec_character_name": "quokka"
+  "_spec_character_name": "quokka",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
