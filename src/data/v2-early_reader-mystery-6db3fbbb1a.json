@@ -13,7 +13,7 @@
   "wordCount": 644,
   "readingLevel": "Beginning Reader",
   "synopsis": "When Nimbus, a fluffy cloud being, promises to help solve the mystery of missing snowflakes inside a snow globe world, she must follow clues through five magical locations to discover what's really happening to the precious snow.",
-  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-6db3fbbb1a/cover.png",
+  "coverImage": "",
   "chapters": [
     {
       "title": "The Center Square",
@@ -24,7 +24,7 @@
             "description": "The center square of a miniature snow globe world shown from a magnifying glass perspective. Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, hovers above cobblestones. The scene uses detailed hidden objects style with visual clues everywhere: perfect snowflake-shaped holes in the snow, tiny footprints leading in different directions, missing snowflake outlines on lamp posts, a small fountain with strange symbols, scattered small objects like buttons and keys, and a busy organized composition showing the intricate details of this impossibly small world.",
             "alt": "A fluffy white cloud creature with blue eyes investigates missing snowflake shapes in a tiny cobblestone square inside a snow globe",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-6db3fbbb1a/scene_1_1.png"
+            "src": ""
           }
         }
       ]
@@ -38,7 +38,7 @@
             "description": "A cluttered workshop alley scene inside the snow globe world, viewed through detailed magnifying glass perspective. Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, floats past tiny shop windows. The detailed hidden objects composition shows numerous visual clues: broken snowflake pieces scattered on workbenches, unusual tiny tools, silver sparkle trails on the ground, many small objects like gears and springs, miniature signs, and various inventor's materials organized in a busy scene throughout the narrow alley.",
             "alt": "A cloud creature with a rainbow ribbon investigates tiny workshop windows filled with broken snowflake pieces and mysterious tools",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-6db3fbbb1a/scene_2_1.png"
+            "src": ""
           }
         }
       ]
@@ -52,7 +52,7 @@
             "description": "The frozen pond scene inside the snow globe shows ice covered in mysterious scratch marks and patterns. Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, hovers over the ice surface. The detailed hidden objects style reveals many visual clues: strange scraping patterns in the ice, tiny wheel tracks in surrounding snow, silver sparkle trails, drag marks leading to the pond's edge, scattered small objects like fragments of ice crystals, and a cluttered environment showing the magnifying glass perspective of this miniature world.",
             "alt": "A fluffy cloud being investigates mysterious scratch patterns and wheel tracks around a frozen pond in a snow globe world",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-6db3fbbb1a/scene_3_1.png"
+            "src": ""
           }
         }
       ]
@@ -66,7 +66,7 @@
             "description": "The interior of an old mill converted into a snowflake workshop, shown in detailed hidden objects style. Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, floats among tables covered with snowflake parts. The busy organized composition includes: a snowflake-making machine, grinding wheels, tables full of half-finished snowflakes, tiny tools everywhere, piles of snow powder, intricate snowflake patterns, many small objects scattered throughout, and visual clues about the snowflake reconstruction process, all viewed from a magnifying glass perspective.",
             "alt": "A cloud creature discovers a secret snowflake workshop inside an old mill, with tables full of snowflake-making equipment and half-finished snow crystals",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-6db3fbbb1a/scene_4_1.png"
+            "src": ""
           }
         }
       ]
@@ -80,7 +80,7 @@
             "description": "The edge of the snow globe world where the miniature landscape meets the curved glass wall. Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, floats near the glass barrier. The detailed hidden objects composition shows: fog marks on the inner glass surface, tiny melted snowflake puddles, the miller in the distance placing fresh snowflakes, trails of evidence leading back toward the center, many small clues scattered throughout including water droplets, repair tools, and various tiny objects that tell the story of snowflake rescue and restoration, all in a cluttered but organized search-and-find style scene.",
             "alt": "A fluffy cloud being solves the mystery at the glass wall of a snow globe, discovering how damaged snowflakes are being rescued and restored",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-6db3fbbb1a/scene_5_1.png"
+            "src": ""
           }
         }
       ]

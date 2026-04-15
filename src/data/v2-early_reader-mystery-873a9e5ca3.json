@@ -1,0 +1,221 @@
+{
+  "id": "v2-early_reader-mystery-873a9e5ca3",
+  "title": "Whispers Between the Gears",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "mystery"
+  ],
+  "wordCount": 485,
+  "readingLevel": "Grade 1-2",
+  "synopsis": "When the singing birds who nest in the old printing press shop mysteriously disappear, a small robot named Pixel must solve the mystery by following clues and keeping careful lists. Through rhyming verses and musical refrains, Pixel discovers that sometimes the smallest voices need the biggest champions.",
+  "coverImage": "",
+  "chapters": [
+    {
+      "title": "The Morning List",
+      "pages": [
+        {
+          "text": "Ink drops patter on the windowsill like tiny black rain.\n\nPixel's morning list is neat and small:\n• Check the paper stacks\n• Oil the old press wheel\n• Listen for the birdsong call\n\nBut something's wrong, something's strange,\nThe morning sounds have had a change.\nNo tweets or chirps or whistled notes,\nNo music from the tiny throats.\n\nThe little robot looks around,\nWhere has the birdsong sound?\nHer heart-shaped eyes begin to glow,\nShe needs to find out where they go.",
+          "illustration": {
+            "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands stands amid towering stacks of paper in the old printing press shop. The scene shows a cluttered workspace with an enormous vintage printing press, scattered letter blocks, hanging sheets of paper, and ink bottles everywhere. Empty bird nests are tucked into corners and crevices throughout the shop. Sunlight streams through dusty windows, illuminating floating paper bits and dust motes.",
+            "alt": "Pink robot Pixel in a busy printing shop with empty bird nests visible in corners",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-873a9e5ca3/scene_1_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Worry List",
+      "pages": [
+        {
+          "text": "Pixel makes a worry list:\n• The sparrows who lived in gear box three\n• The robin family by the window tree\n• The finches in the paper stack\n• Will any of them come back?\n\nShe searches high and searches low,\nWhere did all the birdies go?\nThe printing press feels quiet-sad,\nWithout their songs it seems so bad.\n\n'Hello?' she calls, 'Please don't hide,\nI want to help,' the robot cried.\nBut only echoes answer back,\nFrom empty nest and paper stack.\n\nHer helpful heart beats fast and true,\nShe knows there's something she must do.",
+          "illustration": {
+            "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands peers closely at empty bird nests with a magnifying glass. The shop is shown from a detailed, search-and-find perspective with intricate machinery, scattered tools, spilled ink, crumpled papers, and hidden objects throughout. Each empty nest is carefully detailed, showing bits of string, feathers, and twigs left behind.",
+            "alt": "Robot Pixel examining empty bird nests with a magnifying glass in the detailed printing shop",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-873a9e5ca3/scene_2_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Clue List",
+      "pages": [
+        {
+          "text": "A clue list starts to grow:\n• Tiny footprints in the dust\n• Scattered seeds upon the floor\n• A feather by the window sill\n• But nothing, nothing, nothing more\n\nPixel follows tracks so small,\nThey lead her to the back shop wall.\nBehind the press, behind the gears,\nA sound that tickles robot ears.\n\nVery soft and very weak,\nA tiny, frightened birdie speak:\n'Help us, help us, can't get out,\nTrapped inside without a doubt.'\n\nPixel's star antenna gleams,\nNothing's quite the way it seems!",
+          "illustration": {
+            "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands follows a trail of tiny footprints and scattered seeds across the cluttered shop floor. The scene is packed with visual clues - magnifying glasses, measuring tools, scattered letter blocks spelling partial words, ink trails, and tiny objects hidden everywhere. Behind massive printing press machinery, a small crack in the wall is barely visible.",
+            "alt": "Pink robot Pixel following a trail of clues through the busy workshop toward a hidden wall crack",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-873a9e5ca3/scene_3_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Help List",
+      "pages": [
+        {
+          "text": "A help list forms inside her head:\n• Find the crack that hides the birds\n• Move the heavy things away\n• Listen close to tiny words\n• Save the singers right today\n\nBehind the press, so dark and tight,\nA space too small for morning light.\nThe birds flew in but can't fly out,\nThey need a friend without a doubt.\n\nPixel's little hands work fast,\nTo free the birds trapped till the last.\nShe moves the gears with gentle care,\nTo let in light and morning air.\n\n'We're here!' she calls, 'Don't be afraid,\nI'm Pixel, and I'm here to aid.'",
+          "illustration": {
+            "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands carefully moves heavy printing equipment and gears to reveal a narrow space where small birds are trapped. The scene shows the complex inner workings of the printing press with hundreds of tiny mechanical details - springs, bolts, levers, and wheels. Birds can be seen huddled together in the small opening, with worried expressions. Tools and rescue equipment are scattered around Pixel.",
+            "alt": "Robot Pixel carefully moving machinery to rescue trapped birds from a narrow space",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-873a9e5ca3/scene_4_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Happy List",
+      "pages": [
+        {
+          "text": "Now Pixel's happy list is long:\n• The sparrows sing their morning song\n• The robin family chirps with glee\n• The finches dance from tree to tree\n• The printing shop has music free!\n\nThe birds fly 'round her shiny head,\n'Thank you, friend!' is what they said.\n'You saved our home, you saved our day,\nNow we can sing and safely stay.'\n\nThe little robot's heart glows bright,\nShe made the morning world feel right.\nSometimes the smallest, gentlest voice\nCan give the world a singing choice.\n\nWith lists of love and lists of care,\nPixel keeps the music there.\nIn crooked streets and printing shops,\nThe helpful song never stops.",
+          "illustration": {
+            "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands dances joyfully as colorful birds fly in circles around her in the printing shop. The scene is alive with activity - birds perched on every surface, nests rebuilt in safe corners, and musical notes seeming to float in the air. The shop is still cluttered but now feels warm and welcoming, with birds integrated naturally into the workspace. Papers flutter, ink bottles gleam, and everything suggests harmony between the mechanical and natural worlds.",
+            "alt": "Happy robot Pixel surrounded by singing birds in the bustling, harmonious printing shop",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-873a9e5ca3/scene_5_1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "environmental stewardship",
+      "helping wildlife",
+      "problem-solving",
+      "community care"
+    ],
+    "keywords": [
+      "robot",
+      "birds",
+      "printing press",
+      "mystery",
+      "helping",
+      "lists",
+      "music"
+    ],
+    "educational": [
+      "observation skills",
+      "logical thinking",
+      "empathy",
+      "environmental awareness"
+    ],
+    "coverPrompt": {
+      "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands stands in a crooked cobblestone street outside an old printing press shop. The shop's windows glow warmly, filled with towering stacks of paper, old machinery, and hidden corners. Birds' nests are tucked into every crevice of the building's weathered exterior. The scene is bustling with tiny details - scattered letter blocks, hanging paper sheets, and small creatures peeking from corners.",
+      "alt": "Small pink robot Pixel standing outside a cozy but cluttered printing press shop on a winding street"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What was missing from the printing shop in the morning?",
+        "choices": [
+          "The ink bottles",
+          "The birdsong",
+          "The paper stacks"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pixel noticed that the morning birdsong was missing - there were no tweets, chirps, or whistled notes from the tiny throats."
+      },
+      {
+        "id": "q2",
+        "question": "What did Pixel use to help solve the mystery?",
+        "choices": [
+          "Magic spells",
+          "Lists of clues",
+          "A computer"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pixel made different kinds of lists - worry lists, clue lists, and help lists - to organize her thoughts and solve the mystery."
+      },
+      {
+        "id": "q3",
+        "question": "Where were the birds trapped?",
+        "choices": [
+          "In the paper stacks",
+          "Behind the printing press",
+          "In the ink bottles"
+        ],
+        "correctIndex": 1,
+        "explanation": "The birds were trapped behind the press, behind the gears, in a space too small for morning light."
+      },
+      {
+        "id": "q4",
+        "question": "How did Pixel help the birds?",
+        "choices": [
+          "She moved the heavy gears",
+          "She gave them food",
+          "She sang to them"
+        ],
+        "correctIndex": 0,
+        "explanation": "Pixel moved the gears with gentle care to let in light and morning air so the birds could escape."
+      },
+      {
+        "id": "q5",
+        "question": "What happened at the end of the story?",
+        "choices": [
+          "The birds flew away forever",
+          "The birds returned to sing in the shop",
+          "Pixel left the shop"
+        ],
+        "correctIndex": 1,
+        "explanation": "The birds were freed and returned to singing in the printing shop, making Pixel's happy list very long."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "birdsong",
+            "distractors": [
+              "machine",
+              "paper"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "heart-shaped",
+            "distractors": [
+              "round",
+              "square"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "clues",
+            "distractors": [
+              "songs",
+              "gears"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "trapped",
+            "distractors": [
+              "singing",
+              "flying"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": ""
+}

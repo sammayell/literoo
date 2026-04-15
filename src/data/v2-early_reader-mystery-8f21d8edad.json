@@ -1,0 +1,214 @@
+{
+  "id": "v2-early_reader-mystery-8f21d8edad",
+  "title": "Field Notes from the Black Rim",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "mystery"
+  ],
+  "wordCount": 594,
+  "readingLevel": "Grade 1-2",
+  "synopsis": "When a small alien researcher becomes separated from her exploration team on the rim of a sleeping volcano, she must use her scientific observation skills and growing list of clues to find her way back to her family among the mysterious black sands.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-8f21d8edad/cover.png",
+  "chapters": [
+    {
+      "title": "The First Entry",
+      "pages": [
+        {
+          "text": "Steam rises from cracks in the black sand, carrying whispers I cannot understand. My research journal glows softly in my four-fingered hands as I make my first observation: the expedition team's footprints stop here. Mine continue alone.\n\nField Note #1: I am Nova, junior researcher from the Third Moon Colony. My mission was simple - collect mineral samples from the sleeping volcano's rim. But the black sand holds more mysteries than expected.\n\nWorry List (Day 1):\n- Team Leader Zara's communicator went silent three sand-dunes ago\n- The volcanic glass here reflects sounds that aren't there\n- My pale-blue skin shows more inner light when I'm frightened\n- Something watches from the steam vents",
+          "illustration": {
+            "description": "Nova, a small alien with translucent pale-blue skin showing faint inner light, four nimble fingers per hand, a bald domed head, and huge reflective black eyes, kneels in black volcanic sand examining scattered footprints with a magnifying glass. The detailed scene includes various volcanic specimens, crystalline formations, steam wisps, and partially buried research equipment. Multiple sets of alien footprints lead in different directions across the composition.",
+            "alt": "Nova examines footprints in black sand with research tools scattered around",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-8f21d8edad/scene_1_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Strange Sounds in the Steam",
+      "pages": [
+        {
+          "text": "The volcanic rim stretches before me like a sleeping giant's collar. Each step on the black sand makes a soft crushing sound, like breaking tiny shells. My huge reflective eyes catch movement in the steam vents ahead.\n\nField Note #2: The sounds are not random. They follow patterns.\n\nClue List (growing):\n- Three different footprint sizes in the sand\n- Broken communication device near the large boulder\n- Fresh scratches on volcanic rocks, too deliberate to be natural\n- The steam carries a melody\n\nI press my domed head close to a vent. The melody is clearer now - not wind through rocks, but voices. Familiar voices.",
+          "illustration": {
+            "description": "Nova, a small alien with translucent pale-blue skin showing faint inner light, four nimble fingers per hand, a bald domed head, and huge reflective black eyes, listens at a steam vent among jagged black volcanic rocks. The busy composition shows broken communication equipment, different types of footprints preserved in ash, strange scratch marks on stones, and various scientific instruments scattered throughout the volcanic landscape.",
+            "alt": "Nova listens to mysterious sounds coming from volcanic steam vents",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Following the Scratches",
+      "pages": [
+        {
+          "text": "My nimble fingers trace the scratches carved into black volcanic glass. They form arrows, pointing deeper into the rim's maze of smoking craters. Someone left a trail.\n\nField Note #3: The scratches spell words in our moon-language: 'SAFE' and 'FOLLOW'\n\nWish List (whispered to the steam):\n- To hear Zara's laugh echoing off crater walls again\n- To share my mineral discoveries with Research Partner Kex\n- To not feel so small against the sleeping volcano's vastness\n- To understand why we were separated\n\nThe black sand grows warmer under my feet. My inner light pulses steadier now - not from fear, but from hope. The scratches lead toward a natural amphitheater carved into the rim.",
+          "illustration": {
+            "description": "Nova, a small alien with translucent pale-blue skin showing faint inner light, four nimble fingers per hand, a bald domed head, and huge reflective black eyes, follows carved arrow symbols in black volcanic glass. The detailed scene includes various carved messages, trail markers, scattered research samples in collection containers, and a winding path through the volcanic terrain with many small objects and clues hidden throughout.",
+            "alt": "Nova follows carved arrow symbols through the volcanic landscape",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-8f21d8edad/scene_3_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Hidden Amphitheater",
+      "pages": [
+        {
+          "text": "The amphitheater opens before me like a secret cupped in the volcano's palm. And there - three figures bent over glowing instruments, their familiar blue light mixing with mine.\n\nField Note #4: They were not lost. They were working.\n\nNew Clue List (the truth emerging):\n- Zara's communicator wasn't broken, just switched to silent mode\n- The team split up to cover more ground safely\n- The scratches were left for me to find my way\n- They waited\n\n'Nova!' Zara's voice carries across the black sand like music. 'We found the most incredible crystal formation. But we needed our best mineral specialist to confirm our discovery.'",
+          "illustration": {
+            "description": "Nova, a small alien with translucent pale-blue skin showing faint inner light, four nimble fingers per hand, a bald domed head, and huge reflective black eyes, overlooks a circular amphitheater carved in black volcanic rock where three other aliens work with scientific equipment. The complex composition shows multiple research stations, glowing crystal formations, various specimens and tools, measurement devices, and sample containers scattered throughout the detailed volcanic environment.",
+            "alt": "Nova discovers her team working in a hidden volcanic amphitheater",
+            "layout": "full-page"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Final Notes",
+      "pages": [
+        {
+          "text": "We work together as the sleeping volcano breathes steam around us. My journal fills with shared observations, collective wonder recorded in glowing ink on treated pages.\n\nField Note #5 (Final): Sometimes separation leads to discovery. Sometimes being lost helps you understand how much you belong.\n\nFamily List (newly understood):\n- Zara, who leaves careful trails for wandering researchers\n- Kex, who saves the most beautiful specimens for others to see first\n- Tem, who knows exactly how long to wait in silence\n- Me, Nova, who follows clues and trusts in steam-whispered songs\n\nThe black rim holds its secrets gently, sharing them only with those who listen carefully and keep detailed notes. As we pack our samples and instruments, the volcano's sleeping breath carries our mixed laughter up toward the distant stars - the sound of a family reunited, a mystery solved, a home that travels wherever we explore together.",
+          "illustration": {
+            "description": "Nova, a small alien with translucent pale-blue skin showing faint inner light, four nimble fingers per hand, a bald domed head, and huge reflective black eyes, works alongside three other similar aliens organizing scientific equipment and specimens on the black volcanic sand. The detailed composition shows packed research gear, labeled sample containers, glowing journals, measuring instruments, crystal specimens, and various scientific tools scattered across the organized workspace.",
+            "alt": "Nova and her team pack their research equipment together on the volcanic rim",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-8f21d8edad/scene_5_1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "scientific observation",
+      "found family",
+      "belonging",
+      "trust"
+    ],
+    "keywords": [
+      "volcano",
+      "alien",
+      "research",
+      "mystery",
+      "family",
+      "clues"
+    ],
+    "setting": "volcanic rim with black sand",
+    "narrativeStyle": "field notes and scientific journal",
+    "coverPrompt": {
+      "description": "Nova, a small alien with translucent pale-blue skin showing faint inner light, four nimble fingers per hand, a bald domed head, and huge reflective black eyes, stands on volcanic black sand holding a glowing journal. Around her are scattered volcanic glass fragments, strange footprints, and mysterious objects partially buried in the dark sand. The composition is busy with hidden details - tiny crystals, unusual rock formations, and distant steam vents creating a search-and-find atmosphere.",
+      "alt": "A small blue alien stands on black volcanic sand, surrounded by mysterious objects and clues scattered across the landscape"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What does Nova use to record her observations?",
+        "choices": [
+          "A glowing journal",
+          "A broken communicator",
+          "Scratches in rocks"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nova writes her field notes in a glowing research journal throughout the story."
+      },
+      {
+        "id": "q2",
+        "question": "What kind of trail did Nova's team leave for her?",
+        "choices": [
+          "Footprints in sand",
+          "Scratches with arrows and words",
+          "Broken equipment"
+        ],
+        "correctIndex": 1,
+        "explanation": "The team carved arrows and words like 'SAFE' and 'FOLLOW' into the volcanic glass to help Nova find them."
+      },
+      {
+        "id": "q3",
+        "question": "Where does Nova find her team?",
+        "choices": [
+          "At the steam vents",
+          "In a hidden amphitheater",
+          "Near a large boulder"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nova discovers her team working in a natural amphitheater carved into the volcanic rim."
+      },
+      {
+        "id": "q4",
+        "question": "Why did Nova's team separate from her?",
+        "choices": [
+          "They got lost",
+          "To cover more ground safely",
+          "They were hiding from her"
+        ],
+        "correctIndex": 1,
+        "explanation": "The team split up to explore different areas and gather more research, leaving clues for Nova to follow."
+      },
+      {
+        "id": "q5",
+        "question": "What makes Nova's skin glow brighter?",
+        "choices": [
+          "When she's happy",
+          "When she's frightened",
+          "When she's tired"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nova notices her pale-blue skin shows more inner light when she's frightened or emotional."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "black",
+            "distractors": [
+              "white",
+              "red"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "glows",
+            "distractors": [
+              "shines",
+              "burns"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "scratches",
+            "distractors": [
+              "marks",
+              "lines"
+            ]
+          },
+          {
+            "wordIndex": 20,
+            "correctWord": "trail",
+            "distractors": [
+              "path",
+              "road"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "nova"
+}
