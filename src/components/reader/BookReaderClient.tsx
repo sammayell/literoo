@@ -246,6 +246,10 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
   // HTMLAudioElement used for ElevenLabs MP3 playback
   const narrationAudioRef = useRef<HTMLAudioElement | null>(null);
 
+  // Need goToPage defined here (before startAIRead which depends on it)
+  // Declared via ref pattern to avoid circular deps; actual impl is below.
+  const goToPageRef = useRef<(n: number) => void>(() => {});
+
   // AI Read mode — prefers ElevenLabs MP3, falls back to browser TTS
   const startAIRead = useCallback(() => {
     const page = pages[currentPage];
@@ -263,7 +267,7 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
       setHighlightedWordIndex(-1);
       if (currentPage < pages.length - 1) {
         setTimeout(() => {
-          goToPage(currentPage + 1);
+          goToPageRef.current(currentPage + 1);
           setTimeout(() => {
             if (aiReadActive) startAIRead();
           }, 500);
@@ -306,7 +310,7 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
     tts.onEnd(advanceToNext);
     tts.speak(page.content);
     setAiReadActive(true);
-  }, [currentPage, pages, ttsSpeed, aiReadActive, goToPage]);
+  }, [currentPage, pages, ttsSpeed, aiReadActive]);
 
   const stopAIRead = useCallback(() => {
     const tts = getTTS();
@@ -343,6 +347,11 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
     },
     [totalPages]
   );
+
+  // Keep ref pointing to latest goToPage for use inside startAIRead
+  useEffect(() => {
+    goToPageRef.current = goToPage;
+  }, [goToPage]);
 
   const nextPage = useCallback(() => {
     goToPage(currentPage + 1);
