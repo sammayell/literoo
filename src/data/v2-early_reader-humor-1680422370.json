@@ -25,6 +25,9 @@
             "alt": "Hiro examining his steamy invention in the kitchen",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-1680422370/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-1680422370/ch1_p1.mp3"
           }
         },
         {
@@ -34,6 +37,9 @@
             "alt": "Hiro surrounded by small shadow creatures in the steam",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-1680422370/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-1680422370/ch1_p2.mp3"
           }
         }
       ]
@@ -48,6 +54,9 @@
             "alt": "Hiro studying the shadow creatures on his invention",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-1680422370/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-1680422370/ch2_p1.mp3"
           }
         },
         {
@@ -57,6 +66,9 @@
             "alt": "Shadow creatures bumping into objects while Hiro observes",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-1680422370/scene_2_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-1680422370/ch2_p2.mp3"
           }
         }
       ]
@@ -71,6 +83,9 @@
             "alt": "Hiro and creatures following the steam map patterns",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-1680422370/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-1680422370/ch3_p1.mp3"
           }
         },
         {
@@ -80,6 +95,9 @@
             "alt": "Hiro holding and comforting the gathered shadow creatures",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-1680422370/scene_3_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-1680422370/ch3_p2.mp3"
           }
         }
       ]
@@ -94,6 +112,9 @@
             "alt": "Hiro creating a steam bridge to help creatures return home",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-1680422370/scene_4_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-1680422370/ch4_p1.mp3"
           }
         },
         {
@@ -103,6 +124,9 @@
             "alt": "Shadow creatures traveling up the steam bridge as Hiro waves farewell",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-1680422370/scene_4_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-1680422370/ch4_p2.mp3"
           }
         }
       ]
@@ -117,6 +141,9 @@
             "alt": "Hiro contentedly watching the last shadow creatures play in the peaceful kitchen",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-1680422370/scene_5_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-1680422370/ch5_p1.mp3"
           }
         },
         {
@@ -126,6 +153,9 @@
             "alt": "Hiro leaving the kitchen with his magical contraption glowing softly in the darkness",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-1680422370/scene_5_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-1680422370/ch5_p2.mp3"
           }
         }
       ]
@@ -256,5 +286,7 @@
       }
     ]
   },
-  "_spec_character_name": "hiro"
+  "_spec_character_name": "hiro",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }

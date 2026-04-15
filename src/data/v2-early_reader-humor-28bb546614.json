@@ -25,6 +25,9 @@
             "alt": "Lily pointing at normal pumpkins while claiming they're huge",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-28bb546614/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-28bb546614/ch1_p1.mp3"
           }
         },
         {
@@ -34,6 +37,9 @@
             "alt": "Lily explaining her invisible giant pumpkin to her approaching mother",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-28bb546614/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-28bb546614/ch1_p2.mp3"
           }
         }
       ]
@@ -48,6 +54,9 @@
             "alt": "Lily hopping on one foot while pumpkins laugh around her",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-28bb546614/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-28bb546614/ch2_p1.mp3"
           }
         },
         {
@@ -57,6 +66,9 @@
             "alt": "Lily conducting while her mother hops and other children approach",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-28bb546614/scene_2_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-28bb546614/ch2_p2.mp3"
           }
         }
       ]
@@ -71,6 +83,9 @@
             "alt": "Lily directing her audience in the pumpkin summoning ritual",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-28bb546614/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-28bb546614/ch3_p1.mp3"
           }
         },
         {
@@ -80,6 +95,9 @@
             "alt": "Lily looking worried while pumpkins lean in to listen",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-28bb546614/scene_3_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-28bb546614/ch3_p2.mp3"
           }
         }
       ]
@@ -94,6 +112,9 @@
             "alt": "Lily telling the truth while children listen supportively at sunset",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-28bb546614/scene_4_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-28bb546614/ch4_p1.mp3"
           }
         },
         {
@@ -103,6 +124,9 @@
             "alt": "Lily hugging her mother as pumpkins applaud in the twilight",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-28bb546614/scene_4_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-28bb546614/ch4_p2.mp3"
           }
         }
       ]
@@ -234,5 +258,7 @@
       }
     ]
   },
-  "_spec_character_name": ""
+  "_spec_character_name": "",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
