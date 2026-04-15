@@ -25,7 +25,10 @@
             "alt": "Marcus surrounded by glowing pebbles on the beach looking surprised",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-3179bfa7ff/scene_1_1.png"
           },
-          "layout": "full-page"
+          "layout": "full-page",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-3179bfa7ff/ch1_p1.mp3"
+          }
         }
       ]
     },
@@ -39,7 +42,10 @@
             "alt": "Marcus wearing a seaweed crown and dancing while pebbles watch and storm clouds gather",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-3179bfa7ff/scene_2_1.png"
           },
-          "layout": "full-page"
+          "layout": "full-page",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-3179bfa7ff/ch2_p1.mp3"
+          }
         }
       ]
     },
@@ -53,7 +59,10 @@
             "alt": "Marcus and the pebbles having a council meeting as storm clouds grow darker",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-3179bfa7ff/scene_3_1.png"
           },
-          "layout": "full-page"
+          "layout": "full-page",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-3179bfa7ff/ch3_p1.mp3"
+          }
         }
       ]
     },
@@ -67,7 +76,10 @@
             "alt": "Marcus greeting a magical storm with glowing rain while pebbles play in puddles around him",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-3179bfa7ff/scene_4_1.png"
           },
-          "layout": "full-page"
+          "layout": "full-page",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-3179bfa7ff/ch4_p1.mp3"
+          }
         }
       ]
     },
@@ -81,7 +93,10 @@
             "alt": "Marcus walking along the magical beach after the storm with his colorful pebble friends",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-3179bfa7ff/scene_5_1.png"
           },
-          "layout": "full-page"
+          "layout": "full-page",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-3179bfa7ff/ch5_p1.mp3"
+          }
         }
       ]
     }
@@ -214,5 +229,7 @@
       }
     ]
   },
-  "_spec_character_name": "marcus"
+  "_spec_character_name": "marcus",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
