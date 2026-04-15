@@ -245,33 +245,45 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
 
   // HTMLAudioElement used for ElevenLabs MP3 playback
   const narrationAudioRef = useRef<HTMLAudioElement | null>(null);
+  // Audio progress for the current page (0..1)
+  const [audioProgress, setAudioProgress] = useState(0);
+  // Does the current page have MP3 narration available?
+  const pageHasMP3 = pages[currentPage]?.narrationSrc != null;
 
-  // Need goToPage defined here (before startAIRead which depends on it)
-  // Declared via ref pattern to avoid circular deps; actual impl is below.
+  // Refs for functions that reference each other (avoid stale closures)
   const goToPageRef = useRef<(n: number) => void>(() => {});
+  const startAIReadRef = useRef<() => void>(() => {});
+  const stopAIReadRef = useRef<() => void>(() => {});
+  // Flag to suppress auto-advance after an intentional stop
+  const manuallyStoppedRef = useRef(false);
 
   // AI Read mode — prefers ElevenLabs MP3, falls back to browser TTS
   const startAIRead = useCallback(() => {
     const page = pages[currentPage];
     if (!page || (page.type !== "text" && page.type !== "chapter-start")) return;
 
-    // Stop anything that's currently playing
+    // Stop anything that's currently playing (but don't mark as manual stop)
     const tts = getTTS();
     tts.stop();
     if (narrationAudioRef.current) {
+      narrationAudioRef.current.onended = null;
       narrationAudioRef.current.pause();
       narrationAudioRef.current = null;
     }
 
+    manuallyStoppedRef.current = false;
+    setAudioProgress(0);
+
     const advanceToNext = () => {
+      if (manuallyStoppedRef.current) return;
       setHighlightedWordIndex(-1);
-      if (currentPage < pages.length - 1) {
+      // Use current state via the ref, not the captured closure value
+      goToPageRef.current((currentPage + 1 >= pages.length) ? pages.length - 1 : currentPage + 1);
+      // If there's a next page, continue reading there
+      if (currentPage + 1 < pages.length) {
         setTimeout(() => {
-          goToPageRef.current(currentPage + 1);
-          setTimeout(() => {
-            if (aiReadActive) startAIRead();
-          }, 500);
-        }, 300);
+          if (!manuallyStoppedRef.current) startAIReadRef.current();
+        }, 400);
       } else {
         setAiReadActive(false);
       }
@@ -281,9 +293,14 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
     if (page.narrationSrc) {
       const audio = new Audio(page.narrationSrc);
       audio.playbackRate = ttsSpeed;
-      audio.onended = advanceToNext;
-      audio.onerror = () => {
-        // Fall back to browser TTS if MP3 fails to load
+      audio.preload = "auto";
+      audio.addEventListener("ended", advanceToNext);
+      audio.addEventListener("timeupdate", () => {
+        if (audio.duration > 0) {
+          setAudioProgress(audio.currentTime / audio.duration);
+        }
+      });
+      audio.addEventListener("error", () => {
         narrationAudioRef.current = null;
         if (!tts.isSupported) {
           setAiReadActive(false);
@@ -293,10 +310,9 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
         tts.onBoundary((event) => setHighlightedWordIndex(event.wordIndex));
         tts.onEnd(advanceToNext);
         tts.speak(page.content);
-      };
+      });
       narrationAudioRef.current = audio;
       audio.play().catch(() => {
-        // Autoplay blocked — user needs to tap
         setAiReadActive(false);
       });
       setAiReadActive(true);
@@ -310,18 +326,27 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
     tts.onEnd(advanceToNext);
     tts.speak(page.content);
     setAiReadActive(true);
-  }, [currentPage, pages, ttsSpeed, aiReadActive]);
+  }, [currentPage, pages, ttsSpeed]);
 
   const stopAIRead = useCallback(() => {
+    manuallyStoppedRef.current = true;
     const tts = getTTS();
     tts.stop();
     if (narrationAudioRef.current) {
+      narrationAudioRef.current.onended = null;
       narrationAudioRef.current.pause();
       narrationAudioRef.current = null;
     }
     setAiReadActive(false);
     setHighlightedWordIndex(-1);
+    setAudioProgress(0);
   }, []);
+
+  // Keep refs pointing to latest functions so closures in advanceToNext are fresh
+  useEffect(() => {
+    startAIReadRef.current = startAIRead;
+    stopAIReadRef.current = stopAIRead;
+  }, [startAIRead, stopAIRead]);
 
   const toggleAIRead = useCallback(() => {
     if (aiReadActive) {
@@ -524,26 +549,46 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
             </p>
           </div>
 
-          {/* AI Read button */}
+          {/* Read-aloud button — bigger, pill-shaped, with label and progress */}
           <button
             onClick={toggleAIRead}
-            className={`p-2 rounded-lg transition-colors ${
+            className={`relative flex items-center gap-2 pl-2 pr-3 py-1.5 rounded-full transition-all overflow-hidden ${
               aiReadActive
-                ? "bg-brand-500 text-white"
-                : "hover:bg-black/5 dark:hover:bg-white/10"
+                ? "bg-brand-500 text-white shadow-md"
+                : "bg-stone-100 text-stone-700 hover:bg-stone-200"
             }`}
-            aria-label={aiReadActive ? "Stop reading" : "Read to me"}
-            title={aiReadActive ? "Stop reading" : "Read to me"}
+            aria-label={aiReadActive ? "Pause reading" : "Read aloud"}
+            title={aiReadActive ? "Pause" : "Read aloud"}
           >
-            {aiReadActive ? (
-              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                <rect x="6" y="4" width="4" height="16" /><rect x="14" y="4" width="4" height="16" />
-              </svg>
-            ) : (
-              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5" /><path d="M15.54 8.46a5 5 0 0 1 0 7.07" /><path d="M19.07 4.93a10 10 0 0 1 0 14.14" />
-              </svg>
+            {/* Progress bar fill — shown behind content when active */}
+            {aiReadActive && (
+              <div
+                className="absolute inset-y-0 left-0 bg-white/25 transition-[width] duration-100 ease-linear pointer-events-none"
+                style={{ width: `${audioProgress * 100}%` }}
+              />
             )}
+            <span className="relative z-10 flex items-center gap-2">
+              {aiReadActive ? (
+                <>
+                  {/* Pause icon */}
+                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                    <rect x="6" y="5" width="4" height="14" rx="1" />
+                    <rect x="14" y="5" width="4" height="14" rx="1" />
+                  </svg>
+                  <span className="text-xs font-semibold hidden sm:inline">Pause</span>
+                </>
+              ) : (
+                <>
+                  {/* Play icon */}
+                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M8 5v14l11-7z" />
+                  </svg>
+                  <span className="text-xs font-semibold hidden sm:inline">
+                    {pageHasMP3 ? "Read aloud" : "Read (robot)"}
+                  </span>
+                </>
+              )}
+            </span>
           </button>
 
           <button
@@ -672,31 +717,7 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
         )}
       </div>
 
-      {/* AI Read floating controls */}
-      {aiReadActive && (
-        <div
-          className={`fixed bottom-8 left-1/2 -translate-x-1/2 z-50 flex items-center gap-3 px-5 py-3 rounded-full shadow-xl backdrop-blur-md transition-all`}
-          style={{
-            backgroundColor:
-              applyTheme === "dark"
-                ? "rgba(30,30,30,0.95)"
-                : "rgba(255,255,255,0.95)",
-          }}
-        >
-          <button
-            onClick={stopAIRead}
-            className="p-2 rounded-full bg-red-100 text-red-600 hover:bg-red-200"
-            aria-label="Stop reading"
-          >
-            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
-              <rect x="6" y="6" width="12" height="12" rx="1" />
-            </svg>
-          </button>
-          <span className="text-xs font-medium opacity-60">
-            Reading aloud... {ttsSpeed}x
-          </span>
-        </div>
-      )}
+      {/* Floating pill removed — all audio controls are now in the top bar. */}
 
       {/* Main scroll container */}
       <div ref={scrollRef} className="reader-scroll-container">
