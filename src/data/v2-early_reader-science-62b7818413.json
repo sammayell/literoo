@@ -1,0 +1,252 @@
+{
+  "id": "v2-early_reader-science-62b7818413",
+  "title": "When Sound Travels Slow",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "science",
+    "adventure"
+  ],
+  "wordCount": 1305,
+  "readingLevel": "early_reader",
+  "synopsis": "In a village where everything moves so slowly that snails are the fastest residents, young Zuri discovers the village's beloved bell tower has stopped chiming. Following a mysterious map of sound waves, she journeys through different locations where music and vibrations behave in magical ways, learning that sometimes the most beautiful solutions come from working together in harmony.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-62b7818413/cover.png",
+  "chapters": [
+    {
+      "title": "The Village Square Where Time Yawns",
+      "pages": [
+        {
+          "text": "The snails were racing again, their shells gleaming like jewels as they glided past the fountain at what anyone else would call a crawl. Zuri watched them from the village square, her natural coily hair in an afro with a flower clip catching the lazy sunlight. In Slowhaven Village, the snails were indeed the fastest residents—faster than the sleepy cats who took three hours to stretch, faster than the clouds that drifted like honey through the sky.\n\nHave you ever been somewhere so peaceful that even your heartbeat seemed to slow down? That's how visitors felt in Slowhaven, where every movement was a gentle dance with time itself. The baker kneaded bread with the rhythm of ocean waves, and butterflies hung in the air like painted dreams.\n\nBut today, something was wrong. The village bell tower, which had chimed the hours in musical notes that floated like soap bubbles through the air, stood silent. Its voice, which once sang lullabies to wake the flowers and symphonies to call the rain, had simply... stopped.",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, sitting in a dreamy village square where large, jewel-toned snails glide past a ornate fountain. The scene shows the scientific wonder of movement and time, with motion trails visible behind the snails and the silent bell tower looming mysteriously in the background.",
+            "alt": "Zuri observing racing snails in the magical village square",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-62b7818413/scene_1_1.png"
+          }
+        },
+        {
+          "text": "Zuri had always been able to hear music in everything—the whisper-songs of grass growing, the percussion of raindrops finding puddles, the harmony that hummed between friends. Now, without the bell's voice, the village felt like a song missing its melody.\n\nShe approached the tower's ancient wooden door, which creaked open with the speed of a sigh. Inside, curled up like a question mark on the dusty floor, lay a map. Not drawn on paper, mind you, but made of visible sound waves that shimmered gold and silver in the dim light. The map showed four locations, each pulsing with a different rhythm.\n\n\"How curious,\" whispered Zuri, though in Slowhaven, even whispers took their time to travel. \"A map of sounds. But where do they lead?\"",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, kneeling inside the bell tower examining a magical map made of shimmering sound waves that glow gold and silver. The scene captures scientific wonder with visible sound patterns floating in the air like ribbons of light, creating a sense of discovery and amazement.",
+            "alt": "Zuri discovering a magical sound wave map inside the bell tower",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-62b7818413/scene_1_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Whispering Grove Where Echoes Live",
+      "pages": [
+        {
+          "text": "Following the map's first glowing trail, Zuri found herself in the Whispering Grove, where trees so old they remembered the first sunrise leaned together like gossiping grandparents. Here, sound behaved even more strangely than usual. Whispers from a hundred years ago still bounced between the bark, and if you listened carefully, you could hear the laughter of children who had played here long before you were born.\n\n\"Hello?\" called Zuri, and her voice split into a rainbow of echoes, each one a different musical note. One echo came back as a flute song, another as drums, and yet another as the gentle strum of guitar strings.\n\nA family of field mice emerged from a hollow log, their whiskers twitching with excitement. \"The sounds are all mixed up!\" squeaked the smallest mouse. \"We've been trying to organize them back into harmony, but it's like trying to untangle a cloud.\"",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, standing among ancient, towering trees where visible sound waves swirl in rainbow colors between the branches. Small field mice peek out from a hollow log while musical notes and echoes dance through the air like colorful ribbons, showing the scientific magic of sound reflection.",
+            "alt": "Zuri in the magical grove with colorful sound echoes and helpful mice",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-62b7818413/scene_2_1.png"
+          }
+        },
+        {
+          "text": "Zuri knelt down to the mice's level, her bright eyes sparkling with an idea. \"What if we don't try to untangle them alone? What if we work together, like instruments in an orchestra?\"\n\nShe began to hum a simple tune, and the mice joined in with their tiny voices. The chaotic echoes began to slow, drawn to their combined melody like metal filings to a magnet. Slowly, beautifully, the mixed-up sounds began to separate and organize themselves into layers of harmony.\n\nAs the last echo found its proper place, a golden sound wave detached itself from the trees and floated toward Zuri. It was warm to the touch, like captured sunshine, and it hummed with the memory of cooperation. The first piece of the puzzle, perhaps? She tucked it carefully into her pocket and consulted the map again.",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, kneeling with a group of small mice as they sing together. Golden sound waves spiral around them in organized patterns, showing the scientific wonder of sound organization and harmony. The scene captures the eureka moment of discovery as chaotic sound waves transform into beautiful, orderly patterns.",
+            "alt": "Zuri and mice working together to organize sound waves into harmony",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-62b7818413/scene_2_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Crystal Caves Where Music Sleeps",
+      "pages": [
+        {
+          "text": "The second location on the sound-wave map led Zuri deep underground to the Crystal Caves, where music went to rest when the world above fell asleep. Here, melodies crystallized into gem-like formations that grew from the ceiling and floor like frozen songs. Each crystal held a different tune—lullabies in the amethyst clusters, dance songs in the ruby formations, and ancient ballads in the diamonds that sparkled like captured stars.\n\nBut something was wrong here too. A giant crystal formation in the center of the cave had cracked right down the middle, and all the music trapped inside was leaking out in a jumbled, discordant mess. The beautiful harmony that once made the caves ring like a cathedral had become a cacophony of confused melodies.\n\n\"Oh dear,\" sighed a voice from the shadows. Out stepped a badger wearing tiny spectacles, her fur dusted with crystal powder. \"I'm the Cave Keeper, and I've been trying to fix this crystal for days. But every time I try to seal the crack, the music pushes it open again.\"",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, exploring a magical underground cave filled with musical crystals that glow with different colors. A wise badger with spectacles stands near a large cracked crystal formation as chaotic musical notes and sound waves escape from the fissure, creating a scene of scientific wonder and musical chaos.",
+            "alt": "Zuri in crystal caves with musical formations and a spectacled badger",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-62b7818413/scene_3_1.png"
+          }
+        },
+        {
+          "text": "Zuri examined the crack, listening to the tangled music that poured from it like water from a broken dam. She pulled the golden sound wave from her pocket—the harmony she'd helped create with the mice—and watched as it danced gently in her palm.\n\n\"What if we don't fight the music?\" she suggested to the badger. \"What if we give it somewhere to go instead?\"\n\nTogether, they began to sing—Zuri's clear voice weaving with the badger's rich, deep tones. As they sang, the golden sound wave grew larger, creating a bridge of harmony between the cracked crystal and the smaller crystals around the cave. The chaotic music found the bridge and began to flow along it, sorting itself into the appropriate crystals where each melody belonged.\n\nAs the last note found its home, the crack in the central crystal sealed itself with a sound like wind chimes in a gentle breeze. Another golden sound wave emerged, this one humming with the lesson that sometimes fixing something means knowing when to guide rather than force. Zuri carefully caught it and added it to her collection.",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, standing with the badger as they sing together. Golden bridges of light connect the cracked crystal to smaller crystals throughout the cave, with musical notes flowing along the light bridges like streams of color. The scene shows scientific wonder as sound finds its natural patterns through cooperation.",
+            "alt": "Zuri and badger creating musical bridges to heal the crystal cave",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-62b7818413/scene_3_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Bell Tower Where Harmony Returns",
+      "pages": [
+        {
+          "text": "The map's final destination led Zuri back to where her journey had begun—the village bell tower. But now she climbed the winding stairs with purpose, her pocket warm with the two golden sound waves she had gathered. Each step echoed strangely in the tower's hollow chamber, and as she reached the top, she understood why.\n\nThe great bell hung silent not because it was broken, but because it was lonely. You see, dear reader, some music is too big and too beautiful to make all by itself. The bell had been trying to sing the whole village's song alone, when it was meant to be just one voice in a much larger choir.\n\nZuri could see now what the sound-wave map had been trying to show her—traces of music threads that connected the bell to every corner of Slowhaven. The Whispering Grove's echoes, the Crystal Caves' sleeping melodies, and even the gentle songs that hummed in the hearts of every villager, including her own.",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, standing at the top of the bell tower with the great silent bell. Faint threads of golden light connect the bell to different parts of the village visible through the tower windows. Her pocket glows softly with the collected sound waves, showing the scientific wonder of how sound and music connect everything together.",
+            "alt": "Zuri in the bell tower seeing the connections between all village sounds",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-62b7818413/scene_4_1.png"
+          }
+        },
+        {
+          "text": "Zuri took the two golden sound waves from her pocket and held them up to the bell. They spun gently around the bronze surface, and as they did, the bell began to remember how to be part of something bigger than itself.\n\nBut the final piece was still missing. Zuri closed her bright eyes, took a deep breath, and began to sing—not trying to fix the bell or make it work, but simply adding her own voice to the village's eternal song. Her melody was like a bridge reaching out, connecting the bell to every sound in Slowhaven.\n\nSlowly, as if waking from a long dream, the bell began to chime. Its voice joined with Zuri's song, and together they called out to the grove, to the caves, to the snails racing in the square, and to every resident of the village. One by one, other voices joined in—the mice squeaking harmony, the badger humming deep bass notes, even the snails adding their own whispered percussion.\n\nThe village had found its voice again, not in one perfect bell, but in the beautiful cooperation of every sound working together. And if you listen very carefully, you can still hear them singing.",
+          "illustration": {
+            "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, singing beneath the great bell as it chimes with golden waves of music flowing out across the village. Through the tower windows, you can see the grove, caves, and village square all connected by streams of musical light, with various animals and the village itself singing in harmony, capturing the scientific wonder of sound cooperation.",
+            "alt": "Zuri singing as the bell chimes and connects the entire village in harmony",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-62b7818413/scene_4_2.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "cooperation",
+      "music",
+      "community",
+      "problem-solving",
+      "finding your place"
+    ],
+    "scienceConcepts": [
+      "sound waves",
+      "echoes",
+      "harmony",
+      "vibration",
+      "cooperation"
+    ],
+    "readingSkills": [
+      "descriptive language",
+      "cause and effect",
+      "problem-solving sequence",
+      "sensory details"
+    ],
+    "vocabulary": [
+      "harmony",
+      "echo",
+      "vibration",
+      "melody",
+      "cooperation",
+      "crystallize",
+      "resonance"
+    ],
+    "coverPrompt": {
+      "description": "Zuri with natural coily hair in an afro with a flower clip, deep brown skin, and bright eyes, standing in a dreamlike village square where giant snails glide gracefully past floating musical notes. The village bell tower looms in the background, silent and mysterious, while sound waves shimmer visibly in the air like ribbons of light.",
+      "alt": "A young girl in a magical slow village with visible sound waves"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What was the fastest thing in Slowhaven Village?",
+        "choices": [
+          "The cats",
+          "The snails",
+          "The butterflies"
+        ],
+        "correctIndex": 1,
+        "explanation": "The snails were the fastest residents in Slowhaven, racing past the fountain while everything else moved very slowly."
+      },
+      {
+        "id": "q2",
+        "question": "What did Zuri find inside the bell tower?",
+        "choices": [
+          "A broken bell",
+          "A map made of sound waves",
+          "A sleeping cat"
+        ],
+        "correctIndex": 1,
+        "explanation": "Zuri discovered a magical map made of visible sound waves that showed her four different locations."
+      },
+      {
+        "id": "q3",
+        "question": "How did Zuri and the mice fix the mixed-up echoes?",
+        "choices": [
+          "They worked together by singing",
+          "They used magic crystals",
+          "They climbed the trees"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zuri and the mice sang together, and their combined melody helped organize the chaotic echoes into harmony."
+      },
+      {
+        "id": "q4",
+        "question": "What was wrong with the big crystal in the cave?",
+        "choices": [
+          "It was too small",
+          "It was cracked and leaking music",
+          "It was the wrong color"
+        ],
+        "correctIndex": 1,
+        "explanation": "The giant crystal formation had cracked down the middle, causing all the trapped music to leak out in a jumbled mess."
+      },
+      {
+        "id": "q5",
+        "question": "Why wasn't the bell working at the end?",
+        "choices": [
+          "It was broken",
+          "It was too old",
+          "It was lonely and needed to be part of a bigger song"
+        ],
+        "correctIndex": 2,
+        "explanation": "The bell was trying to sing the whole village's song alone, when it was meant to be just one voice in a much larger choir."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "racing",
+            "distractors": [
+              "sleeping",
+              "hiding"
+            ]
+          },
+          {
+            "wordIndex": 45,
+            "correctWord": "fountain",
+            "distractors": [
+              "mountain",
+              "tower"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 23,
+            "correctWord": "echoes",
+            "distractors": [
+              "shadows",
+              "lights"
+            ]
+          },
+          {
+            "wordIndex": 67,
+            "correctWord": "harmony",
+            "distractors": [
+              "loudness",
+              "silence"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "zuri"
+}
