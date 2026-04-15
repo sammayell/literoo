@@ -1,0 +1,216 @@
+{
+  "id": "v2-early_reader-mystery-d563b04502",
+  "title": "Five Days to Midnight Tea",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "mystery",
+    "fantasy"
+  ],
+  "wordCount": 235,
+  "readingLevel": "Kindergarten-1st Grade",
+  "synopsis": "In the slowest village where snails are speedy, a baby dragon investigates mysterious midnight activities from a new neighbor who keeps odd schedules and stranger equipment.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-d563b04502/cover.png",
+  "chapters": [
+    {
+      "title": "Five Days",
+      "pages": [
+        {
+          "text": "The clock tower bonged at turtle speed. In Slowmere Village, where even snails zip past the residents, Ember watched something most peculiar. The new house had lights on past bedtime. Five days until something, the baby dragon was certain. But what could it be? What could it be? The mystery grows each evening, you see.",
+          "illustration": {
+            "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes sits by a window overlooking a village where everything moves in slow motion. Residents inch along sidewalks while snails race past them. A house across the way glows with mysterious lights. The scene is packed with details: slow-moving villagers carrying pocket watches, snails with tiny racing numbers, street lamps with time dials, and scattered measuring tools.",
+            "alt": "Ember observing the mysterious lit house in slow-motion Slowmere Village",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-d563b04502/scene_1_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Four Days",
+      "pages": [
+        {
+          "text": "Through Ember's magnifying glass came sounds most strange. Tick-tick-CLANK from the neighbor's range. Bubbling and measuring, stirring with care. Four days remaining—but for what affair? What could it be? What could it be? The mystery grows each evening, you see.",
+          "illustration": {
+            "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes holds a large magnifying glass toward a neighbor's kitchen window. Through the glass, mysterious equipment is visible: beakers, timers, measuring cups, and scientific instruments. The detailed scene includes kitchen utensils scattered on counters, bubbling pots, mathematical equations on chalkboards, and various experimental apparatus filling every corner of the cluttered kitchen.",
+            "alt": "Ember using a magnifying glass to investigate strange kitchen sounds",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-d563b04502/scene_2_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Three Days",
+      "pages": [
+        {
+          "text": "The neighbor emerged with bottles and spoons, measuring shadows and tracking the moon. Charts and graphs tucked under her arm. Three days to go—what was the charm? What could it be? What could it be? The mystery grows each evening, you see.",
+          "illustration": {
+            "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes hides behind a garden hedge, watching a neighbor carry armfuls of scientific equipment. The scene is cluttered with astronomical charts, measuring tools, telescopes, bottles with mysterious labels, graph paper, calculators, and moon phase calendars scattered across the garden path. Star charts and mathematical instruments fill every available space.",
+            "alt": "Ember spying on the neighbor's mysterious nighttime measurements",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-d563b04502/scene_3_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Two Days",
+      "pages": [
+        {
+          "text": "Midnight struck with its leisurely chime. The neighbor worked—was she tracking time? Ember crept closer through Slowmere's yard. Two days left now—the truth seemed so hard. What could it be? What could it be? The mystery grows each evening, you see.",
+          "illustration": {
+            "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes creeps through a moonlit garden filled with scientific equipment. The cluttered scene shows the neighbor hunched over tables covered with precise instruments: hourglasses, pendulum clocks, temperature gauges, pressure meters, notebooks with detailed observations, and experimental apparatus. Measuring devices and calculation tools are scattered everywhere in the organized chaos.",
+            "alt": "Ember sneaking closer to observe the neighbor's midnight experiments",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-d563b04502/scene_4_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "One Day",
+      "pages": [
+        {
+          "text": "On the final night, Ember knocked on the door. 'What happens tomorrow? I must know more!' The neighbor smiled, 'I'm testing, you see, the perfect brew time for midnight tea. Temperature matters, and timing precise—one minute too long and it won't taste nice.' What could it be? What could it be? The mystery solved with midnight tea!",
+          "illustration": {
+            "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes sits at a table with the neighbor, surrounded by the most cluttered tea laboratory imaginable. Every surface is covered with teapots, timers, thermometers, measuring spoons, tea leaf samples, brewing charts, temperature logs, scientific journals about tea, steeping equipment, and precision instruments for perfect tea preparation. Steam rises from multiple experimental tea setups.",
+            "alt": "Ember and the neighbor sharing midnight tea in her scientific tea laboratory",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-d563b04502/scene_5_1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "STEM curiosity",
+      "experimentation",
+      "observation",
+      "scientific method"
+    ],
+    "vocabulary": [
+      "precise",
+      "measuring",
+      "temperature",
+      "experiments",
+      "observations"
+    ],
+    "illustrations": 5,
+    "pages": 5,
+    "coverPrompt": {
+      "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes peers through a magnifying glass at a cluttered nighttime village scene. Snails zoom past mailboxes while mysterious lights glow from windows. The scene is packed with tiny details: pocket watches, teacups, measuring spoons, and scientific instruments scattered throughout the cobblestone streets.",
+      "alt": "Ember the dragon detective examining clues in a whimsical slow village"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What makes Slowmere Village special?",
+        "choices": [
+          "The snails are the fastest residents",
+          "Everyone moves very quickly",
+          "There are no clocks"
+        ],
+        "correctIndex": 0,
+        "explanation": "In Slowmere Village, everything moves so slowly that even the snails are faster than the people!"
+      },
+      {
+        "id": "q2",
+        "question": "How many days was Ember counting down?",
+        "choices": [
+          "Three days",
+          "Five days",
+          "Seven days"
+        ],
+        "correctIndex": 1,
+        "explanation": "Ember counted down from five days until the mystery was solved."
+      },
+      {
+        "id": "q3",
+        "question": "What tools did the neighbor use for her experiments?",
+        "choices": [
+          "Only measuring spoons",
+          "Timers, thermometers, and charts",
+          "Just teapots"
+        ],
+        "correctIndex": 1,
+        "explanation": "The neighbor used many scientific tools like timers, thermometers, and charts to make perfect tea."
+      },
+      {
+        "id": "q4",
+        "question": "What was the neighbor really doing?",
+        "choices": [
+          "Testing the perfect brew time for midnight tea",
+          "Building a rocket",
+          "Counting stars"
+        ],
+        "correctIndex": 0,
+        "explanation": "The neighbor was using science to find the perfect time and temperature for brewing midnight tea."
+      },
+      {
+        "id": "q5",
+        "question": "Why did the neighbor need to be so precise?",
+        "choices": [
+          "She liked complicated things",
+          "One minute too long would ruin the tea taste",
+          "She was bored"
+        ],
+        "correctIndex": 1,
+        "explanation": "The neighbor explained that brewing tea requires precision—too long and it won't taste nice!"
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "snails",
+            "distractors": [
+              "cats",
+              "dogs"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "mystery",
+            "distractors": [
+              "sandwich",
+              "birthday"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "measuring",
+            "distractors": [
+              "singing",
+              "dancing"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "charts",
+            "distractors": [
+              "cookies",
+              "flowers"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "ember"
+}
