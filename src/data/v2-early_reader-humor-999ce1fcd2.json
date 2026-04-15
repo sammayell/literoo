@@ -24,6 +24,9 @@
             "description": "A small bottlenose dolphin calf with pale silver-blue skin, a curving smile, bright dark eyes, and a single pale scar on her dorsal fin stands frozen on a swaying rope bridge, looking upward. Other cartoon animals (a rabbit, a fox, a squirrel) continue walking past her, chatting obliviously. Exaggerated cartoon style with oversized expressions, candy bright colors, bouncy dynamic poses, and slapstick energy.",
             "alt": "Blue stops on the bridge to listen while other animals walk past",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-999ce1fcd2/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-999ce1fcd2/ch1_p1.mp3"
           }
         },
         {
@@ -32,6 +35,9 @@
             "description": "A small bottlenose dolphin calf with pale silver-blue skin, a curving smile, bright dark eyes, and a single pale scar on her dorsal fin points upward while talking to a cartoon rabbit wearing a polka dot apron. The rabbit has exaggerated confused expression with tilted head. Colorful treehouses visible in background. Exaggerated cartoon style with squash and stretch animation, candy bright colors, and comedic poses.",
             "alt": "Blue points up while Mrs. Rabbit looks confused",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-999ce1fcd2/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-999ce1fcd2/ch1_p2.mp3"
           }
         },
         {
@@ -40,6 +46,9 @@
             "description": "A small bottlenose dolphin calf with pale silver-blue skin, a curving smile, bright dark eyes, and a single pale scar on her dorsal fin sits at a wooden table in a cozy treehouse with a cartoon otter wearing suspenders. Steam rises from bowls of green stew. Warm yellow light glows through round windows. Exaggerated cartoon style with rubber hose animation feel and bouncy dynamic details.",
             "alt": "Blue eats dinner with Papa Otter in their treehouse",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-999ce1fcd2/scene_1_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-999ce1fcd2/ch1_p3.mp3"
           }
         }
       ]
@@ -52,6 +61,9 @@
           "illustration": {
             "description": "A small bottlenose dolphin calf with pale silver-blue skin, a curving smile, bright dark eyes, and a single pale scar on her dorsal fin tumbles comically out of a bed made of leaves, with exaggerated surprised expression and flippers flailing. Morning sunlight streams through a round window. Exaggerated cartoon style with slapstick energy and oversized expressions.",
             "alt": "Blue falls out of bed in surprise"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-999ce1fcd2/ch2_p1.mp3"
           }
         },
         {
@@ -60,6 +72,9 @@
             "description": "A small bottlenose dolphin calf with pale silver-blue skin, a curving smile, bright dark eyes, and a single pale scar on her dorsal fin drops a piece of green toast, looking startled with wide eyes and trembling flippers. Papa Otter continues eating calmly with a content expression. Exaggerated cartoon style with comedic poses and bouncy dynamic energy.",
             "alt": "Blue drops her toast while Papa Otter eats calmly",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-999ce1fcd2/scene_2_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-999ce1fcd2/ch2_p2.mp3"
           }
         },
         {
@@ -68,6 +83,9 @@
             "description": "A small bottlenose dolphin calf with pale silver-blue skin, a curving smile, bright dark eyes, and a single pale scar on her dorsal fin covers her ears with her flippers, looking overwhelmed. Around her, cartoon animals (squirrels, badgers) look concerned and confused. Exaggerated cartoon style with oversized expressions showing distress, candy bright colors, and rubber hose animation feel.",
             "alt": "Blue covers her ears while worried friends surround her",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-999ce1fcd2/scene_2_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-999ce1fcd2/ch2_p3.mp3"
           }
         }
       ]
@@ -81,6 +99,9 @@
             "description": "A small bottlenose dolphin calf with pale silver-blue skin, a curving smile, bright dark eyes, and a single pale scar on her dorsal fin straps on a bright red climbing harness with determination in her expression. She stands at the base of a massive tree trunk, looking up with resolve. Exaggerated cartoon style with heroic pose and bouncy dynamic energy.",
             "alt": "Blue puts on a climbing harness with determined expression",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-999ce1fcd2/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-999ce1fcd2/ch3_p1.mp3"
           }
         },
         {
@@ -89,6 +110,9 @@
             "description": "A small bottlenose dolphin calf with pale silver-blue skin, a curving smile, bright dark eyes, and a single pale scar on her dorsal fin climbs up thick tree bark using ropes and pulleys, surrounded by dense green leaves. Her expression shows concentration and excitement. Exaggerated cartoon style with squash and stretch animation, showing the impossible feat with comedic energy.",
             "alt": "Blue climbs high into the tree canopy on ropes",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-999ce1fcd2/scene_3_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-999ce1fcd2/ch3_p2.mp3"
           }
         },
         {
@@ -97,6 +121,9 @@
             "description": "A small bottlenose dolphin calf with pale silver-blue skin, a curving smile, bright dark eyes, and a single pale scar on her dorsal fin emerges through green leaves onto a secret wooden platform. A tiny cartoon dragon with iridescent scales sits surrounded by miniature pots, pans, bells, and whistles, looking delighted. Both characters have expressions of joy and surprise. Exaggerated cartoon style with candy bright colors and magical sparkles.",
             "alt": "Blue discovers a tiny dragon cooking on a secret platform",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-999ce1fcd2/scene_3_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-999ce1fcd2/ch3_p3.mp3"
           }
         },
         {
@@ -105,6 +132,9 @@
             "description": "A small bottlenose dolphin calf with pale silver-blue skin, a curving smile, bright dark eyes, and a single pale scar on her dorsal fin cooks alongside a tiny dragon while Papa Otter emerges through the leaves with a surprised but pleased expression. Steam and magical sparkles rise from tiny pots. The platform is now cozy and welcoming. Exaggerated cartoon style with warm colors, bouncy poses, and rubber hose animation feel.",
             "alt": "Blue, Ping, and Papa Otter share the cooking platform at sunset",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-999ce1fcd2/scene_3_4.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-999ce1fcd2/ch3_p4.mp3"
           }
         }
       ]
@@ -236,5 +266,7 @@
       }
     ]
   },
-  "_spec_character_name": "blue"
+  "_spec_character_name": "blue",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }

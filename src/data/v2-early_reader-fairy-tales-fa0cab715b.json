@@ -24,6 +24,9 @@
             "description": "A cheerful girl with short wavy strawberry-blonde hair, light skin, and blue-gray eyes tumbling into an ornate wooden signpost in the center of a corn maze. Tall golden corn stalks tower around them in the purple twilight. The scene has a whimsical, slightly chaotic energy with motion lines showing the collision. Golden age illustration style with detailed pen work, watercolor washes, and decorative borders.",
             "alt": "Chloe tumbling into the wooden signpost in the corn maze at dusk",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-fa0cab715b/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-fa0cab715b/ch1_p1.mp3"
           }
         },
         {
@@ -32,6 +35,9 @@
             "description": "A cheerful girl with short wavy strawberry-blonde hair, light skin, and blue-gray eyes chasing a bright yellow butterfly through corn maze paths at sunset. The corn stalks create tall golden walls on either side, and the sky glows orange-pink. Her family can be seen as small figures in the distance. The scene captures joyful movement and curiosity. Golden age illustration style with detailed pen work, watercolor washes, and decorative borders.",
             "alt": "Chloe chasing a yellow butterfly through the corn maze paths at sunset",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-fa0cab715b/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-fa0cab715b/ch1_p2.mp3"
           }
         },
         {
@@ -40,6 +46,9 @@
             "description": "A cheerful girl with short wavy strawberry-blonde hair, light skin, and blue-gray eyes sitting cross-legged beside an ornate wooden signpost in a corn maze clearing. The evening sky deepens to purple above, and magical sparkles of light begin to appear among the corn stalks. Her expression is curious and optimistic despite being lost. Golden age illustration style with detailed pen work, watercolor washes, and decorative borders.",
             "alt": "Chloe sitting peacefully beside the signpost as magical lights appear in the maze",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-fa0cab715b/scene_1_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-fa0cab715b/ch1_p3.mp3"
           }
         }
       ]
@@ -53,6 +62,9 @@
             "description": "A magical creature made of moonbeams and stardust, resembling a living music box, steps from between corn stalks. Musical notes and sparkles of light float around it. A cheerful girl with short wavy strawberry-blonde hair, light skin, and blue-gray eyes looks up in wonder from beside the wooden signpost. The scene is illuminated by the creature's gentle glow against the darkening corn maze. Golden age illustration style with detailed pen work, watercolor washes, and decorative borders.",
             "alt": "A magical musical creature appearing before Chloe in the corn maze",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-fa0cab715b/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-fa0cab715b/ch2_p1.mp3"
           }
         },
         {
@@ -61,6 +73,9 @@
             "description": "A cheerful girl with short wavy strawberry-blonde hair, light skin, and blue-gray eyes attempting to communicate with the glowing musical creature. She's gesturing enthusiastically while nearly losing her balance, and the creature is pointing toward the maze paths with musical notes floating between them. The wooden signpost watches the interaction. Golden age illustration style with detailed pen work, watercolor washes, and decorative borders.",
             "alt": "Chloe and the magical creature trying to communicate with each other",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-fa0cab715b/scene_2_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-fa0cab715b/ch2_p2.mp3"
           }
         },
         {
@@ -69,6 +84,9 @@
             "description": "A cheerful girl with short wavy strawberry-blonde hair, light skin, and blue-gray eyes clapping and humming while the magical musical creature spins and creates dancing musical notes in response. Both characters look delighted as they discover they can communicate through melody and emotion. The wooden signpost appears pleased in the background. Golden age illustration style with detailed pen work, watercolor washes, and decorative borders.",
             "alt": "Chloe and the creature successfully communicating through music and emotions",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-fa0cab715b/scene_2_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-fa0cab715b/ch2_p3.mp3"
           }
         }
       ]
@@ -82,6 +100,9 @@
             "description": "A cheerful girl with short wavy strawberry-blonde hair, light skin, and blue-gray eyes walking hand-in-hand with the glowing musical creature down a corn maze path. Musical notes trail behind them as they move together, and warm light from the maze entrance can be seen in the distance. The wooden signpost watches them go with satisfaction. Golden age illustration style with detailed pen work, watercolor washes, and decorative borders.",
             "alt": "Chloe and the creature walking together down the maze path toward the exit",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-fa0cab715b/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-fa0cab715b/ch3_p1.mp3"
           }
         },
         {
@@ -90,6 +111,9 @@
             "description": "A cheerful girl with short wavy strawberry-blonde hair, light skin, and blue-gray eyes covered in dirt and corn silk, laughing as she gets up from a tumble. The magical musical creature is doing a silly wobble dance beside her, its starlight flickering in amusing patterns. Both are surrounded by floating musical notes of laughter. The corn maze path continues behind them. Golden age illustration style with detailed pen work, watercolor washes, and decorative borders.",
             "alt": "Chloe and the creature laughing together after her tumble in the maze",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-fa0cab715b/scene_3_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-fa0cab715b/ch3_p2.mp3"
           }
         },
         {
@@ -98,6 +122,9 @@
             "description": "A cheerful girl with short wavy strawberry-blonde hair, light skin, and blue-gray eyes holding a tiny glowing bell as the magical musical creature fades away in sparkles among the corn stalks. In the background, silhouettes of her family approach with lanterns. The wooden signpost stands sentinel, and musical notes float gently in the air. The scene is filled with warmth and bittersweet magic. Golden age illustration style with detailed pen work, watercolor washes, and decorative borders.",
             "alt": "The magical creature saying goodbye to Chloe as her family approaches with lanterns",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-fa0cab715b/scene_3_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-fa0cab715b/ch3_p3.mp3"
           }
         }
       ]
@@ -229,5 +256,7 @@
       }
     ]
   },
-  "_spec_character_name": "chloe"
+  "_spec_character_name": "chloe",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
