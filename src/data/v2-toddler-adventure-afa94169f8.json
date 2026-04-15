@@ -13,7 +13,7 @@
   "wordCount": 361,
   "readingLevel": "toddler",
   "synopsis": "When Pip the bunny's treasure map tears in half, he must navigate his scratched submarine through three mysterious locations to find magical ingredients that might mend what cannot be fixed the usual way.",
-  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-adventure-afa94169f8/cover.png",
+  "coverImage": "",
   "chapters": [
     {
       "title": "The Spice Islands",
@@ -24,7 +24,7 @@
             "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, inside a scratched yellow submarine with fogged portholes, holding two pieces of a torn treasure map. The submarine interior shows brass dials and gauges, rendered in treasure map style with aged parchment textures, sepia tones, and compass rose details.",
             "alt": "Pip inside his submarine holding the torn treasure map",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-adventure-afa94169f8/scene_1_1.png"
+            "src": ""
           }
         },
         {
@@ -33,7 +33,7 @@
             "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, on a tropical beach with palm trees and spice plants growing nearby. He holds a small sparkling bottle of golden turmeric powder. The scene is rendered in treasure map style with dotted trails, sepia tones, and jewel accents highlighting the magical spice.",
             "alt": "Pip discovers magical turmeric powder on the Spice Islands",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-adventure-afa94169f8/scene_1_2.png"
+            "src": ""
           }
         }
       ]
@@ -47,7 +47,7 @@
             "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, peering through the fogged portholes of his scratched yellow submarine at an underwater kitchen. Kelp forests surround the scene with seahorses and an octopus chef visible outside. The illustration uses treasure map style with sepia tones and jewel-toned kelp accents.",
             "alt": "Pip views the underwater kelp forest kitchen from his submarine",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-adventure-afa94169f8/scene_2_1.png"
+            "src": ""
           }
         },
         {
@@ -56,7 +56,7 @@
             "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, receiving a bowl of glowing purple-pink sea-berry stew from a friendly octopus chef. Both the torn map pieces and small bottles are visible nearby. The scene is rendered in treasure map style with aged parchment textures and jewel accents highlighting the magical berries.",
             "alt": "Pip receives magical sea-berry stew from the octopus chef",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-adventure-afa94169f8/scene_2_2.png"
+            "src": ""
           }
         }
       ]
@@ -70,7 +70,7 @@
             "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, emerging from his scratched yellow submarine onto a mountain made of pink and blue cotton candy. Fluffy cloud-creatures bounce around like marshmallows in the sky. The scene is rendered in treasure map style with aged parchment base, sepia tones, and jewel accents of pink and blue for the candy mountain.",
             "alt": "Pip explores the magical cotton candy mountain with bouncing cloud-creatures",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-adventure-afa94169f8/scene_3_1.png"
+            "src": ""
           }
         },
         {
@@ -79,7 +79,7 @@
             "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, inside his scratched yellow submarine with fogged portholes, holding up his now-complete treasure map as magical sparkles surround it. The three bottles of ingredients (golden turmeric, purple sea-berries, and honeyed cloud-drops) are visible nearby. The scene is rendered in treasure map style with aged parchment, compass roses, dotted trails, and jewel accents highlighting the magical repair.",
             "alt": "Pip successfully repairs his treasure map with magical ingredients as sparkles dance around",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-adventure-afa94169f8/scene_3_2.png"
+            "src": ""
           }
         }
       ]

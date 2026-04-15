@@ -13,7 +13,7 @@
   "wordCount": 643,
   "readingLevel": "Grade 2",
   "synopsis": "A shy baby pangolin overhears a mysterious conversation about the awakening volcano where he lives, leading him on a dreamlike journey to protect his black-sand home through a magical countdown.",
-  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-f00f43c49f/cover.png",
+  "coverImage": "",
   "chapters": [
     {
       "title": "Field Note #4: The Whispered Discovery",
@@ -23,7 +23,7 @@
           "illustration": {
             "description": "A shy baby pangolin with overlapping warm-brown scales like tiny roof tiles, a pink nose, and gentle black eyes crouches low on glittering black volcanic sand, collecting glowing fire flowers under moonlight. The sleeping volcano rises majestically in the background with mystical purple and green aurora-like lights. Enchanted forest atmosphere with golden sparkles floating in the night air, detailed magical foliage, Studio Ghibli inspired style.",
             "alt": "Baby pangolin collecting glowing flowers on black volcanic sand at night",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-f00f43c49f/scene_1_1.png"
+            "src": ""
           }
         },
         {
@@ -31,7 +31,7 @@
           "illustration": {
             "description": "A shy baby pangolin with overlapping warm-brown scales like tiny roof tiles, a pink nose, and gentle black eyes hides behind dark, glassy obsidian rocks. Mysterious shadow figures with glowing eyes speak in the distance. The black sand rim of the sleeping volcano stretches around them, with mystical fog and magical atmosphere. Enchanted forest style with rich purples and greens, golden sparkles, Studio Ghibli inspired.",
             "alt": "Baby pangolin hiding behind obsidian rocks while shadow figures speak",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-f00f43c49f/scene_1_2.png"
+            "src": ""
           }
         },
         {
@@ -39,7 +39,7 @@
           "illustration": {
             "description": "A shy baby pangolin with overlapping warm-brown scales like tiny roof tiles, a pink nose, and gentle black eyes curled in a perfect ball on the black volcanic sand. Wisps of magical mist swirl around where shadow figures once stood. The sleeping volcano glows softly with internal light, creating a dreamlike atmosphere. Enchanted forest style with mystical creatures barely visible in the mist, golden sparkles, Studio Ghibli inspired.",
             "alt": "Baby pangolin curled in a ball as mysterious mist swirls around the volcano",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-f00f43c49f/scene_1_3.png"
+            "src": ""
           }
         }
       ]
@@ -52,14 +52,15 @@
           "illustration": {
             "description": "A shy baby pangolin with overlapping warm-brown scales like tiny roof tiles, a pink nose, and gentle black eyes lies with his ear pressed against the glittering black volcanic sand. Waves of magical sound visualization flow from the ground in golden and purple light. The sleeping volcano's silhouette dominates the background with mystical energy patterns. Enchanted forest atmosphere with detailed magical foliage and floating sparkles, Studio Ghibli inspired style.",
             "alt": "Baby pangolin listening to the volcano's heartbeat through the black sand",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-f00f43c49f/scene_2_1.png"
+            "src": ""
           }
         },
         {
           "text": "Field observation: the fire flowers are blooming three nights early. Their petals glow brighter, as if they know something wonderful and terrible approaches. The other rim-dwellers—the crystal moths, the ember rabbits, the singing stones—they all seem to be preparing for something. But preparing for what?",
           "illustration": {
             "description": "A shy baby pangolin with overlapping warm-brown scales like tiny roof tiles, a pink nose, and gentle black eyes observes magical creatures on the black sand rim. Crystal moths with translucent wings flutter around extra-bright fire flowers, while small ember rabbits with glowing fur hop between singing stones that emit musical notes made of light. The sleeping volcano glows in the background with enchanted forest atmosphere, rich greens and purples, golden sparkles, Studio Ghibli inspired style.",
-            "alt": "Baby pangolin watching magical creatures prepare around blooming fire flowers"
+            "alt": "Baby pangolin watching magical creatures prepare around blooming fire flowers",
+            "src": ""
           }
         },
         {
@@ -67,7 +68,7 @@
           "illustration": {
             "description": "A shy baby pangolin with overlapping warm-brown scales like tiny roof tiles, a pink nose, and gentle black eyes stands in a magical cave with walls covered in glowing lava-script that tells stories in flowing, luminous text. Ancient memories float as golden light patterns around the cave. The black sand continues into the cave, and mystical energy emanates from the volcano's living library. Enchanted forest style with rich magical atmosphere, detailed foliage at the cave entrance, Studio Ghibli inspired.",
             "alt": "Baby pangolin reading glowing lava-script stories on cave walls",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-f00f43c49f/scene_2_3.png"
+            "src": ""
           }
         }
       ]
@@ -80,7 +81,7 @@
           "illustration": {
             "description": "A shy baby pangolin with overlapping warm-brown scales like tiny roof tiles, a pink nose, and gentle black eyes sits in the center of swirling musical notes made of golden light, each note formed by tiny grains of black volcanic sand. The sand grains glow and dance in spirals around him as he sings. The sleeping volcano responds with gentle, warm light pulses. Enchanted forest atmosphere with mystical creatures watching from the edges, rich purples and greens, Studio Ghibli inspired style.",
             "alt": "Baby pangolin singing to glowing grains of sand that form musical notes",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-f00f43c49f/scene_3_1.png"
+            "src": ""
           }
         },
         {
@@ -88,7 +89,7 @@
           "illustration": {
             "description": "A shy baby pangolin with overlapping warm-brown scales like tiny roof tiles, a pink nose, and gentle black eyes stands on the black volcanic sand as gentle waves of soothing energy ripple outward from his position. The sleeping volcano glows with peaceful, drowsy light, and dream-like images of clouds and gentle rain float in the air. Magical atmosphere with floating sparkles slowing their dance, enchanted forest style with rich greens and purples, Studio Ghibli inspired.",
             "alt": "Baby pangolin surrounded by soothing energy waves as the volcano dreams peacefully",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-f00f43c49f/scene_3_2.png"
+            "src": ""
           }
         },
         {
@@ -96,7 +97,7 @@
           "illustration": {
             "description": "A shy baby pangolin with overlapping warm-brown scales like tiny roof tiles, a pink nose, and gentle black eyes stands confidently on the black sand as confused shadow figures with glowing eyes gesture in the background. Streams of gentle, golden friendship energy connect the pangolin to the peacefully glowing volcano. The mystical night sky shows two remaining stars fading. Enchanted forest atmosphere with protective magical aura around the pangolin, Studio Ghibli inspired style.",
             "alt": "Baby pangolin connected to the volcano by golden friendship energy while shadow figures look confused",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-f00f43c49f/scene_3_3.png"
+            "src": ""
           }
         }
       ]
@@ -109,7 +110,7 @@
           "illustration": {
             "description": "A shy baby pangolin with overlapping warm-brown scales like tiny roof tiles, a pink nose, and gentle black eyes sits peacefully next to the sleeping volcano, both surrounded by gentle, golden dream-energy. The black sand sparkles with contentment, and all the magical rim creatures—crystal moths, ember rabbits, singing stones—gather in celebration. One star remains in the sky, glowing warmly. Enchanted forest atmosphere with rich magical details, floating sparkles of joy, Studio Ghibli inspired style.",
             "alt": "Baby pangolin sitting peacefully with sleeping volcano as magical creatures celebrate",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-f00f43c49f/scene_4_1.png"
+            "src": ""
           }
         },
         {
@@ -117,7 +118,7 @@
           "illustration": {
             "description": "A shy baby pangolin with overlapping warm-brown scales like tiny roof tiles, a pink nose, and gentle black eyes tends a beautiful garden of fire flowers on the black volcanic sand. The sleeping volcano provides a majestic, peaceful backdrop with soft internal glow. All the magical creatures of the rim live harmoniously together, and gentle rain falls like sparkles from a starlit sky. Enchanted forest style with lush, detailed magical foliage, rich greens and purples, Studio Ghibli inspired.",
             "alt": "Baby pangolin tending fire flowers in a peaceful volcanic garden with gentle rain",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-f00f43c49f/scene_4_2.png"
+            "src": ""
           }
         },
         {
@@ -125,7 +126,7 @@
           "illustration": {
             "description": "A shy baby pangolin with overlapping warm-brown scales like tiny roof tiles, a pink nose, and gentle black eyes curls up contentedly on the warm black volcanic sand under a blanket of stars. The sleeping volcano glows with the gentlest light, and tiny musical notes float in the air representing its soft snoring. All the magical rim creatures sleep peacefully nearby. The scene radiates warmth, safety, and home. Enchanted forest atmosphere with golden sparkles settling like gentle snow, Studio Ghibli inspired style.",
             "alt": "Baby pangolin sleeping peacefully on warm black sand under starlight as the volcano snores softly",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-f00f43c49f/scene_4_3.png"
+            "src": ""
           }
         }
       ]

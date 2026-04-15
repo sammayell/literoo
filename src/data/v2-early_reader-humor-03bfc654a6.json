@@ -13,7 +13,7 @@
   "wordCount": 672,
   "readingLevel": "kindergarten-first grade",
   "synopsis": "When Barnaby the hedgehog gets separated from his family at a bustling festival market, he receives seven mysterious gifts throughout the week that help him find his way home, each one revealing something special about kindness and courage.",
-  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-03bfc654a6/cover.png",
+  "coverImage": "",
   "chapters": [
     {
       "title": "The Market's Golden Glow",
@@ -24,7 +24,7 @@
             "description": "A small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes looks up in wonder at a busy open-air market with golden ribbons fluttering overhead, colorful vendor stalls, and crowds of various animals shopping for festival goods",
             "alt": "Barnaby looking up at the golden market ribbons",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-03bfc654a6/scene_1_1.png"
+            "src": ""
           }
         },
         {
@@ -33,7 +33,7 @@
             "description": "A small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes stands alone looking worried in the middle of a crowded market with a juggling bear and colorful peacock vendor in the background",
             "alt": "Barnaby realizing he's lost in the busy market",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-03bfc654a6/scene_1_2.png"
+            "src": ""
           }
         }
       ]
@@ -47,7 +47,7 @@
             "description": "A small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes sits curled up by a fountain while a wise old tortoise offers him a gleaming silver acorn",
             "alt": "The tortoise giving Barnaby his first gift",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-03bfc654a6/scene_2_1.png"
+            "src": ""
           }
         },
         {
@@ -56,7 +56,7 @@
             "description": "A small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes holds a glowing silver acorn close to his chest with a hopeful expression as morning light streams through the market",
             "alt": "Barnaby holding the magical silver acorn",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-03bfc654a6/scene_2_2.png"
+            "src": ""
           }
         }
       ]
@@ -70,7 +70,7 @@
             "description": "A small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes collects magical gifts from different vendor animals - a cardinal's red feather, golden thimble, crystal bells, and painted stone",
             "alt": "Barnaby receiving gifts throughout the week",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-03bfc654a6/scene_3_1.png"
+            "src": ""
           }
         },
         {
@@ -79,7 +79,7 @@
             "description": "A small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes looks up as a silver star falls from the sky while all the market vendors - tortoise, cardinal, seamstress, musician, and artist - gather around him smiling",
             "alt": "All the vendors watching the silver star fall to Barnaby",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-03bfc654a6/scene_3_2.png"
+            "src": ""
           }
         }
       ]
@@ -93,7 +93,7 @@
             "description": "A small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes runs joyfully toward his hedgehog parents under the bright harvest moon with festival lights twinkling all around the market",
             "alt": "Barnaby reuniting with his parents at the festival",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-03bfc654a6/scene_4_1.png"
+            "src": ""
           }
         },
         {
@@ -102,7 +102,7 @@
             "description": "A small hedgehog with soft brown-tipped quills, a pale belly, tiny ears, and bright expressive black eyes stands with his family sharing his seven magical gifts with other young animals at the harvest festival, with golden ribbons and moonlight creating a warm, magical atmosphere",
             "alt": "Barnaby sharing his gifts with other young animals",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-03bfc654a6/scene_4_2.png"
+            "src": ""
           }
         }
       ]
