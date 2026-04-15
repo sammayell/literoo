@@ -25,7 +25,10 @@
             "alt": "Stardust approaching the lighthouse with frozen steam and still lighthouse beam",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-9dbb38f484/scene_1_1.png"
           },
-          "layout": "full-page"
+          "layout": "full-page",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-family-9dbb38f484/ch1_p1.mp3"
+          }
         }
       ]
     },
@@ -39,7 +42,10 @@
             "alt": "The lighthouse keeper's family frozen at their dinner table with Stardust at the door",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-9dbb38f484/scene_2_1.png"
           },
-          "layout": "full-page"
+          "layout": "full-page",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-family-9dbb38f484/ch2_p1.mp3"
+          }
         }
       ]
     },
@@ -53,7 +59,10 @@
             "alt": "Stardust and the lighthouse keeper at the top of the lighthouse with the still beacon and dark tablet",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-9dbb38f484/scene_3_1.png"
           },
-          "layout": "full-page"
+          "layout": "full-page",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-family-9dbb38f484/ch3_p1.mp3"
+          }
         }
       ]
     },
@@ -67,7 +76,10 @@
             "alt": "Stardust touching her horn to the tablet screen with magical sparks flying",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-9dbb38f484/scene_4_1.png"
           },
-          "layout": "full-page"
+          "layout": "full-page",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-family-9dbb38f484/ch4_p1.mp3"
+          }
         }
       ]
     },
@@ -81,7 +93,10 @@
             "alt": "Stardust bridging tablet and lighthouse with golden magic flowing between them",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-9dbb38f484/scene_5_1.png"
           },
-          "layout": "full-page"
+          "layout": "full-page",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-family-9dbb38f484/ch5_p1.mp3"
+          }
         }
       ]
     },
@@ -95,7 +110,10 @@
             "alt": "Stardust with the lighthouse keeper as normal life resumes with balanced screen time",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-9dbb38f484/scene_6_1.png"
           },
-          "layout": "full-page"
+          "layout": "full-page",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-family-9dbb38f484/ch6_p1.mp3"
+          }
         }
       ]
     }
@@ -230,5 +248,7 @@
       }
     ]
   },
-  "_spec_character_name": "stardust"
+  "_spec_character_name": "stardust",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
