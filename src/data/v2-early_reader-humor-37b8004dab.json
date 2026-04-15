@@ -25,6 +25,9 @@
             "alt": "Stardust the unicorn dancing on a boat deck while animal friends prepare for lily pad boat races",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-37b8004dab/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-37b8004dab/ch1_p1.mp3"
           }
         },
         {
@@ -34,6 +37,9 @@
             "alt": "Captain Turtle holding up a golden bell while Stardust watches with glowing horn",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-37b8004dab/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-37b8004dab/ch1_p2.mp3"
           }
         }
       ]
@@ -48,6 +54,9 @@
             "alt": "Captain Turtle searching frantically for the missing bell while Stardust and friends look worried",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-37b8004dab/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-37b8004dab/ch2_p1.mp3"
           }
         },
         {
@@ -57,6 +66,9 @@
             "alt": "Sad animal friends packing up while Stardust stands hopefully with glowing horn",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-37b8004dab/scene_2_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-37b8004dab/ch2_p2.mp3"
           }
         }
       ]
@@ -71,6 +83,9 @@
             "alt": "Stardust enthusiastically explaining her idea to her gathered animal friends",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-37b8004dab/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-37b8004dab/ch3_p1.mp3"
           }
         },
         {
@@ -79,6 +94,9 @@
             "description": "All the friends make music together in perfect harmony! Stardust, a young unicorn with a pearly-white coat, a rainbow-pastel mane and tail, a glowing spiral horn, and shimmering silver hooves, has her horn glowing brilliantly as musical notes float in the air. Freddy Frog ribbits, Bella Beaver claps, Oliver Owl hoots, and Captain Turtle stomps. The scene is filled with musical energy, exaggerated cartoon style with rubber hose animation feel and comedic poses.",
             "alt": "All friends making music together with Stardust's glowing horn creating magical musical notes",
             "layout": "full-page"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-37b8004dab/ch3_p2.mp3"
           }
         },
         {
@@ -88,6 +106,9 @@
             "alt": "Happy lily pad boat race with all friends singing together while Stardust watches proudly",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-37b8004dab/scene_3_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-37b8004dab/ch3_p3.mp3"
           }
         }
       ]
@@ -225,5 +246,7 @@
       }
     ]
   },
-  "_spec_character_name": "stardust"
+  "_spec_character_name": "stardust",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
