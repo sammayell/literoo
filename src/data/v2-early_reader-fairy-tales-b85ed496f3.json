@@ -1,0 +1,300 @@
+{
+  "id": "v2-early_reader-fairy-tales-b85ed496f3",
+  "title": "Notes from a Crystal World",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "fairy-tales"
+  ],
+  "wordCount": 537,
+  "readingLevel": "Early Reader",
+  "synopsis": "A young scientist documents life inside a snow globe, where a small bunny named Pip discovers he's not the only one who can make snowflakes dance—and learns that sharing magic creates something even more wonderful.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b85ed496f3/cover.png",
+  "chapters": [
+    {
+      "title": "Day One: The Dance Discovery",
+      "pages": [
+        {
+          "text": "Snowflakes fell upward in the crystal dome at precisely three-seventeen this afternoon. The small fluffy brown bunny observed this phenomenon while adjusting his green scarf against the perpetual winter. He had noticed something quite remarkable about the way his whiskers twitched.",
+          "illustration": {
+            "description": "Golden age illustration of a small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, standing in the center of a crystal snow globe. Snowflakes drift upward around him in impossible spirals. The scene has Arthur Rackham inspired detailed pen work with watercolor washes, showing the curved glass walls and ornate decorative borders.",
+            "alt": "Pip the bunny inside a snow globe with snowflakes floating upward around him",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b85ed496f3/scene_1_1.png"
+          }
+        },
+        {
+          "text": "Field Note #47: Subject demonstrates unusual relationship with atmospheric precipitation. When whiskers twitch left, snow spirals clockwise. When whiskers twitch right, precipitation forms geometric patterns. The bunny appears unaware of this correlation.",
+          "illustration": {
+            "description": "Golden age illustration showing a small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, with his whiskers twitching as snowflakes arrange themselves into perfect hexagonal patterns around him. Arthur Rackham inspired detailed pen work with watercolor washes, timeless classic style with decorative borders.",
+            "alt": "Pip's whiskers twitching as snowflakes form geometric patterns",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b85ed496f3/scene_1_2.png"
+          }
+        },
+        {
+          "text": "The bunny hopped toward the miniature pine trees that grew in perfect spirals around the globe's perimeter. His black eyes widened as he noticed the snow following his movements, creating trails of silver light behind each hop. This was definitely worth further investigation.",
+          "illustration": {
+            "description": "Golden age illustration of a small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, hopping between tiny spiral pine trees. Trails of silvery snow follow his movements like shooting stars. Arthur Rackham inspired detailed pen work with watercolor washes, enchanted scenes with ornate decorative borders.",
+            "alt": "Pip hopping between pine trees with trails of silver snow following him",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b85ed496f3/scene_1_3.png"
+          }
+        },
+        {
+          "text": "Experimental procedure: The bunny began a series of deliberate movements. Hop left—snow swirled left. Hop right—snow swirled right. Spin in a circle—snow formed a perfect tornado that lifted him gently three inches off the ground. The bunny's ears flapped with excitement. He had discovered something extraordinary.",
+          "illustration": {
+            "description": "Golden age illustration showing a small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, suspended three inches above the ground in the center of a snow tornado. His ears flap with joy as snowflakes spiral around him. Arthur Rackham inspired detailed pen work with watercolor washes, magical scene with decorative borders.",
+            "alt": "Pip floating in the center of a snow tornado with his ears flapping excitedly",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b85ed496f3/scene_1_4.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Day Two: The Superior Specimen",
+      "pages": [
+        {
+          "text": "A second subject appeared in the dome this morning through unknown transportation methods. Analysis: female rabbit, silver fur, blue ribbon, approximately same size as original subject. Initial observations suggest significantly enhanced abilities compared to Subject One.",
+          "illustration": {
+            "description": "Golden age illustration of two rabbits in a snow globe - a small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, standing next to a silver rabbit with a blue ribbon. Arthur Rackham inspired detailed pen work with watercolor washes, timeless classic style with ornate decorative borders.",
+            "alt": "Pip meeting a silver rabbit with a blue ribbon inside the snow globe",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b85ed496f3/scene_2_1.png"
+          }
+        },
+        {
+          "text": "The silver rabbit merely flicked her ears once. Snow immediately organized itself into intricate ice palaces, complete with towers and bridges. She tapped her left hind foot twice. Aurora-like lights began dancing across the dome's ceiling. The brown bunny's green scarf suddenly felt very ordinary.",
+          "illustration": {
+            "description": "Golden age illustration showing a small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, watching in amazement as a silver rabbit creates elaborate ice palaces and aurora lights with simple gestures. Arthur Rackham inspired detailed pen work with watercolor washes, enchanted scenes with decorative borders.",
+            "alt": "Pip watching the silver rabbit create magnificent ice palaces and aurora lights",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b85ed496f3/scene_2_2.png"
+          }
+        },
+        {
+          "text": "Behavioral observation: Subject One attempted to replicate Subject Two's techniques. Results: modest snow swirls versus architectural marvels. The brown bunny's ears drooped significantly. He retreated to the far side of the dome, behind the cluster of crystal mushrooms that had grown there overnight.",
+          "illustration": {
+            "description": "Golden age illustration of a small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, hiding behind luminescent crystal mushrooms with drooped ears while the silver rabbit performs impressive snow magic in the background. Arthur Rackham inspired detailed pen work with watercolor washes with decorative borders.",
+            "alt": "Pip hiding behind crystal mushrooms with drooped ears while the silver rabbit performs magic",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b85ed496f3/scene_2_3.png"
+          }
+        },
+        {
+          "text": "The silver rabbit approached the crystal mushrooms at sunset (artificial lighting dimmed to amber). She spoke for the first time: 'Your snow spirals have perfect mathematical ratios. Mine are just flashy.' The brown bunny peeked one black eye around a mushroom stem. This was unexpected data.",
+          "illustration": {
+            "description": "Golden age illustration showing a small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, peeking around a glowing crystal mushroom as the silver rabbit approaches in warm amber light. Arthur Rackham inspired detailed pen work with watercolor washes, timeless classic style with ornate decorative borders.",
+            "alt": "Pip peeking around a crystal mushroom as the silver rabbit approaches in amber light",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b85ed496f3/scene_2_4.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Day Three: The Collaboration Experiment",
+      "pages": [
+        {
+          "text": "Hypothesis: Combined abilities might produce unprecedented results. The brown bunny emerged from his mushroom hiding place at dawn. The silver rabbit waited in the center of the dome, her blue ribbon catching the early light. Both subjects appeared ready for collaborative experimentation.",
+          "illustration": {
+            "description": "Golden age illustration of a small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, approaching a silver rabbit in the center of the snow globe at dawn. Early light streams through the crystal dome. Arthur Rackham inspired detailed pen work with watercolor washes with decorative borders.",
+            "alt": "Pip approaching the silver rabbit in the center of the dome at dawn",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b85ed496f3/scene_3_1.png"
+          }
+        },
+        {
+          "text": "'What if we tried together?' the brown bunny asked, his voice barely above a whisper. The silver rabbit nodded. 'Your precision with my power?' They positioned themselves on opposite sides of the dome's center. The bunny began his careful whisker-twitching. The rabbit started her ear-flicking.",
+          "illustration": {
+            "description": "Golden age illustration showing a small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, positioned across from a silver rabbit as they both begin their snow magic simultaneously. Arthur Rackham inspired detailed pen work with watercolor washes, enchanted scenes with decorative borders.",
+            "alt": "Pip and the silver rabbit positioned across from each other, beginning their combined magic",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b85ed496f3/scene_3_2.png"
+          }
+        },
+        {
+          "text": "Remarkable findings: The snow responded to both subjects simultaneously, creating structures never before documented. Spiraling ice gardens grew upward while aurora lights painted geometric patterns across their surfaces. The two rabbits moved closer together, their magic interweaving like musical harmony.",
+          "illustration": {
+            "description": "Golden age illustration of a small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, standing close to a silver rabbit as their combined magic creates spiraling ice gardens with aurora lights painting geometric patterns. Arthur Rackham inspired detailed pen work with watercolor washes with ornate decorative borders.",
+            "alt": "Pip and the silver rabbit creating spiraling ice gardens with aurora light patterns",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b85ed496f3/scene_3_3.png"
+          }
+        },
+        {
+          "text": "Final observation: The dome filled with crystalline flowers that sang in harmonious frequencies when touched by snowflakes. Both subjects discovered that their individual talents, when combined, created something neither could achieve alone. The brown bunny's green scarf now seemed perfectly, scientifically appropriate.",
+          "illustration": {
+            "description": "Golden age illustration showing a small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, standing beside a silver rabbit surrounded by singing crystalline flowers and musical snowflakes throughout the snow globe. Arthur Rackham inspired detailed pen work with watercolor washes, magical scene with decorative borders.",
+            "alt": "Pip and the silver rabbit surrounded by singing crystal flowers and musical snowflakes",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b85ed496f3/scene_3_4.png"
+          }
+        },
+        {
+          "text": "Research conclusion: Collaboration produces exponential results. The two rabbits spent the remainder of the day creating snow symphonies and ice architecture, each contributing their unique abilities to increasingly complex experiments. Tomorrow's research schedule: more collaborative investigations.",
+          "illustration": {
+            "description": "Golden age illustration of a small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, working alongside a silver rabbit to create elaborate snow and ice structures that resemble both musical instruments and architectural wonders inside the snow globe. Arthur Rackham inspired detailed pen work with watercolor washes, timeless classic with ornate decorative borders.",
+            "alt": "Pip and the silver rabbit creating elaborate snow symphonies and ice architecture together",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b85ed496f3/scene_3_5.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "vocabulary": [
+      "phenomenon",
+      "correlation",
+      "precipitation",
+      "geometric",
+      "architectural",
+      "collaborative",
+      "frequencies",
+      "exponential"
+    ],
+    "themes": [
+      "friendship",
+      "cooperation",
+      "self-worth",
+      "unique talents"
+    ],
+    "pedagogical": "Introduces basic scientific observation methods while exploring emotional themes of comparison and collaboration",
+    "coverPrompt": {
+      "description": "A golden age illustration showing an enchanted snow globe sitting on an ornate wooden desk, with swirling snow and tiny crystalline structures visible through the glass. Inside the globe, we glimpse a small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf, surrounded by dancing snowflakes. Arthur Rackham inspired detailed pen work with watercolor washes, decorative borders frame the scene.",
+      "alt": "A magical snow globe containing a small brown bunny in a green scarf, with snowflakes swirling around him"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What happens when Pip twitches his whiskers?",
+        "choices": [
+          "The snowflakes dance and make patterns",
+          "His ears grow longer",
+          "The globe gets bigger"
+        ],
+        "correctIndex": 0,
+        "explanation": "When Pip twitches his whiskers left or right, the snowflakes spiral and form geometric patterns around him."
+      },
+      {
+        "id": "q2",
+        "question": "How does Pip feel when he first sees the silver rabbit's magic?",
+        "choices": [
+          "Happy and excited",
+          "Ordinary and small",
+          "Angry and jealous"
+        ],
+        "correctIndex": 1,
+        "explanation": "Pip's ears droop and his green scarf feels very ordinary when he sees how much more impressive the silver rabbit's magic is."
+      },
+      {
+        "id": "q3",
+        "question": "What does the silver rabbit say about Pip's snow spirals?",
+        "choices": [
+          "They are too small",
+          "They have perfect mathematical ratios",
+          "They are just like hers"
+        ],
+        "correctIndex": 1,
+        "explanation": "The silver rabbit compliments Pip by saying his snow spirals have perfect mathematical ratios, while hers are just flashy."
+      },
+      {
+        "id": "q4",
+        "question": "What happens when Pip and the silver rabbit work together?",
+        "choices": [
+          "Nothing changes",
+          "They create singing crystal flowers",
+          "They break the snow globe"
+        ],
+        "correctIndex": 1,
+        "explanation": "When they combine their magic, they create crystalline flowers that sing when touched by snowflakes."
+      },
+      {
+        "id": "q5",
+        "question": "What does the story teach about working with others?",
+        "choices": [
+          "It's better to work alone",
+          "Everyone should do the same thing",
+          "Different talents can create something wonderful together"
+        ],
+        "correctIndex": 2,
+        "explanation": "The story shows that when Pip and the silver rabbit combine their different talents, they create something more beautiful than either could make alone."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "spirals",
+            "distractors": [
+              "circles",
+              "squares"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "geometric",
+            "distractors": [
+              "colorful",
+              "tiny"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 6,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "palaces",
+            "distractors": [
+              "castles",
+              "houses"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "aurora",
+            "distractors": [
+              "rainbow",
+              "sparkly"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 11,
+        "blanks": [
+          {
+            "wordIndex": 6,
+            "correctWord": "harmonious",
+            "distractors": [
+              "loud",
+              "quiet"
+            ]
+          },
+          {
+            "wordIndex": 20,
+            "correctWord": "collaboration",
+            "distractors": [
+              "magic",
+              "friendship"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "pip"
+}
