@@ -13,7 +13,7 @@
   "wordCount": 777,
   "readingLevel": "K-1",
   "synopsis": "A wise forest owl watches as Sprout, a small mossy sprite, creates a shadow-speaking machine that works too well, bringing every shadow in the forest to chattering life and teaching unexpected lessons about friendship.",
-  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-c6f0be678a/cover.png",
+  "coverImage": "",
   "chapters": [
     {
       "title": "Day One: The Whispering Discovery",
@@ -24,7 +24,7 @@
             "description": "A wise owl perched in an oak tree looking down at a small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders, who is crouched on the moss-covered forest floor studying shadows. The scene has warm yellows and oranges, with cozy kitchen home atmosphere despite being in the forest.",
             "alt": "An owl watches Sprout studying shadows on the forest floor",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-c6f0be678a/scene_1_1.png"
+            "src": ""
           }
         },
         {
@@ -33,7 +33,7 @@
             "description": "Close-up of a small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders, tracing patterns in moss with his twig fingers. Warm orange and yellow light filters through the scene, creating a cozy family cooking atmosphere with steam-like effects in the forest air.",
             "alt": "Sprout tracing patterns in moss with his twig fingers",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-c6f0be678a/scene_1_2.png"
+            "src": ""
           }
         },
         {
@@ -42,7 +42,7 @@
             "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders gathering twigs, stones, and dewdrops in the forest. His ivy rustles with excitement. The scene has warm yellows and oranges with steam rising from the moss floor, creating a cozy homemade atmosphere.",
             "alt": "Sprout excitedly gathering materials for his invention",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-c6f0be678a/scene_1_3.png"
+            "src": ""
           }
         }
       ]
@@ -56,7 +56,7 @@
             "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders stands next to a strange contraption made of branches and crystals in the deep forest. The machine glows softly with warm yellows and oranges, steam-like mist swirling around it, creating a cozy family gathering atmosphere despite its magical nature.",
             "alt": "Sprout standing proudly next to his completed shadow-speaking machine",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-c6f0be678a/scene_2_1.png"
+            "src": ""
           }
         },
         {
@@ -65,7 +65,7 @@
             "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders speaking to his crystal and branch machine. Shadows dance around them on the moss floor. The scene has warm orange and yellow tones with steam-like effects, resembling a cozy kitchen where homemade magic is cooking.",
             "alt": "Sprout whispering to his shadow-speaking machine",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-c6f0be678a/scene_2_2.png"
+            "src": ""
           }
         }
       ]
@@ -79,7 +79,7 @@
             "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders surrounded by animated, chattering shadows with visible sound waves. The forest scene has warm yellows and oranges with steam effects, like a busy kitchen where too many cooks are working at once, creating a cozy but chaotic family moment.",
             "alt": "Sprout overwhelmed by loudly talking shadows all around him",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-c6f0be678a/scene_3_1.png"
+            "src": ""
           }
         },
         {
@@ -88,7 +88,7 @@
             "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders running in circles with his hands over his ears, while various shadows (tree, rock, flower shapes) appear to be talking animatedly around him. The scene has warm cooking colors with steam-like speech bubbles, resembling a chaotic family dining table where everyone talks at once.",
             "alt": "Sprout running in circles trying to escape the chattering shadows",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-c6f0be678a/scene_3_2.png"
+            "src": ""
           }
         },
         {
@@ -97,7 +97,7 @@
             "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders looking distressed in the center while various shadows appear to be arguing with each other around him. The owl retreats higher into the tree. The scene has warm orange and yellow tones with steam-like argument clouds, like a family kitchen during a heated dinner discussion.",
             "alt": "Shadows arguing while Sprout looks distressed and the owl retreats",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-c6f0be678a/scene_3_3.png"
+            "src": ""
           }
         }
       ]
@@ -111,7 +111,7 @@
             "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders listening to a tiny acorn shadow that glows softly while other larger shadows lean in quietly. The scene has warm, gentle yellows and oranges with soft steam effects, like a cozy family kitchen where someone shares something important over homemade food.",
             "alt": "Sprout listening as the tiny acorn shadow speaks gently to other shadows",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-c6f0be678a/scene_4_1.png"
+            "src": ""
           }
         },
         {
@@ -120,7 +120,7 @@
             "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders sitting peacefully among various shadows that seem to be sharing gentle conversations. The scene has warm, embracing yellows and oranges with soft steam, like a loving family dinner where everyone shares their feelings around the dining table.",
             "alt": "Sprout sitting peacefully as shadows share their feelings with each other",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-c6f0be678a/scene_4_2.png"
+            "src": ""
           }
         },
         {
@@ -129,7 +129,7 @@
             "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders smiling warmly while surrounded by peacefully conversing shadows. The owl watches approvingly from above. The scene has the warmest yellows and oranges, with gentle steam effects, like a perfect family gathering where everyone feels loved and understood around the kitchen table.",
             "alt": "Sprout smiling as he realizes his invention brought friendship to the forest",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-c6f0be678a/scene_4_3.png"
+            "src": ""
           }
         }
       ]
@@ -143,7 +143,7 @@
             "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders sitting in a circle with various friendly shadows while the wise owl watches from above. The forest has warm, golden yellows and oranges with gentle steam effects, like a cozy family home where everyone gathers to share stories and everyday love moments.",
             "alt": "Sprout sharing stories with his shadow friends while the owl watches peacefully",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-c6f0be678a/scene_5_1.png"
+            "src": ""
           }
         },
         {
@@ -152,7 +152,7 @@
             "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders singing with shadows under moonlight while the owl listens from the tree. The scene glows with warm yellows and oranges despite the nighttime setting, with steam-like magical mist, resembling a cozy family sing-along around the kitchen table where homemade joy fills the air.",
             "alt": "Sprout and shadows singing together under the moonlight",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-c6f0be678a/scene_5_2.png"
+            "src": ""
           }
         }
       ]

@@ -13,7 +13,7 @@
   "wordCount": 504,
   "readingLevel": "Pre-K to Grade 1",
   "synopsis": "Zap, a small purple alien with three yellow eyes, explores a magical market before the Festival of Falling Stars. Through notes and letters exchanged with mysterious market vendors, Zap receives an unexpected gift that changes everything.",
-  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-e8ae97146b/cover.png",
+  "coverImage": "",
   "chapters": [
     {
       "title": "The Note Under the Tent",
@@ -24,7 +24,7 @@
             "description": "A busy market scene with colorful tents and cooking fires producing purple smoke. Zap, a small purple alien with three big luminous yellow eyes, two antennae, smooth lavender skin, tiny arms, and a round friendly face, holds a note while looking around. Enchanted forest backdrop, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage.",
             "alt": "Zap the purple alien holds a mysterious note in a bustling magical market",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-e8ae97146b/scene_1_1.png"
+            "src": ""
           }
         },
         {
@@ -33,7 +33,7 @@
             "description": "Inside a tent decorated with silver bells, a glowing woman made of starlight sits across from Zap, a small purple alien with three big luminous yellow eyes, two antennae, smooth lavender skin, tiny arms, and a round friendly face. She holds a wooden box. The tent interior glows with enchanted forest ambiance, glowing mushrooms, fairy lights, mystical atmosphere, rich greens and purples, golden sparkles, Studio Ghibli inspired, detailed foliage visible through tent opening.",
             "alt": "Zap meets the glowing Starweaver inside a tent with silver bells",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-e8ae97146b/scene_1_2.png"
+            "src": ""
           }
         }
       ]
@@ -47,7 +47,7 @@
             "description": "At a bread stall, a three-armed baker with flour in her beard hands a warm roll to Zap, a small purple alien with three big luminous yellow eyes, two antennae, smooth lavender skin, tiny arms, and a round friendly face. Zap holds the wooden box in one tiny arm. The stall is surrounded by enchanted forest elements, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage.",
             "alt": "The three-armed baker gives Zap a roll with a hidden note inside",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-e8ae97146b/scene_2_1.png"
+            "src": ""
           }
         },
         {
@@ -56,7 +56,7 @@
             "description": "Zap, a small purple alien with three big luminous yellow eyes, two antennae, smooth lavender skin, tiny arms, and a round friendly face, writes on a piece of paper while sitting on a wooden crate. Around him are flower stalls with mystical blooms. The scene has enchanted forest atmosphere, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage.",
             "alt": "Zap writes a note while surrounded by magical flower stalls",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-e8ae97146b/scene_2_2.png"
+            "src": ""
           }
         }
       ]
@@ -70,7 +70,7 @@
             "description": "A giant glowing mushroom serves as a message board with notes growing like leaves all over it. Zap, a small purple alien with three big luminous yellow eyes, two antennae, smooth lavender skin, tiny arms, and a round friendly face, pins his note to the mushroom. The scene is filled with enchanted forest elements, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage.",
             "alt": "Zap posts his note on a giant mushroom message board",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-e8ae97146b/scene_3_1.png"
+            "src": ""
           }
         },
         {
@@ -79,7 +79,7 @@
             "description": "Zap, a small purple alien with three big luminous yellow eyes, two antennae, smooth lavender skin, tiny arms, and a round friendly face, now wearing sparkling silver wings, holds the wooden box. Magic notes float around him like butterflies. The market bustles in the background with enchanted forest elements, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage.",
             "alt": "Zap wears magical silver wings while magical notes float around him like butterflies",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-e8ae97146b/scene_3_2.png"
+            "src": ""
           }
         }
       ]

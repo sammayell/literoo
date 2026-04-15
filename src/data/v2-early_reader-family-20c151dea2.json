@@ -13,7 +13,7 @@
   "wordCount": 483,
   "readingLevel": "Kindergarten-1st Grade",
   "synopsis": "Amara hears a mysterious sound that no one else can detect as she explores different corners of her grandmother's cluttered workshop, following her homemade map to discover the source of the tiny echoes.",
-  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-20c151dea2/cover.png",
+  "coverImage": "",
   "chapters": [
     {
       "title": "The North Corner Where Gears Go Round",
@@ -24,7 +24,7 @@
             "description": "Amara with long box braids, rich brown skin, and large sparkling dark eyes leans against a table covered in spinning gears and clockwork mechanisms in the north corner of the workshop. Her grandmother, in a flour-dusted apron, stirs soup with a wrench-spoon by a warm stove. Steam rises from pots, and warm yellow light filters through the space filled with half-finished inventions.",
             "alt": "Amara listening to gears while her grandmother cooks in a cozy workshop",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-20c151dea2/scene_1_1.png"
+            "src": ""
           }
         },
         {
@@ -32,7 +32,8 @@
           "illustration": {
             "description": "Close-up of Amara with long box braids, rich brown skin, and large sparkling dark eyes examining a hand-drawn map with crayon markings. Behind her, brass mechanical birds sit on shelves among other half-finished inventions. The workshop setting shows warm oranges and yellows with steam curling in the background.",
             "alt": "Amara studying her map while mechanical birds watch from shelves",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": ""
           }
         }
       ]
@@ -46,7 +47,7 @@
             "description": "Amara with long box braids, rich brown skin, and large sparkling dark eyes walks along a tall wall lined with peculiar inventions including floating umbrellas, a brass telescope, self-walking boots, and an ornate hat on display. The scene shows the cozy workshop atmosphere with warm yellows and oranges, steam wisps, and flour dust in the air.",
             "alt": "Amara exploring inventions along the east wall of the workshop",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-20c151dea2/scene_2_1.png"
+            "src": ""
           }
         },
         {
@@ -55,7 +56,7 @@
             "description": "Amara with long box braids, rich brown skin, and large sparkling dark eyes has her ear pressed against a wooden wall while her grandmother, wearing a flour-dusted apron with oil-stain hearts, watches with twinkling eyes. The workshop setting includes exposed wooden beams, hanging inventions, and the warm homey atmosphere with oranges and yellows throughout.",
             "alt": "Amara listening to the wall while her grandmother watches fondly",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-20c151dea2/scene_2_2.png"
+            "src": ""
           }
         }
       ]
@@ -69,7 +70,7 @@
             "description": "Amara with long box braids, rich brown skin, and large sparkling dark eyes stands by a large workshop window with golden afternoon light streaming through. Around her are light-catching inventions including ornate mirrors, colorful prisms, and an unusual sundial. Dust motes and steam float in the warm yellow and orange light that fills this corner of the cluttered workshop.",
             "alt": "Amara by the sunny south window surrounded by light-catching inventions",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-20c151dea2/scene_3_1.png"
+            "src": ""
           }
         },
         {
@@ -78,7 +79,7 @@
             "description": "Amara with long box braids, rich brown skin, and large sparkling dark eyes peeks behind an elaborate mechanical butterfly device connected to an ornate music box. The scene shows the warm, cluttered workshop atmosphere with golden light from the window, steam curls, and the cozy family setting with warm oranges and yellows throughout.",
             "alt": "Amara discovering a mechanical butterfly and music box contraption",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-20c151dea2/scene_3_2.png"
+            "src": ""
           }
         }
       ]
@@ -92,7 +93,7 @@
             "description": "Amara with long box braids, rich brown skin, and large sparkling dark eyes discovers a small tablet covered in sawdust in the west corner of the workshop, behind a makeshift curtain of measuring tape and vines. The scene shows the cluttered workshop setting with half-finished inventions around her, warm lighting with yellows and oranges, and the homey atmosphere of the family workshop.",
             "alt": "Amara finding the forgotten tablet making mysterious sounds",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-20c151dea2/scene_4_1.png"
+            "src": ""
           }
         },
         {
@@ -101,7 +102,7 @@
             "description": "Amara with long box braids, rich brown skin, and large sparkling dark eyes sits with her grandmother among the cluttered workshop inventions, both holding steaming cups of cocoa. The tablet lies silent nearby as warm yellow and orange light fills the space. Steam rises from their cups, and the cozy family moment shows the loving bond between grandmother and granddaughter in their shared creative space.",
             "alt": "Amara and grandmother sharing cocoa among the workshop inventions",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-20c151dea2/scene_4_2.png"
+            "src": ""
           }
         }
       ]
