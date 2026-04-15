@@ -25,6 +25,9 @@
             "alt": "Ember the baby dragon being directed by a badger conductor in a train corridor",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-8182be9207/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-8182be9207/ch1_p1.mp3"
           }
         },
         {
@@ -34,6 +37,9 @@
             "alt": "Ember outside compartment door 3 with musical notes visible",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-8182be9207/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-8182be9207/ch1_p2.mp3"
           }
         },
         {
@@ -43,10 +49,16 @@
             "alt": "Ember meeting Nora the owl in their shared train compartment",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-8182be9207/scene_1_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-8182be9207/ch1_p3.mp3"
           }
         },
         {
-          "text": "The train rocked left, then right, as it picked up speed. Ember's curly tail twitched. He had been looking forward to having a compartment to himself for the long journey to Aunt Maple's cave. Now he was sharing with someone who whispered instead of talked and wouldn't meet his eyes."
+          "text": "The train rocked left, then right, as it picked up speed. Ember's curly tail twitched. He had been looking forward to having a compartment to himself for the long journey to Aunt Maple's cave. Now he was sharing with someone who whispered instead of talked and wouldn't meet his eyes.",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-8182be9207/ch1_p4.mp3"
+          }
         }
       ]
     },
@@ -60,6 +72,9 @@
             "alt": "Ember observing Nora the owl in their train compartment",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-8182be9207/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-8182be9207/ch2_p1.mp3"
           }
         },
         {
@@ -69,13 +84,22 @@
             "alt": "Ember and Nora beginning to talk to each other",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-8182be9207/scene_2_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-8182be9207/ch2_p2.mp3"
           }
         },
         {
-          "text": "The train went through a tunnel, and everything went dark except for the small lamp above their table. In the sudden quiet, Ember heard Nora make a soft sound. Not humming this time. Something sadder. He started his third list: Ways This Journey Is Not What I Expected."
+          "text": "The train went through a tunnel, and everything went dark except for the small lamp above their table. In the sudden quiet, Ember heard Nora make a soft sound. Not humming this time. Something sadder. He started his third list: Ways This Journey Is Not What I Expected.",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-8182be9207/ch2_p3.mp3"
+          }
         },
         {
-          "text": "One: he was supposed to sleep alone and practice his small fire-breathing. Two: he was supposed to read his adventure books without anyone asking questions. Three: he was supposed to arrive at Aunt Maple's feeling brave and grown-up, not worried about a whispering owl."
+          "text": "One: he was supposed to sleep alone and practice his small fire-breathing. Two: he was supposed to read his adventure books without anyone asking questions. Three: he was supposed to arrive at Aunt Maple's feeling brave and grown-up, not worried about a whispering owl.",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-8182be9207/ch2_p4.mp3"
+          }
         }
       ]
     },
@@ -89,10 +113,16 @@
             "alt": "Nora the owl finally looking directly at Ember in the stopped train",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-8182be9207/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-8182be9207/ch3_p1.mp3"
           }
         },
         {
-          "text": "She opened her talons. Inside was a small silver bell, the kind that might hang from a collar. 'I found it,' she whispered. 'But finding isn't keeping, is it?' Ember looked at the bell. It was polished smooth and had tiny letters carved around its edge. 'Can you read what it says?' he asked."
+          "text": "She opened her talons. Inside was a small silver bell, the kind that might hang from a collar. 'I found it,' she whispered. 'But finding isn't keeping, is it?' Ember looked at the bell. It was polished smooth and had tiny letters carved around its edge. 'Can you read what it says?' he asked.",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-8182be9207/ch3_p2.mp3"
+          }
         },
         {
           "text": "'Luna,' Nora whispered. 'It says Luna. Someone is missing their cat.' She closed her talons around the bell again. 'I was taking it to the Lost Things Office in the city. But now I'm not sure I'm brave enough. What if they ask too many questions? What if they don't believe I just found it?'",
@@ -101,10 +131,16 @@
             "alt": "Ember examining the silver bell that reads 'Luna' in Nora's talons",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-8182be9207/scene_3_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-8182be9207/ch3_p3.mp3"
           }
         },
         {
-          "text": "Ember started his fourth list, but this one was different: Reasons Nora Is Worried. One: she thinks no one will believe her story. Two: she's never been to a Lost Things Office before. Three: she's used to being alone and doesn't know how to ask for help. Four: she whispers because she's afraid of taking up too much space."
+          "text": "Ember started his fourth list, but this one was different: Reasons Nora Is Worried. One: she thinks no one will believe her story. Two: she's never been to a Lost Things Office before. Three: she's used to being alone and doesn't know how to ask for help. Four: she whispers because she's afraid of taking up too much space.",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-8182be9207/ch3_p4.mp3"
+          }
         }
       ]
     },
@@ -112,7 +148,10 @@
       "title": "The List That Matters",
       "pages": [
         {
-          "text": "'I know about the Lost Things Office,' Ember said. 'Aunt Maple took me there once when I found a wallet. The rabbit who works there is very kind. She has glasses that slide down her nose and she says thank you seven times for every item returned.' Nora's feathers ruffled with interest. 'Seven times?'"
+          "text": "'I know about the Lost Things Office,' Ember said. 'Aunt Maple took me there once when I found a wallet. The rabbit who works there is very kind. She has glasses that slide down her nose and she says thank you seven times for every item returned.' Nora's feathers ruffled with interest. 'Seven times?'",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-8182be9207/ch4_p1.mp3"
+          }
         },
         {
           "text": "'She's very thorough,' Ember explained. 'And she never asks where you found something, only that you're glad to return it.' The train started moving again, slower now as they approached the city. 'Would you like me to come with you?' he asked. 'To the office, I mean. Before I catch my connection to Aunt Maple's.'",
@@ -121,10 +160,16 @@
             "alt": "Ember offering to help Nora as city lights appear outside",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-8182be9207/scene_4_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-8182be9207/ch4_p2.mp3"
           }
         },
         {
-          "text": "Nora was quiet for so long that Ember thought she might have fallen asleep. Then she said, not in a whisper but in her real voice, 'Yes. I would like that very much.' Her voice was actually quite lovely, like wind chimes made of silver. 'Thank you, small dragon.' 'Thank you, careful owl,' Ember replied."
+          "text": "Nora was quiet for so long that Ember thought she might have fallen asleep. Then she said, not in a whisper but in her real voice, 'Yes. I would like that very much.' Her voice was actually quite lovely, like wind chimes made of silver. 'Thank you, small dragon.' 'Thank you, careful owl,' Ember replied.",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-8182be9207/ch4_p3.mp3"
+          }
         },
         {
           "text": "As the train pulled into Central Station, Ember made his final list: Things I Learned Tonight. One: sometimes the wrong compartment is the right one. Two: everyone carries something that needs returning. Three: whispering is just another way of being gentle. Four: the best journeys are the ones you don't take alone.",
@@ -133,10 +178,16 @@
             "alt": "Ember and Nora walking together through the busy train station",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-8182be9207/scene_4_4.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-8182be9207/ch4_p4.mp3"
           }
         },
         {
-          "text": "The conductor with the peppermint smell nodded to them as they stepped onto the platform. 'Special arrangements,' she said again, but this time she was smiling. Ember understood now that some arrangements are more special than they first appear, especially the ones that bring strangers together in the gentle rocking dark of a night train, making lists that turn into friendship."
+          "text": "The conductor with the peppermint smell nodded to them as they stepped onto the platform. 'Special arrangements,' she said again, but this time she was smiling. Ember understood now that some arrangements are more special than they first appear, especially the ones that bring strangers together in the gentle rocking dark of a night train, making lists that turn into friendship.",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-8182be9207/ch4_p5.mp3"
+          }
         }
       ]
     }
@@ -267,5 +318,7 @@
       }
     ]
   },
-  "_spec_character_name": "ember"
+  "_spec_character_name": "ember",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }

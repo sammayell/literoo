@@ -24,6 +24,9 @@
             "alt": "Quokka examining a mysterious wooden door in the coral reef",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-8b76959d14/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-8b76959d14/ch1_p1.mp3"
           }
         },
         {
@@ -33,6 +36,9 @@
             "alt": "Quokka talking to an angelfish about the mysterious door",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-8b76959d14/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-8b76959d14/ch1_p2.mp3"
           }
         },
         {
@@ -42,6 +48,9 @@
             "alt": "Quokka reaching for the door handle with fish watching",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-8b76959d14/scene_1_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-8b76959d14/ch1_p3.mp3"
           }
         }
       ]
@@ -56,6 +65,9 @@
             "alt": "Quokka contemplating the door with parrotfish nearby",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-8b76959d14/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-8b76959d14/ch2_p1.mp3"
           }
         },
         {
@@ -65,6 +77,9 @@
             "alt": "Quokka opening the door with sparkling water flowing out",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-8b76959d14/scene_2_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-8b76959d14/ch2_p2.mp3"
           }
         },
         {
@@ -74,6 +89,9 @@
             "alt": "Quokka swimming into the underwater garden beyond the door",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-8b76959d14/scene_2_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-8b76959d14/ch2_p3.mp3"
           }
         }
       ]
@@ -88,6 +106,9 @@
             "alt": "Quokka watching tiny organisms repair coral in the garden",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-8b76959d14/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-8b76959d14/ch3_p1.mp3"
           }
         },
         {
@@ -97,6 +118,9 @@
             "alt": "Quokka meeting the wise grouper in the coral garden",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-8b76959d14/scene_3_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-8b76959d14/ch3_p2.mp3"
           }
         },
         {
@@ -106,6 +130,9 @@
             "alt": "Quokka returning through the door with healing water for the reef",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-8b76959d14/scene_3_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-animals-8b76959d14/ch3_p3.mp3"
           }
         }
       ]
@@ -233,5 +260,7 @@
       }
     ]
   },
-  "_spec_character_name": "quokka"
+  "_spec_character_name": "quokka",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
