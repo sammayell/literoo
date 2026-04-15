@@ -13,7 +13,7 @@
   "wordCount": 753,
   "readingLevel": "Grade 1-2",
   "synopsis": "Marcus must navigate a magical traveling carnival alone for the first time to solve a mystery about missing carousel animals, guided by observations from a clever crow who sees what humans overlook.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-5b60cd9515/cover.png",
   "chapters": [
     {
       "title": "The Ticket Booth",
@@ -23,7 +23,7 @@
           "illustration": {
             "description": "A boy with short curly hair with a fade, medium-dark brown skin, and warm brown eyes receives a glowing purple wristband from a shimmering ticket seller. A black crow perches on the booth watching. Warm yellows and oranges glow from carnival lights. Cozy kitchen home art style.",
             "alt": "Marcus getting his wristband at the magical ticket booth",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-5b60cd9515/scene_1_1.png"
           }
         },
         {
@@ -31,7 +31,7 @@
           "illustration": {
             "description": "A boy with short curly hair with a fade, medium-dark brown skin, and warm brown eyes holds a magical map with moving illustrations. A black crow observes from above. The map glows with warm yellows and oranges showing three carnival locations. Cozy kitchen home art style.",
             "alt": "Marcus studying his magical moving map",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-5b60cd9515/scene_1_2.png"
           }
         },
         {
@@ -39,7 +39,7 @@
           "illustration": {
             "description": "A boy with short curly hair with a fade, medium-dark brown skin, and warm brown eyes walks away from the ticket booth toward glowing carnival lights, leaving glittering footprints. A black crow flies overhead. Warm yellows and oranges illuminate the path. Cozy kitchen home art style.",
             "alt": "Marcus walking into the carnival leaving magical footprints",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-5b60cd9515/scene_1_3.png"
           }
         }
       ]
@@ -52,7 +52,7 @@
           "illustration": {
             "description": "A boy with short curly hair with a fade, medium-dark brown skin, and warm brown eyes stands beside a nearly empty carousel with one small wooden rabbit. A woman with peacock feather hair operates the ride. A black crow perches on the carousel roof. Warm yellows and oranges light the scene. Cozy kitchen home art style.",
             "alt": "Marcus at the nearly empty carousel with the operator",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-5b60cd9515/scene_2_1.png"
           }
         },
         {
@@ -60,7 +60,7 @@
           "illustration": {
             "description": "A boy with short curly hair with a fade, medium-dark brown skin, and warm brown eyes kneels examining glowing silver hoofprints on the ground. A black crow stands nearby pointing with its wing. Warm yellows and oranges illuminate the magical tracks. Cozy kitchen home art style.",
             "alt": "Marcus discovering magical hoofprints with the crow's help",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-5b60cd9515/scene_2_2.png"
           }
         },
         {
@@ -68,7 +68,7 @@
           "illustration": {
             "description": "A boy with short curly hair with a fade, medium-dark brown skin, and warm brown eyes listens to a wooden rabbit on the carousel. The rabbit glows softly as it speaks. A black crow watches the conversation. Warm yellows and oranges create a magical atmosphere. Cozy kitchen home art style.",
             "alt": "The wooden rabbit speaking to Marcus about the missing animals",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-5b60cd9515/scene_2_3.png"
           }
         }
       ]
@@ -81,7 +81,7 @@
           "illustration": {
             "description": "A boy with short curly hair with a fade, medium-dark brown skin, and warm brown eyes stands in a mirror maze with multiple reflections. A black crow sits on his shoulder. Empty animal-shaped spaces float in some mirrors. Warm yellows and oranges reflect infinitely. Cozy kitchen home art style.",
             "alt": "Marcus in the House of Mirrors with animal-shaped empty spaces",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-5b60cd9515/scene_3_1.png"
           }
         },
         {
@@ -89,7 +89,7 @@
           "illustration": {
             "description": "A boy with short curly hair with a fade, medium-dark brown skin, and warm brown eyes pushes open a mirror door. Behind it, faded carousel animals huddle together looking lost. A black crow helps guide Marcus to the secret opening. Warm yellows and oranges light the hidden space. Cozy kitchen home art style.",
             "alt": "Marcus opening the secret mirror door to find the lost animals",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-5b60cd9515/scene_3_2.png"
           }
         },
         {
@@ -97,7 +97,7 @@
           "illustration": {
             "description": "A boy with short curly hair with a fade, medium-dark brown skin, and warm brown eyes holds up his glowing map to show confused carousel animals. The animals look hopeful as they see their moving pictures. A black crow watches proudly. Warm yellows and oranges illuminate the rescue scene. Cozy kitchen home art style.",
             "alt": "Marcus showing the map to help the lost carousel animals",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-5b60cd9515/scene_3_3.png"
           }
         },
         {
@@ -105,7 +105,7 @@
           "illustration": {
             "description": "A boy with short curly hair with a fade, medium-dark brown skin, and warm brown eyes rides the wooden rabbit on the now-full carousel. All the painted animals are back in their places. His reflection shows him surrounded by all his new animal friends. A black crow flies in celebration. Warm yellows and oranges create a joyful scene. Cozy kitchen home art style.",
             "alt": "Marcus riding the carousel with all animals returned and reflecting together",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-5b60cd9515/scene_3_4.png"
           }
         }
       ]
