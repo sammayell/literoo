@@ -13,7 +13,7 @@
   "wordCount": 1191,
   "readingLevel": "Grade 1-2",
   "synopsis": "When a baby emperor penguin gets stranded on a floating iceberg with an unexpected companion, they communicate through notes while learning that working together matters more than winning.",
-  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b4245c3e29/cover.png",
+  "coverImage": "",
   "chapters": [
     {
       "title": "Chapter 1: The First Note",
@@ -24,7 +24,10 @@
             "description": "A chubby baby emperor penguin with fluffy grey-white down, round shiny black eyes, a tiny yellow beak, and oversized webbed feet writes in the snow with a piece of driftwood while an arctic tern watches. They stand on a floating iceberg surrounded by cold blue sea. Golden age illustration style with Arthur Rackham inspired detailed pen work, watercolor washes, ornate fairy tale aesthetic, timeless classic feel with decorative borders.",
             "alt": "A penguin and tern writing messages in the snow on an iceberg",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b4245c3e29/scene_1_1.png"
+            "src": ""
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-b4245c3e29/ch1_p1.mp3"
           }
         }
       ]
@@ -38,7 +41,10 @@
             "description": "A chubby baby emperor penguin with fluffy grey-white down, round shiny black eyes, a tiny yellow beak, and oversized webbed feet climbs out of the cold blue sea onto the floating iceberg while an arctic tern flies overhead. Water drips from the penguin's feathers. Golden age illustration style with Arthur Rackham inspired detailed pen work, watercolor washes, ornate fairy tale aesthetic, enchanted scenes with decorative borders.",
             "alt": "A penguin climbing out of water onto an iceberg while a tern flies above",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b4245c3e29/scene_2_1.png"
+            "src": ""
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-b4245c3e29/ch2_p1.mp3"
           }
         }
       ]
@@ -52,7 +58,10 @@
             "description": "A chubby baby emperor penguin with fluffy grey-white down, round shiny black eyes, a tiny yellow beak, and oversized webbed feet has fallen backwards into snow with only his beak showing, while an arctic tern stands nearby on the floating iceberg surrounded by cold blue sea. Golden age illustration style with Arthur Rackham inspired detailed pen work, watercolor washes, ornate fairy tale aesthetic, timeless classic with decorative borders.",
             "alt": "A penguin fallen in snow with only his beak showing while a tern watches",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b4245c3e29/scene_3_1.png"
+            "src": ""
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-b4245c3e29/ch3_p1.mp3"
           }
         }
       ]
@@ -66,7 +75,10 @@
             "description": "A chubby baby emperor penguin with fluffy grey-white down, round shiny black eyes, a tiny yellow beak, and oversized webbed feet sits next to an arctic tern, both looking at messages written in the snow on their floating iceberg. The cold blue sea surrounds them under a cloudy sky. Golden age illustration style with Arthur Rackham inspired detailed pen work, watercolor washes, ornate fairy tale aesthetic, enchanted scenes with decorative borders.",
             "alt": "A penguin and tern looking at snow messages together on an iceberg",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b4245c3e29/scene_4_1.png"
+            "src": ""
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-b4245c3e29/ch4_p1.mp3"
           }
         }
       ]
@@ -80,7 +92,10 @@
             "description": "A chubby baby emperor penguin with fluffy grey-white down, round shiny black eyes, a tiny yellow beak, and oversized webbed feet sleeps peacefully next to an arctic tern on a floating iceberg drifting through the cold blue sea toward the horizon. Their messages remain visible in the snow around them. Golden age illustration style with Arthur Rackham inspired detailed pen work, watercolor washes, ornate fairy tale aesthetic, timeless classic with decorative borders creating an enchanted scene.",
             "alt": "A penguin and tern sleeping together on an iceberg with messages in the snow",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b4245c3e29/scene_5_1.png"
+            "src": ""
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-b4245c3e29/ch5_p1.mp3"
           }
         }
       ]
@@ -205,5 +220,7 @@
       }
     ]
   },
-  "_spec_character_name": "waddles"
+  "_spec_character_name": "waddles",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
