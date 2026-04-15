@@ -25,6 +25,9 @@
             "alt": "A spotted fawn hiding behind a trunk, observing a glowing blue door in an attic",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-b4a7413dcc/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fantasy-b4a7413dcc/ch1_p1.mp3"
           }
         },
         {
@@ -34,6 +37,9 @@
             "alt": "A spotted fawn studying dust particles in a quiet, ordinary attic",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-b4a7413dcc/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fantasy-b4a7413dcc/ch1_p2.mp3"
           }
         }
       ]
@@ -48,6 +54,9 @@
             "alt": "A spotted fawn touching a warm wall with a cat-shaped stain while rain falls outside",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-b4a7413dcc/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fantasy-b4a7413dcc/ch2_p1.mp3"
           }
         },
         {
@@ -57,6 +66,9 @@
             "alt": "A spotted fawn taking notes as a wall stain begins to glow blue",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-b4a7413dcc/scene_2_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fantasy-b4a7413dcc/ch2_p2.mp3"
           }
         }
       ]
@@ -71,6 +83,9 @@
             "alt": "A spotted fawn measuring a mysterious blue door that appeared overnight",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-b4a7413dcc/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fantasy-b4a7413dcc/ch3_p1.mp3"
           }
         },
         {
@@ -80,6 +95,9 @@
             "alt": "A spotted fawn meeting an official hedgehog emerging from the blue door",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-b4a7413dcc/scene_3_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fantasy-b4a7413dcc/ch3_p2.mp3"
           }
         }
       ]
@@ -93,6 +111,9 @@
             "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes watches as rabbits, mice, and an owl emerge from the glowing blue door carrying miniature furniture and umbrellas. Enchanted forest style with glowing mushrooms creating a welcoming path, fairy lights strung like tiny lanterns, mystical creatures moving with purpose, rich greens and purples creating a sense of community gathering, golden sparkles highlighting each small character, Studio Ghibli inspired magical migration scene.",
             "alt": "A spotted fawn observing various small creatures emerging from the door with belongings",
             "layout": "full-page"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fantasy-b4a7413dcc/ch4_p1.mp3"
           }
         },
         {
@@ -101,6 +122,9 @@
             "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes sits formally across from a dignified owl wearing small spectacles. Between them, other magical creatures are setting up a tiny camp with miniature tents and furniture. Enchanted forest style with glowing mushrooms providing cozy light, fairy lights creating an indoor forest canopy, mystical atmosphere of serious negotiation, rich greens and purples creating intimate spaces, golden sparkles emphasizing the important conversation, Studio Ghibli inspired magical diplomacy scene.",
             "alt": "A spotted fawn in formal discussion with a wise owl about shelter arrangements",
             "layout": "full-page"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fantasy-b4a7413dcc/ch4_p2.mp3"
           }
         }
       ]
@@ -114,6 +138,9 @@
             "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes sits contentedly among a bustling community of small magical creatures. The hedgehog reads weather reports, mice sit in a tiny library, rabbits serve tea from acorn caps. Enchanted forest style with glowing mushrooms creating perfect reading light, fairy lights strung like celebration decorations, mystical atmosphere of home and belonging, rich greens and purples creating cozy nooks, golden sparkles highlighting the harmony of different species, Studio Ghibli inspired magical community life.",
             "alt": "A spotted fawn surrounded by a thriving community of magical creatures in the attic",
             "layout": "full-page"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fantasy-b4a7413dcc/ch5_p1.mp3"
           }
         },
         {
@@ -123,6 +150,9 @@
             "alt": "A spotted fawn writing concluding notes as magical friends prepare to leave through the blue door",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-b4a7413dcc/scene_5_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fantasy-b4a7413dcc/ch5_p2.mp3"
           }
         }
       ]
@@ -259,5 +289,7 @@
       }
     ]
   },
-  "_spec_character_name": "sorrel"
+  "_spec_character_name": "sorrel",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
