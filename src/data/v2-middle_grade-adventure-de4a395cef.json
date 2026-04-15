@@ -1,0 +1,338 @@
+{
+  "id": "v2-middle_grade-adventure-de4a395cef",
+  "title": "Tracks in the Margins",
+  "ageTier": "middle_grade",
+  "ageRange": [
+    9,
+    12
+  ],
+  "genre": [
+    "adventure",
+    "sports"
+  ],
+  "wordCount": 2257,
+  "readingLevel": "Grade 4-6",
+  "synopsis": "When Bramble the raccoon discovers a hidden journal in a snowbound cabin, he uncovers the story of two rival winter athletes whose competition changed everything. But as he reads deeper, the boundaries between past and present begin to blur in ways he never expected.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-adventure-de4a395cef/cover.png",
+  "chapters": [
+    {
+      "title": "Discovery",
+      "content": "Field notes, Day 1: Something rattles behind the loose floorboard every time the wind hits the cabin just right.\n\nBramble's small paws worked at the warped wooden plank, his amber eyes gleaming with the kind of mischief that comes naturally to raccoons. Snow pelted the windows of the mountain cabin, each gust making the whole structure creak and sigh, but that rattling sound underneath his feet wouldn't let him rest.\n\nThe fire crackled in the stone hearth, casting dancing shadows across the walls lined with dusty hunting trophies and faded photographs. His family had rented this place for their winter break, but while his parents dozed in the big bedroom and his sister played video games, Bramble couldn't ignore the mystery beneath his feet.\n\nThe floorboard came loose with a satisfying pop. His sensitive paws felt around in the dark space below until they found something unexpected: a leather-bound journal, its pages yellowed and brittle with age.\n\n\"What are you doing?\" His sister's voice made him jump.\n\n\"Research,\" Bramble said, clutching the journal to his fluffy chest. \"Found something interesting.\"\n\nThe journal felt warm in his paws, as if it had been waiting for him. On the cover, embossed in fading gold letters: \"Property of Dr. Elena Vasquez, Winter Sports Research Institute.\"\n\nBramble opened to the first page, and his breath caught. The handwriting was precise, urgent, like someone racing against time to record every detail.",
+      "illustrations": [
+        {
+          "description": "A young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes kneels beside a loose floorboard, pulling out an old leather journal. The cabin interior glows with firelight, snow visible through windows. Dense tropical jungle, layers of green, hidden paths, ancient ruins, rich saturated, golden light through canopy, adventure exploration, exotic plants, mysterious.",
+          "alt": "Bramble discovering the hidden journal under the floorboard",
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-adventure-de4a395cef/scene_1_1.png"
+        }
+      ]
+    },
+    {
+      "title": "The First Entry",
+      "content": "Subject: Marcus Chen, age 16, unprecedented natural ability in alpine skiing. Initial observations suggest talent beyond normal parameters.\n\nBramble settled into the overstuffed armchair by the fire, the journal heavy on his lap. The entries were dated three winters ago, written in that same urgent handwriting. As he read, the cabin seemed to fade around him, replaced by the scientist's carefully recorded world.\n\n\"January 15th: Marcus arrived at training camp today. Other athletes immediately noticed his technique - fluid, instinctive, as if he's been skiing since birth. Coach Thompson says he's never seen anything like it. Marcus carved turns down Devil's Drop that seasoned professionals wouldn't attempt.\"\n\n\"January 18th: Concerning development. Marcus's presence is affecting team morale. Sarah Kim, our previous star athlete, has become withdrawn, missing practice sessions. The rivalry is intensifying faster than anticipated.\"\n\n\"January 20th: Sarah confronted Marcus after today's time trials. Her words: 'You don't belong here. This mountain belongs to those who've earned it.' Marcus simply nodded and walked away. His restraint is remarkable, but I sense tension building.\"\n\nBramble's tail twitched as he read. The scientist's notes painted a picture of two young athletes circling each other like storm systems, and he was caught right in the middle of their collision course.\n\nOutside, the wind howled louder, and for a moment, Bramble could swear he heard the distant sound of skis cutting through fresh powder.",
+      "illustrations": [
+        {
+          "description": "A young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes sits in an armchair reading the journal by firelight. Through the window, ghostly ski tracks appear in the falling snow. Dense tropical jungle, layers of green, hidden paths, ancient ruins, rich saturated, golden light through canopy, adventure exploration, exotic plants, mysterious.",
+          "alt": "Bramble reading about Marcus and Sarah while snow falls outside",
+          "position": "after-paragraph-3",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-adventure-de4a395cef/scene_2_1.png"
+        }
+      ]
+    },
+    {
+      "title": "The Rival Appears",
+      "content": "\"January 22nd: Sarah Kim's background check reveals intensive training since age four. Father is former Olympic coach. Lives and breathes competitive skiing. Marcus threatens everything she's worked toward.\"\n\nBramble's claws traced the words on the page. Dr. Vasquez wrote like she was documenting a scientific phenomenon, but emotion leaked through her clinical language. The raccoon could feel the tension building in these recorded moments from years past.\n\n\"January 24th: Observed Sarah's training session. Her technique is flawless, textbook perfect, every movement calculated for maximum efficiency. But when Marcus trains, something else happens. He doesn't follow the rules because he doesn't seem to know they exist. His body moves like water flowing downhill, finding the fastest path through pure instinct.\"\n\n\"January 26th: The team is splitting into factions. Half support Sarah's methodical approach, half are mesmerized by Marcus's natural ability. Coach Thompson is struggling to maintain unity. Quote from today: 'I've never seen talent create this much disruption. It's like watching two different philosophies of the sport clash in real time.'\"\n\nBramble paused, looking up from the journal. The fire had burned lower, and shadows danced more wildly across the cabin walls. He could almost see these two athletes, Sarah with her perfect form and Marcus with his impossible grace, circling each other on the snowy slopes.\n\nBut something bothered him about Dr. Vasquez's notes. Why was a scientist studying teenage ski racers? What was she really documenting up here on this isolated mountain?",
+      "illustrations": [
+        {
+          "description": "A young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes looks thoughtful while reading. Behind him, shadows on the wall seem to show the silhouettes of two skiers racing down a mountain. Dense tropical jungle, layers of green, hidden paths, ancient ruins, rich saturated, golden light through canopy, adventure exploration, exotic plants, mysterious.",
+          "alt": "Bramble pondering the rivalry between the two young skiers",
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-adventure-de4a395cef/scene_3_1.png"
+        }
+      ]
+    },
+    {
+      "title": "Escalation",
+      "content": "\"January 28th: INCIDENT REPORT - Sarah challenged Marcus to an unofficial race down Black Diamond Ridge. Extremely dangerous conditions, fresh powder over ice. Both athletes ignored safety protocols.\"\n\nBramble's paws gripped the journal tighter. Dr. Vasquez's handwriting became more rushed here, words tumbling over each other like an avalanche of observations and concern.\n\n\"Race began at 0600 hours. Sarah took early lead using classical technique, precise edge control, calculated risk assessment. Marcus fell behind initially, seemed to be studying the mountain rather than racing it. Then something changed.\"\n\n\"At the midpoint marker, Marcus found a line no one had ever taken. Cut straight through a grove of pine trees, using natural terrain features like they were part of the course design. Sarah saw him pull ahead and abandoned her careful approach. Started taking risks I've never seen from her.\"\n\n\"Final stretch: Both athletes exceeded safe speeds. Sarah's form remained perfect but desperate. Marcus moved like he was dancing with the mountain itself. Photo finish - Marcus won by less than half a second.\"\n\n\"Post-race observations: Sarah didn't speak to anyone for the rest of the day. Marcus seemed genuinely confused by the attention his victory generated. Quote from Marcus: 'I was just following where the snow wanted to go.'\"\n\nBramble felt his heart racing as if he'd been watching the race himself. The scientist's clinical notes couldn't hide the drama unfolding in those recorded moments. But more entries remained, and the handwriting ahead looked increasingly erratic.",
+      "illustrations": [
+        {
+          "description": "A young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes reads intently as the journal pages seem to come alive around him, showing ghostly images of two skiers racing through snowy pine trees. Dense tropical jungle, layers of green, hidden paths, ancient ruins, rich saturated, golden light through canopy, adventure exploration, exotic plants, mysterious.",
+          "alt": "The race scene materializing around Bramble as he reads",
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-adventure-de4a395cef/scene_4_1.png"
+        }
+      ]
+    },
+    {
+      "title": "Consequences",
+      "content": "\"February 2nd: Sarah's father arrived unannounced. Heated discussion with Coach Thompson about 'maintaining standards' and 'protecting legitimate athletes.' Clear implication that Marcus doesn't belong here.\"\n\nBramble shifted in his chair. The fire popped, sending sparks up the chimney, and he noticed how the cabin seemed to echo every sound tonight. Dr. Vasquez's entries were becoming more personal, less scientific.\n\n\"February 4th: Witnessed confrontation between Mr. Kim and Marcus. Quote from Mr. Kim: 'Natural talent without proper training is just showing off. This sport requires dedication, sacrifice, years of proper development.' Marcus listened without defending himself. His silence seemed to infuriate Mr. Kim further.\"\n\n\"February 6th: Sarah has been training at dawn, before anyone else arrives. Pushing herself beyond safe limits. Her technique remains flawless, but there's a desperation now that wasn't there before. She's trying to out-work what Marcus does effortlessly.\"\n\n\"February 8th: Marcus approached me today. Quote: 'Dr. Vasquez, why does everyone act like I'm doing something wrong? I'm just skiing the way that feels right.' How do I explain to a sixteen-year-old that sometimes being exceptional makes others feel inadequate?\"\n\n\"February 10th: The team dynamics are deteriorating rapidly. Two distinct camps have formed. Sarah's supporters emphasize tradition, proper training, earning success. Marcus's supporters argue that pure talent should be celebrated regardless of background.\"\n\nBramble paused. Outside, the storm seemed to be intensifying, and he could swear he heard voices in the wind - coaches shouting, athletes arguing, the complex politics of competition playing out in the mountain air.",
+      "illustrations": [
+        {
+          "description": "A young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes sits surrounded by swirling snow that seems to carry voices and memories. The cabin walls fade, replaced by visions of heated discussions and confrontations. Dense tropical jungle, layers of green, hidden paths, ancient ruins, rich saturated, golden light through canopy, adventure exploration, exotic plants, mysterious.",
+          "alt": "Bramble experiencing the conflict through the journal's memories",
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-adventure-de4a395cef/scene_5_1.png"
+        }
+      ]
+    },
+    {
+      "title": "The Challenge",
+      "content": "\"February 12th: Sarah issued official challenge to Marcus. Winner takes the spot on the regional championship team. Loser leaves the training program permanently. Coach Thompson tried to intervene, but both athletes had already agreed.\"\n\nBramble's tail bristled with tension. Dr. Vasquez's handwriting shook now, as if she was writing during an earthquake, or while watching something that made her hands tremble.\n\n\"February 14th: Challenge conditions agreed upon. Single run down Widow's Peak, the most technically demanding course on the mountain. Weather forecast shows incoming storm, but both athletes refuse to postpone. Quote from Sarah: 'Let's settle this once and for all.' Quote from Marcus: 'I just want everyone to stop being angry.'\"\n\n\"February 15th - Morning preparation: Sarah spent three hours studying course video, memorizing every gate, every turn. Her father timed her warm-up runs to the millisecond. Perfect preparation, as always.\"\n\n\"Marcus spent the same three hours sitting quietly at the top of the mountain, eyes closed, like he was listening to something only he could hear. When asked about his strategy, he shrugged: 'The mountain will show me what to do.'\"\n\n\"Pre-race atmosphere: Entire training camp gathered to witness. Other athletes placed bets. Coaches argued about safety protocols. Media arrived somehow - word had gotten out about the rivalry. The pressure was enormous.\"\n\n\"Both athletes showed nerves for the first time. Sarah's perfect composure cracked slightly during equipment check. Marcus kept looking at the storm clouds gathering above the peak.\"\n\nBramble realized he was holding his breath. The next page would reveal who won, but suddenly he wasn't sure he wanted to know.",
+      "illustrations": [
+        {
+          "description": "A young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes stares at the journal page with wide eyes as storm clouds seem to gather around the cabin. Two ghostly ski racers prepare at the starting line. Dense tropical jungle, layers of green, hidden paths, ancient ruins, rich saturated, golden light through canopy, adventure exploration, exotic plants, mysterious.",
+          "alt": "The tension builds as Bramble reads about the final challenge",
+          "position": "after-paragraph-5",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-adventure-de4a395cef/scene_6_1.png"
+        }
+      ]
+    },
+    {
+      "title": "The Race",
+      "content": "\"February 15th - 1400 hours: The challenge begins. Sarah launches first with textbook start technique. Every movement precise, calculated, perfect. She attacks each gate with mathematical precision, her line down the mountain exactly what the course designers intended.\"\n\nBramble found himself leaning forward, caught completely in Dr. Vasquez's urgent documentation of those crucial moments three years ago.\n\n\"Marcus starts thirty seconds later. Immediately takes a different approach - his line curves wider, seems inefficient, but he's building speed in ways that don't make sense. He's not skiing the course, he's skiing the mountain.\"\n\n\"Checkpoint 1: Sarah ahead by 2.3 seconds. Her supporters cheer. Perfect execution so far.\"\n\n\"Checkpoint 2: Marcus has closed the gap to 0.8 seconds. He found a wind current that carried him through the difficult S-turns. Sarah's father shouting instructions from the sideline.\"\n\n\"Checkpoint 3: Dead heat. Both athletes pushing absolute limits. Sarah's technique remains flawless under pressure. Marcus seems to be in conversation with the mountain itself.\"\n\n\"Final stretch: Then the impossible happened. Sarah caught an edge on the last gate. Minor mistake, cost her maybe half a second. Should have been recoverable.\"\n\n\"But Marcus... Marcus stopped.\"\n\n\"STOPPED. Twenty meters from the finish line, certain victory ahead of him, and he stopped skiing.\"\n\nBramble's claws dug into the journal's leather cover. This wasn't how races ended. This wasn't how rivalries resolved. What could have made Marcus stop so close to winning?",
+      "illustrations": [
+        {
+          "description": "A young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes reads with intense focus as ghostly ski racers materialize around him. One racer has stopped just before the finish line, looking back up the mountain. Dense tropical jungle, layers of green, hidden paths, ancient ruins, rich saturated, golden light through canopy, adventure exploration, exotic plants, mysterious.",
+          "alt": "The moment Marcus stops racing, just before victory",
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-adventure-de4a395cef/scene_7_1.png"
+        }
+      ]
+    },
+    {
+      "title": "The Truth",
+      "content": "\"Marcus heard what the rest of us missed - Sarah crying behind the last gate. Her perfect technique had finally cracked under the pressure of trying to match his natural ability. She was injured, pride shattered, sitting in the snow.\"\n\nBramble's amber eyes widened. Dr. Vasquez's handwriting became steadier here, as if the scientist had found her center again after witnessing something that changed everything.\n\n\"Marcus skied back up to Sarah. Helped her to her feet. Quote from Marcus: 'The mountain doesn't care who wins. It only cares that we all make it home safely.' Then he skied with her to the finish line. They crossed together.\"\n\n\"Both athletes were disqualified for not completing the course as intended. Neither made the championship team. The rivalry that had consumed everyone for weeks ended in mutual forfeit.\"\n\n\"But something else happened. Sarah's supporters and Marcus's supporters stopped arguing. They started talking about what they'd witnessed - not athletic competition, but human compassion. The sport became less important than the sportsmanship.\"\n\n\"Final observations: Marcus never returned to competitive skiing. Became a mountain rescue volunteer instead. Sarah recovered, continued competing, but her approach changed. She started teaching younger athletes that technique serves the sport, not the ego.\"\n\n\"Personal note: I came here to study peak athletic performance. Instead, I documented something more valuable - the moment when competition transforms into character.\"\n\nBramble closed the journal, his small paws trembling. The cabin felt different now, fuller somehow, as if the ghosts of that winter had settled peacefully into the walls.",
+      "illustrations": [
+        {
+          "description": "A young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes sits peacefully with the closed journal in his lap. Through the window, two ghostly figures ski together down the mountain, crossing the finish line side by side. Dense tropical jungle, layers of green, hidden paths, ancient ruins, rich saturated, golden light through canopy, adventure exploration, exotic plants, mysterious.",
+          "alt": "The peaceful resolution as Marcus and Sarah finish together",
+          "position": "after-paragraph-6",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-adventure-de4a395cef/scene_8_1.png"
+        }
+      ]
+    },
+    {
+      "title": "New Field Notes",
+      "content": "Field notes, Day 2: Found something else under the floorboard. A letter addressed 'To whoever finds this journal.'\n\nBramble's discovery wasn't finished. Dr. Vasquez had left one final page, written in different ink, dated much later.\n\n\"If you're reading this, you found my research notes about Marcus and Sarah. I left them here deliberately, hoping someday another young athlete would discover their story. Competition brings out the best and worst in all of us, but character emerges in how we treat our rivals.\"\n\n\"I've filled many journals since that winter, documenting athletes around the world. But Marcus and Sarah taught me that the most important victories happen when we choose compassion over conquest. The mountain remembers every act of kindness.\"\n\n\"To whoever finds this: What sport calls to you? What rivalry might you face? Remember that your greatest opponent can become your greatest teacher, if you're brave enough to see them as more than just someone to beat.\"\n\n\"The cabin's location isn't coincidental. This mountain has hosted many competitions, many rivalries, many moments where young athletes chose their character over their trophies. Add your own story to these walls.\"\n\nBramble looked around the cabin with new eyes. Those dusty photographs weren't just decorations - they were evidence of decades of young athletes finding themselves on these snowy slopes. His small paws traced the windowsill, wondering what stories he might write here during his family's stay.\n\nOutside, the storm was clearing. Fresh powder caught the moonlight like scattered diamonds, and Bramble thought he could hear the mountain whispering its own field notes about courage, competition, and the choice to be kind when winning matters most.\n\nHe picked up a pencil and opened the journal to a blank page. Time to add his own observations to the record.",
+      "illustrations": [
+        {
+          "description": "A young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes sits at a small table writing in the journal. The cabin is filled with the warm glow of moonlight on snow, and the photographs on the walls seem to show decades of young athletes. Dense tropical jungle, layers of green, hidden paths, ancient ruins, rich saturated, golden light through canopy, adventure exploration, exotic plants, mysterious.",
+          "alt": "Bramble beginning to write his own entry in Dr. Vasquez's journal",
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-middle_grade-adventure-de4a395cef/scene_9_1.png"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "sportsmanship",
+      "rivalry",
+      "hidden histories",
+      "character over competition"
+    ],
+    "readingFeatures": [
+      "found documents",
+      "nested storytelling",
+      "journal format",
+      "historical mystery"
+    ],
+    "educationalValue": "Explores themes of competition, compassion, and character development through sports",
+    "coverPrompt": {
+      "description": "A young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes sits by a crackling fireplace, reading an old leather journal. Snow swirls outside frosted windows of a cozy mountain cabin. Dense tropical jungle, layers of green, hidden paths, ancient ruins, rich saturated, golden light through canopy, adventure exploration, exotic plants, mysterious.",
+      "alt": "Bramble the raccoon reading by firelight in a snowy cabin"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sport were Marcus and Sarah competing in?",
+        "choices": [
+          "Alpine skiing",
+          "Snowboarding",
+          "Ice hockey",
+          "Figure skating"
+        ],
+        "correctIndex": 0,
+        "explanation": "The journal clearly documents Marcus and Sarah as alpine ski racers training on the mountain."
+      },
+      {
+        "id": "q2",
+        "question": "Why did Dr. Vasquez write the journal entries?",
+        "choices": [
+          "She was coaching the team",
+          "She was researching peak athletic performance",
+          "She was writing a book",
+          "She was Marcus's mother"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dr. Vasquez states she came to study peak athletic performance but ended up documenting something more valuable."
+      },
+      {
+        "id": "q3",
+        "question": "What made Marcus's skiing style different from Sarah's?",
+        "choices": [
+          "He was faster",
+          "He used better equipment",
+          "He skied instinctively rather than technically",
+          "He had more experience"
+        ],
+        "correctIndex": 2,
+        "explanation": "Marcus moved like water flowing downhill and seemed to ski by instinct, while Sarah used perfect textbook technique."
+      },
+      {
+        "id": "q4",
+        "question": "What happened during the final challenge race?",
+        "choices": [
+          "Marcus won easily",
+          "Sarah won by a large margin",
+          "Marcus stopped before the finish to help Sarah",
+          "They were both disqualified for cheating"
+        ],
+        "correctIndex": 2,
+        "explanation": "Marcus stopped just before certain victory when he heard Sarah crying, then helped her finish the race."
+      },
+      {
+        "id": "q5",
+        "question": "How did Marcus and Sarah's rivalry ultimately end?",
+        "choices": [
+          "Marcus quit skiing forever",
+          "They both crossed the finish line together",
+          "Sarah's father intervened",
+          "The race was cancelled"
+        ],
+        "correctIndex": 1,
+        "explanation": "Marcus helped Sarah to her feet and they skied across the finish line together, both being disqualified but showing sportsmanship."
+      },
+      {
+        "id": "q6",
+        "question": "What did Bramble find under the cabin floorboard?",
+        "choices": [
+          "Skiing equipment",
+          "Dr. Vasquez's research journal",
+          "A treasure map",
+          "Old photographs"
+        ],
+        "correctIndex": 1,
+        "explanation": "Bramble discovered Dr. Elena Vasquez's leather-bound research journal hidden under the loose floorboard."
+      },
+      {
+        "id": "q7",
+        "question": "What career did Marcus choose after the competition?",
+        "choices": [
+          "Professional ski racer",
+          "Ski instructor",
+          "Mountain rescue volunteer",
+          "Sports scientist"
+        ],
+        "correctIndex": 2,
+        "explanation": "The journal notes that Marcus became a mountain rescue volunteer instead of continuing competitive skiing."
+      },
+      {
+        "id": "q8",
+        "question": "Why did Dr. Vasquez leave the journal in the cabin?",
+        "choices": [
+          "She forgot it accidentally",
+          "She hoped another young athlete would find it",
+          "She was hiding it from someone",
+          "She planned to return for it later"
+        ],
+        "correctIndex": 1,
+        "explanation": "Dr. Vasquez deliberately left the journal hoping another young athlete would discover the story and learn from it."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 5,
+            "correctWord": "rattles",
+            "distractors": [
+              "creaks",
+              "whispers"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "mischief",
+            "distractors": [
+              "trouble",
+              "curiosity"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "journal",
+            "distractors": [
+              "notebook",
+              "diary"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "technique",
+            "distractors": [
+              "method",
+              "approach"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "rivalry",
+            "distractors": [
+              "competition",
+              "conflict"
+            ]
+          },
+          {
+            "wordIndex": 22,
+            "correctWord": "instinct",
+            "distractors": [
+              "talent",
+              "ability"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 7,
+            "correctWord": "stopped",
+            "distractors": [
+              "paused",
+              "hesitated"
+            ]
+          },
+          {
+            "wordIndex": 14,
+            "correctWord": "compassion",
+            "distractors": [
+              "kindness",
+              "mercy"
+            ]
+          },
+          {
+            "wordIndex": 20,
+            "correctWord": "character",
+            "distractors": [
+              "personality",
+              "spirit"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "bramble"
+}
