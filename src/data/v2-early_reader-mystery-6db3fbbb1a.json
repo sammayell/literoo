@@ -25,6 +25,9 @@
             "alt": "A fluffy white cloud creature with blue eyes investigates missing snowflake shapes in a tiny cobblestone square inside a snow globe",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-6db3fbbb1a/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-mystery-6db3fbbb1a/ch1_p1.mp3"
           }
         }
       ]
@@ -39,6 +42,9 @@
             "alt": "A cloud creature with a rainbow ribbon investigates tiny workshop windows filled with broken snowflake pieces and mysterious tools",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-6db3fbbb1a/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-mystery-6db3fbbb1a/ch2_p1.mp3"
           }
         }
       ]
@@ -53,6 +59,9 @@
             "alt": "A fluffy cloud being investigates mysterious scratch patterns and wheel tracks around a frozen pond in a snow globe world",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-6db3fbbb1a/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-mystery-6db3fbbb1a/ch3_p1.mp3"
           }
         }
       ]
@@ -67,6 +76,9 @@
             "alt": "A cloud creature discovers a secret snowflake workshop inside an old mill, with tables full of snowflake-making equipment and half-finished snow crystals",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-6db3fbbb1a/scene_4_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-mystery-6db3fbbb1a/ch4_p1.mp3"
           }
         }
       ]
@@ -81,6 +93,9 @@
             "alt": "A fluffy cloud being solves the mystery at the glass wall of a snow globe, discovering how damaged snowflakes are being rescued and restored",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-6db3fbbb1a/scene_5_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-mystery-6db3fbbb1a/ch5_p1.mp3"
           }
         }
       ]
@@ -214,5 +229,7 @@
       }
     ]
   },
-  "_spec_character_name": "nimbus"
+  "_spec_character_name": "nimbus",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
