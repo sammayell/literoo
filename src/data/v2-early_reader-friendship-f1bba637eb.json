@@ -1,0 +1,259 @@
+{
+  "id": "v2-early_reader-friendship-f1bba637eb",
+  "title": "The Missing Hum",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "friendship",
+    "science"
+  ],
+  "wordCount": 611,
+  "readingLevel": "Grade 1",
+  "synopsis": "Wind, a small spirit of swirling breeze, discovers that the gentle hum keeping their tiny space station peaceful has mysteriously vanished. Over three days, Wind must figure out what happened and decide whether to restore the sound that nobody else seems to miss.",
+  "coverImage": "",
+  "chapters": [
+    {
+      "title": "Day One: Something's Different",
+      "pages": [
+        {
+          "text": "The coffee maker burped three times instead of two. Wind noticed this peculiar fact while swirling past the tiny kitchen of Orbital Station Seven, where Earth spun lazily like a blue marble below.\n\nSomething was missing, missing, missing,\nBut what could it be?\nWind spun round the station listening,\nAs quiet as the sea.",
+          "illustration": {
+            "description": "A small wind spirit shaped like a swirling grey-white breeze with leaves and twigs spinning inside, two bright mischievous eyes peeking through, floating near a coffee maker in a small space station kitchen. Through a porthole window, Earth is visible spinning slowly. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities.",
+            "alt": "Wind observing the coffee maker in the space station kitchen",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-f1bba637eb/scene_1_1.png"
+          }
+        },
+        {
+          "text": "The little wind spirit had lived here for exactly forty-seven days, ever since the station's air recycler had accidentally sucked him up from a windy hilltop on Earth. He'd grown quite fond of the humming, buzzing, whirring sounds that kept the station alive.\n\nBut today felt different, different, different,\nLike a song without its tune.\nSomething important had gone missing,\nSomewhere between night and noon.",
+          "illustration": {
+            "description": "A small wind spirit shaped like a swirling grey-white breeze with leaves and twigs spinning inside, two bright mischievous eyes peeking through, floating through the corridors of the space station with various machines and panels visible. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities.",
+            "alt": "Wind floating through the space station corridors",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-f1bba637eb/scene_1_2.png"
+          }
+        },
+        {
+          "text": "Commander Zara floated past, checking her tablet as usual. \"All systems normal,\" she muttered to herself, though Wind noticed she tapped her ear twice, as if something felt off.\n\nThe missing thing was there yesterday,\nA gentle, steady sound.\nNow Wind must be detective,\nTo see what can't be found.",
+          "illustration": {
+            "description": "Commander Zara floating in the space station while checking her tablet, with a small wind spirit shaped like a swirling grey-white breeze with leaves and twigs spinning inside, two bright mischievous eyes peeking through, watching her nearby. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities.",
+            "alt": "Commander Zara checking systems while Wind observes",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-f1bba637eb/scene_1_3.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Day Two: The Problem Grows",
+      "pages": [
+        {
+          "text": "By morning, Engineer Kai was frowning at his instruments. \"Odd,\" he said to his wrench, \"the stress readings are all jumpy today.\" Wind knew why - without the gentle background hum, every little vibration seemed louder, harsher.\n\nThe missing hum had kept things calm,\nLike a lullaby for machines.\nNow bolts were getting nervous,\nAnd circuits felt less serene.",
+          "illustration": {
+            "description": "Engineer Kai floating near control panels with instruments, looking puzzled, while a small wind spirit shaped like a swirling grey-white breeze with leaves and twigs spinning inside, two bright mischievous eyes peeking through, hovers nearby watching. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities.",
+            "alt": "Engineer Kai examining jumpy instruments with Wind watching",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-f1bba637eb/scene_2_1.png"
+          }
+        },
+        {
+          "text": "Wind explored every corner, every vent, every hidden space where sounds might hide. He found three lost bolts, a forgotten pen, and Commander Zara's lucky socks, but no sign of the missing hum.\n\nWhere do missing sounds go?\nDo they float away in space?\nOr hide in secret corners,\nIn some forgotten place?",
+          "illustration": {
+            "description": "A small wind spirit shaped like a swirling grey-white breeze with leaves and twigs spinning inside, two bright mischievous eyes peeking through, searching through various spaces in the station, with lost items (bolts, pen, socks) floating around. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities.",
+            "alt": "Wind searching through the station and finding lost items",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-f1bba637eb/scene_2_2.png"
+          }
+        },
+        {
+          "text": "That evening, Dr. Chen couldn't concentrate on her experiments. \"These readings make no sense,\" she grumbled, not realizing that the missing frequency had been helping her sensitive equipment stay balanced all along.\n\nThe problem was growing, growing, growing,\nBut only Wind could see\nThat something small and humble\nWas important as could be.",
+          "illustration": {
+            "description": "Dr. Chen floating at her laboratory workstation looking frustrated at her readings, with a small wind spirit shaped like a swirling grey-white breeze with leaves and twigs spinning inside, two bright mischievous eyes peeking through, observing her work. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities.",
+            "alt": "Dr. Chen struggling with her experiments while Wind watches",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-f1bba637eb/scene_2_3.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Day Three: The Choice",
+      "pages": [
+        {
+          "text": "On the third day, Wind discovered something remarkable in the old supply closet - a small harmonic resonator, unplugged and forgotten behind a box of spare filters. Its cord had somehow worked loose during routine cleaning.\n\nThe answer was simple, simple, simple,\nAs answers sometimes are.\nJust a tiny machine unplugged,\nLike a wish upon a star.",
+          "illustration": {
+            "description": "A small wind spirit shaped like a swirling grey-white breeze with leaves and twigs spinning inside, two bright mischievous eyes peeking through, discovering a small device behind boxes in a supply closet, with the unplugged cord visible. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities.",
+            "alt": "Wind finding the unplugged harmonic resonator in the supply closet",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-f1bba637eb/scene_3_1.png"
+          }
+        },
+        {
+          "text": "Wind could easily push the plug back into its socket with a focused gust. But he paused, thinking. The crew hadn't noticed the hum was gone - maybe they didn't need it? Maybe some missing things should stay missing?\n\nTo fix or not to fix it,\nThat was the question here.\nSometimes the smallest choices\nAre the ones that matter most, dear.",
+          "illustration": {
+            "description": "A small wind spirit shaped like a swirling grey-white breeze with leaves and twigs spinning inside, two bright mischievous eyes peeking through, hovering thoughtfully near the unplugged device, appearing to contemplate the decision. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities.",
+            "alt": "Wind contemplating whether to fix the device",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-f1bba637eb/scene_3_2.png"
+          }
+        },
+        {
+          "text": "Then Wind remembered Commander Zara tapping her ear, Engineer Kai's worried frown, and Dr. Chen's frustrated sighs. Sometimes the most important things are the ones nobody thinks about - until they're gone.\n\nWith one gentle, swirling push, Wind reconnected the cord. Immediately, the harmonic resonator hummed back to life, sending its soothing frequency through the station's walls.\n\nThe missing hum came back again,\nSo soft and sweet and low.\nSometimes fixing little things\nHelps bigger friendship grow.",
+          "illustration": {
+            "description": "A small wind spirit shaped like a swirling grey-white breeze with leaves and twigs spinning inside, two bright mischievous eyes peeking through, pushing the plug back into the socket, with gentle waves representing the returning hum spreading through the station. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities.",
+            "alt": "Wind plugging in the device as the hum returns to the station",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-f1bba637eb/scene_3_3.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Hum Returns",
+      "pages": [
+        {
+          "text": "Within minutes, the whole station seemed to relax. Commander Zara stopped tapping her ear. Engineer Kai's instruments settled into steady rhythms. Dr. Chen's experiments began making sense again.\n\nNobody knew what Wind had done, and that was perfectly fine with the little spirit. Some of the best inventions, he'd learned, were really just about putting things back where they belonged.\n\nThe station hummed its gentle song,\nFrom floor to ceiling high.\nAnd Wind danced in the harmony,\nBeneath the starry sky.",
+          "illustration": {
+            "description": "The peaceful space station with all three crew members working contentedly at their stations, while a small wind spirit shaped like a swirling grey-white breeze with leaves and twigs spinning inside, two bright mischievous eyes peeking through, dances happily through the corridors with Earth visible through the windows. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities.",
+            "alt": "The harmonious station with crew working peacefully and Wind dancing through the corridors",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-f1bba637eb/scene_4_1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "observation",
+      "problem-solving",
+      "making things work"
+    ],
+    "vocabulary": [
+      "orbital",
+      "resonator",
+      "frequency",
+      "harmonic",
+      "engineer"
+    ],
+    "teachingMoments": [
+      "noticing small but important details",
+      "understanding that invisible things can be important",
+      "making things work by putting them in the right place"
+    ],
+    "coverPrompt": {
+      "description": "A small wind spirit shaped like a swirling grey-white breeze with leaves and twigs spinning inside, two bright mischievous eyes peeking through, floating near a tiny space station with Earth visible in the background. Art style: bright sunny playground, diverse kids playing, primary colors, white space, joyful energetic, inclusive, park swings slides, laughter, friendship activities.",
+      "alt": "Wind the spirit near a space station with Earth below"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What did Wind notice was different about the coffee maker?",
+        "choices": [
+          "It burped three times instead of two",
+          "It was making too much coffee",
+          "It was the wrong color"
+        ],
+        "correctIndex": 0,
+        "explanation": "Wind noticed the coffee maker burped three times instead of two, which was the first sign that something was wrong."
+      },
+      {
+        "id": "q2",
+        "question": "How long had Wind lived on the space station?",
+        "choices": [
+          "Twenty-seven days",
+          "Forty-seven days",
+          "Fifty-seven days"
+        ],
+        "correctIndex": 1,
+        "explanation": "Wind had lived on the station for exactly forty-seven days since being accidentally sucked up by the air recycler."
+      },
+      {
+        "id": "q3",
+        "question": "What was actually missing from the station?",
+        "choices": [
+          "A gentle background hum",
+          "The coffee machine",
+          "Commander Zara's tablet"
+        ],
+        "correctIndex": 0,
+        "explanation": "The missing thing was a gentle background hum from a harmonic resonator that kept the station's systems calm."
+      },
+      {
+        "id": "q4",
+        "question": "Where did Wind find the solution to the problem?",
+        "choices": [
+          "In the kitchen",
+          "In the supply closet",
+          "In Dr. Chen's lab"
+        ],
+        "correctIndex": 1,
+        "explanation": "Wind found the unplugged harmonic resonator in the old supply closet, hidden behind spare filters."
+      },
+      {
+        "id": "q5",
+        "question": "Why did Wind decide to fix the problem?",
+        "choices": [
+          "Because he wanted praise",
+          "Because he saw the crew was troubled",
+          "Because he was bored"
+        ],
+        "correctIndex": 1,
+        "explanation": "Wind remembered how the missing hum was affecting Commander Zara, Engineer Kai, and Dr. Chen, even though they didn't realize what was wrong."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "missing",
+            "distractors": [
+              "broken",
+              "hidden"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "listening",
+            "distractors": [
+              "looking",
+              "floating"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 6,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "hum",
+            "distractors": [
+              "sound",
+              "music"
+            ]
+          },
+          {
+            "wordIndex": 25,
+            "correctWord": "calm",
+            "distractors": [
+              "quiet",
+              "happy"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "wind"
+}
