@@ -34,6 +34,9 @@
             "alt": "Pebble descends in her bubble into the colorful coral reef surrounded by worried fish",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-006c58fb8f/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-adventure-006c58fb8f/ch1_p2.mp3"
           }
         }
       ]
@@ -48,6 +51,9 @@
             "alt": "Various reef fish gather around Pebble's bubble to explain about their missing Guardian",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-006c58fb8f/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-adventure-006c58fb8f/ch2_p1.mp3"
           }
         },
         {
@@ -57,6 +63,9 @@
             "alt": "Pebble listens as the fish share clues about their missing Guardian",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-006c58fb8f/scene_2_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-adventure-006c58fb8f/ch2_p2.mp3"
           }
         }
       ]
@@ -71,6 +80,9 @@
             "alt": "Pebble approaches the dark caves where a golden glow reveals the Guardian's location",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-006c58fb8f/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-adventure-006c58fb8f/ch3_p1.mp3"
           }
         },
         {
@@ -80,6 +92,9 @@
             "alt": "Pebble meets the sad, glowing Guardian in the depths of the coral cave",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-006c58fb8f/scene_3_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-adventure-006c58fb8f/ch3_p2.mp3"
           }
         },
         {
@@ -89,6 +104,9 @@
             "alt": "Musical notes flow from the cave as thousands of fish swim toward the Guardian's happy song",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-006c58fb8f/scene_3_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-adventure-006c58fb8f/ch3_p3.mp3"
           }
         },
         {
@@ -98,6 +116,9 @@
             "alt": "The Guardian swims happily among the thousand small fish as Pebble watches the reef glow with sunset light",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-006c58fb8f/scene_3_4.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-adventure-006c58fb8f/ch3_p4.mp3"
           }
         }
       ]
@@ -234,5 +255,7 @@
       }
     ]
   },
-  "_spec_character_name": "pebble"
+  "_spec_character_name": "pebble",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": false
 }

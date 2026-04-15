@@ -25,6 +25,9 @@
             "alt": "Otto the baby otter watching carnival lights turn on while a man in a striped vest points at him",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-594a4187e6/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-adventure-594a4187e6/ch1_p1.mp3"
           }
         }
       ]
@@ -39,6 +42,9 @@
             "alt": "Otto looking puzzled as the man in the striped vest approaches him with excitement",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-594a4187e6/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-adventure-594a4187e6/ch2_p1.mp3"
           }
         }
       ]
@@ -53,6 +59,9 @@
             "alt": "Otto surrounded by carnival workers while looking at a poster blowing in the wind",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-594a4187e6/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-adventure-594a4187e6/ch3_p1.mp3"
           }
         }
       ]
@@ -67,6 +76,9 @@
             "alt": "Otto looking at a poster of Ozzie the Otter and comparing himself to the picture",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-594a4187e6/scene_4_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-adventure-594a4187e6/ch4_p1.mp3"
           }
         }
       ]
@@ -81,6 +93,9 @@
             "alt": "Otto meeting the real Ozzie the Otter by the practice tank behind the carnival tent",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-594a4187e6/scene_5_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-adventure-594a4187e6/ch5_p1.mp3"
           }
         }
       ]
@@ -215,5 +230,7 @@
       }
     ]
   },
-  "_spec_character_name": "otto"
+  "_spec_character_name": "otto",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }

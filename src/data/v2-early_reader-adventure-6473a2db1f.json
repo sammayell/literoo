@@ -25,6 +25,9 @@
             "alt": "Inside a tilted submarine classroom with Emma and Mrs. Wobble surrounded by flying school supplies",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-6473a2db1f/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-adventure-6473a2db1f/ch1_p1.mp3"
           }
         }
       ]
@@ -39,6 +42,9 @@
             "alt": "The submarine shown in summer stuck in a clamshell and autumn stuck in a tree with squirrels",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-6473a2db1f/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-adventure-6473a2db1f/ch2_p1.mp3"
           }
         }
       ]
@@ -53,6 +59,9 @@
             "alt": "The submarine's final landing in a school sandbox after shooting up from the snow",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-6473a2db1f/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-adventure-6473a2db1f/ch3_p1.mp3"
           }
         }
       ]
@@ -182,5 +191,7 @@
       }
     ]
   },
-  "_spec_character_name": "emma"
+  "_spec_character_name": "emma",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
