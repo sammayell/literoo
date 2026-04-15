@@ -1,0 +1,214 @@
+{
+  "id": "v2-early_reader-fantasy-052c4fd336",
+  "title": "When Thunder Speaks",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "fantasy",
+    "adventure"
+  ],
+  "wordCount": 257,
+  "readingLevel": "Grade 1-2",
+  "synopsis": "A small forest sprite discovers that understanding comes not from magical screens, but from listening carefully to the natural world around him, as he learns to communicate with thunder itself during a summer storm at the seashore.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-052c4fd336/cover.png",
+  "chapters": [
+    {
+      "title": "First Rumbles",
+      "pages": [
+        {
+          "text": "The wind changed direction three times before lunch. Sprout felt it shift against his mossy skin as he walked the pebble beach. His glowing crystal screen showed pictures of other places, but the real storm was coming here. Thunder spoke in the distance, but Sprout could not understand its words. Listen close, listen well, what does the thunder tell?",
+          "illustration": {
+            "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders walks along a pebble beach holding a glowing crystal tablet. Dark clouds gather on the horizon over gray-blue waves. The art style is enchanted forest with glowing mushrooms between the beach stones, fairy lights in the air, mystical creatures in the background, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere with detailed foliage.",
+            "alt": "Sprout walking on a pebble beach with a glowing screen while storm clouds approach",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-052c4fd336/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fantasy-052c4fd336/ch1_p1.mp3"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Second Visit",
+      "pages": [
+        {
+          "text": "Sprout returned to the same stretch of beach. This time he noticed how the pebbles hummed when waves pulled back. His screen still glowed with distant scenes. The thunder spoke again—closer now, louder. Still, Sprout could not understand. He sat on a smooth rock, ivy rustling around his shoulders. Listen close, listen well, what does the thunder tell?",
+          "illustration": {
+            "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders sits on a large smooth rock, still holding his glowing tablet. The storm is closer now with lightning visible in dark purple clouds. Waves crash more forcefully on the pebbles. The scene has enchanted forest style with glowing mushrooms, fairy lights swirling in storm winds, mystical creatures hiding among rocks, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage.",
+            "alt": "Sprout sitting on a rock with his screen as the storm draws nearer",
+            "layout": "full-page"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fantasy-052c4fd336/ch2_p1.mp3"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Third Time",
+      "pages": [
+        {
+          "text": "Again Sprout walked to the beach. Now he saw how raindrops made circles on the water. His crystal screen reflected the lightning, but the real light was brighter. Thunder rolled across the waves like a great voice calling. Sprout set down his glowing screen and listened with his whole self. The thunder spoke in rhythms, in pauses, in echoes. Listen close, listen well—now Sprout could tell!",
+          "illustration": {
+            "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders stands on the beach with his glowing tablet set down on a rock beside him. Rain begins to fall, creating ripples in the tide pools. Lightning illuminates the scene dramatically. The art style is enchanted forest with glowing mushrooms getting wet from rain, fairy lights dancing wildly, mystical creatures taking shelter, rich greens and purples, golden sparkles mixing with raindrops, Studio Ghibli inspired, magical atmosphere, detailed foliage.",
+            "alt": "Sprout setting down his screen and listening to the storm with full attention",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-052c4fd336/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fantasy-052c4fd336/ch3_p1.mp3"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Understanding",
+      "pages": [
+        {
+          "text": "The fourth time, Sprout left his screen at home. He noticed everything: the salt smell, the cool mist, the way his twig arms felt the storm's power. Thunder spoke in the old language—the language of seasons, of growing things, of rain and root and stone. Sprout understood. Thunder was saying hello. Thunder was saying welcome home. Listen close, listen well—now both could tell their stories to each other, in the language they both knew.",
+          "illustration": {
+            "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders stands with arms outstretched on the pebble beach during the full storm, with no screen in sight. Lightning illuminates the scene as rain falls heavily. The sprite appears to be communicating with the storm itself. The art style is enchanted forest with glowing mushrooms thriving in the rain, fairy lights swirling dramatically with the wind, mystical creatures emerging to greet the storm, rich greens and purples intensified by the storm light, golden sparkles throughout the rain, Studio Ghibli inspired, magical atmosphere, detailed foliage glistening with raindrops.",
+            "alt": "Sprout communing with the storm, arms outstretched, having left his screen behind",
+            "layout": "full-page"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fantasy-052c4fd336/ch4_p1.mp3"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "communication",
+      "nature connection",
+      "digital wellness",
+      "listening"
+    ],
+    "vocabulary": [
+      "ancient",
+      "rhythms",
+      "echoes",
+      "communication",
+      "understanding"
+    ],
+    "illustrations": 4,
+    "difficulty": "beginner",
+    "coverPrompt": {
+      "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders stands on a pebble beach as dark storm clouds gather overhead. Lightning flashes in the distance over churning waves. The scene has an enchanted forest style with glowing mushrooms scattered among the beach stones, fairy lights dancing in the storm winds, mystical atmosphere with rich greens and purples, and golden sparkles in the air, Studio Ghibli inspired with detailed foliage and magical elements.",
+      "alt": "A forest sprite on a stormy beach with magical elements surrounding him"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Where does Sprout go to listen to the thunder?",
+        "choices": [
+          "a pebble beach",
+          "a tall mountain",
+          "a deep forest"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sprout visits a pebble beach where he learns to understand the thunder's language."
+      },
+      {
+        "id": "q2",
+        "question": "What does Sprout notice on his second visit to the beach?",
+        "choices": [
+          "the pebbles hum",
+          "the sand is warm",
+          "the fish are jumping"
+        ],
+        "correctIndex": 0,
+        "explanation": "On his second visit, Sprout notices how the pebbles hum when the waves pull back."
+      },
+      {
+        "id": "q3",
+        "question": "What does Sprout do on his third visit that helps him understand?",
+        "choices": [
+          "he runs away",
+          "he sets down his screen",
+          "he builds a fort"
+        ],
+        "correctIndex": 1,
+        "explanation": "Sprout sets down his glowing screen and listens with his whole self, which helps him understand."
+      },
+      {
+        "id": "q4",
+        "question": "What language does the thunder speak?",
+        "choices": [
+          "the old language of nature",
+          "the new language of machines",
+          "no language at all"
+        ],
+        "correctIndex": 0,
+        "explanation": "Thunder speaks in the old language—the language of seasons, growing things, rain and root and stone."
+      },
+      {
+        "id": "q5",
+        "question": "What happens when Sprout finally understands the thunder?",
+        "choices": [
+          "the storm goes away",
+          "they can tell stories to each other",
+          "he gets very scared"
+        ],
+        "correctIndex": 1,
+        "explanation": "When Sprout understands, he and the thunder can tell their stories to each other in the language they both know."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "pebble",
+            "distractors": [
+              "sandy",
+              "rocky"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "thunder",
+            "distractors": [
+              "lightning",
+              "wind"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "screen",
+            "distractors": [
+              "rock",
+              "shell"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "listened",
+            "distractors": [
+              "looked",
+              "ran"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "sprout",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
+}
