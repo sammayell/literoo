@@ -25,6 +25,9 @@
             "alt": "Quokka investigating mysterious sounds in grandmother's cinnamon-scented kitchen",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-776d74e037/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-776d74e037/ch1_p1.mp3"
           }
         },
         {
@@ -34,6 +37,9 @@
             "alt": "Quokka meeting a mysterious silvery creature among the cookbooks",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-776d74e037/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-776d74e037/ch1_p2.mp3"
           }
         }
       ]
@@ -48,6 +54,9 @@
             "alt": "Quokka and the star-creature in the sunlit living room",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-776d74e037/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-776d74e037/ch2_p1.mp3"
           }
         },
         {
@@ -56,6 +65,9 @@
             "description": "A round smiling quokka with soft sandy-brown fur, small round ears, pink paws, and a permanent cheerful grin holds a magnifying glass creating rainbow light patterns while the silvery creature makes sparkly symbols appear on the wall",
             "alt": "Quokka creating rainbows with magnifying glass while creature makes light symbols",
             "layout": "full-page"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-776d74e037/ch2_p2.mp3"
           }
         }
       ]
@@ -70,6 +82,9 @@
             "alt": "Quokka and glowing star-creature examining star maps in grandmother's study",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-776d74e037/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-776d74e037/ch3_p1.mp3"
           }
         },
         {
@@ -79,6 +94,9 @@
             "alt": "Quokka and star-creature communicating through drawings and light pictures",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-776d74e037/scene_3_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-776d74e037/ch3_p2.mp3"
           }
         }
       ]
@@ -92,6 +110,9 @@
             "description": "A round smiling quokka with soft sandy-brown fur, small round ears, pink paws, and a permanent cheerful grin sits beside the silvery creature in a fragrant herb garden with a telescope pointing skyward as twilight stars begin to appear",
             "alt": "Quokka and star-creature in the twilight garden with telescope",
             "layout": "full-page"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-776d74e037/ch4_p1.mp3"
           }
         },
         {
@@ -101,6 +122,9 @@
             "alt": "Quokka waving goodbye to star-creature ascending to the night sky",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-776d74e037/scene_4_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-776d74e037/ch4_p2.mp3"
           }
         }
       ]
@@ -252,5 +276,7 @@
       }
     ]
   },
-  "_spec_character_name": "quokka"
+  "_spec_character_name": "quokka",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }

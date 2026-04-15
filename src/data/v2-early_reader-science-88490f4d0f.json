@@ -25,6 +25,9 @@
             "alt": "Mango discovering rainbow reflections on the abandoned carousel",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-88490f4d0f/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-88490f4d0f/ch1_p1.mp3"
           }
         },
         {
@@ -34,6 +37,9 @@
             "alt": "Mango collecting mirror fragments and observing light spectrums",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-88490f4d0f/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-88490f4d0f/ch1_p2.mp3"
           }
         },
         {
@@ -43,6 +49,9 @@
             "alt": "Mango waiting on the carousel as evening falls, surrounded by his collection of mirrors",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-88490f4d0f/scene_1_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-88490f4d0f/ch1_p3.mp3"
           }
         }
       ]
@@ -57,6 +66,9 @@
             "alt": "Mango observing dewdrop prisms while vines block the sunlight above",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-88490f4d0f/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-88490f4d0f/ch2_p1.mp3"
           }
         },
         {
@@ -66,6 +78,9 @@
             "alt": "Mango studying the vine canopy that's blocking the sunlight",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-88490f4d0f/scene_2_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-88490f4d0f/ch2_p2.mp3"
           }
         },
         {
@@ -75,6 +90,9 @@
             "alt": "Mango experimenting with different mirror arrangements, looking frustrated",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-88490f4d0f/scene_2_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-88490f4d0f/ch2_p3.mp3"
           }
         }
       ]
@@ -89,6 +107,9 @@
             "alt": "Mango climbing through the vine canopy, collecting spider web strands",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-88490f4d0f/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-88490f4d0f/ch3_p1.mp3"
           }
         },
         {
@@ -98,6 +119,9 @@
             "alt": "Mango building his web and mirror light-focusing device on the carousel",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-88490f4d0f/scene_3_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-88490f4d0f/ch3_p2.mp3"
           }
         },
         {
@@ -107,6 +131,9 @@
             "alt": "Mango's light-catcher creating spectacular rainbow displays across the field",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-88490f4d0f/scene_3_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-88490f4d0f/ch3_p3.mp3"
           }
         },
         {
@@ -116,6 +143,9 @@
             "alt": "Mango reunited with his school group, showing off his amazing light-catcher creation",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-88490f4d0f/scene_3_4.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-88490f4d0f/ch3_p4.mp3"
           }
         }
       ]
@@ -270,5 +300,7 @@
       }
     ]
   },
-  "_spec_character_name": "mango"
+  "_spec_character_name": "mango",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
