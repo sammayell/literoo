@@ -1,0 +1,251 @@
+{
+  "id": "v2-early_reader-family-24fb1a631e",
+  "title": "Seeds Above the Clouds",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "family",
+    "science"
+  ],
+  "wordCount": 809,
+  "readingLevel": "Grade 1-2",
+  "synopsis": "Sorrel the young fawn discovers a secret rooftop garden and must navigate a series of perfectly timed mishaps throughout one day, learning about plants and finding her place in an urban ecosystem.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-24fb1a631e/cover.png",
+  "chapters": [
+    {
+      "title": "8 AM: The Wrong Door",
+      "pages": [
+        {
+          "text": "The fire escape ladder creaks under my hooves. I am looking for Mama's office building, but I have climbed the wrong building entirely. This is a serious navigation error.\n\nThe metal door at the top is painted green. It should be gray. I push it anyway because I am already here.\n\nInstead of an office hallway, I find myself in a jungle. Tomato vines hang like chandeliers. Sunflowers tower over me like yellow umbrellas. A sprinkler system hisses to life, soaking my spotted coat.\n\nI am now officially lost and wet.",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes stands surprised in a lush rooftop garden with tomato vines and sunflowers, water droplets from sprinklers catching morning light, warm yellows and oranges, cozy garden atmosphere",
+            "alt": "Sorrel discovers the secret rooftop garden",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-24fb1a631e/scene_1_1.png"
+          }
+        },
+        {
+          "text": "An elderly badger in rubber boots emerges from behind a cucumber trellis. She carries a watering can and wears the most serious expression I have ever seen.\n\n\"You are not scheduled for morning rounds,\" she says, consulting a clipboard.\n\nI explain about the wrong building and the fire escape and my navigation error.\n\n\"I see,\" says the badger. \"Well, you are here now. The plants do not care about scheduling mistakes. They only care about proper care.\"\n\nShe hands me a small watering can. \"The seedlings need attention. They are very particular about timing.\"",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes receives a small watering can from an elderly badger in rubber boots among garden plants, warm morning light, cozy family gathering feeling with plants as the family",
+            "alt": "The badger gives Sorrel a watering can",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-24fb1a631e/scene_1_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "12 PM: The Lunch Disaster",
+      "pages": [
+        {
+          "text": "By noon, I understand the garden's schedule perfectly. The tomatoes drink at 9 AM. The herbs prefer 10:30 AM. The flowers demand precisely 11:15 AM.\n\nI am carrying lunch to the badger - a thermos of soup and a sandwich wrapped in brown paper. This is when the rooftop door bursts open.\n\nThree raccoons in hard hats march through carrying clipboards and measuring tapes. They wear badges that say \"CITY DEVELOPMENT INSPECTION TEAM.\"\n\nI freeze like a statue holding the lunch tray. The raccoons do not notice me, but they notice everything else.",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes holds a lunch tray while three raccoons in hard hats examine the garden with measuring equipment, midday sun creating warm yellows and oranges, homemade lunch on dining table atmosphere",
+            "alt": "Sorrel holds lunch while inspectors examine the garden",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-24fb1a631e/scene_2_1.png"
+          }
+        },
+        {
+          "text": "\"Unauthorized vegetation,\" announces the first raccoon, writing on his clipboard.\n\n\"Unapproved irrigation system,\" notes the second raccoon.\n\n\"Unlawful beautification of municipal property,\" declares the third raccoon.\n\nThe badger appears from behind the bean poles. \"Gentlemen,\" she says calmly, \"you are interrupting lunch hour. The plants have very specific nutritional timing requirements.\"\n\nThe raccoons look confused. They write \"TALKING BADGER\" on their clipboards and leave quickly.\n\nI realize I am still holding the soup, which is now cold.",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes watches as the badger speaks with raccoon inspectors near bean poles, kitchen-like atmosphere with warm light, family dinner table feeling",
+            "alt": "The badger calmly addresses the confused inspectors",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-24fb1a631e/scene_2_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "4 PM: The Seed Catastrophe",
+      "pages": [
+        {
+          "text": "Afternoon is seed-planting time. The badger has explained this seventeen times. Each seed must be planted at exactly the right depth in exactly the right spot at exactly the right moment.\n\nI am carrying a tray of tomato seedlings to their new homes in the south corner. I step carefully between the rows. I am being extremely professional.\n\nThis is when a helicopter appears overhead. It hovers directly above the garden, creating a windstorm of epic proportions.",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes carefully carries a tray of seedlings as a helicopter creates wind above, plants swaying dramatically, warm afternoon oranges and yellows, homemade garden feeling like preparing family meal",
+            "alt": "Sorrel carries seedlings as helicopter wind whips the garden",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-24fb1a631e/scene_3_1.png"
+          }
+        },
+        {
+          "text": "Seedlings fly through the air like tiny green confetti. Soil swirls in mini tornadoes. My carefully arranged tray becomes airborne.\n\nThe helicopter pilot, a confused-looking owl, shouts through a megaphone: \"ATTENTION UNAUTHORIZED GARDEN! THIS IS A ROUTINE INSPECTION!\"\n\nSeeds scatter across every surface - the walkways, the water barrels, the roof edges. Some seeds land in my fur. Some seeds disappear entirely.\n\nWhen the helicopter finally leaves, the garden looks like it has been stirred by a giant spoon.\n\nThe badger surveys the chaos. \"Well,\" she says seriously, \"this is an unusual planting pattern. But seeds are resourceful. They will figure it out.\"",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes stands amid scattered seedlings and soil with the badger, seeds caught in the fawn's fur, afternoon light creating warm yellows, kitchen after cooking disaster but with family love",
+            "alt": "The garden after the helicopter windstorm",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-24fb1a631e/scene_3_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "8 PM: The Perfect Timing",
+      "pages": [
+        {
+          "text": "Evening watering time arrives as the sun sets behind the city buildings. The badger has gone home, trusting me with the most important task of the day.\n\nI am filling the watering can at the rain barrel when I hear voices on the fire escape. Three young opossums climb through the green door, looking lost and confused.\n\n\"Wrong building,\" says the first opossum.\n\n\"We were looking for the playground,\" says the second opossum.\n\n\"This is definitely not a playground,\" says the third opossum.\n\nI explain about navigation errors and wrong doors and how sometimes mistakes lead to important discoveries.",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes fills a watering can as three young opossums discover the garden at sunset, warm golden light like family gathering around dinner table, cozy evening atmosphere",
+            "alt": "Sorrel meets the young opossums at sunset",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-24fb1a631e/scene_4_1.png"
+          }
+        },
+        {
+          "text": "I show them the scattered seeds that have already begun to sprout in unexpected places. Tiny green shoots poke up from cracks in the walkway. Baby plants emerge from the water barrel edges.\n\n\"The helicopter created a better planting system than we ever planned,\" I tell them seriously. \"Seeds know where they need to grow.\"\n\nThe opossums help me water the new sprouts. We work in perfect timing - one waters, one holds the hose, one checks for missed spots.\n\nAs the city lights twinkle below us, I realize I never did find Mama's office building. But I found something much more important: a place where wrong timing becomes exactly right timing.",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes waters plants alongside three opossums as city lights twinkle below, warm golden evening light creating cozy family atmosphere like sharing homemade meal together, new green sprouts visible everywhere",
+            "alt": "The animals tend the garden together as evening falls",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-24fb1a631e/scene_4_2.png"
+          }
+        },
+        {
+          "text": "Tomorrow I will help the badger document our accidental seed distribution experiment. We will create a new schedule that includes helicopter contingencies and navigation error protocols.\n\nBut tonight, I listen to the plants growing in the darkness above the city. Seeds do not worry about perfect timing. They simply grow when they are ready.\n\nI think I am learning to do the same.",
+          "illustration": {
+            "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes sits peacefully among the growing plants under starry sky, city lights below, warm gentle light like kitchen after family dinner, plants growing everywhere in the moonlight",
+            "alt": "Sorrel sits contentedly in the moonlit garden",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-24fb1a631e/scene_4_3.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "environmental stewardship",
+      "urban gardening",
+      "finding purpose in mistakes",
+      "timing and patience"
+    ],
+    "vocabulary": [
+      "navigation",
+      "irrigation",
+      "seedlings",
+      "municipal",
+      "resourceful"
+    ],
+    "lessonTopics": [
+      "plant growth cycles",
+      "urban ecosystems",
+      "seed dispersal",
+      "gardening basics"
+    ],
+    "coverPrompt": {
+      "description": "A young fawn with soft dappled brown fur, white spots on her back, long eyelashes, and gentle dark eyes stands among rooftop garden plants with the city skyline in the background, warm yellows and oranges in the sky, cozy homey atmosphere",
+      "alt": "Sorrel the fawn in a rooftop garden above the city"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Why does Sorrel end up in the garden?",
+        "choices": [
+          "She was looking for her mama's office",
+          "She wanted to find plants",
+          "She was following the badger"
+        ],
+        "correctIndex": 0,
+        "explanation": "Sorrel climbed the wrong building while looking for her mama's office."
+      },
+      {
+        "id": "q2",
+        "question": "What do the raccoons want to do with the garden?",
+        "choices": [
+          "Help water the plants",
+          "Inspect it for the city",
+          "Plant more flowers"
+        ],
+        "correctIndex": 1,
+        "explanation": "The raccoons are city development inspectors checking for unauthorized activities."
+      },
+      {
+        "id": "q3",
+        "question": "What causes the seeds to scatter everywhere?",
+        "choices": [
+          "Wind from a helicopter",
+          "Sorrel drops them",
+          "The badger throws them"
+        ],
+        "correctIndex": 0,
+        "explanation": "The helicopter creates strong winds that blow the seeds all over the garden."
+      },
+      {
+        "id": "q4",
+        "question": "Who helps Sorrel water the plants at the end?",
+        "choices": [
+          "The badger",
+          "Three young opossums",
+          "The raccoons"
+        ],
+        "correctIndex": 1,
+        "explanation": "Three young opossums who also got lost help Sorrel with evening watering."
+      },
+      {
+        "id": "q5",
+        "question": "What does Sorrel learn about the scattered seeds?",
+        "choices": [
+          "They are ruined and won't grow",
+          "They grow in unexpected places",
+          "They need to be replanted"
+        ],
+        "correctIndex": 1,
+        "explanation": "The scattered seeds begin sprouting in new places, showing they can grow anywhere."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "jungle",
+            "distractors": [
+              "desert",
+              "ocean"
+            ]
+          },
+          {
+            "wordIndex": 25,
+            "correctWord": "sprinkler",
+            "distractors": [
+              "fountain",
+              "bucket"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 5,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "helicopter",
+            "distractors": [
+              "airplane",
+              "balloon"
+            ]
+          },
+          {
+            "wordIndex": 18,
+            "correctWord": "scattered",
+            "distractors": [
+              "planted",
+              "watered"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "sorrel"
+}
