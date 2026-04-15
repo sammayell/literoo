@@ -1,0 +1,286 @@
+{
+  "id": "v2-early_reader-humor-9b7bee8b9e",
+  "title": "When the Leaves Fall Silent",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "humor",
+    "family"
+  ],
+  "wordCount": 626,
+  "readingLevel": "Grade 1-2",
+  "synopsis": "A tiny owl navigates the seasons of a magical forest where footsteps make no sound, repeatedly arriving at important moments at exactly the wrong time, leading to unexpectedly wonderful friendships.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-9b7bee8b9e/cover.png",
+  "chapters": [
+    {
+      "title": "Spring Awakening",
+      "pages": [
+        {
+          "text": "The moss swallowed every footfall in the ancient forest, making even the heaviest creatures move like ghosts. Hoot landed on a branch with his usual silent thud and immediately noticed the commotion below. A circle of forest animals had gathered around something very important-looking.",
+          "illustration": {
+            "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers perches on a moss-covered branch, looking down at a gathering of various forest animals in a circle below. The forest floor is thick with silent moss. Exaggerated cartoon style with candy bright colors, bouncy dynamic poses, and slapstick energy.",
+            "alt": "Hoot watches a gathering of forest animals from above",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-9b7bee8b9e/scene_1_1.png"
+          }
+        },
+        {
+          "text": "Being a naturally curious owl, Hoot swooped down to investigate. He landed squarely in the middle of what appeared to be a very serious spring welcome ceremony for new baby animals. Every creature froze and stared at him with the kind of silence that suggested he had interrupted something monumentally important.",
+          "illustration": {
+            "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers stands in the center of a circle of forest animals including rabbits, squirrels, and deer, all staring at him with shocked expressions. Spring flowers bloom around them on the moss floor. Exaggerated cartoon style with candy bright colors, comedic poses showing the awkward moment.",
+            "alt": "Hoot accidentally interrupts the spring ceremony",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-9b7bee8b9e/scene_1_2.png"
+          }
+        },
+        {
+          "text": "A wise old rabbit cleared her throat. 'We were just about to introduce the new babies to the forest,' she said with the patience of someone explaining obvious things to someone very dense. Hoot blinked his enormous golden eyes and realized he had crashed the most important social event of the season.",
+          "illustration": {
+            "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers looks sheepish while a dignified old rabbit gestures toward several small forest babies (bunnies, fawns, and squirrel kits) who peek out from behind their parents. Exaggerated cartoon style with oversized expressions of embarrassment and authority.",
+            "alt": "The wise rabbit explains the ceremony to embarrassed Hoot",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-9b7bee8b9e/scene_1_3.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Summer Solstice",
+      "pages": [
+        {
+          "text": "By summer, Hoot had learned to approach forest gatherings with extreme caution. He spotted the midsummer dance from high above, where all the animals moved in careful patterns around the oldest oak tree. This time, he decided, he would watch respectfully from a distance.",
+          "illustration": {
+            "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers perches high in a tree, watching forest animals dance in intricate patterns around a massive oak tree below. Summer leaves create dappled light on the moss floor. Exaggerated cartoon style with bouncy dynamic movement in the dancers.",
+            "alt": "Hoot watches the summer dance from above",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-9b7bee8b9e/scene_2_1.png"
+          }
+        },
+        {
+          "text": "Unfortunately, the branch he chose for optimal viewing was also the exact branch that the ceremonial flower garland was supposed to be hung from. At the precise moment of the solstice celebration, Hoot's branch broke with a tremendous crack that echoed through the silent forest.",
+          "illustration": {
+            "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers tumbles through the air as a tree branch snaps beneath him, flower garlands flying everywhere. Dancing forest animals below scatter in surprise. Exaggerated cartoon style with slapstick energy and rubber hose animation feel showing the chaotic moment.",
+            "alt": "Hoot falls as the ceremonial branch breaks during the solstice",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-9b7bee8b9e/scene_2_2.png"
+          }
+        },
+        {
+          "text": "He landed in a pile of soft moss, completely tangled in flower garlands, looking like a very small and confused festival decoration. The dancing animals stopped mid-step and stared down at him with the same patient expression the rabbit had used in spring.",
+          "illustration": {
+            "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers sits in a pile of moss, completely wrapped in colorful flower garlands with petals scattered around him. Forest animals in dance poses look down at him with amused patience. Exaggerated cartoon style with comedic poses and candy bright colors.",
+            "alt": "Hoot tangled in flower garlands while animals watch",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-9b7bee8b9e/scene_2_3.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Autumn Assembly",
+      "pages": [
+        {
+          "text": "Autumn brought the Harvest Council, where animals made important decisions about winter preparations. Hoot had spent weeks planning his approach. He would arrive early, sit quietly in the back, and absolutely not disrupt anything significant.",
+          "illustration": {
+            "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers sits very formally on a moss-covered log at the edge of a clearing where forest animals are arranging acorns and berries in organized piles. Autumn leaves fall silently around them. Exaggerated cartoon style showing Hoot's determined attempt to behave properly.",
+            "alt": "Hoot tries to sit quietly at the Harvest Council",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "What Hoot didn't know was that he had chosen to sit on the log that contained the winter's entire emergency acorn supply. The moment he settled his small owl weight onto it, the hollow log split open like a piñata, sending hundreds of carefully sorted acorns rolling across the moss in every direction.",
+          "illustration": {
+            "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers sits shocked on a split log while hundreds of acorns roll everywhere across the moss floor. Forest animals chase after rolling acorns in all directions with expressions of urgent dismay. Exaggerated cartoon style with bouncy dynamic chaos and oversized expressions of surprise.",
+            "alt": "Acorns scatter everywhere as Hoot breaks the storage log",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-9b7bee8b9e/scene_3_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Winter Wisdom",
+      "pages": [
+        {
+          "text": "By winter, Hoot had given up trying to attend forest ceremonies altogether. He spent the snowy months practicing flying in remote clearings where he couldn't possibly interrupt anything important. The other animals, he assumed, were much better off without his help.",
+          "illustration": {
+            "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers practices flying alone in a snow-covered clearing, looking somewhat lonely. Snow falls silently on the thick moss below. Exaggerated cartoon style with soft winter colors and a melancholy but determined expression on the little owl.",
+            "alt": "Hoot practices flying alone in the winter clearing",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-9b7bee8b9e/scene_4_1.png"
+          }
+        },
+        {
+          "text": "On the longest night of winter, Hoot heard unfamiliar sounds coming from the main gathering place. Against his better judgment, he flew closer to investigate. What he found was not a ceremony, but a group of lost and confused animals who had gotten separated from their families in the snowstorm.",
+          "illustration": {
+            "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers hovers in the air, looking down at a small group of various young forest animals huddled together looking lost and worried in the snowy forest. Exaggerated cartoon style with concerned expressions and swirling snow.",
+            "alt": "Hoot discovers lost animals in the snowstorm",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-9b7bee8b9e/scene_4_2.png"
+          }
+        },
+        {
+          "text": "For once, Hoot's perfect timing for arriving at the wrong moment was exactly right. His enormous golden eyes could see clearly in the darkness, and his silent flight made him the ideal guide. He led each lost animal safely back to their families, arriving at each den at precisely the moment they were needed most.",
+          "illustration": {
+            "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers flies through the snowy night, leading a line of various forest animals through the trees toward warm, glowing den entrances. His eyes shine bright in the darkness. Exaggerated cartoon style with warm golden light contrasting the cool snow, showing heroic determination.",
+            "alt": "Hoot guides the lost animals home through the snow",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-9b7bee8b9e/scene_4_3.png"
+          }
+        },
+        {
+          "text": "The next morning, the wise old rabbit found Hoot sleeping peacefully on his favorite moss-covered branch. 'We've been thinking,' she said seriously, 'that someone with your particular talent for showing up at important moments might make an excellent forest guide.' Hoot opened one golden eye and considered this. It seemed like a job he was already perfectly qualified for.",
+          "illustration": {
+            "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers sleeps contentedly on a moss-covered branch while the wise old rabbit stands below, looking up at him with approval. Other forest animals gather around, all looking grateful and friendly. Morning sun filters through the trees. Exaggerated cartoon style with warm, welcoming expressions and soft morning light.",
+            "alt": "The rabbit offers Hoot the job of forest guide",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-9b7bee8b9e/scene_4_4.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Perfect Timing",
+      "pages": [
+        {
+          "text": "From that day forward, Hoot became the official Forest Emergency Guide, specializing in arriving at exactly the right wrong moment. His unusual schedule and tendency to appear when least expected turned out to be exactly what the forest needed. And the moss still swallowed every footstep, making even the most dramatic rescues perfectly silent.",
+          "illustration": {
+            "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers wears a small official-looking badge and stands proudly on a moss-covered stump, surrounded by all the forest animals from throughout the seasons. They all look at him with respect and friendship. The deep moss-floored forest stretches behind them. Exaggerated cartoon style with candy bright colors, bouncy dynamic poses showing celebration and acceptance.",
+            "alt": "Hoot stands proudly as the new Forest Guide with all his friends",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-9b7bee8b9e/scene_5_1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship across differences",
+      "finding your place",
+      "turning mistakes into strengths"
+    ],
+    "illustrations": 12,
+    "vocabulary": [
+      "commotion",
+      "ceremony",
+      "solstice",
+      "garland",
+      "assembly",
+      "emergency"
+    ],
+    "coverPrompt": {
+      "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers stands on a moss-covered tree branch in a deep forest where thick moss carpets the ground. Exaggerated cartoon style with candy bright colors, bouncy dynamic feel, and comedic energy.",
+      "alt": "Hoot the baby owl in a silent moss-covered forest"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What makes the forest floor special?",
+        "choices": [
+          "The moss swallows all footsteps",
+          "It's covered in flowers",
+          "It's made of snow"
+        ],
+        "correctIndex": 0,
+        "explanation": "The moss-covered forest floor makes all footsteps silent, which is mentioned throughout the story."
+      },
+      {
+        "id": "q2",
+        "question": "What happened when Hoot landed in the spring ceremony?",
+        "choices": [
+          "He started dancing",
+          "He interrupted the welcome for new babies",
+          "He brought flowers"
+        ],
+        "correctIndex": 1,
+        "explanation": "Hoot landed right in the middle of the spring ceremony for welcoming new baby animals to the forest."
+      },
+      {
+        "id": "q3",
+        "question": "What broke during the summer celebration?",
+        "choices": [
+          "A flower pot",
+          "The branch Hoot was sitting on",
+          "A dancing circle"
+        ],
+        "correctIndex": 1,
+        "explanation": "The ceremonial branch that Hoot chose for watching broke at exactly the wrong moment during the solstice."
+      },
+      {
+        "id": "q4",
+        "question": "What spilled everywhere in autumn?",
+        "choices": [
+          "Water from a stream",
+          "Hundreds of acorns",
+          "Autumn leaves"
+        ],
+        "correctIndex": 1,
+        "explanation": "When Hoot sat on the hollow log, it split open and scattered the winter's entire emergency acorn supply."
+      },
+      {
+        "id": "q5",
+        "question": "How did Hoot finally help in winter?",
+        "choices": [
+          "He guided lost animals home",
+          "He built snow shelters",
+          "He gathered more acorns"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hoot used his excellent night vision to guide lost animals back to their families during the snowstorm."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 2,
+            "correctWord": "swallowed",
+            "distractors": [
+              "caught",
+              "held"
+            ]
+          },
+          {
+            "wordIndex": 15,
+            "correctWord": "golden",
+            "distractors": [
+              "bright",
+              "large"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 8,
+        "blanks": [
+          {
+            "wordIndex": 7,
+            "correctWord": "acorns",
+            "distractors": [
+              "leaves",
+              "stones"
+            ]
+          },
+          {
+            "wordIndex": 12,
+            "correctWord": "rolling",
+            "distractors": [
+              "falling",
+              "flying"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "hoot"
+}
