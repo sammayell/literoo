@@ -24,6 +24,9 @@
             "alt": "Nova examines footprints in black sand with research tools scattered around",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-8f21d8edad/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-mystery-8f21d8edad/ch1_p1.mp3"
           }
         }
       ]
@@ -37,6 +40,9 @@
             "description": "Nova, a small alien with translucent pale-blue skin showing faint inner light, four nimble fingers per hand, a bald domed head, and huge reflective black eyes, listens at a steam vent among jagged black volcanic rocks. The busy composition shows broken communication equipment, different types of footprints preserved in ash, strange scratch marks on stones, and various scientific instruments scattered throughout the volcanic landscape.",
             "alt": "Nova listens to mysterious sounds coming from volcanic steam vents",
             "layout": "full-page"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-mystery-8f21d8edad/ch2_p1.mp3"
           }
         }
       ]
@@ -51,6 +57,9 @@
             "alt": "Nova follows carved arrow symbols through the volcanic landscape",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-8f21d8edad/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-mystery-8f21d8edad/ch3_p1.mp3"
           }
         }
       ]
@@ -64,6 +73,9 @@
             "description": "Nova, a small alien with translucent pale-blue skin showing faint inner light, four nimble fingers per hand, a bald domed head, and huge reflective black eyes, overlooks a circular amphitheater carved in black volcanic rock where three other aliens work with scientific equipment. The complex composition shows multiple research stations, glowing crystal formations, various specimens and tools, measurement devices, and sample containers scattered throughout the detailed volcanic environment.",
             "alt": "Nova discovers her team working in a hidden volcanic amphitheater",
             "layout": "full-page"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-mystery-8f21d8edad/ch4_p1.mp3"
           }
         }
       ]
@@ -78,6 +90,9 @@
             "alt": "Nova and her team pack their research equipment together on the volcanic rim",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-8f21d8edad/scene_5_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-mystery-8f21d8edad/ch5_p1.mp3"
           }
         }
       ]
@@ -210,5 +225,7 @@
       }
     ]
   },
-  "_spec_character_name": "nova"
+  "_spec_character_name": "nova",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }

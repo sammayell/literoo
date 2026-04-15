@@ -24,6 +24,9 @@
             "alt": "Spring scene with baby penguin walking past a window where a conch shell observes the slow village",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-a1f8a75636/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-mystery-a1f8a75636/ch1_p1.mp3"
           }
         },
         {
@@ -33,6 +36,9 @@
             "alt": "Baby penguin crashed through pet door into mayor's secret meeting about crystals",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-a1f8a75636/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-mystery-a1f8a75636/ch1_p2.mp3"
           }
         }
       ]
@@ -47,6 +53,9 @@
             "alt": "Summer scene with baby penguin stuck in tree being rescued by slow-moving villagers",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-a1f8a75636/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-mystery-a1f8a75636/ch2_p1.mp3"
           }
         }
       ]
@@ -61,6 +70,9 @@
             "alt": "Baby penguin in autumn hollow with magical crystals bouncing everywhere after a tumbling accident",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-a1f8a75636/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-mystery-a1f8a75636/ch3_p1.mp3"
           }
         }
       ]
@@ -75,6 +87,9 @@
             "alt": "Winter festival with baby penguin joining villagers in a slow, magical parade toward the crystal-lit community center",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-a1f8a75636/scene_4_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-mystery-a1f8a75636/ch4_p1.mp3"
           }
         },
         {
@@ -84,6 +99,9 @@
             "alt": "Peaceful winter evening with baby penguin and conch shell overlooking the harmonious village",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-a1f8a75636/scene_4_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-mystery-a1f8a75636/ch4_p2.mp3"
           }
         }
       ]
@@ -98,6 +116,9 @@
             "alt": "Baby penguin discovering the magical conch shell's secret diary and years of collected village stories",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-mystery-a1f8a75636/scene_5_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-mystery-a1f8a75636/ch5_p1.mp3"
           }
         }
       ]
@@ -232,5 +253,7 @@
       }
     ]
   },
-  "_spec_character_name": "waddles"
+  "_spec_character_name": "waddles",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
