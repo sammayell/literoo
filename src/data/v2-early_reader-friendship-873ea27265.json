@@ -25,6 +25,9 @@
             "alt": "Pip listening to mysterious sounds under the garden shed",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-873ea27265/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-friendship-873ea27265/ch1_p1.mp3"
           }
         },
         {
@@ -34,6 +37,9 @@
             "alt": "Pip discovering the stone circle entrance to the tunnel",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-873ea27265/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-friendship-873ea27265/ch1_p2.mp3"
           }
         },
         {
@@ -43,6 +49,9 @@
             "alt": "Pip exploring the magical underground tunnel with glowing flowers",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-873ea27265/scene_1_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-friendship-873ea27265/ch1_p3.mp3"
           }
         },
         {
@@ -52,6 +61,9 @@
             "alt": "Pip discovering the mysterious gift box with magical seeds",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-873ea27265/scene_1_4.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-friendship-873ea27265/ch1_p4.mp3"
           }
         }
       ]
@@ -66,6 +78,9 @@
             "alt": "Pip finding the magical water pot in summer",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-873ea27265/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-friendship-873ea27265/ch2_p1.mp3"
           }
         },
         {
@@ -75,6 +90,9 @@
             "alt": "Pip watering the tunnel walls and helping underground creatures",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-873ea27265/scene_2_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-friendship-873ea27265/ch2_p2.mp3"
           }
         },
         {
@@ -84,6 +102,9 @@
             "alt": "Pip discovering magical carved acorns in autumn",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-873ea27265/scene_2_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-friendship-873ea27265/ch2_p3.mp3"
           }
         },
         {
@@ -93,6 +114,9 @@
             "alt": "Pip meeting his mysterious friend through the magical mirror",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-873ea27265/scene_2_4.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-friendship-873ea27265/ch2_p4.mp3"
           }
         }
       ]
@@ -107,6 +131,9 @@
             "alt": "Pip talking with Luna through the magical mirror",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-873ea27265/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-friendship-873ea27265/ch3_p1.mp3"
           }
         },
         {
@@ -116,6 +143,9 @@
             "alt": "Pip seeing the network of animal guardians through Luna's mirror",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-873ea27265/scene_3_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-friendship-873ea27265/ch3_p2.mp3"
           }
         },
         {
@@ -125,6 +155,9 @@
             "alt": "Pip discovering the magical tree of names in his tunnel",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-873ea27265/scene_3_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-friendship-873ea27265/ch3_p3.mp3"
           }
         },
         {
@@ -134,6 +167,9 @@
             "alt": "Pip as guardian of his magical underground world, with flourishing gardens above and below",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-873ea27265/scene_3_4.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-friendship-873ea27265/ch3_p4.mp3"
           }
         }
       ]
@@ -281,5 +317,7 @@
       }
     ]
   },
-  "_spec_character_name": "pip"
+  "_spec_character_name": "pip",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
