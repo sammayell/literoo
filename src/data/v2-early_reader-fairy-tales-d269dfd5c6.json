@@ -24,6 +24,9 @@
             "alt": "Mochi the shiba inu investigates mysterious berries by a practice track",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-d269dfd5c6/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-d269dfd5c6/ch1_p1.mp3"
           }
         }
       ]
@@ -38,6 +41,9 @@
             "alt": "Mochi discovers a mysterious paw print near the team's water bowl",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-d269dfd5c6/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-d269dfd5c6/ch2_p1.mp3"
           }
         }
       ]
@@ -52,6 +58,9 @@
             "alt": "Mochi spots a mysterious shadow moving among the lavender bushes",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-d269dfd5c6/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-d269dfd5c6/ch3_p1.mp3"
           }
         }
       ]
@@ -66,6 +75,9 @@
             "alt": "Mochi meets the tiny mouse who has been secretly helping the team",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-d269dfd5c6/scene_4_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-d269dfd5c6/ch4_p1.mp3"
           }
         }
       ]
@@ -80,6 +92,9 @@
             "alt": "Mochi and Pip sit together watching the snail team practice in the evening",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-d269dfd5c6/scene_5_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-d269dfd5c6/ch5_p1.mp3"
           }
         }
       ]
@@ -215,5 +230,7 @@
       }
     ]
   },
-  "_spec_character_name": "mochi"
+  "_spec_character_name": "mochi",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }

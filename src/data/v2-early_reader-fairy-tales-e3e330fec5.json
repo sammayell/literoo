@@ -24,7 +24,10 @@
             "alt": "Emma examining the dark Heat Stone with ice cracking around it",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-e3e330fec5/scene_1_1.png"
           },
-          "layout": "full-page"
+          "layout": "full-page",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-e3e330fec5/ch1_p1.mp3"
+          }
         },
         {
           "text": "Bear's Note (left under my door):\n\nEmma! Emma! The ice shakes under my paws and chunks fall into the water with big splashes! The Heat Stone is cold as winter wind and I tried pushing it with my nose but nothing happened and now my nose is frozen! The seals are barking warnings from the water edges where the ice gets thin and Fox Family is running in circles because their den is flooding! \n\nCan you fix it? You know about things that glow and hum and keep us safe!\n\n- Bear (my paws are too cold to write more)",
@@ -33,7 +36,10 @@
             "alt": "Bear delivering an urgent note to Emma's ice home",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-e3e330fec5/scene_1_2.png"
           },
-          "layout": "full-page"
+          "layout": "full-page",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-e3e330fec5/ch1_p2.mp3"
+          }
         },
         {
           "text": "My Reply Note (tied to Bear's collar):\n\nDear Bear,\n\nI don't know how to fix Heat Stones but I'll try everything! Meet me at the crystal cave and bring Fox Family and tell the Seals to come too because we need everyone's ideas and we need them NOW before our whole iceberg melts into the sea!\n\nThe ice under my feet feels different - softer and more slippery like it's giving up!\n\n- Emma\n\nP.S. Wrap your paws in kelp to keep them warm!",
@@ -42,7 +48,10 @@
             "alt": "Emma writing an urgent reply note as ice melts around her",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-e3e330fec5/scene_1_3.png"
           },
-          "layout": "full-page"
+          "layout": "full-page",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-e3e330fec5/ch1_p3.mp3"
+          }
         }
       ]
     },
@@ -56,7 +65,10 @@
             "alt": "Emma and her animal friends meeting in the crystal cave",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-e3e330fec5/scene_2_1.png"
           },
-          "layout": "full-page"
+          "layout": "full-page",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-e3e330fec5/ch2_p1.mp3"
+          }
         },
         {
           "text": "Seal Captain's Message (barked and translated by Fox Father who speaks Seal):\n\n\"Deep under the iceberg! Deep where the fish swim in dark circles! I saw another stone just like the Heat Stone but smaller and it glows green not blue and maybe maybe maybe if we bring it up to touch the big stone they will wake each other up like sleeping friends!\"\n\nMy Field Notes: This could work! Some crystals need partner crystals to activate! But the deep water is so cold and dark and far from air to breathe!\n\nFox Mother left this note on my research papers:",
@@ -65,7 +77,10 @@
             "alt": "Seal Captain communicating through Fox Father to Emma",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-e3e330fec5/scene_2_2.png"
           },
-          "layout": "full-page"
+          "layout": "full-page",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-e3e330fec5/ch2_p2.mp3"
+          }
         },
         {
           "text": "Fox Mother's Note:\n\nSweet Emma, we foxes are too small and Bear is too big but you swim like a seal pup and hold your breath like a whale calf! Fox Father and I will make you a kelp rope to tie around your waist so we can pull you back up fast and the Seals will swim down first to show you exactly where the green stone waits!\n\nBut hurry hurry hurry because our paws are getting wet in our own den!\n\n- Fox Mother (writing with her tail dipped in fish ink)\n\nMy Decision Note (posted for everyone to see):\n\nI'M GOING DOWN! Meet at the diving hole in ten minutes! Everyone help make the kelp rope strong and long!\n\n- Emma the Deep Swimmer",
@@ -74,7 +89,10 @@
             "alt": "Emma reading Fox Mother's note while animals prepare for the dive",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-e3e330fec5/scene_2_3.png"
           },
-          "layout": "full-page"
+          "layout": "full-page",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-e3e330fec5/ch2_p3.mp3"
+          }
         }
       ]
     },
@@ -88,7 +106,10 @@
             "alt": "Emma diving underwater to retrieve the glowing green crystal",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-e3e330fec5/scene_3_1.png"
           },
-          "layout": "full-page"
+          "layout": "full-page",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-e3e330fec5/ch3_p1.mp3"
+          }
         },
         {
           "text": "\"SHE DID IT! EMMA DID IT! THE STONES ARE TOUCHING AND THEY'RE BOTH GLOWING AND THE ICE STOPPED MELTING AND OUR HOME IS SAFE!\"\n\n- Bear (too excited to write neatly)\n\nFox Family's Thank You Letter:\n\nDearest Brave Emma,\n\nWhen you pressed the green stone against the blue Heat Stone they sang to each other in crystal voices and light filled every crack and corner of our iceberg! The ice grew strong again and our den dried out and now we're all safe because you dove deeper than fear!\n\nYou're our family now and forever!\n\n- Fox Father, Fox Mother, and Fox Kit",
@@ -97,7 +118,10 @@
             "alt": "Emma bringing the two crystals together as her animal friends celebrate",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-e3e330fec5/scene_3_2.png"
           },
-          "layout": "full-page"
+          "layout": "full-page",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-e3e330fec5/ch3_p2.mp3"
+          }
         },
         {
           "text": "My Final Research Notes:\n\nThe Heat Stone needed its friend to wake up! Just like how we all needed each other to solve this emergency! Bear's strength, Fox Family's cleverness, Seal Captain's deep-water knowledge, and all of us working together faster than the melting ice!\n\nOur floating iceberg home is safe again and glowing brighter than ever with both stones humming their crystal song! The ice sparkles solid and strong beneath our feet and the cold blue sea carries us gently toward new adventures!\n\nSigned: Emma, Official Iceberg Scientist and Deep Diver\nWitnessed by: Our whole wonderful floating family!",
@@ -106,7 +130,10 @@
             "alt": "Emma writing her final notes surrounded by her animal family on their safe iceberg home",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-e3e330fec5/scene_3_3.png"
           },
-          "layout": "full-page"
+          "layout": "full-page",
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-e3e330fec5/ch3_p3.mp3"
+          }
         }
       ]
     }
@@ -238,5 +265,7 @@
       }
     ]
   },
-  "_spec_character_name": "emma"
+  "_spec_character_name": "emma",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
