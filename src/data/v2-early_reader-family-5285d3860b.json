@@ -13,7 +13,7 @@
   "wordCount": 830,
   "readingLevel": "Grade 1-2",
   "synopsis": "When a small forest sprite finds himself trapped inside a grandmother's cozy house, he must learn to breathe through his fear and discover that the wrinkled human isn't so scary after all.",
-  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-5285d3860b/cover.png",
+  "coverImage": "",
   "chapters": [
     {
       "title": "Five",
@@ -24,7 +24,7 @@
             "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders stands pressed against a closed wooden door, looking panicked, while a gentle grandmother with flour-dusted hands and apron smiles kindly at him in a warm kitchen filled with golden light, cinnamon steam, and shelves of old books",
             "alt": "Sprout trapped inside grandmother's kitchen, looking scared",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-5285d3860b/scene_1_1.png"
+            "src": ""
           }
         }
       ]
@@ -38,7 +38,7 @@
             "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders stands closer to the kitchen counter, sniffing the air with curiosity while grandmother rolls out cinnamon roll dough, golden steam swirling between them in the cozy kitchen",
             "alt": "Sprout beginning to relax, smelling cinnamon rolls baking",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-5285d3860b/scene_2_1.png"
+            "src": ""
           }
         }
       ]
@@ -52,7 +52,7 @@
             "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders stands right beside the kitchen counter, comparing his small twig hand to grandmother's gentle, wrinkled hand dusted with flour and sugar sparkles",
             "alt": "Sprout and grandmother comparing their different but similar hands",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-5285d3860b/scene_3_1.png"
+            "src": ""
           }
         }
       ]
@@ -66,7 +66,7 @@
             "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders stands on a wooden kitchen stool helping grandmother stir cinnamon filling, both of them smiling as golden cinnamon rolls cool on the counter nearby",
             "alt": "Sprout helping grandmother bake, both working together happily",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-5285d3860b/scene_4_1.png"
+            "src": ""
           }
         }
       ]
@@ -80,7 +80,7 @@
             "description": "A small mossy forest sprite with leafy green skin, acorn-cap hat, twig arms, glowing yellow eyes, and ivy wrapped around his shoulders sits contentedly at a cozy kitchen table across from grandmother, both holding steaming teacups with fresh cinnamon rolls between them, warm afternoon light streaming through lace curtains",
             "alt": "Sprout and grandmother sharing tea and cinnamon rolls together",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-5285d3860b/scene_5_1.png"
+            "src": ""
           }
         }
       ]

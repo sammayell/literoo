@@ -13,7 +13,7 @@
   "wordCount": 656,
   "readingLevel": "Kindergarten-1st Grade",
   "synopsis": "Marina, a young mermaid, follows mysterious voices through underwater currents to arrive in a magical kitchen where sea and land creatures work together to save the ocean. But she arrives just as their secret meeting is discovered, and must help hide their important work.",
-  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-6fff08e2b8/cover.png",
+  "coverImage": "",
   "chapters": [
     {
       "title": "Four",
@@ -23,7 +23,8 @@
           "illustration": {
             "description": "An underwater grotto with coral walls and glowing pipes running along the ceiling. Marina, a young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes, presses her ear against the coral wall listening intently. Steam and bubbles drift down from the pipes above. The scene has warm yellows and oranges filtering through the water.",
             "alt": "Marina listening to whispering voices in the underwater pipes",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": ""
           }
         }
       ]
@@ -36,7 +37,8 @@
           "illustration": {
             "description": "Marina, a young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes, swimming upward through a narrow channel filled with warm, glowing water. Pipes run along the rocky walls, and steam bubbles rise around her. The water ahead glows with warm kitchen light in yellows and oranges.",
             "alt": "Marina swimming up through a magical channel toward a glowing kitchen",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": ""
           }
         }
       ]
@@ -50,7 +52,7 @@
             "description": "A magical cozy kitchen with Marina, a young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes, surfacing in a large sink filled with seawater. Steam rises from bubbling pots, windows are fogged, seaweed grows in flowerpots, and warm yellow and orange light fills the space. The kitchen has both underwater and above-water elements blended together.",
             "alt": "Marina emerging in a magical kitchen that bridges sea and land",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-6fff08e2b8/scene_3_1.png"
+            "src": ""
           }
         }
       ]
@@ -64,7 +66,7 @@
             "description": "The cozy kitchen filled with warm steam as Marina, a young mermaid with long seafoam-green hair, a shimmering turquoise scaled tail, seashell accents, and sparkling aqua eyes, meets a grandmother with seashells in her hair, a small otter in an apron, and a hermit crab carrying papers. The scene is bathed in warm yellows and oranges, with steam swirling around everyone like a magical embrace. The kitchen table is set with maps and plans.",
             "alt": "Marina meeting the secret group of environmental protectors in the steamy kitchen",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-6fff08e2b8/scene_4_1.png"
+            "src": ""
           }
         }
       ]

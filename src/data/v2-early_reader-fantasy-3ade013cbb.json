@@ -13,7 +13,7 @@
   "wordCount": 487,
   "readingLevel": "Grade 1-2",
   "synopsis": "A tiny owl discovers mysterious gifts appearing on an abandoned carousel over seven days, leading to an unexpected friendship with a lonely cricket who leaves clues through whimsical presents.",
-  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-3ade013cbb/cover.png",
+  "coverImage": "",
   "chapters": [
     {
       "title": "Monday's Discovery",
@@ -24,7 +24,7 @@
             "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers holding a glowing acorn while perched on a weathered carousel horse. The abandoned carousel sits in an overgrown field with enchanted forest atmosphere, glowing mushrooms scattered in the tall grass, fairy lights twinkling between the weeds, mystical creatures hiding in the shadows, rich greens and purples, golden sparkles in the night air, Studio Ghibli inspired magical atmosphere, detailed foliage growing through the carousel's ornate metalwork.",
             "alt": "Baby owl examining a magical acorn on carousel horse at night",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-3ade013cbb/scene_1_1.png"
+            "src": ""
           }
         }
       ]
@@ -37,7 +37,8 @@
           "illustration": {
             "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers examining various magical gifts scattered across the carousel - a paper boat, flower petals, tiny telescope, ice marbles, and a note. The abandoned carousel in the overgrown field shows enchanted forest atmosphere, glowing mushrooms growing between the carousel animals, fairy lights strung through the metalwork, mystical creatures watching from the grass, rich greens and purples, golden sparkles floating around the gifts, Studio Ghibli inspired magical atmosphere, detailed foliage intertwining with the carousel structure.",
             "alt": "Baby owl surrounded by mysterious magical gifts on the carousel",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": ""
           }
         }
       ]
@@ -50,7 +51,8 @@
           "illustration": {
             "description": "A tiny round baby owl with speckled cream-and-brown feathers, enormous golden eyes, and tufty ear feathers working together with an emerald-green cricket to open the carousel gate. All seven magical gifts glow in a path of light around them. The abandoned carousel in the overgrown field shows enchanted forest atmosphere, glowing mushrooms celebrating their escape, fairy lights dancing in the air, mystical creatures cheering from the grass, rich greens and purples, golden sparkles swirling around the freed friends, Studio Ghibli inspired magical atmosphere, detailed foliage parting to show their path to freedom.",
             "alt": "Baby owl and cricket working together to escape the magical carousel",
-            "layout": "full-page"
+            "layout": "full-page",
+            "src": ""
           }
         }
       ]

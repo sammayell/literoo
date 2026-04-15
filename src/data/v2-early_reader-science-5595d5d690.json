@@ -13,7 +13,7 @@
   "wordCount": 953,
   "readingLevel": "Grade 1-2",
   "synopsis": "When Bramble the raccoon overhears that the lighthouse's wind chamber might stop working forever, he must figure out how the mysterious mechanism operates before his friend Luna discovers he knows her secret. Through careful observation and clever experiments, Bramble uncovers the science behind the wind patterns that keep their lighthouse home running.",
-  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-5595d5d690/cover.png",
+  "coverImage": "",
   "chapters": [
     {
       "title": "The Whispering Pipes",
@@ -24,7 +24,7 @@
             "description": "Bramble, a young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes, has his paws pressed against a network of copper pipes that glow with inner warmth. Scientific diagrams and wind flow arrows are visible through transparent sections of the pipes.",
             "alt": "A raccoon listening to copper pipes with scientific wind flow patterns visible inside",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-5595d5d690/scene_1_1.png"
+            "src": ""
           }
         },
         {
@@ -33,7 +33,7 @@
             "description": "Bramble, a young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes, sits at the base of a spiral staircase looking worried. Above him, shadows of Luna the owl and the lighthouse keeper are visible, with technical blueprints scattered on the steps.",
             "alt": "A concerned raccoon at the bottom of stairs with technical drawings scattered about",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-5595d5d690/scene_1_2.png"
+            "src": ""
           }
         }
       ]
@@ -47,7 +47,7 @@
             "description": "Bramble, a young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes, holds a feather that's being dramatically sucked into a small hole in a copper pipe. Air flow lines and pressure diagrams surround the scene like a scientific illustration.",
             "alt": "A raccoon conducting an experiment with a feather being pulled into a pipe by air pressure",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-5595d5d690/scene_2_1.png"
+            "src": ""
           }
         },
         {
@@ -56,7 +56,7 @@
             "description": "Bramble, a young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes, has his paws covering different holes in the pipe system while Luna the owl watches. Visible air pressure measurements and flow charts float around them like a scientific experiment in progress.",
             "alt": "A raccoon experimenting with pipe holes while an owl observes, with scientific measurements visible",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-5595d5d690/scene_2_2.png"
+            "src": ""
           }
         }
       ]
@@ -70,7 +70,7 @@
             "description": "Bramble, a young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes, conducts methodical experiments with leaves, pebbles, and string around the pipe holes. Scientific measurement tools and data charts showing suction strength hover in the background like magical scientific instruments.",
             "alt": "A raccoon conducting systematic experiments with various objects and scientific measurement tools",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-5595d5d690/scene_3_1.png"
+            "src": ""
           }
         },
         {
@@ -79,7 +79,7 @@
             "description": "Bramble, a young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes, frantically pulls large leaves off pipe holes while pressure gauges and wind flow diagrams glow around him. His expression shows the eureka moment of scientific discovery.",
             "alt": "A raccoon urgently removing leaves from pipe holes with scientific pressure readings glowing around the scene",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-5595d5d690/scene_3_2.png"
+            "src": ""
           }
         }
       ]
@@ -93,7 +93,7 @@
             "description": "Bramble, a young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes, carefully cleans pipe holes with a small brush while pressure gauges around him show improving readings. The pipes glow brighter and wind flow arrows show stronger, clearer patterns.",
             "alt": "A raccoon cleaning pipe holes with scientific instruments showing improved readings all around",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-5595d5d690/scene_4_1.png"
+            "src": ""
           }
         },
         {
@@ -102,7 +102,7 @@
             "description": "Bramble, a young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes, and Luna the owl stand beside the now-clean pipe system as the lighthouse beam shines brilliantly in the background. Scientific achievement badges and wind flow success charts float around them like celebrations of discovery.",
             "alt": "A raccoon and owl celebrating beside clean pipes with a bright lighthouse beam in the background",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-5595d5d690/scene_4_2.png"
+            "src": ""
           }
         }
       ]
