@@ -25,6 +25,9 @@
             "alt": "Zuri approaching a harbor made of turtle shells",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-af118783c9/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-af118783c9/ch1_p1.mp3"
           }
         },
         {
@@ -34,6 +37,9 @@
             "alt": "Zuri looking at a magical map",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-af118783c9/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-af118783c9/ch1_p2.mp3"
           }
         },
         {
@@ -43,6 +49,9 @@
             "alt": "Zuri talking to Mrs. Tortoise after choir practice",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-af118783c9/scene_1_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-af118783c9/ch1_p3.mp3"
           }
         },
         {
@@ -52,6 +61,9 @@
             "alt": "Zuri and creatures loading drums onto a boat",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-af118783c9/scene_1_4.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-af118783c9/ch1_p4.mp3"
           }
         }
       ]
@@ -66,6 +78,9 @@
             "alt": "A stadium made of lily pads from above",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-af118783c9/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-af118783c9/ch2_p1.mp3"
           }
         },
         {
@@ -75,6 +90,9 @@
             "alt": "Zuri at an empty stadium after the games",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-af118783c9/scene_2_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-af118783c9/ch2_p2.mp3"
           }
         },
         {
@@ -84,6 +102,9 @@
             "alt": "Zuri making music with river creatures",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-af118783c9/scene_2_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-af118783c9/ch2_p3.mp3"
           }
         },
         {
@@ -93,6 +114,9 @@
             "alt": "Creatures warning Zuri about the Song Tree",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-af118783c9/scene_2_4.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-af118783c9/ch2_p4.mp3"
           }
         }
       ]
@@ -107,6 +131,9 @@
             "alt": "The magical upside-down Song Tree",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-af118783c9/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-af118783c9/ch3_p1.mp3"
           }
         },
         {
@@ -116,6 +143,9 @@
             "alt": "Zuri sitting sadly under the quiet tree",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-af118783c9/scene_3_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-af118783c9/ch3_p2.mp3"
           }
         },
         {
@@ -125,6 +155,9 @@
             "alt": "All the friends making music together",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-af118783c9/scene_3_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-af118783c9/ch3_p3.mp3"
           }
         },
         {
@@ -134,6 +167,9 @@
             "alt": "The Song Tree singing with everyone making music",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-af118783c9/scene_3_4.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-af118783c9/ch3_p4.mp3"
           }
         }
       ]
@@ -268,5 +304,7 @@
       }
     ]
   },
-  "_spec_character_name": "zuri"
+  "_spec_character_name": "zuri",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
