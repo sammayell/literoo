@@ -112,6 +112,19 @@ export const AGE_TIER_LABELS: Record<AgeTier, string> = {
   young_adult: 'Young Adult (12-18)',
 };
 
+// Clean reading-level labels shown on book cards.
+// Use these instead of the raw book.readingLevel field (which is inconsistent
+// across books — Claude generated 42 different values). These are always
+// standardized and match grade-school expectations parents understand.
+export const READING_LEVEL_LABELS: Record<AgeTier, string> = {
+  baby: 'Board Book',
+  toddler: 'Pre-K',
+  early_reader: 'Grades K-1',
+  reader: 'Grades 2-3',
+  middle_grade: 'Grades 4-6',
+  young_adult: 'Grades 7-9',
+};
+
 // Quiz types
 export interface QuizQuestion {
   id: string;

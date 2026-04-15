@@ -3,7 +3,7 @@
 import { useState, useMemo, useCallback, useEffect } from "react";
 import Link from "next/link";
 import type { BookSummary } from "@/lib/books";
-import { AGE_TIER_LABELS, AGE_TIER_COLORS, AgeTier } from "@/lib/types";
+import { AGE_TIER_LABELS, AGE_TIER_COLORS, READING_LEVEL_LABELS, AgeTier } from "@/lib/types";
 import { useAuth } from "@/lib/auth-context";
 
 const ADMIN_EMAILS = ["sam@sammayell.com", "hello@chillplayvibe.com"];
@@ -459,10 +459,10 @@ function BookCard({ book, isFree, isAdmin, onHide }: {
           <span>{book.chapterCount} ch.</span>
         </div>
 
-        {/* Reading level */}
+        {/* Reading level — normalized from tier */}
         <div className="mb-3">
           <span className={`${colors.bg} ${colors.text} text-xs font-medium px-2 py-0.5 rounded-md`}>
-            {book.readingLevel}
+            {READING_LEVEL_LABELS[book.ageTier]}
           </span>
         </div>
 
