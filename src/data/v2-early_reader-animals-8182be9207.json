@@ -13,7 +13,7 @@
   "wordCount": 848,
   "readingLevel": "Grade 1-2",
   "synopsis": "When baby dragon Ember boards the night train to visit his aunt, he finds himself sharing a compartment with a mysterious passenger who speaks only in whispers. Through careful lists and gentle curiosity, Ember discovers that sometimes the most frightening situations can lead to unexpected friendships.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-8182be9207/cover.png",
   "chapters": [
     {
       "title": "The Wrong Compartment",
@@ -24,7 +24,7 @@
             "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes holds a train ticket while a badger conductor in a blue uniform points down a narrow train corridor. The walls are wood-paneled and golden lights flicker overhead. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "Ember the baby dragon being directed by a badger conductor in a train corridor",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-8182be9207/scene_1_1.png"
           }
         },
         {
@@ -33,7 +33,7 @@
             "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes stands outside a compartment door marked with the number 3. Soft humming sounds are visualized as musical notes floating through the crack under the door. The train corridor rocks gently. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "Ember outside compartment door 3 with musical notes visible",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-8182be9207/scene_1_2.png"
           }
         },
         {
@@ -42,7 +42,7 @@
             "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes enters a train compartment where a large grey owl sits by the window. The compartment has two fold-down beds and a small table. Moonlight streams through the window. The owl's feathers are silver-grey like storm clouds. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "Ember meeting Nora the owl in their shared train compartment",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-8182be9207/scene_1_3.png"
           }
         },
         {
@@ -59,7 +59,7 @@
             "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes sits on his fold-down bed, thinking. Across from him, a large grey owl faces the window, clutching something small in her talons. The train compartment sways gently, and moonlight creates patterns on the walls. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "Ember observing Nora the owl in their train compartment",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-8182be9207/scene_2_1.png"
           }
         },
         {
@@ -68,7 +68,7 @@
             "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes is talking to a large grey storm-cloud colored owl. They face each other in the swaying train compartment, with warm golden light from a small lamp between them. The owl's head is turned slightly toward Ember now. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "Ember and Nora beginning to talk to each other",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-8182be9207/scene_2_2.png"
           }
         },
         {
@@ -88,7 +88,7 @@
             "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes looks at a large grey owl with deep blue eyes. They are in their train compartment at night, stopped at a platform where figures can be seen walking away. The owl finally faces Ember directly, her expression serious. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "Nora the owl finally looking directly at Ember in the stopped train",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-8182be9207/scene_3_1.png"
           }
         },
         {
@@ -100,7 +100,7 @@
             "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes peers at a small silver bell in a grey owl's open talons. The bell glints in the lamplight, and tiny carved letters are visible on its surface. The train compartment is intimate and warm around them. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "Ember examining the silver bell that reads 'Luna' in Nora's talons",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-8182be9207/scene_3_3.png"
           }
         },
         {
@@ -120,7 +120,7 @@
             "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes sits close to a large grey owl on the train seat. City lights begin to twinkle outside the window as they approach their destination. Both animals look more relaxed now, and the owl holds the silver bell openly. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "Ember offering to help Nora as city lights appear outside",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-8182be9207/scene_4_2.png"
           }
         },
         {
@@ -132,7 +132,7 @@
             "description": "A small friendly baby dragon with coral-red scales, a cream belly, tiny folded wings, a curly tail, and big warm amber eyes and a large grey owl walk together through a busy train station. The owl holds the silver bell carefully while Ember carries his small travel bag. Other animal passengers bustle around them, and warm station lights create a golden glow. Gouache painting, thick brushstrokes, warm savanna colors, expressive animals, textured painterly, golden grass, orange sunset, bold confident strokes.",
             "alt": "Ember and Nora walking together through the busy train station",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-8182be9207/scene_4_4.png"
           }
         },
         {
