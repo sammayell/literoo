@@ -251,6 +251,8 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
   const [audioProgress, setAudioProgress] = useState(0);
   // Does the current page have MP3 narration available?
   const pageHasMP3 = pages[currentPage]?.narrationSrc != null;
+  // Does this book have narration at all? (check if any page has an MP3)
+  const bookHasNarration = pages.some((p) => !!p.narrationSrc);
 
   // Refs for functions that reference each other (avoid stale closures)
   const goToPageRef = useRef<(n: number) => void>(() => {});
@@ -291,42 +293,28 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
       }
     };
 
-    // Prefer ElevenLabs high-quality MP3 narration if available
-    if (page.narrationSrc) {
-      const audio = new Audio(page.narrationSrc);
-      audio.playbackRate = ttsSpeed;
-      audio.preload = "auto";
-      audio.addEventListener("ended", advanceToNext);
-      audio.addEventListener("timeupdate", () => {
-        if (audio.duration > 0) {
-          setAudioProgress(audio.currentTime / audio.duration);
-        }
-      });
-      audio.addEventListener("error", () => {
-        narrationAudioRef.current = null;
-        if (!tts.isSupported) {
-          setAiReadActive(false);
-          return;
-        }
-        tts.setRate(ttsSpeed);
-        tts.onBoundary((event) => setHighlightedWordIndex(event.wordIndex));
-        tts.onEnd(advanceToNext);
-        tts.speak(page.content);
-      });
-      narrationAudioRef.current = audio;
-      audio.play().catch(() => {
-        setAiReadActive(false);
-      });
-      setAiReadActive(true);
+    // Only play the real ElevenLabs MP3 narration — never fall back to robot TTS.
+    if (!page.narrationSrc) {
+      // Silent no-op — button should be disabled when there's no MP3 anyway.
       return;
     }
-
-    // Fallback: browser TTS
-    if (!tts.isSupported) return;
-    tts.setRate(ttsSpeed);
-    tts.onBoundary((event) => setHighlightedWordIndex(event.wordIndex));
-    tts.onEnd(advanceToNext);
-    tts.speak(page.content);
+    const audio = new Audio(page.narrationSrc);
+    audio.playbackRate = ttsSpeed;
+    audio.preload = "auto";
+    audio.addEventListener("ended", advanceToNext);
+    audio.addEventListener("timeupdate", () => {
+      if (audio.duration > 0) {
+        setAudioProgress(audio.currentTime / audio.duration);
+      }
+    });
+    audio.addEventListener("error", () => {
+      narrationAudioRef.current = null;
+      setAiReadActive(false);
+    });
+    narrationAudioRef.current = audio;
+    audio.play().catch(() => {
+      setAiReadActive(false);
+    });
     setAiReadActive(true);
   }, [currentPage, pages, ttsSpeed]);
 
@@ -596,47 +584,59 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
             </p>
           </div>
 
-          {/* Read-aloud button — bigger, pill-shaped, with label and progress */}
-          <button
-            onClick={toggleAIRead}
-            className={`relative flex items-center gap-2 pl-2 pr-3 py-1.5 rounded-full transition-all overflow-hidden ${
-              aiReadActive
-                ? "bg-brand-500 text-white shadow-md"
-                : "bg-stone-100 text-stone-700 hover:bg-stone-200"
-            }`}
-            aria-label={aiReadActive ? "Pause reading" : "Read aloud"}
-            title={aiReadActive ? "Pause" : "Read aloud"}
-          >
-            {/* Progress bar fill — shown behind content when active */}
-            {aiReadActive && (
-              <div
-                className="absolute inset-y-0 left-0 bg-white/25 transition-[width] duration-100 ease-linear pointer-events-none"
-                style={{ width: `${audioProgress * 100}%` }}
-              />
-            )}
-            <span className="relative z-10 flex items-center gap-2">
-              {aiReadActive ? (
-                <>
-                  {/* Pause icon */}
-                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
-                    <rect x="6" y="5" width="4" height="14" rx="1" />
-                    <rect x="14" y="5" width="4" height="14" rx="1" />
-                  </svg>
-                  <span className="text-xs font-semibold hidden sm:inline">Pause</span>
-                </>
-              ) : (
-                <>
-                  {/* Play icon */}
-                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
-                    <path d="M8 5v14l11-7z" />
-                  </svg>
-                  <span className="text-xs font-semibold hidden sm:inline">
-                    {pageHasMP3 ? "Read aloud" : "Read (robot)"}
-                  </span>
-                </>
+          {/* Read-aloud button — only shown for books with real narration.
+              We do NOT fall back to browser TTS (robot voice). If the book
+              doesn't have MP3 narration yet, the button simply isn't there. */}
+          {bookHasNarration ? (
+            <button
+              onClick={toggleAIRead}
+              disabled={!pageHasMP3}
+              className={`relative flex items-center gap-2 pl-2 pr-3 py-1.5 rounded-full transition-all overflow-hidden ${
+                aiReadActive
+                  ? "bg-brand-500 text-white shadow-md"
+                  : !pageHasMP3
+                  ? "bg-stone-100 text-stone-400 cursor-not-allowed"
+                  : "bg-stone-100 text-stone-700 hover:bg-stone-200"
+              }`}
+              aria-label={aiReadActive ? "Pause reading" : "Read aloud"}
+              title={
+                aiReadActive
+                  ? "Pause"
+                  : !pageHasMP3
+                  ? "No audio for this page"
+                  : "Read aloud"
+              }
+            >
+              {/* Progress bar fill */}
+              {aiReadActive && (
+                <div
+                  className="absolute inset-y-0 left-0 bg-white/25 transition-[width] duration-100 ease-linear pointer-events-none"
+                  style={{ width: `${audioProgress * 100}%` }}
+                />
               )}
-            </span>
-          </button>
+              <span className="relative z-10 flex items-center gap-2">
+                {aiReadActive ? (
+                  <>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                      <rect x="6" y="5" width="4" height="14" rx="1" />
+                      <rect x="14" y="5" width="4" height="14" rx="1" />
+                    </svg>
+                    <span className="text-xs font-semibold hidden sm:inline">Pause</span>
+                  </>
+                ) : (
+                  <>
+                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="currentColor">
+                      <path d="M8 5v14l11-7z" />
+                    </svg>
+                    <span className="text-xs font-semibold hidden sm:inline">Read aloud</span>
+                  </>
+                )}
+              </span>
+            </button>
+          ) : (
+            // Placeholder spacer so the top bar keeps its layout
+            <div className="w-10" aria-hidden="true" />
+          )}
 
           <button
             onClick={() => setShowSettings(!showSettings)}
