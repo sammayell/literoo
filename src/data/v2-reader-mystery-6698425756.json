@@ -13,7 +13,7 @@
   "wordCount": 2312,
   "readingLevel": "2nd-3rd grade",
   "synopsis": "When the magical brewing kettle stops working in Grandmother Willow's cozy kitchen, Wind the wind spirit must solve the mystery. But the old copper kettle has secrets of its own to share - stories within stories that reveal the true nature of magic and memory in a world where technology and enchantment intertwine.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-6698425756/cover.png",
   "chapters": [
     {
       "title": "The Steam That Never Came",
@@ -22,7 +22,8 @@
         {
           "description": "A film noir kitchen scene with dramatic morning light streaming through a steamy window. An old copper kettle sits motionless on a vintage gas stove while Wind - a small wind spirit shaped like a swirling grey-white breeze with leaves and twigs spinning inside, two bright mischievous eyes peeking through - investigates nearby. Grandmother Willow stands in the shadows, her worried expression lit by the warm copper accent color against the muted grey palette.",
           "alt": "Wind the wind spirit examining the silent copper kettle while Grandmother Willow looks on with concern",
-          "position": "after-paragraph-4"
+          "position": "after-paragraph-4",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-mystery-6698425756/scene_1_1.png"
         }
       ]
     },
