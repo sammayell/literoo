@@ -23,6 +23,9 @@
             "description": "A shy baby pangolin with overlapping warm-brown scales like tiny roof tiles, a pink nose, and gentle black eyes staring at a glowing purple door in an underground tunnel. Purple smoke curls from around the door's edges. The tunnel walls are earthen with exposed roots, and the door has a brass nameplate. The art style emphasizes scientific wonder, wide-eyed discovery, and science as magic.",
             "alt": "A baby pangolin discovers a mysterious purple door that has appeared in his underground tunnel hideout",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-b621dbc4a5/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-b621dbc4a5/ch1_p1.mp3"
           }
         },
         {
@@ -31,6 +34,9 @@
             "description": "A shy baby pangolin with overlapping warm-brown scales like tiny roof tiles, a pink nose, and gentle black eyes peering through a doorway into a chaotic laboratory. Rainbow-colored liquids bubble in test tubes, equations cover a chalkboard, and a small tornado spins in a jar. Colorful smoke and sparkles fill the air. The art style emphasizes bubbling reactions, amazing revelations, and eureka moments.",
             "alt": "The pangolin looks into a chaotic laboratory filled with colorful experiments and swirling scientific equipment",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-b621dbc4a5/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-b621dbc4a5/ch1_p2.mp3"
           }
         }
       ]
@@ -44,6 +50,9 @@
             "description": "A shy baby pangolin with overlapping warm-brown scales like tiny roof tiles, a pink nose, and gentle black eyes standing next to a grasshopper wearing safety goggles in a laboratory. They're both covered in purple goop as a giant beaker erupts behind them like a volcano. Scientific equipment bubbles around them. The art style emphasizes slapstick scientific mishaps, bubbling reactions, and colorful experiments.",
             "alt": "A pangolin and grasshopper scientist get splattered with purple goop from an exploding experiment",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-b621dbc4a5/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-b621dbc4a5/ch2_p1.mp3"
           }
         },
         {
@@ -52,6 +61,9 @@
             "description": "A shy baby pangolin with overlapping warm-brown scales like tiny roof tiles, a pink nose, and gentle black eyes floating in mid-air, covered in purple anti-gravity goop. A grasshopper in safety goggles hangs upside down from the ceiling. The laboratory around them defies gravity with floating test tubes and swirling equipment. The art style emphasizes scientific wonder, amazing revelations, and microscope views of magical science.",
             "alt": "The pangolin floats through the air while covered in anti-gravity pudding as the grasshopper hangs from the ceiling",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-b621dbc4a5/scene_2_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-b621dbc4a5/ch2_p2.mp3"
           }
         }
       ]
@@ -65,6 +77,9 @@
             "description": "A shy baby pangolin with overlapping warm-brown scales like tiny roof tiles, a pink nose, and gentle black eyes watching a bizarre machine fall apart in spectacular fashion. Gears dance in a conga line while springs bounce around like kangaroos. A grasshopper in safety goggles presses buttons on the chaotic machine. The art style emphasizes slapstick scientific mishaps, bubbling reactions, and mechanical parts having a party.",
             "alt": "A strange machine comically falls apart with its gears and springs dancing around the laboratory",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-b621dbc4a5/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-b621dbc4a5/ch3_p1.mp3"
           }
         },
         {
@@ -73,6 +88,9 @@
             "description": "A shy baby pangolin with overlapping warm-brown scales like tiny roof tiles, a pink nose, and gentle black eyes surrounded by happy machine parts that have come to life. Screws dance in a chorus line, springs wear tiny hats, and gears shake hands. A grasshopper scientist observes the mechanical celebration. The art style emphasizes young scientist wonder, amazing revelations, and science as magic.",
             "alt": "Liberated machine parts dance and celebrate around the pangolin and grasshopper in a whimsical scientific celebration",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-b621dbc4a5/scene_3_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-b621dbc4a5/ch3_p2.mp3"
           }
         }
       ]
@@ -86,6 +104,9 @@
             "description": "A shy baby pangolin with overlapping warm-brown scales like tiny roof tiles, a pink nose, and gentle black eyes watching a tiny mouse in an oversized lab coat standing on a marble. The mouse examines a thimble-sized device while a grasshopper in safety goggles looks on. The laboratory setting emphasizes microscope views, scientific wonder, and the contrast between very small experiments and big potential. The art style shows young scientist curiosity and eureka moments about to happen.",
             "alt": "A tiny mouse scientist in an oversized lab coat stands on a marble while examining a minuscule experiment",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-b621dbc4a5/scene_4_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-b621dbc4a5/ch4_p1.mp3"
           }
         },
         {
@@ -94,6 +115,9 @@
             "description": "A shy baby pangolin with overlapping warm-brown scales like tiny roof tiles, a pink nose, and gentle black eyes laughing joyfully in a laboratory filled with rainbow fireworks and glittery stars. A mouse surfs on a marble through waves of sparkling light while a grasshopper applauds. The scene celebrates scientific chaos and friendship. The art style emphasizes eureka moments, amazing revelations, bubbling reactions, and science as pure magic.",
             "alt": "Three scientist friends celebrate in a laboratory explosion of rainbow colors and glittering stars, surrounded by the chaos of successful experiments",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-b621dbc4a5/scene_4_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-b621dbc4a5/ch4_p2.mp3"
           }
         }
       ]
@@ -218,5 +242,7 @@
       }
     ]
   },
-  "_spec_character_name": "pangolin"
+  "_spec_character_name": "pangolin",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
