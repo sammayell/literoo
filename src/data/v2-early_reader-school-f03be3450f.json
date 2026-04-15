@@ -23,6 +23,9 @@
             "description": "Chloe, a cheerful girl with short wavy strawberry-blonde hair, light skin, and blue-gray eyes, stands on a rusty carousel surrounded by tall weeds and wildflowers. Painted horses lean at odd angles around her. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Chloe discovers the abandoned carousel in an overgrown field",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-f03be3450f/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-f03be3450f/ch1_p1.mp3"
           }
         }
       ]
@@ -36,6 +39,9 @@
             "description": "Chloe, a cheerful girl with short wavy strawberry-blonde hair, light skin, and blue-gray eyes, has fallen in front of the red door which is now open, revealing a school hallway beyond. She's tangled in weeds with a pencil bouncing off her head. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Chloe tumbles as the mysterious door opens to reveal a school hallway",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-f03be3450f/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-f03be3450f/ch2_p1.mp3"
           }
         }
       ]
@@ -49,6 +55,9 @@
             "description": "Chloe, a cheerful girl with short wavy strawberry-blonde hair, light skin, and blue-gray eyes, stands in an upside-down classroom with desks on the ceiling and confetti raining down. School supplies float around her as she reaches for a dangling desk. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Chloe in the topsy-turvy classroom with floating furniture and confetti",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-f03be3450f/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-f03be3450f/ch3_p1.mp3"
           }
         }
       ]
@@ -62,6 +71,9 @@
             "description": "Chloe, a cheerful girl with short wavy strawberry-blonde hair, light skin, and blue-gray eyes, slides across the library floor while books with faces laugh and flutter their pages. Paper animals march around her feet and dictionaries are scattered about. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Chloe sliding through the laughing library with animated books everywhere",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-f03be3450f/scene_4_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-f03be3450f/ch4_p1.mp3"
           }
         }
       ]
@@ -75,6 +87,9 @@
             "description": "Chloe, a cheerful girl with short wavy strawberry-blonde hair, light skin, and blue-gray eyes, sits in a patch of clover on the carousel, smiling as a butterfly lands on her nose. The painted horses stand peacefully around her in the golden afternoon light. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Chloe back on the carousel with a butterfly on her nose, looking content",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-f03be3450f/scene_5_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-f03be3450f/ch5_p1.mp3"
           }
         }
       ]
@@ -204,5 +219,7 @@
       }
     ]
   },
-  "_spec_character_name": "chloe"
+  "_spec_character_name": "chloe",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
