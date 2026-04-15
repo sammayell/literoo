@@ -25,6 +25,9 @@
             "alt": "Hoot and his sister Pip with a magical silver acorn by the mysterious door",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-school-5b6b55159c/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-toddler-school-5b6b55159c/ch1_p1.mp3"
           }
         }
       ]
@@ -39,6 +42,9 @@
             "alt": "Hoot and Pip sharing magical golden bells with other enchanted gifts floating around them",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-school-5b6b55159c/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-toddler-school-5b6b55159c/ch2_p1.mp3"
           }
         }
       ]
@@ -53,6 +59,9 @@
             "alt": "Hoot and Pip surrounded by all their magical gifts with a bubble of captured laughter floating above",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-school-5b6b55159c/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-toddler-school-5b6b55159c/ch3_p1.mp3"
           }
         }
       ]
@@ -177,5 +186,7 @@
       }
     ]
   },
-  "_spec_character_name": "hoot"
+  "_spec_character_name": "hoot",
+  "narrationVoice": "piTKgcLEGmPE4e6mEKli",
+  "narrationComplete": true
 }
