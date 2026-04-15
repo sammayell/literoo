@@ -25,6 +25,9 @@
             "alt": "Ivy writing field notes while purple snow falls in the gym",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-4e6ba6a68e/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-friendship-4e6ba6a68e/ch1_p1.mp3"
           }
         }
       ]
@@ -39,6 +42,9 @@
             "alt": "Ivy and Marcus passing investigation notes while other kids watch the purple snow",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-4e6ba6a68e/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-friendship-4e6ba6a68e/ch2_p1.mp3"
           }
         }
       ]
@@ -53,6 +59,9 @@
             "alt": "Ivy, Marcus, and Zoe sharing investigation notes while following purple footprints",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-4e6ba6a68e/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-friendship-4e6ba6a68e/ch3_p1.mp3"
           }
         }
       ]
@@ -67,6 +76,9 @@
             "alt": "The Weather Detectives team watching the purple bird return home through a portal",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-4e6ba6a68e/scene_4_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-friendship-4e6ba6a68e/ch4_p1.mp3"
           }
         }
       ]
@@ -218,5 +230,7 @@
       }
     ]
   },
-  "_spec_character_name": "ivy"
+  "_spec_character_name": "ivy",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
