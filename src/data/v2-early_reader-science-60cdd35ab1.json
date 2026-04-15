@@ -25,6 +25,9 @@
             "alt": "A mermaid discovers herself in a vast library with a turtle professor by candlelight",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-60cdd35ab1/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-60cdd35ab1/ch1_p1.mp3"
           }
         },
         {
@@ -34,6 +37,9 @@
             "alt": "The mermaid examines magical scientific equipment with the turtle professor",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-60cdd35ab1/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-60cdd35ab1/ch1_p2.mp3"
           }
         }
       ]
@@ -48,6 +54,9 @@
             "alt": "A purple blob bounces chaotically through the library as the mermaid and turtle watch",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-60cdd35ab1/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-60cdd35ab1/ch2_p1.mp3"
           }
         },
         {
@@ -57,6 +66,9 @@
             "alt": "The mermaid and turtle discover beautiful galaxies swirling inside the purple blob",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-60cdd35ab1/scene_2_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-60cdd35ab1/ch2_p2.mp3"
           }
         }
       ]
@@ -71,6 +83,9 @@
             "alt": "The mermaid contemplates her choice surrounded by magical scientific creations",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-60cdd35ab1/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-60cdd35ab1/ch3_p1.mp3"
           }
         },
         {
@@ -80,6 +95,9 @@
             "alt": "The mermaid and turtle shake hands surrounded by their glowing scientific creations",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-60cdd35ab1/scene_3_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-60cdd35ab1/ch3_p2.mp3"
           }
         }
       ]
@@ -94,6 +112,9 @@
             "alt": "The mermaid swims away through the window while the turtle and candle bid her farewell",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-60cdd35ab1/scene_4_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-60cdd35ab1/ch4_p1.mp3"
           }
         }
       ]
@@ -108,6 +129,9 @@
             "alt": "The mermaid and turtle continue their scientific partnership surrounded by amazing inventions",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-60cdd35ab1/scene_5_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-60cdd35ab1/ch5_p1.mp3"
           }
         }
       ]
@@ -245,5 +269,7 @@
       }
     ]
   },
-  "_spec_character_name": "marina"
+  "_spec_character_name": "marina",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
