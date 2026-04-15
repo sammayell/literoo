@@ -13,7 +13,7 @@
   "wordCount": 491,
   "readingLevel": "early_reader",
   "synopsis": "A tiny thorn fairy must help repair the lighthouse lantern before sunset leaves ships in darkness. Told by the ancient lighthouse lens itself, this tale follows the fairy's repeated journeys up the spiral stairs, each time discovering new clues about how the great light works.",
-  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-3453d9795c/cover.png",
+  "coverImage": "",
   "chapters": [
     {
       "title": "The Lens Remembers",
@@ -23,7 +23,7 @@
           "illustration": {
             "description": "Inside the lighthouse lantern room, showing the massive crystal lens. Thistle, a tiny thorn fairy with mossy-green skin, pointed ears, wings like dried leaves, and a cap made from a chestnut husk, perches on the window ledge. The view shows darkening seas and distant fishing boats. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
             "alt": "A tiny fairy sits on the lighthouse window as the light flickers",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-3453d9795c/scene_1_1.png"
+            "src": ""
           }
         }
       ]
@@ -36,7 +36,7 @@
           "illustration": {
             "description": "The spiral iron staircase winds down through the lighthouse interior. Thistle, a tiny thorn fairy with mossy-green skin, pointed ears, wings like dried leaves, and a cap made from a chestnut husk, flies past the mechanical clockwork gears and weights. Shadows dance on the curved walls. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
             "alt": "A fairy explores the mechanical workings inside a lighthouse",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-3453d9795c/scene_2_1.png"
+            "src": ""
           }
         }
       ]
@@ -49,7 +49,7 @@
           "illustration": {
             "description": "The lighthouse oil storage room with shelves of supplies and equipment. Thistle, a tiny thorn fairy with mossy-green skin, pointed ears, wings like dried leaves, and a cap made from a chestnut husk, hovers near a forgotten oil can behind coiled rope. Brass instruments gleam on wooden shelves. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
             "alt": "A fairy discovers an oil can in the lighthouse storage room",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-3453d9795c/scene_3_1.png"
+            "src": ""
           }
         }
       ]
@@ -62,7 +62,7 @@
           "illustration": {
             "description": "The top of the lighthouse where the great lamp sits within the crystal lens housing. Thistle, a tiny thorn fairy with mossy-green skin, pointed ears, wings like dried leaves, and a cap made from a chestnut husk, adjusts the lamp wick with his tiny hands. Oil glistens on the lighthouse steps behind him. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
             "alt": "A fairy adjusts the lighthouse lamp wick as oil flows on the stairs",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-3453d9795c/scene_4_1.png"
+            "src": ""
           }
         }
       ]
@@ -75,7 +75,7 @@
           "illustration": {
             "description": "The lighthouse beam shines brilliantly across dark waters, illuminating three fishing boats heading safely to shore. Thistle, a tiny thorn fairy with mossy-green skin, pointed ears, wings like dried leaves, and a cap made from a chestnut husk, sits proudly on the lighthouse lens frame as stars twinkle in the night sky above. Golden age illustration, Arthur Rackham inspired, detailed pen work, watercolor washes, ornate fairy tale, timeless classic, decorative borders, enchanted scenes.",
             "alt": "A fairy rests as the lighthouse beam guides boats safely home under the stars",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-3453d9795c/scene_5_1.png"
+            "src": ""
           }
         }
       ]

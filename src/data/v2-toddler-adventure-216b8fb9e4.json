@@ -13,7 +13,7 @@
   "wordCount": 476,
   "readingLevel": "toddler",
   "synopsis": "A curious cat watches as young Malik tries to understand his new neighbor's peculiar habits through four seasons of hilarious mishaps in the golden pumpkin patch.",
-  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-adventure-216b8fb9e4/cover.png",
+  "coverImage": "",
   "chapters": [
     {
       "title": "Spring Sprouting",
@@ -24,7 +24,7 @@
             "description": "Treasure map style illustration of Malik with short twists, dark brown skin, and gentle expressive eyes tumbling from an overturned bucket in a golden pumpkin patch, with tiny green sprouts poking through rich soil, sepia tones with jewel-green accents for the plants, dotted trail showing his fall",
             "alt": "Malik falling off a bucket in the spring pumpkin patch",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-adventure-216b8fb9e4/scene_1_1.png"
+            "src": ""
           }
         },
         {
@@ -33,7 +33,7 @@
             "description": "Treasure map style illustration showing Malik with short twists, dark brown skin, and gentle expressive eyes sneezing dandelion seeds everywhere while Mrs. Chen tends her garden in background, aged parchment with compass roses, white seeds floating like snow against sepia tones",
             "alt": "Malik sneezing dandelion seeds in the garden",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-adventure-216b8fb9e4/scene_1_2.png"
+            "src": ""
           }
         }
       ]
@@ -47,7 +47,7 @@
             "description": "Treasure map style illustration of Malik with short twists, dark brown skin, and gentle expressive eyes doing yoga poses and falling into pumpkin vines, treasure map borders with dotted paths showing his wobbling movements, golden summer light in sepia tones with green jewel accents",
             "alt": "Malik attempting yoga and falling into pumpkin plants",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-adventure-216b8fb9e4/scene_2_1.png"
+            "src": ""
           }
         },
         {
@@ -56,7 +56,7 @@
             "description": "Treasure map style illustration showing Malik with short twists, dark brown skin, and gentle expressive eyes cross-eyed with a colorful butterfly on his nose, sitting among summer vegetables, hand-drawn map style with jewel-bright butterfly against aged parchment",
             "alt": "Malik sitting cross-eyed with a butterfly on his nose",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-adventure-216b8fb9e4/scene_2_2.png"
+            "src": ""
           }
         }
       ]
@@ -70,7 +70,7 @@
             "description": "Treasure map style illustration of Malik with short twists, dark brown skin, and gentle expressive eyes rolling down a hill while hugging a large pumpkin, autumn leaves swirling around, treasure map style with dotted trail lines, sepia tones with orange and gold jewel accents",
             "alt": "Malik rolling down a hill with a big pumpkin",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-adventure-216b8fb9e4/scene_3_1.png"
+            "src": ""
           }
         },
         {
@@ -79,7 +79,7 @@
             "description": "Treasure map style illustration showing Malik with short twists, dark brown skin, and gentle expressive eyes and Mrs. Chen sitting together painting jack-o'-lantern faces in the golden pumpkin patch at sunset, adventure cartography style with warm sepia tones and orange jewel accents, compass roses in corners",
             "alt": "Malik and Mrs. Chen painting pumpkins together at golden hour",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-adventure-216b8fb9e4/scene_3_2.png"
+            "src": ""
           }
         }
       ]
