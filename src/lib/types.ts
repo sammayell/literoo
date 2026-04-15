@@ -10,9 +10,14 @@ export interface BookIllustration {
   layout?: 'full-page' | 'half-page';
 }
 
+export interface BookNarration {
+  src?: string; // URL to MP3 (ElevenLabs TTS)
+}
+
 export interface BookPage {
   text: string;
   illustration?: BookIllustration;
+  narration?: BookNarration;
 }
 
 export interface BookChapter {
@@ -22,6 +27,7 @@ export interface BookChapter {
   // Chapter book format
   content?: string;
   illustrations?: BookIllustration[];
+  narration?: BookNarration;
 }
 
 export interface AccentIllustration {
@@ -53,6 +59,8 @@ export interface Book {
   metadata: BookMetadata;
   quiz?: BookQuiz;
   puzzle?: BookPuzzle;
+  narrationVoice?: string;
+  narrationComplete?: boolean;
 }
 
 // Reader mode is determined by book age tier

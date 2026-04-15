@@ -27,6 +27,7 @@ interface ReaderPage {
   illustrationAlt?: string;
   illustrationLayout?: string;
   illustrationSrc?: string;
+  narrationSrc?: string;
 }
 
 function flattenBookToPages(book: Book): ReaderPage[] {
@@ -55,6 +56,7 @@ function flattenBookToPages(book: Book): ReaderPage[] {
             illustrationAlt: page.illustration?.alt,
             illustrationLayout: page.illustration?.layout || "full-page",
             illustrationSrc: page.illustration?.src,
+            narrationSrc: page.narration?.src,
           });
         });
       }
@@ -65,6 +67,8 @@ function flattenBookToPages(book: Book): ReaderPage[] {
         chapterIndex: ci,
         chapterTitle: chapter.title,
         content: chapter.title,
+        // For chapter-style books the narration is for the whole chapter
+        narrationSrc: chapter.narration?.src,
       });
 
       if (chapter.pages) {
@@ -79,6 +83,7 @@ function flattenBookToPages(book: Book): ReaderPage[] {
             illustrationAlt: page.illustration?.alt,
             illustrationLayout: page.illustration?.layout,
             illustrationSrc: page.illustration?.src,
+            narrationSrc: page.narration?.src,
           });
         });
       } else if (chapter.content) {
@@ -238,25 +243,27 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
     updateBook(book.id, pages.length, { currentPage });
   }, [currentPage, book.id, pages.length, updateBook]);
 
-  // AI Read mode — TTS controls
+  // HTMLAudioElement used for ElevenLabs MP3 playback
+  const narrationAudioRef = useRef<HTMLAudioElement | null>(null);
+
+  // AI Read mode — prefers ElevenLabs MP3, falls back to browser TTS
   const startAIRead = useCallback(() => {
-    const tts = getTTS();
-    if (!tts.isSupported) return;
-
     const page = pages[currentPage];
-    if (!page || page.type !== "text") return;
+    if (!page || (page.type !== "text" && page.type !== "chapter-start")) return;
 
-    tts.setRate(ttsSpeed);
-    tts.onBoundary((event) => {
-      setHighlightedWordIndex(event.wordIndex);
-    });
-    tts.onEnd(() => {
+    // Stop anything that's currently playing
+    const tts = getTTS();
+    tts.stop();
+    if (narrationAudioRef.current) {
+      narrationAudioRef.current.pause();
+      narrationAudioRef.current = null;
+    }
+
+    const advanceToNext = () => {
       setHighlightedWordIndex(-1);
-      // Auto-advance to next page
       if (currentPage < pages.length - 1) {
         setTimeout(() => {
           goToPage(currentPage + 1);
-          // Continue reading on next page after a brief pause
           setTimeout(() => {
             if (aiReadActive) startAIRead();
           }, 500);
@@ -264,15 +271,50 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
       } else {
         setAiReadActive(false);
       }
-    });
+    };
 
+    // Prefer ElevenLabs high-quality MP3 narration if available
+    if (page.narrationSrc) {
+      const audio = new Audio(page.narrationSrc);
+      audio.playbackRate = ttsSpeed;
+      audio.onended = advanceToNext;
+      audio.onerror = () => {
+        // Fall back to browser TTS if MP3 fails to load
+        narrationAudioRef.current = null;
+        if (!tts.isSupported) {
+          setAiReadActive(false);
+          return;
+        }
+        tts.setRate(ttsSpeed);
+        tts.onBoundary((event) => setHighlightedWordIndex(event.wordIndex));
+        tts.onEnd(advanceToNext);
+        tts.speak(page.content);
+      };
+      narrationAudioRef.current = audio;
+      audio.play().catch(() => {
+        // Autoplay blocked — user needs to tap
+        setAiReadActive(false);
+      });
+      setAiReadActive(true);
+      return;
+    }
+
+    // Fallback: browser TTS
+    if (!tts.isSupported) return;
+    tts.setRate(ttsSpeed);
+    tts.onBoundary((event) => setHighlightedWordIndex(event.wordIndex));
+    tts.onEnd(advanceToNext);
     tts.speak(page.content);
     setAiReadActive(true);
-  }, [currentPage, pages, ttsSpeed, aiReadActive]);
+  }, [currentPage, pages, ttsSpeed, aiReadActive, goToPage]);
 
   const stopAIRead = useCallback(() => {
     const tts = getTTS();
     tts.stop();
+    if (narrationAudioRef.current) {
+      narrationAudioRef.current.pause();
+      narrationAudioRef.current = null;
+    }
     setAiReadActive(false);
     setHighlightedWordIndex(-1);
   }, []);
@@ -868,6 +910,9 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
                     View your reading progress →
                   </Link>
                 </div>
+
+                {/* More books to read */}
+                <MoreBooksToRead tier={book.ageTier} excludeId={book.id} />
               </div>
             ) : (() => {
               // Content page — build illustration + text blocks, then choose layout
@@ -1054,6 +1099,84 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
         style={{ color: "var(--reader-text)" }}
       >
         {currentPage + 1} of {totalPages}
+      </div>
+    </div>
+  );
+}
+
+interface RecommendedBook {
+  id: string;
+  title: string;
+  synopsis: string;
+  coverImage: string;
+  ageTier: string;
+  genre: string[];
+}
+
+function MoreBooksToRead({ tier, excludeId }: { tier: string; excludeId: string }) {
+  const [books, setBooks] = useState<RecommendedBook[]>([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    let alive = true;
+    fetch(`/api/books/more?tier=${tier}&exclude=${excludeId}&limit=4`)
+      .then((r) => (r.ok ? r.json() : { books: [] }))
+      .then((d) => {
+        if (alive) {
+          setBooks(d.books || []);
+          setLoading(false);
+        }
+      })
+      .catch(() => {
+        if (alive) setLoading(false);
+      });
+    return () => {
+      alive = false;
+    };
+  }, [tier, excludeId]);
+
+  if (loading || books.length === 0) return null;
+
+  return (
+    <div
+      className="animate-stagger-fade-up mt-12 pt-8 border-t max-w-2xl mx-auto"
+      style={{
+        borderColor: "color-mix(in srgb, var(--reader-text) 10%, transparent)",
+        animationDelay: "0.9s",
+        opacity: 0,
+      }}
+    >
+      <h3
+        className="text-sm font-bold uppercase tracking-wider mb-5"
+        style={{ color: "var(--reader-text-secondary)" }}
+      >
+        More to Read
+      </h3>
+      <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
+        {books.map((b) => (
+          <Link
+            key={b.id}
+            href={`/book/${b.id}`}
+            className="group block rounded-xl overflow-hidden bg-stone-100 hover:shadow-lg transition-shadow"
+          >
+            <div className="aspect-[3/4] overflow-hidden bg-stone-200 relative">
+              {b.coverImage && (
+                // eslint-disable-next-line @next/next/no-img-element
+                <img
+                  src={b.coverImage}
+                  alt={b.title}
+                  loading="lazy"
+                  className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                />
+              )}
+              <div className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/70 to-transparent p-2 pt-6">
+                <p className="text-xs font-semibold text-white line-clamp-2 drop-shadow">
+                  {b.title}
+                </p>
+              </div>
+            </div>
+          </Link>
+        ))}
       </div>
     </div>
   );

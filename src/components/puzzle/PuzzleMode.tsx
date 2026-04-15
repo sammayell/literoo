@@ -175,7 +175,7 @@ export default function PuzzleMode({ puzzle, bookId, pageTexts }: PuzzleModeProp
             Try Again
           </button>
           <a
-            href={`/read/${bookId}`}
+            href={`/book/${bookId}`}
             className="px-6 py-3 rounded-xl bg-brand-500 text-white font-semibold hover:bg-brand-600 transition-colors"
           >
             Back to Book
