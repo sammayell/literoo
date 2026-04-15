@@ -25,6 +25,9 @@
             "alt": "Nova holding a star map in front of the overgrown carousel",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-f743ca5e87/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-f743ca5e87/ch1_p1.mp3"
           }
         },
         {
@@ -34,6 +37,9 @@
             "alt": "Nova discovering the first glowing crystal sphere",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-f743ca5e87/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-f743ca5e87/ch1_p2.mp3"
           }
         }
       ]
@@ -48,6 +54,9 @@
             "alt": "Nova using the telescope while sitting on a carousel horse",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-f743ca5e87/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-f743ca5e87/ch2_p1.mp3"
           }
         }
       ]
@@ -62,6 +71,9 @@
             "alt": "Nova studying the alien communication device",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-f743ca5e87/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-f743ca5e87/ch3_p1.mp3"
           }
         }
       ]
@@ -76,6 +88,9 @@
             "alt": "Nova seeing another explorer in the magical mirror",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-f743ca5e87/scene_4_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-f743ca5e87/ch4_p1.mp3"
           }
         },
         {
@@ -85,6 +100,9 @@
             "alt": "Nova and Stellar riding the magical carousel together under starlight",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-f743ca5e87/scene_4_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-f743ca5e87/ch4_p2.mp3"
           }
         }
       ]
@@ -221,5 +239,7 @@
       }
     ]
   },
-  "_spec_character_name": "nova"
+  "_spec_character_name": "nova",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
