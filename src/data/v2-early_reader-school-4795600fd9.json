@@ -1,0 +1,269 @@
+{
+  "id": "v2-early_reader-school-4795600fd9",
+  "title": "When the Candle Knows",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "school",
+    "family"
+  ],
+  "wordCount": 1065,
+  "readingLevel": "Grade 1-2",
+  "synopsis": "Theo finds himself alone in the vast library after hours with only a single candle for light, where he overhears a secret conversation that changes everything. A wry tale of curiosity and discovery that unfolds backward and forward through one extraordinary evening.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-4795600fd9/cover.png",
+  "chapters": [
+    {
+      "title": "The Secret Floats Up",
+      "pages": [
+        {
+          "text": "The whispers stopped the exact moment Theo's shoe squeaked on the marble floor. Now, you might wonder how whispers can stop so suddenly, as if someone had turned off a faucet. But there Theo stood, candle flame dancing like a tiny ballerina, while two very important voices held their breath somewhere between the Ancient History and Applied Sciences sections. The vast library stretched around him like a cathedral made of books, each shelf reaching toward a ceiling lost in shadow. His short curly blonde hair caught the candlelight, and his round blue eyes grew wider as he realized he'd stumbled into something he absolutely wasn't supposed to hear.",
+          "illustration": {
+            "description": "Theo, a boy with short curly blonde hair, light skin, and round blue eyes, stands frozen in a vast dark library holding a flickering candle. Towering bookshelves stretch endlessly around him, disappearing into shadows. His expression shows surprise and curiosity. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
+            "alt": "Theo frozen with candle in dark library between towering bookshelves",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-4795600fd9/scene_1_1.png"
+          }
+        },
+        {
+          "text": "The first voice belonged to Mrs. Henderson, the head librarian, though it sounded nothing like her usual voice that reminded people to return books on time. This voice was worried. The second voice belonged to his father, which was particularly puzzling since his father was supposed to be at home making dinner and asking where Theo had wandered off to. \"The whole wing will have to be closed,\" his father was saying. \"There's no other way.\" \"But the children's reading program starts Monday,\" Mrs. Henderson replied. \"Where will we put forty-seven excited young scientists?\" Young scientists? Theo's mind began spinning like the wheels he'd been building with his construction set.",
+          "illustration": {
+            "description": "Theo, a boy with short curly blonde hair, light skin, and round blue eyes, peers around a bookshelf corner, his candle casting long shadows. In the distance, silhouettes of two adults can be seen between the stacks. Mathematical equations and scientific formulas are chalked faintly on the dark background. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
+            "alt": "Theo peeking around bookshelf at two adult silhouettes in distance",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-4795600fd9/scene_1_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "How Theo Got Lost (And Found)",
+      "pages": [
+        {
+          "text": "But let's back up, shall we? Because stories that begin in the middle are like puzzles missing their corner pieces. Two hours earlier, Theo had been conducting what he called an \"important investigation\" into whether the library's old elevator made different sounds depending on how many books were inside it. This is the sort of question that occurs to boys who notice that empty cardboard boxes sound different when you tap them than full ones. The elevator, as it turned out, was far more interested in getting stuck between the second and third floors than in contributing to Theo's research. Which is how a perfectly ordinary Tuesday afternoon became decidedly unordinary.",
+          "illustration": {
+            "description": "Theo, a boy with short curly blonde hair, light skin, and round blue eyes, stands next to an old-fashioned elevator with brass buttons, holding a small notebook. Books are scattered around his feet. Gear diagrams and pulley sketches are drawn on the chalkboard background. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
+            "alt": "Theo standing by old elevator with notebook and scattered books",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-4795600fd9/scene_2_1.png"
+          }
+        },
+        {
+          "text": "The maintenance man who eventually freed the elevator had looked at Theo with the expression adults use when they discover children in places children aren't expected to be. \"Library's closing, son,\" he'd said, though he said it kindly. But Theo had left his backpack in the reading room, and his construction set was in his backpack, and his construction set contained the very important gear he'd been planning to test with different sized wheels. One thing led to another, as things do, and by the time Theo retrieved his belongings, the lights were out and the doors were locked. All the doors, as it turned out, except the one that led to the basement archives.",
+          "illustration": {
+            "description": "Theo, a boy with short curly blonde hair, light skin, and round blue eyes, walks down stone steps carrying his backpack and the flickering candle. Ancient-looking doorways and passages stretch ahead of him. Mechanical drawings of gears and wheels are chalked on the walls. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
+            "alt": "Theo walking down basement steps with candle and backpack",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-4795600fd9/scene_2_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Basement Tells Stories",
+      "pages": [
+        {
+          "text": "The basement of the library, Theo discovered, was nothing like the bright reading rooms upstairs. It smelled like old paper and secrets, and it was full of the kind of books that libraries keep but don't particularly want people to find easily. The candle he'd found in the emergency kit cast a small circle of warm light that made everything beyond it seem twice as mysterious. Theo had been examining a fascinating book about how the library's heating system worked (with detailed diagrams of pipes and boilers that were far more interesting than anyone might expect) when he heard the voices drift down from somewhere above.",
+          "illustration": {
+            "description": "Theo, a boy with short curly blonde hair, light skin, and round blue eyes, sits cross-legged on the floor reading a large book by candlelight. Ancient books and scrolls surround him in the basement archives. Pipe diagrams and heating system sketches are drawn in chalk around the edges. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
+            "alt": "Theo reading by candlelight surrounded by old books in basement",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-4795600fd9/scene_3_1.png"
+          }
+        },
+        {
+          "text": "That's when his natural curiosity (the same curiosity that got him stuck in elevators) had led him up the narrow service stairs, through a door marked \"Authorized Personnel Only,\" and into the main library where Mrs. Henderson and his father were having their very secret conversation. Now you might think Theo should have announced himself immediately. But here's something about secrets: they have a way of making you hold very still, even when you know you shouldn't be listening.",
+          "illustration": {
+            "description": "Theo, a boy with short curly blonde hair, light skin, and round blue eyes, climbs narrow service stairs with his candle, approaching a door marked with official-looking text. The stairway is lined with pipes and mechanical elements. Scientific formulas and question marks are chalked around the scene. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
+            "alt": "Theo climbing service stairs toward marked door with candle",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-4795600fd9/scene_3_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "What the Secret Means",
+      "pages": [
+        {
+          "text": "\"The structural engineer says the main beam is compromised,\" Theo's father continued, and Theo realized with a start that his father wasn't just any parent having an unexpected conversation. He was talking like someone who knew about buildings and safety and important decisions. \"We can shore it up temporarily, but the whole children's wing needs renovation.\" Mrs. Henderson sighed the kind of sigh that carries the weight of forty-seven disappointed young scientists. \"The timing couldn't be worse,\" she said. \"We've been planning the Junior Inventors Workshop for months.\" Theo's heart jumped. He'd been looking forward to that workshop since he'd first seen the poster with its promises of simple machines and basic circuits.",
+          "illustration": {
+            "description": "Theo, a boy with short curly blonde hair, light skin, and round blue eyes, hides behind a bookshelf holding his candle close, listening intently. In the background, two adult figures are shown in conversation near architectural blueprints spread on a table. Structural diagrams and engineering symbols are chalked around the scene. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
+            "alt": "Theo hiding behind bookshelf while adults discuss blueprints at table",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-4795600fd9/scene_4_1.png"
+          }
+        },
+        {
+          "text": "\"What if,\" Mrs. Henderson said slowly, \"we moved the workshop to the basement archives? I know it's unconventional, but there's plenty of space, and it might actually be perfect for hands-on experiments.\" Theo's father was quiet for a long moment. \"It could work,\" he said finally. \"The lighting isn't great, but we could bring in some lamps. And the kids might actually prefer it – feels more like a real laboratory.\" \"More mysterious,\" Mrs. Henderson agreed. \"Young scientists do love a good mystery.\" That's when Theo realized something important: sometimes the most interesting discoveries happen in the most unexpected places.",
+          "illustration": {
+            "description": "Theo, a boy with short curly blonde hair, light skin, and round blue eyes, emerges from behind the bookshelf with his candle, his expression bright with understanding and excitement. The basement entrance is visible in the background, with light streaming down the stairs. Laboratory equipment sketches and light bulb drawings are chalked around the scene. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
+            "alt": "Theo stepping out from hiding with excited expression, basement stairs visible",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-4795600fd9/scene_4_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "The Candle Goes Out",
+      "pages": [
+        {
+          "text": "\"Theo?\" His father's voice carried clearly across the library now. \"Is that you over there?\" There was no point hiding anymore, and truth be told, Theo was bursting with too many questions to stay hidden anyway. He walked toward them, his candle flame steady and bright. \"I got stuck in the elevator,\" he explained, which was true enough. \"And then I was reading about the heating system, which is actually very interesting, and I heard you talking.\" Mrs. Henderson and his father exchanged the kind of look adults share when they're trying to decide whether to be worried or impressed.",
+          "illustration": {
+            "description": "Theo, a boy with short curly blonde hair, light skin, and round blue eyes, walks toward two adult figures (his father and Mrs. Henderson) holding his candle high. The vast library surrounds them with towering shelves. His expression is curious and honest. Heating system diagrams and pipe layouts are chalked faintly in the background. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
+            "alt": "Theo approaching two adults in the library holding his candle",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-4795600fd9/scene_5_1.png"
+          }
+        },
+        {
+          "text": "\"Well then,\" Mrs. Henderson said, \"what do you think of our idea? A Junior Inventors Workshop in the basement?\" Theo considered this seriously, because good questions deserve serious thought. \"I think,\" he said slowly, \"that the basement already feels like a place where important discoveries happen. And I think forty-seven young scientists would like having their own secret laboratory.\" He paused, watching his candle flame dance. \"Also, the acoustics down there are really interesting. Sound travels differently when you're surrounded by that much knowledge.\" His father smiled. \"I think,\" he said, \"we've found our solution.\" And as if it had been waiting for exactly this moment, Theo's candle flickered once and went out, leaving them in darkness that somehow felt full of possibility.",
+          "illustration": {
+            "description": "Theo, a boy with short curly blonde hair, light skin, and round blue eyes, stands between two adults as his candle flame flickers and dies, leaving just a thin trail of smoke. All three figures are silhouetted against the vast dark library. Stars and constellation patterns are chalked subtly in the darkness around them, suggesting infinite possibility. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
+            "alt": "Theo between adults as candle goes out in dark library with possibility in the air",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-4795600fd9/scene_5_2.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "curiosity",
+      "problem-solving",
+      "discovery",
+      "STEM learning"
+    ],
+    "lessonElements": [
+      "observation skills",
+      "asking questions",
+      "finding creative solutions"
+    ],
+    "vocabulary": [
+      "structural engineer",
+      "compromised",
+      "acoustics",
+      "unconventional",
+      "archives"
+    ],
+    "readingSupports": [
+      "context clues",
+      "sequential narrative",
+      "cause and effect"
+    ],
+    "coverPrompt": {
+      "description": "Theo, a boy with short curly blonde hair, light skin, and round blue eyes, stands in a vast dark library holding a flickering candle. Towering bookshelves stretch into shadows around him. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
+      "alt": "A young boy with blonde curly hair holding a candle in a dark library"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Why was Theo in the library after closing time?",
+        "choices": [
+          "He got stuck in the elevator and couldn't leave",
+          "He was hiding from his parents",
+          "He worked there with Mrs. Henderson"
+        ],
+        "correctIndex": 0,
+        "explanation": "Theo got stuck in the elevator while investigating how it sounded with different amounts of books, and by the time he was freed and got his backpack, the library was locked."
+      },
+      {
+        "id": "q2",
+        "question": "What was Theo investigating with the elevator?",
+        "choices": [
+          "How fast it could go",
+          "Whether it made different sounds with different amounts of books inside",
+          "How to fix broken elevators"
+        ],
+        "correctIndex": 1,
+        "explanation": "Theo was curious about whether the elevator made different sounds depending on how many books were inside, like how empty and full boxes sound different when tapped."
+      },
+      {
+        "id": "q3",
+        "question": "What problem were Mrs. Henderson and Theo's father trying to solve?",
+        "choices": [
+          "The library was too crowded",
+          "The children's wing needed renovation so the Junior Inventors Workshop couldn't happen there",
+          "They lost the workshop materials"
+        ],
+        "correctIndex": 1,
+        "explanation": "The main beam was compromised and the children's wing needed renovation, so they needed a new place for the Junior Inventors Workshop."
+      },
+      {
+        "id": "q4",
+        "question": "What solution did they decide on?",
+        "choices": [
+          "Cancel the workshop",
+          "Move the workshop to the basement archives",
+          "Hold it outside instead"
+        ],
+        "correctIndex": 1,
+        "explanation": "Mrs. Henderson suggested moving the workshop to the basement archives, and everyone agreed it would be like having a secret laboratory."
+      },
+      {
+        "id": "q5",
+        "question": "How did Theo feel about the basement workshop idea?",
+        "choices": [
+          "He thought it was a bad idea",
+          "He was excited and thought it would feel like a secret laboratory",
+          "He didn't care either way"
+        ],
+        "correctIndex": 1,
+        "explanation": "Theo thought the basement already felt like a place where important discoveries happen and that young scientists would like having their own secret laboratory."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "squeaked",
+            "distractors": [
+              "whispered",
+              "echoed"
+            ]
+          },
+          {
+            "wordIndex": 45,
+            "correctWord": "candle",
+            "distractors": [
+              "flashlight",
+              "lantern"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 23,
+            "correctWord": "elevator",
+            "distractors": [
+              "staircase",
+              "escalator"
+            ]
+          },
+          {
+            "wordIndex": 67,
+            "correctWord": "research",
+            "distractors": [
+              "homework",
+              "reading"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "theo"
+}
