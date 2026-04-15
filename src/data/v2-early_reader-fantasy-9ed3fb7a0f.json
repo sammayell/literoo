@@ -23,6 +23,9 @@
             "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf discovers a glowing silver box among wet pebbles on a beach, dark storm clouds gathering in the background, enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage",
             "alt": "Pip finding the first magical gift on the stormy beach",
             "layout": "full-page"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fantasy-9ed3fb7a0f/ch1_p1.mp3"
           }
         },
         {
@@ -32,6 +35,9 @@
             "alt": "Pip with the second and third gifts as the storm intensifies",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-9ed3fb7a0f/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fantasy-9ed3fb7a0f/ch1_p2.mp3"
           }
         }
       ]
@@ -45,6 +51,9 @@
             "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf sits surrounded by magical gifts while a red fox approaches through heavy rain on the pebble beach, enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage",
             "alt": "Fox approaching Pip who is surrounded by the magical gifts",
             "layout": "full-page"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fantasy-9ed3fb7a0f/ch2_p1.mp3"
           }
         },
         {
@@ -54,6 +63,9 @@
             "alt": "Pip looking surprised as Fox explains about his brave act",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-9ed3fb7a0f/scene_2_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fantasy-9ed3fb7a0f/ch2_p2.mp3"
           }
         }
       ]
@@ -67,6 +79,9 @@
             "description": "A small fluffy brown bunny with tall floppy ears, bright curious black eyes, a tiny pink nose, wearing a soft green scarf is surrounded by grateful forest animals including badger, squirrel, and crow on the stormy pebble beach, enchanted forest, glowing mushrooms, fairy lights, mystical creatures, rich greens and purples, golden sparkles, Studio Ghibli inspired, magical atmosphere, detailed foliage",
             "alt": "Various animals gathering around Pip on the beach",
             "layout": "full-page"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fantasy-9ed3fb7a0f/ch3_p1.mp3"
           }
         },
         {
@@ -76,6 +91,9 @@
             "alt": "Pip looking into the magical mirror surrounded by all the gifts and his friends",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-9ed3fb7a0f/scene_3_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fantasy-9ed3fb7a0f/ch3_p2.mp3"
           }
         },
         {
@@ -85,6 +103,9 @@
             "alt": "Pip accepting his gifts as the storm clears and sunshine returns",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-9ed3fb7a0f/scene_3_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fantasy-9ed3fb7a0f/ch3_p3.mp3"
           }
         }
       ]
@@ -209,5 +230,7 @@
       }
     ]
   },
-  "_spec_character_name": ""
+  "_spec_character_name": "",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }

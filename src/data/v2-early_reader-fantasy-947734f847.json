@@ -25,6 +25,9 @@
             "alt": "Pixel the robot looking up at cherry blossoms with pink petals falling around her",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-947734f847/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fantasy-947734f847/ch1_p1.mp3"
           }
         },
         {
@@ -33,6 +36,9 @@
             "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands rolling on small wheels between cherry tree trunks, with bumblebees flying around the blossoms and a family of rabbits in the grass, enchanted forest atmosphere with glowing mushrooms, fairy lights in the branches, rich greens and purples, golden sparkles, Studio Ghibli inspired magical setting with detailed foliage, the robot appearing curious and determined",
             "alt": "Pixel rolling between cherry trees while bees and rabbits go about their normal activities",
             "layout": "full-page"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fantasy-947734f847/ch1_p2.mp3"
           }
         }
       ]
@@ -47,6 +53,9 @@
             "alt": "Pixel examining a magical circle of silver grass with fairy dust sparkles",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-947734f847/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fantasy-947734f847/ch2_p1.mp3"
           }
         },
         {
@@ -56,6 +65,9 @@
             "alt": "Pixel using sensor beams to examine tiny fairy footprints in the magical grass",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-947734f847/scene_2_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fantasy-947734f847/ch2_p2.mp3"
           }
         }
       ]
@@ -69,6 +81,9 @@
             "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands reaching into a hollow of an ancient cherry tree to retrieve a gleaming silver bell no bigger than an acorn, morning light streaming through pink blossoms, the bell catching and reflecting light like captured starlight, enchanted forest setting with glowing mushrooms, fairy lights, rich greens and purples, golden sparkles, Studio Ghibli inspired magical atmosphere with detailed foliage",
             "alt": "Pixel carefully retrieving a magical silver bell from inside a hollow cherry tree",
             "layout": "full-page"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fantasy-947734f847/ch3_p1.mp3"
           }
         },
         {
@@ -77,6 +92,9 @@
             "description": "A tiny cheerful robot with a pastel-pink metal body, antenna with a star on top, glowing heart-shaped eyes, and tiny articulated hands standing beside the grandmother cherry tree as a silver bell rings in a carved notch, three tiny fairies with shimmering rainbow wings fluttering nearby, pink petals swirling through the air like musical notes, all the cherry blossoms glowing with renewed life and humming with visible sound waves, enchanted forest atmosphere with glowing mushrooms, fairy lights, rich greens and purples, golden sparkles everywhere, Studio Ghibli inspired magical celebration scene with detailed foliage",
             "alt": "Pixel celebrating with three tiny fairies as the cherry grove comes alive with music and dancing petals",
             "layout": "full-page"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fantasy-947734f847/ch3_p2.mp3"
           }
         },
         {
@@ -86,6 +104,9 @@
             "alt": "Pixel joyfully rolling through a cherry grove celebration with all the forest creatures dancing to the restored music",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-947734f847/scene_3_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fantasy-947734f847/ch3_p3.mp3"
           }
         }
       ]
@@ -219,5 +240,7 @@
       }
     ]
   },
-  "_spec_character_name": ""
+  "_spec_character_name": "",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
