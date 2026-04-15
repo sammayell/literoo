@@ -25,6 +25,9 @@
             "alt": "Hugo with his tablet in a busy workshop while his parents work on inventions",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-968f25671d/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-968f25671d/ch1_p1.mp3"
           }
         },
         {
@@ -34,6 +37,9 @@
             "alt": "Hugo examining a mysterious package in the workshop",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-968f25671d/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-968f25671d/ch1_p2.mp3"
           }
         },
         {
@@ -43,6 +49,9 @@
             "alt": "Hugo holding a brass compass pointing toward a workshop window",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-968f25671d/scene_1_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-968f25671d/ch1_p3.mp3"
           }
         }
       ]
@@ -57,6 +66,9 @@
             "alt": "Hugo with multiple mysterious gifts on a workshop table",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-968f25671d/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-968f25671d/ch2_p1.mp3"
           }
         },
         {
@@ -66,6 +78,9 @@
             "alt": "Hugo using the magnifying glass to discover patterns in the workshop",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-968f25671d/scene_2_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-968f25671d/ch2_p2.mp3"
           }
         },
         {
@@ -75,6 +90,9 @@
             "alt": "Hugo waiting by the window with his collection of mysterious gifts",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-968f25671d/scene_2_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-968f25671d/ch2_p3.mp3"
           }
         }
       ]
@@ -89,6 +107,9 @@
             "alt": "Hugo reading the mysterious note with his journal and all seven gifts",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-968f25671d/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-968f25671d/ch3_p1.mp3"
           }
         },
         {
@@ -98,6 +119,9 @@
             "alt": "Hugo writing in his journal in the creative workshop atmosphere",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-968f25671d/scene_3_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-968f25671d/ch3_p2.mp3"
           }
         },
         {
@@ -107,6 +131,9 @@
             "alt": "Hugo happily creating in the workshop surrounded by all his gifts and tools",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-968f25671d/scene_3_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-968f25671d/ch3_p3.mp3"
           }
         }
       ]
@@ -265,5 +292,7 @@
       }
     ]
   },
-  "_spec_character_name": "hugo"
+  "_spec_character_name": "hugo",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }

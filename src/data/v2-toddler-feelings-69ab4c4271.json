@@ -25,6 +25,9 @@
             "alt": "A ghost and confused fish discovering a door in the coral reef",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-feelings-69ab4c4271/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-toddler-feelings-69ab4c4271/ch1_p1.mp3"
           }
         }
       ]
@@ -39,6 +42,9 @@
             "alt": "The ghost circling the door as fish swim beneath it in summer light",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-feelings-69ab4c4271/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-toddler-feelings-69ab4c4271/ch2_p1.mp3"
           }
         }
       ]
@@ -53,6 +59,9 @@
             "alt": "The ghost reading with sea otters in a cozy underwater room beyond the door",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-feelings-69ab4c4271/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-toddler-feelings-69ab4c4271/ch3_p1.mp3"
           }
         }
       ]
@@ -158,5 +167,7 @@
       }
     ]
   },
-  "_spec_character_name": "boo"
+  "_spec_character_name": "boo",
+  "narrationVoice": "piTKgcLEGmPE4e6mEKli",
+  "narrationComplete": true
 }
