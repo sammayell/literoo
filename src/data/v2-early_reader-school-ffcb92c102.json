@@ -13,7 +13,7 @@
   "wordCount": 999,
   "readingLevel": "Grade 1-2",
   "synopsis": "When Cobble the gnome overhears a secret about his new classmate in their magical invention workshop, he must decide whether to help someone who seems very different from himself.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-ffcb92c102/cover.png",
   "chapters": [
     {
       "title": "Chapter 1: Behind the Copper Pipes",
@@ -24,7 +24,7 @@
             "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap crouched behind large copper pipes in a cluttered workshop. Steam and gears visible around him, with warm lighting filtering through the mechanical chaos. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Cobble hiding behind copper pipes in the workshop",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-ffcb92c102/scene_1_1.png"
           }
         }
       ]
@@ -38,7 +38,7 @@
             "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap standing in a vast, cluttered workshop filled with magical inventions. Tables overflow with mechanical contraptions, springs, and various tools. Professor Tinker, a kind woman with large spectacles, gestures welcomingly. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Cobble entering the magical invention workshop",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-ffcb92c102/scene_2_1.png"
           }
         },
         {
@@ -47,7 +47,7 @@
             "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap watching a small, nervous lightning bug who glows softly in a corner of the workshop. Other magical students work at various tables in the background. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Cobble observing the shy lightning bug Spark",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-ffcb92c102/scene_2_2.png"
           }
         }
       ]
@@ -61,7 +61,7 @@
             "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap sitting at a workshop table covered in invention materials. Professor Tinker stands at the front with a magical wrench, while various magical students work around the room. A darkened corner shows where Spark has gone invisible. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "The professor announcing the assignment while Cobble notices Spark has gone dark",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-ffcb92c102/scene_3_1.png"
           }
         },
         {
@@ -70,7 +70,7 @@
             "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap working on a mechanical spider-like device at his workbench. The workshop buzzes with activity around him, steam rising from various inventions, with the copper pipes visible in the background. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Cobble working on his Helping Hand Helper invention",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-ffcb92c102/scene_3_2.png"
           }
         }
       ]
@@ -84,7 +84,7 @@
             "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap standing near a broken clock tower, speaking gently to a nervous lightning bug whose light flickers unpredictably. The workshop setting shows scattered invention parts around them. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Cobble comforting Spark by the broken clock tower",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-ffcb92c102/scene_4_1.png"
           }
         },
         {
@@ -93,7 +93,7 @@
             "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap sitting on a crate next to his mechanical spider device, which is clumsily trying to handle an egg. Spark hovers nearby, her light beginning to stabilize slightly. Workshop tools and inventions surround them. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Cobble explaining his invention problems to Spark",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-ffcb92c102/scene_4_2.png"
           }
         }
       ]
@@ -107,7 +107,7 @@
             "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap working alongside a glowing lightning bug, their inventions working in harmony. The mechanical spider responds to Spark's light signals while handling delicate objects. The workshop scene shows their successful collaboration. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Cobble and Spark working together successfully",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-ffcb92c102/scene_5_1.png"
           }
         },
         {
@@ -116,7 +116,7 @@
             "description": "A small friendly gnome with a round stone-grey body, white beard, bright black eyes, and a red pointy cap walking out of the workshop with Spark the lightning bug glowing happily beside him. Professor Tinker watches approvingly in the background. The workshop shows the success of their collaboration. Chalkboard style, chalk drawings, dark green board, white and colored chalk, equations doodles, school themed, artistic warm, dusty texture, hand-drawn on board.",
             "alt": "Cobble and Spark leaving the workshop as friends",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-ffcb92c102/scene_5_2.png"
           }
         }
       ]
