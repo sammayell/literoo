@@ -13,7 +13,7 @@
   "wordCount": 966,
   "readingLevel": "Grade 1-2",
   "synopsis": "When Wind the wind spirit receives mysterious gifts over seven days at a snowbound cabin, he follows clues on an old map - but discovers the map has one crucial mistake that leads to an unexpected scientific discovery.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-2e1e281e9b/cover.png",
   "chapters": [
     {
       "title": "The First Gift",
@@ -24,7 +24,7 @@
             "description": "A treasure map style illustration showing a small wind spirit shaped like a swirling grey-white breeze with leaves and twigs spinning inside, two bright mischievous eyes peeking through, floating near a crackling stone fireplace in a cozy cabin, examining an aged parchment map with compass roses and dotted trails, sepia tones with warm orange firelight",
             "alt": "Wind examining the mysterious map by the fireplace",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-2e1e281e9b/scene_1_1.png"
           }
         }
       ]
@@ -38,7 +38,7 @@
             "description": "A treasure map style illustration showing a small wind spirit shaped like a swirling grey-white breeze with leaves and twigs spinning inside, two bright mischievous eyes peeking through, floating above a wooden table with two glass bottles containing swirling water and shimmering colorful air, aged parchment map with compass roses spread below, morning sunlight streaming through cabin windows in sepia tones",
             "alt": "Wind examining the magical bottles on the cabin table",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-2e1e281e9b/scene_2_1.png"
           }
         }
       ]
@@ -52,7 +52,7 @@
             "description": "A treasure map style illustration showing a small wind spirit shaped like a swirling grey-white breeze with leaves and twigs spinning inside, two bright mischievous eyes peeking through, floating near a stone mantelpiece with five mysterious scientific gifts arranged above a crackling fire, aged parchment map with compass roses and dotted trails spread nearby, sepia tones with warm firelight and jewel accents",
             "alt": "Wind studying the collection of scientific gifts on the mantelpiece",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-2e1e281e9b/scene_3_1.png"
           }
         }
       ]
@@ -66,7 +66,7 @@
             "description": "A treasure map style illustration showing a small wind spirit shaped like a swirling grey-white breeze with leaves and twigs spinning inside, two bright mischievous eyes peeking through, floating near the eastern wall of a cabin while holding a small telescope, aged parchment map with compass roses and dotted trails visible nearby, showing the rotated compass direction, sepia tones with jewel accents",
             "alt": "Wind discovering the map's rotated compass system",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-2e1e281e9b/scene_4_1.png"
           }
         }
       ]
@@ -80,7 +80,7 @@
             "description": "A treasure map style illustration showing a small wind spirit shaped like a swirling grey-white breeze with leaves and twigs spinning inside, two bright mischievous eyes peeking through, floating in an underground laboratory beneath cabin floorboards, surrounded by scientific instruments, weather charts, bottles, and an open green leather journal, aged parchment map style with sepia tones and jewel accents",
             "alt": "Wind discovering the hidden laboratory and final journal gift",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-2e1e281e9b/scene_5_1.png"
           }
         }
       ]
