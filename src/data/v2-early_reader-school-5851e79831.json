@@ -25,6 +25,9 @@
             "alt": "Kofi and Ms. Chen in the worried rooftop garden",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-5851e79831/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-5851e79831/ch1_p1.mp3"
           }
         },
         {
@@ -34,6 +37,9 @@
             "alt": "Kofi looking at the garden rescue list",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-5851e79831/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-5851e79831/ch1_p2.mp3"
           }
         }
       ]
@@ -48,6 +54,9 @@
             "alt": "Kofi talking to his friends in the classroom",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-5851e79831/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-5851e79831/ch2_p1.mp3"
           }
         },
         {
@@ -57,6 +66,9 @@
             "alt": "The friends planning while the seed delivery arrives",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-5851e79831/scene_2_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-5851e79831/ch2_p2.mp3"
           }
         }
       ]
@@ -71,6 +83,9 @@
             "alt": "Busy rooftop garden with students working to save it",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-5851e79831/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-5851e79831/ch3_p1.mp3"
           }
         },
         {
@@ -80,6 +95,9 @@
             "alt": "Kofi and friends waving to supportive neighbors",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-5851e79831/scene_3_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-5851e79831/ch3_p2.mp3"
           }
         }
       ]
@@ -94,6 +112,9 @@
             "alt": "Children racing to finish the garden before sunset",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-5851e79831/scene_4_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-5851e79831/ch4_p1.mp3"
           }
         },
         {
@@ -103,6 +124,9 @@
             "alt": "The landlord examining the garden as sunset approaches",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-5851e79831/scene_4_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-5851e79831/ch4_p2.mp3"
           }
         }
       ]
@@ -117,6 +141,9 @@
             "alt": "The landlord agreeing to keep the garden as the sun sets",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-5851e79831/scene_5_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-5851e79831/ch5_p1.mp3"
           }
         },
         {
@@ -126,6 +153,9 @@
             "alt": "The winter garden blooming with Kofi caring for it",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-school-5851e79831/scene_5_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-school-5851e79831/ch5_p2.mp3"
           }
         }
       ]
@@ -249,5 +279,7 @@
       }
     ]
   },
-  "_spec_character_name": "kofi"
+  "_spec_character_name": "kofi",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
