@@ -25,6 +25,9 @@
             "alt": "Kettle watching upward snow through bakery window while bakers work",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-family-6e07a2b827/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-toddler-family-6e07a2b827/ch1_p1.mp3"
           }
         },
         {
@@ -34,6 +37,9 @@
             "alt": "Kettle trying to show her busy baker siblings the upward snow",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-family-6e07a2b827/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-toddler-family-6e07a2b827/ch1_p2.mp3"
           }
         }
       ]
@@ -48,6 +54,9 @@
             "alt": "Kettle in cold storage watching snow spell out SHARE in the air",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-family-6e07a2b827/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-toddler-family-6e07a2b827/ch2_p1.mp3"
           }
         },
         {
@@ -57,6 +66,9 @@
             "alt": "Kettle and her siblings celebrating together as the magical snow returns to normal",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-family-6e07a2b827/scene_2_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-toddler-family-6e07a2b827/ch2_p2.mp3"
           }
         }
       ]
@@ -165,5 +177,7 @@
       }
     ]
   },
-  "_spec_character_name": "kettle"
+  "_spec_character_name": "kettle",
+  "narrationVoice": "piTKgcLEGmPE4e6mEKli",
+  "narrationComplete": true
 }
