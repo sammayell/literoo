@@ -24,6 +24,9 @@
             "description": "Bramble, a young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes, sits on a tiny platform of broken twigs high in the rainforest canopy. He's scratching symbols onto a large banana leaf with a stick, surrounded by emerald green leaves and dangling vines. Warm orange sunlight filters through the misty canopy.",
             "alt": "A raccoon writing on a banana leaf while perched precariously on broken branches",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-3723151055/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-family-3723151055/ch1_p1.mp3"
           }
         }
       ]
@@ -37,6 +40,9 @@
             "description": "Kiki, a bright toucan with a large orange beak, hovers near Bramble, a young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes. Bramble is hanging upside-down from a vine, gesticulating wildly while Kiki drops more tangled vines that are getting all twisted around both of them. The rainforest canopy glows with warm yellows and oranges.",
             "alt": "A toucan dropping tangled vines to a raccoon who is hanging upside-down and gesturing",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-3723151055/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-family-3723151055/ch2_p1.mp3"
           }
         }
       ]
@@ -50,6 +56,9 @@
             "description": "Bramble, a young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes, is covered in purple berry juice and holding up a leaf covered in simple drawings. Berry pulp and coconut pieces are scattered around his tiny platform. The warm yellow sunlight makes the berry stains look golden against his grey fur.",
             "alt": "A berry-stained raccoon holding up a leaf with simple drawings while coconut pieces fall around him",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-3723151055/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-family-3723151055/ch3_p1.mp3"
           }
         }
       ]
@@ -63,6 +72,9 @@
             "description": "Bramble, a young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes, sits at a makeshift table made of large leaves with Kiki the toucan and her colorful flock. They're sharing a feast of tropical fruits in the golden morning light filtering through the canopy. Everyone is laughing as Bramble demonstrates hanging upside-down while eating a mango.",
             "alt": "A raccoon and several toucans sharing breakfast together in the treetops with tropical fruit scattered around",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-family-3723151055/scene_4_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-family-3723151055/ch4_p1.mp3"
           }
         }
       ]
@@ -194,5 +206,7 @@
       }
     ]
   },
-  "_spec_character_name": "bramble"
+  "_spec_character_name": "bramble",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
