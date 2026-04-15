@@ -1,0 +1,207 @@
+{
+  "id": "v2-early_reader-science-8bfb175482",
+  "title": "Secrets Between the Rocks",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "science",
+    "animals"
+  ],
+  "wordCount": 524,
+  "readingLevel": "Grade 1",
+  "synopsis": "When Emma tells a small lie about cleaning up the tide pools, a wise hermit crab watches as her secret grows bigger through the seasons, threatening the tiny creatures who call the rocky shore home.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-8bfb175482/cover.png",
+  "chapters": [
+    {
+      "title": "Spring Whispers",
+      "pages": [
+        {
+          "text": "I watched from my shell-house as the child with golden hair crouched beside our tide pool kingdom. The spring waters sparkled with new life—baby anemones unfurling like green flowers, tiny periwinkles beginning their slow dance across the rocks. Emma's bright blue eyes grew wide as she discovered our secret world. \"I promise I'll keep you all safe,\" she whispered to the creatures, but her mother called from the cliff path. \"Did you clean up that trash from the beach?\" Emma glanced at the plastic bottles still hidden behind the big boulder. \"Yes, Mama,\" she called back, her cheeks growing pink as the sunset anemones. I tucked deeper into my borrowed shell. Some promises are easier to make than keep.",
+          "illustration": {
+            "description": "Emma (straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks) kneeling beside a spring tide pool filled with baby sea anemones and small creatures. A wise hermit crab observes from a nearby rock. Hidden plastic bottles can be seen behind a large boulder. The scene has a scientific wonder quality with magnifying views of tiny organisms.",
+            "alt": "Emma making promises to tide pool creatures while trash remains hidden nearby",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-8bfb175482/scene_1_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Summer Secrets",
+      "pages": [
+        {
+          "text": "The long summer days brought more visitors to our rocky shore. I scuttled between the warm pools, watching Emma return again and again. She brought her notebook now, drawing pictures of us—the way the sea stars clung to rocks, how the mussels filtered tiny food from the water. But the plastic bottles behind the boulder had grown into a pile. Other children left more trash, thinking no one would notice. Emma's secret grew heavier, like the thick summer air before a storm. \"I'll clean it up tomorrow,\" she whispered to the hermit crabs during one visit. But tomorrow came and went like the tide. The little creatures began to struggle. A young crab got tangled in fishing line. I watched Emma's blue eyes fill with worry. Sometimes the smallest lies cast the longest shadows.",
+          "illustration": {
+            "description": "Summer scene with Emma (straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks) sketching in a notebook beside the tide pools. The trash pile has grown larger, and a small crab appears tangled in fishing line. The hermit crab narrator watches with concern. Bright summer sunlight creates harsh shadows across the scene.",
+            "alt": "Emma drawing tide pool creatures while trash accumulates and wildlife struggles",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-8bfb175482/scene_2_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Autumn's Truth",
+      "pages": [
+        {
+          "text": "The autumn storms came early, carrying the forgotten trash into our precious pools. I watched from the safety of a deep crevice as plastic swirled through the water like strange, harmful kelp. Emma arrived during a break in the gray clouds, her jacket spotted with rain. She gasped at the sight—our crystal pools clouded with debris, the little anemones struggling to breathe. \"This is my fault,\" she whispered, tears mixing with the salt spray. I emerged from my hiding place, my shell clicking against the wet rocks. She looked right at me, as if she finally understood that we had always been listening. The wind carried her promise like a prayer: \"I'll make this right.\" Truth, I've learned, often arrives with the turning of the tide.",
+          "illustration": {
+            "description": "Stormy autumn scene with Emma (straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks) in a rain-spotted jacket, looking distressed at polluted tide pools filled with swirling debris. The hermit crab narrator sits prominently on a rock facing her. Storm clouds gather overhead while sea creatures struggle in contaminated water.",
+            "alt": "Emma confronting the consequences of her lie as storms pollute the tide pools",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-8bfb175482/scene_3_1.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Winter's Promise",
+      "pages": [
+        {
+          "text": "The winter sun hung low and pale as Emma returned with helpers—her mother, her friends, even some grown-ups with special tools. I watched from my warm shell as they worked through the short day, pulling every piece of plastic from our pools, scrubbing the rocks clean with gentle brushes. Emma moved carefully around our homes, whispering apologies to each creature she passed. \"I should have told the truth from the beginning,\" she said to her mother. The water ran clear again. The anemones opened like tiny flowers welcoming spring. As the tide returned with its evening gift of fresh seawater, I saw Emma place a small wooden sign among the rocks: 'Protected Tide Pool Habitat.' She had learned what all of us shell-dwellers know—that home is not just where you live, but what you choose to protect. The smallest guardian can make the biggest difference.",
+          "illustration": {
+            "description": "Winter restoration scene showing Emma (straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks) working with helpers to clean the tide pools. Adults and children use gentle tools to remove debris. The water runs clear, anemones bloom, and Emma places a wooden protection sign. The hermit crab watches approvingly from a prominent rock. Pale winter sunlight creates a hopeful, scientific wonder atmosphere.",
+            "alt": "Emma and helpers restoring the tide pools to health while the hermit crab observes the transformation",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-8bfb175482/scene_4_1.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "environmental responsibility",
+      "honesty",
+      "consequences",
+      "redemption"
+    ],
+    "vocabulary": [
+      "tide pools",
+      "anemones",
+      "hermit crab",
+      "habitat",
+      "pollution",
+      "restoration"
+    ],
+    "concepts": [
+      "marine ecosystems",
+      "environmental protection",
+      "telling the truth",
+      "taking responsibility"
+    ],
+    "coverPrompt": {
+      "description": "A misty, mysterious tide pool scene with Emma (straight blonde hair in a ponytail, fair skin, bright blue eyes, rosy cheeks) crouching beside rocky pools filled with colorful sea creatures. A hermit crab sits prominently on a barnacle-covered rock in the foreground, appearing wise and observant. Scientific wonder fills the scene with magnifying glass effects showing tiny organisms.",
+      "alt": "Emma exploring tide pools with a hermit crab watching from nearby rocks"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Who is telling this story?",
+        "choices": [
+          "Emma",
+          "A hermit crab",
+          "Emma's mother"
+        ],
+        "correctIndex": 1,
+        "explanation": "The story is told by a wise hermit crab who watches Emma and notices things humans might miss."
+      },
+      {
+        "id": "q2",
+        "question": "What lie did Emma tell her mother?",
+        "choices": [
+          "That she cleaned up the beach trash",
+          "That she did her homework",
+          "That she fed the fish"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emma told her mother she had cleaned up the trash from the beach, but she actually left it behind a boulder."
+      },
+      {
+        "id": "q3",
+        "question": "What happened to the tide pools because of the trash?",
+        "choices": [
+          "They became more colorful",
+          "They got polluted and cloudy",
+          "They dried up"
+        ],
+        "correctIndex": 1,
+        "explanation": "The storms carried the trash into the tide pools, making the water cloudy and hard for sea creatures to breathe."
+      },
+      {
+        "id": "q4",
+        "question": "How did Emma fix the problem?",
+        "choices": [
+          "She moved to a new beach",
+          "She brought helpers to clean up",
+          "She covered it with sand"
+        ],
+        "correctIndex": 1,
+        "explanation": "Emma brought her mother, friends, and adults with special tools to clean every piece of plastic from the tide pools."
+      },
+      {
+        "id": "q5",
+        "question": "What did Emma place at the tide pools at the end?",
+        "choices": [
+          "A protection sign",
+          "More trash cans",
+          "A fence"
+        ],
+        "correctIndex": 0,
+        "explanation": "Emma placed a wooden sign that said 'Protected Tide Pool Habitat' to help keep the area safe."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "pools",
+            "distractors": [
+              "rocks",
+              "waves"
+            ]
+          },
+          {
+            "wordIndex": 32,
+            "correctWord": "creatures",
+            "distractors": [
+              "children",
+              "bottles"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "summer",
+            "distractors": [
+              "winter",
+              "spring"
+            ]
+          },
+          {
+            "wordIndex": 24,
+            "correctWord": "trash",
+            "distractors": [
+              "sand",
+              "water"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "emma"
+}
