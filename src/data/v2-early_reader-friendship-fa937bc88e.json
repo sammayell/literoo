@@ -13,7 +13,7 @@
   "wordCount": 970,
   "readingLevel": "Early Reader",
   "synopsis": "When a mysterious package arrives from an unknown sender, a small alien living in a treehouse village creates lists to solve the puzzle, leading to hilarious mishaps and an unexpected friendship.",
-  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-fa937bc88e/cover.png",
+  "coverImage": "",
   "chapters": [
     {
       "title": "The Package That Won't Stop Bouncing",
@@ -24,7 +24,7 @@
             "description": "A small purple alien with three big luminous yellow eyes, two antennae, smooth lavender skin, tiny arms, and a round friendly face chases a bouncing purple box across rope bridges between colorful treehouses. Bright sunny playground art style with primary colors, white space, and joyful energy. Scattered acorns and confused squirrels fill the scene.",
             "alt": "Zap chasing a bouncing package through the treehouse village",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-fa937bc88e/scene_1_1.png"
+            "src": ""
           }
         },
         {
@@ -33,7 +33,7 @@
             "description": "A small purple alien with three big luminous yellow eyes, two antennae, smooth lavender skin, tiny arms, and a round friendly face climbs up a massive tree trunk. The purple box is stuck in the tree's mossy green beard. Bright sunny playground art style with primary colors, white space, and joyful energy. The alien's eyes are blinking in different patterns like disco lights.",
             "alt": "Zap climbing Old Oak while the package sits in the tree's mossy beard",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-fa937bc88e/scene_1_2.png"
+            "src": ""
           }
         }
       ]
@@ -47,7 +47,7 @@
             "description": "A small purple alien with three big luminous yellow eyes, two antennae, smooth lavender skin, tiny arms, and a round friendly face clings to a doorframe while everything in the treehouse spins around. A purple box spins in the center like a tornado, with furniture, bowls, and a pet rock whirling around it. Bright sunny playground art style with primary colors, white space, and joyful energy.",
             "alt": "Zap's treehouse interior with everything spinning around the magical box",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-fa937bc88e/scene_2_1.png"
+            "src": ""
           }
         },
         {
@@ -56,7 +56,7 @@
             "description": "A small purple alien with three big luminous yellow eyes, two antennae, smooth lavender skin, tiny arms, and a round friendly face stands on a treehouse roof holding a glowing rainbow box. Above, a bright orange creature with four green eyes and tiny shimmering wings floats down on a parachute made of leaves. The treehouse village spreads out below with rope bridges and golden sunlight. Bright sunny playground art style with primary colors, white space, and joyful energy.",
             "alt": "Zap on the roof watching a new friend parachute down from the sky",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-fa937bc88e/scene_2_2.png"
+            "src": ""
           }
         }
       ]
@@ -70,7 +70,7 @@
             "description": "A small purple alien with three big luminous yellow eyes, two antennae, smooth lavender skin, tiny arms, and a round friendly face sits next to a bright orange creature with four green eyes and tiny shimmering wings on a treehouse roof. They're both holding notebooks and smiling. The rainbow-glowing box sits between them. Bright sunny playground art style with primary colors, white space, and joyful energy.",
             "alt": "Zap and Pip sitting together on the roof comparing their notebooks",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-fa937bc88e/scene_3_1.png"
+            "src": ""
           }
         },
         {
@@ -79,7 +79,7 @@
             "description": "A small purple alien with three big luminous yellow eyes, two antennae, smooth lavender skin, tiny arms, and a round friendly face and a bright orange creature with four green eyes and tiny shimmering wings sit cross-legged on a treehouse roof. They're writing together with magical crayons that create shimmering, glowing words. A pet rock sits nearby, and the opened rainbow box glows between them. The treehouse village spreads out below with rope bridges. Bright sunny playground art style with primary colors, white space, and joyful energy.",
             "alt": "Zap and Pip writing their shared list with magical glowing crayons",
             "layout": "full-page",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-fa937bc88e/scene_3_2.png"
+            "src": ""
           }
         }
       ]

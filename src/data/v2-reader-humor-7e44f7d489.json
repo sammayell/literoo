@@ -70,7 +70,8 @@
         {
           "description": "Aurora, a young aurora spirit with skin that shifts between green, violet, and pink, star-bright silver eyes, and a gown of flowing light, sits peacefully in the leather chair reading a book. Small orbs of light float gently around the cozy cabin room. Her expression is content and focused. Through the window, the real aurora dances in the sky. Cartoon style with soft lighting, candy bright colors, bouncy dynamic feel.",
           "alt": "Aurora reading peacefully with light orbs floating around the cabin",
-          "position": "after-paragraph-7"
+          "position": "after-paragraph-7",
+          "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-reader-humor-7e44f7d489/scene_5_1.png"
         }
       ]
     },

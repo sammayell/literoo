@@ -13,7 +13,7 @@
   "wordCount": 656,
   "readingLevel": "Kindergarten-1st Grade",
   "synopsis": "When the magical rain-maker in Grandmother Owl's attic stops working during a three-day storm, young raccoon Bramble and his forest family exchange notes and discoveries to solve the mystery and save their woodland home from drought.",
-  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-1481c286e1/cover.png",
+  "coverImage": "",
   "chapters": [
     {
       "title": "The Silence Where Music Should Be",
@@ -23,7 +23,7 @@
           "illustration": {
             "description": "A young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes tiptoeing through a dusty attic toward a large covered machine. Rain streaks down a round window, and dust motes float like golden sparkles in the dim light. Enchanted forest atmosphere with mystical shadows, rich greens and purples filtering through the window, Studio Ghibli inspired magical details.",
             "alt": "Bramble approaching the mysterious covered Rain-Maker in the attic",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-1481c286e1/scene_1_1.png"
+            "src": ""
           }
         },
         {
@@ -31,7 +31,7 @@
           "illustration": {
             "description": "A young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes writing a note at an old wooden desk. A paper crane made of birch bark floats near the window, glowing softly. The dusty attic is filled with floating golden sparkles, mystical atmosphere, Studio Ghibli inspired details with rich greens and purples, enchanted forest magic visible through rain-streaked windows.",
             "alt": "Bramble writing his first note while a magical paper crane prepares to fly",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-1481c286e1/scene_1_2.png"
+            "src": ""
           }
         }
       ]
@@ -44,7 +44,7 @@
           "illustration": {
             "description": "A young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes reading notes that float magically in the air around him. Spider silk gleams like silver thread, a smooth stone glows with carved letters, and mysterious messages drift through the dusty attic. Enchanted forest atmosphere with golden sparkles, mystical lighting, rich greens and purples, Studio Ghibli inspired magical details.",
             "alt": "Bramble surrounded by floating magical messages from forest friends",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-1481c286e1/scene_2_1.png"
+            "src": ""
           }
         },
         {
@@ -52,7 +52,7 @@
           "illustration": {
             "description": "A young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes holding a glowing feather with elegant writing. Through the attic window, a wise owl can be seen perched on a distant branch. The Rain-Maker looms nearby, its brass and crystal parts catching the storm light. Enchanted forest atmosphere with golden sparkles, mystical creatures, rich greens and purples, Studio Ghibli inspired magical details.",
             "alt": "Bramble reading Grandmother Owl's special message about becoming a Guardian",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-1481c286e1/scene_2_2.png"
+            "src": ""
           }
         }
       ]
@@ -65,7 +65,7 @@
           "illustration": {
             "description": "A young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes carefully pouring glowing liquids into the Rain-Maker machine. The brass funnel and crystal vessel glow with magical light, and the machine begins to emit soft golden sparkles. The dusty attic transforms with mystical energy, enchanted forest atmosphere, rich greens and purples, Studio Ghibli inspired magical machinery coming to life.",
             "alt": "Bramble feeding the Rain-Maker its magical ingredients as it awakens",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-1481c286e1/scene_3_1.png"
+            "src": ""
           }
         },
         {
@@ -73,7 +73,7 @@
           "illustration": {
             "description": "A young raccoon with a black mask, fluffy grey-and-black ringed tail, small paws, and mischievous amber eyes standing proudly beside the fully operational Rain-Maker. The machine glows with mystical energy, gears turning in impossible directions, while a brilliant rainbow arcs through the attic window. The dusty space is now filled with golden sparkles and floating notes, enchanted forest atmosphere, rich greens and purples, Studio Ghibli inspired magical triumph scene.",
             "alt": "Bramble as the new Guardian with the humming Rain-Maker and rainbow outside",
-            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fantasy-1481c286e1/scene_3_2.png"
+            "src": ""
           }
         }
       ]
