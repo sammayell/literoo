@@ -1,0 +1,139 @@
+{
+  "id": "v2-baby-bedtime-ebc1351754",
+  "title": "Tide Pool Gifts",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "bedtime",
+    "sounds"
+  ],
+  "wordCount": 83,
+  "readingLevel": "baby",
+  "synopsis": "A hermit crab notices seven tiny gifts that arrive each day to help a little boy whose special shell collection has broken. Through claps, stomps, and gentle sounds, the tide pool creatures work their quiet magic.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-ebc1351754/cover.png",
+  "chapters": [
+    {
+      "title": "Seven Days of Gifts",
+      "pages": [
+        {
+          "text": "I watch from my tide pool as the shells scatter across the rocks.",
+          "illustration": {
+            "description": "Broken shells scattered on wet rocky tide pools. A hermit crab observes from a small pool. Oscar, a boy with short brown wavy hair, fair skin, and warm hazel eyes, sits sadly nearby. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
+            "alt": "Broken shells on rocks with a hermit crab watching",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-ebc1351754/scene_1_1.png"
+          }
+        },
+        {
+          "text": "Oscar's collection box fell. The special shells can't be glued back together the usual way. But tiny gifts arrive each morning.",
+          "illustration": {
+            "description": "Oscar, a boy with short brown wavy hair, fair skin, and warm hazel eyes, holds an empty collection box. Small mysterious objects float toward the tide pools. Sea creatures watch. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
+            "alt": "A boy with an empty box as small gifts float toward tide pools",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "Monday brings clapping sea anemones. Tuesday, a stomping crab dance. Wednesday, wiggling kelp ribbons. Each day, Oscar listens to the tide pool sounds.",
+          "illustration": {
+            "description": "Oscar, a boy with short brown wavy hair, fair skin, and warm hazel eyes, watches sea anemones clap their tentacles. Crabs stomp tiny dances. Kelp sways and wiggles. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
+            "alt": "Sea creatures making music with clapping, stomping, and wiggling motions",
+            "layout": "full-page"
+          }
+        },
+        {
+          "text": "By Sunday, the hushed waves bring something better than shells. Oscar hums the tide pool song. His hands move like anemones. His feet dance like crabs.",
+          "illustration": {
+            "description": "Oscar, a boy with short brown wavy hair, fair skin, and warm hazel eyes, moves his arms like sea anemones and dances like crabs beside the peaceful tide pools. Gentle waves lap the rocks. All the sea creatures join in quiet harmony. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
+            "alt": "A boy dancing with tide pool creatures in harmonious movement",
+            "layout": "full-page"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "body awareness",
+      "nature's magic",
+      "finding comfort"
+    ],
+    "sleepCues": [
+      "gentle waves",
+      "hushed sounds",
+      "peaceful movement"
+    ],
+    "parentingNotes": "Encourages movement and body awareness through nature sounds and gentle actions.",
+    "coverPrompt": {
+      "description": "Oscar, a boy with short brown wavy hair, fair skin, and warm hazel eyes, kneels beside rocky tide pools at low tide. Sea anemones and hermit crabs peek from the pools. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
+      "alt": "A boy examining tide pools filled with sea creatures"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What sounds do the sea anemones make?",
+        "choices": [
+          "clapping",
+          "stomping"
+        ],
+        "correctIndex": 0,
+        "explanation": "The sea anemones clap their tentacles in the tide pool."
+      },
+      {
+        "id": "q2",
+        "question": "What do the crabs do?",
+        "choices": [
+          "wiggle",
+          "stomp"
+        ],
+        "correctIndex": 1,
+        "explanation": "The crabs do a stomping dance in the story."
+      },
+      {
+        "id": "q3",
+        "question": "How does Oscar move at the end?",
+        "choices": [
+          "like the sea creatures",
+          "very fast"
+        ],
+        "correctIndex": 0,
+        "explanation": "Oscar learns to move like the anemones and crabs he watches."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 2,
+        "blanks": [
+          {
+            "wordIndex": 3,
+            "correctWord": "clapping",
+            "distractors": [
+              "running",
+              "jumping"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "dance",
+            "distractors": [
+              "sleep",
+              "hide"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "oscar"
+}
