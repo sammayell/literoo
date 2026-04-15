@@ -24,6 +24,9 @@
             "alt": "A cardinal watching a girl in a snow globe surrounded by spring flowers",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-fea2cf0050/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-baby-bedtime-fea2cf0050/ch1_p1.mp3"
           }
         },
         {
@@ -33,6 +36,9 @@
             "alt": "Lily touching cherry blossom petals inside her snow globe world",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-fea2cf0050/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-baby-bedtime-fea2cf0050/ch1_p2.mp3"
           }
         },
         {
@@ -42,6 +48,9 @@
             "alt": "Lily gardening in her miniature summer world inside the snow globe",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-fea2cf0050/scene_1_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-baby-bedtime-fea2cf0050/ch1_p3.mp3"
           }
         },
         {
@@ -51,6 +60,9 @@
             "alt": "Lily catching falling autumn leaves inside the snow globe",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-fea2cf0050/scene_1_4.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-baby-bedtime-fea2cf0050/ch1_p4.mp3"
           }
         },
         {
@@ -60,6 +72,9 @@
             "alt": "Lily building a tiny snowman while the cardinal keeps watch over her snow globe world",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-fea2cf0050/scene_1_5.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-baby-bedtime-fea2cf0050/ch1_p5.mp3"
           }
         }
       ]
@@ -153,5 +168,7 @@
       }
     ]
   },
-  "_spec_character_name": "lily"
+  "_spec_character_name": "lily",
+  "narrationVoice": "piTKgcLEGmPE4e6mEKli",
+  "narrationComplete": true
 }

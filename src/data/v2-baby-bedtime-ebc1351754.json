@@ -25,6 +25,9 @@
             "alt": "Broken shells on rocks with a hermit crab watching",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-ebc1351754/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-baby-bedtime-ebc1351754/ch1_p1.mp3"
           }
         },
         {
@@ -33,6 +36,9 @@
             "description": "Oscar, a boy with short brown wavy hair, fair skin, and warm hazel eyes, holds an empty collection box. Small mysterious objects float toward the tide pools. Sea creatures watch. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
             "alt": "A boy with an empty box as small gifts float toward tide pools",
             "layout": "full-page"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-baby-bedtime-ebc1351754/ch1_p2.mp3"
           }
         },
         {
@@ -41,6 +47,9 @@
             "description": "Oscar, a boy with short brown wavy hair, fair skin, and warm hazel eyes, watches sea anemones clap their tentacles. Crabs stomp tiny dances. Kelp sways and wiggles. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
             "alt": "Sea creatures making music with clapping, stomping, and wiggling motions",
             "layout": "full-page"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-baby-bedtime-ebc1351754/ch1_p3.mp3"
           }
         },
         {
@@ -49,6 +58,9 @@
             "description": "Oscar, a boy with short brown wavy hair, fair skin, and warm hazel eyes, moves his arms like sea anemones and dances like crabs beside the peaceful tide pools. Gentle waves lap the rocks. All the sea creatures join in quiet harmony. Soft watercolor, dreamy purple and blue gradients, glowing stars, round sleepy faces, floating clouds, gentle moonlight, ethereal atmosphere, pastel palette.",
             "alt": "A boy dancing with tide pool creatures in harmonious movement",
             "layout": "full-page"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-baby-bedtime-ebc1351754/ch1_p4.mp3"
           }
         }
       ]
@@ -135,5 +147,7 @@
       }
     ]
   },
-  "_spec_character_name": "oscar"
+  "_spec_character_name": "oscar",
+  "narrationVoice": "piTKgcLEGmPE4e6mEKli",
+  "narrationComplete": true
 }
