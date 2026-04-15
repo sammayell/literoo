@@ -13,7 +13,7 @@
   "wordCount": 503,
   "readingLevel": "early_reader",
   "synopsis": "In this folkloric tale told in gentle rhyme, Ivy explores the tide pools and discovers that stars have fallen into the water, creating an impossible phenomenon. As she makes lists of worries, wishes, and clues, she learns from the tide pool creatures and finds wisdom in putting away distractions to truly see the magic around her.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-0d99794ab8/cover.png",
   "chapters": [
     {
       "title": "The Impossible Sky",
@@ -24,7 +24,7 @@
             "description": "Ivy with her short dark brown bob with bangs, fair skin, and big brown eyes kneels by tide pools that glow with fallen stars. The gouache painting shows thick brushstrokes in warm savanna colors, with textured painterly water reflecting starlight. Bold confident strokes depict the rocky coastline at twilight.",
             "alt": "Ivy kneeling by glowing tide pools with stars floating in the water",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-0d99794ab8/scene_1_1.png"
           }
         }
       ]
@@ -38,7 +38,7 @@
             "description": "Ivy with her short dark brown bob with bangs, fair skin, and big brown eyes sits cross-legged listening to a hermit crab and sea anemone. The gouache painting uses thick brushstrokes and warm savanna colors, showing expressive animals in textured painterly tide pools. Bold confident strokes create the rocky setting.",
             "alt": "Ivy talking with sea creatures by the starlit tide pools",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-0d99794ab8/scene_2_1.png"
           }
         }
       ]
@@ -52,7 +52,7 @@
             "description": "Ivy with her short dark brown bob with bangs, fair skin, and big brown eyes bends down to listen to a five-armed starfish. The gouache painting shows thick brushstrokes in warm savanna colors with orange sunset hues. Textured painterly tide pools reflect stars, painted with bold confident strokes.",
             "alt": "Ivy listening to a wise starfish in the magical tide pools",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-0d99794ab8/scene_3_1.png"
           }
         }
       ]
@@ -66,7 +66,7 @@
             "description": "Ivy with her short dark brown bob with bangs, fair skin, and big brown eyes sits peacefully by tide pools as stars rise back to the sky in streams of light. The gouache painting uses thick brushstrokes and warm savanna colors with golden grass tones. Bold confident strokes show the magical scene in textured painterly style.",
             "alt": "Ivy watching stars return to the sky from the tide pools in streams of light",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-animals-0d99794ab8/scene_4_1.png"
           }
         }
       ]
