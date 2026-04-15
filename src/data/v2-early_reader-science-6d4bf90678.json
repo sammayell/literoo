@@ -25,6 +25,9 @@
             "alt": "Ivy working on her rain machine at dawn in the desert oasis",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-6d4bf90678/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-6d4bf90678/ch1_p1.mp3"
           }
         }
       ]
@@ -39,6 +42,9 @@
             "alt": "Water droplets floating upward from Ivy's malfunctioning rain machine",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-6d4bf90678/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-6d4bf90678/ch2_p1.mp3"
           }
         }
       ]
@@ -53,6 +59,9 @@
             "alt": "Ivy investigating her machine with a magnifying glass while rainbow droplets float overhead",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-6d4bf90678/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-6d4bf90678/ch3_p1.mp3"
           }
         }
       ]
@@ -67,6 +76,9 @@
             "alt": "Ivy catching floating water droplets with joy in the afternoon sun",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-6d4bf90678/scene_4_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-6d4bf90678/ch4_p1.mp3"
           }
         }
       ]
@@ -81,6 +93,9 @@
             "alt": "Ivy sitting peacefully beside her machine at sunset with star-like water droplets above",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-science-6d4bf90678/scene_5_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-science-6d4bf90678/ch5_p1.mp3"
           }
         }
       ]
@@ -217,5 +232,7 @@
       }
     ]
   },
-  "_spec_character_name": "ivy"
+  "_spec_character_name": "ivy",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
