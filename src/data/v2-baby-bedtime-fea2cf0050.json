@@ -1,0 +1,157 @@
+{
+  "id": "v2-baby-bedtime-fea2cf0050",
+  "title": "Snow Globe Seasons",
+  "ageTier": "baby",
+  "ageRange": [
+    1,
+    2
+  ],
+  "genre": [
+    "bedtime"
+  ],
+  "wordCount": 102,
+  "readingLevel": "Pre-K",
+  "synopsis": "A tiny cardinal watches over a girl named Lily who lives inside a snow globe, observing how her miniature world transforms through all four seasons in ways only a bird's keen eyes can notice.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-fea2cf0050/cover.png",
+  "chapters": [
+    {
+      "title": "Through the Glass",
+      "pages": [
+        {
+          "text": "I perch on the rim of her world, small as a dewdrop, watching.",
+          "illustration": {
+            "description": "A tiny red cardinal perches on the edge of a snow globe, looking down at the miniature world inside. Through the curved glass, we see Lily with long curly auburn hair, fair skin with light freckles, and green eyes, standing among tiny spring flowers blooming around a small house. Soft watercolor, dreamy purple and blue gradients, glowing stars, gentle moonlight, ethereal atmosphere, pastel palette.",
+            "alt": "A cardinal watching a girl in a snow globe surrounded by spring flowers",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-fea2cf0050/scene_1_1.png"
+          }
+        },
+        {
+          "text": "When Lily wakes in her glass dome home, pink cherry blossoms have sprouted overnight where snow once lay. She touches each tiny petal with wonder.",
+          "illustration": {
+            "description": "Inside the snow globe, Lily with long curly auburn hair, fair skin with light freckles, and green eyes kneels beside delicate pink cherry blossom trees that have magically appeared. She gently touches the miniature petals with her fingertip, her face filled with amazement. The cardinal watches from outside the glass. Soft watercolor, dreamy purple and blue gradients, glowing stars, gentle moonlight, ethereal atmosphere, pastel palette.",
+            "alt": "Lily touching cherry blossom petals inside her snow globe world",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-fea2cf0050/scene_1_2.png"
+          }
+        },
+        {
+          "text": "By summer, golden sunlight streams through the glass. Lily tends a garden no bigger than a coin, each leaf perfect and green.",
+          "illustration": {
+            "description": "Warm golden light fills the snow globe as Lily with long curly auburn hair, fair skin with light freckles, and green eyes tends to an impossibly tiny garden. Miniature vegetables and flowers grow in neat rows around her feet. The cardinal tilts its head, observing her careful movements. Soft watercolor, dreamy purple and blue gradients, glowing stars, gentle moonlight, ethereal atmosphere, pastel palette.",
+            "alt": "Lily gardening in her miniature summer world inside the snow globe",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-fea2cf0050/scene_1_3.png"
+          }
+        },
+        {
+          "text": "Autumn brings maple leaves that spiral down like confetti. Lily catches them, each one smaller than my smallest feather.",
+          "illustration": {
+            "description": "Tiny orange and red maple leaves fall gently around Lily with long curly auburn hair, fair skin with light freckles, and green eyes as she reaches up to catch them in her cupped hands. The miniature leaves glow like jewels in the autumn light filtering through the snow globe. The cardinal watches this delicate dance. Soft watercolor, dreamy purple and blue gradients, glowing stars, gentle moonlight, ethereal atmosphere, pastel palette.",
+            "alt": "Lily catching falling autumn leaves inside the snow globe",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-fea2cf0050/scene_1_4.png"
+          }
+        },
+        {
+          "text": "Winter returns with the softest snow. Lily builds a snowman smaller than a button while I keep watch, guardian of her endless seasons.",
+          "illustration": {
+            "description": "Fresh snow blankets the inside of the globe as Lily with long curly auburn hair, fair skin with light freckles, and green eyes carefully builds a tiny snowman with pebble-sized snowballs. The cardinal remains perched on the rim, a faithful protector watching over this magical miniature world through the curved glass. Soft watercolor, dreamy purple and blue gradients, glowing stars, gentle moonlight, ethereal atmosphere, pastel palette.",
+            "alt": "Lily building a tiny snowman while the cardinal keeps watch over her snow globe world",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-baby-bedtime-fea2cf0050/scene_1_5.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "nature",
+      "seasons",
+      "wonder",
+      "observation"
+    ],
+    "vocabulary": [
+      "cardinal",
+      "dewdrop",
+      "cherry blossoms",
+      "confetti",
+      "guardian"
+    ],
+    "illustrations": 5,
+    "targetAudience": "babies and toddlers",
+    "coverPrompt": {
+      "description": "A magical snow globe sits on a windowsill, containing a miniature world with tiny trees and a small house. Inside, barely visible through the curved glass, is Lily with long curly auburn hair, fair skin with light freckles, and green eyes. A tiny red cardinal perches on the glass dome's edge, watching over the scene. Soft watercolor, dreamy purple and blue gradients, glowing stars, gentle moonlight, ethereal atmosphere, pastel palette.",
+      "alt": "A snow globe containing a tiny world with a girl inside, watched by a cardinal"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "Who watches over Lily's world?",
+        "choices": [
+          "A cardinal",
+          "A butterfly",
+          "A mouse"
+        ],
+        "correctIndex": 0,
+        "explanation": "A tiny cardinal perches on the snow globe and watches over Lily through all the seasons."
+      },
+      {
+        "id": "q2",
+        "question": "What appears when Lily wakes up in spring?",
+        "choices": [
+          "Cherry blossoms",
+          "Snowflakes",
+          "Raindrops"
+        ],
+        "correctIndex": 0,
+        "explanation": "Pink cherry blossoms sprouted overnight where snow once lay in Lily's tiny world."
+      },
+      {
+        "id": "q3",
+        "question": "What does Lily build in winter?",
+        "choices": [
+          "A snowman",
+          "A sandcastle",
+          "A treehouse"
+        ],
+        "correctIndex": 0,
+        "explanation": "Lily builds a snowman smaller than a button in the fresh winter snow."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 8,
+            "correctWord": "watching",
+            "distractors": [
+              "sleeping",
+              "flying"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 3,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "garden",
+            "distractors": [
+              "house",
+              "tree"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "lily"
+}
