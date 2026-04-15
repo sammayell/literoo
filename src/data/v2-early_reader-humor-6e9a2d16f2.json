@@ -1,0 +1,225 @@
+{
+  "id": "v2-early_reader-humor-6e9a2d16f2",
+  "title": "Raindrops on Glass",
+  "ageTier": "early_reader",
+  "ageRange": [
+    4,
+    6
+  ],
+  "genre": [
+    "humor",
+    "adventure"
+  ],
+  "wordCount": 438,
+  "readingLevel": "Grade 1-2",
+  "synopsis": "A fluffy cloud being named Nimbus discovers her friend Fern is leaving the greenhouse forever. Through scientific observations and gentle adventures among the rain-soaked plants, Nimbus learns about friendship, growing up, and protecting the special places we love.",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-6e9a2d16f2/cover.png",
+  "chapters": [
+    {
+      "title": "Field Notes: Day One",
+      "pages": [
+        {
+          "text": "Pitter-pat-PLOP! The rain drums on the greenhouse glass like tiny dancing feet. Field Observation #1: Something feels different today in our warm, steamy home. The air smells of wet earth and growing things - sniff-sniff-SNIFF! Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, drifts between the tall tropical plants. Drip-drop, drip-drop go the water droplets from the glass ceiling above.",
+          "illustration": {
+            "description": "Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, floats through a glass greenhouse thick with rain-soaked leaves. Water drops fall around her like musical notes. Tropical plants tower overhead with enormous glossy leaves. Exaggerated cartoon style with oversized expressions, candy bright colors, bouncy dynamic poses, and comedic slapstick energy.",
+            "alt": "Nimbus drifts through the rainy greenhouse observing water drops",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-6e9a2d16f2/scene_1_1.png"
+          }
+        },
+        {
+          "text": "\"Fern! Fern!\" calls Nimbus in her wispy, wind-chime voice. \"Where are you hiding?\" Rustle-rustle-SHAKE! A small green fern waves from the corner pot. But wait - Field Observation #2: Fern looks droopy today. Usually Fern stands up straight and proud, showing off every frond. Today she curls inward like she's keeping a secret. \"What's wrong, my leafy friend?\" whispers Nimbus, floating closer with a whoosh-whoosh-WHOOSH!",
+          "illustration": {
+            "description": "Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, peers worriedly at a small drooping fern in the corner of the greenhouse. The fern's fronds curl inward sadly. Rain streaks down the glass walls behind them. Exaggerated cartoon style with oversized worried expressions, rubber hose animation feel, and comedic poses.",
+            "alt": "Nimbus looks concerned at her drooping fern friend",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-6e9a2d16f2/scene_1_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Field Notes: Day Two",
+      "pages": [
+        {
+          "text": "Pitter-pat-PLOP! The same rain song, but today Nimbus notices NEW things! Field Observation #3: The big banana plant has THREE new baby leaves - pop-pop-POP! They unfurl like green umbrellas opening. Splash-splash-SPLASH! Nimbus spins her fluffy white body in happy circles, rainbow ribbon swirling behind her. But where is Fern?",
+          "illustration": {
+            "description": "Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, spins joyfully near a massive banana plant with huge unfurling leaves. Water droplets catch the light like diamonds throughout the lush greenhouse thick with rain-soaked leaves. Exaggerated cartoon style with squash and stretch motion lines, candy bright colors, and bouncy dynamic energy.",
+            "alt": "Nimbus discovers new leaves growing on the banana plant",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-6e9a2d16f2/scene_2_1.png"
+          }
+        },
+        {
+          "text": "There! In the same corner pot, but... Field Observation #4: Fern looks even MORE droopy. Sniffle-sniffle-SNIFF! \"Nimbus,\" whispers Fern in her crackly-leaf voice, \"I have to tell you something important. The greenhouse keeper is moving me tomorrow. To a NEW greenhouse. Far, far away.\" GASP! Nimbus's cotton-soft body puffs up with surprise. Her tiny blue-sky eyes grow as round as raindrops!",
+          "illustration": {
+            "description": "Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, gasps in shock with her fluffy body puffed out comically. The small fern looks very sad in her pot. The greenhouse setting is thick with rain-soaked leaves creating a cozy but melancholy atmosphere. Exaggerated cartoon style with oversized expressions and slapstick energy.",
+            "alt": "Nimbus gasps in shock as Fern reveals she's moving away",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-6e9a2d16f2/scene_2_2.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Field Notes: Day Three",
+      "pages": [
+        {
+          "text": "Pitter-pat-PLOP! Today the rain sounds different - sadder somehow. Field Observation #5: Even when friends drift apart, some things stay the same. The greenhouse still hums with life - buzz-buzz-BUZZ! New seedlings peek up from their pots like tiny green thumbs. Glub-glub-GLUB! The watering system still makes its morning music.",
+          "illustration": {
+            "description": "Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, floats thoughtfully through the greenhouse thick with rain-soaked leaves. Tiny new seedlings sprout from various pots around her, and the automatic watering system sprinkles water everywhere. Exaggerated cartoon style with gentle expressions and soft, bouncy movements.",
+            "alt": "Nimbus observes new life growing in the greenhouse despite her sadness",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-6e9a2d16f2/scene_3_1.png"
+          }
+        },
+        {
+          "text": "\"Wait!\" puffs Nimbus, her rainbow ribbon dancing with excitement. \"I know what to do!\" Zip-zoom-WHOOSH! She gathers dewdrops from the glass walls. Sprinkle-sprinkle-SPLASH! She waters the corner where Fern used to sit. \"Now other plants can grow here and keep our greenhouse home happy and healthy!\" Field Observation #6: Taking care of special places helps them last forever, even when we can't stay forever ourselves.",
+          "illustration": {
+            "description": "Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, joyfully sprinkles dewdrops onto the empty corner where Fern used to be. New tiny sprouts begin to appear in the soil. The greenhouse thick with rain-soaked leaves sparkles with hope and new growth everywhere. Exaggerated cartoon style with bright, candy colors, bouncy dynamic poses, and comedic but heartwarming energy.",
+            "alt": "Nimbus waters the spot where Fern lived, helping new plants grow",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-6e9a2d16f2/scene_3_2.png"
+          }
+        },
+        {
+          "text": "RING-A-LING-DING! The greenhouse door chimes. Fern waves one last frond-farewell as the keeper carries her away. But Nimbus doesn't feel heavy anymore. She floats light and proud, watching tiny green shoots push up through the soil. Pitter-pat-PLOP! The rain keeps drumming its happy song, and the greenhouse keeps growing, growing, growing! Final Field Observation: Sometimes the best way to keep a friendship is to help the place you shared together bloom forever and ever and ever!",
+          "illustration": {
+            "description": "Nimbus, a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind, waves goodbye through the glass as Fern is carried away. The greenhouse thick with rain-soaked leaves is now filled with even more new growth - baby plants sprouting everywhere in bright green abundance. Rain continues to fall gently on the glass roof. Exaggerated cartoon style with bittersweet but hopeful expressions, candy bright colors, and gentle dynamic movement.",
+            "alt": "Nimbus waves goodbye to Fern while new plants grow throughout their beloved greenhouse",
+            "layout": "full-page",
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-6e9a2d16f2/scene_3_3.png"
+          }
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "themes": [
+      "friendship",
+      "environmental stewardship",
+      "growth and change",
+      "finding hope in goodbyes"
+    ],
+    "vocabulary": [
+      "greenhouse",
+      "observation",
+      "tropical",
+      "fronds",
+      "seedlings",
+      "dewdrops"
+    ],
+    "illustrations": 6,
+    "educational": "Introduces scientific observation, plant growth, and environmental care through adventure and humor",
+    "coverPrompt": {
+      "description": "A glass greenhouse thick with rain-soaked leaves, with Nimbus - a fluffy cloud being with soft white cotton-like body, tiny blue-sky eyes, and a rainbow ribbon trailing behind - floating near a small green fern. Water droplets sparkle on the glass walls and tropical plants fill every corner. Exaggerated cartoon style with candy bright colors, bouncy dynamic poses, and slapstick energy.",
+      "alt": "Nimbus the cloud being floats in a lush, rainy greenhouse with her fern friend"
+    }
+  },
+  "quiz": {
+    "questions": [
+      {
+        "id": "q1",
+        "question": "What kind of creature is Nimbus?",
+        "choices": [
+          "A cloud being",
+          "A plant",
+          "A raindrop"
+        ],
+        "correctIndex": 0,
+        "explanation": "Nimbus is described as a fluffy cloud being with a cotton-like body and rainbow ribbon!"
+      },
+      {
+        "id": "q2",
+        "question": "Where does this story take place?",
+        "choices": [
+          "In a park",
+          "In a glass greenhouse",
+          "In the sky"
+        ],
+        "correctIndex": 1,
+        "explanation": "The whole story happens in a glass greenhouse thick with rain-soaked leaves."
+      },
+      {
+        "id": "q3",
+        "question": "Why is Fern feeling droopy?",
+        "choices": [
+          "She needs water",
+          "She's moving away",
+          "She's tired"
+        ],
+        "correctIndex": 1,
+        "explanation": "Fern tells Nimbus that she has to move to a new greenhouse far away."
+      },
+      {
+        "id": "q4",
+        "question": "How does Nimbus help after Fern leaves?",
+        "choices": [
+          "She cries",
+          "She waters the spot where Fern lived",
+          "She leaves too"
+        ],
+        "correctIndex": 1,
+        "explanation": "Nimbus waters Fern's old spot with dewdrops so new plants can grow there."
+      },
+      {
+        "id": "q5",
+        "question": "What sound does the rain make on the greenhouse?",
+        "choices": [
+          "Pitter-pat-PLOP!",
+          "Ring-a-ling-ding!",
+          "Buzz-buzz-BUZZ!"
+        ],
+        "correctIndex": 0,
+        "explanation": "The story says the rain drums 'Pitter-pat-PLOP!' on the greenhouse glass."
+      }
+    ]
+  },
+  "puzzle": {
+    "pages": [
+      {
+        "pageIndex": 1,
+        "blanks": [
+          {
+            "wordIndex": 15,
+            "correctWord": "greenhouse",
+            "distractors": [
+              "garden",
+              "house"
+            ]
+          },
+          {
+            "wordIndex": 28,
+            "correctWord": "fluffy",
+            "distractors": [
+              "heavy",
+              "small"
+            ]
+          }
+        ]
+      },
+      {
+        "pageIndex": 4,
+        "blanks": [
+          {
+            "wordIndex": 12,
+            "correctWord": "droopy",
+            "distractors": [
+              "happy",
+              "tall"
+            ]
+          },
+          {
+            "wordIndex": 25,
+            "correctWord": "moving",
+            "distractors": [
+              "staying",
+              "growing"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "_spec_character_name": "nimbus"
+}
