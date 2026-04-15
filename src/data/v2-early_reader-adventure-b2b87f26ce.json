@@ -23,6 +23,9 @@
             "description": "A treasure map style illustration on aged parchment showing a small flower fairy with iridescent dragonfly wings, pastel-pink hair swept up with a tiny leaf crown, luminous green eyes, and a petal-skirt dress perched on an oak tree. Below, snails race slowly across cobblestones marked with dotted trails. Compass roses mark the corners, and sepia tones with jewel accents color the scene.",
             "alt": "Zinnia watching snails race in the slow village",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-b2b87f26ce/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-adventure-b2b87f26ce/ch1_p1.mp3"
           }
         },
         {
@@ -31,6 +34,9 @@
             "description": "A treasure map style illustration showing a small flower fairy with iridescent dragonfly wings, pastel-pink hair swept up with a tiny leaf crown, luminous green eyes, and a petal-skirt dress hovering before a bright red door inside a giant mushroom school. The aged parchment background features compass roses and dotted trails leading to the mysterious door, with sepia tones and jewel accents highlighting the scene.",
             "alt": "Zinnia discovering the mysterious red door in the mushroom school",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-b2b87f26ce/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-adventure-b2b87f26ce/ch1_p2.mp3"
           }
         }
       ]
@@ -44,6 +50,9 @@
             "description": "A treasure map style illustration on aged parchment showing a small flower fairy with iridescent dragonfly wings, pastel-pink hair swept up with a tiny leaf crown, luminous green eyes, and a petal-skirt dress pressing her ear to a bright red door. The door now has a brass nameplate reading 'ROOM FOR FAST THINGS.' Compass roses and dotted trails decorate the borders with sepia tones and jewel accents.",
             "alt": "Zinnia listening at the door with the new nameplate",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-b2b87f26ce/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-adventure-b2b87f26ce/ch2_p1.mp3"
           }
         },
         {
@@ -52,6 +61,9 @@
             "description": "A treasure map style illustration showing a small flower fairy with iridescent dragonfly wings, pastel-pink hair swept up with a tiny leaf crown, luminous green eyes, and a petal-skirt dress flying over a village square. Racing snails and a slow-dripping fountain are marked with dotted trails on aged parchment. Compass roses mark the corners with sepia tones and jewel accents throughout.",
             "alt": "Zinnia flying over the slow village square, feeling curious",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-b2b87f26ce/scene_2_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-adventure-b2b87f26ce/ch2_p2.mp3"
           }
         }
       ]
@@ -65,6 +77,9 @@
             "description": "A treasure map style illustration on aged parchment showing a small flower fairy with iridescent dragonfly wings, pastel-pink hair swept up with a tiny leaf crown, luminous green eyes, and a petal-skirt dress meeting a silver-winged pixie at the red door. The pixie has lightning-quick eyes. Cookies are visible in the scene. Compass roses and dotted trails with sepia tones and jewel accents frame the meeting.",
             "alt": "Zinnia meeting Dash the pixie at the mysterious door",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-b2b87f26ce/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-adventure-b2b87f26ce/ch3_p1.mp3"
           }
         },
         {
@@ -73,6 +88,9 @@
             "description": "A treasure map style illustration showing the interior of Dash's room with a small flower fairy with iridescent dragonfly wings, pastel-pink hair swept up with a tiny leaf crown, luminous green eyes, and a petal-skirt dress alongside a silver-winged pixie. The room features a waterfall, self-turning books, color-changing paintings, and a flying bird. Aged parchment background with compass roses, dotted trails, sepia tones and jewel accents.",
             "alt": "Inside Dash's magical fast room with Zinnia and Dash talking",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-b2b87f26ce/scene_3_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-adventure-b2b87f26ce/ch3_p2.mp3"
           }
         }
       ]
@@ -86,6 +104,9 @@
             "description": "A treasure map style illustration on aged parchment showing a small flower fairy with iridescent dragonfly wings, pastel-pink hair swept up with a tiny leaf crown, luminous green eyes, and a petal-skirt dress having tea with a silver-winged pixie. They sit at a small table with teacups. Village snails watch curiously from the edges. Compass roses and dotted trails with sepia tones and jewel accents decorate the scene.",
             "alt": "Zinnia and Dash sharing tea while villagers watch curiously",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-b2b87f26ce/scene_4_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-adventure-b2b87f26ce/ch4_p1.mp3"
           }
         },
         {
@@ -94,6 +115,9 @@
             "description": "A treasure map style illustration showing a small flower fairy with iridescent dragonfly wings, pastel-pink hair swept up with a tiny leaf crown, luminous green eyes, and a petal-skirt dress sitting beside a silver-winged pixie in a mushroom garden. They watch racing snails while the red door stands open behind them. Aged parchment with compass roses, dotted trails, sepia tones and jewel accents complete the scene.",
             "alt": "Zinnia and Dash sitting together in the garden, watching snails race with the door open behind them",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-adventure-b2b87f26ce/scene_4_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-adventure-b2b87f26ce/ch4_p2.mp3"
           }
         }
       ]
@@ -225,5 +249,7 @@
       }
     ]
   },
-  "_spec_character_name": "zinnia"
+  "_spec_character_name": "zinnia",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
