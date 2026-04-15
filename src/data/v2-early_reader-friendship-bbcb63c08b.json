@@ -25,6 +25,9 @@
             "alt": "Waddles discovering the silent Shell of Tides surrounded by anxious fish",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-bbcb63c08b/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-friendship-bbcb63c08b/ch1_p1.mp3"
           }
         },
         {
@@ -34,6 +37,9 @@
             "alt": "Waddles swimming through the coral reef as frightened fish hide",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-bbcb63c08b/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-friendship-bbcb63c08b/ch1_p2.mp3"
           }
         }
       ]
@@ -48,6 +54,9 @@
             "alt": "Waddles discovering the starfish message on the Shell",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-bbcb63c08b/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-friendship-bbcb63c08b/ch2_p1.mp3"
           }
         },
         {
@@ -57,6 +66,9 @@
             "alt": "Waddles learning about the Singers from wise sea turtles",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-bbcb63c08b/scene_2_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-friendship-bbcb63c08b/ch2_p2.mp3"
           }
         }
       ]
@@ -71,6 +83,9 @@
             "alt": "Waddles clumsily swimming through the glowing coral caves",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-bbcb63c08b/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-friendship-bbcb63c08b/ch3_p1.mp3"
           }
         },
         {
@@ -80,6 +95,9 @@
             "alt": "Waddles finding the sleeping Singer in her sacred grotto",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-bbcb63c08b/scene_3_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-friendship-bbcb63c08b/ch3_p2.mp3"
           }
         }
       ]
@@ -94,6 +112,9 @@
             "alt": "Waddles singing to the gathered fish around the Shell",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-bbcb63c08b/scene_4_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-friendship-bbcb63c08b/ch4_p1.mp3"
           }
         },
         {
@@ -103,6 +124,9 @@
             "alt": "Waddles' song reaching the Singer and waking her up",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-bbcb63c08b/scene_4_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-friendship-bbcb63c08b/ch4_p2.mp3"
           }
         }
       ]
@@ -117,6 +141,9 @@
             "alt": "Waddles and the Singer creating the new current together",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-bbcb63c08b/scene_5_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-friendship-bbcb63c08b/ch5_p1.mp3"
           }
         },
         {
@@ -126,6 +153,9 @@
             "alt": "Waddles celebrating with all the reef creatures in the restored coral paradise",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-friendship-bbcb63c08b/scene_5_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-friendship-bbcb63c08b/ch5_p2.mp3"
           }
         }
       ]
@@ -249,5 +279,7 @@
       }
     ]
   },
-  "_spec_character_name": "waddles"
+  "_spec_character_name": "waddles",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }

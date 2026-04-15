@@ -25,6 +25,9 @@
             "alt": "Barnaby looking up at the golden market ribbons",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-03bfc654a6/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-03bfc654a6/ch1_p1.mp3"
           }
         },
         {
@@ -34,6 +37,9 @@
             "alt": "Barnaby realizing he's lost in the busy market",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-03bfc654a6/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-03bfc654a6/ch1_p2.mp3"
           }
         }
       ]
@@ -48,6 +54,9 @@
             "alt": "The tortoise giving Barnaby his first gift",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-03bfc654a6/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-03bfc654a6/ch2_p1.mp3"
           }
         },
         {
@@ -57,6 +66,9 @@
             "alt": "Barnaby holding the magical silver acorn",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-03bfc654a6/scene_2_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-03bfc654a6/ch2_p2.mp3"
           }
         }
       ]
@@ -71,6 +83,9 @@
             "alt": "Barnaby receiving gifts throughout the week",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-03bfc654a6/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-03bfc654a6/ch3_p1.mp3"
           }
         },
         {
@@ -80,6 +95,9 @@
             "alt": "All the vendors watching the silver star fall to Barnaby",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-03bfc654a6/scene_3_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-03bfc654a6/ch3_p2.mp3"
           }
         }
       ]
@@ -94,6 +112,9 @@
             "alt": "Barnaby reuniting with his parents at the festival",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-03bfc654a6/scene_4_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-03bfc654a6/ch4_p1.mp3"
           }
         },
         {
@@ -103,6 +124,9 @@
             "alt": "Barnaby sharing his gifts with other young animals",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-humor-03bfc654a6/scene_4_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-humor-03bfc654a6/ch4_p2.mp3"
           }
         }
       ]
@@ -233,5 +257,7 @@
       }
     ]
   },
-  "_spec_character_name": "barnaby"
+  "_spec_character_name": "barnaby",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
