@@ -24,6 +24,9 @@
             "alt": "Pip the bunny inside a snow globe with snowflakes floating upward around him",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b85ed496f3/scene_1_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-b85ed496f3/ch1_p1.mp3"
           }
         },
         {
@@ -33,6 +36,9 @@
             "alt": "Pip's whiskers twitching as snowflakes form geometric patterns",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b85ed496f3/scene_1_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-b85ed496f3/ch1_p2.mp3"
           }
         },
         {
@@ -42,6 +48,9 @@
             "alt": "Pip hopping between pine trees with trails of silver snow following him",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b85ed496f3/scene_1_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-b85ed496f3/ch1_p3.mp3"
           }
         },
         {
@@ -51,6 +60,9 @@
             "alt": "Pip floating in the center of a snow tornado with his ears flapping excitedly",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b85ed496f3/scene_1_4.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-b85ed496f3/ch1_p4.mp3"
           }
         }
       ]
@@ -65,6 +77,9 @@
             "alt": "Pip meeting a silver rabbit with a blue ribbon inside the snow globe",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b85ed496f3/scene_2_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-b85ed496f3/ch2_p1.mp3"
           }
         },
         {
@@ -74,6 +89,9 @@
             "alt": "Pip watching the silver rabbit create magnificent ice palaces and aurora lights",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b85ed496f3/scene_2_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-b85ed496f3/ch2_p2.mp3"
           }
         },
         {
@@ -83,6 +101,9 @@
             "alt": "Pip hiding behind crystal mushrooms with drooped ears while the silver rabbit performs magic",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b85ed496f3/scene_2_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-b85ed496f3/ch2_p3.mp3"
           }
         },
         {
@@ -92,6 +113,9 @@
             "alt": "Pip peeking around a crystal mushroom as the silver rabbit approaches in amber light",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b85ed496f3/scene_2_4.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-b85ed496f3/ch2_p4.mp3"
           }
         }
       ]
@@ -106,6 +130,9 @@
             "alt": "Pip approaching the silver rabbit in the center of the dome at dawn",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b85ed496f3/scene_3_1.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-b85ed496f3/ch3_p1.mp3"
           }
         },
         {
@@ -115,6 +142,9 @@
             "alt": "Pip and the silver rabbit positioned across from each other, beginning their combined magic",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b85ed496f3/scene_3_2.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-b85ed496f3/ch3_p2.mp3"
           }
         },
         {
@@ -124,6 +154,9 @@
             "alt": "Pip and the silver rabbit creating spiraling ice gardens with aurora light patterns",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b85ed496f3/scene_3_3.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-b85ed496f3/ch3_p3.mp3"
           }
         },
         {
@@ -133,6 +166,9 @@
             "alt": "Pip and the silver rabbit surrounded by singing crystal flowers and musical snowflakes",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b85ed496f3/scene_3_4.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-b85ed496f3/ch3_p4.mp3"
           }
         },
         {
@@ -142,6 +178,9 @@
             "alt": "Pip and the silver rabbit creating elaborate snow symphonies and ice architecture together",
             "layout": "full-page",
             "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-early_reader-fairy-tales-b85ed496f3/scene_3_5.png"
+          },
+          "narration": {
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/narration/v2-early_reader-fairy-tales-b85ed496f3/ch3_p5.mp3"
           }
         }
       ]
@@ -296,5 +335,7 @@
       }
     ]
   },
-  "_spec_character_name": "pip"
+  "_spec_character_name": "pip",
+  "narrationVoice": "EXAVITQu4vr4xnSDxMaL",
+  "narrationComplete": true
 }
