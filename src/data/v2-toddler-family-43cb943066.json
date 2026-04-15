@@ -13,7 +13,7 @@
   "wordCount": 542,
   "readingLevel": "Pre-K",
   "synopsis": "A small robot discovers a mysterious door on a storm-swept beach and learns about caring for unexpected visitors through a series of hilarious mishaps.",
-  "coverImage": "",
+  "coverImage": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-family-43cb943066/cover.png",
   "chapters": [
     {
       "title": "Day One: The Door Appears",
@@ -24,7 +24,7 @@
             "description": "A small friendly robot with a round chrome-blue body, glowing cyan screen-face with pixel eyes, stubby jointed arms, and tread-wheels discovers a mysterious wooden door standing between rocks on a pebble beach as storm clouds gather. Cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food.",
             "alt": "Bolt finding the mysterious door on the beach",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-family-43cb943066/scene_1_1.png"
           }
         },
         {
@@ -33,7 +33,7 @@
             "description": "A small friendly robot with a round chrome-blue body, glowing cyan screen-face with pixel eyes, stubby jointed arms, and tread-wheels tangled in seaweed on a pebble beach, with question marks on his screen-face as rain begins to fall. Cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food.",
             "alt": "Bolt tangled in seaweed looking confused",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-family-43cb943066/scene_1_2.png"
           }
         }
       ]
@@ -47,7 +47,7 @@
             "description": "A small friendly robot with a round chrome-blue body, glowing cyan screen-face with pixel eyes, stubby jointed arms, and tread-wheels slipping on wet pebbles as his umbrella flies away, while a tiny wet kitten peeks out from the mysterious door. Cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food.",
             "alt": "Bolt slipping in rain while kitten appears",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-family-43cb943066/scene_2_1.png"
           }
         },
         {
@@ -56,7 +56,7 @@
             "description": "A small friendly robot with a round chrome-blue body, glowing cyan screen-face with pixel eyes, stubby jointed arms, and tread-wheels spinning helplessly on slippery pebbles while a shivering kitten watches from the doorway as waves crash nearby. Cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food.",
             "alt": "Bolt's treads spinning uselessly while kitten shivers",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-family-43cb943066/scene_2_2.png"
           }
         }
       ]
@@ -70,7 +70,7 @@
             "description": "A small friendly robot with a round chrome-blue body, glowing cyan screen-face with pixel eyes, stubby jointed arms, and tread-wheels carefully approaching the door with a rope tied around his waist, offering cat treats to a grateful kitten. Cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food.",
             "alt": "Bolt safely reaching the kitten with treats",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-family-43cb943066/scene_3_1.png"
           }
         },
         {
@@ -79,7 +79,7 @@
             "description": "A small friendly robot with a round chrome-blue body, glowing cyan screen-face with pixel eyes, stubby jointed arms, and tread-wheels setting up a cozy home with food bowls and a bed while a happy kitten purrs nearby as sunlight streams through windows. Cozy kitchen home, family cooking together, warm yellows oranges, steam and flour, aprons, everyday love moments, dining table, family gathering, homemade food.",
             "alt": "Bolt caring for the kitten in their cozy home",
             "layout": "full-page",
-            "src": ""
+            "src": "https://mjaklmkvxdlizufgpssf.supabase.co/storage/v1/object/public/illustrations/v2-toddler-family-43cb943066/scene_3_2.png"
           }
         }
       ]
