@@ -16,6 +16,8 @@ import { isSubscribed } from "@/lib/subscription";
 import { isChallengeBook, getChallengeDayForBook, markDayComplete } from "@/lib/challenge";
 import { UpgradePrompt } from "@/components/paywall/UpgradePrompt";
 import { fireConfetti } from "@/lib/confetti";
+import QuizMode from "@/components/quiz/QuizMode";
+import PuzzleMode from "@/components/puzzle/PuzzleMode";
 
 // Flatten book into pages for the reader
 interface ReaderPage {
@@ -486,6 +488,51 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
 
   if (!hasCheckedAccess) {
     return <div className="w-screen h-screen bg-white" />;
+  }
+
+  // Quiz mode — render QuizMode with a back button
+  if (readerMode === "quiz" && book.quiz) {
+    return (
+      <div className="min-h-screen bg-stone-50">
+        <div className="max-w-2xl mx-auto p-4">
+          <button
+            onClick={() => setReaderMode("read")}
+            className="mb-4 inline-flex items-center gap-2 text-sm text-stone-600 hover:text-stone-900 font-medium"
+          >
+            ← Back to book
+          </button>
+          <QuizMode quiz={book.quiz} bookId={book.id} />
+        </div>
+      </div>
+    );
+  }
+
+  // Puzzle mode — render PuzzleMode with a back button
+  if (readerMode === "puzzle" && book.puzzle) {
+    // Collect page texts for the puzzle to reference
+    const pageTexts: string[] = [];
+    for (const ch of book.chapters) {
+      if (ch.pages) {
+        for (const p of ch.pages) {
+          pageTexts.push(p.text || "");
+        }
+      } else if (ch.content) {
+        pageTexts.push(ch.content);
+      }
+    }
+    return (
+      <div className="min-h-screen bg-stone-50">
+        <div className="max-w-2xl mx-auto p-4">
+          <button
+            onClick={() => setReaderMode("read")}
+            className="mb-4 inline-flex items-center gap-2 text-sm text-stone-600 hover:text-stone-900 font-medium"
+          >
+            ← Back to book
+          </button>
+          <PuzzleMode puzzle={book.puzzle} bookId={book.id} pageTexts={pageTexts} />
+        </div>
+      </div>
+    );
   }
 
   return (
@@ -1070,28 +1117,32 @@ export function BookReaderClient({ book, isFree = true }: { book: Book; isFree?:
         ))}
       </div>
 
-      {/* Tap zones */}
-      <div
-        className="tap-zone tap-zone-prev"
-        onClick={prevPage}
-        role="button"
-        aria-label="Previous page"
-      />
-      <div
-        className="tap-zone tap-zone-menu"
-        onClick={() => {
-          setShowUI((prev) => !prev);
-          setShowSettings(false);
-        }}
-        role="button"
-        aria-label="Toggle menu"
-      />
-      <div
-        className="tap-zone tap-zone-next"
-        onClick={nextPage}
-        role="button"
-        aria-label="Next page"
-      />
+      {/* Tap zones — disabled on the completion page so buttons are clickable */}
+      {pages[currentPage]?.type !== "completion" && (
+        <>
+          <div
+            className="tap-zone tap-zone-prev"
+            onClick={prevPage}
+            role="button"
+            aria-label="Previous page"
+          />
+          <div
+            className="tap-zone tap-zone-menu"
+            onClick={() => {
+              setShowUI((prev) => !prev);
+              setShowSettings(false);
+            }}
+            role="button"
+            aria-label="Toggle menu"
+          />
+          <div
+            className="tap-zone tap-zone-next"
+            onClick={nextPage}
+            role="button"
+            aria-label="Next page"
+          />
+        </>
+      )}
 
       {/* Floating navigation hint overlay — shows on first content page */}
       {showNavHint && currentPage === 1 && (
